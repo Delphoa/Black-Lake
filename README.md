@@ -1,6 +1,6 @@
 ﻿# Black Lake
 
-`Black-Lake` is a private research repository for processed knowledge artifacts. It is the companion knowledge layer to raw source/data repositories such as `Delphoa-Labs/Black-Lake-Data`: data is collected and staged elsewhere, then processed, synthesized, reviewed, and deposited here as durable research records.
+`Black-Lake` is a curated research repository for processed knowledge artifacts. It is the companion knowledge layer to raw source/data repositories such as `Delphoa-Labs/Black-Lake-Data`: data is collected and staged elsewhere, then processed, synthesized, reviewed, and deposited here as durable research records.
 
 This repository is intended for source-grounded knowledge artifacts, research reports, manuscript reviews, implementation notes, preserved cold-storage assets, and structured records that should remain useful to future agents and human reviewers.
 
