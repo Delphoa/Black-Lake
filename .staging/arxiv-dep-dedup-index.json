@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260710-Self Learned IDC",
+        ".lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md",
+        ".logs/20260710-Arxiv-Self-Learned-IDC-LOG.md",
+        ".logs/20260710-Arxiv-Self-Learned-IDC-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Self-Learned-IDC-20260710/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2110.12359",
+      "arxiv_id": "2110.12359",
+      "commit_or_pr": "",
+      "deposit_date": "20260710",
+      "doi": "10.48550/arXiv.2110.12359",
+      "normalized_title": "self-learned intelligence for integrated decision and control of automated vehicles at signalized intersections",
+      "notes": "Cache miss backfilled from public arXiv HTML/source; no source files redistributed; direct commit reference reported after submission.",
+      "slug": "Self-Learned-IDC",
+      "source_urls": [
+        "https://arxiv.org/abs/2110.12359",
+        "https://arxiv.org/e-print/2110.12359",
+        "https://arxiv.org/pdf/2110.12359",
+        "https://doi.org/10.48550/arXiv.2110.12359"
+      ],
+      "status": "deposited"
+    }
+  ],
+  "schema_version": "1.0",
+  "updated_date": "2026-07-10"
+}
