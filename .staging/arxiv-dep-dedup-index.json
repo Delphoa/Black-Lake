@@ -23,8 +23,33 @@
         "https://doi.org/10.48550/arXiv.2110.12359"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260711-SSP Oriented Detection",
+        ".lake-data/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md",
+        ".logs/20260711-Arxiv-SSP-Oriented-Detection-LOG.md",
+        ".logs/20260711-Arxiv-SSP-Oriented-Detection-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SSP-Oriented-Detection-20260711/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.10601",
+      "arxiv_id": "2506.10601",
+      "commit_or_pr": "",
+      "deposit_date": "20260711",
+      "doi": "10.1016/j.patcog.2026.114079",
+      "normalized_title": "semantic-decoupled spatial partition guided point-supervised oriented object detection",
+      "notes": "Initial cache miss; public arXiv HTML/source backfill succeeded; PDF text unavailable; no source files redistributed; result discrepancies preserved; commit reference reported after submission.",
+      "slug": "SSP-Oriented-Detection",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.10601",
+        "https://arxiv.org/e-print/2506.10601",
+        "https://arxiv.org/html/2506.10601",
+        "https://doi.org/10.1016/j.patcog.2026.114079",
+        "https://github.com/AntXinyuan/SSP"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-10"
+  "updated_date": "2026-07-11"
 }
