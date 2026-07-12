@@ -143,8 +143,32 @@
         "https://github.com/AntXinyuan/SSP"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260712-Global NS Existence",
+        ".lake-data/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md",
+        ".logs/20260712-Arxiv-Global-NS-Existence-LOG.md",
+        ".logs/20260712-Arxiv-Global-NS-Existence-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Global-NS-Existence-20260712/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2102.09229",
+      "arxiv_id": "2102.09229v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260712",
+      "doi": "10.1007/s00205-022-01790-4",
+      "normalized_title": "global existence of strong and weak solutions to 2d compressible navier-stokes system in bounded domains with large data and vacuum",
+      "notes": "Initial cache miss; local missing-only pypdf extraction produced PDF text; no source files redistributed; proof reviewed structurally but not formally verified; direct commit reference reported after submission.",
+      "slug": "Global-NS-Existence",
+      "source_urls": [
+        "https://arxiv.org/abs/2102.09229",
+        "https://arxiv.org/pdf/2102.09229",
+        "https://doi.org/10.48550/arXiv.2102.09229",
+        "https://doi.org/10.1007/s00205-022-01790-4"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-11"
+  "updated_date": "2026-07-12"
 }
