@@ -1,6 +1,101 @@
 {
   "entries": [
     {
+      "arxiv_base_id": "2601.04973",
+      "arxiv_id": "2601.04973",
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260708-ConMax Reasoning",
+        ".logs/20260708-Arxiv-ConMax-LOG.md",
+        ".reports/BL-Arxiv-ConMax-20260708/Report-Mark.md"
+      ],
+      "commit_or_pr": "",
+      "deposit_date": "20260708",
+      "doi": "",
+      "normalized_title": "ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning",
+      "notes": "Initialized from existing public Arxiv DEP artifacts.",
+      "slug": "ConMax",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.04973"
+      ],
+      "status": "deposited"
+    },
+    {
+      "arxiv_base_id": "2311.08543",
+      "arxiv_id": "2311.08543",
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260709-2D-RC OTFS",
+        ".logs/20260709-Arxiv-2D-RC-OTFS-LOG.md",
+        ".reports/BL-Arxiv-2D-RC-OTFS-20260709/Report-Mark.md"
+      ],
+      "commit_or_pr": "",
+      "deposit_date": "20260709",
+      "doi": "",
+      "normalized_title": "2D-RC: Two-Dimensional Neural Network Approach for OTFS Symbol Detection",
+      "notes": "Initialized from existing public Arxiv DEP artifacts.",
+      "slug": "2D-RC-OTFS",
+      "source_urls": [
+        "https://arxiv.org/abs/2311.08543"
+      ],
+      "status": "deposited"
+    },
+    {
+      "arxiv_base_id": "2408.04556",
+      "arxiv_id": "2408.04556",
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260709-BA-LoRA Bias",
+        ".logs/20260709-Arxiv-BA-LoRA-Bias-LOG.md",
+        ".reports/BL-Arxiv-BA-LoRA-Bias-20260709/Report-Mark.md"
+      ],
+      "commit_or_pr": "",
+      "deposit_date": "20260709",
+      "doi": "",
+      "normalized_title": "BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models",
+      "notes": "Initialized from existing public Arxiv DEP artifacts.",
+      "slug": "BA-LoRA-Bias",
+      "source_urls": [
+        "https://arxiv.org/abs/2408.04556"
+      ],
+      "status": "deposited"
+    },
+    {
+      "arxiv_base_id": "2606.30683",
+      "arxiv_id": "2606.30683",
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260709-Fermat Difference",
+        ".logs/20260709-Arxiv-Fermat-Difference-LOG.md",
+        ".reports/BL-Arxiv-Fermat-Difference-20260709/Report-Mark.md"
+      ],
+      "commit_or_pr": "",
+      "deposit_date": "20260709",
+      "doi": "",
+      "normalized_title": "Finite Order Transcendental Entire Solutions of Coupled Fermat-Type Difference Equations in Several Complex Variables",
+      "notes": "Initialized from existing public Arxiv DEP artifacts.",
+      "slug": "Fermat-Difference",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.30683"
+      ],
+      "status": "deposited"
+    },
+    {
+      "arxiv_base_id": "1804.07152",
+      "arxiv_id": "1804.07152",
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260709-SANE Embeddings",
+        ".logs/20260709-Arxiv-SANE-LOG.md",
+        ".reports/BL-Arxiv-SANE-20260709/Report-Mark.md"
+      ],
+      "commit_or_pr": "",
+      "deposit_date": "20260709",
+      "doi": "",
+      "normalized_title": "Scalable attribute-aware network embedding with locality",
+      "notes": "Initialized from existing public Arxiv DEP artifacts.",
+      "slug": "SANE",
+      "source_urls": [
+        "https://arxiv.org/abs/1804.07152"
+      ],
+      "status": "deposited"
+    },
+    {
       "artifact_paths": [
         ".lake-data/DEP-E-20260710-Self Learned IDC",
         ".lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md",
