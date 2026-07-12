@@ -1,13 +1,13 @@
 {
   "entries": [
     {
-      "arxiv_base_id": "2601.04973",
-      "arxiv_id": "2601.04973",
       "artifact_paths": [
         ".lake-data/DEP-E-20260708-ConMax Reasoning",
         ".logs/20260708-Arxiv-ConMax-LOG.md",
         ".reports/BL-Arxiv-ConMax-20260708/Report-Mark.md"
       ],
+      "arxiv_base_id": "2601.04973",
+      "arxiv_id": "2601.04973",
       "commit_or_pr": "",
       "deposit_date": "20260708",
       "doi": "",
@@ -20,13 +20,13 @@
       "status": "deposited"
     },
     {
-      "arxiv_base_id": "2311.08543",
-      "arxiv_id": "2311.08543",
       "artifact_paths": [
         ".lake-data/DEP-E-20260709-2D-RC OTFS",
         ".logs/20260709-Arxiv-2D-RC-OTFS-LOG.md",
         ".reports/BL-Arxiv-2D-RC-OTFS-20260709/Report-Mark.md"
       ],
+      "arxiv_base_id": "2311.08543",
+      "arxiv_id": "2311.08543",
       "commit_or_pr": "",
       "deposit_date": "20260709",
       "doi": "",
@@ -39,13 +39,13 @@
       "status": "deposited"
     },
     {
-      "arxiv_base_id": "2408.04556",
-      "arxiv_id": "2408.04556",
       "artifact_paths": [
         ".lake-data/DEP-E-20260709-BA-LoRA Bias",
         ".logs/20260709-Arxiv-BA-LoRA-Bias-LOG.md",
         ".reports/BL-Arxiv-BA-LoRA-Bias-20260709/Report-Mark.md"
       ],
+      "arxiv_base_id": "2408.04556",
+      "arxiv_id": "2408.04556",
       "commit_or_pr": "",
       "deposit_date": "20260709",
       "doi": "",
@@ -58,13 +58,13 @@
       "status": "deposited"
     },
     {
-      "arxiv_base_id": "2606.30683",
-      "arxiv_id": "2606.30683",
       "artifact_paths": [
         ".lake-data/DEP-E-20260709-Fermat Difference",
         ".logs/20260709-Arxiv-Fermat-Difference-LOG.md",
         ".reports/BL-Arxiv-Fermat-Difference-20260709/Report-Mark.md"
       ],
+      "arxiv_base_id": "2606.30683",
+      "arxiv_id": "2606.30683",
       "commit_or_pr": "",
       "deposit_date": "20260709",
       "doi": "",
@@ -77,13 +77,13 @@
       "status": "deposited"
     },
     {
-      "arxiv_base_id": "1804.07152",
-      "arxiv_id": "1804.07152",
       "artifact_paths": [
         ".lake-data/DEP-E-20260709-SANE Embeddings",
         ".logs/20260709-Arxiv-SANE-LOG.md",
         ".reports/BL-Arxiv-SANE-20260709/Report-Mark.md"
       ],
+      "arxiv_base_id": "1804.07152",
+      "arxiv_id": "1804.07152",
       "commit_or_pr": "",
       "deposit_date": "20260709",
       "doi": "",
@@ -167,8 +167,31 @@
         "https://doi.org/10.1007/s00205-022-01790-4"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260713-PAC Confidence",
+        ".lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md",
+        ".logs/20260713-Arxiv-PAC-Confidence-LOG.md",
+        ".reports/BL-Arxiv-PAC-Confidence-20260713/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2011.00716",
+      "arxiv_id": "2011.00716",
+      "commit_or_pr": "",
+      "deposit_date": "20260713",
+      "doi": "10.48550/arXiv.2011.00716",
+      "normalized_title": "PAC Confidence Predictions for Deep Neural Network Classifiers",
+      "notes": "Private pypdf extraction succeeded; no source files redistributed; public arXiv and OpenReview records verified; direct commit reference reported after submission.",
+      "slug": "PAC-Confidence",
+      "source_urls": [
+        "https://arxiv.org/abs/2011.00716",
+        "https://arxiv.org/html/2011.00716",
+        "https://arxiv.org/pdf/2011.00716",
+        "https://doi.org/10.48550/arXiv.2011.00716"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-12"
+  "updated_date": "2026-07-13"
 }
