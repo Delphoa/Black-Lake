@@ -231,8 +231,30 @@
         "https://github.com/ucsb-seclab/sailfish"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents",
+        ".lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md",
+        ".logs/20260714-Arxiv-CogEvo-Edu-LOG.md",
+        ".reports/BL-Arxiv-CogEvo-Edu-20260714/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.00331",
+      "arxiv_id": "2512.00331",
+      "commit_or_pr": "",
+      "deposit_date": "20260714",
+      "doi": "10.1109/CSCWD68734.2026.11582082",
+      "normalized_title": "CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System",
+      "notes": "",
+      "slug": "CogEvo-Edu",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.00331",
+        "https://arxiv.org/html/2512.00331",
+        "https://doi.org/10.1109/CSCWD68734.2026.11582082"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-13"
+  "updated_date": "2026-07-14"
 }

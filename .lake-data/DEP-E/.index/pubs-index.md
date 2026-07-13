@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Coverage at creation: **86 publications across 36 DEP-E entries** (82 arXiv records and 4 other research publications).
+- Coverage at creation: **87 publications across 37 DEP-E entries** (83 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against the arXiv API on 2026-07-13; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -278,6 +278,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data* | Ofir Arviv; Kristjan Greenewald; Yotam Perlitz; Hadar Mulian; Michal Shmueli-Scheuer; Leshem Choshen | [arXiv:2607.08522](https://arxiv.org/abs/2607.08522) |
 | *Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration* | Amir Asiaee; Kaveh Aryan | [arXiv:2607.08122](https://arxiv.org/abs/2607.08122) |
 | *Works on My QPU: Reproducibility in Quantum Computing Research* | Dominik Köster; Maja Franz; Benjamin Zec; Nicole Hoess; Ralf Ramsauer; Wolfgang Mauerer | [arXiv:2607.08348](https://arxiv.org/abs/2607.08348) |
+
+## [DEP-E-20260714-CogEvo Edu Agents](../DEP-E-20260714-CogEvo%20Edu%20Agents/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System* | Yefeng Wu; Yuchen Song; Yecheng Zhao; Ling Wu; Shan Wan | [arXiv:2512.00331](https://arxiv.org/abs/2512.00331) |
 
 ## Entries without indexed research publications
 
