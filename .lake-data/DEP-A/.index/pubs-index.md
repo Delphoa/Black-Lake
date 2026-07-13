@@ -2,6 +2,14 @@
 
 This index attributes arXiv papers and other research publications preserved or substantively reviewed by entries in the `DEP-A` container.
 
+## [DEP-A-20260714-ConMax Confidence](../DEP-A-20260714-ConMax%20Confidence/README.md)
+
+Review status: substantively reviewed from the complete primary paper on 2026-07-14. The owning review artifact is [`conmax-confidence-intake-review.md`](../DEP-A-20260714-ConMax%20Confidence/conmax-confidence-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning* | Minda Hu; Zexuan Qiu; Zenan Xu; Kun Li; Bo Zhou; Irwin King | [arXiv:2601.04973v1](https://arxiv.org/abs/2601.04973v1) · [DOI](https://doi.org/10.48550/arXiv.2601.04973) |
+
 ## [DEP-A-20260714-LCLM Context Compression](../DEP-A-20260714-LCLM%20Context%20Compression/README.md)
 
 Review status: substantively reviewed on 2026-07-14. The owning review artifact is [`2606.09659-whitepaper-review.md`](../DEP-A-20260714-LCLM%20Context%20Compression/2606.09659-whitepaper-review.md).
