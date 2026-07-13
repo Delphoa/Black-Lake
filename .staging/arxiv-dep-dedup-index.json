@@ -170,6 +170,25 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E-20260713-AV Emotion Fusion",
+        ".logs/20260713-Arxiv-AV-Emotion-Fusion-LOG.md",
+        ".reports/BL-Arxiv-AV-Emotion-Fusion-20260713/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2006.08129",
+      "arxiv_id": "2006.08129",
+      "commit_or_pr": "",
+      "deposit_date": "20260713",
+      "doi": "",
+      "normalized_title": "Emotion Recognition in Audio and Video Using Deep Neural Networks",
+      "notes": "Private archive paper unit reviewed; no source files redistributed.",
+      "slug": "AV-Emotion-Fusion",
+      "source_urls": [
+        "https://arxiv.org/abs/2006.08129"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E-20260713-PAC Confidence",
         ".lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md",
         ".logs/20260713-Arxiv-PAC-Confidence-LOG.md",
