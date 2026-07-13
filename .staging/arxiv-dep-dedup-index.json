@@ -190,6 +190,28 @@
         "https://doi.org/10.48550/arXiv.2011.00716"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260713-SAILFISH Vetting",
+        ".logs/20260713-Arxiv-SAILFISH-Vetting-LOG.md",
+        ".logs/20260713-Arxiv-SAILFISH-Vetting-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SAILFISH-Vetting-20260713/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2104.08638",
+      "arxiv_id": "2104.08638v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260713",
+      "doi": "10.1109/SP46214.2022.9833721",
+      "normalized_title": "SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds",
+      "notes": "Uniform draw index 8874 of 75761; initial cache miss became partial via pypdf; no source files deposited; commit reference pending submission.",
+      "slug": "SAILFISH-Vetting",
+      "source_urls": [
+        "https://arxiv.org/abs/2104.08638",
+        "https://doi.org/10.1109/SP46214.2022.9833721",
+        "https://github.com/ucsb-seclab/sailfish"
+      ],
+      "status": "ready-for-submission"
     }
   ],
   "schema_version": "1.0",
