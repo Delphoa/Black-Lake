@@ -55,6 +55,13 @@
 - `.lake-data/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`
 - `.staging/arxiv-dep-dedup-index.json`
 
+## Submission
+
+- `Repository result`: Direct push to the default branch succeeded.
+- `Artifact commit`: https://github.com/Delphoa/Black-Lake/commit/7e651d7.
+- `Slack notification`: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1783923556974429.
+- `Blockers`: None. The released analyzer and experimental data were not executed, which remains a validation shortfall rather than a submission blocker.
+
 ## Next-Review Questions
 
 1. Does the released repository reproduce the paper's 89,853-contract aggregate results under its pinned Docker environment, including the reported timeout and error categories?

@@ -22,7 +22,7 @@
 | Related DEP synthesis | 15 minutes | 5.0 minutes | Complete | Exactly three repository entries and their cited primary arXiv records were inspected. |
 | Artifact drafting | 35 minutes | 22.0 minutes | Complete | Job log, phase log, Report-Mark, DEP README, and schema-complete manuscript were produced. |
 | Validation and dedup update | 12 minutes | 7.0 minutes | Complete | Required headings/counts, JSON, paths, attribution order, and public-safe content were checked. |
-| Commit, push, and Slack notification | 10 minutes | 3.0 minutes | Pending at draft time | Submission and channel notification follow final validation. |
+| Commit, push, and Slack notification | 10 minutes | 3.0 minutes | Complete | Direct default-branch push succeeded and the required channel notification was posted. |
 
 `Whole-job guidance`: The expected trajectory was approximately 153 minutes. The observed trajectory remained below that guidance without truncating the source-first paper review, limitations, released-artifact check, related-entry synthesis, or manuscript schema. Observed values are rounded public-safe elapsed estimates, not exact local timestamps.
 
@@ -48,7 +48,7 @@
 - `Related repository`: No matching ID or normalized title marker in Black-Lake-Data.
 - `Same-paper window`: No marker in active worktree records within 24 hours.
 - `Exclusions / reselections`: 0 / 0.
-- `Post-generation status`: Pointer added with repository-relative artifact paths, source URLs, date-only deposit marker, status, and notes.
+- `Post-submission status`: Pointer finalized as deposited with repository-relative artifact paths, source URLs, date-only deposit marker, primary artifact commit reference, and notes.
 
 ## Expected vs Observed Trajectory
 
@@ -67,3 +67,10 @@ No phase estimate was used as a reason to omit required headings, exact-count sy
 - The paper's corpus ends in 2020 and the prototype depends on historical Solidity/Slither behavior, limiting direct inference about current contracts.
 - SAILFISH explicitly does not claim soundness; unresolved external calls, inline assembly, exception/reversion behavior, loops, and coarse collection summaries remain important boundaries.
 - No source files were collected for redistribution, so the DEP contains generated analysis and public URLs only.
+
+## Submission Outcome
+
+- `Repository`: Delphoa/Black-Lake default branch.
+- `Artifact commit`: https://github.com/Delphoa/Black-Lake/commit/7e651d7.
+- `Slack notification`: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1783923556974429.
+- `Blockers`: None. Reproduction of the released analyzer and experimental data remains future work.

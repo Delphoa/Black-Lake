@@ -200,18 +200,18 @@
       ],
       "arxiv_base_id": "2104.08638",
       "arxiv_id": "2104.08638v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/7e651d7c52298d9c802dbc65f4ebec9d4610d78f",
       "deposit_date": "20260713",
       "doi": "10.1109/SP46214.2022.9833721",
       "normalized_title": "SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds",
-      "notes": "Uniform draw index 8874 of 75761; initial cache miss became partial via pypdf; no source files deposited; commit reference pending submission.",
+      "notes": "Uniform draw index 8874 of 75761; first draw eligible with zero reselections; initial cache miss became partial via pypdf; no source files deposited.",
       "slug": "SAILFISH-Vetting",
       "source_urls": [
         "https://arxiv.org/abs/2104.08638",
         "https://doi.org/10.1109/SP46214.2022.9833721",
         "https://github.com/ucsb-seclab/sailfish"
       ],
-      "status": "ready-for-submission"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
