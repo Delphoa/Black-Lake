@@ -40,8 +40,8 @@
 
 - `.logs/20260709-Arxiv-Fermat-Difference-LOG.md`
 - `.reports/BL-Arxiv-Fermat-Difference-20260709/Report-Mark.md`
-- `.lake-data/DEP-E-20260709-Fermat Difference/README.md`
-- `.lake-data/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260709-Fermat Difference/README.md`
+- `.lake-data/DEP-E/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md`
 
 ## Source Collection
 

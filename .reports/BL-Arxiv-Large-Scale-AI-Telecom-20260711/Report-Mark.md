@@ -39,15 +39,15 @@ The practical sections argue that LTMs should not directly control live networks
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
    - Relevance: This paper-level DEP grounds the selected white paper's physical/MAC-layer discussion in a concrete structure-aware online learner for OTFS symbol detection. Both emphasize adapting AI representations to wireless-domain geometry and changing channel conditions.
    - Source basis: The related manuscript's source metadata, executive summary, method, experiments, limitations, and evidence ledger were inspected.
 
-2. `.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
    - Relevance: This DEP covers self-hosted inference runtimes, memory policy, hardware compatibility, edge power constraints, privacy, and secure agent boundaries. Those concerns map directly to LTM size, latency, energy, workload placement, and hybrid edge/cloud deployment.
    - Source basis: The related manuscript's source metadata, evidence ledger, implementation analysis, constraints, and official runtime/research attributions were inspected.
 
-3. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
    - Relevance: This DEP treats state representation, constrained optimization, real-time latency, and simulation evidence as a control-safety interface. It concretizes the selected paper's recommendation that LTM-generated policies be tested in digital twins and enforced through established control methods.
    - Source basis: The related manuscript's source metadata, detailed method, 100-simulation results, limitations, and evidence ledger were inspected.
 
@@ -171,12 +171,12 @@ def placement_candidates(model_gb, p95_ms, contains_sensitive_data):
 - Source URL: https://www.o-ran.org/blog/o-ran-alliance-completed-its-specification-release-5-o-ran-r005
   - Applies to: current AI/ML workflow and security-control context.
   - Notes: Official O-RAN Release 5 page inspected.
-- Repository path: `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.

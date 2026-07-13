@@ -37,13 +37,13 @@ Evidence quality is mixed-high for describing the method and reported tables, bu
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`
    - `Relevance`: CAR reconstructs a full clothed avatar from one RGB image by surrounding sparse evidence with body, pose, normal, SDF, and hyper-network priors. SSP similarly recovers missing box extent/orientation from one point by combining geometric and semantic constraints.
    - `Source basis`: The related manuscript’s executive summary, method, evidence ledger, and limitations were inspected.
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
    - `Relevance`: VideoWeave injects geometry-aware latent structure to improve consistency without depending only on appearance. SSP decouples semantic maps and adds spatial geometry so pseudo boxes remain instance-consistent.
    - `Source basis`: The related manuscript’s executive summary, evidence ledger, geometry-latent mechanism, and reproducibility boundary were inspected.
-3. `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
    - `Relevance`: RRT-CBF constrains spatial search with explicit safe boundaries. SSP constrains region growth with partition boundaries, converting unconstrained expansion into auditable, locally valid regions.
    - `Source basis`: The related manuscript’s executive summary, mobile-robot method, evidence ledger, and boundary-condition analysis were inspected.
 
@@ -131,7 +131,7 @@ Production hardening would validate schemas, authenticate restricted manifests, 
 - Extraction preflight found no PDF backend. Local missing-only extraction produced metadata only; approved network fallback backfilled HTML and TeX-source text. Final cache status: `cached`; PDF text remained unavailable.
 - Exactly three related DEP entries are listed and used.
 - Synthesis Note counts: 3 potential implementations, 3 deeper relationship observations, 3 conceptual similarities, 3 MVP code mock-ups, 3 developer challenges, and 3 author challenges.
-- The schema-complete manuscript is `.lake-data/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`.
+- The schema-complete manuscript is `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`.
 - Public-safe validation excludes local absolute paths, usernames, machine names, workspace roots, local timezone labels, and exact local execution timestamps.
 - Source files collected for deposition: none. No `.source/` directory was created.
 
@@ -152,12 +152,12 @@ Production hardening would validate schemas, authenticate restricted manifests, 
 - Source URL: https://github.com/AntXinyuan/SSP
   - Applies to: code availability, commands, configs, license, and repository result context.
   - Notes: Official implementation inspected at the pinned commit; not executed.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
   - Applies to: CAR Avatar related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: VideoWeave related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: RRT-CBF related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.

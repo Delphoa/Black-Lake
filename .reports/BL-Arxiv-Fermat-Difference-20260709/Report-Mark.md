@@ -43,15 +43,15 @@ The downloaded TeX source contains one main theorem, six lemmas, and 45 bibliogr
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
    - Relevance: Both artifacts review source-first arXiv papers whose core contribution is a mathematical structure imposed on a multi-dimensional system. The overlap is formal-system modeling and classification, not domain identity.
    - Source basis: The related manuscript reviews OTFS delay-Doppler structure and mathematical detector formulation.
 
-2. `.lake-data/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
    - Relevance: SANE is a graph/embedding paper, but the concrete overlap is locality-driven structure: SANE aligns local topology and attributes, while the Fermat-difference paper uses shift periodicity and local growth relations to constrain global solution forms.
    - Source basis: The related manuscript documents locality, topology, and attribute-structure evidence from its arXiv source.
 
-3. `.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+3. `.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
    - Relevance: This entry includes quantum optimization and quantum chemistry sources where formal mathematical systems and evidence boundaries matter. The overlap is rigorous source-review of mathematical/scientific-computing claims, not complex-analysis content.
    - Source basis: The related manuscript preserves mathematical/scientific source threads and emphasizes evidence limits for formal claims.
 
@@ -132,7 +132,7 @@ def proof_step(label, uses, result):
 - Duplicate check: no prior same-paper markers found in `.logs`, `.reports`, `.lake-data`, or related repository search.
 - Selection type: targeted user-specified arXiv ID, not random.
 - Source files collected into DEP: none; local archive source files were not redistributed.
-- Output path set: `.logs`, `.reports`, and `.lake-data/DEP-E-20260709-Fermat Difference`.
+- Output path set: `.logs`, `.reports`, and `.lake-data/DEP-E/DEP-E-20260709-Fermat Difference`.
 - Public artifact sanitization: repository-relative paths and public URLs only; no local absolute paths or exact local execution timestamps.
 
 ## Attribution Block

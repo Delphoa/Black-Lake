@@ -12,11 +12,11 @@ Black Lake Arxiv DEP selected and reviewed one arXiv archive paper.
 - Duplicate/reselection count: 0.
 - 24-hour cutoff: 2026-07-08 date boundary.
 - Related DEP entries selected:
-  1. `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+  1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
   2. `Black-Lake-Data/.lake-data/DEP-20260626-Tech Intel 0103/daily_research_findings_2026-06-26_0103.md`
   3. `Black-Lake-Data/.lake-data/DEP-20260701-Tech Intel 0103/daily_research_findings_2026-07-01_0103.md`
 - Output Report-Mark: `.reports/BL-Arxiv-2D-RC-OTFS-20260709/Report-Mark.md`
-- Output DEP: `.lake-data/DEP-E-20260709-2D-RC OTFS`
+- Output DEP: `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS`
 - Validation notes: arXiv metadata, arXiv HTML, local archive readme, Black-Lake README, Black-Lake-Data README, and three related DEP entries were inspected. No source PDF or TeX source was collected into this repository.
 
 ## Next Reviewer Questions

@@ -38,12 +38,12 @@ The accepted paper was checked by arXiv ID, DOI, normalized title, and slug agai
 
 - `.logs/20260711-Arxiv-Irregular-Clipped-SR-LOG.md`
 - `.reports/BL-Arxiv-Irregular-Clipped-SR-20260711/Report-Mark.md`
-- `.lake-data/DEP-E-20260711-Irregular Clipped SR/README.md`
-- `.lake-data/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/README.md`
+- `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md` — signal detection for a structured wireless channel, with an architecture matched to channel geometry and numerical error-rate evaluation.
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md` — signal detection for a structured wireless channel, with an architecture matched to channel geometry and numerical error-rate evaluation.
 2. `Black-Lake-Data/.lake-data/DEP-20260625-Tech Intel 0102/daily_research_findings_2026-06-25_0102.md` — includes transformer-based maximum-likelihood decoding under several quantum noise models, linking learned decoding, error rates, and information-theoretic thresholds.
 3. `Black-Lake-Data/.lake-data/DEP-20260630-Tech Intel 0104/daily_research_findings_2026-06-30_0104.md` — includes sparse directed-graph recovery from linear diffusion observations, linking sparse inference, structured transforms, and constrained optimization.
 

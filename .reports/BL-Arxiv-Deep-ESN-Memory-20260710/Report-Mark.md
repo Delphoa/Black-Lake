@@ -3,7 +3,7 @@
 - Public run date: 2026-07-10
 - Selected paper: `Analysis of Memory Capacity for Deep Echo State Networks`
 - Stable identifier: `arXiv:1908.07063`
-- DEP path: `.lake-data/DEP-E-20260710-Deep ESN Memory`
+- DEP path: `.lake-data/DEP-E/DEP-E-20260710-Deep ESN Memory`
 - Source-file policy: no source files collected; public URLs and repository-relative references only.
 
 ## Source Metadata
@@ -44,10 +44,10 @@ The empirical section uses a NARMA time-series system and normalized root mean s
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
    - Relevance reason: direct reservoir-computing neighbor. The prior DEP reviews a two-dimensional reservoir-computing detector for OTFS wireless symbol detection; the selected paper provides a more foundational ESN memory-capacity and deep-architecture analysis.
    - Source basis: inspected manuscript metadata, method summary, and reservoir-computing tags.
-2. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
    - Relevance reason: both artifacts review structured time-series learning where model architecture encodes a domain prior instead of relying only on generic neural depth.
    - Source basis: inspected manuscript sections on time-series classification, compact physical layers, and memory/resource efficiency.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 1103/daily_research_findings_2026-07-07_1103.md`
@@ -157,10 +157,10 @@ def ledger_entry(step, architecture, retained_signal, dropped_signal, metric):
 - Source URL: https://doi.org/10.1109/ICMLA.2018.00072
   - Applies to: `Report-Mark.md` and `deep_esn_memory_manuscript.md`.
   - Notes: Related IEEE DOI recorded from arXiv metadata.
-- Source reference: `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+- Source reference: `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP-E artifact inspected for reservoir-computing overlap.
-- Source reference: `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+- Source reference: `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP-E artifact inspected for time-series and structured-dynamics overlap.
 - Source reference: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 1103/daily_research_findings_2026-07-07_1103.md`

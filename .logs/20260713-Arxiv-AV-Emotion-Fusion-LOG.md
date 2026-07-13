@@ -7,9 +7,9 @@
 - Public provenance: https://arxiv.org/abs/2006.08129, https://arxiv.org/html/2006.08129, and https://github.com/julieeF/CS231N-Project. A private archive PDF was inspected but is not redistributed.
 - Random method: `rg --files -g "*.pdf"`, parent-directory paper units, then a uniform `Get-Random` index. PDF candidates: 75,761; unique paper units: 75,761; zero-based selected index: 19,382.
 - Eligibility: Black Lake `.logs`, `.reports`, `.lake-data`, `.staging`, automation memory, and Black-Lake-Data were searched for the arXiv ID, exact title, and normalized topic. Exclusions: 0; reselections: 0; same-paper 24-hour marker: none; cutoff date: 2026-07-12.
-- Related DEP entries: `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`; `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`; `.lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- Related DEP entries: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`; `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`; `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
 - Report-Mark: `.reports/BL-Arxiv-AV-Emotion-Fusion-20260713/Report-Mark.md`.
-- DEP: `.lake-data/DEP-E-20260713-AV Emotion Fusion`.
+- DEP: `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion`.
 - Validation: the complete nine-page paper text, public arXiv full text, result table, limitations, and paper-declared code repository were inspected. Private extraction used `pypdf`; local HTML and source-package inputs were unavailable. Manuscript-schema, exact-count, code-syntax, inventory, staged-scope, and public-safety gates passed before submission. SciPy is declared but was not installed, so one mock-up's external import was not resolved.
 
 ## Questions for the Next Reviewer

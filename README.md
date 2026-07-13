@@ -25,10 +25,12 @@ All durable deposits must live under `.lake-data/` using one of three DEP classe
 Use this naming convention:
 
 ```text
-.lake-data/DEP-E-YYYYMMDD-Short Description
+.lake-data/DEP-E/DEP-E-YYYYMMDD-Short Description
 .lake-data/DEP-R-YYYYMMDD-Short Description
-.lake-data/DEP-A-YYYYMMDD-Short Description
+.lake-data/DEP-A/DEP-A-YYYYMMDD-Short Description
 ```
+
+See [`.lake-data/README.md`](.lake-data/README.md) for class-selection, filing, and publication-index maintenance rules.
 
 Requirements:
 
@@ -43,9 +45,9 @@ Requirements:
 Examples:
 
 ```text
-.lake-data/DEP-E-20260708-Agent Memory Study
+.lake-data/DEP-E/DEP-E-20260708-Agent Memory Study
 .lake-data/DEP-R-20260708-SEPCFG Paper
-.lake-data/DEP-A-20260708-Model Weights Index
+.lake-data/DEP-A/DEP-A-20260708-Model Weights Index
 ```
 
 ## Required DEP Contents
@@ -55,27 +57,24 @@ Each DEP directory must include a `README.md` with:
 1. An itemized list of every file and folder in the DEP entry.
 2. A summary of what each item is and why it matters.
 3. A paragraph explaining insights, relevance, notable relationships, or downstream review context.
-4. A final `## Attribution Block` listing all source URLs and source files.
+4. A final `## Attribution Block` listing all source URLs and any explicitly authorized source files.
 
-If a DEP includes a generated artifact such as a synthesis, manuscript report, extraction, index, dataset, or transformed document, include original source files whenever practical. Place original sources in `.source/` inside the DEP directory.
+If a DEP includes a generated artifact such as a synthesis, manuscript report, extraction, index, dataset, or transformed document, preserve source provenance through canonical public URLs and the Attribution Block. Source documents downloaded by arXiv or research-paper automations remain local and must not be committed. A `.source/` directory may be used only when a separate task explicitly authorizes source deposition and redistribution rights have been reviewed.
 
 ```text
-.lake-data/DEP-E-YYYYMMDD-Short Description/
+.lake-data/DEP-E/DEP-E-YYYYMMDD-Short Description/
   README.md
   generated-artifact.md
   extracted-data.json
-  .source/
-    001-original-paper.pdf
-    002-source-metadata.html
 ```
 
 Source standards:
 
-- Files in `.source/` must be named clearly enough to connect them to the generated artifact or README entry.
-- If the original document is the primary DEP entry, a separate `.source/` folder is not required.
+- Any explicitly authorized file in `.source/` must be named clearly enough to connect it to the generated artifact or README entry.
+- Do not create `.source/` for local-only arXiv or research-paper automation downloads.
 - If the entry references a public work without collecting a source file, include the URL in the item description and repeat it in the Attribution Block.
 - All source URLs must be annotated in the Attribution Block.
-- `.source/` documents must be listed in the Attribution Block.
+- Any explicitly authorized `.source/` documents must be listed in the Attribution Block.
 
 ## Attribution Block Format
 
@@ -87,9 +86,6 @@ Each DEP README must end with a block like this:
 - Source URL: https://example.com/source
   - Applies to: generated-artifact.md
   - Notes: Original public source used for the artifact.
-- Source file: .source/001-original-paper.pdf
-  - Applies to: generated-artifact.md
-  - Notes: Original PDF collected for provenance and review.
 ```
 
 ## DEP Commit Message Standard

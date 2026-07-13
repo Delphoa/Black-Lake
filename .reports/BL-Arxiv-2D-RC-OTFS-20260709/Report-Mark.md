@@ -42,7 +42,7 @@ Implementation relevance: 2D-RC is a candidate pattern for online, resource-awar
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
    - Reason selected: 2D-RC depends on online state adaptation and evidence from limited pilots; this DEP frames state, evidence replay, and monitoring as review objects in agent systems.
    - Source basis: Agent State Review source metadata and synthesis sections on persistent state, evidence replay, and runtime monitoring.
 
@@ -159,7 +159,7 @@ def rank_channel_edges(edges, signal_quality, trust_score):
 - Repository file: `Black-Lake-Data/README.md`
   - Applies to: related DEP repository layout and attribution expectations.
   - Notes: Live README read after fetch.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
   - Applies to: related state/evidence-control synthesis.
   - Notes: Related DEP entry inspected.
 - Repository file: `Black-Lake-Data/.lake-data/DEP-20260626-Tech Intel 0103/daily_research_findings_2026-06-26_0103.md`

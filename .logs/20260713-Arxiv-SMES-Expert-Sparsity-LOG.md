@@ -35,14 +35,14 @@
 
 - `.logs/20260713-Arxiv-SMES-Expert-Sparsity-LOG.md`
 - `.reports/BL-Arxiv-SMES-Expert-Sparsity-20260713/Report-Mark.md`
-- `.lake-data/DEP-E-20260713-SMES Expert Sparsity/README.md`
-- `.lake-data/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/README.md`
+- `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`
 
 ## Related DEP Entries
 
 1. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260703-Tech Intel 0103` — ELDR connects expert-aware routing to serving latency and load-aware placement.
-2. `.lake-data/DEP-E-20260712-KDFlow LLM Distill` — separates sparse MoE inference from training workloads and measures throughput consequences.
-3. `.lake-data/DEP-E-20260712-LlamaCpp-Runtime` — records a topology-sensitive MoE quantization/runtime correction and the need for configuration-specific regression evidence.
+2. `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill` — separates sparse MoE inference from training workloads and measures throughput consequences.
+3. `.lake-data/DEP-E/DEP-E-20260712-LlamaCpp-Runtime` — records a topology-sensitive MoE quantization/runtime correction and the need for configuration-specific regression evidence.
 
 ## Next-Review Questions
 

@@ -55,16 +55,16 @@ Source claims above are paraphrased from E1–E4. Claims about transfer to curre
 
 ## Related DEP Entries
 
-1. [VideoWeave Geometry manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md)
-   - Repository path: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+1. [VideoWeave Geometry manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md)
+   - Repository path: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
    - Relevance: VideoWeave jointly models video and geometry latents, then distills the shared score field. VALUE's fusion and layer-wise probes offer a template for checking when geometry information enters, concentrates, or disappears.
    - Source basis: The related manuscript's inspected Executive Summary and Observations, grounded in its arXiv HTML evidence.
-2. [BA-LoRA Bias manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md)
-   - Repository path: `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+2. [BA-LoRA Bias manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md)
+   - Repository path: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
    - Relevance: BA-LoRA targets representation collapse, drift, and noisy inheritance using output-space regularizers. It broadens VALUE-style analysis from observing attention/embeddings to constraining behavior during adaptation.
    - Source basis: The related manuscript's inspected Executive Summary and Observations.
-3. [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md)
-   - Repository path: `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+3. [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md)
+   - Repository path: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
    - Relevance: HSD FTI-FDet combines coordinate attention, heterogeneous feature pathways, and self-distillation. Its ablations reinforce VALUE's finding that useful behavior is concentrated in structured subsets rather than uniformly distributed.
    - Source basis: The related manuscript's inspected Executive Summary and Observations.
 
@@ -176,12 +176,12 @@ These sketches use synthetic or aggregate inputs, avoid raw user data, and are i
 - Source URL: https://github.com/JizeCao/VALUE
   - Applies to: code-availability note only.
   - Notes: Declared by the paper but unavailable; no code inspected.
-- Repository source: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Repository-relative generated research artifact.
-- Repository source: `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Repository-relative generated research artifact.
-- Repository source: `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Repository-relative generated research artifact.

@@ -32,8 +32,8 @@ Outcome: selected, reviewed, and deposited one arXiv archive paper.
 ## Outputs
 
 - Report-Mark: `.reports/BL-Arxiv-SANE-20260709/Report-Mark.md`
-- DEP-E: `.lake-data/DEP-E-20260709-SANE Embeddings`
-- Manuscript: `.lake-data/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
+- DEP-E: `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings`
+- Manuscript: `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
 - Source files collected: none; public arXiv URLs and source-withheld notes are used instead.
 
 ## Validation Notes

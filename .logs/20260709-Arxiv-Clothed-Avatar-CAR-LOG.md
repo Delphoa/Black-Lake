@@ -32,8 +32,8 @@ Run date: 2026-07-09
 
 - Job log: `.logs/20260709-Arxiv-Clothed-Avatar-CAR-LOG.md`
 - Report-Mark: `.reports/BL-Arxiv-Clothed-Avatar-CAR-20260709/Report-Mark.md`
-- DEP README: `.lake-data/DEP-E-20260709-Clothed Avatar CAR/README.md`
-- DEP manuscript: `.lake-data/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`
+- DEP README: `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/README.md`
+- DEP manuscript: `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`
 
 ## Sources Inspected
 

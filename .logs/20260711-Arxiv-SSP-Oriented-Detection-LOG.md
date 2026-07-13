@@ -27,15 +27,15 @@ Evidence inspected included the local archive README/PDF presence, arXiv metadat
 - `.logs/20260711-Arxiv-SSP-Oriented-Detection-LOG.md`
 - `.logs/20260711-Arxiv-SSP-Oriented-Detection-PHASE-LOG.md`
 - `.reports/BL-Arxiv-SSP-Oriented-Detection-20260711/Report-Mark.md`
-- `.lake-data/DEP-E-20260711-SSP Oriented Detection/README.md`
-- `.lake-data/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/README.md`
+- `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`
 - `.staging/arxiv-dep-dedup-index.json`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md` - explicit structural priors for reconstruction from sparse visual evidence.
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - geometry-aware representations for consistency beyond appearance alone.
-3. `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` - explicit boundaries that constrain spatial exploration and invalid expansion.
+1. `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md` - explicit structural priors for reconstruction from sparse visual evidence.
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - geometry-aware representations for consistency beyond appearance alone.
+3. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` - explicit boundaries that constrain spatial exploration and invalid expansion.
 
 ## Next-Review Questions
 

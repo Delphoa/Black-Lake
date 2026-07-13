@@ -20,7 +20,7 @@ Outcome: completed repository artifact generation for one randomly selected arXi
 
 ## Related DEP Entries Used
 
-1. `Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md` - semantic early stopping and agent-loop token control.
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md` - semantic early stopping and agent-loop token control.
 2. `Black-Lake-Data/.lake-data/DEP-20260708-Tech Intel 0104/daily_research_findings_2026-07-08_0104.md` - HCRC verification-gated LLM execution.
 3. `Black-Lake-Data/.lake-data/DEP-20260629-Tech Intel 0104/daily_research_findings_2026-06-29_0104.md` - UltraQuant KV-cache compression and structured context eviction for long-horizon agents.
 

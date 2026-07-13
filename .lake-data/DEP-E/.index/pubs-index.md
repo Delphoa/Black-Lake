@@ -1,0 +1,284 @@
+# DEP-E Publications Index
+
+This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
+
+- Coverage at creation: **86 publications across 36 DEP-E entries** (82 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against the arXiv API on 2026-07-13; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
+- Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
+
+## Maintenance
+
+When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
+
+## Reviewed publications
+
+## [DEP-E-20260708-Agent State Review](../DEP-E-20260708-Agent%20State%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Attacks in Persistent-State AI Control* | Josh Hills; Ida Caspary; Asa Cooper Stickland | [arXiv:2607.02514](https://arxiv.org/abs/2607.02514) |
+| *Fast Multi-dimensional Refusal Subspaces via RFM-AGOP* | Thomas Winninger | [arXiv:2607.02396](https://arxiv.org/abs/2607.02396) |
+| *FlintKV: A Fast Durable Storage Engine for Modern Databases* | Sergey Egorov; Gregory Chockler; Brijesh Dongol; Dan O'Keeffe; Sadegh Keshavarzi | [arXiv:2607.02401](https://arxiv.org/abs/2607.02401) |
+| *LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning* | Matteo Boglioni; Thibault Rousset; Siva Reddy; Marius Mosbach; Verna Dankers | [arXiv:2607.02513](https://arxiv.org/abs/2607.02513) |
+| *Online Safety Monitoring for LLMs* | Mona Schirmer; Metod Jazbec; Alexander Timans; Christian Naesseth; Maja Waldron; Eric Nalisnick | [arXiv:2607.02510](https://arxiv.org/abs/2607.02510) |
+| *Program-as-Weights: A Programming Paradigm for Fuzzy Functions* | Wentao Zhang; Liliana Hotsko; Woojeong Kim; Pengyu Nie; Stuart Shieber; Yuntian Deng | [arXiv:2607.02512](https://arxiv.org/abs/2607.02512) |
+| *ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning* | Yanjun Zhao; Ruizhong Qiu; Tianxin Wei; et al. | [arXiv:2607.02509](https://arxiv.org/abs/2607.02509) |
+| *WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs* | Mauricio Fadel Argerich; Jonathan Fürst; Marta Patiño-Martínez | [arXiv:2607.02391](https://arxiv.org/abs/2607.02391) |
+| *What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates* | Arman Ghaffarizadeh; Danyal Mohaddes; Aliakbar Izadkhah; Shahriar Noroozizadeh | [arXiv:2607.02507](https://arxiv.org/abs/2607.02507) |
+| *WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory* | Hanlin Wang; Hao Ouyang; Qiuyu Wang; et al. | [arXiv:2607.02517](https://arxiv.org/abs/2607.02517) |
+
+## [DEP-E-20260708-ConMax Reasoning](../DEP-E-20260708-ConMax%20Reasoning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning* | Minda Hu; Zexuan Qiu; Zenan Xu; Kun Li; Bo Zhou; Irwin King | [arXiv:2601.04973](https://arxiv.org/abs/2601.04973) |
+
+## [DEP-E-20260708-Tech Intel Review](../DEP-E-20260708-Tech%20Intel%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities* | Corban Villa; Sohee Kim; Austin Chu; Alon Shakevsky; Raluca Ada Popa | [arXiv:2606.26933](https://arxiv.org/abs/2606.26933) |
+| *EGG: An Expert-Guided Agent Framework for Kernel Generation* | Yaochen Han; Ke Fan; Hongxu Jiang; Wanqi Xu; Weiyu Xie; Runhua Zhang; Chenhui Zhu; Yixiang Zhang | [arXiv:2606.26758](https://arxiv.org/abs/2606.26758) |
+| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806](https://arxiv.org/abs/2606.26806) |
+| *Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment* | Aditya Singh; Gerson Kroiz; Senthooran Rajamanoharan; Neel Nanda | [arXiv:2606.26071](https://arxiv.org/abs/2606.26071) |
+| *OpenRCA 2.0: From Outcome Labels to Causal Process Supervision* | Aoyang Fang; Yifan Yang; Jin'ao Shang; et al. | [arXiv:2606.27154](https://arxiv.org/abs/2606.27154) |
+| *Resonant false vacuum decay in two dimensions on a 4000-qubit quantum annealer* | Gregor Humar; Jean-Yves Desaules; Luka Pavešić; Marko Ljubotina; Zlatko Papić; Kristel Michielsen; Jaka Vodeb | [arXiv:2606.25889](https://arxiv.org/abs/2606.25889) |
+| *Semantic Early-Stopping for Iterative LLM Agent Loops* | Sahil Shrivastava | [arXiv:2606.27009](https://arxiv.org/abs/2606.27009) |
+| *ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP* | Liwei Liu; Tianzhu Han; Zijian Liu; Zishu Dong; Na Ruan | [arXiv:2606.27027](https://arxiv.org/abs/2606.27027) |
+| *TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation* | Zhixiang Lu; Xiwei Liu; Sifan Song; Changkai Ji; Anh Nguyen; Jionglong Su; Imran Razzak; Jinfeng Wang | [arXiv:2606.26874](https://arxiv.org/abs/2606.26874) |
+| *When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models* | Josef Chen | [arXiv:2606.27288](https://arxiv.org/abs/2606.27288) |
+
+## [DEP-E-20260709-2D-RC OTFS](../DEP-E-20260709-2D-RC%20OTFS/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *2D-RC: Two-Dimensional Neural Network Approach for OTFS Symbol Detection* | Jiarui Xu; Karim Said; Lizhong Zheng; Lingjia Liu | [arXiv:2311.08543](https://arxiv.org/abs/2311.08543) |
+
+## [DEP-E-20260709-BA-LoRA Bias](../DEP-E-20260709-BA-LoRA%20Bias/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models* | Yupeng Chang; Yi Chang; Yuan Wu | [arXiv:2408.04556](https://arxiv.org/abs/2408.04556) |
+
+## [DEP-E-20260709-Clothed Avatar CAR](../DEP-E-20260709-Clothed%20Avatar%20CAR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *High-Fidelity Clothed Avatar Reconstruction from a Single Image* | Tingting Liao; Xiaomei Zhang; Yuliang Xiu; et al. | [arXiv:2304.03903](https://arxiv.org/abs/2304.03903) |
+
+## [DEP-E-20260709-Fermat Difference](../DEP-E-20260709-Fermat%20Difference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Finite Order Transcendental Entire Solutions of Coupled Fermat-Type Difference Equations in Several Complex Variables* | Jhilik Banerjee; Abhijit Banerjee | [arXiv:2606.30683](https://arxiv.org/abs/2606.30683) |
+
+## [DEP-E-20260709-Local AI Stack](../DEP-E-20260709-Local%20AI%20Stack/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads* | Yasmine Omri; Ziyu Gan; Zachary Broveak; et al. | [arXiv:2606.06448](https://arxiv.org/abs/2606.06448) |
+| *Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment* | Derek Yohn; Luke Flancher; Mirajul Islam; Khaled Slhoub | [arXiv:2606.11672](https://arxiv.org/abs/2606.11672) |
+| *Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers* | Harri Renney; Fouad Trad; Michael Mattarock; Zena Wood | [arXiv:2604.24785](https://arxiv.org/abs/2604.24785) |
+| *FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories* | Yash Pulse; Yong-Bin Kang; Abhik Banerjee; Abdur Forkan; Prem Prakash Jayaraman | [arXiv:2606.14119](https://arxiv.org/abs/2606.14119) |
+| *OpenRad: a Curated Repository of Open-access AI models for Radiology* | Konstantinos Vrettos; Galini Papadaki; Emmanouil Brilakis; et al. | [arXiv:2603.02062](https://arxiv.org/abs/2603.02062) |
+| *Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation* | Yuchen Ling; Shengcheng Yu; Zhenyu Chen; Chunrong Fang | [arXiv:2606.10749](https://arxiv.org/abs/2606.10749) |
+
+## [DEP-E-20260709-Mosaic Safety](../DEP-E-20260709-Mosaic%20Safety/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mosaic: Model-based Safety Analysis Framework for AI-enabled Cyber-Physical Systems* | Xuan Xie; Jiayang Song; Zhehua Zhou; Fuyuan Zhang; Lei Ma | [arXiv:2305.03882](https://arxiv.org/abs/2305.03882) |
+
+## [DEP-E-20260709-SANE Embeddings](../DEP-E-20260709-SANE%20Embeddings/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable attribute-aware network embedding with locality* | Weiyi Liu; Zhining Liu; Toyotaro Suzumura; Guangmin Hu | [arXiv:1804.07152](https://arxiv.org/abs/1804.07152) |
+
+## [DEP-E-20260709-Tech Intel 2338](../DEP-E-20260709-Tech%20Intel%202338/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evidence of scaling advantage on an NP-complete problem with enhanced quantum solvers* | Quanfeng Lu; Shijie Wei; Keren Li; et al. | [DOI:10.1038/s43588-026-01007-8](https://doi.org/10.1038/s43588-026-01007-8) |
+| *Habituation at the Gate: Rising Approval and Declining Scrutiny in Human Review of AI Agent Code* | Haoran Yu; Lifei Liu; Xiaochong Jiang; Yuwen Jia; Su Wang; Pin Qian; Yihang Chen | [arXiv:2606.22721](https://arxiv.org/abs/2606.22721) |
+| *Introducing LifeSciBench* | OpenAI | [OpenAI publication](https://openai.com/index/introducing-life-sci-bench/) |
+| *LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents* | Md Nayem Uddin; Amir Saeidi; Eduardo Blanco; Chitta Baral | [arXiv:2606.20529](https://arxiv.org/abs/2606.20529) |
+| *Predicting model behavior before release by simulating deployment* | OpenAI | [OpenAI publication](https://openai.com/index/deployment-simulation/) · [paper](https://cdn.openai.com/pdf/predicting-llm-safety-before-release-by-simulating-deployment.pdf) |
+| *Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe* | Qian Zhao; Kunlong Chen; Changxin Tian; et al. | [arXiv:2606.20381](https://arxiv.org/abs/2606.20381) |
+| *Scaling active spaces in simulations of surface reactions through sample-based quantum diagonalization* | Marco Antonio Barroca; Tanvi Gujarati; Vidushi Sharma; et al. | [arXiv:2503.10923](https://arxiv.org/abs/2503.10923) |
+| *SoK: Security and Privacy of Foundation-Model-Powered Robots* | Xueluan Gong; Chen Chen; Jinxin Liu; Qian Wang; Kwok-Yan Lam | [arXiv:2606.16788](https://arxiv.org/abs/2606.16788) |
+| *Towards autonomous medical artificial intelligence agents* | Dyke Ferber; Lars Hilgers; Christiane Höper; et al. | [DOI:10.1038/s41586-026-10675-5](https://doi.org/10.1038/s41586-026-10675-5) |
+| *UltraQuant: 4-bit KV Caching for Context-Heavy Agents* | Inesh Chakrabarti; David Limpus; Aditi Ghai Rana; Bowen Bao; Spandan Tiwari; Thiago Crepaldi; Ashish Sirasao | [arXiv:2606.20474](https://arxiv.org/abs/2606.20474) |
+
+## [DEP-E-20260709-VideoWeave Geometry](../DEP-E-20260709-VideoWeave%20Geometry/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling* | Xunzhi Xiang; Zixuan Duan; Yabo Chen; et al. | [arXiv:2606.14162](https://arxiv.org/abs/2606.14162) |
+
+## [DEP-E-20260710-BEAGLE Learner](../DEP-E-20260710-BEAGLE%20Learner/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation* | Hanchen David Wang; Clayton Cohn; Zifan Xu; Siyuan Guo; Gautam Biswas; Meiyi Ma | [arXiv:2602.13280](https://arxiv.org/abs/2602.13280) |
+
+## [DEP-E-20260710-Deep ESN Memory](../DEP-E-20260710-Deep%20ESN%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis of Memory Capacity for Deep Echo State Networks* | Xuanlin Liu; Mingzhe Chen; Changchuan Yin; Walid Saad | [arXiv:1908.07063](https://arxiv.org/abs/1908.07063) |
+
+## [DEP-E-20260710-Physical Data AI](../DEP-E-20260710-Physical%20Data%20AI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Physical Data Embedding for Memory Efficient AI* | Callen MacPhee; Yiming Zhou; Bahram Jalali | [arXiv:2407.14504](https://arxiv.org/abs/2407.14504) |
+
+## [DEP-E-20260710-Self Learned IDC](../DEP-E-20260710-Self%20Learned%20IDC/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-learned Intelligence for Integrated Decision and Control of Automated Vehicles at Signalized Intersections* | Yangang Ren; Jianhua Jiang; Dongjie Yu; Shengbo Eben Li; Jingliang Duan; Chen Chen; Keqiang Li | [arXiv:2110.12359](https://arxiv.org/abs/2110.12359) |
+
+## [DEP-E-20260710-Tech Intel 0101](../DEP-E-20260710-Tech%20Intel%200101/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models* | Cong Su; Jiaju Han; Xuemeng Sun; Chengyin Hu; Qike Zhang; Jiujiang Guo; Yiwei Wei; Jiahuan Long | [arXiv:2607.06485](https://arxiv.org/abs/2607.06485) |
+| *DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression* | Anna Cordoba; Adam Puente Tercero; Nerea Angulo Hijo; Mar Linares Tercero; Julia Barrientos; Ainhoa Miranda; Jesus Olivera | [arXiv:2607.06523](https://arxiv.org/abs/2607.06523) |
+| *Design and Benchmarking of a Quantum Photonic Chip* | Gabriele De Angelis; Nicolò Leone; Alessandro Luongo; et al. | [arXiv:2607.06488](https://arxiv.org/abs/2607.06488) |
+| *Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy* | Nikita P. Kalinin; Rasmus Pagh | [arXiv:2607.06320](https://arxiv.org/abs/2607.06320) |
+| *Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade* | Kai Ruan; Zihe Huang; Ziqi Zhou; Qianshan Wei; Xuan Wang; Hao Sun | [arXiv:2607.06503](https://arxiv.org/abs/2607.06503) |
+| *DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail* | He Liu; Changtao Miao; Xinjie Yang; et al. | [arXiv:2607.06326](https://arxiv.org/abs/2607.06326) |
+| *DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation* | Yaqi Wu; Xiaolei Guo; Chenyu Zhou; et al. | [arXiv:2607.06507](https://arxiv.org/abs/2607.06507) |
+| *FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference* | Anna Córdoba; Adam Puente Tercero; Nerea Angulo Hijo; Mar Linares Tercero; Julia Barrientos; Ainhoa Miranda; Jesús Olivera | [arXiv:2607.06519](https://arxiv.org/abs/2607.06519) |
+| *Harnessing Code Agents for Automatic Software Verification* | Shuangxiang Kan; Shuanglong Kan; Sebastian Ertel | [arXiv:2607.06341](https://arxiv.org/abs/2607.06341) |
+| *The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology* | Ghassen Marrakchi; Basarab Matei | [arXiv:2607.06531](https://arxiv.org/abs/2607.06531) |
+
+## [DEP-E-20260711-Agent Memory Forensics](../DEP-E-20260711-Agent%20Memory%20Forensics/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Forensic Trajectory Signatures for Agent Memory Poisoning Detection* | Jun Wen Leong | [arXiv:2606.30566](https://arxiv.org/abs/2606.30566) |
+
+## [DEP-E-20260711-CausalTAD Trajectory](../DEP-E-20260711-CausalTAD%20Trajectory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CausalTAD: Causal Implicit Generative Model for Debiased Online Trajectory Anomaly Detection* | Wenbin Li; Di Yao; Chang Gong; et al. | [arXiv:2412.18820](https://arxiv.org/abs/2412.18820) |
+
+## [DEP-E-20260711-Irregular Clipped SR](../DEP-E-20260711-Irregular%20Clipped%20SR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Irregularly Clipped Sparse Regression Codes* | Wencong Li; Lei Liu; Brian M. Kurkoski | [arXiv:2106.01573](https://arxiv.org/abs/2106.01573) |
+
+## [DEP-E-20260711-RRT-CBF Motion](../DEP-E-20260711-RRT-CBF%20Motion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RRT-CBF Based Motion Planning* | Leonas Liu; Yingfan Zhang; Larry Zhang; Mehbi Kermanshabi | [arXiv:2410.00343](https://arxiv.org/abs/2410.00343) |
+
+## [DEP-E-20260711-SSP Oriented Detection](../DEP-E-20260711-SSP%20Oriented%20Detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection* | Xinyuan Liu; Hang Xu; Zirui Chen; Yike Ma; Chenggang Yan; Feng Dai | [arXiv:2506.10601](https://arxiv.org/abs/2506.10601) |
+
+## [DEP-E-20260711-Telecom AI Roadmap](../DEP-E-20260711-Telecom%20AI%20Roadmap/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences* | Adnan Shahid; Adrian Kliks; Ahmed Al-Tahmeesschi; et al. | [arXiv:2503.04184](https://arxiv.org/abs/2503.04184) |
+
+## [DEP-E-20260712-Global NS Existence](../DEP-E-20260712-Global%20NS%20Existence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Global Existence of Strong and Weak Solutions to 2D Compressible Navier-Stokes System in Bounded Domains with Large Data and Vacuum* | Xinyu Fan; Jiaxu Li; Jing Li | [arXiv:2102.09229](https://arxiv.org/abs/2102.09229) |
+
+## [DEP-E-20260712-HERMES World Model](../DEP-E-20260712-HERMES%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation* | Xin Zhou; Dingkang Liang; Sifan Tu; et al. | [arXiv:2501.14729](https://arxiv.org/abs/2501.14729) |
+
+## [DEP-E-20260712-HSD FTI-FDet](../DEP-E-20260712-HSD%20FTI-FDet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Visual Fault Detection for Freight Train Braking System via Heterogeneous Self Distillation in the Wild* | Yang Zhang; Huilin Pan; Yang Zhou; Mingying Li; Guodong Sun | [arXiv:2307.00701](https://arxiv.org/abs/2307.00701) |
+
+## [DEP-E-20260712-KDFlow LLM Distill](../DEP-E-20260712-KDFlow%20LLM%20Distill/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models* | Songming Zhang; Xue Zhang; Tong Zhang; Bojie Hu; Yufeng Chen; Jinan Xu | [arXiv:2603.01875](https://arxiv.org/abs/2603.01875) |
+
+## [DEP-E-20260712-VLM Probing](../DEP-E-20260712-VLM%20Probing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models* | Jize Cao; Zhe Gan; Yu Cheng; Licheng Yu; Yen-Chun Chen; Jingjing Liu | [arXiv:2005.07310](https://arxiv.org/abs/2005.07310) |
+
+## [DEP-E-20260713-AV Emotion Fusion](../DEP-E-20260713-AV%20Emotion%20Fusion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Emotion Recognition in Audio and Video Using Deep Neural Networks* | Mandeep Singh; Yuan Fang | [arXiv:2006.08129](https://arxiv.org/abs/2006.08129) |
+
+## [DEP-E-20260713-Dynamical Dictionary](../DEP-E-20260713-Dynamical%20Dictionary/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dictionary Learning by Dynamical Neural Networks* | Tsung-Han Lin; Ping Tak Peter Tang | [arXiv:1805.08952](https://arxiv.org/abs/1805.08952) |
+
+## [DEP-E-20260713-Hypercomplex MRI](../DEP-E-20260713-Hypercomplex%20MRI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lightweight Hypercomplex MRI Reconstruction: A Generalized Kronecker-Parameterized Approach* | Haosen Zhang; Jiahao Huang; Yinzhe Wu; Congren Dai; Fanwen Wang; Zhenxuan Zhang; Guang Yang | [arXiv:2503.05063](https://arxiv.org/abs/2503.05063) |
+
+## [DEP-E-20260713-LA-Pose Latent Action](../DEP-E-20260713-LA-Pose%20Latent%20Action/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LA-Pose: Latent Action Pretraining Meets Pose Estimation* | Zhengqing Wang; Saurabh Nair; Prajwal Chidananda; Pujith Kachana; Samuel Li; Matthew Brown; Yasutaka Furukawa | [arXiv:2604.27448](https://arxiv.org/abs/2604.27448) |
+
+## [DEP-E-20260713-PAC Confidence](../DEP-E-20260713-PAC%20Confidence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PAC Confidence Predictions for Deep Neural Network Classifiers* | Sangdon Park; Shuo Li; Insup Lee; Osbert Bastani | [arXiv:2011.00716](https://arxiv.org/abs/2011.00716) |
+
+## [DEP-E-20260713-SAILFISH Vetting](../DEP-E-20260713-SAILFISH%20Vetting/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds* | Priyanka Bose; Dipanjan Das; Yanju Chen; Yu Feng; Christopher Kruegel; Giovanni Vigna | [arXiv:2104.08638](https://arxiv.org/abs/2104.08638) |
+
+## [DEP-E-20260713-SMES Expert Sparsity](../DEP-E-20260713-SMES%20Expert%20Sparsity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SMES: Towards Scalable Multi-Task Recommendation via Expert Sparsity* | Yukun Zhang; Si Dong; Xu Wang; et al. | [arXiv:2602.09386](https://arxiv.org/abs/2602.09386) |
+
+## [DEP-E-20260713-Tech Intel 1100 Review](../DEP-E-20260713-Tech%20Intel%201100%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression* | Yuantian Shao; Peisong Wang; Zhilei Liu; et al. | [arXiv:2607.08643](https://arxiv.org/abs/2607.08643) |
+| *Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks* | Dan Yamins; Aran Nayebi | [arXiv:2607.08561](https://arxiv.org/abs/2607.08561) |
+| *Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analyses via Storage-Centric System Designs* | Nika Mansouri Ghiasi; Onur Mutlu | [arXiv:2607.02552](https://arxiv.org/abs/2607.02552) |
+| *Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation* | Yifan Zhou; Qihao Yang; Yan Li; et al. | [arXiv:2607.08758](https://arxiv.org/abs/2607.08758) |
+| *MatBind: A Shared Embedding Space for Multimodal Materials Characterization* | Le Yang; Anoop K. Chandran; Jona Östreicher; et al. | [arXiv:2607.08470](https://arxiv.org/abs/2607.08470) |
+| *Parallel QEC Decoding Applied to Distributed Quantum Computing* | Gabriele Incardona; Davide Ferrari; Michele Amoretti | [arXiv:2607.08386](https://arxiv.org/abs/2607.08386) |
+| *Score Distributions, Not Cells: Evaluating Single-Cell Perturbations Under Class Overlap* | Youssef Marrakchi; Davide D'Ascenzo; Sebastiano Cultrera di Montesano | [arXiv:2607.04595](https://arxiv.org/abs/2607.04595) |
+| *Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data* | Ofir Arviv; Kristjan Greenewald; Yotam Perlitz; Hadar Mulian; Michal Shmueli-Scheuer; Leshem Choshen | [arXiv:2607.08522](https://arxiv.org/abs/2607.08522) |
+| *Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration* | Amir Asiaee; Kaveh Aryan | [arXiv:2607.08122](https://arxiv.org/abs/2607.08122) |
+| *Works on My QPU: Reproducibility in Quantum Computing Research* | Dominik Köster; Maja Franz; Benjamin Zec; Nicole Hoess; Ralf Ramsauer; Wolfgang Mauerer | [arXiv:2607.08348](https://arxiv.org/abs/2607.08348) |
+
+## Entries without indexed research publications
+
+- [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.

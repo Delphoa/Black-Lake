@@ -43,10 +43,10 @@ The strongest limitation is generalizability. The authors state that the NSN may
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
    - Relevance: connects Physical Data to memory/precision constraints in operational AI systems, especially UltraQuant KV-cache compression and UFP4 low-precision format issues.
    - Source basis: inspected manuscript sections describing UltraQuant, UFP4, hardware constraints, cache residency, and low-precision systems evidence.
-2. `Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+2. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
    - Relevance: connects Physical Data to local/edge deployment as an infrastructure stack where memory tiering, accelerator support, runtime packaging, power, throughput, and device constraints determine usefulness.
    - Source basis: inspected evidence ledger and detailed summary sections for vLLM KV-cache offload, single-board edge benchmarking, runtime compatibility, and local AI stack review.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260710-Tech Intel 0103/daily_research_findings_2026-07-10_0103.md`
@@ -138,13 +138,13 @@ def analog_ready(evidence):
 ## Attribution Block
 
 - Source URL: https://arxiv.org/abs/2407.14504
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
   - Notes: Primary arXiv metadata and abstract page for the selected paper.
 - Source URL: https://arxiv.org/pdf/2407.14504
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
   - Notes: Public arXiv PDF inspected for method, results, ablations, discussion, and limitations.
 - Source URL: https://doi.org/10.48550/arXiv.2407.14504
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
   - Notes: Persistent DOI for selected arXiv paper.
 - Source file: local arXiv archive readme and PDF presence, path withheld
   - Applies to: random selection provenance in log, Report-Mark, and DEP manuscript.
@@ -155,10 +155,10 @@ def analog_ready(evidence):
 - Repository file: `Black-Lake-Data/README.md`
   - Applies to: related repository layout and source-side attribution expectations.
   - Notes: Live repository README fetched/read before related-entry reliance.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
   - Applies to: related-entry synthesis.
   - Notes: Related processed DEP-E artifact inspected for memory/precision and systems constraints.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
   - Applies to: related-entry synthesis.
   - Notes: Related processed DEP-E artifact inspected for local inference and edge hardware constraints.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260710-Tech Intel 0103/daily_research_findings_2026-07-10_0103.md`

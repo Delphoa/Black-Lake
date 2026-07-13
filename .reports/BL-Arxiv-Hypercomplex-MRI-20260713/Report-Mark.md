@@ -88,7 +88,7 @@ Exactly three repository entries were selected and inspected:
    - Concrete overlap: medical-imaging evaluation, structured correlation, hidden stratification, and generalization.
    - Added value: group-aware and structure-aware splits can test whether limited-data improvements survive leakage-resistant evaluation.
 
-3. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
    - Primary basis: https://arxiv.org/abs/2407.14504.
    - Concrete overlap: alternative parameter-efficient representations intended for constrained hardware.
    - Added value: its review separates trainable-parameter counts from measured latency, memory, energy, and domain-fit evidence, a distinction directly applicable here.
@@ -234,7 +234,7 @@ Thresholds above are synthetic placeholders. Real thresholds require authorized 
 - Source URL: https://arxiv.org/abs/2607.02055
   - Applies to: `Report-Mark.md`
   - Notes: Primary source attributed by related DEP entry 2.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 3.
 - Source URL: https://arxiv.org/abs/2407.14504

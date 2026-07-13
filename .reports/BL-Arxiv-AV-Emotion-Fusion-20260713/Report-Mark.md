@@ -70,9 +70,9 @@ The paper is valuable as an inspectable project record showing several negative 
 | E1 | arXiv v1 full text, including Sections 3-6, Tables 1-3, and Figures 5-9 descriptions | Identity, dataset description, architectures, preprocessing, metrics, limitations, and future work | Primary evidence; results not independently reproduced |
 | E2 | Table 3 values in the arXiv full-text rendering and extracted PDF | Exact four-class and three-class accuracy comparisons | High transcription confidence; no uncertainty estimates |
 | E3 | Paper-declared GitHub repository and README | Code/notebook availability, MIT license visibility, and IEMOCAP access boundary | Repository inspected; notebooks not executed and dataset unavailable in the repository |
-| E4 | `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` | Probe design for modality fusion, layer/head specialization, leakage controls, and causal-audit limitations | Processed related artifact; conceptual bridge, not validation of the emotion model |
-| E5 | `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` | Heterogeneous pathways, task-specific spatial information, compact inference, field-condition failures | Processed related artifact; different domain and task |
-| E6 | `.lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` | Finite-sample confidence intervals, threshold decisions, abstention, and distribution-match boundary | Processed related artifact; method not applied to this paper's outputs |
+| E4 | `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` | Probe design for modality fusion, layer/head specialization, leakage controls, and causal-audit limitations | Processed related artifact; conceptual bridge, not validation of the emotion model |
+| E5 | `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` | Heterogeneous pathways, task-specific spatial information, compact inference, field-condition failures | Processed related artifact; different domain and task |
+| E6 | `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` | Finite-sample confidence intervals, threshold decisions, abstention, and distribution-match boundary | Processed related artifact; method not applied to this paper's outputs |
 | E7 | Current Black Lake and Black-Lake-Data READMEs plus repository searches | Naming, attribution, deduplication, and deposition compliance | Process evidence only |
 
 Source claims are labeled as author-reported unless independently visible in repository metadata. Statements about fusion gates, calibration, privacy, and product design are reviewer synthesis or implementation proposals, not claims made by the paper.
@@ -81,13 +81,13 @@ Source claims are labeled as author-reported unless independently visible in rep
 
 Exactly three related entries were selected from `Delphoa/Black-Lake`:
 
-1. `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
    - Relevance: supplies a disciplined way to test where multimodal fusion occurs, which modality dominates, and whether probe results reflect usable representations or label leakage.
    - Source/reference basis: the inspected DEP evidence ledger, anchored to *Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models* (arXiv:2005.07310; ECCV 2020).
-2. `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
    - Relevance: shows how heterogeneous pathways, spatial attention, localization-aware learning, and compact deployment can preserve task-specific evidence under field constraints.
    - Source/reference basis: the inspected DEP evidence ledger, anchored to *Efficient Visual Fault Detection for Freight Train Braking System via Heterogeneous Self Distillation in the Wild* (arXiv:2307.00701; *Advanced Engineering Informatics* 57, 102091).
-3. `.lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
    - Relevance: converts point confidence into finite-sample intervals that can support abstention or fallback decisions when the calibration and use distributions match.
    - Source/reference basis: the inspected DEP evidence ledger, anchored to *PAC Confidence Predictions for Deep Neural Network Classifiers* (arXiv:2011.00716v5; ICLR 2021).
 
@@ -222,12 +222,12 @@ This illustrates a lower-bound gate for a fixed calibration bin and requires Sci
 - Source URL: https://arxiv.org/abs/2011.00716
   - Applies to: primary research basis recorded by the PAC Confidence DEP.
   - Notes: Used through the inspected processed DEP entry.
-- Repository source: `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
   - Applies to: representation-probe and multimodal-fusion synthesis.
   - Notes: Existing Black Lake manuscript inspected for evidence and limitations.
-- Repository source: `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
   - Applies to: heterogeneous-pathway, compact-inference, and field-robustness synthesis.
   - Notes: Existing Black Lake manuscript inspected for evidence and limitations.
-- Repository source: `.lake-data/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
   - Applies to: confidence-interval, abstention, and distribution-boundary synthesis.
   - Notes: Existing Black Lake manuscript inspected for evidence and limitations.

@@ -47,11 +47,11 @@ The current official repository is active and MIT-licensed but has evolved beyon
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
    - Relevance: Both artifacts use teacher/student transfer to make deployment more practical and must balance accuracy, model size, memory, and latency. HSD FTI-FDet supplies a compact-vision counterpoint in which the best resource trade-off is not always the single most accurate ablation, cautioning against throughput-only optimization.
    - Source basis: The related manuscript's source metadata, architecture, Tables 1-5 synthesis, limitations, evidence ledger, and quality/resource observations were inspected.
 
-2. `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
    - Relevance: BA-LoRA uses KL consistency and token-level temperature distillation in output space, directly connecting to KDFlow's full-logit reconstruction and divergence APIs. Its focus on drift, representation collapse, noisy overfit, minority performance, and LoRA adaptation supplies the robustness gate that KDFlow's systems benchmark does not provide.
    - Source basis: The related manuscript's method, logit-level regularizers, reported robustness results, limitations, code boundary, and output-space interpretation were inspected.
 
@@ -156,10 +156,10 @@ def release_gate(base, distilled, limits):
 - Source URL: https://github.com/songmzhang/KDFlow
   - Applies to: official implementation, MIT license, current examples/features, installation, and compatibility notes.
   - Notes: Repository README inspected; code, containers, models, and data were not executed or redistributed.
-- Repository path: `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
   - Applies to: compact-student quality, latency, memory, model-size, and deployment synthesis.
   - Notes: Existing Black Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
   - Applies to: output-space distillation, robustness, drift, bias, and LoRA synthesis.
   - Notes: Existing Black Lake DEP manuscript inspected.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md

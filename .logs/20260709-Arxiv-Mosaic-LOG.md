@@ -29,15 +29,15 @@ Outcome: completed repository artifact generation for one randomly selected elig
 
 - Brief log: `.logs/20260709-Arxiv-Mosaic-LOG.md`
 - Detailed Report-Mark: `.reports/BL-Arxiv-Mosaic-20260709/Report-Mark.md`
-- DEP-E deposit: `.lake-data/DEP-E-20260709-Mosaic Safety`
-- DEP-E manuscript: `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
-- DEP-E README: `.lake-data/DEP-E-20260709-Mosaic Safety/README.md`
+- DEP-E deposit: `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety`
+- DEP-E manuscript: `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+- DEP-E README: `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/README.md`
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md` - runtime monitoring, state traces, evidence replay, and calibrated safety controls.
-2. `Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md` - agent-system reliability, verification-style process evidence, semantic stopping, and tool/security review.
-3. `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md` - operational AI evaluation, structured agent state, tool governance, robotics safety/privacy, and high-stakes workflow constraints.
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md` - runtime monitoring, state traces, evidence replay, and calibrated safety controls.
+2. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md` - agent-system reliability, verification-style process evidence, semantic stopping, and tool/security review.
+3. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md` - operational AI evaluation, structured agent state, tool governance, robotics safety/privacy, and high-stakes workflow constraints.
 
 ## Validation Notes
 

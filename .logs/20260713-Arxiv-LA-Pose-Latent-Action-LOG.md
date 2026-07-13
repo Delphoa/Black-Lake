@@ -32,14 +32,14 @@
 
 - `.logs/20260713-Arxiv-LA-Pose-Latent-Action-LOG.md`
 - `.reports/BL-Arxiv-LA-Pose-Latent-Action-20260713/Report-Mark.md`
-- `.lake-data/DEP-E-20260713-LA-Pose Latent Action/README.md`
-- `.lake-data/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/README.md`
+- `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md` — driving-world representations, ego-motion conditioning, and the boundary between open-loop geometry metrics and deployment claims.
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — self-supervised or latent-space video learning intended to preserve geometry and camera-motion structure.
-3. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` — learned representations for autonomous-driving state, motion, and constrained downstream control.
+1. `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md` — driving-world representations, ego-motion conditioning, and the boundary between open-loop geometry metrics and deployment claims.
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — self-supervised or latent-space video learning intended to preserve geometry and camera-motion structure.
+3. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` — learned representations for autonomous-driving state, motion, and constrained downstream control.
 
 ## Next-Review Questions
 

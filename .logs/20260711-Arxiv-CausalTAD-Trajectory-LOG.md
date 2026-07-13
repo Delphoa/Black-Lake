@@ -43,13 +43,13 @@
 
 - Log: `.logs/20260711-Arxiv-CausalTAD-Trajectory-LOG.md`
 - Report-Mark: `.reports/BL-Arxiv-CausalTAD-Trajectory-20260711/Report-Mark.md`
-- DEP README: `.lake-data/DEP-E-20260711-CausalTAD Trajectory/README.md`
-- DEP manuscript: `.lake-data/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`
+- DEP README: `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/README.md`
+- DEP manuscript: `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` - overlap in road-network systems, online decision support, physical safety, and simulation-bound evidence.
-2. `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` - overlap in debiasing, confounded evidence, distribution shift, and the need to distinguish robustness claims from controlled causal evidence.
+1. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` - overlap in road-network systems, online decision support, physical safety, and simulation-bound evidence.
+2. `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` - overlap in debiasing, confounded evidence, distribution shift, and the need to distinguish robustness claims from controlled causal evidence.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 1103/daily_research_findings_2026-07-07_1103.md` - overlap in structure-aware spatial evaluation, leakage control, and subgroup/distribution-shift generalization.
 
 ## Next-Review Questions

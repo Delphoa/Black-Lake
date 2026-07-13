@@ -51,8 +51,8 @@
 - `.logs/20260713-Arxiv-SAILFISH-Vetting-LOG.md`
 - `.logs/20260713-Arxiv-SAILFISH-Vetting-PHASE-LOG.md`
 - `.reports/BL-Arxiv-SAILFISH-Vetting-20260713/Report-Mark.md`
-- `.lake-data/DEP-E-20260713-SAILFISH Vetting/README.md`
-- `.lake-data/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/README.md`
+- `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`
 - `.staging/arxiv-dep-dedup-index.json`
 
 ## Submission

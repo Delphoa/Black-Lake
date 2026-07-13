@@ -6,7 +6,7 @@
 - Actor/tool: Codex recurring `Black Lake Arxiv DEP 0900` workflow
 - Action: Randomly select one eligible local arXiv paper, review it source-first, synthesize it with three related DEP entries, and deposit a log, Report-Mark, and DEP-E manuscript.
 - Outcome: Selected arXiv:2005.07310v2, *Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models*; duplicate checks passed and no reselection was required.
-- Affected DEP: `.lake-data/DEP-E-20260712-VLM Probing`
+- Affected DEP: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing`
 - Blockers: No blocking issue. The paper-linked code repository was unavailable during inspection, and no source package was present in the local archive unit.
 
 ## Random Selection Method
@@ -40,16 +40,16 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — joint multimodal latent fusion and geometry-aware representation evaluation provide a modern target for VALUE-style probing.
-2. `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` — representation collapse, output-space regularization, and robustness metrics complement attention and embedding probes.
-3. `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` — specialized attention, heterogeneous feature pathways, and distillation expose architecture-level questions similar to VALUE's head specialization analysis.
+1. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — joint multimodal latent fusion and geometry-aware representation evaluation provide a modern target for VALUE-style probing.
+2. `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` — representation collapse, output-space regularization, and robustness metrics complement attention and embedding probes.
+3. `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` — specialized attention, heterogeneous feature pathways, and distillation expose architecture-level questions similar to VALUE's head specialization analysis.
 
 ## Output Inventory
 
 - `.logs/20260712-Arxiv-VLM-Probing-LOG.md`
 - `.reports/BL-Arxiv-VLM-Probing-20260712/Report-Mark.md`
-- `.lake-data/DEP-E-20260712-VLM Probing/README.md`
-- `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/README.md`
+- `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
 
 ## Validation Notes
 
