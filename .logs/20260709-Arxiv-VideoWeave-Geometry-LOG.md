@@ -23,7 +23,7 @@ Run date: 2026-07-09
 ## Deduplication Validation
 
 - Normalized markers checked: `2606.14162`, `VideoWeave`, `Unlocking Geometric Consistency`, `Joint Geometry-Video`, `videoweave`.
-- Target repository scan: no prior `.logs`, `.reports`, or `.lake-data/DEP-E-*` artifact matched the arXiv ID, title, or slug markers.
+- Target repository scan: no prior `.logs`, `.reports`, or `.lake-data/DEP-E/DEP-E-*` artifact matched the arXiv ID, title, or slug markers.
 - Related repository scan: no matching Black-Lake-Data entry was found for the same arXiv ID, title, or slug markers.
 - Automation memory: no prior memory file existed for this automation.
 - Same-paper 24-hour exclusion markers: none found.
@@ -32,8 +32,8 @@ Run date: 2026-07-09
 
 - `.logs/20260709-Arxiv-VideoWeave-Geometry-LOG.md`
 - `.reports/BL-Arxiv-VideoWeave-Geometry-20260709/Report-Mark.md`
-- `.lake-data/DEP-E-20260709-VideoWeave Geometry/README.md`
-- `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/README.md`
+- `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
 
 ## Source Files
 

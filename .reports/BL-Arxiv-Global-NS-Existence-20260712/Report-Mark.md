@@ -30,13 +30,13 @@ The most important limitation is explicit: the method requires `beta > 4/3`, whi
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md`
    - `Relevance`: Both artifacts review global-solution theorems whose conclusions depend on explicit parameter regimes and multi-stage analytic arguments. Fermat Difference also preserves the boundary between structural source review and formal verification.
    - `Source basis`: The related manuscript's source metadata, theorem summary, proof strategy, methodology, limitations, and proof-formalization backlog were inspected.
-2. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
    - `Relevance`: Physical Data AI treats PDE choice as a representation prior whose value depends on domain fit. The selected paper supplies the complementary mathematical lesson: equation, coefficient, topology, and boundary assumptions determine what can actually be proved.
    - `Source basis`: The related manuscript's executive summary, PDE-shaped method, domain-fit limitations, and implementation sections were inspected.
-3. `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
    - `Relevance`: RRT-CBF uses forward-invariant safe sets and boundary-like constraints in computational dynamics. The selected paper uses analytic invariant estimates and boundary geometry. Both show that constraints must be paired with explicit assumption and failure telemetry.
    - `Source basis`: The related manuscript's barrier-function method, evidence ledger, boundary conditions, operational risks, and simulation-only limitations were inspected.
 
@@ -118,7 +118,7 @@ These examples use synthetic metadata only. Production hardening would require f
 - Extraction preflight found `pypdf` but no `pdftotext`. Fresh local `missing-only` extraction produced 72,259 bytes of PDF text. Final cache status is partial only because local HTML and source-package text are absent.
 - Exactly three related DEP entries are listed and used.
 - Synthesis Note counts: 3 potential implementations, 3 deeper relationship observations, 3 conceptual similarities, 3 MVP code mock-ups, 3 developer challenges, and 3 author challenges.
-- The schema-complete manuscript is `.lake-data/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
+- The schema-complete manuscript is `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
 - Public-safe validation excludes private absolute paths, usernames, machine names, workspace roots, timezone labels, and exact local execution timestamps.
 - Source files collected for deposition: none. No `.source/` directory was created.
 
@@ -136,12 +136,12 @@ These examples use synthetic metadata only. Production hardening would require f
 - Source URL: https://link.springer.com/article/10.1007/s00205-022-01790-4
   - Applies to: version-of-record metadata, publication history, abstract, venue, and references.
   - Notes: Publisher page; subscription content not collected.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-Fermat%20Difference/fermat-difference-manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Fermat%20Difference/fermat-difference-manuscript.md
   - Applies to: theorem-regime and proof-review bridge.
   - Notes: Processed DEP artifact; contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
   - Applies to: PDE/domain-fit implementation bridge.
   - Notes: Processed DEP artifact; contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: invariance and boundary-constraint bridge.
   - Notes: Processed DEP artifact; contextual evidence only.

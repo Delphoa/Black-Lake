@@ -45,9 +45,9 @@ Source claims are attributed to the authors. Reviewer synthesis and implementati
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` — selected because it combines learned or model-based planning with explicit safety constraints and emphasizes that solver latency, stale state, perception error, and fallback behavior sit outside a mathematical barrier claim. Basis: inspected executive summary, boundary conditions, considerations, and source references grounded in arXiv:2410.00343.
-2. `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` — selected because it studies compact visual fault detection under deployment constraints and explicitly identifies calibration, per-component false negatives, shift, and fail-safe escalation as missing safety evidence. Basis: inspected method/results tables, limitations, implementation notes, and sources grounded in arXiv:2307.00701 and its publisher record.
-3. `.lake-data/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md` — selected because it targets out-of-distribution trajectory anomaly detection, the precise regime where PAC confidence coverage no longer transfers automatically, and calls for calibrated decision thresholds. Basis: inspected causal formulation, ID/OOD result tables, static-confounder limitation, official repository notes, and sources grounded in arXiv:2412.18820.
+1. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` — selected because it combines learned or model-based planning with explicit safety constraints and emphasizes that solver latency, stale state, perception error, and fallback behavior sit outside a mathematical barrier claim. Basis: inspected executive summary, boundary conditions, considerations, and source references grounded in arXiv:2410.00343.
+2. `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` — selected because it studies compact visual fault detection under deployment constraints and explicitly identifies calibration, per-component false negatives, shift, and fail-safe escalation as missing safety evidence. Basis: inspected method/results tables, limitations, implementation notes, and sources grounded in arXiv:2307.00701 and its publisher record.
+3. `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md` — selected because it targets out-of-distribution trajectory anomaly detection, the precise regime where PAC confidence coverage no longer transfers automatically, and calls for calibrated decision thresholds. Basis: inspected causal formulation, ID/OOD result tables, static-confounder limitation, official repository notes, and sources grounded in arXiv:2412.18820.
 
 ## Synthesis Note
 
@@ -140,14 +140,14 @@ def shield(p_risk_upper, budget, state_fresh, cbf_feasible, fallback_ready):
 - Source URL: https://openreview.net/forum?id=Qk-Wq5AIjpq
   - Applies to: ICLR 2021 poster status, authors, abstract, keywords, and venue dates.
   - Notes: Official venue record.
-- Repository file: `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Repository file: `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: formal safe-planning and system-boundary synthesis.
-- Repository file: `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
+- Repository file: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
   - Applies to: efficient visual inference, calibration, and fail-safe inspection synthesis.
-- Repository file: `.lake-data/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md
+- Repository file: `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md
   - Applies to: OOD, shift monitoring, anomaly threshold, and calibration synthesis.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md
   - Applies to: repository layout, DEP-E naming, README, attribution, and commit standards.

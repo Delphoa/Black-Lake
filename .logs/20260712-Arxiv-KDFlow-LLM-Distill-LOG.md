@@ -42,13 +42,13 @@
 
 - Log: `.logs/20260712-Arxiv-KDFlow-LLM-Distill-LOG.md`
 - Report-Mark: `.reports/BL-Arxiv-KDFlow-LLM-Distill-20260712/Report-Mark.md`
-- DEP README: `.lake-data/DEP-E-20260712-KDFlow LLM Distill/README.md`
-- DEP manuscript: `.lake-data/DEP-E-20260712-KDFlow LLM Distill/kdflow_llm_distill_manuscript.md`
+- DEP README: `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill/README.md`
+- DEP manuscript: `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill/kdflow_llm_distill_manuscript.md`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` - overlap in teacher/student knowledge transfer, compact deployment targets, and the need to assess quality-efficiency trade-offs rather than throughput alone.
-2. `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` - overlap in KL/logit-level behavioral transfer, large-vocabulary computation, robustness constraints, and LoRA-compatible student adaptation.
+1. `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` - overlap in teacher/student knowledge transfer, compact deployment targets, and the need to assess quality-efficiency trade-offs rather than throughput alone.
+2. `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` - overlap in KL/logit-level behavioral transfer, large-vocabulary computation, robustness constraints, and LoRA-compatible student adaptation.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260629-Tech Intel 1104/daily_research_findings_2026-06-29_1104.md` - direct overlap in exploiting teacher/student systems asymmetry through decoupled, topology-aware partitioning for scalable knowledge distillation.
 
 ## Next-Review Questions

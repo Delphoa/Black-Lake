@@ -42,11 +42,11 @@ The clearest disclosed limitation is the static treatment of road preference, ev
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
    - Relevance: Both artifacts study learned systems operating on road networks under online constraints. Self-Learned IDC focuses on state representation and safety-constrained control at mixed-traffic intersections; CausalTAD focuses on anomaly scoring under unseen SD pairs.
    - Source basis: The related manuscript's executive summary, traffic simulation setup, evidence ledger, limitations, and safety observations were inspected.
 
-2. `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
    - Relevance: Both works frame model failure as inherited bias from an imbalanced observational process and propose model-level corrections intended to improve robustness under changed distributions. BA-LoRA also warns that suggestive comparisons are not controlled causal tests, a useful caution for CausalTAD's assumed causal graph.
    - Source basis: The related manuscript's problem, evidence ledger, claims table, limitations, and causal-evidence discussion were inspected.
 
@@ -158,10 +158,10 @@ def evidence_card(model, split, label_source, caveats):
 - Source URL: https://github.com/LwbXc/CausalTAD
   - Applies to: official code/dataset/usage and ICDE citation context.
   - Notes: Repository README inspected; code and datasets were not executed or redistributed.
-- Repository path: `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
   - Applies to: road-system and online-decision synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
   - Applies to: bias, causal-evidence, and distribution-shift synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md

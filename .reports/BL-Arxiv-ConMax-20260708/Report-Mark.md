@@ -56,7 +56,7 @@ ConMax is best understood as a control-plane method for reasoning budgets. It is
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
    - Reason selected: This artifact preserves a related finding on semantic early stopping for iterative LLM agent loops, which reduces token waste by halting when semantic change and quality improvement plateau.
    - Source basis: The artifact's related reading and source references list arXiv:2606.27009 as the semantic early stopping source.
 
@@ -172,7 +172,7 @@ def retention_policy(segment, cache_pressure):
 - Repository file: Black-Lake/README.md
   - Applies to: Report-Mark.md and `.logs/20260708-Arxiv-ConMax-LOG.md`
   - Notes: Repository layout and log/report convention source inspected from local checkout because direct connector access returned 404.
-- Repository file: Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md
+- Repository file: Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md
   - Applies to: Report-Mark.md
   - Notes: Related entry for semantic early stopping and agent-loop token control.
 - Repository file: Black-Lake-Data/.lake-data/DEP-20260708-Tech Intel 0104/daily_research_findings_2026-07-08_0104.md

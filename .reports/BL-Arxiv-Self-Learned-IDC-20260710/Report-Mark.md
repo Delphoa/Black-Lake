@@ -36,15 +36,15 @@ The strongest reported result is the driving-performance table over 100 simulati
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+1. `.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
    - Relevance: This DEP treats state as a first-class review object for AI systems, including persistent state, runtime monitoring, and evidence replay. The selected paper similarly makes state representation the control boundary for safe action.
    - Source basis: The related manuscript's executive summary, detailed state-management discussion, and evidence ledger were inspected.
 
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
    - Relevance: VideoWeave focuses on geometry and spatial consistency as latent structure for world models and embodied simulation. The selected paper focuses on traffic-participant state structure for vehicle control in a dynamic world.
    - Source basis: The related manuscript's problem, method, observations, and world-model evaluation discussion were inspected.
 
-3. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
    - Relevance: Physical Data AI studies compact physical-equation representations for data with compatible dynamics. The selected paper uses a compact set encoding and constrained control formulation for a physical traffic system.
    - Source basis: The related manuscript's source metadata, executive summary, detailed method notes, and observations were inspected.
 
@@ -159,12 +159,12 @@ def review_card(arxiv_id, state_model, metrics, limitations):
 - Source URL: https://doi.org/10.48550/arXiv.2110.12359
   - Applies to: persistent DOI metadata.
   - Notes: arXiv-issued DOI.
-- Repository path: `.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Repository path: `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+- Repository path: `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
   - Applies to: related-entry synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.

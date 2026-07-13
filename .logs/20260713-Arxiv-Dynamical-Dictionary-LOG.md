@@ -37,14 +37,14 @@
 
 - .logs/20260713-Arxiv-Dynamical-Dictionary-LOG.md
 - .reports/BL-Arxiv-Dynamical-Dictionary-20260713/Report-Mark.md
-- .lake-data/DEP-E-20260713-Dynamical Dictionary/README.md
-- .lake-data/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md
+- .lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/README.md
+- .lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md
 
 ## Related DEP Entries
 
-1. .lake-data/DEP-E-20260710-Deep ESN Memory — recurrent reservoir dynamics provide a neighboring framework for analyzing learned computation and memory in dynamical networks.
-2. .lake-data/DEP-E-20260709-2D-RC OTFS — geometry-aware reservoir computing shows how structured dynamical state can support bounded online learning in a signal-processing system.
-3. .lake-data/DEP-E-20260713-SMES Expert Sparsity — sparse conditional computation and runtime measurement extend the paper's sparsity-and-efficiency motivation into modern systems practice.
+1. .lake-data/DEP-E/DEP-E-20260710-Deep ESN Memory — recurrent reservoir dynamics provide a neighboring framework for analyzing learned computation and memory in dynamical networks.
+2. .lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS — geometry-aware reservoir computing shows how structured dynamical state can support bounded online learning in a signal-processing system.
+3. .lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity — sparse conditional computation and runtime measurement extend the paper's sparsity-and-efficiency motivation into modern systems practice.
 
 ## Next-Review Questions
 

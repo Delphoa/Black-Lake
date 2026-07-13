@@ -37,7 +37,7 @@ The authors introduce GeoVid-80K, an 80K-video dataset with paired appearance an
 
 ## Related DEP Entries
 
-1. `Delphoa/Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+1. `Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
    - Relevance: This processed Black-Lake artifact includes WorldDirector and frames persistent dynamic object memory as a first-class state object in world simulation. VideoWeave addresses a neighboring problem: transferring geometry-aware priors into video generation so spatial structure remains coherent over time.
    - Source basis: Inspected artifact sections on source metadata, evidence ledger, detailed summary, and related reading.
 
@@ -142,7 +142,7 @@ def media_record(arxiv_id, dep_path, evidence_ids):
 - Source URL: https://videoweave.github.io/
   - Applies to: Report-Mark and DEP manuscript.
   - Notes: Official project page used for author-provided overview and qualitative framing.
-- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md
+- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md
   - Applies to: related DEP synthesis.
   - Notes: Existing processed Black-Lake artifact with WorldDirector and state-review context.
 - Repository path: Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260628-Tech Intel 0102/daily_research_findings_2026-06-28_0102.md

@@ -39,14 +39,14 @@ Exactly three verified entries were used:
 
 1. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 0105/daily_research_findings_2026-07-07_0105.md` — finding 9 covers self-auditing accelerated knee MRI reconstruction, linking reconstruction fidelity to case-level reliability signals.
 2. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 1103/daily_research_findings_2026-07-07_1103.md` — finding 4 covers structure-aware data splitting and hidden stratification in medical imaging, linking the selected paper's limited-data claims to evaluation leakage and subgroup generalization.
-3. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` — reviews a distinct parameter-efficient representation strategy and stresses that parameter count must be paired with measured memory, latency, and hardware evidence.
+3. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` — reviews a distinct parameter-efficient representation strategy and stresses that parameter count must be paired with measured memory, latency, and hardware evidence.
 
 ## Outputs
 
 - Log: `.logs/20260713-Arxiv-Hypercomplex-MRI-LOG.md`
 - Report-Mark: `.reports/BL-Arxiv-Hypercomplex-MRI-20260713/Report-Mark.md`
-- DEP: `.lake-data/DEP-E-20260713-Hypercomplex MRI`
-- Manuscript: `.lake-data/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`
+- DEP: `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI`
+- Manuscript: `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`
 
 ## Validation Intent
 

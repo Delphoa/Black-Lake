@@ -40,11 +40,11 @@ The review treats those metrics as reported author results, not reproduced findi
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`
    - Relevance: SANE uses local reconstruction weights and alignment between attribute and topology neighborhoods. CAR similarly aligns image features, body priors, normals, and canonical geometry to recover missing structure.
    - Source basis: Repository manuscript for arXiv:1804.07152.
 
-2. `Black-Lake/.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+2. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
    - Relevance: 2D-RC encodes known domain geometry into a learner through delay-Doppler structure. CAR encodes human-body geometry through SMPL, linear blend skinning, canonical normals, and SDF constraints.
    - Source basis: Repository manuscript for arXiv:2311.08543.
 
@@ -160,10 +160,10 @@ def route_uncertain_regions(regions, threshold=0.35):
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: related DEP context rules.
   - Notes: Live related repository README inspected.
-- Source reference: Black-Lake/.lake-data/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md
+- Source reference: Black-Lake/.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Related artifact inspected as conceptual context.
-- Source reference: Black-Lake/.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md
+- Source reference: Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Related artifact inspected as conceptual context.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md

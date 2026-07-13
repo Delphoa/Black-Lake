@@ -37,15 +37,15 @@ Outcome: selected, reviewed, and deposited one eligible arXiv archive paper.
 
 - Brief log: `.logs/20260710-Arxiv-Physical-Data-LOG.md`
 - Detailed Report-Mark: `.reports/BL-Arxiv-Physical-Data-20260710/Report-Mark.md`
-- DEP-E deposit: `.lake-data/DEP-E-20260710-Physical Data AI`
-- DEP-E README: `.lake-data/DEP-E-20260710-Physical Data AI/README.md`
-- DEP-E manuscript: `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+- DEP-E deposit: `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI`
+- DEP-E README: `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/README.md`
+- DEP-E manuscript: `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
 - Source files collected: none; public arXiv URLs and withheld-local-context notes preserve provenance.
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md` - related through memory/precision constraints, UltraQuant KV-cache compression, UFP4 low-precision systems, and scientific-computing hardware constraints.
-2. `Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md` - related through local inference as a stack problem spanning runtime packaging, accelerator support, memory-tiered serving, edge hardware, and power/throughput tradeoffs.
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md` - related through memory/precision constraints, UltraQuant KV-cache compression, UFP4 low-precision systems, and scientific-computing hardware constraints.
+2. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md` - related through local inference as a stack problem spanning runtime packaging, accelerator support, memory-tiered serving, edge hardware, and power/throughput tradeoffs.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260710-Tech Intel 0103/daily_research_findings_2026-07-10_0103.md` - related through analog computing, nonvolatile memory/edge hardware, hardware-efficient scientific ML, and model compression findings.
 
 ## Validation Notes

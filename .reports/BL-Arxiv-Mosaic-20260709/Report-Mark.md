@@ -44,15 +44,15 @@ The reusable Black-Lake lesson is that safety evidence for AI-controlled systems
 
 ## Related DEP Entries
 
-1. `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+1. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
    - Relevance: connects Mosaic's runtime safety monitoring to state traces, calibrated alarms, and evidence replay for AI systems.
    - Source basis: the entry directly discusses Online Safety Monitoring for LLMs, persistent-state monitors, and audit-oriented state ledgers.
 
-2. `Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
+2. `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
    - Relevance: connects Mosaic's model-guided falsification and formal-query control signals to agent reliability, process supervision, semantic stopping, and verification-like gates.
    - Source basis: the entry maps agent memory, evaluation, MCP/tool security, OpenRCA-style process evidence, and semantic early stopping sources.
 
-3. `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+3. `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
    - Relevance: connects Mosaic's AI-CPS safety framing to operational AI evaluation, explicit agent-state ledgers, governed tool calls, robotics safety/privacy, and high-stakes domain constraints.
    - Source basis: the entry cites Deployment Simulation, LedgerAgent, AI-agent code-review habituation, FM-powered robotics security/privacy, and related governance sources.
 
@@ -146,25 +146,25 @@ def summarize_episode(episode):
 ## Attribution Block
 
 - Source URL: https://arxiv.org/abs/2305.03882
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Primary arXiv metadata and abstract page for the selected paper.
 - Source URL: https://export.arxiv.org/api/query?id_list=2305.03882
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: arXiv API metadata source for title, authors, submission date, category, version, and summary.
 - Source URL: https://arxiv.org/e-print/2305.03882
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Public arXiv source package inspected for method, evaluation setup, tables, and conclusion; source files were not redistributed.
 - Source URL: https://doi.org/10.48550/arXiv.2305.03882
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Persistent DOI for the selected arXiv paper.
 - Source URL: https://sites.google.com/view/ai-cps-mosaic
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Official supplemental site with workflow, RQ, supplementary-results, and code-locator context.
 - Source URL: https://anonymous.4open.science/r/mosaic-code-reviewed-FD6F/
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Official code locator from the supplemental site; reachable, but code contents were not directly inspected.
 - Source file: local arXiv archive readme and PDF presence, path withheld
-  - Applies to: `.logs/20260709-Arxiv-Mosaic-LOG.md`, Report-Mark.md, and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+  - Applies to: `.logs/20260709-Arxiv-Mosaic-LOG.md`, Report-Mark.md, and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Local archive evidence used only for random-selection provenance; no local path or original source file is published.
 - Repository file: `Black-Lake/README.md`
   - Applies to: all generated repository artifacts
@@ -172,12 +172,12 @@ def summarize_episode(episode):
 - Repository file: `Black-Lake-Data/README.md`
   - Applies to: all generated repository artifacts
   - Notes: Related source-repository authority for DEP layout and attribution context.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Related DEP entry for runtime monitoring, state traces, and evidence replay.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260708-Tech Intel Review/tech-intel-agent-systems-review.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Related DEP entry for agent-system reliability, verification-like process evidence, and tool/security review.
-- Repository file: `Black-Lake/.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
-  - Applies to: Report-Mark.md and `.lake-data/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
+- Repository file: `Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+  - Applies to: Report-Mark.md and `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
   - Notes: Related DEP entry for operational AI evaluation, structured agent state, governance, and embodied-systems safety.

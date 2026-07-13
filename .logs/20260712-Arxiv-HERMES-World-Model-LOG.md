@@ -6,7 +6,7 @@
 - Actor/tool: Codex recurring `Black Lake Arxiv DEP 1100` workflow
 - Action: Randomly select one eligible local arXiv paper, review it source-first, connect it to exactly three related DEP entries, and deposit a log, Report-Mark, and DEP-E manuscript.
 - Outcome: Selected arXiv:2501.14729, *HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation*. Duplicate checks passed on the first draw.
-- Affected DEP: `.lake-data/DEP-E-20260712-HERMES World Model`
+- Affected DEP: `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model`
 - Blockers: None.
 
 ## Random Selection Method
@@ -43,16 +43,16 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — geometry-aware generation and spatial-consistency evaluation overlap with HERMES's BEV-to-point-cloud world modeling.
-2. `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` — attention and representation probes provide a review pattern for HERMES's cross-modal world-query pathway.
+1. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` — geometry-aware generation and spatial-consistency evaluation overlap with HERMES's BEV-to-point-cloud world modeling.
+2. `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` — attention and representation probes provide a review pattern for HERMES's cross-modal world-query pathway.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260628-Tech Intel 0102/daily_research_findings_2026-06-28_0102.md` — item 6 describes coverage-aware hallucination detection for visual world models, directly relevant to HERMES failure evaluation.
 
 ## Output Inventory
 
 - `.logs/20260712-Arxiv-HERMES-World-Model-LOG.md`
 - `.reports/BL-Arxiv-HERMES-World-Model-20260712/Report-Mark.md`
-- `.lake-data/DEP-E-20260712-HERMES World Model/README.md`
-- `.lake-data/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/README.md`
+- `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
 
 ## Validation Notes
 

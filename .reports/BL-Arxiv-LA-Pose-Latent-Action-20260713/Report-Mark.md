@@ -75,13 +75,13 @@ The most defensible conclusion is narrow: in the paper's evaluation, a Genie-sty
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
    - `Relevance`: Both works learn driving-video representations tied to ego-motion and geometry. HERMES forecasts future point clouds using BEV/world queries, whereas LA-Pose predicts camera trajectory from transition latents.
    - `Source basis`: The inspected HERMES manuscript's source metadata, executive summary, architecture, results, and safety boundary.
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
    - `Relevance`: Both works ask a video-learning objective to preserve geometry in latent space. VideoWeave distills geometry-aware video latents; LA-Pose repurposes transition latents for metric pose.
    - `Source basis`: The inspected VideoWeave manuscript's executive summary, method, dataset, and geometry-consistency metrics.
-3. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+3. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
    - `Relevance`: Both turn learned compact representations of driving state or motion into downstream autonomy-relevant outputs, while exposing the gap between simulation/benchmark evidence and deployment safety.
    - `Source basis`: The inspected Self Learned IDC manuscript's representation method, SUMO evaluation, control constraints, and limitations.
 
@@ -206,12 +206,12 @@ def assert_public_safe(text):
 - Source URL: https://la-pose.github.io/
   - Applies to: this Report-Mark and the DEP manuscript.
   - Notes: Official project presentation, method overview, citation, latent-space description, and demos.
-- Related artifact: `.lake-data/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
+- Related artifact: `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
   - Applies to: Related DEP Entries and Synthesis Note.
   - Notes: Driving-world representation and future-geometry context.
-- Related artifact: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+- Related artifact: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
   - Applies to: Related DEP Entries and Synthesis Note.
   - Notes: Latent geometry and video-consistency context.
-- Related artifact: `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+- Related artifact: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
   - Applies to: Related DEP Entries and Synthesis Note.
   - Notes: Learned driving-state representation and constrained-control context.

@@ -43,15 +43,15 @@
 - Log: `.logs/20260710-Arxiv-Self-Learned-IDC-LOG.md`
 - Phase log: `.logs/20260710-Arxiv-Self-Learned-IDC-PHASE-LOG.md`
 - Report-Mark: `.reports/BL-Arxiv-Self-Learned-IDC-20260710/Report-Mark.md`
-- DEP README: `.lake-data/DEP-E-20260710-Self Learned IDC/README.md`
-- DEP manuscript: `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
+- DEP README: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/README.md`
+- DEP manuscript: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
 - Dedup index: `.staging/arxiv-dep-dedup-index.json`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md` - selected for overlap with state as a first-class control and safety review object.
-2. `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - selected for overlap with spatial/world-model consistency and embodied simulation evaluation.
-3. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` - selected for overlap with physical-system learning, compact structured representations, and domain-aligned model substrates.
+1. `.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md` - selected for overlap with state as a first-class control and safety review object.
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - selected for overlap with spatial/world-model consistency and embodied simulation evaluation.
+3. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` - selected for overlap with physical-system learning, compact structured representations, and domain-aligned model substrates.
 
 ## Next-Review Questions
 

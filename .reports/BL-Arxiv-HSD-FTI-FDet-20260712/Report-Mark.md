@@ -30,7 +30,7 @@ The private PDF extraction was checked against public arXiv HTML and publisher m
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md` — relevant because it studies spatial partitioning, feature geometry, label ambiguity, and efficient object detection; basis: the DEP manuscript and its primary reference, arXiv:2506.10601.
+1. `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md` — relevant because it studies spatial partitioning, feature geometry, label ambiguity, and efficient object detection; basis: the DEP manuscript and its primary reference, arXiv:2506.10601.
 2. `https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md` — relevant because finding 5 treats teacher/student asymmetry as a topology-aware knowledge-distillation systems problem; basis: the DEP finding and arXiv:2606.27797.
 3. `https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201311/daily_research_findings_2026-07-11_1311.md` — relevant because findings 7-9 connect compression, component-wise quantization, and heterogeneous edge hardware to deployment latency and energy; basis: the DEP finding and arXiv:2607.08015, arXiv:2607.08029, and arXiv:2607.08013.
 
@@ -112,7 +112,7 @@ def rank_candidates(rows, min_recall=0.995, max_latency_ms=30):
 - https://doi.org/10.1016/j.aei.2023.102091 — publisher DOI and publication identity.
 - https://www.sciencedirect.com/science/article/pii/S1474034623002197 — publisher abstract, highlights, volume, and article metadata.
 - https://github.com/Delphoa/Black-Lake/blob/main/README.md — live Black Lake deposition, naming, attribution, and commit rules.
-- `.lake-data/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md` — related processed DEP on spatially structured oriented object detection; cites https://arxiv.org/abs/2506.10601.
+- `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md` — related processed DEP on spatially structured oriented object detection; cites https://arxiv.org/abs/2506.10601.
 - https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md — live related-repository DEP layout and provenance rules.
 - https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md — related DEP finding on topology-aware knowledge distillation; cites https://arxiv.org/abs/2606.27797.
 - https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201311/daily_research_findings_2026-07-11_1311.md — related DEP findings on hardware-aware compression and edge deployment; cites https://arxiv.org/abs/2607.08015, https://arxiv.org/abs/2607.08029, and https://arxiv.org/abs/2607.08013.

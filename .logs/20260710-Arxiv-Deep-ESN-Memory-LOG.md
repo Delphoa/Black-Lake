@@ -39,14 +39,14 @@
 
 - `.logs/20260710-Arxiv-Deep-ESN-Memory-LOG.md`
 - `.reports/BL-Arxiv-Deep-ESN-Memory-20260710/Report-Mark.md`
-- `.lake-data/DEP-E-20260710-Deep ESN Memory/README.md`
-- `.lake-data/DEP-E-20260710-Deep ESN Memory/deep_esn_memory_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260710-Deep ESN Memory/README.md`
+- `.lake-data/DEP-E/DEP-E-20260710-Deep ESN Memory/deep_esn_memory_manuscript.md`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`
    - Relevance: direct reservoir-computing overlap; the OTFS review studies reservoir computing for online wireless symbol detection, while the selected paper analyzes memory capacity and deep ESN architectures.
-2. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
+2. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`
    - Relevance: shared time-series and compact model-design concern; both artifacts ask how structured dynamics can improve learning with fewer or better-targeted trainable degrees of freedom.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260707-Tech Intel 1103/daily_research_findings_2026-07-07_1103.md`
    - Relevance: memory as a measurable system resource; the entry includes agent-memory and cache-state findings that help contrast ESN short-term memory capacity with operational AI memory workloads.

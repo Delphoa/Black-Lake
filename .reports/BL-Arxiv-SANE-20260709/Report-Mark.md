@@ -185,7 +185,7 @@ def admit_edge(candidate, evidence_index):
   - Applies to: Report-Mark.md and `.logs/20260709-Arxiv-SANE-LOG.md`
   - Notes: Local archive metadata confirmed the selected paper URL and PDF presence; local path withheld by public-output sanitization policy.
 - Repository file: `Black-Lake/README.md`
-  - Applies to: Report-Mark.md, `.logs/20260709-Arxiv-SANE-LOG.md`, and `.lake-data/DEP-E-20260709-SANE Embeddings/README.md`
+  - Applies to: Report-Mark.md, `.logs/20260709-Arxiv-SANE-LOG.md`, and `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/README.md`
   - Notes: Repository layout, DEP class, README, attribution, log/report, and commit-message source of truth.
 - Repository file: `Black-Lake-Data/README.md`
   - Applies to: Report-Mark.md

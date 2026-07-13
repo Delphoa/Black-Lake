@@ -27,15 +27,15 @@ The review inspected the complete extracted paper, including definitions, Theore
 - `.logs/20260712-Arxiv-Global-NS-Existence-LOG.md`
 - `.logs/20260712-Arxiv-Global-NS-Existence-PHASE-LOG.md`
 - `.reports/BL-Arxiv-Global-NS-Existence-20260712/Report-Mark.md`
-- `.lake-data/DEP-E-20260712-Global NS Existence/README.md`
-- `.lake-data/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/README.md`
+- `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`
 - `.staging/arxiv-dep-dedup-index.json`
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md` - a theorem-centered global-solution classification artifact with explicit parameter regimes, proof dependencies, and formal-verification limits.
-2. `.lake-data/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` - a PDE-shaped implementation artifact that makes equation choice and domain fit explicit design constraints.
-3. `.lake-data/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` - a dynamical-systems artifact centered on forward invariance, boundary constraints, approximation, and the gap between mathematical conditions and computational evidence.
+1. `.lake-data/DEP-E/DEP-E-20260709-Fermat Difference/fermat-difference-manuscript.md` - a theorem-centered global-solution classification artifact with explicit parameter regimes, proof dependencies, and formal-verification limits.
+2. `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` - a PDE-shaped implementation artifact that makes equation choice and domain fit explicit design constraints.
+3. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md` - a dynamical-systems artifact centered on forward invariance, boundary constraints, approximation, and the gap between mathematical conditions and computational evidence.
 
 ## Next-Review Questions
 

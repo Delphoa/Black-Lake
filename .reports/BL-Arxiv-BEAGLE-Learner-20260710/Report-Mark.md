@@ -36,10 +36,10 @@ The main evaluation covers four Python programming tasks across physics, applied
 
 ## Related DEP Entries
 
-1. `Delphoa/Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+1. `Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
    - Relevance reason: The local-AI stack artifact discusses Agent Memory and secure-agent concerns around persistent state, authority boundaries, and state corruption. BEAGLE has a narrower education target but uses the same broad design move: behavior is controlled through explicit state, memory, and knowledge constraints rather than a one-shot model prompt.
    - Source basis: Inspected the manuscript's source metadata, evidence ledger, detailed summary, and potential implementation sections.
-2. `Delphoa/Black-Lake/.lake-data/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md`
+2. `Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md`
    - Relevance reason: This artifact links early-abort agent episodes and DynaKRAG evidence-state control. BEAGLE is similarly a trajectory-control paper: it decides what the agent can perceive, whether it can update mastery, and how behavior transitions over time.
    - Source basis: Inspected the artifact sections on agent episodes, evidence-state RAG, key claims, and potential implementations.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260702-Tech Intel 1102/daily_research_findings_2026-07-02_1102.md`
@@ -146,10 +146,10 @@ def choose_hint(error_type, state):
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data
   - Applies to: related DEP context and source repository guidance.
   - Notes: Repository README and selected DEP context inspected from a fresh clone; no local paths are included here.
-- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md
+- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md
   - Applies to: related DEP entry 1.
   - Notes: Conceptual overlap with agent memory and secure state governance.
-- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md
+- Repository path: Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md
   - Applies to: related DEP entry 2.
   - Notes: Conceptual overlap with controlled agent trajectories and evidence-state gating.
 - Repository path: Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260702-Tech Intel 1102/daily_research_findings_2026-07-02_1102.md

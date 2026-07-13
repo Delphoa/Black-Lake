@@ -61,12 +61,12 @@ Source claims are paraphrased from E1–E4. Product and implementation ideas bel
 
 ## Related DEP Entries
 
-1. [VideoWeave Geometry manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md)
-   - Repository path: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+1. [VideoWeave Geometry manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md)
+   - Repository path: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
    - Relevance: VideoWeave treats geometry as a latent consistency signal for generated video, while HERMES makes BEV geometry the shared interface between language understanding and point-cloud evolution. Both argue that appearance-only generation is insufficient for world-model use.
    - Source basis: The related manuscript's inspected Executive Summary, Detailed Summary, evidence ledger, and observations, grounded in arXiv full text.
-2. [VLM Probing manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md)
-   - Repository path: `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
+2. [VLM Probing manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md)
+   - Repository path: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
    - Relevance: VALUE's layer, head, modality, and mismatch probes offer a concrete audit pattern for testing where HERMES's BEV, text, and world-query information actually fuse.
    - Source basis: The related manuscript's inspected Executive Summary, probe results, evidence ledger, and observations.
 3. [Visual world-model hallucination finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260628-Tech%20Intel%200102/daily_research_findings_2026-06-28_0102.md)
@@ -178,10 +178,10 @@ The sketches operate on synthetic or aggregate metrics, avoid raw sensor data, a
 - Source URL: https://github.com/LMD0311/HERMES
   - Applies to: official code, release material, setup guides, and Apache-2.0 license status.
   - Notes: Repository inspected for availability; code was not executed.
-- Repository source: `.lake-data/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
   - Applies to: related-entry geometry and world-model synthesis.
   - Notes: Existing Black Lake manuscript.
-- Repository source: `.lake-data/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
+- Repository source: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
   - Applies to: related-entry representation-audit synthesis.
   - Notes: Existing Black Lake manuscript.
 - Repository source: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260628-Tech Intel 0102/daily_research_findings_2026-06-28_0102.md`

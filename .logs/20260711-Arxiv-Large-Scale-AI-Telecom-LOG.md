@@ -6,7 +6,7 @@
 - Actor/tool: Codex recurring Arxiv DEP workflow.
 - Action: selected, deduplicated, extracted, reviewed, and prepared a DEP-E research deposit for arXiv:2503.04184.
 - Selected paper: *Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences*.
-- Affected DEP path: `.lake-data/DEP-E-20260711-Telecom AI Roadmap`.
+- Affected DEP path: `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap`.
 - Outcome: eligible paper accepted on the first random draw; source-grounded artifacts prepared.
 - Blockers: none. TeX/source-package extraction was unavailable, but the 249-page PDF and public arXiv metadata were successfully inspected.
 
@@ -40,16 +40,16 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md` - telecom physical-layer online learning and structure-aware wireless inference.
-2. `.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md` - edge/self-hosted inference, hardware, memory, privacy, and model-serving constraints.
-3. `.lake-data/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` - state representation, constrained optimization, real-time control, and simulation-before-deployment.
+1. `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md` - telecom physical-layer online learning and structure-aware wireless inference.
+2. `.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md` - edge/self-hosted inference, hardware, memory, privacy, and model-serving constraints.
+3. `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` - state representation, constrained optimization, real-time control, and simulation-before-deployment.
 
 ## Output Paths
 
 - `.logs/20260711-Arxiv-Large-Scale-AI-Telecom-LOG.md`
 - `.reports/BL-Arxiv-Large-Scale-AI-Telecom-20260711/Report-Mark.md`
-- `.lake-data/DEP-E-20260711-Telecom AI Roadmap/README.md`
-- `.lake-data/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/README.md`
+- `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`
 
 ## Validation Status
 

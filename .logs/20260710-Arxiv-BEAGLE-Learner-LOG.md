@@ -41,14 +41,14 @@ Run date: 2026-07-10. Exact local execution timestamp withheld for public safety
 
 - `.logs/20260710-Arxiv-BEAGLE-Learner-LOG.md`
 - `.reports/BL-Arxiv-BEAGLE-Learner-20260710/Report-Mark.md`
-- `.lake-data/DEP-E-20260710-BEAGLE Learner/README.md`
-- `.lake-data/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/README.md`
+- `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`
 
 ## Related DEP Entries
 
-1. `Delphoa/Black-Lake/.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+1. `Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
    - Relevance: connects persistent memory, authority boundaries, and secure agent state to BEAGLE's explicit behavior and knowledge-state controls.
-2. `Delphoa/Black-Lake/.lake-data/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md`
+2. `Delphoa/Black-Lake/.lake-data/DEP-E/DEP-E-20260710-Tech Intel 0101/tech-intel-0101-research.md`
    - Relevance: includes early-abort agent episodes and evidence-state RAG, both conceptually adjacent to BEAGLE's controlled trajectory progression.
 3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260702-Tech Intel 1102/daily_research_findings_2026-07-02_1102.md`
    - Relevance: includes reversible context management and real-device agent evaluation, both related to long-horizon behavior traces and evaluation realism.

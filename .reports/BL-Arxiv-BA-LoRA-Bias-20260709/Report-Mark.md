@@ -38,15 +38,15 @@ The inspected evidence supports the paper as a promising PEFT robustness method,
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E-20260709-Local AI Stack/local-ai-research.md`
+1. `.lake-data/DEP-E/DEP-E-20260709-Local AI Stack/local-ai-research.md`
    - Relevance: This entry records local/self-hosted AI as a stack involving model runtimes, tokenizer behavior, adapter compatibility, serving memory, and governance. BA-LoRA is directly adjacent because it is a PEFT/adapter method whose practical value depends on tooling compatibility and deployment stack readiness.
    - Source basis: The related manuscript's evidence ledger includes Transformers PEFT compatibility and local AI stack constraints.
 
-2. `.lake-data/DEP-E-20260708-Agent State Review/agent_state_review.md`
+2. `.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
    - Relevance: This entry reviews state, monitoring, parameter-level unlearning, and durable local neural artifacts. BA-LoRA also treats adaptation as a stateful intervention that should preserve robust pre-trained behavior while reducing inherited failure modes.
    - Source basis: The related manuscript covers LACUNA, Online Safety Monitoring, and Program-as-Weights as examples of hidden state, monitoring, and adapter-like artifacts.
 
-3. `.lake-data/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
+3. `.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`
    - Relevance: This entry preserves agent evaluation, deployment simulation, and low-precision model-bias sources. BA-LoRA complements that map by focusing on bias/noise mitigation during fine-tuning rather than pre-release simulation or numeric-format effects.
    - Source basis: The related manuscript includes Deployment Simulation, UFP4 shrinkage bias, and governance/safety evidence boundaries.
 
@@ -128,7 +128,7 @@ def validate_balora_config(cfg):
 - Random method recorded: sorted paper-unit list with PowerShell `Get-Random` index selection.
 - Deduplication across `.logs`, `.reports`, `.lake-data`, automation memory, and related Black-Lake-Data search found no same-paper markers.
 - Source files collected: none.
-- Output path set: `.logs`, `.reports`, and `.lake-data/DEP-E-20260709-BA-LoRA Bias`.
+- Output path set: `.logs`, `.reports`, and `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias`.
 - Public artifact sanitization: repository-relative paths and public URLs only; no local absolute paths or exact local execution timestamps.
 - Required Synthesis Note subsections are present with exactly three entries where requested.
 

@@ -40,8 +40,8 @@
 
 - `.logs/20260709-Arxiv-BA-LoRA-Bias-LOG.md`
 - `.reports/BL-Arxiv-BA-LoRA-Bias-20260709/Report-Mark.md`
-- `.lake-data/DEP-E-20260709-BA-LoRA Bias/README.md`
-- `.lake-data/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
+- `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/README.md`
+- `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
 
 ## Source Collection
 

@@ -47,9 +47,9 @@ Evidence quality is strongest for paper identity, method, theorem statements, ex
 
 ## Related DEP Entries
 
-1. [.lake-data/DEP-E-20260710-Deep ESN Memory](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260710-Deep%20ESN%20Memory) — This entry reviews memory capacity in shallow, parallel, and series echo-state networks. It overlaps through recurrent state dynamics, fixed/local internal computation, and the need to separate theoretical capacity from empirical prediction quality. Source basis: the processed DEP manuscript and arXiv:1908.07063.
-2. [.lake-data/DEP-E-20260709-2D-RC OTFS](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260709-2D-RC%20OTFS) — This entry reviews a two-dimensional reservoir learner whose state geometry matches circular delay-Doppler interactions and is trained online from limited pilots. It overlaps through dynamical state, locally structured recurrence, and online learning under system constraints. Source basis: the processed DEP manuscript and arXiv:2311.08543.
-3. [.lake-data/DEP-E-20260713-SMES Expert Sparsity](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260713-SMES%20Expert%20Sparsity) — This entry reviews sparse expert routing and the systems work needed to turn conditional activation into latency improvement. It overlaps through sparsity as a computational principle, load/locality constraints, and the distinction between algorithmic efficiency and measured hardware efficiency. Source basis: the processed DEP manuscript and arXiv:2602.09386.
+1. [.lake-data/DEP-E/DEP-E-20260710-Deep ESN Memory](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Deep%20ESN%20Memory) — This entry reviews memory capacity in shallow, parallel, and series echo-state networks. It overlaps through recurrent state dynamics, fixed/local internal computation, and the need to separate theoretical capacity from empirical prediction quality. Source basis: the processed DEP manuscript and arXiv:1908.07063.
+2. [.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS) — This entry reviews a two-dimensional reservoir learner whose state geometry matches circular delay-Doppler interactions and is trained online from limited pilots. It overlaps through dynamical state, locally structured recurrence, and online learning under system constraints. Source basis: the processed DEP manuscript and arXiv:2311.08543.
+3. [.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity) — This entry reviews sparse expert routing and the systems work needed to turn conditional activation into latency improvement. It overlaps through sparsity as a computational principle, load/locality constraints, and the distinction between algorithmic efficiency and measured hardware efficiency. Source basis: the processed DEP manuscript and arXiv:2602.09386.
 
 ## Synthesis Note
 
@@ -146,19 +146,19 @@ The selected paper, Deep ESN, 2D-RC, and SMES describe four ways to control comp
 - Source URL: https://openreview.net/forum?id=B1gstsCqt7
   - Applies to: ICLR 2019 conference-title and publication context.
   - Notes: Official locator identified; deeper interactive access was challenge-blocked.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260710-Deep%20ESN%20Memory
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Deep%20ESN%20Memory
   - Applies to: Deep ESN related-entry synthesis.
   - Notes: Processed Black Lake DEP inspected from the refreshed default branch.
 - Source URL: https://arxiv.org/abs/1908.07063
   - Applies to: Deep ESN primary source basis recorded by the related DEP.
   - Notes: Used only for related-entry context.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260709-2D-RC%20OTFS
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS
   - Applies to: 2D-RC related-entry synthesis.
   - Notes: Processed Black Lake DEP inspected from the refreshed default branch.
 - Source URL: https://arxiv.org/abs/2311.08543
   - Applies to: 2D-RC primary source basis recorded by the related DEP.
   - Notes: Used only for related-entry context.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E-20260713-SMES%20Expert%20Sparsity
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity
   - Applies to: SMES related-entry synthesis.
   - Notes: Processed Black Lake DEP inspected from the refreshed default branch.
 - Source URL: https://arxiv.org/abs/2602.09386
