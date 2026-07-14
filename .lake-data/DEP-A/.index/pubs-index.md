@@ -270,3 +270,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper on 2026-0
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems* | Varun Pratap Bhardwaj | [arXiv:2604.04514v1](https://arxiv.org/abs/2604.04514v1) · [DOI](https://doi.org/10.48550/arXiv.2604.04514) |
+
+## [DEP-A-20260715-Hybrid Graph Compression](../DEP-A-20260715-Hybrid%20Graph%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.23277-whitepaper-review.md`](../DEP-A-20260715-Hybrid%20Graph%20Compression/2604.23277-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Similarity to Structure: Training-free LLM Context Compression with Hybrid Graph Priors* | Yitian Zhou; Chaoning Zhang; Jiaquan Zhang; Zhenzhen Huang; Jinyu Guo; Sung-Ho Bae; Lik-Hang Lee; Caiyan Qin; Yang Yang | [arXiv:2604.23277v1](https://arxiv.org/abs/2604.23277v1) · [DOI](https://doi.org/10.48550/arXiv.2604.23277) |
+
+
+## [DEP-A-20260715-ZipRL Context Compression](../DEP-A-20260715-ZipRL%20Context%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.28069-whitepaper-review.md`](../DEP-A-20260715-ZipRL%20Context%20Compression/2605.28069-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ZipRL: Adaptive Multi-Turn Context Compression with Hindsight Response Replay* | Zhexin Hu; Li Wang; Xiaohan Wang; Jiajun Chai; Xiaojun Guo; Wei Lin; Guojun Yin | [arXiv:2605.28069v1](https://arxiv.org/abs/2605.28069v1) · [DOI](https://doi.org/10.48550/arXiv.2605.28069) |
+
+
+## [DEP-A-20260715-TACO Terminal Context](../DEP-A-20260715-TACO%20Terminal%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.19572-whitepaper-review.md`](../DEP-A-20260715-TACO%20Terminal%20Context/2604.19572-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression* | Jincheng Ren; Siwei Wu; Yizhi Li; Kang Zhu; Shu Xu; Boyu Feng; Ruibin Yuan; Wei Zhang; Riza Batista-Navarro; Jian Yang; Chenghua Lin | [arXiv:2604.19572v3](https://arxiv.org/abs/2604.19572v3) · [DOI](https://doi.org/10.48550/arXiv.2604.19572) |
+
+
+## [DEP-A-20260715-Self-Correcting RAG](../DEP-A-20260715-Self-Correcting%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.10734-whitepaper-review.md`](../DEP-A-20260715-Self-Correcting%20RAG/2604.10734-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-Correcting RAG: Enhancing Faithfulness via MMKP Context Selection and NLI-Guided MCTS* | Shijia Xu; Zhou Wu; Xiaolong Jia; Yu Wang; Kai Liu; April Xiaowen Dong | [arXiv:2604.10734v1](https://arxiv.org/abs/2604.10734v1) · [DOI](https://doi.org/10.48550/arXiv.2604.10734) |
+
+
+## [DEP-A-20260715-Context-Intensive KV](../DEP-A-20260715-Context-Intensive%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v4 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.08426-whitepaper-review.md`](../DEP-A-20260715-Context-Intensive%20KV/2604.08426-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KV Cache Offloading for Context-Intensive Tasks* | Andrey Bocharnikov; Ivan Ermakov; Denis Kuznedelev; Vyacheslav Zhdanovskiy; Yegor Yershov | [arXiv:2604.08426v4](https://arxiv.org/abs/2604.08426v4) · [DOI](https://doi.org/10.48550/arXiv.2604.08426) |
