@@ -256,20 +256,27 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration",
-        ".logs/20260714-Arxiv-iKalibr-LOG.md",
-        ".reports/BL-Arxiv-iKalibr-20260714/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260714-OViP Preference",
+        ".lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md",
+        ".logs/20260714-Arxiv-OViP-Preference-Learning-LOG.md",
+        ".logs/20260714-Arxiv-OViP-Preference-Learning-PHASE-LOG.md",
+        ".reports/BL-Arxiv-OViP-Preference-Learning-20260714/Report-Mark.md"
       ],
-      "arxiv_base_id": "2407.11420",
-      "arxiv_id": "2407.11420",
+      "arxiv_base_id": "2505.15963",
+      "arxiv_id": "2505.15963v2",
       "commit_or_pr": "",
       "deposit_date": "20260714",
-      "doi": "",
-      "normalized_title": "iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems",
-      "notes": "",
-      "slug": "iKalibr",
+      "doi": "10.48550/arXiv.2505.15963",
+      "normalized_title": "OViP: Online Vision-Language Preference Learning for VLM Hallucination",
+      "notes": "Uniform draw index 50425 of 75774; first draw eligible with zero reselections; initial partial archive repaired to verified complete; initial cache miss became cached with PDF, HTML, and source text; all source files withheld locally.",
+      "slug": "OViP-Preference-Learning",
       "source_urls": [
-        "https://arxiv.org/abs/2407.11420"
+        "https://arxiv.org/abs/2505.15963",
+        "https://arxiv.org/e-print/2505.15963",
+        "https://arxiv.org/html/2505.15963",
+        "https://arxiv.org/pdf/2505.15963",
+        "https://doi.org/10.48550/arXiv.2505.15963",
+        "https://github.com/lsjlsj35/Online-Vision-Language-Preference-Learning-for-VLM-Hallucination"
       ],
       "status": "deposited"
     },
@@ -293,6 +300,25 @@
         "https://arxiv.org/pdf/2104.14214",
         "https://ar5iv.labs.arxiv.org/html/2104.14214",
         "https://doi.org/10.1088/1367-2630/ac7f26"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration",
+        ".logs/20260714-Arxiv-iKalibr-LOG.md",
+        ".reports/BL-Arxiv-iKalibr-20260714/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.11420",
+      "arxiv_id": "2407.11420",
+      "commit_or_pr": "",
+      "deposit_date": "20260714",
+      "doi": "",
+      "normalized_title": "iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems",
+      "notes": "",
+      "slug": "iKalibr",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.11420"
       ],
       "status": "deposited"
     }
