@@ -262,3 +262,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper, appendic
 | *Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs* | Gabrielle Kaili-May Liu; Avi Caciularu; Gal Yona; Idan Szpektor; Arman Cohan | [arXiv:2606.32032v1](https://arxiv.org/abs/2606.32032v1) · [DOI](https://doi.org/10.48550/arXiv.2606.32032) |
 
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
+
+## [DEP-A-20260714-SLM Living Memory](../DEP-A-20260714-SLM%20Living%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2604.04514-whitepaper-review.md`](../DEP-A-20260714-SLM%20Living%20Memory/2604.04514-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems* | Varun Pratap Bhardwaj | [arXiv:2604.04514v1](https://arxiv.org/abs/2604.04514v1) · [DOI](https://doi.org/10.48550/arXiv.2604.04514) |
