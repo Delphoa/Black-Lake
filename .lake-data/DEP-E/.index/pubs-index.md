@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Coverage at creation: **87 publications across 37 DEP-E entries** (83 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against the arXiv API on 2026-07-13; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Coverage at creation: **97 publications across 38 DEP-E entries** (93 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-14; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260714-Structure Aware Systems](../DEP-E-20260714-Structure%20Aware%20Systems/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt Compression via Activation Aggregation* | Thibaud Ardoin; Semira Einsele; Evis Bregu; Gerhard Wunder | [arXiv:2607.08399](https://arxiv.org/abs/2607.08399) |
+| *Trace: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories* | Zheng Gao; Xiaoyu Li; Xiaoyan Feng; et al. | [arXiv:2607.08400](https://arxiv.org/abs/2607.08400) |
+| *Out of Sight: Compression-Aware Content Protection against Agentic Crawlers* | Xuefei Wang | [arXiv:2607.08180](https://arxiv.org/abs/2607.08180) |
+| *Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems* | Yufei Xia; Anjun Gao; Yueyang Quan; Zhuqing Liu; Minghong Fang | [arXiv:2607.07989](https://arxiv.org/abs/2607.07989) |
+| *ReCoLoRA: Spectrum-Aware Recursive Consolidation for Continual LLM Fine-Tuning* | Wentao Lu | [arXiv:2607.07719](https://arxiv.org/abs/2607.07719) |
+| *Context Graphs for Proactive Enterprise Agents: Enabling Intent-Aware Information Surfacing Beyond Reactive Retrieval* | Avinash Kumar | [arXiv:2607.07721](https://arxiv.org/abs/2607.07721) |
+| *Orchestrating Workflows with Declarative Deterministic–Probabilistic Composition* | Wen G. Gong | [arXiv:2607.07727](https://arxiv.org/abs/2607.07727) |
+| *Measurement-Based Quantum Computing on a Photonic Chip* | Jeldrik Huster; Louis L. Hohmann; Kevin Edelmann; Stefanie Barz | [arXiv:2607.07890](https://arxiv.org/abs/2607.07890) |
+| *Möbius-Guided Diagonal-Gate Compilation with Native Multiqubit Controlled-Phase Gates on Neutral-Atom Processors* | Hairuo Huang; Yanwu Gu; Chen Huang; et al. | [arXiv:2607.08212](https://arxiv.org/abs/2607.08212) |
+| *Quantum Linear Solvers for Quantum Chemistry: Prospects of Exponential Quantum Advantage* | Peniel Bertrand Tsemo; Kenji Sugisaki; Ishita Bhattacharjee; V. S. Prasannaa | [arXiv:2607.08220](https://arxiv.org/abs/2607.08220) |
 
 ## [DEP-E-20260708-Agent State Review](../DEP-E-20260708-Agent%20State%20Review/README.md)
 
