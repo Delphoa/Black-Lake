@@ -253,4 +253,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper on 2026-0
 |---|---|---|
 | *Tail-Aware Adaptive-k: Query-Adaptive Context Selection for Retrieval-Augmented Generation* | Ziyu Song; Jiaming Fang; Kuangyu Li; Tuo Xia; Chuanpeng Wang | [arXiv:2606.11907v1](https://arxiv.org/abs/2606.11907v1) · [DOI](https://doi.org/10.48550/arXiv.2606.11907) |
 
+## [DEP-A-20260714-RLMF Uncertainty](../DEP-A-20260714-RLMF%20Uncertainty/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper, appendices, figures, TeX source, and official implementation on 2026-07-14. The owning review artifact is [`2606.32032-whitepaper-review.md`](../DEP-A-20260714-RLMF%20Uncertainty/2606.32032-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs* | Gabrielle Kaili-May Liu; Avi Caciularu; Gal Yona; Idan Szpektor; Arman Cohan | [arXiv:2606.32032v1](https://arxiv.org/abs/2606.32032v1) · [DOI](https://doi.org/10.48550/arXiv.2606.32032) |
+
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.

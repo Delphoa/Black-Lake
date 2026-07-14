@@ -305,6 +305,33 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-A/DEP-A-20260714-RLMF Uncertainty",
+        ".lake-data/DEP-A/DEP-A-20260714-RLMF Uncertainty/2606.32032-whitepaper-review.md",
+        ".lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty",
+        ".lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md",
+        ".logs/20260714-Arxiv-RLMF-Uncertainty-LOG.md",
+        ".reports/BL-Arxiv-RLMF-Uncertainty-20260714/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.32032",
+      "arxiv_id": "2606.32032v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260714",
+      "doi": "10.48550/arXiv.2606.32032",
+      "normalized_title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "notes": "User-directed selection; complete private PDF, HTML, and source inspected; official code statically audited at a pinned commit; no source files redistributed; experiments not rerun.",
+      "slug": "RLMF-Uncertainty",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.32032",
+        "https://arxiv.org/e-print/2606.32032",
+        "https://arxiv.org/html/2606.32032",
+        "https://arxiv.org/pdf/2606.32032",
+        "https://doi.org/10.48550/arXiv.2606.32032",
+        "https://github.com/yale-nlp/RLMF"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration",
         ".logs/20260714-Arxiv-iKalibr-LOG.md",
         ".reports/BL-Arxiv-iKalibr-20260714/Report-Mark.md"
