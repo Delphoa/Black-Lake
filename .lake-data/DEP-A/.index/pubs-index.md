@@ -163,6 +163,38 @@ Review status: substantively reviewed from the complete primary paper on 2026-07
 
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
 
+## [DEP-A-20260714-KV-CAT Compressibility](../DEP-A-20260714-KV-CAT%20Compressibility/README.md)
+Review status: substantively reviewed from complete arXiv v2 on 2026-07-14. Artifact: [`2605.05971-whitepaper-review.md`](../DEP-A-20260714-KV-CAT%20Compressibility/2605.05971-whitepaper-review.md).
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Training Transformers for KV Cache Compressibility* | Yoav Gelberg; Yam Eitan; Michael Bronstein; Yarin Gal; Haggai Maron | [arXiv:2605.05971v2](https://arxiv.org/abs/2605.05971v2) · [DOI](https://doi.org/10.48550/arXiv.2605.05971) |
+
+## [DEP-A-20260714-Learn to Pool](../DEP-A-20260714-Learn%20to%20Pool/README.md)
+Review status: substantively reviewed from complete arXiv v1 and public artifacts on 2026-07-14. Artifact: [`2607.06036-whitepaper-review.md`](../DEP-A-20260714-Learn%20to%20Pool/2607.06036-whitepaper-review.md).
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learn to Pool: Lightweight Fine-Tuning for Flexible Multi-Vector Compression* | Stefan Josef | [arXiv:2607.06036v1](https://arxiv.org/abs/2607.06036v1) · [DOI](https://doi.org/10.48550/arXiv.2607.06036) |
+
+## [DEP-A-20260714-RQ-MoE Vector Codes](../DEP-A-20260714-RQ-MoE%20Vector%20Codes/README.md)
+Review status: substantively reviewed from complete arXiv v1 and official code on 2026-07-14. Artifact: [`2605.14359-whitepaper-review.md`](../DEP-A-20260714-RQ-MoE%20Vector%20Codes/2605.14359-whitepaper-review.md).
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression* | Zhengjia Zhong; Shuyan Ke; Zaizhou Lin; Jiaqi Song; Hongyi Lan; Hui Li | [arXiv:2605.14359v1](https://arxiv.org/abs/2605.14359v1) · [DOI](https://doi.org/10.48550/arXiv.2605.14359) |
+
+## [DEP-A-20260714-Spectral Tempering](../DEP-A-20260714-Spectral%20Tempering/README.md)
+Review status: substantively reviewed from complete arXiv v2 and official code/publication on 2026-07-14. Artifact: [`2603.19339-whitepaper-review.md`](../DEP-A-20260714-Spectral%20Tempering/2603.19339-whitepaper-review.md).
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Tempering for Embedding Compression in Dense Passage Retrieval* | Yongkang Li; Panagiotis Eustratiadis; Evangelos Kanoulas | [arXiv:2603.19339v2](https://arxiv.org/abs/2603.19339v2) · [DOI](https://doi.org/10.48550/arXiv.2603.19339) |
+
+## [DEP-A-20260714-PACMS Context Engine](../DEP-A-20260714-PACMS%20Context%20Engine/README.md)
+Review status: substantively reviewed from complete arXiv v1 on 2026-07-14. Artifact: [`2606.20047-whitepaper-review.md`](../DEP-A-20260714-PACMS%20Context%20Engine/2606.20047-whitepaper-review.md).
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PACMS: Submodular Context Selection as a Pluggable Engine for LLM Agents* | Manu Ghulyani; Arunabh Singh; Karan Bharadwaj; Ankit Nath; Suranjan Goswami | [arXiv:2606.20047v1](https://arxiv.org/abs/2606.20047v1) · [DOI](https://doi.org/10.48550/arXiv.2606.20047) |
+
+Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
+
 ## [DEP-A-20260714-SeCo Semantic Grouping](../DEP-A-20260714-SeCo%20Semantic%20Grouping/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2605.09463-whitepaper-review.md`](../DEP-A-20260714-SeCo%20Semantic%20Grouping/2605.09463-whitepaper-review.md).
