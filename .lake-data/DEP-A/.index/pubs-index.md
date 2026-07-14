@@ -163,6 +163,24 @@ Review status: substantively reviewed from the complete primary paper on 2026-07
 
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
 
+## [DEP-A-20260714-C-DIC Dialogue Memory](../DEP-A-20260714-C-DIC%20Dialogue%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2606.12411-whitepaper-review.md`](../DEP-A-20260714-C-DIC%20Dialogue%20Memory/2606.12411-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context-Driven Incremental Compression for Multi-Turn Dialogue Generation* | Yeongseo Jung; Jaehyeok Kim; Eunseo Jung; Jiachuan Wang; Yongqi Zhang; Ka Chun Cheung; Simon See; Lei Chen | [arXiv:2606.12411v1](https://arxiv.org/abs/2606.12411v1) · [DOI](https://doi.org/10.48550/arXiv.2606.12411) |
+
+## [DEP-A-20260714-LongAttnComp](../DEP-A-20260714-LongAttnComp/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and primary publication record on 2026-07-14. The owning review artifact is [`2606.01336-whitepaper-review.md`](../DEP-A-20260714-LongAttnComp/2606.01336-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning* | Mengmeng Ji; Ravi Shanker Raju; Jonathan Lingjie Li; Chen Wu | [arXiv:2606.01336v2](https://arxiv.org/abs/2606.01336v2) · [DOI](https://doi.org/10.48550/arXiv.2606.01336) · [OpenReview](https://openreview.net/pdf/8c5cd2d078c86a32df600810c5f5945a7f6659e9.pdf) |
+
+Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
+
 ## [DEP-A-20260714-KV-CAT Compressibility](../DEP-A-20260714-KV-CAT%20Compressibility/README.md)
 Review status: substantively reviewed from complete arXiv v2 on 2026-07-14. Artifact: [`2605.05971-whitepaper-review.md`](../DEP-A-20260714-KV-CAT%20Compressibility/2605.05971-whitepaper-review.md).
 | Publication | Authors or credited organization | Canonical record |
