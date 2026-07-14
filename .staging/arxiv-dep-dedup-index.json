@@ -253,6 +253,25 @@
         "https://doi.org/10.1109/CSCWD68734.2026.11582082"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration",
+        ".logs/20260714-Arxiv-iKalibr-LOG.md",
+        ".reports/BL-Arxiv-iKalibr-20260714/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.11420",
+      "arxiv_id": "2407.11420",
+      "commit_or_pr": "",
+      "deposit_date": "20260714",
+      "doi": "",
+      "normalized_title": "iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems",
+      "notes": "",
+      "slug": "iKalibr",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.11420"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

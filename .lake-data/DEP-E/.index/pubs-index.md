@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Coverage at creation: **97 publications across 38 DEP-E entries** (93 arXiv records and 4 other research publications).
+- Coverage at creation: **98 publications across 39 DEP-E entries** (94 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-14; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -299,6 +299,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System* | Yefeng Wu; Yuchen Song; Yecheng Zhao; Ling Wu; Shan Wan | [arXiv:2512.00331](https://arxiv.org/abs/2512.00331) |
+
+## [DEP-E-20260714-iKalibr Calibration](../DEP-E-20260714-iKalibr%20Calibration/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems* | Shuolong Chen; Xingxing Li; Shengyu Li; Yuxuan Zhou; Xiaoteng Yang | [arXiv:2407.11420](https://arxiv.org/abs/2407.11420) |
 
 ## Entries without indexed research publications
 
