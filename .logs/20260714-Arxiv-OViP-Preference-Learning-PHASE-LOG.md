@@ -25,7 +25,7 @@
 | Related DEP synthesis | 15 minutes | 6.0 minutes | Complete | Exactly three repository manuscripts were inspected and selected for concrete overlap. |
 | Artifact drafting | 40 minutes | 24.0 minutes | Complete | Job log, phase log, Report-Mark, DEP README, schema-complete manuscript, and publication-index row were drafted. |
 | Validation and dedup update | 15 minutes | 8.0 minutes | Complete | Required headings/counts, JSON, links, attribution order, four Python snippets, dedup uniqueness, trailing whitespace, final newlines, and public-safe content passed. |
-| Commit, push, and Slack notification | 10 minutes | Pending | Pending | Direct default-branch submission is preferred; Slack follows a successful repository write. |
+| Commit, push, and Slack notification | 10 minutes | 3.0 minutes | Complete | Direct default-branch push succeeded; the public-safe channel notification linked the primary artifact commit and required paths. |
 
 `Whole-job guidance`: The expected trajectory is approximately 200 minutes. Observed values are rounded public-safe elapsed estimates, not exact local timestamps. No estimate was used to truncate the paper-body review, limitations, related-entry exploration, or manuscript contract.
 
@@ -51,7 +51,7 @@
 - `Related repository`: No matching ID or normalized-title result in relevant Black-Lake-Data searches.
 - `Same-paper window`: No marker in active worktree Markdown or JSON records within 24 hours.
 - `Exclusions / reselections`: 0 / 0.
-- `Pre-submission pointer status`: Deposited record created with repository-relative artifact paths; commit or PR reference awaits the repository write.
+- `Post-submission pointer status`: Deposited record finalized with repository-relative artifact paths, source URLs, date-only deposit marker, primary artifact commit reference, status, and notes.
 
 ## Expected vs Observed Trajectory
 
@@ -74,6 +74,6 @@ Related-entry exploration was intentionally open-ended. VLM Probing, VideoWeave 
 ## Submission Outcome
 
 - `Repository`: Delphoa/Black-Lake default branch.
-- `Commit or PR`: Pending repository submission.
-- `Slack notification`: Pending repository submission.
-- `Blockers`: None at drafting time; reproduction and synthetic-negative audit remain follow-up work.
+- `Primary artifact commit`: https://github.com/Delphoa/Black-Lake/commit/601536e83c62347c47f33f93ce1882929672431e.
+- `Slack notification`: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784009965170939.
+- `Blockers`: None; reproduction and synthetic-negative audit remain follow-up work.

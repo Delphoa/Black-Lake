@@ -67,10 +67,10 @@
 
 ## Submission
 
-- `Repository result`: Pending repository submission.
-- `Commit or PR`: Pending repository submission.
-- `Slack notification`: Pending repository submission.
-- `Blockers`: None at drafting time. Independent reproduction remains a validation shortfall, not a deposition blocker.
+- `Repository result`: Direct push to the default branch succeeded.
+- `Primary artifact commit`: https://github.com/Delphoa/Black-Lake/commit/601536e83c62347c47f33f93ce1882929672431e.
+- `Slack notification`: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784009965170939.
+- `Blockers`: None. Independent reproduction remains a validation shortfall, not a deposition blocker.
 
 ## Next-Review Questions
 

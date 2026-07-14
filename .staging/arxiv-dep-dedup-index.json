@@ -264,7 +264,7 @@
       ],
       "arxiv_base_id": "2505.15963",
       "arxiv_id": "2505.15963v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/601536e83c62347c47f33f93ce1882929672431e",
       "deposit_date": "20260714",
       "doi": "10.48550/arXiv.2505.15963",
       "normalized_title": "OViP: Online Vision-Language Preference Learning for VLM Hallucination",
