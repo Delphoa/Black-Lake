@@ -97,5 +97,28 @@ Review status: substantively reviewed from the complete primary paper on 2026-07
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit* | Gregory Magarshak | [arXiv:2604.15356v1](https://arxiv.org/abs/2604.15356v1) · [DOI](https://doi.org/10.48550/arXiv.2604.15356) |
+## [DEP-A-20260714-Mosaic Safety Review](../DEP-A-20260714-Mosaic%20Safety%20Review/README.md)
+
+Review status: substantively re-reviewed from the complete 11-page arXiv paper and public source package on 2026-07-14. The owning review artifact is [`mosaic-safety-intake-review.md`](../DEP-A-20260714-Mosaic%20Safety%20Review/mosaic-safety-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mosaic: Model-based Safety Analysis Framework for AI-enabled Cyber-Physical Systems* | Xuan Xie; Jiayang Song; Zhehua Zhou; Fuyuan Zhang; Lei Ma | [arXiv:2305.03882v1](https://arxiv.org/abs/2305.03882v1) · [DOI](https://doi.org/10.48550/arXiv.2305.03882) |
+
+## [DEP-A-20260714-SANE Embedding Review](../DEP-A-20260714-SANE%20Embedding%20Review/README.md)
+
+Review status: substantively re-reviewed from the complete nine-page arXiv v2 paper and public source package on 2026-07-14. The owning review artifact is [`sane-embedding-intake-review.md`](../DEP-A-20260714-SANE%20Embedding%20Review/sane-embedding-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable attribute-aware network embedding with locality* | Weiyi Liu; Zhining Liu; Toyotaro Suzumura; Guangmin Hu | [arXiv:1804.07152v2](https://arxiv.org/abs/1804.07152v2) · [DOI](https://doi.org/10.48550/arXiv.1804.07152) |
+
+## [DEP-A-20260714-VideoWeave Geometry](../DEP-A-20260714-VideoWeave%20Geometry/README.md)
+
+Review status: substantively re-reviewed from the complete arXiv v1 HTML article on 2026-07-14. The owning review artifact is [`videoweave-intake-review.md`](../DEP-A-20260714-VideoWeave%20Geometry/videoweave-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling* | Xunzhi Xiang; Zixuan Duan; Yabo Chen; Zhengxuan Wei; Guiyu Zhang; Zixiao Gu; Zhe Gao; Haibin Huang; Chi Zhang; Qi Fan; Xuelong Li | [arXiv:2606.14162v1](https://arxiv.org/abs/2606.14162v1) · [DOI](https://doi.org/10.48550/arXiv.2606.14162) |
 
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
