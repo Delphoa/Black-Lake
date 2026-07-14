@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Coverage at creation: **101 publications across 42 DEP-E entries** (97 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-14; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **103 publications across 44 DEP-E entries** (99 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-15; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260715-MSAIC ECG](../DEP-E-20260715-MSAIC%20ECG/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MSAIC-Net: A Multi-Scale Attention and Imbalance-Aware Contrastive Network for ECG-Based Myocardial Substrate Abnormality Detection* | Canyu Lei; Fenglin Zhang; Derek Bivona; et al. | [arXiv:2606.06718v1](https://arxiv.org/abs/2606.06718v1) · [DOI](https://doi.org/10.48550/arXiv.2606.06718) |
 
 ## [DEP-E-20260714-OViP Preference](../DEP-E-20260714-OViP%20Preference/README.md)
 

@@ -348,8 +348,32 @@
         "https://arxiv.org/abs/2407.11420"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260715-MSAIC ECG",
+        ".lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md",
+        ".logs/20260715-Arxiv-MSAIC-Net-ECG-LOG.md",
+        ".reports/BL-Arxiv-MSAIC-Net-ECG-20260715/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.06718",
+      "arxiv_id": "2606.06718v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260715",
+      "doi": "10.48550/arXiv.2606.06718",
+      "normalized_title": "MSAIC-Net: A Multi-Scale Attention and Imbalance-Aware Contrastive Network for ECG-Based Myocardial Substrate Abnormality Detection",
+      "notes": "Uniform draw index 65580 of 75776; first draw eligible with zero exclusions and zero reselections; initially partial unit repaired to verified complete PDF and official full-paper HTML; all source files withheld locally.",
+      "slug": "MSAIC-Net-ECG",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.06718",
+        "https://arxiv.org/e-print/2606.06718",
+        "https://arxiv.org/html/2606.06718",
+        "https://arxiv.org/pdf/2606.06718",
+        "https://doi.org/10.48550/arXiv.2606.06718"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-14"
+  "updated_date": "2026-07-15"
 }
