@@ -162,3 +162,45 @@ Review status: substantively reviewed from the complete primary paper on 2026-07
 | *H²MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer* | Maryam Haghifam; Zifan He; Jason Cong; Yizhou Sun | [arXiv:2605.24930v1](https://arxiv.org/abs/2605.24930v1) · [DOI](https://doi.org/10.48550/arXiv.2605.24930) |
 
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
+
+## [DEP-A-20260714-SeCo Semantic Grouping](../DEP-A-20260714-SeCo%20Semantic%20Grouping/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2605.09463-whitepaper-review.md`](../DEP-A-20260714-SeCo%20Semantic%20Grouping/2605.09463-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Position Bias: Shifting Context Compression from Position-Driven to Semantic-Driven* | Jiwei Tang; Zhijing Huang; Xinyu Zhang; Chen Jason Zhang; Jianxing Yu; Libin Zheng; Rui Meng; Jian Yin | [arXiv:2605.09463v1](https://arxiv.org/abs/2605.09463v1) · [DOI](https://doi.org/10.48550/arXiv.2605.09463) |
+
+## [DEP-A-20260714-CoreMem Geometry](../DEP-A-20260714-CoreMem%20Geometry/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2606.18406-whitepaper-review.md`](../DEP-A-20260714-CoreMem%20Geometry/2606.18406-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoreMem: Riemannian Retrieval and Fisher-Guided Distillation for Long-Term Memory in Dialogue Agents* | Jiaqi Chen; Yongqin Zeng; Shaoshen Chen; Yijian Zhang; Hai-Tao Zheng; Chunxia Ma; XiuTeng Zhou | [arXiv:2606.18406v1](https://arxiv.org/abs/2606.18406v1) · [DOI](https://doi.org/10.48550/arXiv.2606.18406) |
+
+## [DEP-A-20260714-SpectrumKV Transfer](../DEP-A-20260714-SpectrumKV%20Transfer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2606.08635-whitepaper-review.md`](../DEP-A-20260714-SpectrumKV%20Transfer/2606.08635-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpectrumKV: Per-Token Mixed-Precision KV Cache Transfer for Prefill-Decode Disaggregated LLM Serving* | Yang Pengju | [arXiv:2606.08635v1](https://arxiv.org/abs/2606.08635v1) · [DOI](https://doi.org/10.48550/arXiv.2606.08635) |
+
+## [DEP-A-20260714-SeKV Resolution](../DEP-A-20260714-SeKV%20Resolution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and official implementation on 2026-07-14. The owning review artifact is [`2606.31145-whitepaper-review.md`](../DEP-A-20260714-SeKV%20Resolution/2606.31145-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference* | Amirhossein Abaskohi; Giuseppe Carenini; Peter West; Yuhang He | [arXiv:2606.31145v1](https://arxiv.org/abs/2606.31145v1) · [DOI](https://doi.org/10.48550/arXiv.2606.31145) |
+
+## [DEP-A-20260714-Tail-Aware Adaptive K](../DEP-A-20260714-Tail-Aware%20Adaptive%20K/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper on 2026-07-14. The owning review artifact is [`2606.11907-whitepaper-review.md`](../DEP-A-20260714-Tail-Aware%20Adaptive%20K/2606.11907-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tail-Aware Adaptive-k: Query-Adaptive Context Selection for Retrieval-Augmented Generation* | Ziyu Song; Jiaming Fang; Kuangyu Li; Tuo Xia; Chuanpeng Wang | [arXiv:2606.11907v1](https://arxiv.org/abs/2606.11907v1) · [DOI](https://doi.org/10.48550/arXiv.2606.11907) |
+
+Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
