@@ -121,4 +121,44 @@ Review status: substantively re-reviewed from the complete arXiv v1 HTML article
 |---|---|---|
 | *VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling* | Xunzhi Xiang; Zixuan Duan; Yabo Chen; Zhengxuan Wei; Guiyu Zhang; Zixiao Gu; Zhe Gao; Haibin Huang; Chi Zhang; Qi Fan; Xuelong Li | [arXiv:2606.14162v1](https://arxiv.org/abs/2606.14162v1) · [DOI](https://doi.org/10.48550/arXiv.2606.14162) |
 
+## [DEP-A-20260714-Compaction Rate Dist](../DEP-A-20260714-Compaction%20Rate%20Dist/README.md)
+
+Review status: substantively reviewed from the complete primary paper on 2026-07-14. The owning review artifact is [`2607.08032-whitepaper-review.md`](../DEP-A-20260714-Compaction%20Rate%20Dist/2607.08032-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What to Keep, What to Forget: A Rate–Distortion View of Memory Compaction in LLMs and Agents* | Ashwin Gerard Colaco; Nada Lahjouji | [arXiv:2607.08032v1](https://arxiv.org/abs/2607.08032v1) · [DOI](https://doi.org/10.48550/arXiv.2607.08032) |
+
+## [DEP-A-20260714-DepthWeave KV](../DEP-A-20260714-DepthWeave%20KV/README.md)
+
+Review status: substantively reviewed from the complete primary paper on 2026-07-14, with material synthetic-byline and experimental-provenance defects documented in the owning artifact. The owning review artifact is [`2607.06523-whitepaper-review.md`](../DEP-A-20260714-DepthWeave%20KV/2607.06523-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression* | Anna Cordoba; Adam Puente Tercero; Nerea Angulo Hijo; Mar Linares Tercero; Julia Barrientos; Ainhoa Miranda; Jesus Olivera | [arXiv:2607.06523v1](https://arxiv.org/abs/2607.06523v1) · [DOI](https://doi.org/10.48550/arXiv.2607.06523) |
+
+## [DEP-A-20260714-KVpop](../DEP-A-20260714-KVpop/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and official public model artifact on 2026-07-14. The owning review artifact is [`2607.05061-whitepaper-review.md`](../DEP-A-20260714-KVpop/2607.05061-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVpop — Key-Value Cache Compression with Predictive Online Pruning* | Lukas Hauzenberger; Niklas Schmidinger; Anamaria-Roberta Hartl; David Stap; Thomas Schmied; Sebastian Böck; Günter Klambauer; Sepp Hochreiter | [arXiv:2607.05061v2](https://arxiv.org/abs/2607.05061v2) · [DOI](https://doi.org/10.48550/arXiv.2607.05061) |
+
+## [DEP-A-20260714-Context Codec](../DEP-A-20260714-Context%20Codec/README.md)
+
+Review status: substantively reviewed from the complete primary paper on 2026-07-14. The owning review artifact is [`2605.17304-whitepaper-review.md`](../DEP-A-20260714-Context%20Codec/2605.17304-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compress the Context, Keep the Commitments: A Formal Framework for Verifiable LLM Context Compression* | Natalia Trukhina; Vadim Vashkelis | [arXiv:2605.17304v1](https://arxiv.org/abs/2605.17304v1) · [DOI](https://doi.org/10.48550/arXiv.2605.17304) |
+
+## [DEP-A-20260714-H2MT Memory](../DEP-A-20260714-H2MT%20Memory/README.md)
+
+Review status: substantively reviewed from the complete primary paper on 2026-07-14, with withdrawn-submission history and missing reproducibility artifacts documented in the owning artifact. The owning review artifact is [`2605.24930-whitepaper-review.md`](../DEP-A-20260714-H2MT%20Memory/2605.24930-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *H²MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer* | Maryam Haghifam; Zifan He; Jason Cong; Yizhou Sun | [arXiv:2605.24930v1](https://arxiv.org/abs/2605.24930v1) · [DOI](https://doi.org/10.48550/arXiv.2605.24930) |
+
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
