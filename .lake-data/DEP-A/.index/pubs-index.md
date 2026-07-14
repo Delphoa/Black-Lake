@@ -26,4 +26,36 @@ Review status: substantively reviewed on 2026-07-14. The owning review artifact 
 |---|---|---|
 | *CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference* | Xiaolin Lin; Jingcun Wang; Olga Kondrateva; Yiyu Shi; Bing Li; Grace Li Zhang | [arXiv:2606.24467v1](https://arxiv.org/abs/2606.24467v1) · [DOI](https://doi.org/10.48550/arXiv.2606.24467) |
 
+## [DEP-A-20260714-2D-RC OTFS Review](../DEP-A-20260714-2D-RC%20OTFS%20Review/README.md)
+
+Review status: substantively re-reviewed from the complete arXiv v2 article on 2026-07-14. The owning review artifact is [`2d-rc-otfs-intake-review.md`](../DEP-A-20260714-2D-RC%20OTFS%20Review/2d-rc-otfs-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *2D-RC: Two-Dimensional Neural Network Approach for OTFS Symbol Detection* | Jiarui Xu; Karim Said; Lizhong Zheng; Lingjia Liu | [arXiv:2311.08543v2](https://arxiv.org/abs/2311.08543v2) · [DOI](https://doi.org/10.48550/arXiv.2311.08543) |
+
+## [DEP-A-20260714-BA-LoRA Archive](../DEP-A-20260714-BA-LoRA%20Archive/README.md)
+
+Review status: substantively re-reviewed from the complete arXiv v7 article on 2026-07-14; current v8 metadata was checked and the unresolved version delta is recorded in the artifact. The owning review artifact is [`ba-lora-intake-review.md`](../DEP-A-20260714-BA-LoRA%20Archive/ba-lora-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models* | Yupeng Chang; Yi Chang; Yuan Wu | [arXiv:2408.04556v7](https://arxiv.org/abs/2408.04556v7) · [current record](https://arxiv.org/abs/2408.04556) · [DOI](https://doi.org/10.48550/arXiv.2408.04556) |
+
+## [DEP-A-20260714-Clothed Avatar Review](../DEP-A-20260714-Clothed%20Avatar%20Review/README.md)
+
+Review status: substantively re-reviewed from the complete CVPR 2023 Open Access paper on 2026-07-14. The owning review artifact is [`clothed-avatar-intake-review.md`](../DEP-A-20260714-Clothed%20Avatar%20Review/clothed-avatar-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *High-Fidelity Clothed Avatar Reconstruction From a Single Image* | Tingting Liao; Xiaomei Zhang; Yuliang Xiu; et al. | [CVPR 2023 Open Access](https://openaccess.thecvf.com/content/CVPR2023/html/Liao_High-Fidelity_Clothed_Avatar_Reconstruction_From_a_Single_Image_CVPR_2023_paper.html) · [arXiv:2304.03903](https://arxiv.org/abs/2304.03903) |
+
+## [DEP-A-20260714-Fermat Difference](../DEP-A-20260714-Fermat%20Difference/README.md)
+
+Review status: substantively re-reviewed from the complete arXiv v1 article and public TeX-source context on 2026-07-14. The owning review artifact is [`fermat-difference-intake-review.md`](../DEP-A-20260714-Fermat%20Difference/fermat-difference-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Finite order transcendental entire solutions of coupled Fermat-type difference equations in several complex variables* | Jhilik Banerjee; Abhijit Banerjee | [arXiv:2606.30683v1](https://arxiv.org/abs/2606.30683v1) · [DOI](https://doi.org/10.48550/arXiv.2606.30683) |
+
 Only index publications actually preserved or reviewed by the DEP. Background citations and unreviewed reading suggestions do not belong here. Keep locally archived source files out of the public repository.
