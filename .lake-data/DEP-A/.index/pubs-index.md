@@ -398,3 +398,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structured Thoughts For Improved Reasoning And Context Pruning* | Zain Sarwar; Supriyo Chakraborty; Berkcan Kapusuzoglu; Chia-Hsuan Lee; Anirban Das; Stephen Rawls; Kartik Balasubramaniam; Sambit Sahu | [arXiv:2607.10386v1](https://arxiv.org/abs/2607.10386v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10386) |
+
+## [DEP-A-20260715-Token Cooccurrence RAG](../DEP-A-20260715-Token%20Cooccurrence%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.30093-whitepaper-review.md`](../DEP-A-20260715-Token%20Cooccurrence%20RAG/2606.30093-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs* | Gianluca Bonifazi; Christopher Buratti; Michele Marchetti; Federica Parlapiano; Giulia Quaglieri; Davide Traini; Domenico Ursino; Luca Virgili | [arXiv:2606.30093v1](https://arxiv.org/abs/2606.30093v1) · [DOI](https://doi.org/10.48550/arXiv.2606.30093) |
+
+
+## [DEP-A-20260715-Info-Aware KV](../DEP-A-20260715-Info-Aware%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.26875-whitepaper-review.md`](../DEP-A-20260715-Info-Aware%20KV/2606.26875-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Information-Aware KV Cache Compression for Long Reasoning* | Jushi Kai; Zhuiri Xiao; Alexandra Birch; Zhouhan Lin | [arXiv:2606.26875v1](https://arxiv.org/abs/2606.26875v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26875) |
+
+
+## [DEP-A-20260715-TrustMem Transitions](../DEP-A-20260715-TrustMem%20Transitions/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.25161-whitepaper-review.md`](../DEP-A-20260715-TrustMem%20Transitions/2606.25161-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory* | Tianyu Yang; Sudipta Paul; Vijay Srinivasan; Vivek Kulkarni; Srinivas Chappidi | [arXiv:2606.25161v1](https://arxiv.org/abs/2606.25161v1) · [DOI](https://doi.org/10.48550/arXiv.2606.25161) |
+
+
+## [DEP-A-20260715-RaMem Reinstatement](../DEP-A-20260715-RaMem%20Reinstatement/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.22844-whitepaper-review.md`](../DEP-A-20260715-RaMem%20Reinstatement/2606.22844-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RaMem: Contextual Reinstatement for Long-term Agentic Memory* | Wei Yang; Bryce Kan; Shixuan Li; Li Li; Yuehan Qin; Jiate Li; Paul Bogdan; Jesse Thomason | [arXiv:2606.22844v1](https://arxiv.org/abs/2606.22844v1) · [DOI](https://doi.org/10.48550/arXiv.2606.22844) |
+
+
+## [DEP-A-20260715-MemTrace Benchmark](../DEP-A-20260715-MemTrace%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.17328-whitepaper-review.md`](../DEP-A-20260715-MemTrace%20Benchmark/2606.17328-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemTrace: Probing What Final Accuracy Misses in Long-Term Memory* | Xianxuan Long; Zhikai Chen; Shenglai Zeng; Shouren Wang; Kai Guo; Jiliang Tang | [arXiv:2606.17328v1](https://arxiv.org/abs/2606.17328v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17328) |
