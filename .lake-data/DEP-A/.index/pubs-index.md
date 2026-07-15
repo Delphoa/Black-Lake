@@ -1067,6 +1067,15 @@ Review status: substantively reviewed from the complete arXiv v1 paper and autho
 | *Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems* | Yi Chen; Zheng Chang; Geyong Min; Shiwen Mao; Timo Hämäläinen | [arXiv:2210.17025v1](https://arxiv.org/abs/2210.17025v1) · [DOI](https://doi.org/10.48550/arXiv.2210.17025) · [Published DOI](https://doi.org/10.1109/TWC.2023.3261338) |
 
 
+## [DEP-A-20260716-Acoustic Phase Intake](../DEP-A-20260716-Acoustic%20Phase%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching journal and institutional metadata on 2026-07-16. The owning review artifact is [`acoustic-phase-intake-review.md`](../DEP-A-20260716-Acoustic%20Phase%20Intake/acoustic-phase-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval of acoustic sources from multi-frequency phaseless data* | Deyue Zhang; Yukun Guo; Jingzhi Li; Hongyu Liu | [arXiv:1803.11323v1](https://arxiv.org/abs/1803.11323v1) · [DOI](https://doi.org/10.48550/arXiv.1803.11323) · [Published DOI](https://doi.org/10.1088/1361-6420/aaccda) |
+
+
 ## [DEP-A-20260716-MSAIC ECG Intake](../DEP-A-20260716-MSAIC%20ECG%20Intake/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`msaic-ecg-intake-review.md`](../DEP-A-20260716-MSAIC%20ECG%20Intake/msaic-ecg-intake-review.md).
