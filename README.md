@@ -7,6 +7,7 @@ This repository is intended for source-grounded knowledge artifacts, research re
 ## Repository Layout
 
 - `.lake-data/` - canonical location for DEP deposits: research, record, and artifact entries.
+- [`.lists/`](.lists/) - metadata-only copy of the [Black-Lake-Data arXiv author inventory](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lists), including [inventory guidance](.lists/README.md) and a [root index](.lists/index.md); no physical paper records are included.
 - `.logs/` - operational logs, deposition logs, review logs, ingestion notes, and process traces.
 - `.reports/` - review reports, audit summaries, synthesis reports, and consolidation notes.
 - `.templates/` - reusable templates for DEP README files, log entries, and deposition support docs.
