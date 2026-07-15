@@ -354,3 +354,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and the p
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum Quantitative Trading: High-Frequency Statistical Arbitrage Algorithm* | Xi-Ning Zhuang; Zhao-Yun Chen; Yu-Chun Wu; Guo-Ping Guo | [arXiv:2104.14214v1](https://arxiv.org/abs/2104.14214v1) · [Journal DOI](https://doi.org/10.1088/1367-2630/ac7f26) |
+
+## [DEP-A-20260715-AnchorKV Safety](../DEP-A-20260715-AnchorKV%20Safety/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.17872-whitepaper-review.md`](../DEP-A-20260715-AnchorKV%20Safety/2606.17872-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor* | Ning Ni; Yingjie Lao | [arXiv:2606.17872v1](https://arxiv.org/abs/2606.17872v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17872) |
+
+
+## [DEP-A-20260715-MuKV Video Cache](../DEP-A-20260715-MuKV%20Video%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.22269-whitepaper-review.md`](../DEP-A-20260715-MuKV%20Video%20Cache/2605.22269-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering* | Junbin Xiao; Jiajun Chen; Tianxiang Sun; Xun Yang; Angela Yao | [arXiv:2605.22269v1](https://arxiv.org/abs/2605.22269v1) · [DOI](https://doi.org/10.48550/arXiv.2605.22269) |
+
+
+## [DEP-A-20260715-Prompt Compression Wild](../DEP-A-20260715-Prompt%20Compression%20Wild/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.02985-whitepaper-review.md`](../DEP-A-20260715-Prompt%20Compression%20Wild/2604.02985-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference* | Cornelius Kummer; Lena Jurkschat; Michael Färber; Sahar Vahdati | [arXiv:2604.02985v1](https://arxiv.org/abs/2604.02985v1) · [DOI](https://doi.org/10.48550/arXiv.2604.02985) |
+
+
+## [DEP-A-20260715-BEAVER Page Selection](../DEP-A-20260715-BEAVER%20Page%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2603.19635-whitepaper-review.md`](../DEP-A-20260715-BEAVER%20Page%20Selection/2603.19635-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection* | Zhengpei Hu; Kai Li; Dapeng Fu; Chang Zeng; Yue Li; Yuanhao Tang; Jianqiang Huang | [arXiv:2603.19635v1](https://arxiv.org/abs/2603.19635v1) · [DOI](https://doi.org/10.48550/arXiv.2603.19635) |
+
+
+## [DEP-A-20260715-Structured Thoughts](../DEP-A-20260715-Structured%20Thoughts/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.10386-whitepaper-review.md`](../DEP-A-20260715-Structured%20Thoughts/2607.10386-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Thoughts For Improved Reasoning And Context Pruning* | Zain Sarwar; Supriyo Chakraborty; Berkcan Kapusuzoglu; Chia-Hsuan Lee; Anirban Das; Stephen Rawls; Kartik Balasubramaniam; Sambit Sahu | [arXiv:2607.10386v1](https://arxiv.org/abs/2607.10386v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10386) |
