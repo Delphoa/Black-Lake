@@ -882,3 +882,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks* | Hanzhang Shen; Haoran Wu; Yiren Zhao; Robert Mullins | [arXiv:2605.17170v1](https://arxiv.org/abs/2605.17170v1) · [DOI](https://doi.org/10.48550/arXiv.2605.17170) |
+
+## [DEP-A-20260716-MemOps Benchmarking Lifec](../DEP-A-20260716-MemOps%20Benchmarking%20Lifec/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.12893-whitepaper-review.md`](../DEP-A-20260716-MemOps%20Benchmarking%20Lifec/2607.12893-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations* | Xixuan Hao; Zeyu Zhang; Zehao Lin; Yihang Sun; Ziliang Guo; Xichong Zhang; Yuxuan Liang; Feiyu Xiong; Zhiyu Li | [arXiv:2607.12893v1](https://arxiv.org/abs/2607.12893v1) · [DOI](https://doi.org/10.48550/arXiv.2607.12893) |
+
+
+## [DEP-A-20260716-A JoLT for the](../DEP-A-20260716-A%20JoLT%20for%20the/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.12550-whitepaper-review.md`](../DEP-A-20260716-A%20JoLT%20for%20the/2607.12550-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs* | Rahul Krishnan; Volker Schulz | [arXiv:2607.12550v1](https://arxiv.org/abs/2607.12550v1) · [DOI](https://doi.org/10.48550/arXiv.2607.12550) |
+
+
+## [DEP-A-20260716-LightMem Ego Your AI](../DEP-A-20260716-LightMem%20Ego%20Your%20AI/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.11487-whitepaper-review.md`](../DEP-A-20260716-LightMem%20Ego%20Your%20AI/2607.11487-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LightMem-Ego: Your AI Memory for Everyday Life* | Yijun Chen; Boyi Xiao; Yixian Zhao; Haoting Xia; Buqiang Xu; Jizhan Fang; Yanya Li; Yaqi Zheng; Xuehai Wang; Zirui Xue; Liuxin Zhang; Hui Li; Ningyu Zhang | [arXiv:2607.11487v1](https://arxiv.org/abs/2607.11487v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11487) |
+
+
+## [DEP-A-20260716-OpsMem Dual Memory Reason](../DEP-A-20260716-OpsMem%20Dual%20Memory%20Reason/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.11357-whitepaper-review.md`](../DEP-A-20260716-OpsMem%20Dual%20Memory%20Reason/2607.11357-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis* | Yongqian Sun; Rongchen Gao; Yu Luo; Wenwei Gu; Shenglin Zhang; Qingyi Guo; Qiuai Fu; Yaoliang Wu; Dan Pei | [arXiv:2607.11357v1](https://arxiv.org/abs/2607.11357v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11357) |
+
+
+## [DEP-A-20260716-PLACEMEM Toward a Compute](../DEP-A-20260716-PLACEMEM%20Toward%20a%20Compute/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.04089-whitepaper-review.md`](../DEP-A-20260716-PLACEMEM%20Toward%20a%20Compute/2607.04089-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents* | Sukanta Ganguly | [arXiv:2607.04089v1](https://arxiv.org/abs/2607.04089v1) · [DOI](https://doi.org/10.48550/arXiv.2607.04089) |
