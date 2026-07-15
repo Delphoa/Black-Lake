@@ -662,3 +662,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Perplexity: A Behavioral Evaluation Framework for Deployment-Memory Claims in LLM Test-Time Training* | Xiangchen Song; Zhenhao Chen; Lingjing Kong; Shaoan Xie; Xinshuai Dong; Guangyi Chen; Kun Zhang | [arXiv:2607.00368v1](https://arxiv.org/abs/2607.00368v1) · [DOI](https://doi.org/10.48550/arXiv.2607.00368) |
+
+## [DEP-A-20260715-MemDelta Controlled Basel](../DEP-A-20260715-MemDelta%20Controlled%20Basel/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.29914-whitepaper-review.md`](../DEP-A-20260715-MemDelta%20Controlled%20Basel/2606.29914-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemDelta: Controlled Baselines and Hidden Confounds in Agent Memory Evaluation* | Kuan Wang | [arXiv:2606.29914v1](https://arxiv.org/abs/2606.29914v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29914) |
+
+
+## [DEP-A-20260715-Mandol An Agglomerative A](../DEP-A-20260715-Mandol%20An%20Agglomerative%20A/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.29778-whitepaper-review.md`](../DEP-A-20260715-Mandol%20An%20Agglomerative%20A/2606.29778-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mandol: An Agglomerative Agent Memory System for Long-Term Conversations* | Yuhan Zhang; Zhiyuan Guo; Ziheng Zeng; Wei Wang; Wentao Wu; Lijie Xu | [arXiv:2606.29778v1](https://arxiv.org/abs/2606.29778v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29778) |
+
+
+## [DEP-A-20260715-EvoEmbedding Evolvable Re](../DEP-A-20260715-EvoEmbedding%20Evolvable%20Re/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.21649-whitepaper-review.md`](../DEP-A-20260715-EvoEmbedding%20Evolvable%20Re/2606.21649-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory* | Chang Nie; Chaoyou Fu; Junlan Feng; Caifeng Shan | [arXiv:2606.21649v2](https://arxiv.org/abs/2606.21649v2) · [DOI](https://doi.org/10.48550/arXiv.2606.21649) |
+
+
+## [DEP-A-20260715-NestedKV Nested Memory Ro](../DEP-A-20260715-NestedKV%20Nested%20Memory%20Ro/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.26678-whitepaper-review.md`](../DEP-A-20260715-NestedKV%20Nested%20Memory%20Ro/2605.26678-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NestedKV: Nested Memory Routing for Long-Context KV Cache Compression* | Hong Chen; Xiang Liu; Yubo Gao; Yuxuan Fan; Bo Wang; Yuanlin Chu; Yuanguo Lin; Xuming Hu | [arXiv:2605.26678v1](https://arxiv.org/abs/2605.26678v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26678) |
+
+
+## [DEP-A-20260715-IceCache Memory efficient](../DEP-A-20260715-IceCache%20Memory%20efficient/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.10539-whitepaper-review.md`](../DEP-A-20260715-IceCache%20Memory%20efficient/2604.10539-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs* | Yuzhen Mao; Qitong Wang; Martin Ester; Ke Li | [arXiv:2604.10539v1](https://arxiv.org/abs/2604.10539v1) · [DOI](https://doi.org/10.48550/arXiv.2604.10539) |
