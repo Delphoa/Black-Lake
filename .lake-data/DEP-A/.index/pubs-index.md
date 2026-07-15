@@ -794,3 +794,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ObjectCache: Layerwise Object-Storage Retrieval for KV Cache Reuse* | Yu Zhu; Aditya Dhakal; Yunming Xiao; Dejan Milojicic; Gustavo Alonso | [arXiv:2605.22850v1](https://arxiv.org/abs/2605.22850v1) · [DOI](https://doi.org/10.48550/arXiv.2605.22850) |
+
+## [DEP-A-20260715-HERALD High Throughput Bl](../DEP-A-20260715-HERALD%20High%20Throughput%20Bl/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.21633-whitepaper-review.md`](../DEP-A-20260715-HERALD%20High%20Throughput%20Bl/2606.21633-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval* | Omin Kwon; Doyeon Kim; Jongseok Park; Seung Yul Lee; Ion Stoica; Jae W. Lee | [arXiv:2606.21633v1](https://arxiv.org/abs/2606.21633v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21633) |
+
+
+## [DEP-A-20260715-MemGraphRAG Memory based](../DEP-A-20260715-MemGraphRAG%20Memory%20based/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.00610-whitepaper-review.md`](../DEP-A-20260715-MemGraphRAG%20Memory%20based/2606.00610-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation* | Chuanjie Wu; Zhishang Xiang; Yunbo Tang; Zerui Chen; Qinggang Zhang; Jinsong Su | [arXiv:2606.00610v1](https://arxiv.org/abs/2606.00610v1) · [DOI](https://doi.org/10.48550/arXiv.2606.00610) |
+
+
+## [DEP-A-20260715-Structured Belief State a](../DEP-A-20260715-Structured%20Belief%20State%20a/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.11325-whitepaper-review.md`](../DEP-A-20260715-Structured%20Belief%20State%20a/2605.11325-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval* | Jeffrey Flynt | [arXiv:2605.11325v3](https://arxiv.org/abs/2605.11325v3) · [DOI](https://doi.org/10.48550/arXiv.2605.11325) |
+
+
+## [DEP-A-20260715-MemReranker Reasoning Awa](../DEP-A-20260715-MemReranker%20Reasoning%20Awa/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.06132-whitepaper-review.md`](../DEP-A-20260715-MemReranker%20Reasoning%20Awa/2605.06132-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval* | Chunyu Li; Mengyuan Zhang; Jingyi Kang; Ding Chen; Jiajun Shen; Bo Tang; Xuanhe Zhou; Feiyu Xiong; Zhiyu Li | [arXiv:2605.06132v2](https://arxiv.org/abs/2605.06132v2) · [DOI](https://doi.org/10.48550/arXiv.2605.06132) |
+
+
+## [DEP-A-20260715-OCR Memory Optical Contex](../DEP-A-20260715-OCR%20Memory%20Optical%20Contex/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.26622-whitepaper-review.md`](../DEP-A-20260715-OCR%20Memory%20Optical%20Contex/2604.26622-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory* | Jinze Li; Yang Zhang; Xin Yang; Jiayi Qu; Jinfeng Xu; Shuo Yang; Junhua Ding; Edith Cheuk-Han Ngai | [arXiv:2604.26622v1](https://arxiv.org/abs/2604.26622v1) · [DOI](https://doi.org/10.48550/arXiv.2604.26622) |
