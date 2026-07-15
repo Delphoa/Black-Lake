@@ -750,3 +750,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction* | Enshuai Zhou; Yifan Hao; Chao Wang; Rui Zhang; Di Huang; Jiaming Guo; Xing Hu; Zidong Du; Qi Guo; Yunji Chen | [arXiv:2605.06676v1](https://arxiv.org/abs/2605.06676v1) · [DOI](https://doi.org/10.48550/arXiv.2605.06676) |
+
+## [DEP-A-20260715-AnchorPrune Relevance Anc](../DEP-A-20260715-AnchorPrune%20Relevance%20Anc/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.07033-whitepaper-review.md`](../DEP-A-20260715-AnchorPrune%20Relevance%20Anc/2607.07033-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning* | Kyuan Oh; Bumsoo Kim | [arXiv:2607.07033v2](https://arxiv.org/abs/2607.07033v2) · [DOI](https://doi.org/10.48550/arXiv.2607.07033) |
+
+
+## [DEP-A-20260715-Seeing Once is Enough](../DEP-A-20260715-Seeing%20Once%20is%20Enough/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.04079-whitepaper-review.md`](../DEP-A-20260715-Seeing%20Once%20is%20Enough/2607.04079-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering* | Ruei-Chi Lai; Bolivar Solarte; Chin-Hsuan Wu; Yi-Hsuan Tsai; Min Sun | [arXiv:2607.04079v1](https://arxiv.org/abs/2607.04079v1) · [DOI](https://doi.org/10.48550/arXiv.2607.04079) |
+
+
+## [DEP-A-20260715-Combating Textual Noise a](../DEP-A-20260715-Combating%20Textual%20Noise%20a/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.02484-whitepaper-review.md`](../DEP-A-20260715-Combating%20Textual%20Noise%20a/2607.02484-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning* | Xuehui Wang; Xuankun Yang; Wei Shen | [arXiv:2607.02484v1](https://arxiv.org/abs/2607.02484v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02484) |
+
+
+## [DEP-A-20260715-Compression and Retrieval](../DEP-A-20260715-Compression%20and%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.23105-whitepaper-review.md`](../DEP-A-20260715-Compression%20and%20Retrieval/2606.23105-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compression and Retrieval: Implicit Memory Retrieval for Video World Models* | Zhan Peng; Jie Ma; Huiqiang Sun; Chong Gao; Zhijie Xue; Zhiyu Pan; Zhiguo Cao; Jun Liang; Jing Li | [arXiv:2606.23105v1](https://arxiv.org/abs/2606.23105v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23105) |
+
+
+## [DEP-A-20260715-ObjectCache Layerwise Obj](../DEP-A-20260715-ObjectCache%20Layerwise%20Obj/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.22850-whitepaper-review.md`](../DEP-A-20260715-ObjectCache%20Layerwise%20Obj/2605.22850-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ObjectCache: Layerwise Object-Storage Retrieval for KV Cache Reuse* | Yu Zhu; Aditya Dhakal; Yunming Xiao; Dejan Milojicic; Gustavo Alonso | [arXiv:2605.22850v1](https://arxiv.org/abs/2605.22850v1) · [DOI](https://doi.org/10.48550/arXiv.2605.22850) |
