@@ -75,6 +75,6 @@ The selected arXiv ID, journal DOI, normalized title, and slug were checked agai
 
 ## Submission Record
 
-- Primary artifact commit or PR: pending
-- Final record commit: pending
-- Slack notification: pending until repository submission
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/b1062b32b5c8e254acc9c7966c174e441735c955
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784096885404419
+- Submission status: direct push to the default branch succeeded; no PR fallback was required

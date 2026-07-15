@@ -8,7 +8,7 @@
       ],
       "arxiv_base_id": "2601.04973",
       "arxiv_id": "2601.04973",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/b1062b32b5c8e254acc9c7966c174e441735c955",
       "deposit_date": "20260708",
       "doi": "",
       "normalized_title": "ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning",

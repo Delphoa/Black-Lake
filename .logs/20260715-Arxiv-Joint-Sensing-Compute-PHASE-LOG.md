@@ -9,7 +9,7 @@
 - Source integrity: initial `partial`; repaired to verified `complete`
 - Source files: withheld locally; none uploaded or copied into the repository
 - Cache: initial miss; final `cached`
-- Dedup index: validation passed; update prepared for submission
+- Dedup index: validation passed; deposited pointer records the primary commit
 
 ## Phase Metrics
 
@@ -28,7 +28,7 @@ Elapsed values are rounded public-safe durations. Expected durations guide traje
 | Related DEP exploration and exact-three synthesis | 10 min | about 3.0 min | Complete | Self-Learned IDC, RRT-CBF Motion, and iKalibr Calibration selected |
 | Artifact generation | 20 min | about 6.0 min | Complete | Job log, phase log, Report-Mark, README, manuscript, index, and dedup update |
 | Validation and source-upload gate | 10 min | about 2.5 min | Complete | Heading/count/schema, JSON, public-safe scan, Python mock-up parsing, and working-tree allowlist passed; staged allowlist is rechecked immediately before commit |
-| Repository submission and Slack notice | 10 min | pending final measurement | Pending | Direct default-branch push preferred; branch/PR fallback if denied |
+| Repository submission and Slack notice | 10 min | about 2.5 min | Complete | Direct default-branch push succeeded; Slack notice delivered; record-only follow-up prepared |
 
 ## Extraction Cache
 
@@ -69,14 +69,14 @@ Elapsed values are rounded public-safe durations. Expected durations guide traje
 - New pointer: arXiv:2210.17025v1; DOI `10.1109/TWC.2023.3261338`; slug `Joint-Sensing-Compute`
 - Artifact paths: job log, phase log, Report-Mark, DEP-E directory/manuscript, and publication index owner
 - Source URLs: arXiv abstract/PDF/e-print, ar5iv full-paper fallback, arXiv DOI, journal DOI, and author-hosted journal article
-- Commit or PR reference: pending primary submission
-- Status: prepared for `deposited`
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/b1062b32b5c8e254acc9c7966c174e441735c955
+- Status: `deposited`
 
 ## Expected vs Observed Trajectory
 
 The run stayed within the whole-job guidance even though integrity repair was not part of an ideal cache-hit path. The repair transfer itself was short, but the gate correctly paused review until full structural validation, archive-record updates, and cache extraction completed. Paper review was faster than the nominal estimate because all three extraction modes succeeded and the paper has a compact analytical/simulation structure.
 
-The remaining risk is validation/submission rather than evidence collection. Repository changes must remain confined to generated Markdown and the derived dedup JSON. Any source document, cache, extracted text, local path, or private repair file in the staged set is a hard stop.
+Validation and submission completed without a source-upload gate violation. Repository changes remained confined to generated Markdown and the derived dedup JSON. The record-only follow-up is subject to the same staged allowlist before its final push.
 
 ## Shortfalls and Follow-Up
 
