@@ -970,3 +970,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Know Before You Fetch: Calibrated Retrieval-Budget Allocation for Retrieval-Augmented Generation* | Zhe Dong; Fang Qin; Manish Shah; Yicheng Wang | [arXiv:2606.29959v1](https://arxiv.org/abs/2606.29959v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29959) |
+
+## [DEP-A-20260716-When Summaries Distort De](../DEP-A-20260716-When%20Summaries%20Distort%20De/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.29251-whitepaper-review.md`](../DEP-A-20260716-When%20Summaries%20Distort%20De/2606.29251-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis* | Hoyoung Lee; Suhwan Park; Seunghan Lee; Jun Seo; Jaehoon Lee; Sungdong Yoo; Minjae Kim; CheolWon Na; Zhangyang Wang; Zach Golkhou; Minkyu Kim; Sotirios Sabanis; Alejandro Lopez-Lira; Dhagash Mehta; Soonyoung Lee; Chanyeol Choi; Wonbin Ahn; Yongjae Lee | [arXiv:2606.29251v2](https://arxiv.org/abs/2606.29251v2) · [DOI](https://doi.org/10.48550/arXiv.2606.29251) |
+
+
+## [DEP-A-20260716-ProtoKV Streaming Video U](../DEP-A-20260716-ProtoKV%20Streaming%20Video%20U/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.26762-whitepaper-review.md`](../DEP-A-20260716-ProtoKV%20Streaming%20Video%20U/2606.26762-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory* | Le Tu Ngoc Minh; Jinyeong Lim; Dongsu Han | [arXiv:2606.26762v1](https://arxiv.org/abs/2606.26762v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26762) |
+
+
+## [DEP-A-20260716-Kamera Unified Position I](../DEP-A-20260716-Kamera%20Unified%20Position%20I/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.23581-whitepaper-review.md`](../DEP-A-20260716-Kamera%20Unified%20Position%20I/2606.23581-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse* | Bole Ma; Jan Eitzinger; Harald Koestler; Gerhard Wellein | [arXiv:2606.23581v1](https://arxiv.org/abs/2606.23581v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23581) |
+
+
+## [DEP-A-20260716-Safe to Check Unsafe](../DEP-A-20260716-Safe%20to%20Check%20Unsafe/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.21732-whitepaper-review.md`](../DEP-A-20260716-Safe%20to%20Check%20Unsafe/2606.21732-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Safe to Check, Unsafe to Use: Relinking at the Compression Boundary of LLM Agents* | Zesen Liu; Zihan Zhang; Dongdong She | [arXiv:2606.21732v1](https://arxiv.org/abs/2606.21732v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21732) |
+
+
+## [DEP-A-20260716-Prompt Compression in Dif](../DEP-A-20260716-Prompt%20Compression%20in%20Dif/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2605.17932-whitepaper-review.md`](../DEP-A-20260716-Prompt%20Compression%20in%20Dif/2605.17932-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt Compression in Diffusion Large Language Models: Evaluating LLMLingua-2 on LLaDA* | Sterling Huang; Abigayle Brown; Jiyoo Noh; Jiakang Xu; Wantong Huo; Kaung Myat Kyaw; Jonathan Chan | [arXiv:2605.17932v2](https://arxiv.org/abs/2605.17932v2) · [DOI](https://doi.org/10.48550/arXiv.2605.17932) |
