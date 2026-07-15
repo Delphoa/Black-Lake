@@ -357,6 +357,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs* | Yunling Zheng; Zeyi Xu; Fanghui Xue; Biao Yang; Jiancheng Lyu; Shuai Zhang; Yingyong Qi; Jack Xin | [arXiv:2407.12217v2](https://arxiv.org/abs/2407.12217v2) · [DOI](https://doi.org/10.1007/978-3-031-77392-1_2) |
 
+## [DEP-E-20260715-Document Fraud LLM](../DEP-E-20260715-Document%20Fraud%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Multi-modal (reasoning) LLMs detect document manipulation?* | Zisheng Liang; Kidus Zewde; Rudra Pratap Singh; Disha Patil; Zexi Chen; Jiayu Xue; Yao Yao; Yifei Chen; Qinzhe Liu; Simiao Ren | [arXiv:2508.11021v1](https://arxiv.org/abs/2508.11021v1) · [DOI](https://doi.org/10.48550/arXiv.2508.11021) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
