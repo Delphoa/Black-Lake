@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **103 publications across 44 DEP-E entries** (99 arXiv records and 4 other research publications).
+- Current coverage: **113 publications across 45 DEP-E entries** (109 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-15; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260715-Control Surfaces](../DEP-E-20260715-Control%20Surfaces/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents* | Shijing Hu; Liang Liu; Zhu Meng; Zhicheng Zhao | [arXiv:2606.28061v1](https://arxiv.org/abs/2606.28061v1) |
+| *Agent-Native Immune System: Architecture, Taxonomy, and Engineering* | Bo Shen; Lifeng Chang; Tianyuan Wei; et al. | [arXiv:2606.28270v1](https://arxiv.org/abs/2606.28270v1) |
+| *Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software* | Daniel Russo | [arXiv:2606.28235v1](https://arxiv.org/abs/2606.28235v1) |
+| *Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents* | Xinyuan Song; Zekun Cai | [arXiv:2606.27806v1](https://arxiv.org/abs/2606.27806v1) |
+| *Optimizing Teacher-Student Partitioning for Scalable Knowledge Distillation on HPC Systems* | Adrian P. Dieguez; Victor Conchello Vendrell; Alex Batlle; Vinnam Kim; Jordi Ros-Giralt; Harris Teague | [arXiv:2606.27797v1](https://arxiv.org/abs/2606.27797v1) |
+| *Position Bias Correction is Insufficient for One-Pass Attention Sorting* | Qiong Tang; Xiangkun Hu; Xiangyang Liu; Yiran Chen; Yunfan Shao | [arXiv:2606.27793v1](https://arxiv.org/abs/2606.27793v1) |
+| *Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection* | Akshay Bhagwan Sonawane; Sophie Choe; Lakshman Tamil | [arXiv:2606.28252v1](https://arxiv.org/abs/2606.28252v1) |
+| *Pepti-drift: Toxicity-Repulsive Drifting for Antigen-Conditioned Discrete Peptide Generation* | Takashi Fujiwara; Hikaru Shindo; Kaushalya Madhawa; Jun Jin Choong; Keisuke Ozawa | [arXiv:2606.27824v1](https://arxiv.org/abs/2606.27824v1) |
+| *Industry-ready spin-photon interfaces for hybrid photonic quantum computing* | Hélio Huet; Hubert Lam; Thibaut Pollet; et al. | [arXiv:2606.27787v1](https://arxiv.org/abs/2606.27787v1) |
+| *Single-Crystalline Al/Ge Heterostructure with an Atomically Sharp Commensurate Interface* | Jian-Huan Wang; Ding-Ming Huang; Han Gao; Yuan Yao; H. Q. Xu; Jian-Jun Zhang | [arXiv:2606.27854v1](https://arxiv.org/abs/2606.27854v1) |
 
 ## [DEP-E-20260715-MSAIC ECG](../DEP-E-20260715-MSAIC%20ECG/README.md)
 
