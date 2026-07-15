@@ -1057,3 +1057,20 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can Multi-modal (reasoning) LLMs detect document manipulation?* | Zisheng Liang; Kidus Zewde; Rudra Pratap Singh; Disha Patil; Zexi Chen; Jiayu Xue; Yao Yao; Yifei Chen; Qinzhe Liu; Simiao Ren | [arXiv:2508.11021v1](https://arxiv.org/abs/2508.11021v1) · [DOI](https://doi.org/10.48550/arXiv.2508.11021) |
+
+## [DEP-A-20260716-Joint Sensing Intake](../DEP-A-20260716-Joint%20Sensing%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and author-hosted published article on 2026-07-16. The owning review artifact is [`joint-sensing-intake-review.md`](../DEP-A-20260716-Joint%20Sensing%20Intake/joint-sensing-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems* | Yi Chen; Zheng Chang; Geyong Min; Shiwen Mao; Timo Hämäläinen | [arXiv:2210.17025v1](https://arxiv.org/abs/2210.17025v1) · [DOI](https://doi.org/10.48550/arXiv.2210.17025) · [Published DOI](https://doi.org/10.1109/TWC.2023.3261338) |
+
+
+## [DEP-A-20260716-MSAIC ECG Intake](../DEP-A-20260716-MSAIC%20ECG%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`msaic-ecg-intake-review.md`](../DEP-A-20260716-MSAIC%20ECG%20Intake/msaic-ecg-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MSAIC-Net: A Multi-Scale Attention and Imbalance-Aware Contrastive Network for ECG-Based Myocardial Substrate Abnormality Detection* | Canyu Lei; Fenglin Zhang; Derek Bivona; Cristiane Singulane; Jonathan Pan; Kenneth Bilchick; Amit R. Patel; Jianxin Xie | [arXiv:2606.06718v1](https://arxiv.org/abs/2606.06718v1) · [DOI](https://doi.org/10.48550/arXiv.2606.06718) |
