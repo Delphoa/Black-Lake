@@ -399,8 +399,29 @@
         "https://doi.org/10.48550/arXiv.2606.06718"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval",
+        ".logs/20260716-Arxiv-Acoustic-Phase-Retrieval-LOG.md",
+        ".reports/BL-Arxiv-Acoustic-Phase-Retrieval-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1803.11323",
+      "arxiv_id": "1803.11323v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.1088/1361-6420/aaccda",
+      "normalized_title": "Retrieval of acoustic sources from multi-frequency phaseless data",
+      "notes": "Verified complete after local repair; source files withheld locally.",
+      "slug": "Acoustic-Phase-Retrieval",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/1803.11323",
+        "https://arxiv.org/abs/1803.11323",
+        "https://doi.org/10.1088/1361-6420/aaccda"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-15"
+  "updated_date": "2026-07-16"
 }
