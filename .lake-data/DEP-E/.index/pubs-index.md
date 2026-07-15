@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **113 publications across 45 DEP-E entries** (109 arXiv records and 4 other research publications).
+- Current coverage: **114 publications across 46 DEP-E entries** (110 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-15; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -362,6 +362,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can Multi-modal (reasoning) LLMs detect document manipulation?* | Zisheng Liang; Kidus Zewde; Rudra Pratap Singh; Disha Patil; Zexi Chen; Jiayu Xue; Yao Yao; Yifei Chen; Qinzhe Liu; Simiao Ren | [arXiv:2508.11021v1](https://arxiv.org/abs/2508.11021v1) · [DOI](https://doi.org/10.48550/arXiv.2508.11021) |
+
+## [DEP-E-20260715-Joint Sensing MEC](../DEP-E-20260715-Joint%20Sensing%20MEC/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems* | Yi Chen; Zheng Chang; Geyong Min; Shiwen Mao; Timo Hämäläinen | [arXiv:2210.17025v1](https://arxiv.org/abs/2210.17025v1) · [DOI](https://doi.org/10.1109/TWC.2023.3261338) |
 
 ## Entries without indexed research publications
 

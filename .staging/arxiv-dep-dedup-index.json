@@ -351,6 +351,33 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC",
+        ".lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md",
+        ".logs/20260715-Arxiv-Joint-Sensing-Compute-LOG.md",
+        ".logs/20260715-Arxiv-Joint-Sensing-Compute-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Joint-Sensing-Compute-20260715/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2210.17025",
+      "arxiv_id": "2210.17025v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260715",
+      "doi": "10.1109/TWC.2023.3261338",
+      "normalized_title": "Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems",
+      "notes": "Uniform draw index 7665 of 75776; first draw eligible with zero exclusions and zero reselections; partial archive repaired to verified complete; initial cache miss became cached with PDF, HTML, and source text; all source files withheld locally.",
+      "slug": "Joint-Sensing-Compute",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2210.17025",
+        "https://arxiv.org/abs/2210.17025",
+        "https://arxiv.org/e-print/2210.17025",
+        "https://arxiv.org/pdf/2210.17025",
+        "https://doi.org/10.1109/TWC.2023.3261338",
+        "https://doi.org/10.48550/arXiv.2210.17025",
+        "https://www.eng.auburn.edu/~szm0001/papers/TWC2023Chen.pdf"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260715-MSAIC ECG",
         ".lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md",
         ".logs/20260715-Arxiv-MSAIC-Net-ECG-LOG.md",
