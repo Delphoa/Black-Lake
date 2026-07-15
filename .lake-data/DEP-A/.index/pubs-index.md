@@ -838,3 +838,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory* | Jinze Li; Yang Zhang; Xin Yang; Jiayi Qu; Jinfeng Xu; Shuo Yang; Junhua Ding; Edith Cheuk-Han Ngai | [arXiv:2604.26622v1](https://arxiv.org/abs/2604.26622v1) · [DOI](https://doi.org/10.48550/arXiv.2604.26622) |
+
+## [DEP-A-20260715-FAIR GraphRAG A Retrieval](../DEP-A-20260715-FAIR%20GraphRAG%20A%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.11464-whitepaper-review.md`](../DEP-A-20260715-FAIR%20GraphRAG%20A%20Retrieval/2607.11464-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis* | Marlena Flüh; Soo-Yon Kim; Carolin Victoria Schneider; Sandra Geisler | [arXiv:2607.11464v1](https://arxiv.org/abs/2607.11464v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11464) |
+
+
+## [DEP-A-20260715-NGM RAG Neural Graph](../DEP-A-20260715-NGM%20RAG%20Neural%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.11159-whitepaper-review.md`](../DEP-A-20260715-NGM%20RAG%20Neural%20Graph/2607.11159-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation* | Guo Chen; Ziwen Li; Maolin Zheng; Hao Gao; Junjie Huang; Tao Jia | [arXiv:2607.11159v1](https://arxiv.org/abs/2607.11159v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11159) |
+
+
+## [DEP-A-20260715-MedScribe Clinically Grou](../DEP-A-20260715-MedScribe%20Clinically%20Grou/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.01779-whitepaper-review.md`](../DEP-A-20260715-MedScribe%20Clinically%20Grou/2605.01779-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedScribe: Clinically Grounded CT Reporting through Agentic Workflows* | Giuseppe A. Orlando; Paolo Papotti; Maria A. Zuluaga; Olivier Humbert; Marco Lorenzi | [arXiv:2605.01779v1](https://arxiv.org/abs/2605.01779v1) · [DOI](https://doi.org/10.48550/arXiv.2605.01779) |
+
+
+## [DEP-A-20260715-SwiftCache Efficient LLM](../DEP-A-20260715-SwiftCache%20Efficient%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.16135-whitepaper-review.md`](../DEP-A-20260715-SwiftCache%20Efficient%20LLM/2606.16135-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing* | Jianmin Hu; Minxian Xu; Sa Wang; Chong Ma; Min Shen; Kejiang Ye; Lin Qu; Chengzhong Xu | [arXiv:2606.16135v1](https://arxiv.org/abs/2606.16135v1) · [DOI](https://doi.org/10.48550/arXiv.2606.16135) |
+
+
+## [DEP-A-20260715-TriAxialKV Toward Extreme](../DEP-A-20260715-TriAxialKV%20Toward%20Extreme/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.17170-whitepaper-review.md`](../DEP-A-20260715-TriAxialKV%20Toward%20Extreme/2605.17170-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks* | Hanzhang Shen; Haoran Wu; Yiren Zhao; Robert Mullins | [arXiv:2605.17170v1](https://arxiv.org/abs/2605.17170v1) · [DOI](https://doi.org/10.48550/arXiv.2605.17170) |
