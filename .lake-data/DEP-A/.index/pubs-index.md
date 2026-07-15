@@ -574,3 +574,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG* | He Sun; Shinan Liu; Siyuan Ma; Junhao Li; Mingjun Xiao; Wenhao Jiang | [arXiv:2606.21842v1](https://arxiv.org/abs/2606.21842v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21842) |
+
+## [DEP-A-20260715-SparseX Efficient Segment](../DEP-A-20260715-SparseX%20Efficient%20Segment/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.01751-whitepaper-review.md`](../DEP-A-20260715-SparseX%20Efficient%20Segment/2606.01751-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving* | Quqing Zhang; Kai Chen; Ning Liao; Zehao Lin; Bo Tang; Feiyu Xiong; Zhiyu Li; Xiaoxing Wang | [arXiv:2606.01751v2](https://arxiv.org/abs/2606.01751v2) · [DOI](https://doi.org/10.48550/arXiv.2606.01751) |
+
+
+## [DEP-A-20260715-MemDecay Region Aware KV](../DEP-A-20260715-MemDecay%20Region%20Aware%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.10582-whitepaper-review.md`](../DEP-A-20260715-MemDecay%20Region%20Aware%20KV/2607.10582-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference* | Venkatesha Matam; Keon Kim | [arXiv:2607.10582v1](https://arxiv.org/abs/2607.10582v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10582) |
+
+
+## [DEP-A-20260715-KV PRM Efficient Process](../DEP-A-20260715-KV%20PRM%20Efficient%20Process/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.09153-whitepaper-review.md`](../DEP-A-20260715-KV%20PRM%20Efficient%20Process/2607.09153-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling* | Peng Kuang; Haibo Jin; Xiaoyu Han; Yanli Wang; Xiaopeng Yuan; Ye Yu; Kaidi Xu; Haohan Wang | [arXiv:2607.09153v1](https://arxiv.org/abs/2607.09153v1) · [DOI](https://doi.org/10.48550/arXiv.2607.09153) |
+
+
+## [DEP-A-20260715-Omni Flow A Unified](../DEP-A-20260715-Omni%20Flow%20A%20Unified/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.31093-whitepaper-review.md`](../DEP-A-20260715-Omni%20Flow%20A%20Unified/2606.31093-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference* | Bin Xiao; Jingfu Dong; Changran Wang; Yitian Chen; Xiaoyu Zhao; Yuqi Peng; Jianping Lin; Yuchen Xie | [arXiv:2606.31093v1](https://arxiv.org/abs/2606.31093v1) · [DOI](https://doi.org/10.48550/arXiv.2606.31093) |
+
+
+## [DEP-A-20260715-Coverage Driven KV Cache](../DEP-A-20260715-Coverage%20Driven%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.29563-whitepaper-review.md`](../DEP-A-20260715-Coverage%20Driven%20KV%20Cache/2606.29563-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM* | Shuvendu Roy; Mengyao Zhai; Hossein Hajimirsadeghi; Golnoosh Samei | [arXiv:2606.29563v1](https://arxiv.org/abs/2606.29563v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29563) |
