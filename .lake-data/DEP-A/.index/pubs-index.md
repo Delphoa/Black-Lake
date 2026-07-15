@@ -706,3 +706,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs* | Yuzhen Mao; Qitong Wang; Martin Ester; Ke Li | [arXiv:2604.10539v1](https://arxiv.org/abs/2604.10539v1) · [DOI](https://doi.org/10.48550/arXiv.2604.10539) |
+
+## [DEP-A-20260715-When Agents Remember Too](../DEP-A-20260715-When%20Agents%20Remember%20Too/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.06595-whitepaper-review.md`](../DEP-A-20260715-When%20Agents%20Remember%20Too/2607.06595-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents* | George Torres; Sharad Shrestha; Satyajayant Misra | [arXiv:2607.06595v1](https://arxiv.org/abs/2607.06595v1) · [DOI](https://doi.org/10.48550/arXiv.2607.06595) |
+
+
+## [DEP-A-20260715-Light Omni Reflex over](../DEP-A-20260715-Light%20Omni%20Reflex%20over/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.05511-whitepaper-review.md`](../DEP-A-20260715-Light%20Omni%20Reflex%20over/2607.05511-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory* | Chang Nie; Jiaju Wei; Junlan Feng; Chaoyou Fu; Caifeng Shan | [arXiv:2607.05511v1](https://arxiv.org/abs/2607.05511v1) · [DOI](https://doi.org/10.48550/arXiv.2607.05511) |
+
+
+## [DEP-A-20260715-A TMA Decoupling State](../DEP-A-20260715-A%20TMA%20Decoupling%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.01935-whitepaper-review.md`](../DEP-A-20260715-A%20TMA%20Decoupling%20State/2607.01935-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory* | Zitong Shi; Yixuan Tang; Anthony Kum Hoe Tung | [arXiv:2607.01935v2](https://arxiv.org/abs/2607.01935v2) · [DOI](https://doi.org/10.48550/arXiv.2607.01935) |
+
+
+## [DEP-A-20260715-Spectral Evolution Guided](../DEP-A-20260715-Spectral%20Evolution%20Guided/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.24165-whitepaper-review.md`](../DEP-A-20260715-Spectral%20Evolution%20Guided/2606.24165-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models* | Bin Chen; Yuxiang Cai; Yadan Luo; Yi Zhang; Jianwei Yin; Zhi Chen | [arXiv:2606.24165v1](https://arxiv.org/abs/2606.24165v1) · [DOI](https://doi.org/10.48550/arXiv.2606.24165) |
+
+
+## [DEP-A-20260715-LKV End to End](../DEP-A-20260715-LKV%20End%20to%20End/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.06676-whitepaper-review.md`](../DEP-A-20260715-LKV%20End%20to%20End/2605.06676-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction* | Enshuai Zhou; Yifan Hao; Chao Wang; Rui Zhang; Di Huang; Jiaming Guo; Xing Hu; Zidong Du; Qi Guo; Yunji Chen | [arXiv:2605.06676v1](https://arxiv.org/abs/2605.06676v1) · [DOI](https://doi.org/10.48550/arXiv.2605.06676) |
