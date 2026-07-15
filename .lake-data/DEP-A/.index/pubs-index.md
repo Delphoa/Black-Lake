@@ -926,3 +926,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents* | Sukanta Ganguly | [arXiv:2607.04089v1](https://arxiv.org/abs/2607.04089v1) · [DOI](https://doi.org/10.48550/arXiv.2607.04089) |
+
+## [DEP-A-20260716-Metronome Bound the Cache](../DEP-A-20260716-Metronome%20Bound%20the%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.02640-whitepaper-review.md`](../DEP-A-20260716-Metronome%20Bound%20the%20Cache/2607.02640-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Metronome: Bound the Cache, Keep the Beat for Real-Time Interaction Model Serving* | Jiaying Meng; Bojie Li | [arXiv:2607.02640v1](https://arxiv.org/abs/2607.02640v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02640) |
+
+
+## [DEP-A-20260716-When Not to Write](../DEP-A-20260716-When%20Not%20to%20Write/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.02579-whitepaper-review.md`](../DEP-A-20260716-When%20Not%20to%20Write/2607.02579-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Not to Write Memory: Governing False Promotion from Correlated Agent Traces* | Yijiashun Qi; Xiang Xu; Yuxuan Li | [arXiv:2607.02579v1](https://arxiv.org/abs/2607.02579v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02579) |
+
+
+## [DEP-A-20260716-MemSyco Bench Benchmarkin](../DEP-A-20260716-MemSyco%20Bench%20Benchmarkin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.01071-whitepaper-review.md`](../DEP-A-20260716-MemSyco%20Bench%20Benchmarkin/2607.01071-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemSyco-Bench: Benchmarking Sycophancy in Agent Memory* | Zhishang Xiang; Zerui Chen; Yunbo Tang; Zhimin Wei; Ruqin Ning; Yujie Lin; Qinggang Zhang; Jinsong Su | [arXiv:2607.01071v2](https://arxiv.org/abs/2607.01071v2) · [DOI](https://doi.org/10.48550/arXiv.2607.01071) |
+
+
+## [DEP-A-20260716-The Past Is Prologue](../DEP-A-20260716-The%20Past%20Is%20Prologue/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.31121-whitepaper-review.md`](../DEP-A-20260716-The%20Past%20Is%20Prologue/2606.31121-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory* | Zihan Chen; Songwei Dong; Chengshuai Shi; Peng Wang; Song Wang; Cong Shen; Jundong Li | [arXiv:2606.31121v1](https://arxiv.org/abs/2606.31121v1) · [DOI](https://doi.org/10.48550/arXiv.2606.31121) |
+
+
+## [DEP-A-20260716-Know Before You Fetch](../DEP-A-20260716-Know%20Before%20You%20Fetch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.29959-whitepaper-review.md`](../DEP-A-20260716-Know%20Before%20You%20Fetch/2606.29959-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Know Before You Fetch: Calibrated Retrieval-Budget Allocation for Retrieval-Augmented Generation* | Zhe Dong; Fang Qin; Manish Shah; Yicheng Wang | [arXiv:2606.29959v1](https://arxiv.org/abs/2606.29959v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29959) |
