@@ -1014,3 +1014,29 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prompt Compression in Diffusion Large Language Models: Evaluating LLMLingua-2 on LLaDA* | Sterling Huang; Abigayle Brown; Jiyoo Noh; Jiakang Xu; Wantong Huo; Kaung Myat Kyaw; Jonathan Chan | [arXiv:2605.17932v2](https://arxiv.org/abs/2605.17932v2) · [DOI](https://doi.org/10.48550/arXiv.2605.17932) |
+
+## [DEP-A-20260716-Route Before Retrieve Act](../DEP-A-20260716-Route%20Before%20Retrieve%20Act/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2605.10235-whitepaper-review.md`](../DEP-A-20260716-Route%20Before%20Retrieve%20Act/2605.10235-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Route Before Retrieve: Activating Latent Routing Abilities of LLMs for RAG vs. Long-Context Selection* | Yiwen Chen; Kuan Li; Fuzhen Zhuang; Deqing Wang; Zhao Zhang; Liwen Zhang; Yong Jiang; Shuai Wang; Minhao Cheng | [arXiv:2605.10235v2](https://arxiv.org/abs/2605.10235v2) · [DOI](https://doi.org/10.48550/arXiv.2605.10235) |
+
+
+## [DEP-A-20260716-MemoSight Unifying Contex](../DEP-A-20260716-MemoSight%20Unifying%20Contex/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2604.14889-whitepaper-review.md`](../DEP-A-20260716-MemoSight%20Unifying%20Contex/2604.14889-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemoSight: Unifying Context Compression and Multi Token Prediction for Reasoning Acceleration* | Xinyu Liu; Xin Liu; Bo Jin; Runsong Zhao; Pengcheng Huang; Junhao Ruan; Bei Li; Chunyang Xiao; Chenglong Wang; Tong Xiao; Jingbo Zhu | [arXiv:2604.14889v2](https://arxiv.org/abs/2604.14889v2) · [DOI](https://doi.org/10.48550/arXiv.2604.14889) |
+
+
+## [DEP-A-20260716-ContextWeaver Selective a](../DEP-A-20260716-ContextWeaver%20Selective%20a/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2604.23069-whitepaper-review.md`](../DEP-A-20260716-ContextWeaver%20Selective%20a/2604.23069-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents* | Yating Wu; Yuhao Zhang; Sayan Ghosh; Sourya Basu; Anoop Deoras; Jun Huan; Gaurav Gupta | [arXiv:2604.23069v1](https://arxiv.org/abs/2604.23069v1) · [DOI](https://doi.org/10.48550/arXiv.2604.23069) |
