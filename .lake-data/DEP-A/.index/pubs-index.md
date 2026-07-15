@@ -314,3 +314,43 @@ Review status: substantively reviewed from the complete arXiv v4 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KV Cache Offloading for Context-Intensive Tasks* | Andrey Bocharnikov; Ivan Ermakov; Denis Kuznedelev; Vyacheslav Zhdanovskiy; Yegor Yershov | [arXiv:2604.08426v4](https://arxiv.org/abs/2604.08426v4) · [DOI](https://doi.org/10.48550/arXiv.2604.08426) |
+
+## [DEP-A-20260715-CogEvo Edu Intake](../DEP-A-20260715-CogEvo%20Edu%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`cogevo-edu-intake-review.md`](../DEP-A-20260715-CogEvo%20Edu%20Intake/cogevo-edu-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System* | Yefeng Wu; Yuchen Song; Yecheng Zhao; Ling Wu; Shan Wan | [arXiv:2512.00331v1](https://arxiv.org/abs/2512.00331v1) · [DOI](https://doi.org/10.48550/arXiv.2512.00331) |
+
+## [DEP-A-20260715-ComfyUI R1 Intake](../DEP-A-20260715-ComfyUI%20R1%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper, matching full-paper HTML, and official code surface on 2026-07-15. The owning review artifact is [`comfyui-r1-intake-review.md`](../DEP-A-20260715-ComfyUI%20R1%20Intake/comfyui-r1-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ComfyUI-R1: Exploring Reasoning Models for Workflow Generation* | Zhenran Xu; Yiyu Wang; Xue Yang; Longyue Wang; Weihua Luo; Kaifu Zhang; Baotian Hu; Min Zhang | [arXiv:2506.09790v1](https://arxiv.org/abs/2506.09790v1) · [ACL Findings 2026](https://aclanthology.org/2026.findings-acl.146/) |
+
+## [DEP-A-20260715-iKalibr Intake](../DEP-A-20260715-iKalibr%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper, matching full-paper HTML, and official implementation surface on 2026-07-15. The owning review artifact is [`ikalibr-intake-review.md`](../DEP-A-20260715-iKalibr%20Intake/ikalibr-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems* | Shuolong Chen; Xingxing Li; Shengyu Li; Yuxuan Zhou; Xiaoteng Yang | [arXiv:2407.11420v2](https://arxiv.org/abs/2407.11420v2) · [IEEE DOI](https://doi.org/10.1109/TRO.2025.3532506) |
+
+## [DEP-A-20260715-OViP Preference Intake](../DEP-A-20260715-OViP%20Preference%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper, appendices, and official code surface on 2026-07-15. The owning review artifact is [`ovip-preference-intake-review.md`](../DEP-A-20260715-OViP%20Preference%20Intake/ovip-preference-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OViP: Online Vision-Language Preference Learning for VLM Hallucination* | Shujun Liu; Siyuan Wang; Zejun Li; Jianxiang Wang; Cheng Zeng; Zhongyu Wei | [arXiv:2505.15963v2](https://arxiv.org/abs/2505.15963v2) · [DOI](https://doi.org/10.48550/arXiv.2505.15963) |
+
+## [DEP-A-20260715-Quantum Trading Intake](../DEP-A-20260715-Quantum%20Trading%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and the published-version context on 2026-07-15. The owning review artifact is [`quantum-trading-intake-review.md`](../DEP-A-20260715-Quantum%20Trading%20Intake/quantum-trading-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Quantitative Trading: High-Frequency Statistical Arbitrage Algorithm* | Xi-Ning Zhuang; Zhao-Yun Chen; Yu-Chun Wu; Guo-Ping Guo | [arXiv:2104.14214v1](https://arxiv.org/abs/2104.14214v1) · [Journal DOI](https://doi.org/10.1088/1367-2630/ac7f26) |
