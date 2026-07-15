@@ -1040,3 +1040,20 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents* | Yating Wu; Yuhao Zhang; Sayan Ghosh; Sourya Basu; Anoop Deoras; Jun Huan; Gaurav Gupta | [arXiv:2604.23069v1](https://arxiv.org/abs/2604.23069v1) · [DOI](https://doi.org/10.48550/arXiv.2604.23069) |
+
+## [DEP-A-20260716-AFIDAF Filters Intake](../DEP-A-20260716-AFIDAF%20Filters%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper, full-paper HTML, and publisher metadata on 2026-07-16. The owning review artifact is [`afidaf-filters-intake-review.md`](../DEP-A-20260716-AFIDAF%20Filters%20Intake/afidaf-filters-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs* | Yunling Zheng; Zeyi Xu; Fanghui Xue; Biao Yang; Jiancheng Lyu; Shuai Zhang; Yingyong Qi; Jack Xin | [arXiv:2407.12217v2](https://arxiv.org/abs/2407.12217v2) · [DOI](https://doi.org/10.48550/arXiv.2407.12217) · [Published DOI](https://doi.org/10.1007/978-3-031-77392-1_2) |
+
+
+## [DEP-A-20260716-Document Fraud Intake](../DEP-A-20260716-Document%20Fraud%20Intake/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`document-fraud-intake-review.md`](../DEP-A-20260716-Document%20Fraud%20Intake/document-fraud-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Multi-modal (reasoning) LLMs detect document manipulation?* | Zisheng Liang; Kidus Zewde; Rudra Pratap Singh; Disha Patil; Zexi Chen; Jiayu Xue; Yao Yao; Yifei Chen; Qinzhe Liu; Simiao Ren | [arXiv:2508.11021v1](https://arxiv.org/abs/2508.11021v1) · [DOI](https://doi.org/10.48550/arXiv.2508.11021) |
