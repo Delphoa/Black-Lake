@@ -486,3 +486,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression* | Junqi Gao; Dazhi Zhang; Zhichang Guo; Biqing Qi; Yi Ran; Wangmeng Zuo | [arXiv:2604.28109v1](https://arxiv.org/abs/2604.28109v1) · [DOI](https://doi.org/10.48550/arXiv.2604.28109) |
+
+## [DEP-A-20260715-A Brief Comparison of](../DEP-A-20260715-A%20Brief%20Comparison%20of/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2603.22434-whitepaper-review.md`](../DEP-A-20260715-A%20Brief%20Comparison%20of/2603.22434-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Brief Comparison of Training-Free Multi-Vector Sequence Compression Methods* | Rohan Jha; Chunsheng Zuo; Reno Kriz; Benjamin Van Durme | [arXiv:2603.22434v1](https://arxiv.org/abs/2603.22434v1) · [DOI](https://doi.org/10.48550/arXiv.2603.22434) |
+
+
+## [DEP-A-20260715-Fictional Worldbuilding M](../DEP-A-20260715-Fictional%20Worldbuilding%20M/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.09403-whitepaper-review.md`](../DEP-A-20260715-Fictional%20Worldbuilding%20M/2607.09403-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review* | Jingbo Chen; He Wang; Wei Yuan; Yuqiao Lai; Zhenyan Lu | [arXiv:2607.09403v1](https://arxiv.org/abs/2607.09403v1) · [DOI](https://doi.org/10.48550/arXiv.2607.09403) |
+
+
+## [DEP-A-20260715-Database Context Compress](../DEP-A-20260715-Database%20Context%20Compress/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.28601-whitepaper-review.md`](../DEP-A-20260715-Database%20Context%20Compress/2606.28601-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Database Context Compression for Text-to-SQL on Real-World Large Databases* | Jingwen Liu; Weibin Liao; Xin Gao; Junfeng Zhao; Yasha Wang | [arXiv:2606.28601v1](https://arxiv.org/abs/2606.28601v1) · [DOI](https://doi.org/10.48550/arXiv.2606.28601) |
+
+
+## [DEP-A-20260715-Context Compression Is No](../DEP-A-20260715-Context%20Compression%20Is%20No/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.14875-whitepaper-review.md`](../DEP-A-20260715-Context%20Compression%20Is%20No/2606.14875-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Compression Is Not One Thing: Readable Symbolic Re-expression vs. Coherent Summary at Matched Budget* | Sisong Bei; Mikhail L. Arbuzov; Ziwei Dong; Dmitri Kalaev; Alexey Shvets | [arXiv:2606.14875v1](https://arxiv.org/abs/2606.14875v1) · [DOI](https://doi.org/10.48550/arXiv.2606.14875) |
+
+
+## [DEP-A-20260715-AGORA Adapter Grounded Ob](../DEP-A-20260715-AGORA%20Adapter%20Grounded%20Ob/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.26596-whitepaper-review.md`](../DEP-A-20260715-AGORA%20Adapter%20Grounded%20Ob/2605.26596-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents* | Haoran Zhang; Zhaohua Sun | [arXiv:2605.26596v1](https://arxiv.org/abs/2605.26596v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26596) |
