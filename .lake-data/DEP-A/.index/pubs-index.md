@@ -618,3 +618,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM* | Shuvendu Roy; Mengyao Zhai; Hossein Hajimirsadeghi; Golnoosh Samei | [arXiv:2606.29563v1](https://arxiv.org/abs/2606.29563v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29563) |
+
+## [DEP-A-20260715-Epiphany Aware KV Cache](../DEP-A-20260715-Epiphany%20Aware%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.26472-whitepaper-review.md`](../DEP-A-20260715-Epiphany%20Aware%20KV%20Cache/2606.26472-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Epiphany-Aware KV Cache Eviction Without the Attention Matrix* | Steven Kolawole; Virginia Smith | [arXiv:2606.26472v2](https://arxiv.org/abs/2606.26472v2) · [DOI](https://doi.org/10.48550/arXiv.2606.26472) |
+
+
+## [DEP-A-20260715-Forget Without Compromise](../DEP-A-20260715-Forget%20Without%20Compromise/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.23961-whitepaper-review.md`](../DEP-A-20260715-Forget%20Without%20Compromise/2606.23961-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets* | Duc Duong; Hoang Anh Duy Le; Jianwen Xie; Anshumali Shrivastava; Zhaozhuo Xu | [arXiv:2606.23961v1](https://arxiv.org/abs/2606.23961v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23961) |
+
+
+## [DEP-A-20260715-SAC Disaggregated KV Cach](../DEP-A-20260715-SAC%20Disaggregated%20KV%20Cach/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.19746-whitepaper-review.md`](../DEP-A-20260715-SAC%20Disaggregated%20KV%20Cach/2606.19746-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL* | Ruiyang Ma; Teng Ma; Junru Li; Hantian Zha; Xuchun Shang; Qingda Hu; Zheng Liu; Xinjun Yang; Tao Ma; Guojie Luo | [arXiv:2606.19746v1](https://arxiv.org/abs/2606.19746v1) · [DOI](https://doi.org/10.48550/arXiv.2606.19746) |
+
+
+## [DEP-A-20260715-KVEraser Learning to Stee](../DEP-A-20260715-KVEraser%20Learning%20to%20Stee/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.17034-whitepaper-review.md`](../DEP-A-20260715-KVEraser%20Learning%20to%20Stee/2606.17034-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing* | Mufei Li; Shikun Liu; Dongqi Fu; Haoyu Wang; Yinglong Xia; Hong Li; Hong Yan; Pan Li | [arXiv:2606.17034v2](https://arxiv.org/abs/2606.17034v2) · [DOI](https://doi.org/10.48550/arXiv.2606.17034) |
+
+
+## [DEP-A-20260715-Beyond Perplexity A Behav](../DEP-A-20260715-Beyond%20Perplexity%20A%20Behav/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.00368-whitepaper-review.md`](../DEP-A-20260715-Beyond%20Perplexity%20A%20Behav/2607.00368-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Perplexity: A Behavioral Evaluation Framework for Deployment-Memory Claims in LLM Test-Time Training* | Xiangchen Song; Zhenhao Chen; Lingjing Kong; Shaoan Xie; Xinshuai Dong; Guangyi Chen; Kun Zhang | [arXiv:2607.00368v1](https://arxiv.org/abs/2607.00368v1) · [DOI](https://doi.org/10.48550/arXiv.2607.00368) |
