@@ -1,0 +1,26 @@
+# 20260715 Arxiv AFIDAF Vision Filters Log
+
+- Actor/tool: Codex recurring Arxiv DEP workflow.
+- Selected paper: *AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs*.
+- Identifier: arXiv:2407.12217v2; arXiv DOI https://doi.org/10.48550/arXiv.2407.12217; published chapter DOI https://doi.org/10.1007/978-3-031-77392-1_2.
+- Random method: PowerShell `Get-Random` uniform zero-based index after used-ID exclusion.
+- Enumeration: `rg --files -g "*.pdf"` found 75,776 PDFs and 75,776 unique PDF-parent paper units.
+- Dedup locations: Black Lake `.logs`, `.reports`, `.lake-data`, and `.staging`; automation memory; Black-Lake-Data `.lake-data` and `.reports`.
+- Dedup result: 541 used arXiv IDs observed; 119 candidate units excluded by used ID; 75,657 eligible units remained; eligible index 45,105 selected arXiv:2407.12217. Exact-ID, normalized-title, and `AFIDAF` slug checks found no prior artifact. Duplicate rejections and reselections: 0.
+- Twenty-four-hour validation cutoff: 2026-07-14. No same-paper archive or repository marker was found inside the cutoff window.
+- Initial source state: `partial`. The complete PDF was present, but full-paper HTML and companion integrity records were missing, so review paused.
+- Repair: preserved the existing PDF; collected official arXiv full-paper HTML, metadata HTML, and source archive with a single bounded direct-HTTP strategy; refreshed the local README, attribution/provenance JSON, summary CSV, and verification JSON.
+- Source-integrity result: `complete`. The 677,737-byte PDF passed size, `%PDF-`, and trailing `%%EOF` checks. The 200,299-byte official HTML contained 43,600 body characters, a document marker, 68 heading/section markers, and seven paper-structure terms. Metadata HTML was 40,757 bytes; the 436,334-byte source archive passed an archive-listing check; zero `.part` files remained.
+- Review evidence: verified full PDF and HTML, TeX/source inventory, arXiv metadata, Springer conference-chapter record, author publication context, and exactly three related Black Lake entries. No AFIDAF code repository was established from the paper, canonical records, author page, or exact-title/code searches. Experiments and code were not run.
+- Related DEP entries:
+  - `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md` - explicit spatial priors, downstream object detection, and efficiency/evidence trade-offs.
+  - `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md` - compact visual detection, field robustness, latency, memory, and model-size evidence.
+  - `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md` - structured non-attention feature extraction and parameter-efficiency limits.
+- Outputs:
+  - `.reports/BL-Arxiv-AFIDAF-Vision-Filters-20260715/Report-Mark.md`
+  - `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/README.md`
+  - `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`
+  - `.lake-data/DEP-E/.index/pubs-index.md`
+- Source locality: PDF, full-paper HTML, metadata HTML, source archive, extracted text, and integrity records were withheld locally. No `.source/` directory was created and no source file was copied, staged, uploaded, attached, or committed.
+- Outcome: public-safe derived Markdown prepared for validation and submission.
+- Blockers: none at drafting time.

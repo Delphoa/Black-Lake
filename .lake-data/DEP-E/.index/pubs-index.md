@@ -351,6 +351,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs* | Gabrielle Kaili-May Liu; Avi Caciularu; Gal Yona; Idan Szpektor; Arman Cohan | [arXiv:2606.32032v1](https://arxiv.org/abs/2606.32032v1) · [DOI](https://doi.org/10.48550/arXiv.2606.32032) |
 
+## [DEP-E-20260715-AFIDAF Vision Filters](../DEP-E-20260715-AFIDAF%20Vision%20Filters/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs* | Yunling Zheng; Zeyi Xu; Fanghui Xue; Biao Yang; Jiancheng Lyu; Shuai Zhang; Yingyong Qi; Jack Xin | [arXiv:2407.12217v2](https://arxiv.org/abs/2407.12217v2) · [DOI](https://doi.org/10.1007/978-3-031-77392-1_2) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
