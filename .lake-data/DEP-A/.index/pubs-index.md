@@ -530,3 +530,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents* | Haoran Zhang; Zhaohua Sun | [arXiv:2605.26596v1](https://arxiv.org/abs/2605.26596v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26596) |
+
+## [DEP-A-20260715-Elastic dLLM Position Pre](../DEP-A-20260715-Elastic%20dLLM%20Position%20Pre/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.18165-whitepaper-review.md`](../DEP-A-20260715-Elastic%20dLLM%20Position%20Pre/2605.18165-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Elastic-dLLM: Position Preserving Context Compression and Augmentation of Diffusion LLMs* | Junyi Wu; Tianchen Zhao; Shaoqiu Zhang; Linfeng Zhang; Guohao Dai; Yu Wang | [arXiv:2605.18165v1](https://arxiv.org/abs/2605.18165v1) · [DOI](https://doi.org/10.48550/arXiv.2605.18165) |
+
+
+## [DEP-A-20260715-From Token to Token](../DEP-A-20260715-From%20Token%20to%20Token/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.11774-whitepaper-review.md`](../DEP-A-20260715-From%20Token%20to%20Token/2605.11774-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction* | Mingcheng Zhu; Zhiyao Luo; Yu Liu; Tingting Zhu | [arXiv:2605.11774v1](https://arxiv.org/abs/2605.11774v1) · [DOI](https://doi.org/10.48550/arXiv.2605.11774) |
+
+
+## [DEP-A-20260715-Telegraph English Semanti](../DEP-A-20260715-Telegraph%20English%20Semanti/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.04426-whitepaper-review.md`](../DEP-A-20260715-Telegraph%20English%20Semanti/2605.04426-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Telegraph English: Semantic Prompt Compression via Structured Symbolic Rewriting* | Mikhail L. Arbuzov; Sisong Bei; Ziwei Dong; Dmitri Kalaev; Alexey A. Shvets | [arXiv:2605.04426v1](https://arxiv.org/abs/2605.04426v1) · [DOI](https://doi.org/10.48550/arXiv.2605.04426) |
+
+
+## [DEP-A-20260715-Mapping Text to Multiplex](../DEP-A-20260715-Mapping%20Text%20to%20Multiplex/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.01241-whitepaper-review.md`](../DEP-A-20260715-Mapping%20Text%20to%20Multiplex/2607.01241-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mapping Text to Multiplex Graph: Prompt Compression as L\'evy Walk-Guided Graph Pruning* | Yaxin Gao; Yao Lu; Jinhong Deng; Jiaqi Nie; Zhe Tang; Jian Zhang; Zhaowei Zhu; Shanqing Yu; Qi Xuan; Joey Tianyi Zhou | [arXiv:2607.01241v1](https://arxiv.org/abs/2607.01241v1) · [DOI](https://doi.org/10.48550/arXiv.2607.01241) |
+
+
+## [DEP-A-20260715-Agent Assisted Side Chann](../DEP-A-20260715-Agent%20Assisted%20Side%20Chann/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.21842-whitepaper-review.md`](../DEP-A-20260715-Agent%20Assisted%20Side%20Chann/2606.21842-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG* | He Sun; Shinan Liu; Siyuan Ma; Junhao Li; Mingjun Xiao; Wenhao Jiang | [arXiv:2606.21842v1](https://arxiv.org/abs/2606.21842v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21842) |
