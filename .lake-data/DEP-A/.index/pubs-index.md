@@ -442,3 +442,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemTrace: Probing What Final Accuracy Misses in Long-Term Memory* | Xianxuan Long; Zhikai Chen; Shenglai Zeng; Shouren Wang; Kai Guo; Jiliang Tang | [arXiv:2606.17328v1](https://arxiv.org/abs/2606.17328v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17328) |
+
+## [DEP-A-20260715-PolyKV Policies](../DEP-A-20260715-PolyKV%20Policies/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.15157-whitepaper-review.md`](../DEP-A-20260715-PolyKV%20Policies/2606.15157-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PolyKV: Heterogeneous Retention and Allocation for KV Cache Compression* | Chao Fei; Panos Kalnis | [arXiv:2606.15157v1](https://arxiv.org/abs/2606.15157v1) · [DOI](https://doi.org/10.48550/arXiv.2606.15157) |
+
+
+## [DEP-A-20260715-STAR-KV Ranks](../DEP-A-20260715-STAR-KV%20Ranks/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.08382-whitepaper-review.md`](../DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control* | Priyansh Bhatnagar; Ashkan Moradifirouzabadi; Se-Hyun Yang; SeungJae Lee; Jungwook Choi; Mingu Kang | [arXiv:2606.08382v1](https://arxiv.org/abs/2606.08382v1) · [DOI](https://doi.org/10.48550/arXiv.2606.08382) |
+
+
+## [DEP-A-20260715-GRKV Regression](../DEP-A-20260715-GRKV%20Regression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.31105-whitepaper-review.md`](../DEP-A-20260715-GRKV%20Regression/2605.31105-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GRKV: Global Regression for Training-Free KV Cache Compression in Long-Context LLMs* | Junjie Peng; You Wu; Haoyi Wu; Jialong Han; Xiaohua Xie; Kewei Tu; Jianhuang Lai | [arXiv:2605.31105v1](https://arxiv.org/abs/2605.31105v1) · [DOI](https://doi.org/10.48550/arXiv.2605.31105) |
+
+
+## [DEP-A-20260715-BACO Co-Clustering](../DEP-A-20260715-BACO%20Co-Clustering/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.18351-whitepaper-review.md`](../DEP-A-20260715-BACO%20Co-Clustering/2604.18351-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems* | Runhao Jiang; Renchi Yang; Donghao Wu | [arXiv:2604.18351v1](https://arxiv.org/abs/2604.18351v1) · [DOI](https://doi.org/10.48550/arXiv.2604.18351) |
+
+
+## [DEP-A-20260715-Auto-FlexSwitch](../DEP-A-20260715-Auto-FlexSwitch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.28109-whitepaper-review.md`](../DEP-A-20260715-Auto-FlexSwitch/2604.28109-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression* | Junqi Gao; Dazhi Zhang; Zhichang Guo; Biqing Qi; Yi Ran; Wangmeng Zuo | [arXiv:2604.28109v1](https://arxiv.org/abs/2604.28109v1) · [DOI](https://doi.org/10.48550/arXiv.2604.28109) |
