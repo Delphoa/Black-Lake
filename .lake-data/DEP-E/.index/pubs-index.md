@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **115 publications across 47 DEP-E entries** (111 arXiv records and 4 other research publications).
+- Current coverage: **125 publications across 48 DEP-E entries** (121 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-16; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260716-State and Substrate](../DEP-E-20260716-State%20and%20Substrate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models* | MY Pitsane; Hope Mogale | [arXiv:2607.04562v1](https://arxiv.org/abs/2607.04562v1) |
+| *MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents* | Jizhizi Li; Amy Shi-Nash | [arXiv:2607.04617v1](https://arxiv.org/abs/2607.04617v1) |
+| *From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure* | Qirui Huang; Na Li; Hongsheng Hu; Zhi Zhang; Anmin Fu; Yansong Gao | [arXiv:2607.05111v1](https://arxiv.org/abs/2607.05111v1) |
+| *MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images* | Vu Minh Tran; Doanh C. Bui; Maï K. Nguyen; Khang Nguyen | [arXiv:2607.04747v1](https://arxiv.org/abs/2607.04747v1) |
+| *Data-driven atomistic modelling of hybrid halide perovskite passivation* | Laura-Bianca Paşca; Henry J. Snaith; Volker L. Deringer | [arXiv:2607.05321v1](https://arxiv.org/abs/2607.05321v1) |
+| *Quantum Hashing via Constrained Rydberg Many-Body Dynamics* | Han-Chao Chen; Xin Liu; Zheng-Yuan Zhang; Dong-Sheng Ding; Bao-Sen Shi | [arXiv:2607.04991v1](https://arxiv.org/abs/2607.04991v1) |
+| *Photonic Cluster State Generation from a Quantum Dot Emitting in the Telecom C-band* | Giora Peniakov; Reza Hekmati; Johannes Michl; et al. | [arXiv:2607.04896v1](https://arxiv.org/abs/2607.04896v1) |
+| *A Path-Superposition Framework for Quantum Gate Teleportation* | Santiago Ávila; Marco Enríquez | [arXiv:2607.04672v1](https://arxiv.org/abs/2607.04672v1) |
+| *A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices* | Zeheng Wang; Yan Liu; Yue Hao; Genquan Han | [arXiv:2607.04876v1](https://arxiv.org/abs/2607.04876v1) |
+| *Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo* | Kilian Kier; Alessandro Giagnorio; Omar AbedelKader; Oleksandr Zaitsev; Robert Peharz; Romain Robbes; Gabriele Bavota; Stéphane Ducasse | [arXiv:2607.04939v1](https://arxiv.org/abs/2607.04939v1) |
 
 ## [DEP-E-20260716-Acoustic Phase Retrieval](../DEP-E-20260716-Acoustic%20Phase%20Retrieval/README.md)
 
