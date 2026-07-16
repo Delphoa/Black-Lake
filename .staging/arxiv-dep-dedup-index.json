@@ -646,11 +646,11 @@
       ],
       "arxiv_base_id": "2506.09748",
       "arxiv_id": "2506.09748v1",
-      "commit_or_pr": "pending",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/4e5061c769397d876e68208e2ec1398d0e5495d5",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2506.09748",
       "normalized_title": "Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints",
-      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; submission pending.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "UAV-Visual-Localization",
       "source_urls": [
         "https://arxiv.org/abs/2506.09748v1",
@@ -659,7 +659,7 @@
         "https://arxiv.org/pdf/2506.09748",
         "https://doi.org/10.48550/arXiv.2506.09748"
       ],
-      "status": "pending"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

@@ -9,7 +9,7 @@
 - Source: `partial` repaired to verified `complete` with official arXiv HTML
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: pending deposited pointer and primary commit reference
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -26,7 +26,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | iKalibr, SSP Oriented Detection, AFIDAF Vision Filters |
 | Artifact generation | 20 min | about 16 min | Complete | Seven public artifacts drafted |
 | Validation and source gate | 10 min | about 5 min | Complete | Structural, syntax, count, public-safety, and seven-file allowlist checks passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission and channel notice |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -54,8 +54,8 @@
 - Substantive matches: 0
 - Exclusions / reselections: 0 / 0
 - New pointer: arXiv:2506.09748v1; slug `UAV-Visual-Localization`
-- Commit reference: pending
-- Status: draft pointer pending submission validation
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/4e5061c769397d876e68208e2ec1398d0e5495d5
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -68,4 +68,4 @@ The review trajectory remains within the whole-job guidance. The most important 
 - No reproduction, model execution, source-package inspection, or target-device benchmark was performed.
 - No usable CS-UAV release URL or official method repository was found; the paper's placeholder is not a release.
 - Geographic, seasonal, camera, map-age, and adversarial generalization remain open.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; repository and Slack steps remain pending.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; submission and Slack delivery completed.
