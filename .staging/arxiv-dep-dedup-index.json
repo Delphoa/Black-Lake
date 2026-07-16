@@ -580,6 +580,33 @@
         "https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation",
+        ".lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md",
+        ".logs/20260716-Arxiv-PIArena-Evaluation-LOG.md",
+        ".logs/20260716-Arxiv-PIArena-Evaluation-PHASE-LOG.md",
+        ".reports/BL-Arxiv-PIArena-Evaluation-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.08499",
+      "arxiv_id": "2604.08499v1",
+      "commit_or_pr": null,
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2604.08499",
+      "normalized_title": "PIArena: A Platform for Prompt Injection Evaluation",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; primary commit and Slack notice pending.",
+      "slug": "PIArena-Evaluation",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.08499v1",
+        "https://arxiv.org/e-print/2604.08499",
+        "https://arxiv.org/html/2604.08499",
+        "https://arxiv.org/pdf/2604.08499",
+        "https://doi.org/10.48550/arXiv.2604.08499",
+        "https://github.com/sleeepeer/PIArena"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
