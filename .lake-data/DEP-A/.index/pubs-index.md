@@ -1173,3 +1173,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Out of Sight: Compression-Aware Content Protection against Agentic Crawlers* | Xuefei Wang | [arXiv:2607.08180v1](https://arxiv.org/abs/2607.08180v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08180) |
+
+
+## [DEP-A-20260716-DiffuMask Pruning](../DEP-A-20260716-DiffuMask%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.06627-whitepaper-review.md](../DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DiffuMask: Diffusion Language Model for Token-level Prompt Pruning* | Caleb Zheng; Jyotika Singh; Fang Tu; Weiyi Sun; Sujeeth Bharadwaj; Yassine Benajiba; Sujith Ravi; Eli Shlizerman; Dan Roth | [arXiv:2604.06627v1](https://arxiv.org/abs/2604.06627v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.06627) |
+
+
+## [DEP-A-20260716-SWEzze Code Context](../DEP-A-20260716-SWEzze%20Code%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.28119-whitepaper-review.md](../DEP-A-20260716-SWEzze%20Code%20Context/2603.28119-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compressing Code Context for LLM-based Issue Resolution* | Haoxiang Jia; Earl T. Barr; Sergey Mechtaev | [arXiv:2603.28119v1](https://arxiv.org/abs/2603.28119v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.28119) |
+
+
+## [DEP-A-20260716-Sensing LLM Reduction](../DEP-A-20260716-Sensing%20LLM%20Reduction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.14156-whitepaper-review.md](../DEP-A-20260716-Sensing%20LLM%20Reduction/2604.14156-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models* | Andrew Kiruluta | [arXiv:2604.14156v1](https://arxiv.org/abs/2604.14156v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.14156) |
+
+
+## [DEP-A-20260716-PraMem Experience](../DEP-A-20260716-PraMem%20Experience/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.02881-whitepaper-review.md](../DEP-A-20260716-PraMem%20Experience/2607.02881-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction* | Zhuoqun Li; Boxi Cao; Jiawei Chen; Hanshu Zhou; Ruoxi Xu; Guiping Jiang; Ruotong Pan; Tingting Gao; Han Li; Xiangyu Wu; Hongyu Lin; Yaojie Lu; Xianpei Han; Le Sun | [arXiv:2607.02881v1](https://arxiv.org/abs/2607.02881v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.02881) |
+
+
+## [DEP-A-20260716-System Aware KV Survey](../DEP-A-20260716-System%20Aware%20KV%20Survey/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.08057-whitepaper-review.md](../DEP-A-20260716-System%20Aware%20KV%20Survey/2607.08057-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization* | Jiantong Jiang; Peiyu Yang; Rui Zhang; Feng Liu | [arXiv:2607.08057v1](https://arxiv.org/abs/2607.08057v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08057) Â· [Published DOI](https://doi.org/10.18653/v1/2026.findings-acl.1916) |
