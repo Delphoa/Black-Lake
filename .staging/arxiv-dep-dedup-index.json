@@ -420,6 +420,33 @@
         "https://doi.org/10.1088/1361-6420/aaccda"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries",
+        ".lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md",
+        ".logs/20260716-Arxiv-Hyperbolic-Catenaries-LOG.md",
+        ".logs/20260716-Arxiv-Hyperbolic-Catenaries-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Hyperbolic-Catenaries-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2211.15297",
+      "arxiv_id": "2211.15297v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.1017/prm.2024.56",
+      "normalized_title": "Catenaries and minimal surfaces of revolution in hyperbolic space",
+      "notes": "Initial partial source repaired to verified complete; cache miss became cached; source files withheld locally; commit reference pending first submission.",
+      "slug": "Hyperbolic-Catenaries",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.15297v2",
+        "https://arxiv.org/e-print/2211.15297",
+        "https://arxiv.org/html/2211.15297",
+        "https://arxiv.org/pdf/2211.15297",
+        "https://doi.org/10.1017/prm.2024.56",
+        "https://doi.org/10.48550/arXiv.2211.15297"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

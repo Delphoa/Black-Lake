@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **130 publications across 53 DEP-E entries** (126 arXiv records and 4 other research publications).
+- Current coverage: **131 publications across 54 DEP-E entries** (127 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-16; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260716-Hyperbolic Catenaries](../DEP-E-20260716-Hyperbolic%20Catenaries/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Catenaries and minimal surfaces of revolution in hyperbolic space* | Luiz C. B. da Silva; Rafael López | [arXiv:2211.15297v2](https://arxiv.org/abs/2211.15297v2) · [DOI](https://doi.org/10.1017/prm.2024.56) |
 
 ## [DEP-E-20260716-Flag Hardy Operators](../DEP-E-20260716-Flag%20Hardy%20Operators/README.md)
 
