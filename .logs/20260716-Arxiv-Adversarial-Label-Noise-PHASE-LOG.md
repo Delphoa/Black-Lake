@@ -7,7 +7,7 @@
 - Selection: first draw, index 27,298 of 75,776 units; dedup clear
 - Source: `partial` repaired to verified `complete` with official arXiv HTML
 - Cache: miss to `cached`; sources and extracted text withheld
-- Dedup pointer: prepared; primary commit reference pending
+- Dedup pointer: deposited with primary commit reference
 
 ## Phase Metrics
 
@@ -22,7 +22,7 @@
 | Related synthesis | 10 min | about 5 min | Complete | Exactly three inspected Black Lake entries |
 | Artifact generation | 20 min | about 16 min | Complete | Seven allowlisted artifacts drafted |
 | Validation/source gate | 10 min | about 4 min | Complete | Schema, exact counts, public safety, and seven-file staged allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct push and Slack notification |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct push and Slack notification succeeded |
 
 ## Cache and Integrity Metrics
 
@@ -40,7 +40,7 @@
 
 - Matches, exclusions, reselections: 0 / 0 / 0
 - Pointer: arXiv:2110.03135v4; slug `Adversarial-Label-Noise`
-- Commit/status: pending / prepared
+- Commit/status: https://github.com/Delphoa/Black-Lake/commit/56968e2e87731e89bcc326424941604d5a524fa1 / deposited
 
 ## Expected vs Observed Trajectory
 
@@ -52,4 +52,4 @@ The whole-job timebox did not truncate the source-first review. No source payloa
 
 - No reproduction, repeated seeds, semantic annotation study, adaptive-attack audit, or independent calibration-transfer test.
 - The extra teacher and validation workflow remain incompletely costed.
-- Public allowlist validation completed; submission and Slack delivery remain to be completed.
+- Public allowlist, submission, and Slack delivery completed.

@@ -807,11 +807,11 @@
       ],
       "arxiv_base_id": "2110.03135",
       "arxiv_id": "2110.03135v4",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/56968e2e87731e89bcc326424941604d5a524fa1",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2110.03135",
       "normalized_title": "Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting",
-      "notes": "Version 1 used the title Double Descent in Adversarial Training: An Implicit Label Noise Perspective. Initial partial source repaired to verified complete with official arXiv full-paper HTML; cache miss became cached with one nonfatal PDF image decode warning; source files and extracted text withheld locally; submission pending.",
+      "notes": "Version 1 used the title Double Descent in Adversarial Training: An Implicit Label Noise Perspective. Initial partial source repaired to verified complete with official arXiv full-paper HTML; cache miss became cached with one nonfatal PDF image decode warning; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Adversarial-Label-Noise",
       "source_urls": [
         "https://arxiv.org/abs/2110.03135v4",
@@ -821,7 +821,7 @@
         "https://doi.org/10.48550/arXiv.2110.03135",
         "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fe6a2ba2594521d15af3b1f2162d79c-Abstract-Conference.html"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
