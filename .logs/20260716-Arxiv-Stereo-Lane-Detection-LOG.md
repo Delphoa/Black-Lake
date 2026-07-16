@@ -70,7 +70,7 @@ No matching arXiv ID, arXiv DOI, publisher DOI, normalized title, slug, Arxiv DE
 
 ## Submission Record
 
-- Primary artifact commit: pending
-- Slack notification: pending
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/c3270f583b0a43f962067afdcb7c76a19c8d8d7c
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784213689326169
 - Source-upload gate: passed with exactly seven public-safe Markdown/JSON files and zero source artifacts
-- Submission status: pending
+- Submission status: direct default-branch push succeeded; Slack notice delivered

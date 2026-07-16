@@ -672,11 +672,11 @@
       ],
       "arxiv_base_id": "1808.09128",
       "arxiv_id": "1808.09128v1",
-      "commit_or_pr": "pending",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c3270f583b0a43f962067afdcb7c76a19c8d8d7c",
       "deposit_date": "20260716",
       "doi": "10.1109/IST.2018.8577122",
       "normalized_title": "Multiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation",
-      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files and extracted text withheld locally; submission pending.",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Stereo-Lane-Detection",
       "source_urls": [
         "https://arxiv.org/abs/1808.09128v1",
@@ -686,7 +686,7 @@
         "https://doi.org/10.1109/IST.2018.8577122",
         "https://doi.org/10.48550/arXiv.1808.09128"
       ],
-      "status": "pending"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

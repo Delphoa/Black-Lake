@@ -9,7 +9,7 @@
 - Source: `partial` repaired to verified `complete` with approved ar5iv fallback
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: pending deposited pointer and primary commit reference
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -26,7 +26,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | iKalibr, HSD FTI-FDet, Self Learned IDC |
 | Artifact generation | 20 min | about 15 min | Complete | Seven public artifacts drafted |
 | Validation and source gate | 10 min | about 5 min | Complete | Structural, syntax, code, YAML, count, public-safety, and seven-file allowlist checks passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission and channel notice |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -55,8 +55,8 @@
 - Substantive matches: 0
 - Exclusions / reselections: 0 / 0
 - New pointer: arXiv:1808.09128v1; slug `Stereo-Lane-Detection`
-- Commit reference: pending
-- Status: draft pointer pending submission validation
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/c3270f583b0a43f962067afdcb7c76a19c8d8d7c
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -69,4 +69,4 @@ Review was not shortened because the paper is five pages. Its central evidence r
 - No reproduction, image-level annotation audit, code execution, or embedded benchmark was performed.
 - No official code was identified; the sequence and annotation manifest is incomplete.
 - Temporal recovery, calibration drift, adverse conditions, modern baselines, uncertainty, and safety routing remain open.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; repository and Slack steps remain pending.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; submission and Slack delivery completed.
