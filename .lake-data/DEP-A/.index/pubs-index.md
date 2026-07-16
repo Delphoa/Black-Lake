@@ -1893,3 +1893,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements* | Pavithra PM Nair; Preethu Rose Anish | [arXiv:2607.04436v1](https://arxiv.org/abs/2607.04436v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04436) |
+
+
+## [DEP-A-20260717-GASP Hallucinations](../DEP-A-20260717-GASP%20Hallucinations/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04223-whitepaper-review.md`](../DEP-A-20260717-GASP%20Hallucinations/2607.04223-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)* | Mohamed Aly Bouke | [arXiv:2607.04223v1](https://arxiv.org/abs/2607.04223v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04223) |
+
+
+## [DEP-A-20260717-RAG Chunking Study](../DEP-A-20260717-RAG%20Chunking%20Study/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.01852-whitepaper-review.md`](../DEP-A-20260717-RAG%20Chunking%20Study/2607.01852-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts* | Valentin J. J. Kreileder; Johannes Reisinger; Andreas Fischer | [arXiv:2607.01852v1](https://arxiv.org/abs/2607.01852v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01852) |
+
+
+## [DEP-A-20260717-CheckRLM Coherence](../DEP-A-20260717-CheckRLM%20Coherence/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.02262-whitepaper-review.md`](../DEP-A-20260717-CheckRLM%20Coherence/2607.02262-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CheckRLM: Effective Knowledge-Thought Coherence Checking in Retrieval-Augmented Reasoning* | Dingling Xu; Ruobing Wang; Qingfei Zhao; Yukun Yan; Zhichun Wang; Daren Zha; Shi Yu; Zhenghao Liu; Shuo Wang; Xu Han; Maosong Sun | [arXiv:2607.02262v1](https://arxiv.org/abs/2607.02262v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02262) |
+
+
+## [DEP-A-20260717-ClinRAG Graph](../DEP-A-20260717-ClinRAG%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00798-whitepaper-review.md`](../DEP-A-20260717-ClinRAG%20Graph/2607.00798-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction* | Yaofei Duan; Yuhao Huang; Tianyu Zhang; Yuan Gao; Luyi Han; Xin Wang; Xinyu Xie; Xinglong Liang; Chunyao Lu; Muzhen He; Patrick Pang; Yue Sun; Ning Mao; Tao Tan; Ritse Mann | [arXiv:2607.00798v1](https://arxiv.org/abs/2607.00798v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00798) |
