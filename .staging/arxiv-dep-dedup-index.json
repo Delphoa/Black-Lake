@@ -500,6 +500,33 @@
         "https://doi.org/10.48550/arXiv.2208.07592"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal",
+        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md",
+        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-LOG.md",
+        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-PHASE-LOG.md",
+        ".reports/BL-Arxiv-CorrKD-Missing-Modality-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.16456",
+      "arxiv_id": "2404.16456v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2404.16456",
+      "normalized_title": "Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML; cache miss became cached; source files withheld locally.",
+      "slug": "CorrKD-Missing-Modality",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.16456v2",
+        "https://arxiv.org/e-print/2404.16456",
+        "https://arxiv.org/html/2404.16456",
+        "https://arxiv.org/pdf/2404.16456",
+        "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Correlation-Decoupled_Knowledge_Distillation_for_Multimodal_Sentiment_Analysis_with_Incomplete_Modalities_CVPR_2024_paper.html",
+        "https://doi.org/10.48550/arXiv.2404.16456"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
