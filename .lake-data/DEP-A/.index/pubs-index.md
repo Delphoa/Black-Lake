@@ -1623,3 +1623,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs* | Yuhao Wang; Mu Qiao; Haiwen Diao; Yunzhi Zhuge; Pingping Zhang; Xindong Zhang; Lei Zhang; Huchuan Lu | [arXiv:2606.31982v1](https://arxiv.org/abs/2606.31982v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31982) |
+
+
+## [DEP-A-20260717-TOPS Token Preservation](../DEP-A-20260717-TOPS%20Token%20Preservation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.27161-whitepaper-review.md`](../DEP-A-20260717-TOPS%20Token%20Preservation/2606.27161-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference* | Tinghao Wang; Yichen Guo; Rui Huang; Zheng Lu; Qizhe Zhang; Chenxi Li; Yuan Zhang; Jiajun Cao; Zhirong Shen; Yaosong Du; Guangyan Gan; Wenya Wang; Lin William Cong; Shanghang Zhang | [arXiv:2606.27161v1](https://arxiv.org/abs/2606.27161v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27161) |
+
+
+## [DEP-A-20260717-MVPruner Multi View](../DEP-A-20260717-MVPruner%20Multi%20View/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.27660-whitepaper-review.md`](../DEP-A-20260717-MVPruner%20Multi%20View/2606.27660-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving* | Nan Yang; Zhanwen Liu; Linfeng Zhang; Shangyu Xie; Yang Wang; Wenzhuo Zhou; Xiangmo Zhao | [arXiv:2606.27660v2](https://arxiv.org/abs/2606.27660v2) - [DOI](https://doi.org/10.48550/arXiv.2606.27660) |
+
+
+## [DEP-A-20260717-SPARE Subspace Pruning](../DEP-A-20260717-SPARE%20Subspace%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.18681-whitepaper-review.md`](../DEP-A-20260717-SPARE%20Subspace%20Pruning/2606.18681-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Moving Beyond Diversity: Visual Token Pruning as Subspace Reconstruction for Efficient VLMs* | Jaeyeon Lee; Shunjie Wen; Dong-Wan Choi | [arXiv:2606.18681v1](https://arxiv.org/abs/2606.18681v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18681) |
+
+
+## [DEP-A-20260717-DCP Ultra Low Tokens](../DEP-A-20260717-DCP%20Ultra%20Low%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.16633-whitepaper-review.md`](../DEP-A-20260717-DCP%20Ultra%20Low%20Tokens/2606.16633-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DCP-Prune: Ultra-Low Token Pruning with Distribution Consistency Preservation* | Xifeng Xue; Xiaokang Wang; Zirui Li; Ming-Ming Cheng; Guolei Sun | [arXiv:2606.16633v1](https://arxiv.org/abs/2606.16633v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16633) |
+
+
+## [DEP-A-20260717-AVEX Token Exchange](../DEP-A-20260717-AVEX%20Token%20Exchange/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10533-whitepaper-review.md`](../DEP-A-20260717-AVEX%20Token%20Exchange/2606.10533-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning* | Zihan Meng; Dexiang Hong; Weidong Chen; Ziyu Zhou; Bo Hu; Zhendong Mao | [arXiv:2606.10533v1](https://arxiv.org/abs/2606.10533v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10533) |
