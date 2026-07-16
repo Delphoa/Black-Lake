@@ -1083,3 +1083,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MSAIC-Net: A Multi-Scale Attention and Imbalance-Aware Contrastive Network for ECG-Based Myocardial Substrate Abnormality Detection* | Canyu Lei; Fenglin Zhang; Derek Bivona; Cristiane Singulane; Jonathan Pan; Kenneth Bilchick; Amit R. Patel; Jianxin Xie | [arXiv:2606.06718v1](https://arxiv.org/abs/2606.06718v1) · [DOI](https://doi.org/10.48550/arXiv.2606.06718) |
+
+
+## [DEP-A-20260716-Adaptive Context](../DEP-A-20260716-Adaptive%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.29193-whitepaper-review.md](../DEP-A-20260716-Adaptive%20Context/2603.29193-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Developing Adaptive Context Compression Techniques for Large Language Models (LLMs) in Long-Running Interactions* | Payal Fofadiya; Sunil Tiwari | [arXiv:2603.29193v1](https://arxiv.org/abs/2603.29193v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.29193) |
+
+
+## [DEP-A-20260716-Dictionary Prompt](../DEP-A-20260716-Dictionary%20Prompt/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.13066-whitepaper-review.md](../DEP-A-20260716-Dictionary%20Prompt/2604.13066-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lossless Prompt Compression via Dictionary-Encoding and In-Context Learning: Enabling Cost-Effective LLM Analysis of Repetitive Data* | Andresa Rodrigues de Campos; David Lee; Imry Kissos; Piyush Paritosh | [arXiv:2604.13066v1](https://arxiv.org/abs/2604.13066v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.13066) |
+
+
+## [DEP-A-20260716-Repo Context Modalities](../DEP-A-20260716-Repo%20Context%20Modalities/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.13725-whitepaper-review.md](../DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the Effectiveness of Context Compression for Repository-Level Tasks: An Empirical Investigation* | Jia Feng; Zhanyue Qin; Cuiyun Gao; Ruiqi Wang; Chaozheng Wang; Yingwei Ma; Xiaoyuan Xie | [arXiv:2604.13725v1](https://arxiv.org/abs/2604.13725v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.13725) |
+
+
+## [DEP-A-20260716-Semi Dynamic Compress](../DEP-A-20260716-Semi%20Dynamic%20Compress/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.25926-whitepaper-review.md](../DEP-A-20260716-Semi%20Dynamic%20Compress/2603.25926-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio* | Yijiong Yu; Shuai Yuan; Jie Zheng; Huazheng Wang; Ji Pei | [arXiv:2603.25926v1](https://arxiv.org/abs/2603.25926v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.25926) |
+
+
+## [DEP-A-20260716-Performance Context](../DEP-A-20260716-Performance%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.19733-whitepaper-review.md](../DEP-A-20260716-Performance%20Context/2603.19733-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction* | Runsong Zhao; Shilei Liu; Jiwei Tang; Langming Liu; Haibin Chen; Weidong Zhang; Yujin Yuan; Tong Xiao; Jingbo Zhu; Wenbo Su; Bo Zheng | [arXiv:2603.19733v1](https://arxiv.org/abs/2603.19733v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.19733) |
