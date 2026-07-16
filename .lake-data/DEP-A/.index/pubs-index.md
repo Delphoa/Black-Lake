@@ -1668,3 +1668,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning* | Zihan Meng; Dexiang Hong; Weidong Chen; Ziyu Zhou; Bo Hu; Zhendong Mao | [arXiv:2606.10533v1](https://arxiv.org/abs/2606.10533v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10533) |
+
+
+## [DEP-A-20260717-STS Two Stage Pruning](../DEP-A-20260717-STS%20Two%20Stage%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.03569-whitepaper-review.md`](../DEP-A-20260717-STS%20Two%20Stage%20Pruning/2606.03569-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Attention Collapses: Stage-Aware Visual Token Pruning from Structure to Semantics* | Jiahui Wang; Kai Zhang; Mai Han; Huanghe Zhang | [arXiv:2606.03569v1](https://arxiv.org/abs/2606.03569v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03569) |
+
+
+## [DEP-A-20260717-SAFE Future Pruning](../DEP-A-20260717-SAFE%20Future%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.29662-whitepaper-review.md`](../DEP-A-20260717-SAFE%20Future%20Pruning/2605.29662-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation* | Shilin Ma; Chubin Zhang; Changyuan Wang; Yuji Wang; Yue Wu; Zixuan Wang; Jingqi Tian; Zheng Zhu; Yansong Tang | [arXiv:2605.29662v1](https://arxiv.org/abs/2605.29662v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29662) |
+
+
+## [DEP-A-20260717-DiffPrune Throttling](../DEP-A-20260717-DiffPrune%20Throttling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.28051-whitepaper-review.md`](../DEP-A-20260717-DiffPrune%20Throttling/2605.28051-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Surrogate Gradients: Fully Differentiable Token Pruning for Vision-Language Models* | Landi He; Mingde Yao; Shawn Young; Lijian Xu | [arXiv:2605.28051v1](https://arxiv.org/abs/2605.28051v1) - [DOI](https://doi.org/10.48550/arXiv.2605.28051) |
+
+
+## [DEP-A-20260717-WeiToP Place Retrieval](../DEP-A-20260717-WeiToP%20Place%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.20551-whitepaper-review.md`](../DEP-A-20260717-WeiToP%20Place%20Retrieval/2605.20551-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning* | Zichao Zeng; June Moh Goo; Junwei Zheng; Weijia Fan; Jiaming Zhang; Rainer Stiefelhagen; Jan Boehm | [arXiv:2605.20551v1](https://arxiv.org/abs/2605.20551v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20551) |
+
+
+## [DEP-A-20260717-EventPrune Video Tokens](../DEP-A-20260717-EventPrune%20Video%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.19506-whitepaper-review.md`](../DEP-A-20260717-EventPrune%20Video%20Tokens/2605.19506-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning* | Pengtao Ma; Ziliang Zhou; Ciyu Ruan; Haoyang Wang; Kaiyuan Li; Zihang Gong; Wenhua Ding; Chen Gao; Jingao Xu; Xinlei Chen | [arXiv:2605.19506v1](https://arxiv.org/abs/2605.19506v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19506) |
