@@ -527,6 +527,32 @@
         "https://doi.org/10.48550/arXiv.2404.16456"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference",
+        ".lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference/noisy_poisson_inference_manuscript.md",
+        ".logs/20260716-Arxiv-Noisy-Poisson-Inference-LOG.md",
+        ".logs/20260716-Arxiv-Noisy-Poisson-Inference-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Noisy-Poisson-Inference-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2301.00139",
+      "arxiv_id": "2301.00139v1",
+      "commit_or_pr": null,
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2301.00139",
+      "normalized_title": "On High dimensional Poisson models with measurement error: hypothesis testing for nonlinear nonconvex optimization",
+      "notes": "Initial partial source repaired to verified complete using a provenance-labeled local full-text HTML rendering derived from the verified PDF after official HTML was unavailable and ar5iv returned metadata; cache miss became cached; source files withheld locally; primary commit and Slack notice pending.",
+      "slug": "Noisy-Poisson-Inference",
+      "source_urls": [
+        "https://arxiv.org/abs/2301.00139v1",
+        "https://arxiv.org/e-print/2301.00139",
+        "https://arxiv.org/pdf/2301.00139",
+        "https://doi.org/10.48550/arXiv.2301.00139",
+        "https://github.com/feigroup/high-dimenisional-inference-for-count-data-with-errors/tree/41ca0fb990022015812e0ff53ab01627ddb6d21e"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
