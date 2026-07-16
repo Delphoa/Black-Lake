@@ -1272,3 +1272,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation* | Zhuoren Ye; Tianyu Wo; Dinghao Xue; Mingming Zhang; Yuchen Teng; Chunming Hu; Renyu Yang | [arXiv:2606.24506v2](https://arxiv.org/abs/2606.24506v2) - [DOI](https://doi.org/10.48550/arXiv.2606.24506) |
+
+
+## [DEP-A-20260717-Fast TurboQuant](../DEP-A-20260717-Fast%20TurboQuant/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.21448-whitepaper-review.md`](../DEP-A-20260717-Fast%20TurboQuant/2606.21448-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach* | Pedro M. R. Pereira; Felipe A. P. de Figueiredo; Rausley A. A. de Souza | [arXiv:2606.21448v1](https://arxiv.org/abs/2606.21448v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21448) |
+
+
+## [DEP-A-20260717-UniSGR Generation Rank](../DEP-A-20260717-UniSGR%20Generation%20Rank/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04068-whitepaper-review.md`](../DEP-A-20260717-UniSGR%20Generation%20Rank/2607.04068-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniSGR: Unified Framework for Semantic ID Generation and Ranking* | Jiawei Sun; Jun Yang; Ziyue Guo; Dongyue Xu; Jianan Yan; Lifang Deng; Xiaoyi Zeng | [arXiv:2607.04068v1](https://arxiv.org/abs/2607.04068v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04068) |
+
+
+## [DEP-A-20260717-SOLAR Semantic Cache](../DEP-A-20260717-SOLAR%20Semantic%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00394-whitepaper-review.md`](../DEP-A-20260717-SOLAR%20Semantic%20Cache/2607.00394-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers* | Yushi Sun; Bowen Cao; Wai Lam | [arXiv:2607.00394v1](https://arxiv.org/abs/2607.00394v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00394) |
+
+
+## [DEP-A-20260717-ISPA Video Memory](../DEP-A-20260717-ISPA%20Video%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00712-whitepaper-review.md`](../DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption* | Xiaomeng Fu; Jia Li; Yiming Hu; Yong Wang; Hayden Kwok-Hay So; Jiao Dai; Xiangxiang Chu; Jizhong Han | [arXiv:2607.00712v1](https://arxiv.org/abs/2607.00712v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00712) |
+
+
+## [DEP-A-20260717-HMA Serve Disaggregation](../DEP-A-20260717-HMA%20Serve%20Disaggregation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.29986-whitepaper-review.md`](../DEP-A-20260717-HMA%20Serve%20Disaggregation/2606.29986-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators* | Zhixiang Wei; Yun Wang; James Yen; Mingyuan Xia; Zhengwei Qi | [arXiv:2606.29986v1](https://arxiv.org/abs/2606.29986v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29986) |
