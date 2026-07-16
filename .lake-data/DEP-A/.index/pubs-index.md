@@ -1398,3 +1398,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States* | Chen Liu; Ling Chen; Hanzhang Zhou; Xu Zhang; Quyu Kong; Panrong Tong; Wenhao Wang; Xin Yu; Steven Hoi; Yue Wang | [arXiv:2606.31612v2](https://arxiv.org/abs/2606.31612v2) - [DOI](https://doi.org/10.48550/arXiv.2606.31612) |
+
+
+## [DEP-A-20260717-Origin Bound Memory](../DEP-A-20260717-Origin%20Bound%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24322-whitepaper-review.md`](../DEP-A-20260717-Origin%20Bound%20Memory/2606.24322-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees* | Yedidel Louck | [arXiv:2606.24322v1](https://arxiv.org/abs/2606.24322v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24322) |
+
+
+## [DEP-A-20260717-Governed Fleet Memory](../DEP-A-20260717-Governed%20Fleet%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24535-whitepaper-review.md`](../DEP-A-20260717-Governed%20Fleet%20Memory/2606.24535-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Governed Shared Memory for Multi-Agent LLM Systems* | Yanki Margalit; Nurit Cohen-Inger; Erni Avram; Ran Taig; Oded Margalit | [arXiv:2606.24535v1](https://arxiv.org/abs/2606.24535v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24535) |
+
+
+## [DEP-A-20260717-MemProbe Recovery](../DEP-A-20260717-MemProbe%20Recovery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24595-whitepaper-review.md`](../DEP-A-20260717-MemProbe%20Recovery/2606.24595-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery* | Enze Ma; Yufan Zhou; Wei-Chieh Huang; Jie Yang; Huanhuan Ma; Zixuan Wang; Chengze Li; Chunyu Miao; Philip S. Yu; Zhen Wang | [arXiv:2606.24595v1](https://arxiv.org/abs/2606.24595v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24595) |
+
+
+## [DEP-A-20260717-Memory Contagion](../DEP-A-20260717-Memory%20Contagion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.23195-whitepaper-review.md`](../DEP-A-20260717-Memory%20Contagion/2606.23195-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory* | Zewen Liu | [arXiv:2606.23195v2](https://arxiv.org/abs/2606.23195v2) - [DOI](https://doi.org/10.48550/arXiv.2606.23195) |
+
+
+## [DEP-A-20260717-Nous Predictive Memory](../DEP-A-20260717-Nous%20Predictive%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.22030-whitepaper-review.md`](../DEP-A-20260717-Nous%20Predictive%20Memory/2606.22030-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nous: A Predictive World Model for Long-Term Agent Memory* | Pranav Singh | [arXiv:2606.22030v1](https://arxiv.org/abs/2606.22030v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22030) |
