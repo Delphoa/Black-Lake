@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **144 publications across 67 DEP-E entries** (140 arXiv records and 4 other research publications).
+- Current coverage: **145 publications across 68 DEP-E entries** (141 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-16; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260716-GPMD Regularized RL](../DEP-E-20260716-GPMD%20Regularized%20RL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence* | Wenhao Zhan; Shicong Cen; Baihe Huang; Yuxin Chen; Jason D. Lee; Yuejie Chi | [arXiv:2105.11066v4](https://arxiv.org/abs/2105.11066v4) · [DOI](https://doi.org/10.1137/21M1456789) |
 
 ## [DEP-E-20260716-DMNN Conditional Paths](../DEP-E-20260716-DMNN%20Conditional%20Paths/README.md)
 
