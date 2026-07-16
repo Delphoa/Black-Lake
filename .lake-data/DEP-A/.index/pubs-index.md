@@ -1803,3 +1803,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation* | Bao Long Nguyen Huu; Atsushi Hashimoto | [arXiv:2607.00052v1](https://arxiv.org/abs/2607.00052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00052) |
+
+
+## [DEP-A-20260717-Constrained LongEval](../DEP-A-20260717-Constrained%20LongEval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04008-whitepaper-review.md`](../DEP-A-20260717-Constrained%20LongEval/2607.04008-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Candidate-Constrained Retrieval-Augmented Generation for LongEval-RAG: System Design and Empirical Analysis* | Yingdong Yang; Haijian Wu | [arXiv:2607.04008v1](https://arxiv.org/abs/2607.04008v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04008) |
+
+
+## [DEP-A-20260717-GRASP Search Policy](../DEP-A-20260717-GRASP%20Search%20Policy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.10463-whitepaper-review.md`](../DEP-A-20260717-GRASP%20Search%20Policy/2607.10463-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GRASP: GRanularity-Aware Search Policy for Agentic RAG* | Varun Gandhi; Jaewook Lee; Shantanu Todmal; Franck Dernoncourt; Ryan Rossi; Zichao Wang; Andrew Lan | [arXiv:2607.10463v1](https://arxiv.org/abs/2607.10463v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10463) |
+
+
+## [DEP-A-20260717-Cost Governed RAG](../DEP-A-20260717-Cost%20Governed%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.12188-whitepaper-review.md`](../DEP-A-20260717-Cost%20Governed%20RAG/2607.12188-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems* | Navnit Shukla | [arXiv:2607.12188v1](https://arxiv.org/abs/2607.12188v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12188) |
+
+
+## [DEP-A-20260717-EvidentialRAG Conflict](../DEP-A-20260717-EvidentialRAG%20Conflict/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.10491-whitepaper-review.md`](../DEP-A-20260717-EvidentialRAG%20Conflict/2607.10491-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvidentialRAG: Quantifying and Mitigating Information Conflict in Multi-Source Retrieval-Augmented Generation via Evidential Deep Learning* | S M Asif Hossain; Ruksat Khan Shayoni; M. F. Mridha | [arXiv:2607.10491v1](https://arxiv.org/abs/2607.10491v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10491) |
+
+
+## [DEP-A-20260717-SVD RAG Trees](../DEP-A-20260717-SVD%20RAG%20Trees/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.10316-whitepaper-review.md`](../DEP-A-20260717-SVD%20RAG%20Trees/2607.10316-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SVD-RAG: Efficient Tree-Organized Retrieval-Augmented Generation via Singular Value Decomposition* | Zhihui Sun | [arXiv:2607.10316v1](https://arxiv.org/abs/2607.10316v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10316) |
