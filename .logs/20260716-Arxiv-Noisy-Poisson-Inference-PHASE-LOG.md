@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: prepared pointer awaiting primary artifact commit
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -27,7 +27,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | PAC Confidence, Acoustic Phase Retrieval, and Joint Sensing MEC |
 | Artifact generation | 20 min | about 12 min | Complete | Logs, report, DEP, index, and dedup pointer |
 | Validation and source gate | 10 min | about 3 min | Complete | Schema, exact counts, code syntax, JSON uniqueness, public safety, and seven-file allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission preferred |
+| Repository and Slack | 10 min | about 3 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -61,8 +61,8 @@ The official arXiv HTML endpoint did not provide a full paper. The approved ar5i
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2301.00139v1; slug `Noisy-Poisson-Inference`
-- Commit reference: pending primary artifact commit
-- Status: prepared
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/c64863af639d21e309c873b06a60ad006d48f6ce
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -76,4 +76,4 @@ Paper review required additional time to separate an asymptotic local-minimum th
 - Official full-paper HTML remained unavailable; the validated HTML is a local derivative of the PDF.
 - The linked code does not visibly match the reported neuroimaging experiment and lacks an environment, README, and license.
 - Overdispersion, covariance misspecification, dependent multiplicity, and external clinical validation remain open.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; submission and Slack fields await their immutable links.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; submission and Slack delivery completed.
