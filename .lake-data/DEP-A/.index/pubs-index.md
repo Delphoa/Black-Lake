@@ -1128,3 +1128,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction* | Runsong Zhao; Shilei Liu; Jiwei Tang; Langming Liu; Haibin Chen; Weidong Zhang; Yujin Yuan; Tong Xiao; Jingbo Zhu; Wenbo Su; Bo Zheng | [arXiv:2603.19733v1](https://arxiv.org/abs/2603.19733v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.19733) |
+
+
+## [DEP-A-20260716-TAMTRL Reward](../DEP-A-20260716-TAMTRL%20Reward/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.21663-whitepaper-review.md](../DEP-A-20260716-TAMTRL%20Reward/2603.21663-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TAMTRL: Teacher-Aligned Reward Reshaping for Multi-Turn Reinforcement Learning in Long-Context Compression* | Li Wang; Yandong Wang; Xin Yu; Kui Zhang; Tianhao Peng; Wenjun Wu | [arXiv:2603.21663v1](https://arxiv.org/abs/2603.21663v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.21663) |
+
+
+## [DEP-A-20260716-PackForcing Video](../DEP-A-20260716-PackForcing%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.25730-whitepaper-review.md](../DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference* | Xiaofeng Mao; Shaohao Rui; Kaining Ying; Bo Zheng; Chuanhao Li; Mingmin Chi; Kaipeng Zhang | [arXiv:2603.25730v1](https://arxiv.org/abs/2603.25730v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.25730) |
+
+
+## [DEP-A-20260716-K Token Merging](../DEP-A-20260716-K%20Token%20Merging/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.15153-whitepaper-review.md](../DEP-A-20260716-K%20Token%20Merging/2604.15153-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compressing Sequences in the Latent Embedding Space: $K$-Token Merging for Large Language Models* | Zihao Xu; John Harvill; Ziwei Fan; Yizhou Sun; Hao Ding; Hao Wang | [arXiv:2604.15153v2](https://arxiv.org/abs/2604.15153v2) Â· [DOI](https://doi.org/10.48550/arXiv.2604.15153) |
+
+
+## [DEP-A-20260716-Context Survival](../DEP-A-20260716-Context%20Survival/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.00725-whitepaper-review.md](../DEP-A-20260716-Context%20Survival/2607.00725-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG and When Submodular Evidence Packing Improves It* | Ananto Nayan Bala | [arXiv:2607.00725v1](https://arxiv.org/abs/2607.00725v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.00725) |
+
+
+## [DEP-A-20260716-CAPE Content Defense](../DEP-A-20260716-CAPE%20Content%20Defense/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.08180-whitepaper-review.md](../DEP-A-20260716-CAPE%20Content%20Defense/2607.08180-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Out of Sight: Compression-Aware Content Protection against Agentic Crawlers* | Xuefei Wang | [arXiv:2607.08180v1](https://arxiv.org/abs/2607.08180v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08180) |
