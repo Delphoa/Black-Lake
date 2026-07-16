@@ -1578,3 +1578,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers* | Philippe Weinzaepfel; Christian Wolf; Bülent Mert Sariyildiz; Guillaume Bono; Gianluca Monaci | [arXiv:2606.21562v1](https://arxiv.org/abs/2606.21562v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21562) |
+
+
+## [DEP-A-20260717-MemRefine Compression](../DEP-A-20260717-MemRefine%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.13177-whitepaper-review.md`](../DEP-A-20260717-MemRefine%20Compression/2606.13177-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemRefine: LLM-Guided Compression for Long-Term Agent Memory* | Minjae Kim; Jinheon Baek; Soyeong Jeong; Sung Ju Hwang | [arXiv:2606.13177v1](https://arxiv.org/abs/2606.13177v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13177) |
+
+
+## [DEP-A-20260717-Spatial Occlusion Memory](../DEP-A-20260717-Spatial%20Occlusion%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10299-whitepaper-review.md`](../DEP-A-20260717-Spatial%20Occlusion%20Memory/2606.10299-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory* | Doeon Kwon; Junho Bang | [arXiv:2606.10299v1](https://arxiv.org/abs/2606.10299v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10299) |
+
+
+## [DEP-A-20260717-QUOTA Joint Compression](../DEP-A-20260717-QUOTA%20Joint%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2604.17320-whitepaper-review.md`](../DEP-A-20260717-QUOTA%20Joint%20Compression/2604.17320-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Joint Quantization and Token Pruning of Vision-Language Models* | Xinqing Li; Xin He; Xindong Zhang; Ming-Ming Cheng; Lei Zhang; Yun Liu | [arXiv:2604.17320v1](https://arxiv.org/abs/2604.17320v1) - [DOI](https://doi.org/10.48550/arXiv.2604.17320) |
+
+
+## [DEP-A-20260717-QUBO Evidence Selection](../DEP-A-20260717-QUBO%20Evidence%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.12334-whitepaper-review.md`](../DEP-A-20260717-QUBO%20Evidence%20Selection/2607.12334-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QUBO-Optimized Evidence Selection for Retrieval-Augmented Question Answering with Unconventional Solvers* | Rahul Singh; Madhav Vadlamani | [arXiv:2607.12334v1](https://arxiv.org/abs/2607.12334v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12334) |
+
+
+## [DEP-A-20260717-ERA Visual Token Recycle](../DEP-A-20260717-ERA%20Visual%20Token%20Recycle/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.31982-whitepaper-review.md`](../DEP-A-20260717-ERA%20Visual%20Token%20Recycle/2606.31982-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs* | Yuhao Wang; Mu Qiao; Haiwen Diao; Yunzhi Zhuge; Pingping Zhang; Xindong Zhang; Lei Zhang; Huchuan Lu | [arXiv:2606.31982v1](https://arxiv.org/abs/2606.31982v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31982) |
