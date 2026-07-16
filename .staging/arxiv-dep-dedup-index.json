@@ -687,6 +687,32 @@
         "https://doi.org/10.48550/arXiv.1808.09128"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy",
+        ".lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md",
+        ".logs/20260716-Arxiv-XPRINT-Traffic-Privacy-LOG.md",
+        ".logs/20260716-Arxiv-XPRINT-Traffic-Privacy-PHASE-LOG.md",
+        ".reports/BL-Arxiv-XPRINT-Traffic-Privacy-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.00706",
+      "arxiv_id": "2509.00706v1",
+      "commit_or_pr": "pending",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2509.00706",
+      "normalized_title": "X-PRINT: Platform-Agnostic and Scalable Fine-Grained Encrypted Traffic Fingerprinting",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files, traffic data, models, and extracted text withheld locally; submission pending.",
+      "slug": "XPRINT-Traffic-Privacy",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.00706v1",
+        "https://arxiv.org/e-print/2509.00706",
+        "https://arxiv.org/html/2509.00706v1",
+        "https://arxiv.org/pdf/2509.00706",
+        "https://doi.org/10.48550/arXiv.2509.00706"
+      ],
+      "status": "pending"
     }
   ],
   "schema_version": "1.0",
