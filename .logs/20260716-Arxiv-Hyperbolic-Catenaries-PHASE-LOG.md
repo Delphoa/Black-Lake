@@ -69,7 +69,7 @@ Elapsed values are rounded public-safe durations. Expected durations guide traje
 - New pointer: arXiv:2211.15297v2; journal DOI `10.1017/prm.2024.56`; slug `Hyperbolic-Catenaries`
 - Artifact paths: job log, phase log, Report-Mark, DEP-E directory/manuscript, and publication index owner
 - Source URLs: arXiv abstract, PDF, HTML, e-print, arXiv DOI, and journal DOI
-- Commit reference: https://github.com/Delphoa/Black-Lake/commit/8f2019df187cb84678562a03bbb8899ea069781e
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/8f2019d8805d3ddc4dcd939ebb5dec954cb6dc99
 - Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
