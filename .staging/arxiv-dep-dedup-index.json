@@ -660,6 +660,33 @@
         "https://doi.org/10.48550/arXiv.2506.09748"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection",
+        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection/stereo_lane_detection_manuscript.md",
+        ".logs/20260716-Arxiv-Stereo-Lane-Detection-LOG.md",
+        ".logs/20260716-Arxiv-Stereo-Lane-Detection-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Stereo-Lane-Detection-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1808.09128",
+      "arxiv_id": "1808.09128v1",
+      "commit_or_pr": "pending",
+      "deposit_date": "20260716",
+      "doi": "10.1109/IST.2018.8577122",
+      "normalized_title": "Multiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files and extracted text withheld locally; submission pending.",
+      "slug": "Stereo-Lane-Detection",
+      "source_urls": [
+        "https://arxiv.org/abs/1808.09128v1",
+        "https://arxiv.org/e-print/1808.09128",
+        "https://arxiv.org/pdf/1808.09128",
+        "https://ar5iv.labs.arxiv.org/html/1808.09128",
+        "https://doi.org/10.1109/IST.2018.8577122",
+        "https://doi.org/10.48550/arXiv.1808.09128"
+      ],
+      "status": "pending"
     }
   ],
   "schema_version": "1.0",
