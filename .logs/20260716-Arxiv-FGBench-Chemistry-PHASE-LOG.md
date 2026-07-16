@@ -7,7 +7,7 @@
 - Selection: first draw, index 29,946 of 75,776 units; dedup clear
 - Source: `partial` repaired to verified `complete` with official HTML
 - Cache: miss to `cached`; sources and molecular data withheld
-- Dedup pointer: pending commit reference
+- Dedup pointer: deposited with primary commit reference
 
 ## Phase Metrics
 
@@ -22,7 +22,7 @@
 | Related synthesis | 10 min | about 4 min | Complete | Exactly three inspected entries |
 | Artifact generation | 20 min | about 14 min | Complete | Seven artifacts drafted |
 | Validation/source gate | 10 min | about 4 min | Complete | Schema, code, YAML, exact counts, public safety, seven-file allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Push and notice |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct push and Slack notice succeeded |
 
 ## Cache and Integrity Metrics
 
@@ -39,7 +39,7 @@
 
 - Matches, exclusions, reselections: 0 / 0 / 0
 - Pointer: arXiv:2508.01055v4; slug `FGBench-Chemistry`
-- Commit/status: pending / draft
+- Commit/status: https://github.com/Delphoa/Black-Lake/commit/d93ca6c28bb42a5910ce032f8709551b00ee0c30 / deposited
 
 ## Expected vs Observed Trajectory
 
@@ -51,4 +51,4 @@ The scientific boundary remained explicit: molecular-property benchmark results 
 
 - No reproduction, expert chemistry review, contamination audit, or independent split reconstruction.
 - Dataset dependence, rare-group imbalance, numeric-scale comparability, stereochemistry, 3D context, and model contamination remain open.
-- Public allowlist passed; submission/Slack steps pending.
+- Public allowlist, submission, and Slack delivery completed.

@@ -725,11 +725,11 @@
       ],
       "arxiv_base_id": "2508.01055",
       "arxiv_id": "2508.01055v4",
-      "commit_or_pr": "pending",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d93ca6c28bb42a5910ce032f8709551b00ee0c30",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2508.01055",
       "normalized_title": "FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models",
-      "notes": "Initial partial source repaired to verified complete with official arXiv v4 full-paper and metadata HTML; cache miss became cached; paper, code, molecular data, and extracted text withheld; submission pending.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv v4 full-paper and metadata HTML; cache miss became cached; paper, code, molecular data, and extracted text withheld; primary commit recorded and Slack notice delivered.",
       "slug": "FGBench-Chemistry",
       "source_urls": [
         "https://arxiv.org/abs/2508.01055v4",
@@ -740,7 +740,7 @@
         "https://github.com/xuanliugit/FGBench",
         "https://huggingface.co/datasets/xuan-liu/FGBench"
       ],
-      "status": "pending"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
