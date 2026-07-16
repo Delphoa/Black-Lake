@@ -741,6 +741,32 @@
         "https://huggingface.co/datasets/xuan-liu/FGBench"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths",
+        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md",
+        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-LOG.md",
+        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-PHASE-LOG.md",
+        ".reports/BL-Arxiv-DMNN-Conditional-Paths-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1902.10949",
+      "arxiv_id": "1902.10949v3",
+      "commit_or_pr": "pending",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.1902.10949",
+      "normalized_title": "Dynamic Multi-path Neural Network",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; source files and extracted text withheld locally; primary commit and Slack notice pending.",
+      "slug": "DMNN-Conditional-Paths",
+      "source_urls": [
+        "https://arxiv.org/abs/1902.10949v3",
+        "https://arxiv.org/e-print/1902.10949",
+        "https://arxiv.org/pdf/1902.10949",
+        "https://ar5iv.labs.arxiv.org/html/1902.10949",
+        "https://doi.org/10.48550/arXiv.1902.10949"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
