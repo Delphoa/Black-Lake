@@ -1227,3 +1227,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving* | Jie Li; Tongyang Wang; Yong Chen | [arXiv:2607.02574v1](https://arxiv.org/abs/2607.02574v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.02574) |
+
+
+## [DEP-A-20260717-TriRoute Joint Routing](../DEP-A-20260717-TriRoute%20Joint%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.06601-whitepaper-review.md`](../DEP-A-20260717-TriRoute%20Joint%20Routing/2607.06601-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation* | Andrii Balashov; Olena Ponomarova | [arXiv:2607.06601v1](https://arxiv.org/abs/2607.06601v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06601) |
+
+
+## [DEP-A-20260717-RaBitQCache Retrieval](../DEP-A-20260717-RaBitQCache%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.31519-whitepaper-review.md`](../DEP-A-20260717-RaBitQCache%20Retrieval/2606.31519-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference* | Wenhao Li; Jinhao Dong; Hailin Zhang; Wenhang Shi; Wei Lu; Xiaoyong Du | [arXiv:2606.31519v1](https://arxiv.org/abs/2606.31519v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31519) |
+
+
+## [DEP-A-20260717-Latent Cache Integrity](../DEP-A-20260717-Latent%20Cache%20Integrity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.28958-whitepaper-review.md`](../DEP-A-20260717-Latent%20Cache%20Integrity/2606.28958-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration* | Luís Brito; Carlos Baquero | [arXiv:2606.28958v1](https://arxiv.org/abs/2606.28958v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28958) |
+
+
+## [DEP-A-20260717-RoPE Bit Allocation](../DEP-A-20260717-RoPE%20Bit%20Allocation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24033-whitepaper-review.md`](../DEP-A-20260717-RoPE%20Bit%20Allocation/2606.24033-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoPE-Aware Bit Allocation for KV-Cache Quantization* | Fengfeng Liang; Yuechen Zhang; Jiaya Jia | [arXiv:2606.24033v1](https://arxiv.org/abs/2606.24033v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24033) |
+
+
+## [DEP-A-20260717-CrossPool Cold MoE](../DEP-A-20260717-CrossPool%20Cold%20MoE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24506-whitepaper-review.md`](../DEP-A-20260717-CrossPool%20Cold%20MoE/2606.24506-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation* | Zhuoren Ye; Tianyu Wo; Dinghao Xue; Mingming Zhang; Yuchen Teng; Chunming Hu; Renyu Yang | [arXiv:2606.24506v2](https://arxiv.org/abs/2606.24506v2) - [DOI](https://doi.org/10.48550/arXiv.2606.24506) |
