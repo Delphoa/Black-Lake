@@ -1533,3 +1533,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses* | Neeraj Karamchandani; Piyush Nagasubramaniam; Sencun Zhu; Dinghao Wu | [arXiv:2607.05029v1](https://arxiv.org/abs/2607.05029v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05029) |
+
+
+## [DEP-A-20260717-SelfMem Optimization](../DEP-A-20260717-SelfMem%20Optimization/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.03726-whitepaper-review.md`](../DEP-A-20260717-SelfMem%20Optimization/2607.03726-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SelfMem: Self-Optimizing Memory for AI Agents* | Shu Yang; Junchao Wu; Derek F. Wong; Di Wang | [arXiv:2607.03726v1](https://arxiv.org/abs/2607.03726v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03726) |
+
+
+## [DEP-A-20260717-Trajectory Forensics](../DEP-A-20260717-Trajectory%20Forensics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.30566-whitepaper-review.md`](../DEP-A-20260717-Trajectory%20Forensics/2606.30566-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Forensic Trajectory Signatures for Agent Memory Poisoning Detection* | Jun Wen Leong | [arXiv:2606.30566v1](https://arxiv.org/abs/2606.30566v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30566) |
+
+
+## [DEP-A-20260717-Concept Memory Robotics](../DEP-A-20260717-Concept%20Memory%20Robotics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.29774-whitepaper-review.md`](../DEP-A-20260717-Concept%20Memory%20Robotics/2606.29774-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analytic Concept-Centric Memory for Agentic Embodied Manipulation* | Mingyang Sun; Xiujian Liang; Jiude Wei; Qichen He; Donglin Wang; Cewu Lu; Jianhua Sun | [arXiv:2606.29774v1](https://arxiv.org/abs/2606.29774v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29774) |
+
+
+## [DEP-A-20260717-MemLeak Multimodal](../DEP-A-20260717-MemLeak%20Multimodal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.29788-whitepaper-review.md`](../DEP-A-20260717-MemLeak%20Multimodal/2606.29788-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory* | Kuan Wang; Chao Zhang | [arXiv:2606.29788v1](https://arxiv.org/abs/2606.29788v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29788) |
+
+
+## [DEP-A-20260717-Recurrent Memory Distill](../DEP-A-20260717-Recurrent%20Memory%20Distill/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.21562-whitepaper-review.md`](../DEP-A-20260717-Recurrent%20Memory%20Distill/2606.21562-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers* | Philippe Weinzaepfel; Christian Wolf; Bülent Mert Sariyildiz; Guillaume Bono; Gianluca Monaci | [arXiv:2606.21562v1](https://arxiv.org/abs/2606.21562v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21562) |
