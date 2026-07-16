@@ -1218,3 +1218,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization* | Jiantong Jiang; Peiyu Yang; Rui Zhang; Feng Liu | [arXiv:2607.08057v1](https://arxiv.org/abs/2607.08057v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08057) Â· [Published DOI](https://doi.org/10.18653/v1/2026.findings-acl.1916) |
+
+
+## [DEP-A-20260716-KV Memory Hierarchy](../DEP-A-20260716-KV%20Memory%20Hierarchy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.02574-whitepaper-review.md](../DEP-A-20260716-KV%20Memory%20Hierarchy/2607.02574-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving* | Jie Li; Tongyang Wang; Yong Chen | [arXiv:2607.02574v1](https://arxiv.org/abs/2607.02574v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.02574) |
