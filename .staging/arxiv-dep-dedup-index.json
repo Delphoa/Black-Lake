@@ -779,11 +779,11 @@
       ],
       "arxiv_base_id": "2105.11066",
       "arxiv_id": "2105.11066v4",
-      "commit_or_pr": "pending",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0bf2bd70e4854638cec0c338bb3f5d23858addd4",
       "deposit_date": "20260716",
       "doi": "10.1137/21M1456789",
       "normalized_title": "Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; SIAM publication metadata verified; source files and extracted text withheld locally; primary commit and Slack notice pending.",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; SIAM publication metadata verified; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "GPMD-Regularized-RL",
       "source_urls": [
         "https://arxiv.org/abs/2105.11066v4",
@@ -794,7 +794,7 @@
         "https://doi.org/10.1137/21M1456789",
         "https://doi.org/10.48550/arXiv.2105.11066"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

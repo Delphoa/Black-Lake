@@ -7,7 +7,7 @@
 - Selection: first draw, index 8,809 of 75,776 units; dedup clear
 - Source: `partial` repaired to verified `complete` with approved ar5iv HTML
 - Cache: miss to `cached`; sources and extracted text withheld
-- Dedup pointer: prepared; primary commit reference pending
+- Dedup pointer: deposited with primary commit reference
 
 ## Phase Metrics
 
@@ -22,7 +22,7 @@
 | Related synthesis | 10 min | about 5 min | Complete | Exactly three inspected entries across both repositories |
 | Artifact generation | 20 min | about 15 min | Complete | Seven allowlisted artifacts drafted |
 | Validation/source gate | 10 min | about 4 min | Complete | Schema, exact counts, public safety, and seven-file staged allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct push and notification not yet attempted |
+| Repository and Slack | 10 min | about 4 min | Complete | Non-overlapping remote DEP-A batch preserved by rebase; direct push and Slack notification succeeded |
 
 ## Cache and Integrity Metrics
 
@@ -39,7 +39,7 @@
 
 - Matches, exclusions, reselections: 0 / 0 / 0
 - Pointer: arXiv:2105.11066v4; slug `GPMD-Regularized-RL`
-- Commit/status: pending / prepared
+- Commit/status: https://github.com/Delphoa/Black-Lake/commit/0bf2bd70e4854638cec0c338bb3f5d23858addd4 / deposited
 
 ## Expected vs Observed Trajectory
 
@@ -51,4 +51,4 @@ The whole-job timebox did not truncate the source-first review. No source payloa
 
 - No proof checking, implementation, rollout experiment, real benchmark, or independent sample-complexity derivation.
 - Publisher record confirms publication, but no official code was identified.
-- Repository allowlist passed; submission and Slack delivery remain to be finalized.
+- Public allowlist, submission, and Slack delivery completed.
