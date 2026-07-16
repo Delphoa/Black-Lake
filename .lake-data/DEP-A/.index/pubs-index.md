@@ -1713,3 +1713,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning* | Pengtao Ma; Ziliang Zhou; Ciyu Ruan; Haoyang Wang; Kaiyuan Li; Zihang Gong; Wenhua Ding; Chen Gao; Jingao Xu; Xinlei Chen | [arXiv:2605.19506v1](https://arxiv.org/abs/2605.19506v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19506) |
+
+
+## [DEP-A-20260717-CoReDiT Diffusion](../DEP-A-20260717-CoReDiT%20Diffusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.14191-whitepaper-review.md`](../DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers* | Zhuojin Li; Hsin-Pai Cheng; Hong Cai; Shizhong Han; Fatih Porikli | [arXiv:2605.14191v1](https://arxiv.org/abs/2605.14191v1) - [DOI](https://doi.org/10.48550/arXiv.2605.14191) |
+
+
+## [DEP-A-20260717-OmniDrop Query Guidance](../DEP-A-20260717-OmniDrop%20Query%20Guidance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.14458-whitepaper-review.md`](../DEP-A-20260717-OmniDrop%20Query%20Guidance/2605.14458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance* | Yeo Jeong Park; Hyemi Jang; Minseo Choi; Jongsun Lee; Jooyoung Choi; Yongkweon Jeon | [arXiv:2605.14458v1](https://arxiv.org/abs/2605.14458v1) - [DOI](https://doi.org/10.48550/arXiv.2605.14458) |
+
+
+## [DEP-A-20260717-LiteLVLM Pixel Grounding](../DEP-A-20260717-LiteLVLM%20Pixel%20Grounding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.13178-whitepaper-review.md`](../DEP-A-20260717-LiteLVLM%20Pixel%20Grounding/2605.13178-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models* | Sangin Lee; Yukyung Choi | [arXiv:2605.13178v2](https://arxiv.org/abs/2605.13178v2) - [DOI](https://doi.org/10.48550/arXiv.2605.13178) |
+
+
+## [DEP-A-20260717-ContextGuard Omni Tokens](../DEP-A-20260717-ContextGuard%20Omni%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.11605-whitepaper-review.md`](../DEP-A-20260717-ContextGuard%20Omni%20Tokens/2605.11605-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs* | Chaeyoung Jung; Kyeongha Rho; Joon Son Chung | [arXiv:2605.11605v1](https://arxiv.org/abs/2605.11605v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11605) |
+
+
+## [DEP-A-20260717-ERASE Adaptive Pruning](../DEP-A-20260717-ERASE%20Adaptive%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.09982-whitepaper-review.md`](../DEP-A-20260717-ERASE%20Adaptive%20Pruning/2605.09982-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ERASE: Eliminating Redundant Visual Tokens via Adaptive Two-Stage Token Pruning* | Yuna Lee; Kyoungho Min; Yulhwa Kim | [arXiv:2605.09982v1](https://arxiv.org/abs/2605.09982v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09982) |
