@@ -565,11 +565,11 @@
       ],
       "arxiv_base_id": "2605.18238",
       "arxiv_id": "2605.18238v1",
-      "commit_or_pr": null,
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/50e88f2c5a4338e5aae1c9d55d71a728be55b813",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2605.18238",
       "normalized_title": "Non-Colliding Biometric Identities for Digital Entities: Geometry, Capacity, and Million-Scale Virtual Identity Provisioning",
-      "notes": "Initial partial source repaired to verified complete with official arXiv HTML and source package; cache miss became cached; source files, faces, embeddings, galleries, models, and code withheld locally; primary commit and Slack notice pending.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML and source package; cache miss became cached; source files, faces, embeddings, galleries, models, and code withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Biometric-Identity-Gaps",
       "source_urls": [
         "https://arxiv.org/abs/2605.18238v1",
@@ -579,7 +579,7 @@
         "https://doi.org/10.48550/arXiv.2605.18238",
         "https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

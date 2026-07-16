@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: prepared pointer awaiting primary artifact commit
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -27,7 +27,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | Document Fraud LLM, BA-LoRA Bias, and Mosaic Safety |
 | Artifact generation | 20 min | about 12 min | Complete | Logs, report, DEP, index, and dedup pointer |
 | Validation and source gate | 10 min | about 3 min | Complete | Schema, exact counts, code syntax, JSON uniqueness, public safety, and seven-file allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission preferred |
+| Repository and Slack | 10 min | about 3 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -59,8 +59,8 @@
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2605.18238v1; slug `Biometric-Identity-Gaps`
-- Commit reference: pending primary artifact commit
-- Status: prepared
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/50e88f2c5a4338e5aae1c9d55d71a728be55b813
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -74,4 +74,4 @@ Review took the expected full-paper interval because the abstract's million-scal
 - No official code/project/data release was linked by the paper or authors' lab metadata at inspection time.
 - No cross-encoder, demographic, site, device, attack, or longitudinal study was found.
 - The ethical analysis does not fully address identity fraud, anthropomorphic deception, enrollment abuse, consent, or resemblance outside the chosen gallery/encoder.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source or biometric artifacts; submission and Slack fields await immutable links.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source or biometric artifacts; submission and Slack delivery completed.
