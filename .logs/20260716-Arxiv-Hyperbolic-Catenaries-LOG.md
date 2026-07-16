@@ -77,6 +77,7 @@ The selected arXiv ID, journal DOI, arXiv DOI, normalized title, and slug were c
 
 ## Submission Record
 
-- Primary artifact commit: pending
-- Slack notification: pending
-- Submission status: pending staged allowlist, direct push, and notification
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/8f2019df187cb84678562a03bbb8899ea069781e
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784183767449989
+- Source-upload gate: passed with exactly seven public-safe Markdown/JSON files and zero source files
+- Submission status: direct default-branch push succeeded; Slack notice delivered

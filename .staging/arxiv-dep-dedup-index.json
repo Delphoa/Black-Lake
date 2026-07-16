@@ -432,11 +432,11 @@
       ],
       "arxiv_base_id": "2211.15297",
       "arxiv_id": "2211.15297v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/8f2019df187cb84678562a03bbb8899ea069781e",
       "deposit_date": "20260716",
       "doi": "10.1017/prm.2024.56",
       "normalized_title": "Catenaries and minimal surfaces of revolution in hyperbolic space",
-      "notes": "Initial partial source repaired to verified complete; cache miss became cached; source files withheld locally; commit reference pending first submission.",
+      "notes": "Initial partial source repaired to verified complete; cache miss became cached; source files withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Hyperbolic-Catenaries",
       "source_urls": [
         "https://arxiv.org/abs/2211.15297v2",

@@ -9,7 +9,7 @@
 - Source integrity: initial `partial`; repaired to verified `complete`
 - Source files: withheld locally; none uploaded or copied into the repository
 - Cache: initial miss; final `cached`
-- Dedup index: validated deposited pointer; commit reference pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -28,8 +28,8 @@ Elapsed values are rounded public-safe durations. Expected durations guide traje
 | Primary-paper and publisher-version review | 25 min | about 12 min | Complete | Full arXiv v2 PDF/HTML/TeX plus open publisher HTML, figures, theorem wording, DOI, and version differences inspected |
 | Related DEP exploration and exact-three synthesis | 10 min | about 4 min | Complete | Flag Hardy Operators, iKalibr Calibration, and CoreMem Geometry selected |
 | Artifact generation | 20 min | about 8 min | Complete | Job log, phase log, Report-Mark, README, manuscript, publication index, and dedup pointer |
-| Validation and source-upload gate | 10 min | about 4 min | Complete | Schema, exact-count, code-parse, JSON, and public-safety checks passed; staged allowlist will be rechecked before submission |
-| Repository submission and Slack notice | 10 min | pending | Pending | Direct default-branch push preferred; branch/PR fallback if denied |
+| Validation and source-upload gate | 10 min | about 4 min | Complete | Schema, exact-count, code-parse, JSON, public-safety, exact-seven allowlist, and zero-source checks passed |
+| Repository submission and Slack notice | 10 min | about 2 min | Complete | Direct default-branch push succeeded; Slack notice delivered; record-only follow-up prepared |
 
 ## Extraction Cache
 
@@ -69,8 +69,8 @@ Elapsed values are rounded public-safe durations. Expected durations guide traje
 - New pointer: arXiv:2211.15297v2; journal DOI `10.1017/prm.2024.56`; slug `Hyperbolic-Catenaries`
 - Artifact paths: job log, phase log, Report-Mark, DEP-E directory/manuscript, and publication index owner
 - Source URLs: arXiv abstract, PDF, HTML, e-print, arXiv DOI, and journal DOI
-- Commit reference: pending repository submission
-- Status: deposited pointer validated; commit reference pending
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/8f2019df187cb84678562a03bbb8899ea069781e
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -84,4 +84,4 @@ Review exceeded a simple preprint-only path because the peer-reviewed publisher 
 - The publisher's numerical examples lack an inspected code or initial-condition manifest and were not reproduced.
 - The hyperbolic and parabolic families lack an identified intrinsic characterization or obvious first integral.
 - Boundary-value existence, uniqueness, stability, embeddedness, and global-minimizer questions remain open in this review.
-- Repository attribution and Slack delivery remain pending at this stage.
+- Repository submission and Slack delivery completed; the record-only follow-up preserves their immutable links.
