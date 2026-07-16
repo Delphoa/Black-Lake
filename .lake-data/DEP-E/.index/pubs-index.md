@@ -390,6 +390,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems* | Yi Chen; Zheng Chang; Geyong Min; Shiwen Mao; Timo Hämäläinen | [arXiv:2210.17025v1](https://arxiv.org/abs/2210.17025v1) · [DOI](https://doi.org/10.1109/TWC.2023.3261338) |
 
+## [DEP-E-20260716-Medical Diff VQA](../DEP-E-20260716-Medical%20Diff%20VQA/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering* | Xinyue Hu; Lin Gu; Qiyuan An; Mengliang Zhang; Liangchen Liu; Kazuma Kobayashi; Tatsuya Harada; Ronald M. Summers; Yingying Zhu | [arXiv:2307.11986v2](https://arxiv.org/abs/2307.11986v2) · [DOI](https://doi.org/10.1145/3580305.3599819) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
