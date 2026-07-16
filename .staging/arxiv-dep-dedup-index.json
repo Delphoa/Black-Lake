@@ -834,11 +834,11 @@
       ],
       "arxiv_base_id": "1601.02301",
       "arxiv_id": "1601.02301v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0a939dfc7ad7c19d8ed0f1609c29a52648ab42c8",
       "deposit_date": "20260716",
       "doi": "10.1016/j.jcp.2016.02.018",
       "normalized_title": "An implicit midpoint difference scheme for the fractional Ginzburg-Landau equation",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; arXiv DOI 10.48550/arXiv.1601.02301 and journal DOI checked; source files and extracted text withheld locally; submission pending.",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; arXiv DOI 10.48550/arXiv.1601.02301 and journal DOI checked; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "FGLE-Midpoint-Scheme",
       "source_urls": [
         "https://arxiv.org/abs/1601.02301v1",
@@ -848,7 +848,7 @@
         "https://doi.org/10.48550/arXiv.1601.02301",
         "https://doi.org/10.1016/j.jcp.2016.02.018"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

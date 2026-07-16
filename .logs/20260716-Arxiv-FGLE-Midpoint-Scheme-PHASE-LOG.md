@@ -7,7 +7,7 @@
 - Selection: first draw, index 47,945 of 75,776 units; dedup clear
 - Source: `partial` repaired to verified `complete` with approved ar5iv HTML
 - Cache: miss to `cached`; sources and extracted text withheld
-- Dedup pointer: prepared; primary commit reference pending
+- Dedup pointer: deposited with primary commit reference
 
 ## Phase Metrics
 
@@ -22,7 +22,7 @@
 | Related synthesis | 10 min | about 5 min | Complete | Exactly three inspected Black Lake entries |
 | Artifact generation | 20 min | about 17 min | Complete | Seven allowlisted artifacts drafted |
 | Validation/source gate | 10 min | about 4 min | Complete | Schema, exact counts, public safety, and seven-file staged allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct push and Slack notification |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct push and Slack notification succeeded |
 
 ## Cache and Integrity Metrics
 
@@ -40,7 +40,7 @@
 
 - Matches, exclusions, reselections: 0 / 0 / 0
 - Pointer: arXiv:1601.02301v1; slug `FGLE-Midpoint-Scheme`
-- Commit/status: pending / prepared
+- Commit/status: https://github.com/Delphoa/Black-Lake/commit/0a939dfc7ad7c19d8ed0f1609c29a52648ab42c8 / deposited
 
 ## Expected vs Observed Trajectory
 
@@ -52,4 +52,4 @@ The remaining review capacity was used to inspect the exact and self-referenced 
 
 - No proof checking, code execution, independent solver, manufactured fractional test, domain sweep, or runtime/memory benchmark.
 - Inner-iteration convergence and the operational uniqueness regime remain unverified.
-- Public allowlist validation completed; submission and Slack delivery remain to be completed.
+- Public allowlist, submission, and Slack delivery completed.
