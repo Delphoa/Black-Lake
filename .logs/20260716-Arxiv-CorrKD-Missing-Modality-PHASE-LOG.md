@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: new pointer prepared; primary commit pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -26,8 +26,8 @@
 | Primary paper and venue review | 25 min | about 15 min | Complete | Full PDF/HTML/TeX, CVPR record, tables, figures, and code availability inspected |
 | Related DEP synthesis | 10 min | about 4 min | Complete | AV Emotion Fusion, VLM Probing, and KDFlow LLM Distill |
 | Artifact generation | 20 min | about 12 min | Complete | Logs, report, DEP, index, and dedup pointer |
-| Validation and source gate | 10 min | pending | In progress | Schema, counts, code syntax, JSON, safety, and staged allowlist follow |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch push preferred; Slack follows primary commit |
+| Validation and source gate | 10 min | about 3 min | Complete | Schema, exact counts, code syntax, JSON uniqueness, public safety, and seven-file allowlist passed |
+| Repository and Slack | 10 min | about 3 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -58,8 +58,8 @@
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2404.16456v2; slug `CorrKD-Missing-Modality`
-- Commit reference: pending
-- Status: pointer prepared
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/a829f8c9ed2b2c89d046b7b57794ec164555216a
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -72,4 +72,4 @@ Review required care around relative versus absolute F1 language, the distinctio
 - No independent reproduction or seed-level uncertainty analysis.
 - No natural missingness, cross-dataset, fairness, consent, or calibration evaluation.
 - No official implementation or raw-result bundle identified.
-- Submission and Slack remain to be completed in this run.
+- Submission and Slack delivery completed; the record-only follow-up preserves immutable links.

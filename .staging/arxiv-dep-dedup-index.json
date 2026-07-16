@@ -512,11 +512,11 @@
       ],
       "arxiv_base_id": "2404.16456",
       "arxiv_id": "2404.16456v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/a829f8c9ed2b2c89d046b7b57794ec164555216a",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2404.16456",
       "normalized_title": "Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities",
-      "notes": "Initial partial source repaired to verified complete with official arXiv HTML; cache miss became cached; source files withheld locally.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML; cache miss became cached; source files withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "CorrKD-Missing-Modality",
       "source_urls": [
         "https://arxiv.org/abs/2404.16456v2",
