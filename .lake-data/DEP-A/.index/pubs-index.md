@@ -1362,3 +1362,39 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching* | Yifei Liu; Juntong Wu; Yang Liu; Junhao Hu; Minghao Li; Xiaoxu Chen; Weihang Chen | [arXiv:2607.01299v2](https://arxiv.org/abs/2607.01299v2) - [DOI](https://doi.org/10.48550/arXiv.2607.01299) |
+
+
+## [DEP-A-20260717-Convergent Cache Merge](../DEP-A-20260717-Convergent%20Cache%20Merge/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.01308-whitepaper-review.md`](../DEP-A-20260717-Convergent%20Cache%20Merge/2607.01308-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cache Merging as a Convergent Replicated State for Multi-Agent Latent Reasoning* | Carlos Baquero; Luís Brito | [arXiv:2607.01308v1](https://arxiv.org/abs/2607.01308v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01308) |
+
+
+## [DEP-A-20260717-Learned Relevance Evict](../DEP-A-20260717-Learned%20Relevance%20Evict/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.20954-whitepaper-review.md`](../DEP-A-20260717-Learned%20Relevance%20Evict/2606.20954-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning* | Nusrat Jahan Lia; Aritra Mazumder | [arXiv:2606.20954v1](https://arxiv.org/abs/2606.20954v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20954) |
+
+
+## [DEP-A-20260717-StreamMemBench](../DEP-A-20260717-StreamMemBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.14571-whitepaper-review.md`](../DEP-A-20260717-StreamMemBench/2606.14571-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance* | Guanming Liu; Yuqi Ren; Hansu Gu; Peng Zhang; Weihang Wang; Jiahao Liu; Ning Gu; Tun Lu | [arXiv:2606.14571v1](https://arxiv.org/abs/2606.14571v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14571) |
+
+
+## [DEP-A-20260717-ATMem Task State](../DEP-A-20260717-ATMem%20Task%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.31612-whitepaper-review.md`](../DEP-A-20260717-ATMem%20Task%20State/2606.31612-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States* | Chen Liu; Ling Chen; Hanzhang Zhou; Xu Zhang; Quyu Kong; Panrong Tong; Wenhao Wang; Xin Yu; Steven Hoi; Yue Wang | [arXiv:2606.31612v2](https://arxiv.org/abs/2606.31612v2) - [DOI](https://doi.org/10.48550/arXiv.2606.31612) |
