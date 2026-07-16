@@ -459,11 +459,11 @@
       ],
       "arxiv_base_id": "2509.18658",
       "arxiv_id": "2509.18658v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/72f56304bb93f4906fe75e5fa59ddc73ec34c09e",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2509.18658",
       "normalized_title": "Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction",
-      "notes": "Initial partial source repaired to verified complete; cache miss became cached; official code inventoried; source files withheld locally; commit reference pending.",
+      "notes": "Initial partial source repaired to verified complete; cache miss became cached; official code inventoried; source files withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "LLM-Judge-Conformal",
       "source_urls": [
         "https://arxiv.org/abs/2509.18658v1",

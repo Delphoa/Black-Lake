@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: validated deposited pointer; commit reference pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -29,7 +29,7 @@ Elapsed values are rounded public-safe durations; estimates guide trajectory rev
 | Related DEP synthesis | 10 min | about 5 min | Complete | RLMF Uncertainty, PAC Confidence, and ConMax Reasoning |
 | Artifact generation | 20 min | about 12 min | Complete | Logs, Report-Mark, DEP README/manuscript, publication index, and dedup pointer |
 | Validation and source gate | 10 min | about 3 min | Complete | Schema, exact counts, code syntax, JSON, public safety, and worktree checks passed; staged allowlist follows |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch push preferred |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct default-branch push succeeded; Slack notice delivered; record-only follow-up prepared |
 
 ## Extraction Cache
 
@@ -66,8 +66,8 @@ Elapsed values are rounded public-safe durations; estimates guide trajectory rev
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2509.18658v1; slug `LLM-Judge-Conformal`
-- Commit reference: pending repository submission
-- Status: deposited pointer validated; commit reference pending
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/72f56304bb93f4906fe75e5fa59ddc73ec34c09e
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -80,4 +80,4 @@ The source review required extra attention because coverage and efficiency chang
 - No independent experiment rerun or formal proof check was performed.
 - No production distribution-shift study was inspected.
 - Repository notebooks and scripts were inventoried but not executed.
-- Repository attribution and Slack delivery are pending.
+- Repository submission and Slack delivery completed; the record-only follow-up preserves their immutable links.
