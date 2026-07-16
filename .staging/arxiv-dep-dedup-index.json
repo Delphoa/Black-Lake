@@ -473,6 +473,33 @@
         "https://github.com/BruceSheng1202/Analyzing_Uncertainty_of_LLM-as-a-Judge"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC",
+        ".lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md",
+        ".logs/20260716-Arxiv-Multi-Point-ISAC-LOG.md",
+        ".logs/20260716-Arxiv-Multi-Point-ISAC-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Multi-Point-ISAC-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2208.07592",
+      "arxiv_id": "2208.07592v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.1109/LWC.2022.3213883",
+      "normalized_title": "Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv fallback; cache miss became cached; source files withheld locally.",
+      "slug": "Multi-Point-ISAC",
+      "source_urls": [
+        "https://arxiv.org/abs/2208.07592v2",
+        "https://arxiv.org/e-print/2208.07592",
+        "https://ar5iv.labs.arxiv.org/html/2208.07592",
+        "https://arxiv.org/pdf/2208.07592",
+        "https://doi.org/10.1109/LWC.2022.3213883",
+        "https://doi.org/10.48550/arXiv.2208.07592"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
