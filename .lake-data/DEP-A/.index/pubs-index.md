@@ -1848,3 +1848,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SVD-RAG: Efficient Tree-Organized Retrieval-Augmented Generation via Singular Value Decomposition* | Zhihui Sun | [arXiv:2607.10316v1](https://arxiv.org/abs/2607.10316v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10316) |
+
+
+## [DEP-A-20260717-Deceptive Grounding](../DEP-A-20260717-Deceptive%20Grounding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.09349-whitepaper-review.md`](../DEP-A-20260717-Deceptive%20Grounding/2607.09349-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation* | Cedric Caruzzo; Donggeun Yoo; Tae Soo Kim | [arXiv:2607.09349v1](https://arxiv.org/abs/2607.09349v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09349) |
+
+
+## [DEP-A-20260717-PlanRAG Query Trees](../DEP-A-20260717-PlanRAG%20Query%20Trees/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00508-whitepaper-review.md`](../DEP-A-20260717-PlanRAG%20Query%20Trees/2607.00508-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems* | Ganlin Xu; Linghao Zhang; Zhitao Yin; Hongda Xi; Chen Yang; Jiaqing Liang; Weijia Lu; Sihang Jiang; Yanghua Xiao; Deqing Yang | [arXiv:2607.00508v2](https://arxiv.org/abs/2607.00508v2) - [DOI](https://doi.org/10.48550/arXiv.2607.00508) |
+
+
+## [DEP-A-20260717-DynaKRAG Control](../DEP-A-20260717-DynaKRAG%20Control/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.06507-whitepaper-review.md`](../DEP-A-20260717-DynaKRAG%20Control/2607.06507-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation* | Yaqi Wu; Xiaolei Guo; Chenyu Zhou; Jiaqi Huang; Xianfa Zhang; Junxu Zhang; Zhuo Yu; Zhubo Shi; Jianghao Lin; Dongdong Ge | [arXiv:2607.06507v1](https://arxiv.org/abs/2607.06507v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06507) |
+
+
+## [DEP-A-20260717-API RAG Constraints](../DEP-A-20260717-API%20RAG%20Constraints/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.05936-whitepaper-review.md`](../DEP-A-20260717-API%20RAG%20Constraints/2607.05936-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding* | Daniel Maninger; Leon Chemnitz; Jannis Brugger; Tushar Lamba; Amir Molzam Sharifloo; Mira Mezini | [arXiv:2607.05936v1](https://arxiv.org/abs/2607.05936v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05936) |
+
+
+## [DEP-A-20260717-Pragmatic Ambiguity](../DEP-A-20260717-Pragmatic%20Ambiguity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04436-whitepaper-review.md`](../DEP-A-20260717-Pragmatic%20Ambiguity/2607.04436-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements* | Pavithra PM Nair; Preethu Rose Anish | [arXiv:2607.04436v1](https://arxiv.org/abs/2607.04436v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04436) |
