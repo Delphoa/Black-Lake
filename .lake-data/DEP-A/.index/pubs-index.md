@@ -1758,3 +1758,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ERASE: Eliminating Redundant Visual Tokens via Adaptive Two-Stage Token Pruning* | Yuna Lee; Kyoungho Min; Yulhwa Kim | [arXiv:2605.09982v1](https://arxiv.org/abs/2605.09982v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09982) |
+
+
+## [DEP-A-20260717-COAST Visual Routing](../DEP-A-20260717-COAST%20Visual%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.09429-whitepaper-review.md`](../DEP-A-20260717-COAST%20Visual%20Routing/2605.09429-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evading Visual Aphasia: Contrastive Adaptive Semantic Token Pruning for Vision-Language Models* | Jie Ma; Yihang Liu; Zhike Qiu; Jiayi Ji; Xiaoshuai Sun | [arXiv:2605.09429v1](https://arxiv.org/abs/2605.09429v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09429) |
+
+
+## [DEP-A-20260717-PaceVGGT Frame Pruning](../DEP-A-20260717-PaceVGGT%20Frame%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.08371-whitepaper-review.md`](../DEP-A-20260717-PaceVGGT%20Frame%20Pruning/2605.08371-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers* | Haotang Li; Zhenyu Qi; Shaohan Henry Wang; Kebin Peng; Zi Wang; Qing Guo; Sen He; Huanrui Yang | [arXiv:2605.08371v1](https://arxiv.org/abs/2605.08371v1) - [DOI](https://doi.org/10.48550/arXiv.2605.08371) |
+
+
+## [DEP-A-20260717-Trust Before Fusion](../DEP-A-20260717-Trust%20Before%20Fusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.10798-whitepaper-review.md`](../DEP-A-20260717-Trust%20Before%20Fusion/2607.10798-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG* | Saadeldine Eletter; Owais Aijaz; Preslav Nakov | [arXiv:2607.10798v1](https://arxiv.org/abs/2607.10798v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10798) |
+
+
+## [DEP-A-20260717-FreshCache Risk](../DEP-A-20260717-FreshCache%20Risk/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04281-whitepaper-review.md`](../DEP-A-20260717-FreshCache%20Risk/2607.04281-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs* | Muhammad Mansoor; Tahir Ahmad; Yeo-Chan Yoon | [arXiv:2607.04281v1](https://arxiv.org/abs/2607.04281v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04281) |
+
+
+## [DEP-A-20260717-AGE Graph Embedding](../DEP-A-20260717-AGE%20Graph%20Embedding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00052-whitepaper-review.md`](../DEP-A-20260717-AGE%20Graph%20Embedding/2607.00052-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation* | Bao Long Nguyen Huu; Atsushi Hashimoto | [arXiv:2607.00052v1](https://arxiv.org/abs/2607.00052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00052) |
