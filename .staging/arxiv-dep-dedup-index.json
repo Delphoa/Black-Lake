@@ -713,6 +713,34 @@
         "https://doi.org/10.48550/arXiv.2509.00706"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry",
+        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md",
+        ".logs/20260716-Arxiv-FGBench-Chemistry-LOG.md",
+        ".logs/20260716-Arxiv-FGBench-Chemistry-PHASE-LOG.md",
+        ".reports/BL-Arxiv-FGBench-Chemistry-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.01055",
+      "arxiv_id": "2508.01055v4",
+      "commit_or_pr": "pending",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2508.01055",
+      "normalized_title": "FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models",
+      "notes": "Initial partial source repaired to verified complete with official arXiv v4 full-paper and metadata HTML; cache miss became cached; paper, code, molecular data, and extracted text withheld; submission pending.",
+      "slug": "FGBench-Chemistry",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.01055v4",
+        "https://arxiv.org/e-print/2508.01055",
+        "https://arxiv.org/html/2508.01055v4",
+        "https://arxiv.org/pdf/2508.01055",
+        "https://doi.org/10.48550/arXiv.2508.01055",
+        "https://github.com/xuanliugit/FGBench",
+        "https://huggingface.co/datasets/xuan-liu/FGBench"
+      ],
+      "status": "pending"
     }
   ],
   "schema_version": "1.0",
