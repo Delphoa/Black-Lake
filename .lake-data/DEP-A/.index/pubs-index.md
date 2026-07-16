@@ -1488,3 +1488,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory* | Suozhao Ji; Baodong Wu; Zehao Wang; Lei Xia; Qingping Li; Ruisong Wang; Wenbo Ding; Zhenhua Zhu; Boxun Li; Guohao Dai; Yu Wang | [arXiv:2606.10677v1](https://arxiv.org/abs/2606.10677v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10677) |
+
+
+## [DEP-A-20260717-REAL Temporal Graph](../DEP-A-20260717-REAL%20Temporal%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10694-whitepaper-review.md`](../DEP-A-20260717-REAL%20Temporal%20Graph/2606.10694-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs* | Keer Lu; Liwei Chen; Guoqing Jiang; Zhiheng Qin; Yunhuai Liu; Wentao Zhang | [arXiv:2606.10694v1](https://arxiv.org/abs/2606.10694v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10694) |
+
+
+## [DEP-A-20260717-Agent Memory Systems](../DEP-A-20260717-Agent%20Memory%20Systems/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.06448-whitepaper-review.md`](../DEP-A-20260717-Agent%20Memory%20Systems/2606.06448-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads* | Yasmine Omri; Ziyu Gan; Zachary Broveak; Robin Geens; Zexue He; Alex Pentland; Marian Verhelst; Tsachy Weissman; Thierry Tambe | [arXiv:2606.06448v1](https://arxiv.org/abs/2606.06448v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06448) |
+
+
+## [DEP-A-20260717-AdMem Task Memory](../DEP-A-20260717-AdMem%20Task%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.06787-whitepaper-review.md`](../DEP-A-20260717-AdMem%20Task%20Memory/2606.06787-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdMem: Advanced Memory for Task-solving Agents* | Runzhe Wang; Huilin Lu; Shengjie Liu; Li Dong; Jason Zhu | [arXiv:2606.06787v1](https://arxiv.org/abs/2606.06787v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06787) |
+
+
+## [DEP-A-20260717-Engram Bi Temporal](../DEP-A-20260717-Engram%20Bi%20Temporal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.09900-whitepaper-review.md`](../DEP-A-20260717-Engram%20Bi%20Temporal/2606.09900-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Less Context, More Accuracy: A Bi-Temporal Memory Engine for LLM Agents Where a Lean Retrieved Context Beats the Full History* | Liuyin Wang | [arXiv:2606.09900v1](https://arxiv.org/abs/2606.09900v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09900) |
+
+
+## [DEP-A-20260717-FARMA Reasoning Poison](../DEP-A-20260717-FARMA%20Reasoning%20Poison/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.05029-whitepaper-review.md`](../DEP-A-20260717-FARMA%20Reasoning%20Poison/2607.05029-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses* | Neeraj Karamchandani; Piyush Nagasubramaniam; Sencun Zhu; Dinghao Wu | [arXiv:2607.05029v1](https://arxiv.org/abs/2607.05029v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05029) |
