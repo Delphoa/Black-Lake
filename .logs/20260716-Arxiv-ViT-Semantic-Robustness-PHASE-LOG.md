@@ -9,7 +9,7 @@
 - Source: `partial` repaired to verified `complete` with approved ar5iv fallback
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: prepared; commit attribution pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -26,7 +26,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | Medical Diff VQA, Document Fraud LLM, AFIDAF Vision Filters |
 | Artifact generation | 20 min | about 14 min | Complete | Seven public artifacts drafted |
 | Validation and source gate | 10 min | about 4 min | Complete | Structural, syntax, count, public-safety, and seven-file allowlist gates passed |
-| Repository and Slack | 10 min | pending | Pending | Direct push and channel notice |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -55,8 +55,8 @@
 - Substantive matches: 0
 - Exclusions / reselections: 0 / 0
 - New pointer: arXiv:2507.01788v2; slug `ViT-Semantic-Robustness`
-- Commit reference: pending
-- Status: prepared
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/43e3cc45702635c4511732a70727cc6610c4be66
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -69,4 +69,4 @@ Review remained source-first despite the time overrun. The paper is short, but i
 - No independent optimization, classifier evaluation, code execution, or image inspection by clinicians.
 - No official PRM code artifact or pinned experiment manifest.
 - Generality and imperceptibility claims need broader models, modalities, institutions, readers, and threat models.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source or medical-image files; repository/Slack status remains pending.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source or medical-image files; submission and Slack delivery completed.

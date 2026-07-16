@@ -619,11 +619,11 @@
       ],
       "arxiv_base_id": "2507.01788",
       "arxiv_id": "2507.01788v2",
-      "commit_or_pr": null,
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/43e3cc45702635c4511732a70727cc6610c4be66",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2507.01788",
       "normalized_title": "Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging",
-      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files, medical images, and extracted text withheld locally; primary commit and Slack notice pending.",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files, medical images, and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "ViT-Semantic-Robustness",
       "source_urls": [
         "https://arxiv.org/abs/2507.01788v2",
@@ -633,7 +633,7 @@
         "https://doi.org/10.48550/arXiv.2507.01788",
         "https://github.com/greentreeys/MIL-VT"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
