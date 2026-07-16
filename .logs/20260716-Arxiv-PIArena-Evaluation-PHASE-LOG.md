@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: prepared; primary commit attribution pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -27,7 +27,7 @@
 | Related DEP synthesis | 10 min | about 5 min | Complete | Agent Systems Review, Agent Memory Forensics, and Judge Conformal |
 | Artifact generation | 20 min | about 15 min | Complete | Logs, report, DEP, publication index, and dedup pointer |
 | Validation and source gate | 10 min | about 4 min | Complete | Schema, exact counts, code syntax, JSON uniqueness, public safety, and seven-file allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission and channel notice |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -60,8 +60,8 @@
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2604.08499v1; slug `PIArena-Evaluation`
-- Commit reference: pending
-- Status: prepared
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/b6486bba48a68b26cc8c58707fb395c6da1807bc
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -75,4 +75,4 @@ Review remained within the full-paper timebox. The central difficulty was not so
 - No comprehensive evaluator calibration across the 1,700 benchmark samples.
 - No held-out adaptive-strategy or multilingual robustness study was identified.
 - Task-aligned disinformation motivates content verification, but the paper does not implement or evaluate that system-level control.
-- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; repository submission and Slack delivery remain pending.
+- Public allowlist passed with exactly seven Markdown/JSON artifacts and no source files; submission and Slack delivery completed.

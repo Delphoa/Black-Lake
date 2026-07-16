@@ -592,11 +592,11 @@
       ],
       "arxiv_base_id": "2604.08499",
       "arxiv_id": "2604.08499v1",
-      "commit_or_pr": null,
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/b6486bba48a68b26cc8c58707fb395c6da1807bc",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2604.08499",
       "normalized_title": "PIArena: A Platform for Prompt Injection Evaluation",
-      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; primary commit and Slack notice pending.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "PIArena-Evaluation",
       "source_urls": [
         "https://arxiv.org/abs/2604.08499v1",
@@ -606,7 +606,7 @@
         "https://doi.org/10.48550/arXiv.2604.08499",
         "https://github.com/sleeepeer/PIArena"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
