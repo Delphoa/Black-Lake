@@ -699,11 +699,11 @@
       ],
       "arxiv_base_id": "2509.00706",
       "arxiv_id": "2509.00706v1",
-      "commit_or_pr": "pending",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/3398d61d0be4e8cdb95a73bf17b7c90112c13485",
       "deposit_date": "20260716",
       "doi": "10.48550/arXiv.2509.00706",
       "normalized_title": "X-PRINT: Platform-Agnostic and Scalable Fine-Grained Encrypted Traffic Fingerprinting",
-      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files, traffic data, models, and extracted text withheld locally; submission pending.",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files, traffic data, models, and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "XPRINT-Traffic-Privacy",
       "source_urls": [
         "https://arxiv.org/abs/2509.00706v1",
@@ -712,7 +712,7 @@
         "https://arxiv.org/pdf/2509.00706",
         "https://doi.org/10.48550/arXiv.2509.00706"
       ],
-      "status": "pending"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

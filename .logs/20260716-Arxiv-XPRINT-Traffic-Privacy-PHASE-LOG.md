@@ -9,7 +9,7 @@
 - Source: `partial` repaired to verified `complete` with official arXiv HTML
 - Cache: miss to `cached`
 - Source and traffic files: withheld locally; none uploaded
-- Dedup index: pending deposited pointer and primary commit reference
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -25,7 +25,7 @@
 | Related DEP synthesis | 10 min | about 6 min | Complete | Telecom AI Roadmap, Agent Memory Forensics, Control Surfaces |
 | Artifact generation | 20 min | about 16 min | Complete | Seven public artifacts drafted |
 | Validation and source gate | 10 min | about 5 min | Complete | Schema, code, YAML, exact counts, defensive scope, public safety, and seven-file allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch submission and channel notice |
+| Repository and Slack | 10 min | about 4 min | Complete | Non-overlapping remote archival commit integrated; direct push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -53,8 +53,8 @@
 - Substantive matches: 0
 - Exclusions / reselections: 0 / 0
 - New pointer: arXiv:2509.00706v1; slug `XPRINT-Traffic-Privacy`
-- Commit reference: pending
-- Status: draft pointer pending submission validation
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/3398d61d0be4e8cdb95a73bf17b7c90112c13485
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -67,4 +67,4 @@ The security/privacy scope was constrained to defensive leakage measurement and 
 - No reproduction, dataset/code inspection, packet-level audit, or countermeasure benchmark.
 - Open-world scope, threshold tuning, split independence, network diversity, and human-study governance need stronger evidence.
 - No-source/no-traffic allowlist passed with exactly seven public-safe Markdown/JSON artifacts.
-- Repository and Slack steps remain pending.
+- Repository submission and Slack delivery completed; an unrelated remote archival-intake commit was integrated before the successful push.
