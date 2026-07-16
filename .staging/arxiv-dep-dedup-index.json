@@ -553,6 +553,33 @@
         "https://github.com/feigroup/high-dimenisional-inference-for-count-data-with-errors/tree/41ca0fb990022015812e0ff53ab01627ddb6d21e"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps",
+        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps/biometric_identity_gaps_manuscript.md",
+        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-LOG.md",
+        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Biometric-Identity-Gaps-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.18238",
+      "arxiv_id": "2605.18238v1",
+      "commit_or_pr": null,
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2605.18238",
+      "normalized_title": "Non-Colliding Biometric Identities for Digital Entities: Geometry, Capacity, and Million-Scale Virtual Identity Provisioning",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML and source package; cache miss became cached; source files, faces, embeddings, galleries, models, and code withheld locally; primary commit and Slack notice pending.",
+      "slug": "Biometric-Identity-Gaps",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.18238v1",
+        "https://arxiv.org/e-print/2605.18238",
+        "https://arxiv.org/html/2605.18238",
+        "https://arxiv.org/pdf/2605.18238",
+        "https://doi.org/10.48550/arXiv.2605.18238",
+        "https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
