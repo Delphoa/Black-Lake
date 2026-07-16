@@ -1443,3 +1443,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Nous: A Predictive World Model for Long-Term Agent Memory* | Pranav Singh | [arXiv:2606.22030v1](https://arxiv.org/abs/2606.22030v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22030) |
+
+
+## [DEP-A-20260717-AtomMem Atomic Facts](../DEP-A-20260717-AtomMem%20Atomic%20Facts/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.19847-whitepaper-review.md`](../DEP-A-20260717-AtomMem%20Atomic%20Facts/2606.19847-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts* | Yanyu Yao; Shangze Li; Zhi Zheng; Hui Zheng; Qi Liu; Tong Xu; Enhong Chen | [arXiv:2606.19847v1](https://arxiv.org/abs/2606.19847v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19847) |
+
+
+## [DEP-A-20260717-MemSlides Hierarchy](../DEP-A-20260717-MemSlides%20Hierarchy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.17162-whitepaper-review.md`](../DEP-A-20260717-MemSlides%20Hierarchy/2606.17162-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision* | Ye Jin; Yangyang Xu; Jun Zhu; Yibo Yang | [arXiv:2606.17162v1](https://arxiv.org/abs/2606.17162v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17162) |
+
+
+## [DEP-A-20260717-ForgetEval Control](../DEP-A-20260717-ForgetEval%20Control/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.15903-whitepaper-review.md`](../DEP-A-20260717-ForgetEval%20Control/2606.15903-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Control-Plane Placement Shapes Forgetting: An Architectural Study of Agent Memory Across Thirteen System Configurations* | Dongxu Yang | [arXiv:2606.15903v2](https://arxiv.org/abs/2606.15903v2) - [DOI](https://doi.org/10.48550/arXiv.2606.15903) |
+
+
+## [DEP-A-20260717-GitOfThoughts Replay](../DEP-A-20260717-GitOfThoughts%20Replay/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.14470-whitepaper-review.md`](../DEP-A-20260717-GitOfThoughts%20Replay/2606.14470-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge* | Pavan C Shekar; Abhishek H S; Aswanth Krishnan | [arXiv:2606.14470v2](https://arxiv.org/abs/2606.14470v2) - [DOI](https://doi.org/10.48550/arXiv.2606.14470) |
+
+
+## [DEP-A-20260717-Infini Topic Memory](../DEP-A-20260717-Infini%20Topic%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10677-whitepaper-review.md`](../DEP-A-20260717-Infini%20Topic%20Memory/2606.10677-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory* | Suozhao Ji; Baodong Wu; Zehao Wang; Lei Xia; Qingping Li; Ruisong Wang; Wenbo Ding; Zhenhua Zhu; Boxun Li; Guohao Dai; Yu Wang | [arXiv:2606.10677v1](https://arxiv.org/abs/2606.10677v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10677) |
