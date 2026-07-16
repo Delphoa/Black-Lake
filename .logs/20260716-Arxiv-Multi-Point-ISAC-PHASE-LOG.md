@@ -9,7 +9,7 @@
 - Source integrity: `partial` repaired to verified `complete`
 - Cache: miss to `cached`
 - Source files: withheld locally; none uploaded
-- Dedup index: new pointer prepared; primary commit reference pending
+- Dedup index: validated deposited pointer records the primary artifact commit
 
 ## Phase Metrics
 
@@ -28,8 +28,8 @@ Elapsed values are rounded public-safe durations; estimates guide trajectory rev
 | Primary paper review | 25 min | about 13 min | Complete | Full PDF/HTML/TeX, equations, appendix proof, figures, and references inspected |
 | Related DEP synthesis | 10 min | about 4 min | Complete | Joint Sensing MEC, 2D-RC OTFS, and Telecom AI Roadmap |
 | Artifact generation | 20 min | about 12 min | Complete | Logs, Report-Mark, DEP README/manuscript, publication index, and dedup pointer |
-| Validation and source gate | 10 min | pending | In progress | Schema, exact-count, code-syntax, JSON, public-safety, and staged allowlist checks follow |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch push preferred; Slack follows immutable primary commit |
+| Validation and source gate | 10 min | about 3 min | Complete | Schema, exact counts, code syntax, JSON uniqueness, public safety, and seven-file staged allowlist passed |
+| Repository and Slack | 10 min | about 4 min | Complete | Concurrent index entry preserved by rebase; direct default-branch push and Slack notice succeeded |
 
 ## Extraction Cache
 
@@ -66,8 +66,8 @@ Elapsed values are rounded public-safe durations; estimates guide trajectory rev
 - Exclusions: 0
 - Reselections: 0
 - New pointer: arXiv:2208.07592v2; slug `Multi-Point-ISAC`
-- Commit reference: pending primary commit
-- Status: pointer prepared for deposited artifacts
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/d7b708a76a0872c0014fec4f828bbde0263cc6a0
+- Status: deposited pointer validated with primary commit attribution
 
 ## Expected vs Observed Trajectory
 
@@ -80,4 +80,4 @@ Extraction was substantially faster than estimated because the repaired bundle w
 - No independent simulation or optimization rerun was performed.
 - No official code repository was identified.
 - Robustness to correlated observations, channel uncertainty, mobility, and device churn remains unmeasured.
-- Submission, staged source gate, and Slack delivery remain to be completed in this run.
+- Repository submission and Slack delivery completed; the record-only follow-up preserves their immutable links.

@@ -485,11 +485,11 @@
       ],
       "arxiv_base_id": "2208.07592",
       "arxiv_id": "2208.07592v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d7b708a76a0872c0014fec4f828bbde0263cc6a0",
       "deposit_date": "20260716",
       "doi": "10.1109/LWC.2022.3213883",
       "normalized_title": "Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv fallback; cache miss became cached; source files withheld locally.",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv fallback; cache miss became cached; source files withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Multi-Point-ISAC",
       "source_urls": [
         "https://arxiv.org/abs/2208.07592v2",
