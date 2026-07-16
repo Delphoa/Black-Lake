@@ -1317,3 +1317,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators* | Zhixiang Wei; Yun Wang; James Yen; Mingyuan Xia; Zhengwei Qi | [arXiv:2606.29986v1](https://arxiv.org/abs/2606.29986v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29986) |
+
+
+## [DEP-A-20260717-PRCR Visual Revisiting](../DEP-A-20260717-PRCR%20Visual%20Revisiting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.26631-whitepaper-review.md`](../DEP-A-20260717-PRCR%20Visual%20Revisiting/2606.26631-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Position Rebinding Cache Reuse: Replay-Free Visual Revisiting for Interleaved Multimodal Reasoning* | Mengzhao Wang; Yanli Ji; Wangmeng Zuo; Peng Ye; Chongjun Tu | [arXiv:2606.26631v1](https://arxiv.org/abs/2606.26631v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26631) |
+
+
+## [DEP-A-20260717-MOCAP Wafer Pipeline](../DEP-A-20260717-MOCAP%20Wafer%20Pipeline/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.22968-whitepaper-review.md`](../DEP-A-20260717-MOCAP%20Wafer%20Pipeline/2606.22968-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MOCAP: Wafer-Scale-Chip-Oriented Memory-Orchestrated Chunked Pipelining Framework for Prefill-Only LLM Inference* | Zichuan Wang; Huizheng Wang; Yuheng Xiao; Haonan Zuo; Taiquan Wei; Jinyi Deng; Chao Li; Yang Hu; Shouyi Yin | [arXiv:2606.22968v1](https://arxiv.org/abs/2606.22968v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22968) |
+
+
+## [DEP-A-20260717-HyperQuant Pipeline](../DEP-A-20260717-HyperQuant%20Pipeline/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.23406-whitepaper-review.md`](../DEP-A-20260717-HyperQuant%20Pipeline/2606.23406-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyperQuant: A Rate-Distortion-Optimal Quantization Pipeline for Large Language and Diffusion Models* | Yuval Domb; Hadar Sackstein; Tomer Solberg | [arXiv:2606.23406v1](https://arxiv.org/abs/2606.23406v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23406) |
+
+
+## [DEP-A-20260717-RotateK Channel Pruning](../DEP-A-20260717-RotateK%20Channel%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.19218-whitepaper-review.md`](../DEP-A-20260717-RotateK%20Channel%20Pruning/2605.19218-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rotation-Aligned Key Channel Pruning for Efficient Vision-Language Model Inference* | Beomseok Kang; Dongwon Jo; Jiwon Song; Donghwee Son; Jae-Joon Kim | [arXiv:2605.19218v1](https://arxiv.org/abs/2605.19218v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19218) |
+
+
+## [DEP-A-20260717-HYPIC Position Cache](../DEP-A-20260717-HYPIC%20Position%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.01299-whitepaper-review.md`](../DEP-A-20260717-HYPIC%20Position%20Cache/2607.01299-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching* | Yifei Liu; Juntong Wu; Yang Liu; Junhao Hu; Minghao Li; Xiaoxu Chen; Weihang Chen | [arXiv:2607.01299v2](https://arxiv.org/abs/2607.01299v2) - [DOI](https://doi.org/10.48550/arXiv.2607.01299) |
