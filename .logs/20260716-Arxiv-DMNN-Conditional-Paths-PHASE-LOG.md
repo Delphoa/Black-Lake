@@ -7,7 +7,7 @@
 - Selection: first draw, index 61,074 of 75,776 units; dedup clear
 - Source: `partial` repaired to verified `complete` with approved ar5iv HTML
 - Cache: miss to `cached`; sources and extracted text withheld
-- Dedup pointer: prepared; primary commit reference pending
+- Dedup pointer: deposited with primary commit reference
 
 ## Phase Metrics
 
@@ -22,7 +22,7 @@
 | Related synthesis | 10 min | about 4 min | Complete | Exactly three inspected Black Lake entries |
 | Artifact generation | 20 min | about 14 min | Complete | Seven allowlisted artifacts drafted |
 | Validation/source gate | 10 min | about 4 min | Complete | Schema, exact counts, public safety, and seven-file staged allowlist passed |
-| Repository and Slack | 10 min | pending | Pending | Direct push and notification not yet attempted |
+| Repository and Slack | 10 min | about 2 min | Complete | Direct push and Slack notification succeeded |
 
 ## Cache and Integrity Metrics
 
@@ -39,7 +39,7 @@
 
 - Matches, exclusions, reselections: 0 / 0 / 0
 - Pointer: arXiv:1902.10949v3; slug `DMNN-Conditional-Paths`
-- Commit/status: pending / prepared
+- Commit/status: https://github.com/Delphoa/Black-Lake/commit/83242113499e2386f1b52acda4811ee240392ac2 / deposited
 
 ## Expected vs Observed Trajectory
 
@@ -51,4 +51,4 @@ The whole-job timebox did not truncate the source-first review. No source payloa
 
 - No reproduction, device profiling, repeated seeds, routing traces, or independent hierarchy-transfer study.
 - FLOP reductions remain unverified as latency, memory, energy, or cost savings.
-- Repository allowlist passed; submission and Slack delivery remain to be finalized.
+- Public allowlist, submission, and Slack delivery completed.
