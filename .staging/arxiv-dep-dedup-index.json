@@ -822,6 +822,33 @@
         "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fe6a2ba2594521d15af3b1f2162d79c-Abstract-Conference.html"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme",
+        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md",
+        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-LOG.md",
+        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-PHASE-LOG.md",
+        ".reports/BL-Arxiv-FGLE-Midpoint-Scheme-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1601.02301",
+      "arxiv_id": "1601.02301v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.1016/j.jcp.2016.02.018",
+      "normalized_title": "An implicit midpoint difference scheme for the fractional Ginzburg-Landau equation",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; arXiv DOI 10.48550/arXiv.1601.02301 and journal DOI checked; source files and extracted text withheld locally; submission pending.",
+      "slug": "FGLE-Midpoint-Scheme",
+      "source_urls": [
+        "https://arxiv.org/abs/1601.02301v1",
+        "https://arxiv.org/e-print/1601.02301",
+        "https://arxiv.org/pdf/1601.02301",
+        "https://ar5iv.labs.arxiv.org/html/1601.02301",
+        "https://doi.org/10.48550/arXiv.1601.02301",
+        "https://doi.org/10.1016/j.jcp.2016.02.018"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
