@@ -634,6 +634,32 @@
         "https://github.com/greentreeys/MIL-VT"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization",
+        ".lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md",
+        ".logs/20260716-Arxiv-UAV-Visual-Localization-LOG.md",
+        ".logs/20260716-Arxiv-UAV-Visual-Localization-PHASE-LOG.md",
+        ".reports/BL-Arxiv-UAV-Visual-Localization-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.09748",
+      "arxiv_id": "2506.09748v1",
+      "commit_or_pr": "pending",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2506.09748",
+      "normalized_title": "Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper and metadata HTML; cache miss became cached; source files and extracted text withheld locally; submission pending.",
+      "slug": "UAV-Visual-Localization",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.09748v1",
+        "https://arxiv.org/e-print/2506.09748",
+        "https://arxiv.org/html/2506.09748v1",
+        "https://arxiv.org/pdf/2506.09748",
+        "https://doi.org/10.48550/arXiv.2506.09748"
+      ],
+      "status": "pending"
     }
   ],
   "schema_version": "1.0",
