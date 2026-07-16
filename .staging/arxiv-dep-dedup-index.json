@@ -607,6 +607,33 @@
         "https://github.com/sleeepeer/PIArena"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness",
+        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md",
+        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-LOG.md",
+        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-PHASE-LOG.md",
+        ".reports/BL-Arxiv-ViT-Semantic-Robustness-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.01788",
+      "arxiv_id": "2507.01788v2",
+      "commit_or_pr": null,
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2507.01788",
+      "normalized_title": "Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files, medical images, and extracted text withheld locally; primary commit and Slack notice pending.",
+      "slug": "ViT-Semantic-Robustness",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.01788v2",
+        "https://arxiv.org/e-print/2507.01788",
+        "https://arxiv.org/pdf/2507.01788",
+        "https://ar5iv.labs.arxiv.org/html/2507.01788",
+        "https://doi.org/10.48550/arXiv.2507.01788",
+        "https://github.com/greentreeys/MIL-VT"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
