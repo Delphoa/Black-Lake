@@ -447,6 +447,32 @@
         "https://doi.org/10.48550/arXiv.2211.15297"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Judge Conformal",
+        ".lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md",
+        ".logs/20260716-Arxiv-LLM-Judge-Conformal-LOG.md",
+        ".logs/20260716-Arxiv-LLM-Judge-Conformal-PHASE-LOG.md",
+        ".reports/BL-Arxiv-LLM-Judge-Conformal-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.18658",
+      "arxiv_id": "2509.18658v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2509.18658",
+      "normalized_title": "Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction",
+      "notes": "Initial partial source repaired to verified complete; cache miss became cached; official code inventoried; source files withheld locally; commit reference pending.",
+      "slug": "LLM-Judge-Conformal",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.18658v1",
+        "https://arxiv.org/e-print/2509.18658",
+        "https://arxiv.org/html/2509.18658",
+        "https://arxiv.org/pdf/2509.18658",
+        "https://github.com/BruceSheng1202/Analyzing_Uncertainty_of_LLM-as-a-Judge"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
