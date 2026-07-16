@@ -424,6 +424,196 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise",
+        ".lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md",
+        ".logs/20260716-Arxiv-Adversarial-Label-Noise-LOG.md",
+        ".logs/20260716-Arxiv-Adversarial-Label-Noise-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Adversarial-Label-Noise-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2110.03135",
+      "arxiv_id": "2110.03135v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/56968e2e87731e89bcc326424941604d5a524fa1",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2110.03135",
+      "normalized_title": "Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting",
+      "notes": "Version 1 used the title Double Descent in Adversarial Training: An Implicit Label Noise Perspective. Initial partial source repaired to verified complete with official arXiv full-paper HTML; cache miss became cached with one nonfatal PDF image decode warning; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "Adversarial-Label-Noise",
+      "source_urls": [
+        "https://arxiv.org/abs/2110.03135v4",
+        "https://arxiv.org/e-print/2110.03135",
+        "https://arxiv.org/html/2110.03135",
+        "https://arxiv.org/pdf/2110.03135",
+        "https://doi.org/10.48550/arXiv.2110.03135",
+        "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fe6a2ba2594521d15af3b1f2162d79c-Abstract-Conference.html"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps",
+        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps/biometric_identity_gaps_manuscript.md",
+        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-LOG.md",
+        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Biometric-Identity-Gaps-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.18238",
+      "arxiv_id": "2605.18238v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/50e88f2c5a4338e5aae1c9d55d71a728be55b813",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2605.18238",
+      "normalized_title": "Non-Colliding Biometric Identities for Digital Entities: Geometry, Capacity, and Million-Scale Virtual Identity Provisioning",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML and source package; cache miss became cached; source files, faces, embeddings, galleries, models, and code withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "Biometric-Identity-Gaps",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.18238v1",
+        "https://arxiv.org/e-print/2605.18238",
+        "https://arxiv.org/html/2605.18238",
+        "https://arxiv.org/pdf/2605.18238",
+        "https://doi.org/10.48550/arXiv.2605.18238",
+        "https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal",
+        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md",
+        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-LOG.md",
+        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-PHASE-LOG.md",
+        ".reports/BL-Arxiv-CorrKD-Missing-Modality-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.16456",
+      "arxiv_id": "2404.16456v2",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/a829f8c9ed2b2c89d046b7b57794ec164555216a",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2404.16456",
+      "normalized_title": "Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities",
+      "notes": "Initial partial source repaired to verified complete with official arXiv HTML; cache miss became cached; source files withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "CorrKD-Missing-Modality",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.16456v2",
+        "https://arxiv.org/e-print/2404.16456",
+        "https://arxiv.org/html/2404.16456",
+        "https://arxiv.org/pdf/2404.16456",
+        "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Correlation-Decoupled_Knowledge_Distillation_for_Multimodal_Sentiment_Analysis_with_Incomplete_Modalities_CVPR_2024_paper.html",
+        "https://doi.org/10.48550/arXiv.2404.16456"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths",
+        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md",
+        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-LOG.md",
+        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-PHASE-LOG.md",
+        ".reports/BL-Arxiv-DMNN-Conditional-Paths-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1902.10949",
+      "arxiv_id": "1902.10949v3",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/83242113499e2386f1b52acda4811ee240392ac2",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.1902.10949",
+      "normalized_title": "Dynamic Multi-path Neural Network",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "DMNN-Conditional-Paths",
+      "source_urls": [
+        "https://arxiv.org/abs/1902.10949v3",
+        "https://arxiv.org/e-print/1902.10949",
+        "https://arxiv.org/pdf/1902.10949",
+        "https://ar5iv.labs.arxiv.org/html/1902.10949",
+        "https://doi.org/10.48550/arXiv.1902.10949"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry",
+        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md",
+        ".logs/20260716-Arxiv-FGBench-Chemistry-LOG.md",
+        ".logs/20260716-Arxiv-FGBench-Chemistry-PHASE-LOG.md",
+        ".reports/BL-Arxiv-FGBench-Chemistry-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.01055",
+      "arxiv_id": "2508.01055v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d93ca6c28bb42a5910ce032f8709551b00ee0c30",
+      "deposit_date": "20260716",
+      "doi": "10.48550/arXiv.2508.01055",
+      "normalized_title": "FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models",
+      "notes": "Initial partial source repaired to verified complete with official arXiv v4 full-paper and metadata HTML; cache miss became cached; paper, code, molecular data, and extracted text withheld; primary commit recorded and Slack notice delivered.",
+      "slug": "FGBench-Chemistry",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.01055v4",
+        "https://arxiv.org/e-print/2508.01055",
+        "https://arxiv.org/html/2508.01055v4",
+        "https://arxiv.org/pdf/2508.01055",
+        "https://doi.org/10.48550/arXiv.2508.01055",
+        "https://github.com/xuanliugit/FGBench",
+        "https://huggingface.co/datasets/xuan-liu/FGBench"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme",
+        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md",
+        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-LOG.md",
+        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-PHASE-LOG.md",
+        ".reports/BL-Arxiv-FGLE-Midpoint-Scheme-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1601.02301",
+      "arxiv_id": "1601.02301v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0a939dfc7ad7c19d8ed0f1609c29a52648ab42c8",
+      "deposit_date": "20260716",
+      "doi": "10.1016/j.jcp.2016.02.018",
+      "normalized_title": "An implicit midpoint difference scheme for the fractional Ginzburg-Landau equation",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; arXiv DOI 10.48550/arXiv.1601.02301 and journal DOI checked; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "FGLE-Midpoint-Scheme",
+      "source_urls": [
+        "https://arxiv.org/abs/1601.02301v1",
+        "https://arxiv.org/e-print/1601.02301",
+        "https://arxiv.org/pdf/1601.02301",
+        "https://ar5iv.labs.arxiv.org/html/1601.02301",
+        "https://doi.org/10.48550/arXiv.1601.02301",
+        "https://doi.org/10.1016/j.jcp.2016.02.018"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL",
+        ".lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md",
+        ".logs/20260716-Arxiv-GPMD-Regularized-RL-LOG.md",
+        ".logs/20260716-Arxiv-GPMD-Regularized-RL-PHASE-LOG.md",
+        ".reports/BL-Arxiv-GPMD-Regularized-RL-20260716/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2105.11066",
+      "arxiv_id": "2105.11066v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0bf2bd70e4854638cec0c338bb3f5d23858addd4",
+      "deposit_date": "20260716",
+      "doi": "10.1137/21M1456789",
+      "normalized_title": "Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence",
+      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; SIAM publication metadata verified; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "GPMD-Regularized-RL",
+      "source_urls": [
+        "https://arxiv.org/abs/2105.11066v4",
+        "https://arxiv.org/e-print/2105.11066",
+        "https://arxiv.org/pdf/2105.11066",
+        "https://ar5iv.labs.arxiv.org/html/2105.11066",
+        "https://epubs.siam.org/doi/10.1137/21M1456789",
+        "https://doi.org/10.1137/21M1456789",
+        "https://doi.org/10.48550/arXiv.2105.11066"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries",
         ".lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md",
         ".logs/20260716-Arxiv-Hyperbolic-Catenaries-LOG.md",
@@ -504,33 +694,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal",
-        ".lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md",
-        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-LOG.md",
-        ".logs/20260716-Arxiv-CorrKD-Missing-Modality-PHASE-LOG.md",
-        ".reports/BL-Arxiv-CorrKD-Missing-Modality-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2404.16456",
-      "arxiv_id": "2404.16456v2",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/a829f8c9ed2b2c89d046b7b57794ec164555216a",
-      "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.2404.16456",
-      "normalized_title": "Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities",
-      "notes": "Initial partial source repaired to verified complete with official arXiv HTML; cache miss became cached; source files withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "CorrKD-Missing-Modality",
-      "source_urls": [
-        "https://arxiv.org/abs/2404.16456v2",
-        "https://arxiv.org/e-print/2404.16456",
-        "https://arxiv.org/html/2404.16456",
-        "https://arxiv.org/pdf/2404.16456",
-        "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Correlation-Decoupled_Knowledge_Distillation_for_Multimodal_Sentiment_Analysis_with_Incomplete_Modalities_CVPR_2024_paper.html",
-        "https://doi.org/10.48550/arXiv.2404.16456"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference",
         ".lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference/noisy_poisson_inference_manuscript.md",
         ".logs/20260716-Arxiv-Noisy-Poisson-Inference-LOG.md",
@@ -551,33 +714,6 @@
         "https://arxiv.org/pdf/2301.00139",
         "https://doi.org/10.48550/arXiv.2301.00139",
         "https://github.com/feigroup/high-dimenisional-inference-for-count-data-with-errors/tree/41ca0fb990022015812e0ff53ab01627ddb6d21e"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps",
-        ".lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps/biometric_identity_gaps_manuscript.md",
-        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-LOG.md",
-        ".logs/20260716-Arxiv-Biometric-Identity-Gaps-PHASE-LOG.md",
-        ".reports/BL-Arxiv-Biometric-Identity-Gaps-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2605.18238",
-      "arxiv_id": "2605.18238v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/50e88f2c5a4338e5aae1c9d55d71a728be55b813",
-      "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.2605.18238",
-      "normalized_title": "Non-Colliding Biometric Identities for Digital Entities: Geometry, Capacity, and Million-Scale Virtual Identity Provisioning",
-      "notes": "Initial partial source repaired to verified complete with official arXiv HTML and source package; cache miss became cached; source files, faces, embeddings, galleries, models, and code withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "Biometric-Identity-Gaps",
-      "source_urls": [
-        "https://arxiv.org/abs/2605.18238v1",
-        "https://arxiv.org/e-print/2605.18238",
-        "https://arxiv.org/html/2605.18238",
-        "https://arxiv.org/pdf/2605.18238",
-        "https://doi.org/10.48550/arXiv.2605.18238",
-        "https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json"
       ],
       "status": "deposited"
     },
@@ -611,27 +747,27 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness",
-        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md",
-        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-LOG.md",
-        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-PHASE-LOG.md",
-        ".reports/BL-Arxiv-ViT-Semantic-Robustness-20260716/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection",
+        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection/stereo_lane_detection_manuscript.md",
+        ".logs/20260716-Arxiv-Stereo-Lane-Detection-LOG.md",
+        ".logs/20260716-Arxiv-Stereo-Lane-Detection-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Stereo-Lane-Detection-20260716/Report-Mark.md"
       ],
-      "arxiv_base_id": "2507.01788",
-      "arxiv_id": "2507.01788v2",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/43e3cc45702635c4511732a70727cc6610c4be66",
+      "arxiv_base_id": "1808.09128",
+      "arxiv_id": "1808.09128v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c3270f583b0a43f962067afdcb7c76a19c8d8d7c",
       "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.2507.01788",
-      "normalized_title": "Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging",
-      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files, medical images, and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "ViT-Semantic-Robustness",
+      "doi": "10.1109/IST.2018.8577122",
+      "normalized_title": "Multiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "Stereo-Lane-Detection",
       "source_urls": [
-        "https://arxiv.org/abs/2507.01788v2",
-        "https://arxiv.org/e-print/2507.01788",
-        "https://arxiv.org/pdf/2507.01788",
-        "https://ar5iv.labs.arxiv.org/html/2507.01788",
-        "https://doi.org/10.48550/arXiv.2507.01788",
-        "https://github.com/greentreeys/MIL-VT"
+        "https://arxiv.org/abs/1808.09128v1",
+        "https://arxiv.org/e-print/1808.09128",
+        "https://arxiv.org/pdf/1808.09128",
+        "https://ar5iv.labs.arxiv.org/html/1808.09128",
+        "https://doi.org/10.1109/IST.2018.8577122",
+        "https://doi.org/10.48550/arXiv.1808.09128"
       ],
       "status": "deposited"
     },
@@ -664,27 +800,27 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection",
-        ".lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection/stereo_lane_detection_manuscript.md",
-        ".logs/20260716-Arxiv-Stereo-Lane-Detection-LOG.md",
-        ".logs/20260716-Arxiv-Stereo-Lane-Detection-PHASE-LOG.md",
-        ".reports/BL-Arxiv-Stereo-Lane-Detection-20260716/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness",
+        ".lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md",
+        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-LOG.md",
+        ".logs/20260716-Arxiv-ViT-Semantic-Robustness-PHASE-LOG.md",
+        ".reports/BL-Arxiv-ViT-Semantic-Robustness-20260716/Report-Mark.md"
       ],
-      "arxiv_base_id": "1808.09128",
-      "arxiv_id": "1808.09128v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c3270f583b0a43f962067afdcb7c76a19c8d8d7c",
+      "arxiv_base_id": "2507.01788",
+      "arxiv_id": "2507.01788v2",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/43e3cc45702635c4511732a70727cc6610c4be66",
       "deposit_date": "20260716",
-      "doi": "10.1109/IST.2018.8577122",
-      "normalized_title": "Multiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation",
-      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "Stereo-Lane-Detection",
+      "doi": "10.48550/arXiv.2507.01788",
+      "normalized_title": "Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging",
+      "notes": "Initial partial source repaired to verified complete with an approved ar5iv full-paper fallback after official arXiv HTML returned 404; cache miss became cached; source files, medical images, and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
+      "slug": "ViT-Semantic-Robustness",
       "source_urls": [
-        "https://arxiv.org/abs/1808.09128v1",
-        "https://arxiv.org/e-print/1808.09128",
-        "https://arxiv.org/pdf/1808.09128",
-        "https://ar5iv.labs.arxiv.org/html/1808.09128",
-        "https://doi.org/10.1109/IST.2018.8577122",
-        "https://doi.org/10.48550/arXiv.1808.09128"
+        "https://arxiv.org/abs/2507.01788v2",
+        "https://arxiv.org/e-print/2507.01788",
+        "https://arxiv.org/pdf/2507.01788",
+        "https://ar5iv.labs.arxiv.org/html/2507.01788",
+        "https://doi.org/10.48550/arXiv.2507.01788",
+        "https://github.com/greentreeys/MIL-VT"
       ],
       "status": "deposited"
     },
@@ -717,140 +853,30 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry",
-        ".lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md",
-        ".logs/20260716-Arxiv-FGBench-Chemistry-LOG.md",
-        ".logs/20260716-Arxiv-FGBench-Chemistry-PHASE-LOG.md",
-        ".reports/BL-Arxiv-FGBench-Chemistry-20260716/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark",
+        ".lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md",
+        ".logs/20260717-Arxiv-OMGEval-LOG.md",
+        ".reports/BL-Arxiv-OMGEval-20260717/Report-Mark.md"
       ],
-      "arxiv_base_id": "2508.01055",
-      "arxiv_id": "2508.01055v4",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d93ca6c28bb42a5910ce032f8709551b00ee0c30",
-      "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.2508.01055",
-      "normalized_title": "FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models",
-      "notes": "Initial partial source repaired to verified complete with official arXiv v4 full-paper and metadata HTML; cache miss became cached; paper, code, molecular data, and extracted text withheld; primary commit recorded and Slack notice delivered.",
-      "slug": "FGBench-Chemistry",
+      "arxiv_base_id": "2402.13524",
+      "arxiv_id": "2402.13524v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260717",
+      "doi": "10.48550/arXiv.2402.13524",
+      "normalized_title": "OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models",
+      "notes": "Initial partial source repaired to verified complete with official arXiv full-paper HTML; cache miss became cached; source files, model outputs, and extracted text withheld; experiments not rerun.",
+      "slug": "OMGEval",
       "source_urls": [
-        "https://arxiv.org/abs/2508.01055v4",
-        "https://arxiv.org/e-print/2508.01055",
-        "https://arxiv.org/html/2508.01055v4",
-        "https://arxiv.org/pdf/2508.01055",
-        "https://doi.org/10.48550/arXiv.2508.01055",
-        "https://github.com/xuanliugit/FGBench",
-        "https://huggingface.co/datasets/xuan-liu/FGBench"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths",
-        ".lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md",
-        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-LOG.md",
-        ".logs/20260716-Arxiv-DMNN-Conditional-Paths-PHASE-LOG.md",
-        ".reports/BL-Arxiv-DMNN-Conditional-Paths-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1902.10949",
-      "arxiv_id": "1902.10949v3",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/83242113499e2386f1b52acda4811ee240392ac2",
-      "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.1902.10949",
-      "normalized_title": "Dynamic Multi-path Neural Network",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "DMNN-Conditional-Paths",
-      "source_urls": [
-        "https://arxiv.org/abs/1902.10949v3",
-        "https://arxiv.org/e-print/1902.10949",
-        "https://arxiv.org/pdf/1902.10949",
-        "https://ar5iv.labs.arxiv.org/html/1902.10949",
-        "https://doi.org/10.48550/arXiv.1902.10949"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL",
-        ".lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md",
-        ".logs/20260716-Arxiv-GPMD-Regularized-RL-LOG.md",
-        ".logs/20260716-Arxiv-GPMD-Regularized-RL-PHASE-LOG.md",
-        ".reports/BL-Arxiv-GPMD-Regularized-RL-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2105.11066",
-      "arxiv_id": "2105.11066v4",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0bf2bd70e4854638cec0c338bb3f5d23858addd4",
-      "deposit_date": "20260716",
-      "doi": "10.1137/21M1456789",
-      "normalized_title": "Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; SIAM publication metadata verified; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "GPMD-Regularized-RL",
-      "source_urls": [
-        "https://arxiv.org/abs/2105.11066v4",
-        "https://arxiv.org/e-print/2105.11066",
-        "https://arxiv.org/pdf/2105.11066",
-        "https://ar5iv.labs.arxiv.org/html/2105.11066",
-        "https://epubs.siam.org/doi/10.1137/21M1456789",
-        "https://doi.org/10.1137/21M1456789",
-        "https://doi.org/10.48550/arXiv.2105.11066"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise",
-        ".lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md",
-        ".logs/20260716-Arxiv-Adversarial-Label-Noise-LOG.md",
-        ".logs/20260716-Arxiv-Adversarial-Label-Noise-PHASE-LOG.md",
-        ".reports/BL-Arxiv-Adversarial-Label-Noise-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2110.03135",
-      "arxiv_id": "2110.03135v4",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/56968e2e87731e89bcc326424941604d5a524fa1",
-      "deposit_date": "20260716",
-      "doi": "10.48550/arXiv.2110.03135",
-      "normalized_title": "Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting",
-      "notes": "Version 1 used the title Double Descent in Adversarial Training: An Implicit Label Noise Perspective. Initial partial source repaired to verified complete with official arXiv full-paper HTML; cache miss became cached with one nonfatal PDF image decode warning; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "Adversarial-Label-Noise",
-      "source_urls": [
-        "https://arxiv.org/abs/2110.03135v4",
-        "https://arxiv.org/e-print/2110.03135",
-        "https://arxiv.org/html/2110.03135",
-        "https://arxiv.org/pdf/2110.03135",
-        "https://doi.org/10.48550/arXiv.2110.03135",
-        "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fe6a2ba2594521d15af3b1f2162d79c-Abstract-Conference.html"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme",
-        ".lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md",
-        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-LOG.md",
-        ".logs/20260716-Arxiv-FGLE-Midpoint-Scheme-PHASE-LOG.md",
-        ".reports/BL-Arxiv-FGLE-Midpoint-Scheme-20260716/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1601.02301",
-      "arxiv_id": "1601.02301v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0a939dfc7ad7c19d8ed0f1609c29a52648ab42c8",
-      "deposit_date": "20260716",
-      "doi": "10.1016/j.jcp.2016.02.018",
-      "normalized_title": "An implicit midpoint difference scheme for the fractional Ginzburg-Landau equation",
-      "notes": "Initial partial source repaired to verified complete with approved ar5iv full-paper HTML after official arXiv HTML was unavailable; cache miss became cached; arXiv DOI 10.48550/arXiv.1601.02301 and journal DOI checked; source files and extracted text withheld locally; primary commit recorded and Slack notice delivered.",
-      "slug": "FGLE-Midpoint-Scheme",
-      "source_urls": [
-        "https://arxiv.org/abs/1601.02301v1",
-        "https://arxiv.org/e-print/1601.02301",
-        "https://arxiv.org/pdf/1601.02301",
-        "https://ar5iv.labs.arxiv.org/html/1601.02301",
-        "https://doi.org/10.48550/arXiv.1601.02301",
-        "https://doi.org/10.1016/j.jcp.2016.02.018"
+        "https://arxiv.org/abs/2402.13524",
+        "https://arxiv.org/e-print/2402.13524",
+        "https://arxiv.org/html/2402.13524",
+        "https://arxiv.org/pdf/2402.13524",
+        "https://doi.org/10.48550/arXiv.2402.13524",
+        "https://github.com/blcuicall/OMGEval"
       ],
       "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-16"
+  "updated_date": "2026-07-17"
 }

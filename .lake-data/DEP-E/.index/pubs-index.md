@@ -509,6 +509,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering* | Xinyue Hu; Lin Gu; Qiyuan An; Mengliang Zhang; Liangchen Liu; Kazuma Kobayashi; Tatsuya Harada; Ronald M. Summers; Yingying Zhu | [arXiv:2307.11986v2](https://arxiv.org/abs/2307.11986v2) · [DOI](https://doi.org/10.1145/3580305.3599819) |
 
+## [DEP-E-20260717-OMGEval Benchmark](../DEP-E-20260717-OMGEval%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models* | Yang Liu; Meng Xu; Shuo Wang; Liner Yang; Haoyu Wang; Zhenghao Liu; Cunliang Kong; Yun Chen; Yang Liu; Maosong Sun; Erhong Yang | [arXiv:2402.13524v2](https://arxiv.org/abs/2402.13524v2) · [DOI](https://doi.org/10.48550/arXiv.2402.13524) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
