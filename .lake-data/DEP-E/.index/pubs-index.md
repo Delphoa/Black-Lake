@@ -533,6 +533,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Integrals and Rigidity on Manifolds with Nonnegative Ricci Curvature* | Zixuan Chen; Guoyi Xu; Shuai Zhang | [arXiv:2602.10393v1](https://arxiv.org/abs/2602.10393v1) · [DOI](https://doi.org/10.48550/arXiv.2602.10393) |
 
+## [DEP-E-20260717-Residual Gaussian](../DEP-E-20260717-Residual%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction* | Jian Lin; Jiancheng Fang; Shaoyu Wang; Changan Lai; Yikun Zhang; Yang Chen; Qiegen Liu | [arXiv:2604.27552v1](https://arxiv.org/abs/2604.27552v1) · [DOI](https://doi.org/10.48550/arXiv.2604.27552) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
