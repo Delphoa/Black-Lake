@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **147 publications across 70 DEP-E entries** (143 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-16; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **149 publications across 72 DEP-E entries** (145 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-17; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260717-Surface SQD Study](../DEP-E-20260717-Surface%20SQD%20Study/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling active spaces in simulations of surface reactions through sample-based quantum diagonalization* | Marco Antonio Barroca; Tanvi P. Gujarati; Vidushi Sharma; *et al.* | [arXiv:2503.10923v2](https://arxiv.org/abs/2503.10923v2) · [DOI](https://doi.org/10.1038/s41598-026-58228-0) |
 
 ## [DEP-E-20260716-FGLE Midpoint Scheme](../DEP-E-20260716-FGLE%20Midpoint%20Scheme/README.md)
 
