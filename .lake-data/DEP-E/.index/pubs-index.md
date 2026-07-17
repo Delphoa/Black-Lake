@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **150 publications across 73 DEP-E entries** (146 arXiv records and 4 other research publications).
+- Current coverage: **151 publications across 74 DEP-E entries** (147 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-17; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -526,6 +526,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Selectively Combining Multiple Coverage Goals in Search-Based Unit Test Generation* | Zhichao Zhou; Yuming Zhou; Chunrong Fang; Zhenyu Chen; Yutian Tang | [arXiv:2208.04096v1](https://arxiv.org/abs/2208.04096v1) · [DOI](https://doi.org/10.1145/3551349.3556902) |
+
+## [DEP-E-20260717-Integrals and Rigidity](../DEP-E-20260717-Integrals%20and%20Rigidity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Integrals and Rigidity on Manifolds with Nonnegative Ricci Curvature* | Zixuan Chen; Guoyi Xu; Shuai Zhang | [arXiv:2602.10393v1](https://arxiv.org/abs/2602.10393v1) · [DOI](https://doi.org/10.48550/arXiv.2602.10393) |
 
 ## Entries without indexed research publications
 
