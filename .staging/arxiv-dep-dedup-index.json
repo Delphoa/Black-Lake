@@ -898,8 +898,34 @@
         "https://github.com/blcuicall/OMGEval"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey",
+        ".lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md",
+        ".logs/20260718-Arxiv-Efficient-FM-Survey-LOG.md",
+        ".reports/BL-Arxiv-Efficient-FM-Survey-20260718/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2401.08092",
+      "arxiv_id": "2401.08092v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260718",
+      "doi": "10.48550/arXiv.2401.08092",
+      "normalized_title": "A Survey of Resource-efficient LLM and Multimodal Foundation Models",
+      "notes": "First-draw source-first survey review; initial partial archive repaired to verified complete with official full-paper HTML, metadata HTML, and source package; all source documents and private source locations withheld; surveyed third-party metrics and combined implementation stack not reproduced.",
+      "slug": "Efficient-FM-Survey",
+      "source_urls": [
+        "https://arxiv.org/abs/2401.08092",
+        "https://arxiv.org/e-print/2401.08092",
+        "https://arxiv.org/html/2401.08092",
+        "https://arxiv.org/pdf/2401.08092",
+        "https://doi.org/10.48550/arXiv.2401.08092",
+        "https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-17"
+  "updated_date": "2026-07-18"
 }

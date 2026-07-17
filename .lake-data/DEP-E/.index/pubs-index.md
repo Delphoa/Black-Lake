@@ -545,6 +545,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction* | Jian Lin; Jiancheng Fang; Shaoyu Wang; Changan Lai; Yikun Zhang; Yang Chen; Qiegen Liu | [arXiv:2604.27552v1](https://arxiv.org/abs/2604.27552v1) · [DOI](https://doi.org/10.48550/arXiv.2604.27552) |
 
+## [DEP-E-20260718-Efficient FM Survey](../DEP-E-20260718-Efficient%20FM%20Survey/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey of Resource-efficient LLM and Multimodal Foundation Models* | Mengwei Xu et al. | [arXiv:2401.08092v2](https://arxiv.org/abs/2401.08092v2) · [DOI](https://doi.org/10.48550/arXiv.2401.08092) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
