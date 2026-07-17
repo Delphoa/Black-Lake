@@ -55,3 +55,7 @@
 ## Outcome
 
 All required public artifacts were generated from a verified complete local source bundle. Public records use date-only markers, public URLs, and repository-relative paths, and explicitly state that source files were withheld locally.
+
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/cc8dbaeab8f86b0d77f9e3655e95dfcfb2682b94
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784270121320319
+- Submission result: direct push to the default branch succeeded; the staged public-output allowlist contained only the seven declared Markdown/JSON artifacts and no source files.

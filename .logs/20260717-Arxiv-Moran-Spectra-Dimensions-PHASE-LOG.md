@@ -9,7 +9,7 @@
 - Source: `partial` repaired to verified `complete` with approved ar5iv full-paper HTML after official HTML returned 404
 - Cache: miss to `cached`
 - Source files: PDF, full-paper HTML, metadata HTML, TeX source, extracted text, cache, and integrity records withheld locally; none uploaded
-- Dedup index: new public-safe pointer prepared and validated; repository commit attribution is added after remote submission
+- Dedup index: new public-safe deposited pointer validated with primary commit attribution
 
 ## Phase Metrics
 
@@ -25,8 +25,8 @@
 | Full-paper and publisher review | 25 min | about 18 min | Complete | Definitions, Propositions 2.1-2.4, Theorems 1.1-1.2, Section 3 constructions, references, and live publisher metadata inspected |
 | Related DEP synthesis | 10 min | about 7 min | Complete | Flag Hardy Operators, Acoustic Phase Retrieval, and FGLE Midpoint Scheme |
 | Artifact generation | 20 min | about 18 min | Complete | Two logs, Report-Mark, DEP README, schema-complete manuscript, publication index, and dedup pointer drafted |
-| Validation and source gate | 10 min | pending final run | In progress | Schema, exact counts, code parsing, JSON/YAML, public safety, and staged allowlist are checked before commit |
-| Repository and Slack | 10 min | pending | Pending | Direct default-branch push preferred; Slack follows primary repository submission |
+| Validation and source gate | 10 min | about 7 min | Complete | Schema, exact counts, code parsing, JSON/YAML, public safety, staged allowlist, and source-file exclusion passed |
+| Repository and Slack | 10 min | about 3 min | Complete | Direct default-branch push succeeded; channel notification returned a durable message link |
 
 ## Extraction Cache
 
@@ -58,8 +58,8 @@
 - Exclusions / reselections: 0 / 0
 - New pointer: arXiv:2302.05868v1; slug `Moran-Spectra-Dimensions`
 - Artifact paths: two logs, Report-Mark, DEP-E directory, manuscript, and publication index
-- Commit reference: pending repository submission at artifact-generation time
-- Status: pointer prepared as `deposited`; commit reference is finalized after the primary push
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/cc8dbaeab8f86b0d77f9e3655e95dfcfb2682b94
+- Status: `deposited`; primary commit recorded after remote verification
 
 ## Expected vs Observed Trajectory
 
@@ -75,4 +75,4 @@ The review was not truncated when the repair phase exceeded its estimate. The fu
 - The generic cache extractor produced no source-text output because the valid e-print is a single-file gzip rather than a tar archive.
 - The full published article was inspected at publisher metadata/section-snippet level; a complete line-by-line comparison against arXiv v1 was not performed.
 - No official code, executable construction, or benchmark was identified, and finite approximations were not run.
-- Repository submission, Slack delivery, and commit attribution remain pending until the final validation gate passes.
+- Repository submission, Slack delivery, and commit attribution completed after the final validation gate passed.

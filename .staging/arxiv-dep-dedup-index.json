@@ -861,17 +861,17 @@
       ],
       "arxiv_base_id": "2302.05868",
       "arxiv_id": "2302.05868v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/cc8dbaeab8f86b0d77f9e3655e95dfcfb2682b94",
       "deposit_date": "20260717",
       "doi": "10.1016/j.acha.2023.101606",
       "normalized_title": "On the intermediate value property of spectra for a class of Moran spectral measures",
-      "notes": "First-draw source-first review; archive repaired to verified complete; PDF, full-paper HTML, metadata, TeX source, extracted text, and cache withheld locally; commit reference pending.",
+      "notes": "First-draw source-first review; archive repaired to verified complete with approved ar5iv full-paper HTML; cache miss became cached; PDF, HTML, TeX source, extracted text, and cache withheld locally; primary commit recorded and Slack notice delivered.",
       "slug": "Moran-Spectra-Dimensions",
       "source_urls": [
         "https://arxiv.org/abs/2302.05868v1",
         "https://doi.org/10.1016/j.acha.2023.101606"
       ],
-      "status": "prepared"
+      "status": "deposited"
     },
     {
       "artifact_paths": [
