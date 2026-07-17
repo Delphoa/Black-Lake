@@ -73,7 +73,8 @@ The arXiv ID, arXiv DOI, normalized title, and `integrals-rigidity` slug were ch
 
 ## Submission Record
 
-- Repository submission: pending
-- Slack notification: pending
-- Source-upload gate: to be enforced against the staged file list before commit
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/59838b72e6c062e263c6c1b8d857710adcb41d37
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784255074891639
+- Source-upload gate: passed with exactly five public-safe Markdown files and zero source documents
+- Submission status: direct default-branch push succeeded; Slack notice delivered
 - Source files uploaded: none
