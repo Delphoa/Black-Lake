@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **151 publications across 74 DEP-E entries** (147 arXiv records and 4 other research publications).
+- Current coverage: **152 publications across 75 DEP-E entries** (148 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-17; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260717-Moran Spectra](../DEP-E-20260717-Moran%20Spectra/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the intermediate value property of spectra for a class of Moran spectral measures* | Jinjun Li; Zhiyi Wu | [arXiv:2302.05868v1](https://arxiv.org/abs/2302.05868v1) · [DOI](https://doi.org/10.1016/j.acha.2023.101606) |
 
 ## [DEP-E-20260717-Surface SQD Study](../DEP-E-20260717-Surface%20SQD%20Study/README.md)
 

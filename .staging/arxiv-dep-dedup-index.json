@@ -853,6 +853,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260717-Moran Spectra",
+        ".lake-data/DEP-E/DEP-E-20260717-Moran Spectra/moran_spectra_manuscript.md",
+        ".logs/20260717-Arxiv-Moran-Spectra-Dimensions-LOG.md",
+        ".logs/20260717-Arxiv-Moran-Spectra-Dimensions-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Moran-Spectra-Dimensions-20260717/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.05868",
+      "arxiv_id": "2302.05868v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260717",
+      "doi": "10.1016/j.acha.2023.101606",
+      "normalized_title": "On the intermediate value property of spectra for a class of Moran spectral measures",
+      "notes": "First-draw source-first review; archive repaired to verified complete; PDF, full-paper HTML, metadata, TeX source, extracted text, and cache withheld locally; commit reference pending.",
+      "slug": "Moran-Spectra-Dimensions",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.05868v1",
+        "https://doi.org/10.1016/j.acha.2023.101606"
+      ],
+      "status": "prepared"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark",
         ".lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md",
         ".logs/20260717-Arxiv-OMGEval-LOG.md",
