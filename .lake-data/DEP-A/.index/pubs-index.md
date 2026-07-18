@@ -1173,3 +1173,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management* | Zherui Yang; Fan Liu; Yansong Ning; Hao Liu | [arXiv:2606.03841v1](https://arxiv.org/abs/2606.03841v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03841) |
+
+
+## [DEP-A-20260718-OmniSelect Tokens](../DEP-A-20260718-OmniSelect%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2605.18041-whitepaper-review.md`](../DEP-A-20260718-OmniSelect%20Tokens/2605.18041-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models* | Morunliu Yang; Ruotao Xu; Le Li; Yue Wang; Jianxin Zhang; Juntao Li; Yihang Lou; Siwei Feng; Peifeng Li | [arXiv:2605.18041v1](https://arxiv.org/abs/2605.18041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18041) |
+
+
+## [DEP-A-20260718-STACK Reasoning](../DEP-A-20260718-STACK%20Reasoning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.09150-whitepaper-review.md`](../DEP-A-20260718-STACK%20Reasoning/2604.09150-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning* | Yi Sui; Chaozhuo Li; Dawei Song | [arXiv:2604.09150v1](https://arxiv.org/abs/2604.09150v1) - [DOI](https://doi.org/10.48550/arXiv.2604.09150) |
+
+
+## [DEP-A-20260718-Local Splitter Tactics](../DEP-A-20260718-Local%20Splitter%20Tactics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.12301-whitepaper-review.md`](../DEP-A-20260718-Local%20Splitter%20Tactics/2604.12301-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Local-Splitter: A Measurement Study of Seven Tactics for Reducing Cloud LLM Token Usage on Coding-Agent Workloads* | Justice Owusu Agyemang; Jerry John Kponyo; Elliot Amponsah; Godfred Manu Addo Boakye; Kwame Opuni-Boachie Obour Agyekum | [arXiv:2604.12301v1](https://arxiv.org/abs/2604.12301v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12301) |
+
+
+## [DEP-A-20260718-ContextNest Governance](../DEP-A-20260718-ContextNest%20Governance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.02116-whitepaper-review.md`](../DEP-A-20260718-ContextNest%20Governance/2607.02116-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ContextNest: Verifiable Context Governance for Autonomous AI Agent* | Misha Sulpovar; Benn R. Konsynski; Qaish Kanchwala; Gabe Goodhart | [arXiv:2607.02116v2](https://arxiv.org/abs/2607.02116v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02116) |
+
+
+## [DEP-A-20260718-Proactive Context Graphs](../DEP-A-20260718-Proactive%20Context%20Graphs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.07721-whitepaper-review.md`](../DEP-A-20260718-Proactive%20Context%20Graphs/2607.07721-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Graphs for Proactive Enterprise Agents* | Avinash Kumar | [arXiv:2607.07721v1](https://arxiv.org/abs/2607.07721v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07721) |
