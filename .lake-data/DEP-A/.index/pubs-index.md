@@ -1173,3 +1173,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch* | Shaoyu Wang; Yizhuo Liang; Jaeyong Song; Chong Li; Seo Jin Park | [arXiv:2606.26607v1](https://arxiv.org/abs/2606.26607v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26607) |
+
+
+## [DEP-A-20260719-Concordia Checkpoint](../DEP-A-20260719-Concordia%20Checkpoint/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.23521-whitepaper-review.md`](../DEP-A-20260719-Concordia%20Checkpoint/2606.23521-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference* | Yuhang Gan; Yiwei Yang; Yuyi Li; Xiangyu Gao; Yichen Wang; Rain Jiang; Xiaoning Ding; Andi Quinn; Chen Qian | [arXiv:2606.23521v1](https://arxiv.org/abs/2606.23521v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23521) |
+
+
+## [DEP-A-20260719-FlashAccel HBF](../DEP-A-20260719-FlashAccel%20HBF/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.10186-whitepaper-review.md`](../DEP-A-20260719-FlashAccel%20HBF/2607.10186-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference* | Xinyu Wang; Yalong Xue; Xiaotian Sun; Xiaoyu Zhang; Chunmeng Dou; Xueqi Li; Xiaoming Chen | [arXiv:2607.10186v1](https://arxiv.org/abs/2607.10186v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10186) |
+
+
+## [DEP-A-20260719-HEAL Reproducibility](../DEP-A-20260719-HEAL%20Reproducibility/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.21023-whitepaper-review.md`](../DEP-A-20260719-HEAL%20Reproducibility/2606.21023-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Demystifying Numerical Instability in LLM Inference: Achieving Reproducible Inference for Mission-Critical Tasks with HEAL* | Zhenting Zhu; Lucas Thai; Shan Yu; Yicheng Liu; Yifan Qiao; Chenxi Wang; Harry Xu; Junyi Shu | [arXiv:2606.21023v1](https://arxiv.org/abs/2606.21023v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21023) |
+
+
+## [DEP-A-20260719-WiSP Expert Paging](../DEP-A-20260719-WiSP%20Expert%20Paging/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.21868-whitepaper-review.md`](../DEP-A-20260719-WiSP%20Expert%20Paging/2606.21868-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WiSP: A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware* | Jiamu Zhang; Liang Wu; Mayank Darbari; Liangjie Hong | [arXiv:2606.21868v1](https://arxiv.org/abs/2606.21868v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21868) |
+
+
+## [DEP-A-20260719-Mage Execution Memory](../DEP-A-20260719-Mage%20Execution%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.06090-whitepaper-review.md`](../DEP-A-20260719-Mage%20Execution%20Memory/2606.06090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents* | Yaoqi Chen; Haibin Lai; Yuru Feng; Chuyu Han; Qianxi Zhang; Baotong Lu; Menghao Li; Xinjiang Wang; Zhirui Wang; Shusen Xu; Zengzhong Li; Zewen Jin; Hao Wu; Cheng Li; Qi Chen | [arXiv:2606.06090v1](https://arxiv.org/abs/2606.06090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06090) |
