@@ -1218,3 +1218,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents* | Yaoqi Chen; Haibin Lai; Yuru Feng; Chuyu Han; Qianxi Zhang; Baotong Lu; Menghao Li; Xinjiang Wang; Zhirui Wang; Shusen Xu; Zengzhong Li; Zewen Jin; Hao Wu; Cheng Li; Qi Chen | [arXiv:2606.06090v1](https://arxiv.org/abs/2606.06090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06090) |
+
+
+## [DEP-A-20260719-Oracle Agent Memory](../DEP-A-20260719-Oracle%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13157-whitepaper-review.md`](../DEP-A-20260719-Oracle%20Agent%20Memory/2607.13157-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents* | Richmond Alake; Cesare Bernardis; Paul Cayet; Luca Engel; Damien Hilloulin; Sungpack Hong; Allen Hosler; Nickolas Kavantzas; Ingo Kossyk; Son Le; Rhicheek Patra; Kartik Talamadupula; Valentin Venzin | [arXiv:2607.13157v1](https://arxiv.org/abs/2607.13157v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13157) |
+
+
+## [DEP-A-20260719-ActiveMem Distributed](../DEP-A-20260719-ActiveMem%20Distributed/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.10532-whitepaper-review.md`](../DEP-A-20260719-ActiveMem%20Distributed/2606.10532-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning* | Yunhan Jiang; Wenbin Duan; Shasha Guo; Liang Pang; Xiaoqian Sun; Huawei Shen | [arXiv:2606.10532v1](https://arxiv.org/abs/2606.10532v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10532) |
+
+
+## [DEP-A-20260719-Agent Memory Benchmark](../DEP-A-20260719-Agent%20Memory%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.24775-whitepaper-review.md`](../DEP-A-20260719-Agent%20Memory%20Benchmark/2606.24775-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Are We Ready For An Agent-Native Memory System?* | Wei Zhou; Xuanhe Zhou; Shaokun Han; Hongming Xu; Guoliang Li; Zhiyu Li; Feiyu Xiong; Fan Wu | [arXiv:2606.24775v1](https://arxiv.org/abs/2606.24775v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24775) |
+
+
+## [DEP-A-20260719-AuthSelect Integrity](../DEP-A-20260719-AuthSelect%20Integrity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.12290-whitepaper-review.md`](../DEP-A-20260719-AuthSelect%20Integrity/2606.12290-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selection Integrity for LLM Graph Memory: An Accumulability Criterion for Information-Flow-Blind Retrieval* | Zeming Fei; Hongming Fei; Xiaoyang Wang; Yang yang; Prosanta Gope; Biplab Sikdar; Ying Zhang | [arXiv:2606.12290v1](https://arxiv.org/abs/2606.12290v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12290) |
+
+
+## [DEP-A-20260719-FragFuse Memory Attack](../DEP-A-20260719-FragFuse%20Memory%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.15609-whitepaper-review.md`](../DEP-A-20260719-FragFuse%20Memory%20Attack/2606.15609-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion* | Zixin Rao; Wentian Zhu; Chan Aristella Lu; Zhaorun Chen; Wei Niu; Le Guan; Bo Li; Zhen Xiang | [arXiv:2606.15609v1](https://arxiv.org/abs/2606.15609v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15609) |
