@@ -1128,3 +1128,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction* | Runsong Zhao; Shilei Liu; Jiwei Tang; Langming Liu; Haibin Chen; Weidong Zhang; Yujin Yuan; Tong Xiao; Jingbo Zhu; Wenbo Su; Bo Zheng | [arXiv:2603.19733v1](https://arxiv.org/abs/2603.19733v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.19733) |
+
+
+## [DEP-A-20260719-Edge Cloud Split](../DEP-A-20260719-Edge%20Cloud%20Split/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13093-whitepaper-review.md`](../DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient and Privacy Aware Edge Cloud Collaborative Inference for Large Language Models* | Yi Li; Chen Li; Jiexiong Liu | [arXiv:2607.13093v1](https://arxiv.org/abs/2607.13093v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13093) |
+
+
+## [DEP-A-20260719-Cache Resident LLM](../DEP-A-20260719-Cache%20Resident%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.25353-whitepaper-review.md`](../DEP-A-20260719-Cache%20Resident%20LLM/2606.25353-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cache-Resident LLM Inference in GB-Scale Last-Level Caches* | Wanning Zhang; Tongzhou Gu; Marco Canini; Ceyu Xu; Jian Weng | [arXiv:2606.25353v1](https://arxiv.org/abs/2606.25353v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25353) |
+
+
+## [DEP-A-20260719-SVF Geometry Scheduler](../DEP-A-20260719-SVF%20Geometry%20Scheduler/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.22327-whitepaper-review.md`](../DEP-A-20260719-SVF%20Geometry%20Scheduler/2606.22327-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice* | Li Kong; Qi Qi; Yinyu Ye; Zijie Zhou | [arXiv:2606.22327v2](https://arxiv.org/abs/2606.22327v2) - [DOI](https://doi.org/10.48550/arXiv.2606.22327) |
+
+
+## [DEP-A-20260719-Dustin Sparse Verify](../DEP-A-20260719-Dustin%20Sparse%20Verify/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.24957-whitepaper-review.md`](../DEP-A-20260719-Dustin%20Sparse%20Verify/2606.24957-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding* | WenHung Lee; Jian-Jia Chen; Xiaolin Lin; Pei-Shuo Wang; Chi-Chih Chang; Chun-Che Yang; Ning-Chi Huang; Grace Li Zhang; Kai-Chiang Wu | [arXiv:2606.24957v1](https://arxiv.org/abs/2606.24957v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24957) |
+
+
+## [DEP-A-20260719-Moebius Runtime Switch](../DEP-A-20260719-Moebius%20Runtime%20Switch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.26607-whitepaper-review.md`](../DEP-A-20260719-Moebius%20Runtime%20Switch/2606.26607-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch* | Shaoyu Wang; Yizhuo Liang; Jaeyong Song; Chong Li; Seo Jin Park | [arXiv:2606.26607v1](https://arxiv.org/abs/2606.26607v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26607) |
