@@ -557,6 +557,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Defense effectiveness across architectural layers: a mechanistic evaluation of persistent memory attacks on stateful LLM agents* | Jun Wen Leong | [arXiv:2605.08442v4](https://arxiv.org/abs/2605.08442v4) · [DOI](https://doi.org/10.48550/arXiv.2605.08442) |
 
+## [DEP-E-20260718-SpOctA Accelerator](../DEP-E-20260718-SpOctA%20Accelerator/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing* | Dongxu Lyu; Zhenyu Li; Yuzhou Chen; Jinming Zhang; Ningyi Xu; Guanghui He | [arXiv:2308.09249v1](https://arxiv.org/abs/2308.09249v1) - [DOI](https://doi.org/10.1109/ICCAD57390.2023.10323728) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.

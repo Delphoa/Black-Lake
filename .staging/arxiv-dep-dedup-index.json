@@ -924,6 +924,30 @@
         "https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator",
+        ".lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator/spocta_accelerator_manuscript.md",
+        ".logs/20260718-Arxiv-SpOctA-LOG.md",
+        ".reports/BL-Arxiv-SpOctA-20260718/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.09249",
+      "arxiv_id": "2308.09249v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260718",
+      "doi": "10.1109/ICCAD57390.2023.10323728",
+      "normalized_title": "SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing",
+      "notes": "Uniform eligible-unit draw index 6812 of 75406; initial partial archive repaired to verified complete with approved ar5iv fallback; source files withheld locally.",
+      "slug": "SpOctA",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2308.09249",
+        "https://arxiv.org/abs/2308.09249",
+        "https://arxiv.org/e-print/2308.09249",
+        "https://arxiv.org/pdf/2308.09249",
+        "https://doi.org/10.1109/ICCAD57390.2023.10323728"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
