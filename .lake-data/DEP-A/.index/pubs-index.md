@@ -1218,3 +1218,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Context Graphs for Proactive Enterprise Agents* | Avinash Kumar | [arXiv:2607.07721v1](https://arxiv.org/abs/2607.07721v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07721) |
+
+
+## [DEP-A-20260718-Tool Context Pruning](../DEP-A-20260718-Tool%20Context%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.10209-whitepaper-review.md`](../DEP-A-20260718-Tool%20Context%20Pruning/2606.10209-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents* | Abhilasha Lodha; Mahsa Pahlavikhah Varnosfaderani; Abir Chakraborty; Abhinav Mithal | [arXiv:2606.10209v1](https://arxiv.org/abs/2606.10209v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10209) |
+
+
+## [DEP-A-20260718-SpotAttention Routing](../DEP-A-20260718-SpotAttention%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.22874-whitepaper-review.md`](../DEP-A-20260718-SpotAttention%20Routing/2606.22874-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers* | Huzama Ahmad; Se-Young Yun | [arXiv:2606.22874v1](https://arxiv.org/abs/2606.22874v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22874) |
+
+
+## [DEP-A-20260718-Lifelong Attention](../DEP-A-20260718-Lifelong%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.25342-whitepaper-review.md`](../DEP-A-20260718-Lifelong%20Attention/2606.25342-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lifelong In-Context Learning with Transformers Requires Parametric Forms of Attention* | Luke McDermott; Robert W. Heath jr.; Rahul Parhi | [arXiv:2606.25342v1](https://arxiv.org/abs/2606.25342v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25342) |
+
+
+## [DEP-A-20260718-DACS Focus Sessions](../DEP-A-20260718-DACS%20Focus%20Sessions/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.07911-whitepaper-review.md`](../DEP-A-20260718-DACS%20Focus%20Sessions/2604.07911-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration* | Nickson Patel | [arXiv:2604.07911v1](https://arxiv.org/abs/2604.07911v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07911) |
+
+
+## [DEP-A-20260718-SmoothAgent Lookahead](../DEP-A-20260718-SmoothAgent%20Lookahead/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00151-whitepaper-review.md`](../DEP-A-20260718-SmoothAgent%20Lookahead/2607.00151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering* | Zaifeng Pan; Qianxu Wang; Zhengding Hu; Chang Chen; Yue Guan; Yanbo Zhou; Steven Swanson; Yufei Ding | [arXiv:2607.00151v1](https://arxiv.org/abs/2607.00151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00151) |
