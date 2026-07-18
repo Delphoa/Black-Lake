@@ -1128,3 +1128,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction* | Runsong Zhao; Shilei Liu; Jiwei Tang; Langming Liu; Haibin Chen; Weidong Zhang; Yujin Yuan; Tong Xiao; Jingbo Zhu; Wenbo Su; Bo Zheng | [arXiv:2603.19733v1](https://arxiv.org/abs/2603.19733v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.19733) |
+
+
+## [DEP-A-20260718-LaMR Code Pruning](../DEP-A-20260718-LaMR%20Code%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2605.15315-whitepaper-review.md`](../DEP-A-20260718-LaMR%20Code%20Pruning/2605.15315-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning* | Jingjing Wang; Xiwen Chen; Wenhui Zhu; Huayu Li; Zhengxiao He; Feiyang Cai; Ana S. Carreon-Rascon; Xuanzhao Dong; Feng Luo | [arXiv:2605.15315v1](https://arxiv.org/abs/2605.15315v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15315) |
+
+
+## [DEP-A-20260718-Bifocal R2LM](../DEP-A-20260718-Bifocal%20R2LM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.27732-whitepaper-review.md`](../DEP-A-20260718-Bifocal%20R2LM/2606.27732-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation* | Yuhang Chen; Xianfeng Wu; Jinhao Duan; Mingfu Liang; Xiaohan Wei; Yunchen Pu; Fei Tian; Chonglin Sun; Parish Aggarwal; Frank Shyu; Luke Simon; Sandeep Pandey; Xi Liu; Tianlong Chen | [arXiv:2606.27732v1](https://arxiv.org/abs/2606.27732v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27732) |
+
+
+## [DEP-A-20260718-MG-RWKV Forgery](../DEP-A-20260718-MG-RWKV%20Forgery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00902-whitepaper-review.md`](../DEP-A-20260718-MG-RWKV%20Forgery/2607.00902-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization* | Jingchen Ni; Cangjin Yu; Dan Jiang; Quan Zhang; Keyu Lv; Shannan Yan; Linyue Pan; Ke Zhang; Chun Yuan | [arXiv:2607.00902v1](https://arxiv.org/abs/2607.00902v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00902) |
+
+
+## [DEP-A-20260718-Verbose Med Context](../DEP-A-20260718-Verbose%20Med%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.29503-whitepaper-review.md`](../DEP-A-20260718-Verbose%20Med%20Context/2606.29503-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Verbose Context Problem in Medical Records* | Shiva Kaul; Min-Gyu Kim; Anjum Khurshid; Sriram Vishwanath | [arXiv:2606.29503v1](https://arxiv.org/abs/2606.29503v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29503) |
+
+
+## [DEP-A-20260718-EvoDS Agent Skills](../DEP-A-20260718-EvoDS%20Agent%20Skills/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.03841-whitepaper-review.md`](../DEP-A-20260718-EvoDS%20Agent%20Skills/2606.03841-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management* | Zherui Yang; Fan Liu; Yansong Ning; Hao Liu | [arXiv:2606.03841v1](https://arxiv.org/abs/2606.03841v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03841) |
