@@ -1263,3 +1263,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering* | Zaifeng Pan; Qianxu Wang; Zhengding Hu; Chang Chen; Yue Guan; Yanbo Zhou; Steven Swanson; Yufei Ding | [arXiv:2607.00151v1](https://arxiv.org/abs/2607.00151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00151) |
+
+
+## [DEP-A-20260718-ViCoStream Pipeline](../DEP-A-20260718-ViCoStream%20Pipeline/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.19849-whitepaper-review.md`](../DEP-A-20260718-ViCoStream%20Pipeline/2606.19849-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference* | Yang Tan; Junlong Tong; Linan Yue; Hao Wu; Pengfei Fang; Xiaoyu Shen | [arXiv:2606.19849v1](https://arxiv.org/abs/2606.19849v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19849) |
+
+
+## [DEP-A-20260718-DASH Token Halting](../DEP-A-20260718-DASH%20Token%20Halting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.18103-whitepaper-review.md`](../DEP-A-20260718-DASH%20Token%20Halting/2604.18103-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stability Implies Redundancy: Delta Attention Selective Halting for Efficient Long-Context Prefilling* | Yujie Chen; Tailai Chen; Yifeng Gao; Zoe Wanying He; Yijue Xu; Shaobo Wang; Linfeng Zhang | [arXiv:2604.18103v2](https://arxiv.org/abs/2604.18103v2) - [DOI](https://doi.org/10.48550/arXiv.2604.18103) |
+
+
+## [DEP-A-20260718-Keyless Attention](../DEP-A-20260718-Keyless%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.21848-whitepaper-review.md`](../DEP-A-20260718-Keyless%20Attention/2606.21848-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Keyless Attention: Value-Space Routing and Value-Only Caching for Efficient Transformers* | Xin Gao | [arXiv:2606.21848v1](https://arxiv.org/abs/2606.21848v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21848) |
+
+
+## [DEP-A-20260718-COBS Sparse Attention](../DEP-A-20260718-COBS%20Sparse%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.09052-whitepaper-review.md`](../DEP-A-20260718-COBS%20Sparse%20Attention/2607.09052-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *COBS: Cumulant Order Block Sparse Attention* | Alexander Tian; Aditya Ghai; Sanjit Neelam; Zaal Vasania; Akshay Mishra | [arXiv:2607.09052v1](https://arxiv.org/abs/2607.09052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09052) |
+
+
+## [DEP-A-20260718-Jet Long Bifocal RoPE](../DEP-A-20260718-Jet%20Long%20Bifocal%20RoPE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.07740-whitepaper-review.md`](../DEP-A-20260718-Jet%20Long%20Bifocal%20RoPE/2607.07740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE* | Haozhan Tang; Zerui Wang; Yuxian Gu; Song Han; Han Cai | [arXiv:2607.07740v2](https://arxiv.org/abs/2607.07740v2) - [DOI](https://doi.org/10.48550/arXiv.2607.07740) |
