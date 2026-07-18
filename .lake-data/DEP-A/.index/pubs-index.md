@@ -1263,3 +1263,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion* | Zixin Rao; Wentian Zhu; Chan Aristella Lu; Zhaorun Chen; Wei Niu; Le Guan; Bo Li; Zhen Xiang | [arXiv:2606.15609v1](https://arxiv.org/abs/2606.15609v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15609) |
+
+
+## [DEP-A-20260719-PersonaTree Memory](../DEP-A-20260719-PersonaTree%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.04780-whitepaper-review.md`](../DEP-A-20260719-PersonaTree%20Memory/2606.04780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents* | Yubo Hou; Jingwei Song; Hongbo Zhang; Zhisheng Chen; Bang Xiao; Tao Wan; Zengchang Qin | [arXiv:2606.04780v1](https://arxiv.org/abs/2606.04780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04780) |
+
+
+## [DEP-A-20260719-MASS Social Simulation](../DEP-A-20260719-MASS%20Social%20Simulation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.09198-whitepaper-review.md`](../DEP-A-20260719-MASS%20Social%20Simulation/2606.09198-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation* | Yongrui Liu; Deyi Xiong | [arXiv:2606.09198v1](https://arxiv.org/abs/2606.09198v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09198) |
+
+
+## [DEP-A-20260719-DCPM Dual Process](../DEP-A-20260719-DCPM%20Dual%20Process/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.09483-whitepaper-review.md`](../DEP-A-20260719-DCPM%20Dual%20Process/2606.09483-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents* | Tianxiang Fei; Mingyang Song; Mao Zheng; Xiang Yu | [arXiv:2606.09483v1](https://arxiv.org/abs/2606.09483v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09483) |
+
+
+## [DEP-A-20260719-FRAMe Flight Planning](../DEP-A-20260719-FRAMe%20Flight%20Planning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.06964-whitepaper-review.md`](../DEP-A-20260719-FRAMe%20Flight%20Planning/2607.06964-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent* | Amin Tabrizian; Arsyi Aziz; Aarifah Ullah; Mahyar Ghazanfari; Pouria Razzaghi; Peng Wei | [arXiv:2607.06964v1](https://arxiv.org/abs/2607.06964v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06964) |
