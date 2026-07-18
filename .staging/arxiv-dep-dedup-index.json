@@ -951,7 +951,7 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth",
+        ".lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/README.md",
         ".lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md",
         ".logs/20260718-Arxiv-Stable-Diffusion-Depth-LOG.md",
         ".logs/20260718-Arxiv-Stable-Diffusion-Depth-PHASE-LOG.md",
@@ -959,7 +959,7 @@
       ],
       "arxiv_base_id": "2403.05056",
       "arxiv_id": "2403.05056v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/fa1850d45ca68db9f0148df188d157b95379ddf6",
       "deposit_date": "20260718",
       "doi": "10.48550/arXiv.2403.05056",
       "normalized_title": "Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation",
@@ -974,7 +974,7 @@
         "https://github.com/hitcslj/SSD",
         "https://hitcslj.github.io/ssd/"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

@@ -10,7 +10,7 @@
 - Initial source classification: `partial`.
 - Final source classification: `complete`.
 - Extraction cache: `miss` to `cached` through a local `missing-only` backfill.
-- Dedup pointer: Added with `prepared` status; remote commit reference pending primary submission.
+- Dedup pointer: Added and finalized with `deposited` status and the primary commit reference.
 - Source policy: Source documents, project assets, extracted text, caches, and integrity records remain local. Review-page renderings were removed after inspection. No source file or `.source/` directory is included in the public artifact set.
 
 ## Phase Metrics
@@ -26,9 +26,9 @@ Durations are elapsed wall-clock estimates rounded for public reporting. Phase e
 | Source, equation, table, figure, project, and repository review | 25 min | 24.1 min | Complete | Full paper and TeX reviewed; pages 7-14 visually inspected; official repository pinned and audited |
 | Related DEP exploration and exact-three synthesis | 8 min | 5.4 min | Complete | UAV Visual Localization, VideoWeave Geometry, and Stereo Lane Detection manuscripts inspected |
 | Public artifact drafting, publication index, and dedup preparation | 30 min | 27.1 min | Complete | Logs, Report-Mark, schema-complete manuscript, DEP README, publication-index row, and dedup entry prepared |
-| Validation, staged allowlist, commit/push, notification, and final record | 15 min | Pending | In progress | Will be updated after remote and Slack verification |
+| Validation, staged allowlist, commit/push, notification, and final record | 15 min | 23.5 min | Complete | All schema/public-safety checks passed; seven allowlisted paths committed directly; remote and Slack links verified; dedup status finalized |
 
-Whole-job guidance is 90-120 minutes. Pre-submission work consumed about 96.4 minutes and remained within the intended source-first trajectory. Estimate overruns in contract loading and source repair did not truncate paper-body review.
+Whole-job guidance is 90-120 minutes. The rounded observed total was about 119.9 minutes, within the upper edge of the intended source-first trajectory. Estimate overruns in contract loading, source repair, and final submission did not truncate paper-body review.
 
 ## Extraction Cache
 
@@ -62,8 +62,8 @@ Whole-job guidance is 90-120 minutes. Pre-submission work consumed about 96.4 mi
 - Metadata-only inventory rows: Observed and explicitly not treated as deposits.
 - Duplicate artifact matches: 0.
 - Reselections: 0.
-- Public pointer action: Added one unique entry with 5 artifact paths, 7 public source URLs, source-repair/cache notes, and `prepared` status.
-- Commit/PR reference: Pending primary repository submission; final record update required.
+- Public pointer action: Added one unique entry with 5 artifact paths, 7 public source URLs, source-repair/cache notes, and `deposited` status.
+- Commit/PR reference: [`fa1850d`](https://github.com/Delphoa/Black-Lake/commit/fa1850d45ca68db9f0148df188d157b95379ddf6).
 
 ## Expected vs Observed Trajectory
 
@@ -72,7 +72,14 @@ Whole-job guidance is 90-120 minutes. Pre-submission work consumed about 96.4 mi
 - Cache extraction substantially beat its estimate because the repaired local unit supplied PDF, official HTML, and a valid TeX archive to all three extractors.
 - Full source review finished within estimate despite the earlier overruns. Table values were checked against TeX and visual renderings, and the teacher-mask contradiction was preserved rather than smoothed over.
 - Artifact drafting remained within estimate and included the publication index and public pointer rather than postponing repository consistency work.
-- Projected whole-job duration remains inside the 90-120 minute guidance if validation/submission completes without a remote conflict.
+- Final validation/submission exceeded its phase estimate because the latest default branch was checked twice, the exact seven-path staged allowlist was inspected, public-safety validation was rerun, the remote push was verified, Slack was notified, and public records were finalized. The rounded whole-job total remained within the 90-120 minute guidance, and no remote conflict occurred.
+
+## Submission and Notification
+
+- Repository status: Direct default-branch submission succeeded.
+- Primary artifact commit: [`fa1850d`](https://github.com/Delphoa/Black-Lake/commit/fa1850d45ca68db9f0148df188d157b95379ddf6).
+- Slack status: Notification delivered to [`#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784362587226529).
+- Source-upload gate: Passed. Source files were withheld locally; no source file, cache, extracted text, review rendering, or `.source/` directory was uploaded.
 
 ## Shortfalls and Follow-Up
 
@@ -83,4 +90,4 @@ Whole-job guidance is 90-120 minutes. Pre-submission work consumed about 96.4 mi
 - No publisher version or publisher DOI was identified from inspected primary records.
 - No paper model, generator component, dataset, or experiment was executed.
 - PDF visual rendering emitted nonfatal font-substitution warnings, but inspected diagrams, equations, tables, and captions remained legible.
-- Submission, remote reference, Slack notification, and final dedup status remain to be recorded after verification.
+- Submission, remote verification, Slack notification, and final dedup status completed without a blocker.

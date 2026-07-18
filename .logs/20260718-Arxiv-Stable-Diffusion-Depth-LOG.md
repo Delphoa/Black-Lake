@@ -5,7 +5,7 @@
 - Action: Randomly selected, source-repaired, verified, reviewed, synthesized, and prepared a DEP-E research deposit for *Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation*.
 - Inputs: Verified complete arXiv PDF, official full-paper HTML, TeX/source, metadata, official project and repository records, and related DEP manuscripts. Original source documents were withheld locally.
 - Outputs: `.reports/BL-Arxiv-Stable-Diffusion-Depth-20260718/Report-Mark.md`, `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/README.md`, `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`, publication-index update, and public dedup-pointer update.
-- Outcome: Ready for repository validation and submission.
+- Outcome: Deposited directly to the Black Lake default branch and announced in `#black-lake-artifacts`.
 - Blockers: None.
 
 ## Random Selection and Deduplication
@@ -61,6 +61,9 @@
 - Allowed public scope: Generated Markdown under `.logs`, `.reports`, and `.lake-data`, the publication-index Markdown update, and the required public-safe dedup JSON.
 - Forbidden source extensions and archive/cache content: None permitted.
 - Required checks: manuscript headings/front matter/title, exact-three contracts, code syntax, publication-index and dedup uniqueness, final attribution blocks, URL coverage, public-safety scan, staged allowlist, and source-extension scan.
+- Staged result: Exactly seven allowlisted public artifacts; no PDF, HTML, source archive, cache, extracted source text, or `.source/` path was staged.
+- Repository result: Direct default-branch commit [`fa1850d`](https://github.com/Delphoa/Black-Lake/commit/fa1850d45ca68db9f0148df188d157b95379ddf6).
+- Notification result: Posted to [`#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784362587226529) with paper identity, output paths, phase-log path, commit link, related DEP entries, and the source-withholding confirmation.
 
 ## Next-Review Questions
 
