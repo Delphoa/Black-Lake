@@ -948,6 +948,33 @@
         "https://doi.org/10.1109/ICCAD57390.2023.10323728"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/README.md",
+        ".lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md",
+        ".logs/20260718-Arxiv-Stable-Diffusion-Depth-LOG.md",
+        ".logs/20260718-Arxiv-Stable-Diffusion-Depth-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Stable-Diffusion-Depth-20260718/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.05056",
+      "arxiv_id": "2403.05056v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/fa1850d45ca68db9f0148df188d157b95379ddf6",
+      "deposit_date": "20260718",
+      "doi": "10.48550/arXiv.2403.05056",
+      "normalized_title": "Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation",
+      "notes": "Uniform candidate-unit draw index 45232 of 75776; initial partial source repaired to verified complete through official arXiv HTML; cache miss backfilled to cached; source files withheld locally.",
+      "slug": "Stable-Diffusion-Depth",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.05056",
+        "https://arxiv.org/e-print/2403.05056",
+        "https://arxiv.org/html/2403.05056",
+        "https://arxiv.org/pdf/2403.05056",
+        "https://doi.org/10.48550/arXiv.2403.05056",
+        "https://github.com/hitcslj/SSD",
+        "https://hitcslj.github.io/ssd/"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
