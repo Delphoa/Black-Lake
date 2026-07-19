@@ -975,8 +975,35 @@
         "https://hitcslj.github.io/ssd/"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/README.md",
+        ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md",
+        ".logs/20260719-Arxiv-Device-Tuning-MTL-LOG.md",
+        ".logs/20260719-Arxiv-Device-Tuning-MTL-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Device-Tuning-MTL-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.10820",
+      "arxiv_id": "2302.10820v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2302.10820",
+      "normalized_title": "Device Tuning for Multi-Task Large Model",
+      "notes": "Uniform candidate-unit draw index 74319 of 75776; initial partial source repaired to verified complete through approved ar5iv full-paper fallback; cache miss backfilled to cached; source files withheld locally.",
+      "slug": "Device-Tuning-MTL",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2302.10820",
+        "https://arxiv.org/abs/2302.10820",
+        "https://arxiv.org/e-print/2302.10820",
+        "https://arxiv.org/pdf/2302.10820",
+        "https://doi.org/10.48550/arXiv.2302.10820",
+        "https://openaccess.thecvf.com/content/CVPR2023W/MobileAI/html/Jiang_High-Efficiency_Device-Cloud_Collaborative_Transformer_Model_CVPRW_2023_paper.html",
+        "https://sites.google.com/view/dai-2023/accepted-papers"
+      ],
+      "status": "submission_pending"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-18"
+  "updated_date": "2026-07-19"
 }
