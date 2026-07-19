@@ -617,6 +617,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection* | Han Wang et al. | [arXiv:2511.13759v1](https://arxiv.org/abs/2511.13759v1) - [DOI](https://doi.org/10.48550/arXiv.2511.13759) |
 
+## [DEP-E-20260719-DiscourseFlip RAG Risk](../DEP-E-20260719-DiscourseFlip%20RAG%20Risk/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DiscourseFlip: An Oblique Discourse-Level Opinion Manipulation Attack against Black-box Retrieval-Augmented Generation* | Yuyang Gong et al. | [arXiv:2606.01212v2](https://arxiv.org/abs/2606.01212v2) - [DOI](https://doi.org/10.48550/arXiv.2606.01212) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
