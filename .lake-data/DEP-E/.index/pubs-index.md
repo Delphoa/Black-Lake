@@ -623,6 +623,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *DiscourseFlip: An Oblique Discourse-Level Opinion Manipulation Attack against Black-box Retrieval-Augmented Generation* | Yuyang Gong et al. | [arXiv:2606.01212v2](https://arxiv.org/abs/2606.01212v2) - [DOI](https://doi.org/10.48550/arXiv.2606.01212) |
 
+## [DEP-E-20260719-Sparse SSN PMM](../DEP-E-20260719-Sparse%20SSN%20PMM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems* | Peipei Tang; Chengjing Wang; Defeng Sun; Kim-Chuan Toh | [arXiv:1903.11460v3](https://arxiv.org/abs/1903.11460v3) - [DOI](https://doi.org/10.48550/arXiv.1903.11460) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
