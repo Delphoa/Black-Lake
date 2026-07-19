@@ -2109,3 +2109,174 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE* | Haozhan Tang; Zerui Wang; Yuxian Gu; Song Han; Han Cai | [arXiv:2607.07740v2](https://arxiv.org/abs/2607.07740v2) - [DOI](https://doi.org/10.48550/arXiv.2607.07740) |
+
+
+## [DEP-A-20260719-Edge Cloud Split](../DEP-A-20260719-Edge%20Cloud%20Split/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13093-whitepaper-review.md`](../DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient and Privacy Aware Edge Cloud Collaborative Inference for Large Language Models* | Yi Li; Chen Li; Jiexiong Liu | [arXiv:2607.13093v1](https://arxiv.org/abs/2607.13093v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13093) |
+
+
+## [DEP-A-20260719-Cache Resident LLM](../DEP-A-20260719-Cache%20Resident%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.25353-whitepaper-review.md`](../DEP-A-20260719-Cache%20Resident%20LLM/2606.25353-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cache-Resident LLM Inference in GB-Scale Last-Level Caches* | Wanning Zhang; Tongzhou Gu; Marco Canini; Ceyu Xu; Jian Weng | [arXiv:2606.25353v1](https://arxiv.org/abs/2606.25353v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25353) |
+
+
+## [DEP-A-20260719-SVF Geometry Scheduler](../DEP-A-20260719-SVF%20Geometry%20Scheduler/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.22327-whitepaper-review.md`](../DEP-A-20260719-SVF%20Geometry%20Scheduler/2606.22327-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice* | Li Kong; Qi Qi; Yinyu Ye; Zijie Zhou | [arXiv:2606.22327v2](https://arxiv.org/abs/2606.22327v2) - [DOI](https://doi.org/10.48550/arXiv.2606.22327) |
+
+
+## [DEP-A-20260719-Dustin Sparse Verify](../DEP-A-20260719-Dustin%20Sparse%20Verify/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.24957-whitepaper-review.md`](../DEP-A-20260719-Dustin%20Sparse%20Verify/2606.24957-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding* | WenHung Lee; Jian-Jia Chen; Xiaolin Lin; Pei-Shuo Wang; Chi-Chih Chang; Chun-Che Yang; Ning-Chi Huang; Grace Li Zhang; Kai-Chiang Wu | [arXiv:2606.24957v1](https://arxiv.org/abs/2606.24957v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24957) |
+
+
+## [DEP-A-20260719-Moebius Runtime Switch](../DEP-A-20260719-Moebius%20Runtime%20Switch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.26607-whitepaper-review.md`](../DEP-A-20260719-Moebius%20Runtime%20Switch/2606.26607-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch* | Shaoyu Wang; Yizhuo Liang; Jaeyong Song; Chong Li; Seo Jin Park | [arXiv:2606.26607v1](https://arxiv.org/abs/2606.26607v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26607) |
+
+
+## [DEP-A-20260719-Concordia Checkpoint](../DEP-A-20260719-Concordia%20Checkpoint/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.23521-whitepaper-review.md`](../DEP-A-20260719-Concordia%20Checkpoint/2606.23521-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference* | Yuhang Gan; Yiwei Yang; Yuyi Li; Xiangyu Gao; Yichen Wang; Rain Jiang; Xiaoning Ding; Andi Quinn; Chen Qian | [arXiv:2606.23521v1](https://arxiv.org/abs/2606.23521v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23521) |
+
+
+## [DEP-A-20260719-FlashAccel HBF](../DEP-A-20260719-FlashAccel%20HBF/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.10186-whitepaper-review.md`](../DEP-A-20260719-FlashAccel%20HBF/2607.10186-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference* | Xinyu Wang; Yalong Xue; Xiaotian Sun; Xiaoyu Zhang; Chunmeng Dou; Xueqi Li; Xiaoming Chen | [arXiv:2607.10186v1](https://arxiv.org/abs/2607.10186v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10186) |
+
+
+## [DEP-A-20260719-HEAL Reproducibility](../DEP-A-20260719-HEAL%20Reproducibility/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.21023-whitepaper-review.md`](../DEP-A-20260719-HEAL%20Reproducibility/2606.21023-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Demystifying Numerical Instability in LLM Inference: Achieving Reproducible Inference for Mission-Critical Tasks with HEAL* | Zhenting Zhu; Lucas Thai; Shan Yu; Yicheng Liu; Yifan Qiao; Chenxi Wang; Harry Xu; Junyi Shu | [arXiv:2606.21023v1](https://arxiv.org/abs/2606.21023v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21023) |
+
+
+## [DEP-A-20260719-WiSP Expert Paging](../DEP-A-20260719-WiSP%20Expert%20Paging/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.21868-whitepaper-review.md`](../DEP-A-20260719-WiSP%20Expert%20Paging/2606.21868-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WiSP: A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware* | Jiamu Zhang; Liang Wu; Mayank Darbari; Liangjie Hong | [arXiv:2606.21868v1](https://arxiv.org/abs/2606.21868v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21868) |
+
+
+## [DEP-A-20260719-Mage Execution Memory](../DEP-A-20260719-Mage%20Execution%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.06090-whitepaper-review.md`](../DEP-A-20260719-Mage%20Execution%20Memory/2606.06090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents* | Yaoqi Chen; Haibin Lai; Yuru Feng; Chuyu Han; Qianxi Zhang; Baotong Lu; Menghao Li; Xinjiang Wang; Zhirui Wang; Shusen Xu; Zengzhong Li; Zewen Jin; Hao Wu; Cheng Li; Qi Chen | [arXiv:2606.06090v1](https://arxiv.org/abs/2606.06090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06090) |
+
+
+## [DEP-A-20260719-Oracle Agent Memory](../DEP-A-20260719-Oracle%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13157-whitepaper-review.md`](../DEP-A-20260719-Oracle%20Agent%20Memory/2607.13157-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents* | Richmond Alake; Cesare Bernardis; Paul Cayet; Luca Engel; Damien Hilloulin; Sungpack Hong; Allen Hosler; Nickolas Kavantzas; Ingo Kossyk; Son Le; Rhicheek Patra; Kartik Talamadupula; Valentin Venzin | [arXiv:2607.13157v1](https://arxiv.org/abs/2607.13157v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13157) |
+
+
+## [DEP-A-20260719-ActiveMem Distributed](../DEP-A-20260719-ActiveMem%20Distributed/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.10532-whitepaper-review.md`](../DEP-A-20260719-ActiveMem%20Distributed/2606.10532-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning* | Yunhan Jiang; Wenbin Duan; Shasha Guo; Liang Pang; Xiaoqian Sun; Huawei Shen | [arXiv:2606.10532v1](https://arxiv.org/abs/2606.10532v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10532) |
+
+
+## [DEP-A-20260719-Agent Memory Benchmark](../DEP-A-20260719-Agent%20Memory%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.24775-whitepaper-review.md`](../DEP-A-20260719-Agent%20Memory%20Benchmark/2606.24775-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Are We Ready For An Agent-Native Memory System?* | Wei Zhou; Xuanhe Zhou; Shaokun Han; Hongming Xu; Guoliang Li; Zhiyu Li; Feiyu Xiong; Fan Wu | [arXiv:2606.24775v1](https://arxiv.org/abs/2606.24775v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24775) |
+
+
+## [DEP-A-20260719-AuthSelect Integrity](../DEP-A-20260719-AuthSelect%20Integrity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.12290-whitepaper-review.md`](../DEP-A-20260719-AuthSelect%20Integrity/2606.12290-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selection Integrity for LLM Graph Memory: An Accumulability Criterion for Information-Flow-Blind Retrieval* | Zeming Fei; Hongming Fei; Xiaoyang Wang; Yang yang; Prosanta Gope; Biplab Sikdar; Ying Zhang | [arXiv:2606.12290v1](https://arxiv.org/abs/2606.12290v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12290) |
+
+
+## [DEP-A-20260719-FragFuse Memory Attack](../DEP-A-20260719-FragFuse%20Memory%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.15609-whitepaper-review.md`](../DEP-A-20260719-FragFuse%20Memory%20Attack/2606.15609-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion* | Zixin Rao; Wentian Zhu; Chan Aristella Lu; Zhaorun Chen; Wei Niu; Le Guan; Bo Li; Zhen Xiang | [arXiv:2606.15609v1](https://arxiv.org/abs/2606.15609v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15609) |
+
+
+## [DEP-A-20260719-PersonaTree Memory](../DEP-A-20260719-PersonaTree%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.04780-whitepaper-review.md`](../DEP-A-20260719-PersonaTree%20Memory/2606.04780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents* | Yubo Hou; Jingwei Song; Hongbo Zhang; Zhisheng Chen; Bang Xiao; Tao Wan; Zengchang Qin | [arXiv:2606.04780v1](https://arxiv.org/abs/2606.04780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04780) |
+
+
+## [DEP-A-20260719-MASS Social Simulation](../DEP-A-20260719-MASS%20Social%20Simulation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.09198-whitepaper-review.md`](../DEP-A-20260719-MASS%20Social%20Simulation/2606.09198-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation* | Yongrui Liu; Deyi Xiong | [arXiv:2606.09198v1](https://arxiv.org/abs/2606.09198v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09198) |
+
+
+## [DEP-A-20260719-DCPM Dual Process](../DEP-A-20260719-DCPM%20Dual%20Process/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.09483-whitepaper-review.md`](../DEP-A-20260719-DCPM%20Dual%20Process/2606.09483-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents* | Tianxiang Fei; Mingyang Song; Mao Zheng; Xiang Yu | [arXiv:2606.09483v1](https://arxiv.org/abs/2606.09483v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09483) |
+
+
+## [DEP-A-20260719-FRAMe Flight Planning](../DEP-A-20260719-FRAMe%20Flight%20Planning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.06964-whitepaper-review.md`](../DEP-A-20260719-FRAMe%20Flight%20Planning/2607.06964-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent* | Amin Tabrizian; Arsyi Aziz; Aarifah Ullah; Mahyar Ghazanfari; Pouria Razzaghi; Peng Wei | [arXiv:2607.06964v1](https://arxiv.org/abs/2607.06964v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06964) |
