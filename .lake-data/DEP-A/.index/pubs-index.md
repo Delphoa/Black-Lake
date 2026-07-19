@@ -1929,3 +1929,183 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction* | Yaofei Duan; Yuhao Huang; Tianyu Zhang; Yuan Gao; Luyi Han; Xin Wang; Xinyu Xie; Xinglong Liang; Chunyao Lu; Muzhen He; Patrick Pang; Yue Sun; Ning Mao; Tao Tan; Ritse Mann | [arXiv:2607.00798v1](https://arxiv.org/abs/2607.00798v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00798) |
+
+
+## [DEP-A-20260718-LaMR Code Pruning](../DEP-A-20260718-LaMR%20Code%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2605.15315-whitepaper-review.md`](../DEP-A-20260718-LaMR%20Code%20Pruning/2605.15315-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning* | Jingjing Wang; Xiwen Chen; Wenhui Zhu; Huayu Li; Zhengxiao He; Feiyang Cai; Ana S. Carreon-Rascon; Xuanzhao Dong; Feng Luo | [arXiv:2605.15315v1](https://arxiv.org/abs/2605.15315v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15315) |
+
+
+## [DEP-A-20260718-Bifocal R2LM](../DEP-A-20260718-Bifocal%20R2LM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.27732-whitepaper-review.md`](../DEP-A-20260718-Bifocal%20R2LM/2606.27732-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation* | Yuhang Chen; Xianfeng Wu; Jinhao Duan; Mingfu Liang; Xiaohan Wei; Yunchen Pu; Fei Tian; Chonglin Sun; Parish Aggarwal; Frank Shyu; Luke Simon; Sandeep Pandey; Xi Liu; Tianlong Chen | [arXiv:2606.27732v1](https://arxiv.org/abs/2606.27732v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27732) |
+
+
+## [DEP-A-20260718-MG-RWKV Forgery](../DEP-A-20260718-MG-RWKV%20Forgery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00902-whitepaper-review.md`](../DEP-A-20260718-MG-RWKV%20Forgery/2607.00902-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization* | Jingchen Ni; Cangjin Yu; Dan Jiang; Quan Zhang; Keyu Lv; Shannan Yan; Linyue Pan; Ke Zhang; Chun Yuan | [arXiv:2607.00902v1](https://arxiv.org/abs/2607.00902v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00902) |
+
+
+## [DEP-A-20260718-Verbose Med Context](../DEP-A-20260718-Verbose%20Med%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.29503-whitepaper-review.md`](../DEP-A-20260718-Verbose%20Med%20Context/2606.29503-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Verbose Context Problem in Medical Records* | Shiva Kaul; Min-Gyu Kim; Anjum Khurshid; Sriram Vishwanath | [arXiv:2606.29503v1](https://arxiv.org/abs/2606.29503v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29503) |
+
+
+## [DEP-A-20260718-EvoDS Agent Skills](../DEP-A-20260718-EvoDS%20Agent%20Skills/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.03841-whitepaper-review.md`](../DEP-A-20260718-EvoDS%20Agent%20Skills/2606.03841-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management* | Zherui Yang; Fan Liu; Yansong Ning; Hao Liu | [arXiv:2606.03841v1](https://arxiv.org/abs/2606.03841v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03841) |
+
+
+## [DEP-A-20260718-OmniSelect Tokens](../DEP-A-20260718-OmniSelect%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2605.18041-whitepaper-review.md`](../DEP-A-20260718-OmniSelect%20Tokens/2605.18041-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models* | Morunliu Yang; Ruotao Xu; Le Li; Yue Wang; Jianxin Zhang; Juntao Li; Yihang Lou; Siwei Feng; Peifeng Li | [arXiv:2605.18041v1](https://arxiv.org/abs/2605.18041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18041) |
+
+
+## [DEP-A-20260718-STACK Reasoning](../DEP-A-20260718-STACK%20Reasoning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.09150-whitepaper-review.md`](../DEP-A-20260718-STACK%20Reasoning/2604.09150-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning* | Yi Sui; Chaozhuo Li; Dawei Song | [arXiv:2604.09150v1](https://arxiv.org/abs/2604.09150v1) - [DOI](https://doi.org/10.48550/arXiv.2604.09150) |
+
+
+## [DEP-A-20260718-Local Splitter Tactics](../DEP-A-20260718-Local%20Splitter%20Tactics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.12301-whitepaper-review.md`](../DEP-A-20260718-Local%20Splitter%20Tactics/2604.12301-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Local-Splitter: A Measurement Study of Seven Tactics for Reducing Cloud LLM Token Usage on Coding-Agent Workloads* | Justice Owusu Agyemang; Jerry John Kponyo; Elliot Amponsah; Godfred Manu Addo Boakye; Kwame Opuni-Boachie Obour Agyekum | [arXiv:2604.12301v1](https://arxiv.org/abs/2604.12301v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12301) |
+
+
+## [DEP-A-20260718-ContextNest Governance](../DEP-A-20260718-ContextNest%20Governance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.02116-whitepaper-review.md`](../DEP-A-20260718-ContextNest%20Governance/2607.02116-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ContextNest: Verifiable Context Governance for Autonomous AI Agent* | Misha Sulpovar; Benn R. Konsynski; Qaish Kanchwala; Gabe Goodhart | [arXiv:2607.02116v2](https://arxiv.org/abs/2607.02116v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02116) |
+
+
+## [DEP-A-20260718-Proactive Context Graphs](../DEP-A-20260718-Proactive%20Context%20Graphs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.07721-whitepaper-review.md`](../DEP-A-20260718-Proactive%20Context%20Graphs/2607.07721-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Graphs for Proactive Enterprise Agents* | Avinash Kumar | [arXiv:2607.07721v1](https://arxiv.org/abs/2607.07721v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07721) |
+
+
+## [DEP-A-20260718-Tool Context Pruning](../DEP-A-20260718-Tool%20Context%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.10209-whitepaper-review.md`](../DEP-A-20260718-Tool%20Context%20Pruning/2606.10209-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents* | Abhilasha Lodha; Mahsa Pahlavikhah Varnosfaderani; Abir Chakraborty; Abhinav Mithal | [arXiv:2606.10209v1](https://arxiv.org/abs/2606.10209v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10209) |
+
+
+## [DEP-A-20260718-SpotAttention Routing](../DEP-A-20260718-SpotAttention%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.22874-whitepaper-review.md`](../DEP-A-20260718-SpotAttention%20Routing/2606.22874-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers* | Huzama Ahmad; Se-Young Yun | [arXiv:2606.22874v1](https://arxiv.org/abs/2606.22874v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22874) |
+
+
+## [DEP-A-20260718-Lifelong Attention](../DEP-A-20260718-Lifelong%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.25342-whitepaper-review.md`](../DEP-A-20260718-Lifelong%20Attention/2606.25342-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lifelong In-Context Learning with Transformers Requires Parametric Forms of Attention* | Luke McDermott; Robert W. Heath jr.; Rahul Parhi | [arXiv:2606.25342v1](https://arxiv.org/abs/2606.25342v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25342) |
+
+
+## [DEP-A-20260718-DACS Focus Sessions](../DEP-A-20260718-DACS%20Focus%20Sessions/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.07911-whitepaper-review.md`](../DEP-A-20260718-DACS%20Focus%20Sessions/2604.07911-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration* | Nickson Patel | [arXiv:2604.07911v1](https://arxiv.org/abs/2604.07911v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07911) |
+
+
+## [DEP-A-20260718-SmoothAgent Lookahead](../DEP-A-20260718-SmoothAgent%20Lookahead/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00151-whitepaper-review.md`](../DEP-A-20260718-SmoothAgent%20Lookahead/2607.00151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering* | Zaifeng Pan; Qianxu Wang; Zhengding Hu; Chang Chen; Yue Guan; Yanbo Zhou; Steven Swanson; Yufei Ding | [arXiv:2607.00151v1](https://arxiv.org/abs/2607.00151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00151) |
+
+
+## [DEP-A-20260718-ViCoStream Pipeline](../DEP-A-20260718-ViCoStream%20Pipeline/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.19849-whitepaper-review.md`](../DEP-A-20260718-ViCoStream%20Pipeline/2606.19849-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference* | Yang Tan; Junlong Tong; Linan Yue; Hao Wu; Pengfei Fang; Xiaoyu Shen | [arXiv:2606.19849v1](https://arxiv.org/abs/2606.19849v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19849) |
+
+
+## [DEP-A-20260718-DASH Token Halting](../DEP-A-20260718-DASH%20Token%20Halting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.18103-whitepaper-review.md`](../DEP-A-20260718-DASH%20Token%20Halting/2604.18103-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stability Implies Redundancy: Delta Attention Selective Halting for Efficient Long-Context Prefilling* | Yujie Chen; Tailai Chen; Yifeng Gao; Zoe Wanying He; Yijue Xu; Shaobo Wang; Linfeng Zhang | [arXiv:2604.18103v2](https://arxiv.org/abs/2604.18103v2) - [DOI](https://doi.org/10.48550/arXiv.2604.18103) |
+
+
+## [DEP-A-20260718-Keyless Attention](../DEP-A-20260718-Keyless%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.21848-whitepaper-review.md`](../DEP-A-20260718-Keyless%20Attention/2606.21848-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Keyless Attention: Value-Space Routing and Value-Only Caching for Efficient Transformers* | Xin Gao | [arXiv:2606.21848v1](https://arxiv.org/abs/2606.21848v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21848) |
+
+
+## [DEP-A-20260718-COBS Sparse Attention](../DEP-A-20260718-COBS%20Sparse%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.09052-whitepaper-review.md`](../DEP-A-20260718-COBS%20Sparse%20Attention/2607.09052-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *COBS: Cumulant Order Block Sparse Attention* | Alexander Tian; Aditya Ghai; Sanjit Neelam; Zaal Vasania; Akshay Mishra | [arXiv:2607.09052v1](https://arxiv.org/abs/2607.09052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09052) |
+
+
+## [DEP-A-20260718-Jet Long Bifocal RoPE](../DEP-A-20260718-Jet%20Long%20Bifocal%20RoPE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.07740-whitepaper-review.md`](../DEP-A-20260718-Jet%20Long%20Bifocal%20RoPE/2607.07740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE* | Haozhan Tang; Zerui Wang; Yuxian Gu; Song Han; Han Cai | [arXiv:2607.07740v2](https://arxiv.org/abs/2607.07740v2) - [DOI](https://doi.org/10.48550/arXiv.2607.07740) |
