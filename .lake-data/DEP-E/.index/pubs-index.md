@@ -611,6 +611,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Partitioning signal classes using transport transforms for data analysis and machine learning* | Akram Aldroubi; Shiying Li; Gustavo K. Rohde | [arXiv:2008.03452v2](https://arxiv.org/abs/2008.03452v2) · [DOI](https://doi.org/10.1007/s43670-021-00009-z) |
 
+## [DEP-E-20260719-MA-VLM PNU Moderation](../DEP-E-20260719-MA-VLM%20PNU%20Moderation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection* | Han Wang et al. | [arXiv:2511.13759v1](https://arxiv.org/abs/2511.13759v1) - [DOI](https://doi.org/10.48550/arXiv.2511.13759) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
