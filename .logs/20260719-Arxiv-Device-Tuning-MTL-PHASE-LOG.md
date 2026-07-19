@@ -25,7 +25,9 @@ Durations are rounded elapsed observations; estimates guide trajectory review ra
 | Source, equation, table, figure, workshop, successor, and code review | 25 min | about 18 min | Complete | Four-page paper fully screened; all pages visually inspected; official workshop/successor records and code availability checked |
 | Related DEP exploration and exact-three synthesis | 8 min | about 4 min | Complete | Edge Cloud Split, K Token Merging, and DMNN Conditional Paths inspected |
 | Public artifact drafting, publication index, and dedup preparation | 30 min | about 24 min | Complete | Logs, Report-Mark, schema-complete manuscript, DEP README, publication row, and pointer prepared |
-| Validation, staged allowlist, commit/push, notification, and final record | 15 min | Pending final record | In progress | Repository and notification results are filled after verification |
+| Validation, staged allowlist, commit/push, notification, and final record | 15 min | about 12 min | Complete | Seven-path allowlist, remote parity, Slack delivery, and public pointer finalization verified |
+
+The rounded observed total was about 82 minutes, below the 90-120 minute guidance because the complete paper is four pages and the first repair transfers succeeded. The short trajectory did not truncate paper-body, table, figure, source, related-DEP, or external-primary-record review.
 
 ## Extraction Cache
 
@@ -62,7 +64,7 @@ Durations are rounded elapsed observations; estimates guide trajectory review ra
 - Duplicate artifact matches: 0.
 - Reselections: 0.
 - Public pointer action: Add one unique entry with five artifact paths, public source URLs, source-repair/cache notes, and submission status.
-- Commit/PR reference: Pending remote verification.
+- Commit/PR reference: [`557cf5d`](https://github.com/Delphoa/Black-Lake/commit/557cf5d31ed0032be314e19a7f58108a1b9a0eaa).
 
 ## Expected vs Observed Trajectory
 
@@ -71,14 +73,14 @@ Durations are rounded elapsed observations; estimates guide trajectory review ra
 - Cache extraction substantially beat its estimate because the repaired unit supplied compatible PDF, HTML, and tar sources to all three local extractors.
 - Full review finished within estimate because the paper is four pages, but it still included complete text/source inspection, visual inspection of every page, two tables, two figures, equations, references, official workshop context, successor context, and a focused code search.
 - The review did not smooth over missing evidence: multi-task behavior, gradient normalization, training settings, and device/cloud system costs remain explicit gaps.
-- Final submission work remains open only until validation, the staged source-upload gate, remote verification, and Slack read-back complete.
+- Final submission completed within estimate: validation, the exact seven-path staged source-upload gate, direct push, remote parity, Slack delivery, and final pointer preparation all succeeded.
 
 ## Submission and Notification
 
-- Repository status: Pending verified submission.
-- Primary artifact commit/PR: Pending.
-- Slack status: Pending notification to `#black-lake-artifacts` after repository submission.
-- Source-upload gate: Must pass before any commit; no source file, cache, extracted text, review rendering, or `.source/` directory is allowed.
+- Repository status: Direct default-branch submission succeeded; remote head matched the primary artifact commit after push.
+- Primary artifact commit: [`557cf5d`](https://github.com/Delphoa/Black-Lake/commit/557cf5d31ed0032be314e19a7f58108a1b9a0eaa).
+- Slack status: Notification delivered to [`#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784449256573979).
+- Source-upload gate: Passed. No source file, cache, extracted text, review rendering, local archive record, or `.source/` directory was uploaded.
 
 ## Shortfalls and Follow-Up
 
@@ -89,3 +91,4 @@ Durations are rounded elapsed observations; estimates guide trajectory review ra
 - No FLOP, latency, throughput, memory, energy, bandwidth, serialized-byte, privacy, outage, or tail-behavior measurement is reported.
 - Table 2 compares widely different parameter counts, so it is not a clean matched-budget efficiency frontier.
 - PDF rendering emitted nonfatal font warnings, but the two figures, equations, and two tables remained legible.
+- Submission, remote verification, Slack notification, and public pointer finalization completed without a blocker.

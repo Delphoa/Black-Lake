@@ -5,8 +5,10 @@
 - Action: Uniformly selected, source-repaired, verified, reviewed, synthesized, and prepared a DEP-E research deposit for *Device Tuning for Multi-Task Large Model*.
 - Inputs: Verified complete arXiv PDF, approved full-paper HTML fallback, TeX/source archive, metadata, official workshop record, focused implementation search, successor publication context, and exactly three related Black Lake DEP entries. Original source documents and derivatives were withheld locally.
 - Outputs: `.reports/BL-Arxiv-Device-Tuning-MTL-20260719/Report-Mark.md`, `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/README.md`, `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`, `.lake-data/DEP-E/.index/pubs-index.md`, and `.staging/arxiv-dep-dedup-index.json`.
-- Outcome: Public artifact preparation complete; repository submission and notification are recorded after remote verification.
-- Blockers: None at artifact-preparation time.
+- Outcome: Deposited directly to the Black Lake default branch and announced in `#black-lake-artifacts`.
+- Primary artifact commit: [`557cf5d`](https://github.com/Delphoa/Black-Lake/commit/557cf5d31ed0032be314e19a7f58108a1b9a0eaa).
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784449256573979.
+- Blockers: None.
 
 ## Random Selection and Deduplication
 
@@ -64,7 +66,9 @@
 - Source-upload denylist: PDFs, HTML, metadata pages, TeX/source archives, cache records, extracted source text, temporary renderings, local archive paths, and `.source/` directories.
 - Public safety: No local absolute path, username, home directory, drive path, machine name, exact execution timestamp, or local timezone label is permitted.
 - Source policy: Source files were retained locally and withheld. No `.source/` directory was created.
-- Commit/PR and Slack records: Added only after the staged allowlist, remote submission, and notification are verified.
+- Staged allowlist: Passed with exactly seven public artifact/index paths and zero source-file or derivative paths.
+- Repository submission: Direct default-branch push succeeded and the remote head matched the primary artifact commit.
+- Slack notification: Delivered after repository submission with public URLs and repository-relative paths only.
 
 ## Next-Review Questions
 

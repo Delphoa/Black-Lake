@@ -986,7 +986,7 @@
       ],
       "arxiv_base_id": "2302.10820",
       "arxiv_id": "2302.10820v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/557cf5d31ed0032be314e19a7f58108a1b9a0eaa",
       "deposit_date": "20260719",
       "doi": "10.48550/arXiv.2302.10820",
       "normalized_title": "Device Tuning for Multi-Task Large Model",
@@ -1001,7 +1001,7 @@
         "https://openaccess.thecvf.com/content/CVPR2023W/MobileAI/html/Jiang_High-Efficiency_Device-Cloud_Collaborative_Transformer_Model_CVPRW_2023_paper.html",
         "https://sites.google.com/view/dai-2023/accepted-papers"
       ],
-      "status": "submission_pending"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
