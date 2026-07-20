@@ -757,4 +757,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *DUET: Dual Model Co-Training for Entire Space CTR Prediction* | Yutian Xiao; Meng Yuan; Fuzhen Zhuang; Wei Chen; Shukuan Wang; Shanqi Liu; Chao Feng; Wenhui Yu; Xiang Li; Lantao Hu; Han Li; Zhao Zhang | [arXiv:2510.24369v1](https://arxiv.org/abs/2510.24369v1) - [DOI](https://doi.org/10.48550/arXiv.2510.24369) |
 
+## [DEP-E-20260720-Flash Loan Ecosystem](../DEP-E-20260720-Flash%20Loan%20Ecosystem/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem* | Dabao Wang; Siwei Wu; Ziling Lin; Lei Wu; Xingliang Yuan; Yajin Zhou; Haoyu Wang; Kui Ren | [arXiv:2010.12252v3](https://arxiv.org/abs/2010.12252v3) - [DOI](https://doi.org/10.1145/3457977.3460301) |
+
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
