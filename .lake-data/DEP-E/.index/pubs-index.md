@@ -672,6 +672,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction* | Wentao Ouyang; Xiuwu Zhang; Lei Zhao; Jinmei Luo; Yu Zhang; Heng Zou; Zhaojie Liu; Yanlong Du | [arXiv:2008.02974v1](https://arxiv.org/abs/2008.02974v1) - [DOI](https://doi.org/10.48550/arXiv.2008.02974) |
 
+## [DEP-E-20260719-Semantic Skill MoE](../DEP-E-20260719-Semantic%20Skill%20MoE/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation* | Chengyu Deng; Guanqi Chen; Yizhou Chen; Zejia Liu; Zhiwen Ruan; Guanhua Chen; Jia Pan | [arXiv:2605.23477v1](https://arxiv.org/abs/2605.23477v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23477) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
