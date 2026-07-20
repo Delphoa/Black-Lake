@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **178 publications across 93 DEP-E entries** (174 arXiv records and 4 other research publications).
+- Current coverage: **186 publications across 100 DEP-E entries** (182 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-20; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260720-VaTD Canonical](../DEP-E-20260720-VaTD%20Canonical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep generative modelling of canonical ensemble with differentiable thermal properties* | Shuo-Hui Li; Yao-Wen Zhang; Ding Pan | [arXiv:2404.18404v2](https://arxiv.org/abs/2404.18404v2) - [DOI](https://doi.org/10.1103/8wx7-kyx8) |
 
 ## [DEP-E-20260719-Device Tuning MTL](../DEP-E-20260719-Device%20Tuning%20MTL/README.md)
 
