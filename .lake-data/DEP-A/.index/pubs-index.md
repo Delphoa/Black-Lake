@@ -2415,3 +2415,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair* | Chiwang Luk; Matin Mohammad Najafi; Zhifeng Jia; Wei Yang; Xiuchang Li; Jinwei Zhu; Yang Ren; Lei Chen; Gao Cong | [arXiv:2607.01916v3](https://arxiv.org/abs/2607.01916v3) - [DOI](https://doi.org/10.48550/arXiv.2607.01916) |
+
+
+## [DEP-A-20260720-Korean Token Pruning](../DEP-A-20260720-Korean%20Token%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2604.16235-whitepaper-review.md`](../DEP-A-20260720-Korean%20Token%20Pruning/2604.16235-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Korean-Centric LLMs via Token Pruning* | Hoyeol Kim; Hyeonwoo Kim | [arXiv:2604.16235v1](https://arxiv.org/abs/2604.16235v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16235) |
+
+
+## [DEP-A-20260720-AsymVLM Pruning](../DEP-A-20260720-AsymVLM%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2605.29535-whitepaper-review.md`](../DEP-A-20260720-AsymVLM%20Pruning/2605.29535-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AsymVLM: Asymmetric Token Pruning for Efficient Vision-Language Model Inference* | Yilin Feng; Ahmed Burak Gulhan; Mahmut Taylan Kandemir | [arXiv:2605.29535v1](https://arxiv.org/abs/2605.29535v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29535) |
+
+
+## [DEP-A-20260720-OccamToken Pruning](../DEP-A-20260720-OccamToken%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2605.29657-whitepaper-review.md`](../DEP-A-20260720-OccamToken%20Pruning/2605.29657-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning* | Geng Li; Guohao Chen; Ting Chen; Shilin Shan; Kuangji Zuo; Bofan Lyu; Tuo An; Gen Li; Jianfei Yang | [arXiv:2605.29657v1](https://arxiv.org/abs/2605.29657v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29657) |
+
+
+## [DEP-A-20260720-HeadRouter Audio](../DEP-A-20260720-HeadRouter%20Audio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2604.23717-whitepaper-review.md`](../DEP-A-20260720-HeadRouter%20Audio/2604.23717-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HeadRouter: Dynamic Head-Weight Routing for Task-Adaptive Audio Token Pruning in Large Audio Language Models* | Peize He; Yaodi Luo; Xiaoqian Liu; Xuyang Liu; Jiahang Deng; Yaosong Du; Bangyu Li; Xiyan Gui; Yuxuan Chen; Linfeng Zhang | [arXiv:2604.23717v1](https://arxiv.org/abs/2604.23717v1) - [DOI](https://doi.org/10.48550/arXiv.2604.23717) |
+
+
+## [DEP-A-20260720-LRCP Visual Tokens](../DEP-A-20260720-LRCP%20Visual%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2605.15621-whitepaper-review.md`](../DEP-A-20260720-LRCP%20Visual%20Tokens/2605.15621-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LRCP: Low-Rank Compressibility Guided Visual Token Pruning for Efficient LVLMs* | Hongyu Lu; Feng Zhang; Wenwei Jin; Huanling Hu; Tianjun Shi; Shikai Jiang; Yao Hu; Jiawei Li | [arXiv:2605.15621v1](https://arxiv.org/abs/2605.15621v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15621) |
