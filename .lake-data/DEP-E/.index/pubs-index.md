@@ -721,6 +721,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Entries without indexed research publications
 
+## [DEP-E-20260720-VG Navigable Space](../DEP-E-20260720-VG%20Navigable%20Space/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visual-Geometry GP-based Navigable Space for Autonomous Navigation* | Mahmoud Ali; Durgkant Pushp; Zheng Chen; Lantao Liu | [arXiv:2407.06545v1](https://arxiv.org/abs/2407.06545v1) - [DOI](https://doi.org/10.48550/arXiv.2407.06545) |
+
 ## [DEP-E-20260720-Decentralized SSL](../DEP-E-20260720-Decentralized%20SSL/README.md)
 
 | Publication | Authors or credited organization | Canonical record |

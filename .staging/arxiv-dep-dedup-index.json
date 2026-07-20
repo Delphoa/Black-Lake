@@ -1403,6 +1403,24 @@
       "slug": "Decentralized-SSL",
       "source_urls": ["https://arxiv.org/abs/2111.10763", "https://ar5iv.labs.arxiv.org/html/2111.10763", "https://arxiv.org/pdf/2111.10763", "https://doi.org/10.48550/arXiv.2111.10763"],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-VG Navigable Space",
+        ".logs/20260720-Arxiv-VG-Navigable-Space-LOG.md",
+        ".reports/BL-Arxiv-VG-Navigable-Space-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.06545",
+      "arxiv_id": "2407.06545v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2407.06545",
+      "normalized_title": "Visual-Geometry GP-based Navigable Space for Autonomous Navigation",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P08; first uniform draw; official full-paper repair verified; all source files withheld locally.",
+      "slug": "VG-Navigable-Space",
+      "source_urls": ["https://arxiv.org/abs/2407.06545", "https://arxiv.org/html/2407.06545", "https://arxiv.org/pdf/2407.06545", "https://doi.org/10.48550/arXiv.2407.06545"],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
