@@ -655,6 +655,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation* | Zhipeng Bian; Jieming Zhu; Xuyang Xie; Quanyu Dai; Zhou Zhao; Zhenhua Dong | [arXiv:2509.13773v1](https://arxiv.org/abs/2509.13773v1) - [DOI](https://doi.org/10.48550/arXiv.2509.13773) |
 
+## [DEP-E-20260719-Business What If](../DEP-E-20260719-Business%20What%20If/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What-if Analysis for Business Professionals: Current Practices and Future Opportunities* | Sneha Gathani; Zhicheng Liu; Peter J. Haas; Çağatay Demiralp | [arXiv:2212.13643v4](https://arxiv.org/abs/2212.13643v4) - [DOI](https://doi.org/10.48550/arXiv.2212.13643) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
