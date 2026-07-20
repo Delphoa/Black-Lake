@@ -2325,3 +2325,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Geometry-Guided 3D Visual Token Pruning for Video-Language Models* | Han Li; Zehao Huang; Jiahui Fu; Naiyan Wang; Si Liu | [arXiv:2604.18260v1](https://arxiv.org/abs/2604.18260v1) - [DOI](https://doi.org/10.48550/arXiv.2604.18260) |
+
+
+## [DEP-A-20260721-CATP Camouflage](../DEP-A-20260721-CATP%20Camouflage/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.16854-whitepaper-review.md`](../DEP-A-20260721-CATP%20Camouflage/2604.16854-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection* | Yuhan Gao; Shuhao Kang; Xin He; Bing Li; Xu Cheng; Yun Liu | [arXiv:2604.16854v1](https://arxiv.org/abs/2604.16854v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16854) |
+
+
+## [DEP-A-20260721-DocPrune Document QA](../DEP-A-20260721-DocPrune%20Document%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.22281-whitepaper-review.md`](../DEP-A-20260721-DocPrune%20Document%20QA/2604.22281-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning* | Joonmyung Choi; Sanghyeok Lee; Jongha Kim; Sehyung Kim; Dohwan Ko; Jihyung Kil; Hyunwoo J. Kim | [arXiv:2604.22281v1](https://arxiv.org/abs/2604.22281v1) - [DOI](https://doi.org/10.48550/arXiv.2604.22281) |
+
+
+## [DEP-A-20260721-LearnPruner VLM](../DEP-A-20260721-LearnPruner%20VLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.23950-whitepaper-review.md`](../DEP-A-20260721-LearnPruner%20VLM/2604.23950-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LearnPruner: Rethinking Attention-based Token Pruning in Vision Language Models* | Rinyoichi Takezoe; Yaqian Li; Zihao Bo; Anzhou Hou; Mo Guang; Kaiwen Long | [arXiv:2604.23950v1](https://arxiv.org/abs/2604.23950v1) - [DOI](https://doi.org/10.48550/arXiv.2604.23950) |
+
+
+## [DEP-A-20260721-SmolMamba Vision](../DEP-A-20260721-SmolMamba%20Vision/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.25570-whitepaper-review.md`](../DEP-A-20260721-SmolMamba%20Vision/2604.25570-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models* | Dewei Bai; Hongxiang Peng; Yunyun Zeng; Ziyu Zhang; Hong Qu; Yi Zhang | [arXiv:2604.25570v1](https://arxiv.org/abs/2604.25570v1) - [DOI](https://doi.org/10.48550/arXiv.2604.25570) |
+
+
+## [DEP-A-20260721-G2C Document MT](../DEP-A-20260721-G2C%20Document%20MT/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.03078-whitepaper-review.md`](../DEP-A-20260721-G2C%20Document%20MT/2606.03078-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *G^2C-MT: Graph-Guided Context Selection for Document-Level Machine Translation* | Baijun Ji; Zixuan Zhou; Xiangyu Duan; Yu Liu; Longbo Sun; Rupu Wei; Bohong Zhao | [arXiv:2606.03078v1](https://arxiv.org/abs/2606.03078v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03078) |
