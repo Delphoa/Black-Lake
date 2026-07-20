@@ -649,6 +649,11 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory* | Yue Fang; Zhibang Yang; Fangkai Yang; Xiaoting Qin; Liqun Li; Qingwei Lin; Saravan Rajmohan; Dongmei Zhang | [arXiv:2607.11126v1](https://arxiv.org/abs/2607.11126v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11126) |
 | *NVAITC AI Scientist: A Governed End-to-End Research System - A Hypertension GWAS Case Study* | Eddie Huang; Ken Liao; Iven Fu et al. | [arXiv:2607.11084v1](https://arxiv.org/abs/2607.11084v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11084) |
 | *CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery* | Jungho Oh; Woosung Kim; Dong Hyeon Mok; Jonggeol Na; Seoin Back | [arXiv:2607.11712v1](https://arxiv.org/abs/2607.11712v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11712) |
+## [DEP-E-20260719-MIRA One Touch](../DEP-E-20260719-MIRA%20One%20Touch/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation* | Zhipeng Bian; Jieming Zhu; Xuyang Xie; Quanyu Dai; Zhou Zhao; Zhenhua Dong | [arXiv:2509.13773v1](https://arxiv.org/abs/2509.13773v1) - [DOI](https://doi.org/10.48550/arXiv.2509.13773) |
 
 ## Entries without indexed research publications
 

@@ -1094,6 +1094,29 @@
         "https://doi.org/10.48550/arXiv.2603.10886"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-MIRA One Touch",
+        ".logs/20260719-Arxiv-MIRA-One-Touch-LOG.md",
+        ".reports/BL-Arxiv-MIRA-One-Touch-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.13773",
+      "arxiv_id": "2509.13773v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2509.13773",
+      "normalized_title": "MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P05; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "MIRA-One-Touch",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.13773",
+        "https://arxiv.org/html/2509.13773",
+        "https://arxiv.org/pdf/2509.13773",
+        "https://doi.org/10.48550/arXiv.2509.13773"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
