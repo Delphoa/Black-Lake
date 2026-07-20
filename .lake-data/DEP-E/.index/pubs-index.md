@@ -666,6 +666,11 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CFE2: Counterfactual Editing for Search Result Explanation* | Zhichao Xu; Hemank Lamba; Qingyao Ai; Joel Tetreault; Alex Jaimes | [arXiv:2301.10389v3](https://arxiv.org/abs/2301.10389v3) - [DOI](https://doi.org/10.1145/3664190.3672508) |
+## [DEP-E-20260719-MiNet CTR Transfer](../DEP-E-20260719-MiNet%20CTR%20Transfer/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction* | Wentao Ouyang; Xiuwu Zhang; Lei Zhao; Jinmei Luo; Yu Zhang; Heng Zou; Zhaojie Liu; Yanlong Du | [arXiv:2008.02974v1](https://arxiv.org/abs/2008.02974v1) - [DOI](https://doi.org/10.48550/arXiv.2008.02974) |
 
 ## Entries without indexed research publications
 
