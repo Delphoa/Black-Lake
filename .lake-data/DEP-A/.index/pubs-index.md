@@ -2415,3 +2415,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction* | Zecheng Tang; Jiaye Fu; Qiankun Gao; Haijie Li; Yanmin Wu; Jiaqi Zhang; Siwei Ma; Jian Zhang | [arXiv:2605.06270v2](https://arxiv.org/abs/2605.06270v2) - [DOI](https://doi.org/10.48550/arXiv.2605.06270) |
+
+
+## [DEP-A-20260721-SToP Video Tokens](../DEP-A-20260721-SToP%20Video%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.20937-whitepaper-review.md`](../DEP-A-20260721-SToP%20Video%20Tokens/2604.20937-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs* | Kibum Kim; Jiwan Kim; Kyle Min; Yueqi Wang; Jinyoung Moon; Julian McAuley; Chanyoung Park | [arXiv:2604.20937v2](https://arxiv.org/abs/2604.20937v2) - [DOI](https://doi.org/10.48550/arXiv.2604.20937) |
+
+
+## [DEP-A-20260721-Legal Doc Navigation](../DEP-A-20260721-Legal%20Doc%20Navigation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.05764-whitepaper-review.md`](../DEP-A-20260721-Legal%20Doc%20Navigation/2607.05764-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents* | Mahmoud Hany; Mourad ElSheraey; Mahmoud Said; Peter Naoum | [arXiv:2607.05764v1](https://arxiv.org/abs/2607.05764v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05764) |
+
+
+## [DEP-A-20260721-Code Retrieval Quality](../DEP-A-20260721-Code%20Retrieval%20Quality/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.09161-whitepaper-review.md`](../DEP-A-20260721-Code%20Retrieval%20Quality/2607.09161-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Semantic and Quality-Aware Retrieval for Source Code Repositories* | Marek Horváth; Emília Pietriková | [arXiv:2607.09161v1](https://arxiv.org/abs/2607.09161v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09161) |
+
+
+## [DEP-A-20260721-Video Music Retrieval](../DEP-A-20260721-Video%20Music%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.05971-whitepaper-review.md`](../DEP-A-20260721-Video%20Music%20Retrieval/2607.05971-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Video-to-Music Recommendation via Semantic Retrieval and Temporal Reranking* | Seungheon Doh; Minhee Lee; Sangmoon Lee; Ben Sangbae Chon; Juhan Nam | [arXiv:2607.05971v1](https://arxiv.org/abs/2607.05971v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05971) |
+
+
+## [DEP-A-20260721-Semantic Planning](../DEP-A-20260721-Semantic%20Planning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.09540-whitepaper-review.md`](../DEP-A-20260721-Semantic%20Planning/2607.09540-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale* | Changhong Jin; Shiqiu Yang; Roger Zhe Li; Yingjie Niu; Aghiles Salah; Mete Sertkan; Zheng Ju; Xingsheng Guo; Huifeng Guo; Ruihai Dong; Barry Smyth | [arXiv:2607.09540v2](https://arxiv.org/abs/2607.09540v2) - [DOI](https://doi.org/10.48550/arXiv.2607.09540) |
