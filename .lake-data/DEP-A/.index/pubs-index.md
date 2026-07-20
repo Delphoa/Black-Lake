@@ -2325,3 +2325,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation* | Hongyu Qu; Jianzhe Gao; Xiaobin Hu; Shaohuan Yang; Xinlei Yu; Rui Yan; Wenguan Wang; Xiangbo Shu; Shuicheng Yan | [arXiv:2607.07608v1](https://arxiv.org/abs/2607.07608v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07608) |
+
+
+## [DEP-A-20260720-SubtleMemory Relations](../DEP-A-20260720-SubtleMemory%20Relations/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.05761-whitepaper-review.md`](../DEP-A-20260720-SubtleMemory%20Relations/2606.05761-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents* | Wenxuan Wang; Haoyu Sun; Fukuan Hou; Mingyang Song; Weinan Zhang; Yu Cheng; Yang Yang | [arXiv:2606.05761v2](https://arxiv.org/abs/2606.05761v2) - [DOI](https://doi.org/10.48550/arXiv.2606.05761) |
+
+
+## [DEP-A-20260720-GeneralVLA Governed](../DEP-A-20260720-GeneralVLA%20Governed/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.17480-whitepaper-review.md`](../DEP-A-20260720-GeneralVLA%20Governed/2606.17480-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning* | Haoyu Wang; Guoqing Ma; Zeyu Zhang; Yandong Guo; Boxin Shi; Hao Tang | [arXiv:2606.17480v1](https://arxiv.org/abs/2606.17480v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17480) |
+
+
+## [DEP-A-20260720-Memory Value Model](../DEP-A-20260720-Memory%20Value%20Model/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.12945-whitepaper-review.md`](../DEP-A-20260720-Memory%20Value%20Model/2606.12945-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory* | Zhibao Chen; Qian Cheng | [arXiv:2606.12945v2](https://arxiv.org/abs/2606.12945v2) - [DOI](https://doi.org/10.48550/arXiv.2606.12945) |
+
+
+## [DEP-A-20260720-MemGate Trust Filter](../DEP-A-20260720-MemGate%20Trust%20Filter/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.06054-whitepaper-review.md`](../DEP-A-20260720-MemGate%20Trust%20Filter/2606.06054-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Similarity: Trustworthy Memory Search for Personal AI Agents* | Jiawen Zhang; Kejia Chen; Jiachen Ma; Yangfan Hu; Lipeng He; Yechao Zhang; Jian Liu; Xiaohu Yang; Tianwei Zhang; Ruoxi Jia | [arXiv:2606.06054v1](https://arxiv.org/abs/2606.06054v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06054) |
+
+
+## [DEP-A-20260720-Deployment Memorization](../DEP-A-20260720-Deployment%20Memorization/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.10062-whitepaper-review.md`](../DEP-A-20260720-Deployment%20Memorization/2606.10062-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deployment-Time Memorization in Foundation-Model Agents* | Chen; Guilin Zhang; Kai Zhao; Dalmo Cirne; Andy Olsen; Xu Chu; Zeke Miller; Alet Blanken; Amine Anoun; Jerry Ting | [arXiv:2606.10062v2](https://arxiv.org/abs/2606.10062v2) - [DOI](https://doi.org/10.48550/arXiv.2606.10062) |
