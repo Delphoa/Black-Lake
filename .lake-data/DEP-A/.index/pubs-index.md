@@ -2280,3 +2280,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent* | Amin Tabrizian; Arsyi Aziz; Aarifah Ullah; Mahyar Ghazanfari; Pouria Razzaghi; Peng Wei | [arXiv:2607.06964v1](https://arxiv.org/abs/2607.06964v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06964) |
+
+
+## [DEP-A-20260720-RAVEN Visual Memory](../DEP-A-20260720-RAVEN%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.25206-whitepaper-review.md`](../DEP-A-20260720-RAVEN%20Visual%20Memory/2606.25206-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory* | Yixun Hu; Zhicheng Zheng; Lihan Zha; Chunwei Xing; Rajdeep Singh; Omar Hossain; Antonio Loquercio; Dhruv Shah | [arXiv:2606.25206v1](https://arxiv.org/abs/2606.25206v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25206) |
+
+
+## [DEP-A-20260720-DMV Visual Memory](../DEP-A-20260720-DMV%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.27499-whitepaper-review.md`](../DEP-A-20260720-DMV%20Visual%20Memory/2606.27499-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection* | Yujin Tang; Chenming Shang; Ruize Xu; Nikhil Singh | [arXiv:2606.27499v1](https://arxiv.org/abs/2606.27499v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27499) |
+
+
+## [DEP-A-20260720-HyphaeDB Gossip](../DEP-A-20260720-HyphaeDB%20Gossip/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.28781-whitepaper-review.md`](../DEP-A-20260720-HyphaeDB%20Gossip/2606.28781-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyphaeDB: A Living Knowledge Topology for Agent-First Memory* | Krishna Halaharvi | [arXiv:2606.28781v1](https://arxiv.org/abs/2606.28781v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28781) |
+
+
+## [DEP-A-20260720-Echo World Memory](../DEP-A-20260720-Echo%20World%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.09803-whitepaper-review.md`](../DEP-A-20260720-Echo%20World%20Memory/2606.09803-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Echo-Memory: A Controlled Study of Memory in Action World Models* | Wayne King; Zeyue Xue; Yuxuan Bian; Jie Huang; Haoran Li; Yaowei Li; Yaofeng Su; Yuming Li; Haoyu Wang; Shiyi Zhang; Songchun Zhang; Yuwei Niu; Sihan Xu; Junhao Zhuang; Haoyang Huang; Nan Duan | [arXiv:2606.09803v1](https://arxiv.org/abs/2606.09803v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09803) |
+
+
+## [DEP-A-20260720-LaMem Latent VLA](../DEP-A-20260720-LaMem%20Latent%20VLA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2607.07608-whitepaper-review.md`](../DEP-A-20260720-LaMem%20Latent%20VLA/2607.07608-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation* | Hongyu Qu; Jianzhe Gao; Xiaobin Hu; Shaohuan Yang; Xinlei Yu; Rui Yan; Wenguan Wang; Xiangbo Shu; Shuicheng Yan | [arXiv:2607.07608v1](https://arxiv.org/abs/2607.07608v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07608) |
