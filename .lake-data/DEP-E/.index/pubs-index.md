@@ -678,6 +678,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation* | Chengyu Deng; Guanqi Chen; Yizhou Chen; Zejia Liu; Zhiwen Ruan; Guanhua Chen; Jia Pan | [arXiv:2605.23477v1](https://arxiv.org/abs/2605.23477v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23477) |
 
+## [DEP-E-20260720-AR-Drag Motion](../DEP-E-20260720-AR-Drag%20Motion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Real-Time Motion-Controllable Autoregressive Video Diffusion* | Kesen Zhao; Jiaxin Shi; Beier Zhu; Junbao Zhou; Xiaolong Shen; Yuan Zhou; Qianru Sun; Hanwang Zhang | [arXiv:2510.08131v3](https://arxiv.org/abs/2510.08131v3) - [DOI](https://doi.org/10.48550/arXiv.2510.08131) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
