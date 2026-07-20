@@ -721,6 +721,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Entries without indexed research publications
 
+## [DEP-E-20260720-FEMOT Tracking](../DEP-E-20260720-FEMOT%20Tracking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FEMOT: Multi-Object Tracking using Frame and Event Cameras* | Shiao Wang; Xiao Wang; Chao Wang; Yitao Li; Menghao Liu; Bo Jiang; Yaowei Wang; Yonghong Tian; Jin Tang | [arXiv:2606.14094v1](https://arxiv.org/abs/2606.14094v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14094) |
+
 ## [DEP-E-20260719-DUET Setwise CTR](../DEP-E-20260719-DUET%20Setwise%20CTR/README.md)
 
 | Publication | Authors or credited organization | Canonical record |
