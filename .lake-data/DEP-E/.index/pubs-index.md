@@ -661,6 +661,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *What-if Analysis for Business Professionals: Current Practices and Future Opportunities* | Sneha Gathani; Zhicheng Liu; Peter J. Haas; Çağatay Demiralp | [arXiv:2212.13643v4](https://arxiv.org/abs/2212.13643v4) - [DOI](https://doi.org/10.48550/arXiv.2212.13643) |
 
+## [DEP-E-20260720-CFE2 Search Explain](../DEP-E-20260720-CFE2%20Search%20Explain/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CFE2: Counterfactual Editing for Search Result Explanation* | Zhichao Xu; Hemank Lamba; Qingyao Ai; Joel Tetreault; Alex Jaimes | [arXiv:2301.10389v3](https://arxiv.org/abs/2301.10389v3) - [DOI](https://doi.org/10.1145/3664190.3672508) |
+
 ## Entries without indexed research publications
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
