@@ -105,6 +105,7 @@ Review status: substantively reviewed from the complete primary paper on 2026-07
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit* | Gregory Magarshak | [arXiv:2604.15356v1](https://arxiv.org/abs/2604.15356v1) · [DOI](https://doi.org/10.48550/arXiv.2604.15356) |
+
 ## [DEP-A-20260714-Mosaic Safety Review](../DEP-A-20260714-Mosaic%20Safety%20Review/README.md)
 
 Review status: substantively re-reviewed from the complete 11-page arXiv paper and public source package on 2026-07-14. The owning review artifact is [`mosaic-safety-intake-review.md`](../DEP-A-20260714-Mosaic%20Safety%20Review/mosaic-safety-intake-review.md).
@@ -287,7 +288,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *From Similarity to Structure: Training-free LLM Context Compression with Hybrid Graph Priors* | Yitian Zhou; Chaoning Zhang; Jiaquan Zhang; Zhenzhen Huang; Jinyu Guo; Sung-Ho Bae; Lik-Hang Lee; Caiyan Qin; Yang Yang | [arXiv:2604.23277v1](https://arxiv.org/abs/2604.23277v1) · [DOI](https://doi.org/10.48550/arXiv.2604.23277) |
 
-
 ## [DEP-A-20260715-ZipRL Context Compression](../DEP-A-20260715-ZipRL%20Context%20Compression/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.28069-whitepaper-review.md`](../DEP-A-20260715-ZipRL%20Context%20Compression/2605.28069-whitepaper-review.md).
@@ -295,7 +295,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ZipRL: Adaptive Multi-Turn Context Compression with Hindsight Response Replay* | Zhexin Hu; Li Wang; Xiaohan Wang; Jiajun Chai; Xiaojun Guo; Wei Lin; Guojun Yin | [arXiv:2605.28069v1](https://arxiv.org/abs/2605.28069v1) · [DOI](https://doi.org/10.48550/arXiv.2605.28069) |
-
 
 ## [DEP-A-20260715-TACO Terminal Context](../DEP-A-20260715-TACO%20Terminal%20Context/README.md)
 
@@ -305,7 +304,6 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 |---|---|---|
 | *A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression* | Jincheng Ren; Siwei Wu; Yizhi Li; Kang Zhu; Shu Xu; Boyu Feng; Ruibin Yuan; Wei Zhang; Riza Batista-Navarro; Jian Yang; Chenghua Lin | [arXiv:2604.19572v3](https://arxiv.org/abs/2604.19572v3) · [DOI](https://doi.org/10.48550/arXiv.2604.19572) |
 
-
 ## [DEP-A-20260715-Self-Correcting RAG](../DEP-A-20260715-Self-Correcting%20RAG/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.10734-whitepaper-review.md`](../DEP-A-20260715-Self-Correcting%20RAG/2604.10734-whitepaper-review.md).
@@ -313,7 +311,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Self-Correcting RAG: Enhancing Faithfulness via MMKP Context Selection and NLI-Guided MCTS* | Shijia Xu; Zhou Wu; Xiaolong Jia; Yu Wang; Kai Liu; April Xiaowen Dong | [arXiv:2604.10734v1](https://arxiv.org/abs/2604.10734v1) · [DOI](https://doi.org/10.48550/arXiv.2604.10734) |
-
 
 ## [DEP-A-20260715-Context-Intensive KV](../DEP-A-20260715-Context-Intensive%20KV/README.md)
 
@@ -371,7 +368,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor* | Ning Ni; Yingjie Lao | [arXiv:2606.17872v1](https://arxiv.org/abs/2606.17872v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17872) |
 
-
 ## [DEP-A-20260715-MuKV Video Cache](../DEP-A-20260715-MuKV%20Video%20Cache/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.22269-whitepaper-review.md`](../DEP-A-20260715-MuKV%20Video%20Cache/2605.22269-whitepaper-review.md).
@@ -379,7 +375,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering* | Junbin Xiao; Jiajun Chen; Tianxiang Sun; Xun Yang; Angela Yao | [arXiv:2605.22269v1](https://arxiv.org/abs/2605.22269v1) · [DOI](https://doi.org/10.48550/arXiv.2605.22269) |
-
 
 ## [DEP-A-20260715-Prompt Compression Wild](../DEP-A-20260715-Prompt%20Compression%20Wild/README.md)
 
@@ -389,7 +384,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference* | Cornelius Kummer; Lena Jurkschat; Michael Färber; Sahar Vahdati | [arXiv:2604.02985v1](https://arxiv.org/abs/2604.02985v1) · [DOI](https://doi.org/10.48550/arXiv.2604.02985) |
 
-
 ## [DEP-A-20260715-BEAVER Page Selection](../DEP-A-20260715-BEAVER%20Page%20Selection/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2603.19635-whitepaper-review.md`](../DEP-A-20260715-BEAVER%20Page%20Selection/2603.19635-whitepaper-review.md).
@@ -397,7 +391,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection* | Zhengpei Hu; Kai Li; Dapeng Fu; Chang Zeng; Yue Li; Yuanhao Tang; Jianqiang Huang | [arXiv:2603.19635v1](https://arxiv.org/abs/2603.19635v1) · [DOI](https://doi.org/10.48550/arXiv.2603.19635) |
-
 
 ## [DEP-A-20260715-Structured Thoughts](../DEP-A-20260715-Structured%20Thoughts/README.md)
 
@@ -415,7 +408,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs* | Gianluca Bonifazi; Christopher Buratti; Michele Marchetti; Federica Parlapiano; Giulia Quaglieri; Davide Traini; Domenico Ursino; Luca Virgili | [arXiv:2606.30093v1](https://arxiv.org/abs/2606.30093v1) · [DOI](https://doi.org/10.48550/arXiv.2606.30093) |
 
-
 ## [DEP-A-20260715-Info-Aware KV](../DEP-A-20260715-Info-Aware%20KV/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.26875-whitepaper-review.md`](../DEP-A-20260715-Info-Aware%20KV/2606.26875-whitepaper-review.md).
@@ -423,7 +415,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Information-Aware KV Cache Compression for Long Reasoning* | Jushi Kai; Zhuiri Xiao; Alexandra Birch; Zhouhan Lin | [arXiv:2606.26875v1](https://arxiv.org/abs/2606.26875v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26875) |
-
 
 ## [DEP-A-20260715-TrustMem Transitions](../DEP-A-20260715-TrustMem%20Transitions/README.md)
 
@@ -433,7 +424,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory* | Tianyu Yang; Sudipta Paul; Vijay Srinivasan; Vivek Kulkarni; Srinivas Chappidi | [arXiv:2606.25161v1](https://arxiv.org/abs/2606.25161v1) · [DOI](https://doi.org/10.48550/arXiv.2606.25161) |
 
-
 ## [DEP-A-20260715-RaMem Reinstatement](../DEP-A-20260715-RaMem%20Reinstatement/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.22844-whitepaper-review.md`](../DEP-A-20260715-RaMem%20Reinstatement/2606.22844-whitepaper-review.md).
@@ -441,7 +431,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RaMem: Contextual Reinstatement for Long-term Agentic Memory* | Wei Yang; Bryce Kan; Shixuan Li; Li Li; Yuehan Qin; Jiate Li; Paul Bogdan; Jesse Thomason | [arXiv:2606.22844v1](https://arxiv.org/abs/2606.22844v1) · [DOI](https://doi.org/10.48550/arXiv.2606.22844) |
-
 
 ## [DEP-A-20260715-MemTrace Benchmark](../DEP-A-20260715-MemTrace%20Benchmark/README.md)
 
@@ -459,7 +448,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *PolyKV: Heterogeneous Retention and Allocation for KV Cache Compression* | Chao Fei; Panos Kalnis | [arXiv:2606.15157v1](https://arxiv.org/abs/2606.15157v1) · [DOI](https://doi.org/10.48550/arXiv.2606.15157) |
 
-
 ## [DEP-A-20260715-STAR-KV Ranks](../DEP-A-20260715-STAR-KV%20Ranks/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.08382-whitepaper-review.md`](../DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md).
@@ -467,7 +455,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control* | Priyansh Bhatnagar; Ashkan Moradifirouzabadi; Se-Hyun Yang; SeungJae Lee; Jungwook Choi; Mingu Kang | [arXiv:2606.08382v1](https://arxiv.org/abs/2606.08382v1) · [DOI](https://doi.org/10.48550/arXiv.2606.08382) |
-
 
 ## [DEP-A-20260715-GRKV Regression](../DEP-A-20260715-GRKV%20Regression/README.md)
 
@@ -477,7 +464,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *GRKV: Global Regression for Training-Free KV Cache Compression in Long-Context LLMs* | Junjie Peng; You Wu; Haoyi Wu; Jialong Han; Xiaohua Xie; Kewei Tu; Jianhuang Lai | [arXiv:2605.31105v1](https://arxiv.org/abs/2605.31105v1) · [DOI](https://doi.org/10.48550/arXiv.2605.31105) |
 
-
 ## [DEP-A-20260715-BACO Co-Clustering](../DEP-A-20260715-BACO%20Co-Clustering/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2604.18351-whitepaper-review.md`](../DEP-A-20260715-BACO%20Co-Clustering/2604.18351-whitepaper-review.md).
@@ -485,7 +471,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems* | Runhao Jiang; Renchi Yang; Donghao Wu | [arXiv:2604.18351v1](https://arxiv.org/abs/2604.18351v1) · [DOI](https://doi.org/10.48550/arXiv.2604.18351) |
-
 
 ## [DEP-A-20260715-Auto-FlexSwitch](../DEP-A-20260715-Auto-FlexSwitch/README.md)
 
@@ -503,7 +488,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *A Brief Comparison of Training-Free Multi-Vector Sequence Compression Methods* | Rohan Jha; Chunsheng Zuo; Reno Kriz; Benjamin Van Durme | [arXiv:2603.22434v1](https://arxiv.org/abs/2603.22434v1) · [DOI](https://doi.org/10.48550/arXiv.2603.22434) |
 
-
 ## [DEP-A-20260715-Fictional Worldbuilding M](../DEP-A-20260715-Fictional%20Worldbuilding%20M/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.09403-whitepaper-review.md`](../DEP-A-20260715-Fictional%20Worldbuilding%20M/2607.09403-whitepaper-review.md).
@@ -511,7 +495,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review* | Jingbo Chen; He Wang; Wei Yuan; Yuqiao Lai; Zhenyan Lu | [arXiv:2607.09403v1](https://arxiv.org/abs/2607.09403v1) · [DOI](https://doi.org/10.48550/arXiv.2607.09403) |
-
 
 ## [DEP-A-20260715-Database Context Compress](../DEP-A-20260715-Database%20Context%20Compress/README.md)
 
@@ -521,7 +504,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Database Context Compression for Text-to-SQL on Real-World Large Databases* | Jingwen Liu; Weibin Liao; Xin Gao; Junfeng Zhao; Yasha Wang | [arXiv:2606.28601v1](https://arxiv.org/abs/2606.28601v1) · [DOI](https://doi.org/10.48550/arXiv.2606.28601) |
 
-
 ## [DEP-A-20260715-Context Compression Is No](../DEP-A-20260715-Context%20Compression%20Is%20No/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.14875-whitepaper-review.md`](../DEP-A-20260715-Context%20Compression%20Is%20No/2606.14875-whitepaper-review.md).
@@ -529,7 +511,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Context Compression Is Not One Thing: Readable Symbolic Re-expression vs. Coherent Summary at Matched Budget* | Sisong Bei; Mikhail L. Arbuzov; Ziwei Dong; Dmitri Kalaev; Alexey Shvets | [arXiv:2606.14875v1](https://arxiv.org/abs/2606.14875v1) · [DOI](https://doi.org/10.48550/arXiv.2606.14875) |
-
 
 ## [DEP-A-20260715-AGORA Adapter Grounded Ob](../DEP-A-20260715-AGORA%20Adapter%20Grounded%20Ob/README.md)
 
@@ -547,7 +528,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Elastic-dLLM: Position Preserving Context Compression and Augmentation of Diffusion LLMs* | Junyi Wu; Tianchen Zhao; Shaoqiu Zhang; Linfeng Zhang; Guohao Dai; Yu Wang | [arXiv:2605.18165v1](https://arxiv.org/abs/2605.18165v1) · [DOI](https://doi.org/10.48550/arXiv.2605.18165) |
 
-
 ## [DEP-A-20260715-From Token to Token](../DEP-A-20260715-From%20Token%20to%20Token/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.11774-whitepaper-review.md`](../DEP-A-20260715-From%20Token%20to%20Token/2605.11774-whitepaper-review.md).
@@ -555,7 +535,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction* | Mingcheng Zhu; Zhiyao Luo; Yu Liu; Tingting Zhu | [arXiv:2605.11774v1](https://arxiv.org/abs/2605.11774v1) · [DOI](https://doi.org/10.48550/arXiv.2605.11774) |
-
 
 ## [DEP-A-20260715-Telegraph English Semanti](../DEP-A-20260715-Telegraph%20English%20Semanti/README.md)
 
@@ -565,7 +544,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Telegraph English: Semantic Prompt Compression via Structured Symbolic Rewriting* | Mikhail L. Arbuzov; Sisong Bei; Ziwei Dong; Dmitri Kalaev; Alexey A. Shvets | [arXiv:2605.04426v1](https://arxiv.org/abs/2605.04426v1) · [DOI](https://doi.org/10.48550/arXiv.2605.04426) |
 
-
 ## [DEP-A-20260715-Mapping Text to Multiplex](../DEP-A-20260715-Mapping%20Text%20to%20Multiplex/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.01241-whitepaper-review.md`](../DEP-A-20260715-Mapping%20Text%20to%20Multiplex/2607.01241-whitepaper-review.md).
@@ -573,7 +551,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mapping Text to Multiplex Graph: Prompt Compression as L\'evy Walk-Guided Graph Pruning* | Yaxin Gao; Yao Lu; Jinhong Deng; Jiaqi Nie; Zhe Tang; Jian Zhang; Zhaowei Zhu; Shanqing Yu; Qi Xuan; Joey Tianyi Zhou | [arXiv:2607.01241v1](https://arxiv.org/abs/2607.01241v1) · [DOI](https://doi.org/10.48550/arXiv.2607.01241) |
-
 
 ## [DEP-A-20260715-Agent Assisted Side Chann](../DEP-A-20260715-Agent%20Assisted%20Side%20Chann/README.md)
 
@@ -591,7 +568,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving* | Quqing Zhang; Kai Chen; Ning Liao; Zehao Lin; Bo Tang; Feiyu Xiong; Zhiyu Li; Xiaoxing Wang | [arXiv:2606.01751v2](https://arxiv.org/abs/2606.01751v2) · [DOI](https://doi.org/10.48550/arXiv.2606.01751) |
 
-
 ## [DEP-A-20260715-MemDecay Region Aware KV](../DEP-A-20260715-MemDecay%20Region%20Aware%20KV/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.10582-whitepaper-review.md`](../DEP-A-20260715-MemDecay%20Region%20Aware%20KV/2607.10582-whitepaper-review.md).
@@ -599,7 +575,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference* | Venkatesha Matam; Keon Kim | [arXiv:2607.10582v1](https://arxiv.org/abs/2607.10582v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10582) |
-
 
 ## [DEP-A-20260715-KV PRM Efficient Process](../DEP-A-20260715-KV%20PRM%20Efficient%20Process/README.md)
 
@@ -609,7 +584,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling* | Peng Kuang; Haibo Jin; Xiaoyu Han; Yanli Wang; Xiaopeng Yuan; Ye Yu; Kaidi Xu; Haohan Wang | [arXiv:2607.09153v1](https://arxiv.org/abs/2607.09153v1) · [DOI](https://doi.org/10.48550/arXiv.2607.09153) |
 
-
 ## [DEP-A-20260715-Omni Flow A Unified](../DEP-A-20260715-Omni%20Flow%20A%20Unified/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.31093-whitepaper-review.md`](../DEP-A-20260715-Omni%20Flow%20A%20Unified/2606.31093-whitepaper-review.md).
@@ -617,7 +591,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference* | Bin Xiao; Jingfu Dong; Changran Wang; Yitian Chen; Xiaoyu Zhao; Yuqi Peng; Jianping Lin; Yuchen Xie | [arXiv:2606.31093v1](https://arxiv.org/abs/2606.31093v1) · [DOI](https://doi.org/10.48550/arXiv.2606.31093) |
-
 
 ## [DEP-A-20260715-Coverage Driven KV Cache](../DEP-A-20260715-Coverage%20Driven%20KV%20Cache/README.md)
 
@@ -635,7 +608,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Epiphany-Aware KV Cache Eviction Without the Attention Matrix* | Steven Kolawole; Virginia Smith | [arXiv:2606.26472v2](https://arxiv.org/abs/2606.26472v2) · [DOI](https://doi.org/10.48550/arXiv.2606.26472) |
 
-
 ## [DEP-A-20260715-Forget Without Compromise](../DEP-A-20260715-Forget%20Without%20Compromise/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.23961-whitepaper-review.md`](../DEP-A-20260715-Forget%20Without%20Compromise/2606.23961-whitepaper-review.md).
@@ -643,7 +615,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets* | Duc Duong; Hoang Anh Duy Le; Jianwen Xie; Anshumali Shrivastava; Zhaozhuo Xu | [arXiv:2606.23961v1](https://arxiv.org/abs/2606.23961v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23961) |
-
 
 ## [DEP-A-20260715-SAC Disaggregated KV Cach](../DEP-A-20260715-SAC%20Disaggregated%20KV%20Cach/README.md)
 
@@ -653,7 +624,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL* | Ruiyang Ma; Teng Ma; Junru Li; Hantian Zha; Xuchun Shang; Qingda Hu; Zheng Liu; Xinjun Yang; Tao Ma; Guojie Luo | [arXiv:2606.19746v1](https://arxiv.org/abs/2606.19746v1) · [DOI](https://doi.org/10.48550/arXiv.2606.19746) |
 
-
 ## [DEP-A-20260715-KVEraser Learning to Stee](../DEP-A-20260715-KVEraser%20Learning%20to%20Stee/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.17034-whitepaper-review.md`](../DEP-A-20260715-KVEraser%20Learning%20to%20Stee/2606.17034-whitepaper-review.md).
@@ -661,7 +631,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing* | Mufei Li; Shikun Liu; Dongqi Fu; Haoyu Wang; Yinglong Xia; Hong Li; Hong Yan; Pan Li | [arXiv:2606.17034v2](https://arxiv.org/abs/2606.17034v2) · [DOI](https://doi.org/10.48550/arXiv.2606.17034) |
-
 
 ## [DEP-A-20260715-Beyond Perplexity A Behav](../DEP-A-20260715-Beyond%20Perplexity%20A%20Behav/README.md)
 
@@ -679,7 +648,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MemDelta: Controlled Baselines and Hidden Confounds in Agent Memory Evaluation* | Kuan Wang | [arXiv:2606.29914v1](https://arxiv.org/abs/2606.29914v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29914) |
 
-
 ## [DEP-A-20260715-Mandol An Agglomerative A](../DEP-A-20260715-Mandol%20An%20Agglomerative%20A/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.29778-whitepaper-review.md`](../DEP-A-20260715-Mandol%20An%20Agglomerative%20A/2606.29778-whitepaper-review.md).
@@ -687,7 +655,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mandol: An Agglomerative Agent Memory System for Long-Term Conversations* | Yuhan Zhang; Zhiyuan Guo; Ziheng Zeng; Wei Wang; Wentao Wu; Lijie Xu | [arXiv:2606.29778v1](https://arxiv.org/abs/2606.29778v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29778) |
-
 
 ## [DEP-A-20260715-EvoEmbedding Evolvable Re](../DEP-A-20260715-EvoEmbedding%20Evolvable%20Re/README.md)
 
@@ -697,7 +664,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory* | Chang Nie; Chaoyou Fu; Junlan Feng; Caifeng Shan | [arXiv:2606.21649v2](https://arxiv.org/abs/2606.21649v2) · [DOI](https://doi.org/10.48550/arXiv.2606.21649) |
 
-
 ## [DEP-A-20260715-NestedKV Nested Memory Ro](../DEP-A-20260715-NestedKV%20Nested%20Memory%20Ro/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.26678-whitepaper-review.md`](../DEP-A-20260715-NestedKV%20Nested%20Memory%20Ro/2605.26678-whitepaper-review.md).
@@ -705,7 +671,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NestedKV: Nested Memory Routing for Long-Context KV Cache Compression* | Hong Chen; Xiang Liu; Yubo Gao; Yuxuan Fan; Bo Wang; Yuanlin Chu; Yuanguo Lin; Xuming Hu | [arXiv:2605.26678v1](https://arxiv.org/abs/2605.26678v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26678) |
-
 
 ## [DEP-A-20260715-IceCache Memory efficient](../DEP-A-20260715-IceCache%20Memory%20efficient/README.md)
 
@@ -723,7 +688,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents* | George Torres; Sharad Shrestha; Satyajayant Misra | [arXiv:2607.06595v1](https://arxiv.org/abs/2607.06595v1) · [DOI](https://doi.org/10.48550/arXiv.2607.06595) |
 
-
 ## [DEP-A-20260715-Light Omni Reflex over](../DEP-A-20260715-Light%20Omni%20Reflex%20over/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.05511-whitepaper-review.md`](../DEP-A-20260715-Light%20Omni%20Reflex%20over/2607.05511-whitepaper-review.md).
@@ -731,7 +695,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory* | Chang Nie; Jiaju Wei; Junlan Feng; Chaoyou Fu; Caifeng Shan | [arXiv:2607.05511v1](https://arxiv.org/abs/2607.05511v1) · [DOI](https://doi.org/10.48550/arXiv.2607.05511) |
-
 
 ## [DEP-A-20260715-A TMA Decoupling State](../DEP-A-20260715-A%20TMA%20Decoupling%20State/README.md)
 
@@ -741,7 +704,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory* | Zitong Shi; Yixuan Tang; Anthony Kum Hoe Tung | [arXiv:2607.01935v2](https://arxiv.org/abs/2607.01935v2) · [DOI](https://doi.org/10.48550/arXiv.2607.01935) |
 
-
 ## [DEP-A-20260715-Spectral Evolution Guided](../DEP-A-20260715-Spectral%20Evolution%20Guided/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.24165-whitepaper-review.md`](../DEP-A-20260715-Spectral%20Evolution%20Guided/2606.24165-whitepaper-review.md).
@@ -749,7 +711,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models* | Bin Chen; Yuxiang Cai; Yadan Luo; Yi Zhang; Jianwei Yin; Zhi Chen | [arXiv:2606.24165v1](https://arxiv.org/abs/2606.24165v1) · [DOI](https://doi.org/10.48550/arXiv.2606.24165) |
-
 
 ## [DEP-A-20260715-LKV End to End](../DEP-A-20260715-LKV%20End%20to%20End/README.md)
 
@@ -767,7 +728,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning* | Kyuan Oh; Bumsoo Kim | [arXiv:2607.07033v2](https://arxiv.org/abs/2607.07033v2) · [DOI](https://doi.org/10.48550/arXiv.2607.07033) |
 
-
 ## [DEP-A-20260715-Seeing Once is Enough](../DEP-A-20260715-Seeing%20Once%20is%20Enough/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.04079-whitepaper-review.md`](../DEP-A-20260715-Seeing%20Once%20is%20Enough/2607.04079-whitepaper-review.md).
@@ -775,7 +735,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering* | Ruei-Chi Lai; Bolivar Solarte; Chin-Hsuan Wu; Yi-Hsuan Tsai; Min Sun | [arXiv:2607.04079v1](https://arxiv.org/abs/2607.04079v1) · [DOI](https://doi.org/10.48550/arXiv.2607.04079) |
-
 
 ## [DEP-A-20260715-Combating Textual Noise a](../DEP-A-20260715-Combating%20Textual%20Noise%20a/README.md)
 
@@ -785,7 +744,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning* | Xuehui Wang; Xuankun Yang; Wei Shen | [arXiv:2607.02484v1](https://arxiv.org/abs/2607.02484v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02484) |
 
-
 ## [DEP-A-20260715-Compression and Retrieval](../DEP-A-20260715-Compression%20and%20Retrieval/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.23105-whitepaper-review.md`](../DEP-A-20260715-Compression%20and%20Retrieval/2606.23105-whitepaper-review.md).
@@ -793,7 +751,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compression and Retrieval: Implicit Memory Retrieval for Video World Models* | Zhan Peng; Jie Ma; Huiqiang Sun; Chong Gao; Zhijie Xue; Zhiyu Pan; Zhiguo Cao; Jun Liang; Jing Li | [arXiv:2606.23105v1](https://arxiv.org/abs/2606.23105v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23105) |
-
 
 ## [DEP-A-20260715-ObjectCache Layerwise Obj](../DEP-A-20260715-ObjectCache%20Layerwise%20Obj/README.md)
 
@@ -811,7 +768,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval* | Omin Kwon; Doyeon Kim; Jongseok Park; Seung Yul Lee; Ion Stoica; Jae W. Lee | [arXiv:2606.21633v1](https://arxiv.org/abs/2606.21633v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21633) |
 
-
 ## [DEP-A-20260715-MemGraphRAG Memory based](../DEP-A-20260715-MemGraphRAG%20Memory%20based/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.00610-whitepaper-review.md`](../DEP-A-20260715-MemGraphRAG%20Memory%20based/2606.00610-whitepaper-review.md).
@@ -819,7 +775,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation* | Chuanjie Wu; Zhishang Xiang; Yunbo Tang; Zerui Chen; Qinggang Zhang; Jinsong Su | [arXiv:2606.00610v1](https://arxiv.org/abs/2606.00610v1) · [DOI](https://doi.org/10.48550/arXiv.2606.00610) |
-
 
 ## [DEP-A-20260715-Structured Belief State a](../DEP-A-20260715-Structured%20Belief%20State%20a/README.md)
 
@@ -829,7 +784,6 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 |---|---|---|
 | *Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval* | Jeffrey Flynt | [arXiv:2605.11325v3](https://arxiv.org/abs/2605.11325v3) · [DOI](https://doi.org/10.48550/arXiv.2605.11325) |
 
-
 ## [DEP-A-20260715-MemReranker Reasoning Awa](../DEP-A-20260715-MemReranker%20Reasoning%20Awa/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2605.06132-whitepaper-review.md`](../DEP-A-20260715-MemReranker%20Reasoning%20Awa/2605.06132-whitepaper-review.md).
@@ -837,7 +791,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval* | Chunyu Li; Mengyuan Zhang; Jingyi Kang; Ding Chen; Jiajun Shen; Bo Tang; Xuanhe Zhou; Feiyu Xiong; Zhiyu Li | [arXiv:2605.06132v2](https://arxiv.org/abs/2605.06132v2) · [DOI](https://doi.org/10.48550/arXiv.2605.06132) |
-
 
 ## [DEP-A-20260715-OCR Memory Optical Contex](../DEP-A-20260715-OCR%20Memory%20Optical%20Contex/README.md)
 
@@ -855,7 +808,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis* | Marlena Flüh; Soo-Yon Kim; Carolin Victoria Schneider; Sandra Geisler | [arXiv:2607.11464v1](https://arxiv.org/abs/2607.11464v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11464) |
 
-
 ## [DEP-A-20260715-NGM RAG Neural Graph](../DEP-A-20260715-NGM%20RAG%20Neural%20Graph/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2607.11159-whitepaper-review.md`](../DEP-A-20260715-NGM%20RAG%20Neural%20Graph/2607.11159-whitepaper-review.md).
@@ -863,7 +815,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation* | Guo Chen; Ziwen Li; Maolin Zheng; Hao Gao; Junjie Huang; Tao Jia | [arXiv:2607.11159v1](https://arxiv.org/abs/2607.11159v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11159) |
-
 
 ## [DEP-A-20260715-MedScribe Clinically Grou](../DEP-A-20260715-MedScribe%20Clinically%20Grou/README.md)
 
@@ -873,7 +824,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MedScribe: Clinically Grounded CT Reporting through Agentic Workflows* | Giuseppe A. Orlando; Paolo Papotti; Maria A. Zuluaga; Olivier Humbert; Marco Lorenzi | [arXiv:2605.01779v1](https://arxiv.org/abs/2605.01779v1) · [DOI](https://doi.org/10.48550/arXiv.2605.01779) |
 
-
 ## [DEP-A-20260715-SwiftCache Efficient LLM](../DEP-A-20260715-SwiftCache%20Efficient%20LLM/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-15. The owning review artifact is [`2606.16135-whitepaper-review.md`](../DEP-A-20260715-SwiftCache%20Efficient%20LLM/2606.16135-whitepaper-review.md).
@@ -881,7 +831,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing* | Jianmin Hu; Minxian Xu; Sa Wang; Chong Ma; Min Shen; Kejiang Ye; Lin Qu; Chengzhong Xu | [arXiv:2606.16135v1](https://arxiv.org/abs/2606.16135v1) · [DOI](https://doi.org/10.48550/arXiv.2606.16135) |
-
 
 ## [DEP-A-20260715-TriAxialKV Toward Extreme](../DEP-A-20260715-TriAxialKV%20Toward%20Extreme/README.md)
 
@@ -899,7 +848,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations* | Xixuan Hao; Zeyu Zhang; Zehao Lin; Yihang Sun; Ziliang Guo; Xichong Zhang; Yuxuan Liang; Feiyu Xiong; Zhiyu Li | [arXiv:2607.12893v1](https://arxiv.org/abs/2607.12893v1) · [DOI](https://doi.org/10.48550/arXiv.2607.12893) |
 
-
 ## [DEP-A-20260716-A JoLT for the](../DEP-A-20260716-A%20JoLT%20for%20the/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.12550-whitepaper-review.md`](../DEP-A-20260716-A%20JoLT%20for%20the/2607.12550-whitepaper-review.md).
@@ -907,7 +855,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs* | Rahul Krishnan; Volker Schulz | [arXiv:2607.12550v1](https://arxiv.org/abs/2607.12550v1) · [DOI](https://doi.org/10.48550/arXiv.2607.12550) |
-
 
 ## [DEP-A-20260716-LightMem Ego Your AI](../DEP-A-20260716-LightMem%20Ego%20Your%20AI/README.md)
 
@@ -917,7 +864,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *LightMem-Ego: Your AI Memory for Everyday Life* | Yijun Chen; Boyi Xiao; Yixian Zhao; Haoting Xia; Buqiang Xu; Jizhan Fang; Yanya Li; Yaqi Zheng; Xuehai Wang; Zirui Xue; Liuxin Zhang; Hui Li; Ningyu Zhang | [arXiv:2607.11487v1](https://arxiv.org/abs/2607.11487v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11487) |
 
-
 ## [DEP-A-20260716-OpsMem Dual Memory Reason](../DEP-A-20260716-OpsMem%20Dual%20Memory%20Reason/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.11357-whitepaper-review.md`](../DEP-A-20260716-OpsMem%20Dual%20Memory%20Reason/2607.11357-whitepaper-review.md).
@@ -925,7 +871,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis* | Yongqian Sun; Rongchen Gao; Yu Luo; Wenwei Gu; Shenglin Zhang; Qingyi Guo; Qiuai Fu; Yaoliang Wu; Dan Pei | [arXiv:2607.11357v1](https://arxiv.org/abs/2607.11357v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11357) |
-
 
 ## [DEP-A-20260716-PLACEMEM Toward a Compute](../DEP-A-20260716-PLACEMEM%20Toward%20a%20Compute/README.md)
 
@@ -943,7 +888,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Metronome: Bound the Cache, Keep the Beat for Real-Time Interaction Model Serving* | Jiaying Meng; Bojie Li | [arXiv:2607.02640v1](https://arxiv.org/abs/2607.02640v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02640) |
 
-
 ## [DEP-A-20260716-When Not to Write](../DEP-A-20260716-When%20Not%20to%20Write/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2607.02579-whitepaper-review.md`](../DEP-A-20260716-When%20Not%20to%20Write/2607.02579-whitepaper-review.md).
@@ -951,7 +895,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Not to Write Memory: Governing False Promotion from Correlated Agent Traces* | Yijiashun Qi; Xiang Xu; Yuxuan Li | [arXiv:2607.02579v1](https://arxiv.org/abs/2607.02579v1) · [DOI](https://doi.org/10.48550/arXiv.2607.02579) |
-
 
 ## [DEP-A-20260716-MemSyco Bench Benchmarkin](../DEP-A-20260716-MemSyco%20Bench%20Benchmarkin/README.md)
 
@@ -961,7 +904,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *MemSyco-Bench: Benchmarking Sycophancy in Agent Memory* | Zhishang Xiang; Zerui Chen; Yunbo Tang; Zhimin Wei; Ruqin Ning; Yujie Lin; Qinggang Zhang; Jinsong Su | [arXiv:2607.01071v2](https://arxiv.org/abs/2607.01071v2) · [DOI](https://doi.org/10.48550/arXiv.2607.01071) |
 
-
 ## [DEP-A-20260716-The Past Is Prologue](../DEP-A-20260716-The%20Past%20Is%20Prologue/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.31121-whitepaper-review.md`](../DEP-A-20260716-The%20Past%20Is%20Prologue/2606.31121-whitepaper-review.md).
@@ -969,7 +911,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory* | Zihan Chen; Songwei Dong; Chengshuai Shi; Peng Wang; Song Wang; Cong Shen; Jundong Li | [arXiv:2606.31121v1](https://arxiv.org/abs/2606.31121v1) · [DOI](https://doi.org/10.48550/arXiv.2606.31121) |
-
 
 ## [DEP-A-20260716-Know Before You Fetch](../DEP-A-20260716-Know%20Before%20You%20Fetch/README.md)
 
@@ -987,7 +928,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis* | Hoyoung Lee; Suhwan Park; Seunghan Lee; Jun Seo; Jaehoon Lee; Sungdong Yoo; Minjae Kim; CheolWon Na; Zhangyang Wang; Zach Golkhou; Minkyu Kim; Sotirios Sabanis; Alejandro Lopez-Lira; Dhagash Mehta; Soonyoung Lee; Chanyeol Choi; Wonbin Ahn; Yongjae Lee | [arXiv:2606.29251v2](https://arxiv.org/abs/2606.29251v2) · [DOI](https://doi.org/10.48550/arXiv.2606.29251) |
 
-
 ## [DEP-A-20260716-ProtoKV Streaming Video U](../DEP-A-20260716-ProtoKV%20Streaming%20Video%20U/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.26762-whitepaper-review.md`](../DEP-A-20260716-ProtoKV%20Streaming%20Video%20U/2606.26762-whitepaper-review.md).
@@ -995,7 +935,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory* | Le Tu Ngoc Minh; Jinyeong Lim; Dongsu Han | [arXiv:2606.26762v1](https://arxiv.org/abs/2606.26762v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26762) |
-
 
 ## [DEP-A-20260716-Kamera Unified Position I](../DEP-A-20260716-Kamera%20Unified%20Position%20I/README.md)
 
@@ -1005,7 +944,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse* | Bole Ma; Jan Eitzinger; Harald Koestler; Gerhard Wellein | [arXiv:2606.23581v1](https://arxiv.org/abs/2606.23581v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23581) |
 
-
 ## [DEP-A-20260716-Safe to Check Unsafe](../DEP-A-20260716-Safe%20to%20Check%20Unsafe/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2606.21732-whitepaper-review.md`](../DEP-A-20260716-Safe%20to%20Check%20Unsafe/2606.21732-whitepaper-review.md).
@@ -1013,7 +951,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Safe to Check, Unsafe to Use: Relinking at the Compression Boundary of LLM Agents* | Zesen Liu; Zihan Zhang; Dongdong She | [arXiv:2606.21732v1](https://arxiv.org/abs/2606.21732v1) · [DOI](https://doi.org/10.48550/arXiv.2606.21732) |
-
 
 ## [DEP-A-20260716-Prompt Compression in Dif](../DEP-A-20260716-Prompt%20Compression%20in%20Dif/README.md)
 
@@ -1031,7 +968,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Route Before Retrieve: Activating Latent Routing Abilities of LLMs for RAG vs. Long-Context Selection* | Yiwen Chen; Kuan Li; Fuzhen Zhuang; Deqing Wang; Zhao Zhang; Liwen Zhang; Yong Jiang; Shuai Wang; Minhao Cheng | [arXiv:2605.10235v2](https://arxiv.org/abs/2605.10235v2) · [DOI](https://doi.org/10.48550/arXiv.2605.10235) |
 
-
 ## [DEP-A-20260716-MemoSight Unifying Contex](../DEP-A-20260716-MemoSight%20Unifying%20Contex/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`2604.14889-whitepaper-review.md`](../DEP-A-20260716-MemoSight%20Unifying%20Contex/2604.14889-whitepaper-review.md).
@@ -1039,7 +975,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemoSight: Unifying Context Compression and Multi Token Prediction for Reasoning Acceleration* | Xinyu Liu; Xin Liu; Bo Jin; Runsong Zhao; Pengcheng Huang; Junhao Ruan; Bei Li; Chunyang Xiao; Chenglong Wang; Tong Xiao; Jingbo Zhu | [arXiv:2604.14889v2](https://arxiv.org/abs/2604.14889v2) · [DOI](https://doi.org/10.48550/arXiv.2604.14889) |
-
 
 ## [DEP-A-20260716-ContextWeaver Selective a](../DEP-A-20260716-ContextWeaver%20Selective%20a/README.md)
 
@@ -1057,7 +992,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper, full-pap
 |---|---|---|
 | *AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs* | Yunling Zheng; Zeyi Xu; Fanghui Xue; Biao Yang; Jiancheng Lyu; Shuai Zhang; Yingyong Qi; Jack Xin | [arXiv:2407.12217v2](https://arxiv.org/abs/2407.12217v2) · [DOI](https://doi.org/10.48550/arXiv.2407.12217) · [Published DOI](https://doi.org/10.1007/978-3-031-77392-1_2) |
 
-
 ## [DEP-A-20260716-Document Fraud Intake](../DEP-A-20260716-Document%20Fraud%20Intake/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [`document-fraud-intake-review.md`](../DEP-A-20260716-Document%20Fraud%20Intake/document-fraud-intake-review.md).
@@ -1074,7 +1008,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and autho
 |---|---|---|
 | *Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems* | Yi Chen; Zheng Chang; Geyong Min; Shiwen Mao; Timo Hämäläinen | [arXiv:2210.17025v1](https://arxiv.org/abs/2210.17025v1) · [DOI](https://doi.org/10.48550/arXiv.2210.17025) · [Published DOI](https://doi.org/10.1109/TWC.2023.3261338) |
 
-
 ## [DEP-A-20260716-Acoustic Phase Intake](../DEP-A-20260716-Acoustic%20Phase%20Intake/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching journal and institutional metadata on 2026-07-16. The owning review artifact is [`acoustic-phase-intake-review.md`](../DEP-A-20260716-Acoustic%20Phase%20Intake/acoustic-phase-intake-review.md).
@@ -1082,7 +1015,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval of acoustic sources from multi-frequency phaseless data* | Deyue Zhang; Yukun Guo; Jingzhi Li; Hongyu Liu | [arXiv:1803.11323v1](https://arxiv.org/abs/1803.11323v1) · [DOI](https://doi.org/10.48550/arXiv.1803.11323) · [Published DOI](https://doi.org/10.1088/1361-6420/aaccda) |
-
 
 ## [DEP-A-20260716-MSAIC ECG Intake](../DEP-A-20260716-MSAIC%20ECG%20Intake/README.md)
 
@@ -1092,7 +1024,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MSAIC-Net: A Multi-Scale Attention and Imbalance-Aware Contrastive Network for ECG-Based Myocardial Substrate Abnormality Detection* | Canyu Lei; Fenglin Zhang; Derek Bivona; Cristiane Singulane; Jonathan Pan; Kenneth Bilchick; Amit R. Patel; Jianxin Xie | [arXiv:2606.06718v1](https://arxiv.org/abs/2606.06718v1) · [DOI](https://doi.org/10.48550/arXiv.2606.06718) |
 
-
 ## [DEP-A-20260716-Adaptive Context](../DEP-A-20260716-Adaptive%20Context/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.29193-whitepaper-review.md](../DEP-A-20260716-Adaptive%20Context/2603.29193-whitepaper-review.md).
@@ -1100,7 +1031,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Developing Adaptive Context Compression Techniques for Large Language Models (LLMs) in Long-Running Interactions* | Payal Fofadiya; Sunil Tiwari | [arXiv:2603.29193v1](https://arxiv.org/abs/2603.29193v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.29193) |
-
 
 ## [DEP-A-20260716-Dictionary Prompt](../DEP-A-20260716-Dictionary%20Prompt/README.md)
 
@@ -1110,7 +1040,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Lossless Prompt Compression via Dictionary-Encoding and In-Context Learning: Enabling Cost-Effective LLM Analysis of Repetitive Data* | Andresa Rodrigues de Campos; David Lee; Imry Kissos; Piyush Paritosh | [arXiv:2604.13066v1](https://arxiv.org/abs/2604.13066v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.13066) |
 
-
 ## [DEP-A-20260716-Repo Context Modalities](../DEP-A-20260716-Repo%20Context%20Modalities/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.13725-whitepaper-review.md](../DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md).
@@ -1118,7 +1047,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On the Effectiveness of Context Compression for Repository-Level Tasks: An Empirical Investigation* | Jia Feng; Zhanyue Qin; Cuiyun Gao; Ruiqi Wang; Chaozheng Wang; Yingwei Ma; Xiaoyuan Xie | [arXiv:2604.13725v1](https://arxiv.org/abs/2604.13725v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.13725) |
-
 
 ## [DEP-A-20260716-Semi Dynamic Compress](../DEP-A-20260716-Semi%20Dynamic%20Compress/README.md)
 
@@ -1128,7 +1056,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio* | Yijiong Yu; Shuai Yuan; Jie Zheng; Huazheng Wang; Ji Pei | [arXiv:2603.25926v1](https://arxiv.org/abs/2603.25926v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.25926) |
 
-
 ## [DEP-A-20260716-Performance Context](../DEP-A-20260716-Performance%20Context/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.19733-whitepaper-review.md](../DEP-A-20260716-Performance%20Context/2603.19733-whitepaper-review.md).
@@ -1136,7 +1063,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PoC: Performance-oriented Context Compression for Large Language Models via Performance Prediction* | Runsong Zhao; Shilei Liu; Jiwei Tang; Langming Liu; Haibin Chen; Weidong Zhang; Yujin Yuan; Tong Xiao; Jingbo Zhu; Wenbo Su; Bo Zheng | [arXiv:2603.19733v1](https://arxiv.org/abs/2603.19733v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.19733) |
-
 
 ## [DEP-A-20260716-TAMTRL Reward](../DEP-A-20260716-TAMTRL%20Reward/README.md)
 
@@ -1146,7 +1072,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *TAMTRL: Teacher-Aligned Reward Reshaping for Multi-Turn Reinforcement Learning in Long-Context Compression* | Li Wang; Yandong Wang; Xin Yu; Kui Zhang; Tianhao Peng; Wenjun Wu | [arXiv:2603.21663v1](https://arxiv.org/abs/2603.21663v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.21663) |
 
-
 ## [DEP-A-20260716-PackForcing Video](../DEP-A-20260716-PackForcing%20Video/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2603.25730-whitepaper-review.md](../DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md).
@@ -1154,7 +1079,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference* | Xiaofeng Mao; Shaohao Rui; Kaining Ying; Bo Zheng; Chuanhao Li; Mingmin Chi; Kaipeng Zhang | [arXiv:2603.25730v1](https://arxiv.org/abs/2603.25730v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.25730) |
-
 
 ## [DEP-A-20260716-K Token Merging](../DEP-A-20260716-K%20Token%20Merging/README.md)
 
@@ -1164,7 +1088,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Compressing Sequences in the Latent Embedding Space: $K$-Token Merging for Large Language Models* | Zihao Xu; John Harvill; Ziwei Fan; Yizhou Sun; Hao Ding; Hao Wang | [arXiv:2604.15153v2](https://arxiv.org/abs/2604.15153v2) Â· [DOI](https://doi.org/10.48550/arXiv.2604.15153) |
 
-
 ## [DEP-A-20260716-Context Survival](../DEP-A-20260716-Context%20Survival/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.00725-whitepaper-review.md](../DEP-A-20260716-Context%20Survival/2607.00725-whitepaper-review.md).
@@ -1172,7 +1095,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG and When Submodular Evidence Packing Improves It* | Ananto Nayan Bala | [arXiv:2607.00725v1](https://arxiv.org/abs/2607.00725v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.00725) |
-
 
 ## [DEP-A-20260716-CAPE Content Defense](../DEP-A-20260716-CAPE%20Content%20Defense/README.md)
 
@@ -1182,7 +1104,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Out of Sight: Compression-Aware Content Protection against Agentic Crawlers* | Xuefei Wang | [arXiv:2607.08180v1](https://arxiv.org/abs/2607.08180v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08180) |
 
-
 ## [DEP-A-20260716-DiffuMask Pruning](../DEP-A-20260716-DiffuMask%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.06627-whitepaper-review.md](../DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md).
@@ -1190,7 +1111,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DiffuMask: Diffusion Language Model for Token-level Prompt Pruning* | Caleb Zheng; Jyotika Singh; Fang Tu; Weiyi Sun; Sujeeth Bharadwaj; Yassine Benajiba; Sujith Ravi; Eli Shlizerman; Dan Roth | [arXiv:2604.06627v1](https://arxiv.org/abs/2604.06627v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.06627) |
-
 
 ## [DEP-A-20260716-SWEzze Code Context](../DEP-A-20260716-SWEzze%20Code%20Context/README.md)
 
@@ -1200,7 +1120,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Compressing Code Context for LLM-based Issue Resolution* | Haoxiang Jia; Earl T. Barr; Sergey Mechtaev | [arXiv:2603.28119v1](https://arxiv.org/abs/2603.28119v1) Â· [DOI](https://doi.org/10.48550/arXiv.2603.28119) |
 
-
 ## [DEP-A-20260716-Sensing LLM Reduction](../DEP-A-20260716-Sensing%20LLM%20Reduction/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2604.14156-whitepaper-review.md](../DEP-A-20260716-Sensing%20LLM%20Reduction/2604.14156-whitepaper-review.md).
@@ -1208,7 +1127,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compressed-Sensing-Guided, Inference-Aware Structured Reduction for Large Language Models* | Andrew Kiruluta | [arXiv:2604.14156v1](https://arxiv.org/abs/2604.14156v1) Â· [DOI](https://doi.org/10.48550/arXiv.2604.14156) |
-
 
 ## [DEP-A-20260716-PraMem Experience](../DEP-A-20260716-PraMem%20Experience/README.md)
 
@@ -1218,7 +1136,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction* | Zhuoqun Li; Boxi Cao; Jiawei Chen; Hanshu Zhou; Ruoxi Xu; Guiping Jiang; Ruotong Pan; Tingting Gao; Han Li; Xiangyu Wu; Hongyu Lin; Yaojie Lu; Xianpei Han; Le Sun | [arXiv:2607.02881v1](https://arxiv.org/abs/2607.02881v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.02881) |
 
-
 ## [DEP-A-20260716-System Aware KV Survey](../DEP-A-20260716-System%20Aware%20KV%20Survey/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-16. The owning review artifact is [2607.08057-whitepaper-review.md](../DEP-A-20260716-System%20Aware%20KV%20Survey/2607.08057-whitepaper-review.md).
@@ -1226,7 +1143,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization* | Jiantong Jiang; Peiyu Yang; Rui Zhang; Feng Liu | [arXiv:2607.08057v1](https://arxiv.org/abs/2607.08057v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.08057) Â· [Published DOI](https://doi.org/10.18653/v1/2026.findings-acl.1916) |
-
 
 ## [DEP-A-20260716-KV Memory Hierarchy](../DEP-A-20260716-KV%20Memory%20Hierarchy/README.md)
 
@@ -1236,7 +1152,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving* | Jie Li; Tongyang Wang; Yong Chen | [arXiv:2607.02574v1](https://arxiv.org/abs/2607.02574v1) Â· [DOI](https://doi.org/10.48550/arXiv.2607.02574) |
 
-
 ## [DEP-A-20260717-TriRoute Joint Routing](../DEP-A-20260717-TriRoute%20Joint%20Routing/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.06601-whitepaper-review.md`](../DEP-A-20260717-TriRoute%20Joint%20Routing/2607.06601-whitepaper-review.md).
@@ -1244,7 +1159,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation* | Andrii Balashov; Olena Ponomarova | [arXiv:2607.06601v1](https://arxiv.org/abs/2607.06601v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06601) |
-
 
 ## [DEP-A-20260717-RaBitQCache Retrieval](../DEP-A-20260717-RaBitQCache%20Retrieval/README.md)
 
@@ -1254,7 +1168,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference* | Wenhao Li; Jinhao Dong; Hailin Zhang; Wenhang Shi; Wei Lu; Xiaoyong Du | [arXiv:2606.31519v1](https://arxiv.org/abs/2606.31519v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31519) |
 
-
 ## [DEP-A-20260717-Latent Cache Integrity](../DEP-A-20260717-Latent%20Cache%20Integrity/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.28958-whitepaper-review.md`](../DEP-A-20260717-Latent%20Cache%20Integrity/2606.28958-whitepaper-review.md).
@@ -1262,7 +1175,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration* | Luís Brito; Carlos Baquero | [arXiv:2606.28958v1](https://arxiv.org/abs/2606.28958v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28958) |
-
 
 ## [DEP-A-20260717-RoPE Bit Allocation](../DEP-A-20260717-RoPE%20Bit%20Allocation/README.md)
 
@@ -1272,7 +1184,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *RoPE-Aware Bit Allocation for KV-Cache Quantization* | Fengfeng Liang; Yuechen Zhang; Jiaya Jia | [arXiv:2606.24033v1](https://arxiv.org/abs/2606.24033v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24033) |
 
-
 ## [DEP-A-20260717-CrossPool Cold MoE](../DEP-A-20260717-CrossPool%20Cold%20MoE/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24506-whitepaper-review.md`](../DEP-A-20260717-CrossPool%20Cold%20MoE/2606.24506-whitepaper-review.md).
@@ -1280,7 +1191,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation* | Zhuoren Ye; Tianyu Wo; Dinghao Xue; Mingming Zhang; Yuchen Teng; Chunming Hu; Renyu Yang | [arXiv:2606.24506v2](https://arxiv.org/abs/2606.24506v2) - [DOI](https://doi.org/10.48550/arXiv.2606.24506) |
-
 
 ## [DEP-A-20260717-Fast TurboQuant](../DEP-A-20260717-Fast%20TurboQuant/README.md)
 
@@ -1290,7 +1200,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach* | Pedro M. R. Pereira; Felipe A. P. de Figueiredo; Rausley A. A. de Souza | [arXiv:2606.21448v1](https://arxiv.org/abs/2606.21448v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21448) |
 
-
 ## [DEP-A-20260717-UniSGR Generation Rank](../DEP-A-20260717-UniSGR%20Generation%20Rank/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04068-whitepaper-review.md`](../DEP-A-20260717-UniSGR%20Generation%20Rank/2607.04068-whitepaper-review.md).
@@ -1298,7 +1207,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UniSGR: Unified Framework for Semantic ID Generation and Ranking* | Jiawei Sun; Jun Yang; Ziyue Guo; Dongyue Xu; Jianan Yan; Lifang Deng; Xiaoyi Zeng | [arXiv:2607.04068v1](https://arxiv.org/abs/2607.04068v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04068) |
-
 
 ## [DEP-A-20260717-SOLAR Semantic Cache](../DEP-A-20260717-SOLAR%20Semantic%20Cache/README.md)
 
@@ -1308,7 +1216,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers* | Yushi Sun; Bowen Cao; Wai Lam | [arXiv:2607.00394v1](https://arxiv.org/abs/2607.00394v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00394) |
 
-
 ## [DEP-A-20260717-ISPA Video Memory](../DEP-A-20260717-ISPA%20Video%20Memory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00712-whitepaper-review.md`](../DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md).
@@ -1316,7 +1223,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption* | Xiaomeng Fu; Jia Li; Yiming Hu; Yong Wang; Hayden Kwok-Hay So; Jiao Dai; Xiangxiang Chu; Jizhong Han | [arXiv:2607.00712v1](https://arxiv.org/abs/2607.00712v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00712) |
-
 
 ## [DEP-A-20260717-HMA Serve Disaggregation](../DEP-A-20260717-HMA%20Serve%20Disaggregation/README.md)
 
@@ -1326,7 +1232,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators* | Zhixiang Wei; Yun Wang; James Yen; Mingyuan Xia; Zhengwei Qi | [arXiv:2606.29986v1](https://arxiv.org/abs/2606.29986v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29986) |
 
-
 ## [DEP-A-20260717-PRCR Visual Revisiting](../DEP-A-20260717-PRCR%20Visual%20Revisiting/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.26631-whitepaper-review.md`](../DEP-A-20260717-PRCR%20Visual%20Revisiting/2606.26631-whitepaper-review.md).
@@ -1334,7 +1239,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Position Rebinding Cache Reuse: Replay-Free Visual Revisiting for Interleaved Multimodal Reasoning* | Mengzhao Wang; Yanli Ji; Wangmeng Zuo; Peng Ye; Chongjun Tu | [arXiv:2606.26631v1](https://arxiv.org/abs/2606.26631v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26631) |
-
 
 ## [DEP-A-20260717-MOCAP Wafer Pipeline](../DEP-A-20260717-MOCAP%20Wafer%20Pipeline/README.md)
 
@@ -1344,7 +1248,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MOCAP: Wafer-Scale-Chip-Oriented Memory-Orchestrated Chunked Pipelining Framework for Prefill-Only LLM Inference* | Zichuan Wang; Huizheng Wang; Yuheng Xiao; Haonan Zuo; Taiquan Wei; Jinyi Deng; Chao Li; Yang Hu; Shouyi Yin | [arXiv:2606.22968v1](https://arxiv.org/abs/2606.22968v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22968) |
 
-
 ## [DEP-A-20260717-HyperQuant Pipeline](../DEP-A-20260717-HyperQuant%20Pipeline/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.23406-whitepaper-review.md`](../DEP-A-20260717-HyperQuant%20Pipeline/2606.23406-whitepaper-review.md).
@@ -1352,7 +1255,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HyperQuant: A Rate-Distortion-Optimal Quantization Pipeline for Large Language and Diffusion Models* | Yuval Domb; Hadar Sackstein; Tomer Solberg | [arXiv:2606.23406v1](https://arxiv.org/abs/2606.23406v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23406) |
-
 
 ## [DEP-A-20260717-RotateK Channel Pruning](../DEP-A-20260717-RotateK%20Channel%20Pruning/README.md)
 
@@ -1362,7 +1264,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Rotation-Aligned Key Channel Pruning for Efficient Vision-Language Model Inference* | Beomseok Kang; Dongwon Jo; Jiwon Song; Donghwee Son; Jae-Joon Kim | [arXiv:2605.19218v1](https://arxiv.org/abs/2605.19218v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19218) |
 
-
 ## [DEP-A-20260717-HYPIC Position Cache](../DEP-A-20260717-HYPIC%20Position%20Cache/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.01299-whitepaper-review.md`](../DEP-A-20260717-HYPIC%20Position%20Cache/2607.01299-whitepaper-review.md).
@@ -1370,7 +1271,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching* | Yifei Liu; Juntong Wu; Yang Liu; Junhao Hu; Minghao Li; Xiaoxu Chen; Weihang Chen | [arXiv:2607.01299v2](https://arxiv.org/abs/2607.01299v2) - [DOI](https://doi.org/10.48550/arXiv.2607.01299) |
-
 
 ## [DEP-A-20260717-Convergent Cache Merge](../DEP-A-20260717-Convergent%20Cache%20Merge/README.md)
 
@@ -1380,7 +1280,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Cache Merging as a Convergent Replicated State for Multi-Agent Latent Reasoning* | Carlos Baquero; Luís Brito | [arXiv:2607.01308v1](https://arxiv.org/abs/2607.01308v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01308) |
 
-
 ## [DEP-A-20260717-Learned Relevance Evict](../DEP-A-20260717-Learned%20Relevance%20Evict/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.20954-whitepaper-review.md`](../DEP-A-20260717-Learned%20Relevance%20Evict/2606.20954-whitepaper-review.md).
@@ -1388,7 +1287,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning* | Nusrat Jahan Lia; Aritra Mazumder | [arXiv:2606.20954v1](https://arxiv.org/abs/2606.20954v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20954) |
-
 
 ## [DEP-A-20260717-StreamMemBench](../DEP-A-20260717-StreamMemBench/README.md)
 
@@ -1398,7 +1296,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance* | Guanming Liu; Yuqi Ren; Hansu Gu; Peng Zhang; Weihang Wang; Jiahao Liu; Ning Gu; Tun Lu | [arXiv:2606.14571v1](https://arxiv.org/abs/2606.14571v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14571) |
 
-
 ## [DEP-A-20260717-ATMem Task State](../DEP-A-20260717-ATMem%20Task%20State/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.31612-whitepaper-review.md`](../DEP-A-20260717-ATMem%20Task%20State/2606.31612-whitepaper-review.md).
@@ -1406,7 +1303,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States* | Chen Liu; Ling Chen; Hanzhang Zhou; Xu Zhang; Quyu Kong; Panrong Tong; Wenhao Wang; Xin Yu; Steven Hoi; Yue Wang | [arXiv:2606.31612v2](https://arxiv.org/abs/2606.31612v2) - [DOI](https://doi.org/10.48550/arXiv.2606.31612) |
-
 
 ## [DEP-A-20260717-Origin Bound Memory](../DEP-A-20260717-Origin%20Bound%20Memory/README.md)
 
@@ -1416,7 +1312,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees* | Yedidel Louck | [arXiv:2606.24322v1](https://arxiv.org/abs/2606.24322v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24322) |
 
-
 ## [DEP-A-20260717-Governed Fleet Memory](../DEP-A-20260717-Governed%20Fleet%20Memory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.24535-whitepaper-review.md`](../DEP-A-20260717-Governed%20Fleet%20Memory/2606.24535-whitepaper-review.md).
@@ -1424,7 +1319,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Governed Shared Memory for Multi-Agent LLM Systems* | Yanki Margalit; Nurit Cohen-Inger; Erni Avram; Ran Taig; Oded Margalit | [arXiv:2606.24535v1](https://arxiv.org/abs/2606.24535v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24535) |
-
 
 ## [DEP-A-20260717-MemProbe Recovery](../DEP-A-20260717-MemProbe%20Recovery/README.md)
 
@@ -1434,7 +1328,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery* | Enze Ma; Yufan Zhou; Wei-Chieh Huang; Jie Yang; Huanhuan Ma; Zixuan Wang; Chengze Li; Chunyu Miao; Philip S. Yu; Zhen Wang | [arXiv:2606.24595v1](https://arxiv.org/abs/2606.24595v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24595) |
 
-
 ## [DEP-A-20260717-Memory Contagion](../DEP-A-20260717-Memory%20Contagion/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.23195-whitepaper-review.md`](../DEP-A-20260717-Memory%20Contagion/2606.23195-whitepaper-review.md).
@@ -1442,7 +1335,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory* | Zewen Liu | [arXiv:2606.23195v2](https://arxiv.org/abs/2606.23195v2) - [DOI](https://doi.org/10.48550/arXiv.2606.23195) |
-
 
 ## [DEP-A-20260717-Nous Predictive Memory](../DEP-A-20260717-Nous%20Predictive%20Memory/README.md)
 
@@ -1452,7 +1344,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Nous: A Predictive World Model for Long-Term Agent Memory* | Pranav Singh | [arXiv:2606.22030v1](https://arxiv.org/abs/2606.22030v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22030) |
 
-
 ## [DEP-A-20260717-AtomMem Atomic Facts](../DEP-A-20260717-AtomMem%20Atomic%20Facts/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.19847-whitepaper-review.md`](../DEP-A-20260717-AtomMem%20Atomic%20Facts/2606.19847-whitepaper-review.md).
@@ -1460,7 +1351,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts* | Yanyu Yao; Shangze Li; Zhi Zheng; Hui Zheng; Qi Liu; Tong Xu; Enhong Chen | [arXiv:2606.19847v1](https://arxiv.org/abs/2606.19847v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19847) |
-
 
 ## [DEP-A-20260717-MemSlides Hierarchy](../DEP-A-20260717-MemSlides%20Hierarchy/README.md)
 
@@ -1470,7 +1360,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision* | Ye Jin; Yangyang Xu; Jun Zhu; Yibo Yang | [arXiv:2606.17162v1](https://arxiv.org/abs/2606.17162v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17162) |
 
-
 ## [DEP-A-20260717-ForgetEval Control](../DEP-A-20260717-ForgetEval%20Control/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.15903-whitepaper-review.md`](../DEP-A-20260717-ForgetEval%20Control/2606.15903-whitepaper-review.md).
@@ -1478,7 +1367,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Control-Plane Placement Shapes Forgetting: An Architectural Study of Agent Memory Across Thirteen System Configurations* | Dongxu Yang | [arXiv:2606.15903v2](https://arxiv.org/abs/2606.15903v2) - [DOI](https://doi.org/10.48550/arXiv.2606.15903) |
-
 
 ## [DEP-A-20260717-GitOfThoughts Replay](../DEP-A-20260717-GitOfThoughts%20Replay/README.md)
 
@@ -1488,7 +1376,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge* | Pavan C Shekar; Abhishek H S; Aswanth Krishnan | [arXiv:2606.14470v2](https://arxiv.org/abs/2606.14470v2) - [DOI](https://doi.org/10.48550/arXiv.2606.14470) |
 
-
 ## [DEP-A-20260717-Infini Topic Memory](../DEP-A-20260717-Infini%20Topic%20Memory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10677-whitepaper-review.md`](../DEP-A-20260717-Infini%20Topic%20Memory/2606.10677-whitepaper-review.md).
@@ -1496,7 +1383,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory* | Suozhao Ji; Baodong Wu; Zehao Wang; Lei Xia; Qingping Li; Ruisong Wang; Wenbo Ding; Zhenhua Zhu; Boxun Li; Guohao Dai; Yu Wang | [arXiv:2606.10677v1](https://arxiv.org/abs/2606.10677v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10677) |
-
 
 ## [DEP-A-20260717-REAL Temporal Graph](../DEP-A-20260717-REAL%20Temporal%20Graph/README.md)
 
@@ -1506,7 +1392,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs* | Keer Lu; Liwei Chen; Guoqing Jiang; Zhiheng Qin; Yunhuai Liu; Wentao Zhang | [arXiv:2606.10694v1](https://arxiv.org/abs/2606.10694v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10694) |
 
-
 ## [DEP-A-20260717-Agent Memory Systems](../DEP-A-20260717-Agent%20Memory%20Systems/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.06448-whitepaper-review.md`](../DEP-A-20260717-Agent%20Memory%20Systems/2606.06448-whitepaper-review.md).
@@ -1514,7 +1399,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads* | Yasmine Omri; Ziyu Gan; Zachary Broveak; Robin Geens; Zexue He; Alex Pentland; Marian Verhelst; Tsachy Weissman; Thierry Tambe | [arXiv:2606.06448v1](https://arxiv.org/abs/2606.06448v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06448) |
-
 
 ## [DEP-A-20260717-AdMem Task Memory](../DEP-A-20260717-AdMem%20Task%20Memory/README.md)
 
@@ -1524,7 +1408,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *AdMem: Advanced Memory for Task-solving Agents* | Runzhe Wang; Huilin Lu; Shengjie Liu; Li Dong; Jason Zhu | [arXiv:2606.06787v1](https://arxiv.org/abs/2606.06787v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06787) |
 
-
 ## [DEP-A-20260717-Engram Bi Temporal](../DEP-A-20260717-Engram%20Bi%20Temporal/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.09900-whitepaper-review.md`](../DEP-A-20260717-Engram%20Bi%20Temporal/2606.09900-whitepaper-review.md).
@@ -1532,7 +1415,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Less Context, More Accuracy: A Bi-Temporal Memory Engine for LLM Agents Where a Lean Retrieved Context Beats the Full History* | Liuyin Wang | [arXiv:2606.09900v1](https://arxiv.org/abs/2606.09900v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09900) |
-
 
 ## [DEP-A-20260717-FARMA Reasoning Poison](../DEP-A-20260717-FARMA%20Reasoning%20Poison/README.md)
 
@@ -1542,7 +1424,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses* | Neeraj Karamchandani; Piyush Nagasubramaniam; Sencun Zhu; Dinghao Wu | [arXiv:2607.05029v1](https://arxiv.org/abs/2607.05029v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05029) |
 
-
 ## [DEP-A-20260717-SelfMem Optimization](../DEP-A-20260717-SelfMem%20Optimization/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.03726-whitepaper-review.md`](../DEP-A-20260717-SelfMem%20Optimization/2607.03726-whitepaper-review.md).
@@ -1550,7 +1431,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SelfMem: Self-Optimizing Memory for AI Agents* | Shu Yang; Junchao Wu; Derek F. Wong; Di Wang | [arXiv:2607.03726v1](https://arxiv.org/abs/2607.03726v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03726) |
-
 
 ## [DEP-A-20260717-Trajectory Forensics](../DEP-A-20260717-Trajectory%20Forensics/README.md)
 
@@ -1560,7 +1440,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Forensic Trajectory Signatures for Agent Memory Poisoning Detection* | Jun Wen Leong | [arXiv:2606.30566v1](https://arxiv.org/abs/2606.30566v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30566) |
 
-
 ## [DEP-A-20260717-Concept Memory Robotics](../DEP-A-20260717-Concept%20Memory%20Robotics/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.29774-whitepaper-review.md`](../DEP-A-20260717-Concept%20Memory%20Robotics/2606.29774-whitepaper-review.md).
@@ -1568,7 +1447,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Analytic Concept-Centric Memory for Agentic Embodied Manipulation* | Mingyang Sun; Xiujian Liang; Jiude Wei; Qichen He; Donglin Wang; Cewu Lu; Jianhua Sun | [arXiv:2606.29774v1](https://arxiv.org/abs/2606.29774v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29774) |
-
 
 ## [DEP-A-20260717-MemLeak Multimodal](../DEP-A-20260717-MemLeak%20Multimodal/README.md)
 
@@ -1578,7 +1456,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory* | Kuan Wang; Chao Zhang | [arXiv:2606.29788v1](https://arxiv.org/abs/2606.29788v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29788) |
 
-
 ## [DEP-A-20260717-Recurrent Memory Distill](../DEP-A-20260717-Recurrent%20Memory%20Distill/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.21562-whitepaper-review.md`](../DEP-A-20260717-Recurrent%20Memory%20Distill/2606.21562-whitepaper-review.md).
@@ -1586,7 +1463,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers* | Philippe Weinzaepfel; Christian Wolf; Bülent Mert Sariyildiz; Guillaume Bono; Gianluca Monaci | [arXiv:2606.21562v1](https://arxiv.org/abs/2606.21562v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21562) |
-
 
 ## [DEP-A-20260717-MemRefine Compression](../DEP-A-20260717-MemRefine%20Compression/README.md)
 
@@ -1596,7 +1472,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MemRefine: LLM-Guided Compression for Long-Term Agent Memory* | Minjae Kim; Jinheon Baek; Soyeong Jeong; Sung Ju Hwang | [arXiv:2606.13177v1](https://arxiv.org/abs/2606.13177v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13177) |
 
-
 ## [DEP-A-20260717-Spatial Occlusion Memory](../DEP-A-20260717-Spatial%20Occlusion%20Memory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10299-whitepaper-review.md`](../DEP-A-20260717-Spatial%20Occlusion%20Memory/2606.10299-whitepaper-review.md).
@@ -1604,7 +1479,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory* | Doeon Kwon; Junho Bang | [arXiv:2606.10299v1](https://arxiv.org/abs/2606.10299v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10299) |
-
 
 ## [DEP-A-20260717-QUOTA Joint Compression](../DEP-A-20260717-QUOTA%20Joint%20Compression/README.md)
 
@@ -1614,7 +1488,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Towards Joint Quantization and Token Pruning of Vision-Language Models* | Xinqing Li; Xin He; Xindong Zhang; Ming-Ming Cheng; Lei Zhang; Yun Liu | [arXiv:2604.17320v1](https://arxiv.org/abs/2604.17320v1) - [DOI](https://doi.org/10.48550/arXiv.2604.17320) |
 
-
 ## [DEP-A-20260717-QUBO Evidence Selection](../DEP-A-20260717-QUBO%20Evidence%20Selection/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.12334-whitepaper-review.md`](../DEP-A-20260717-QUBO%20Evidence%20Selection/2607.12334-whitepaper-review.md).
@@ -1622,7 +1495,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QUBO-Optimized Evidence Selection for Retrieval-Augmented Question Answering with Unconventional Solvers* | Rahul Singh; Madhav Vadlamani | [arXiv:2607.12334v1](https://arxiv.org/abs/2607.12334v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12334) |
-
 
 ## [DEP-A-20260717-ERA Visual Token Recycle](../DEP-A-20260717-ERA%20Visual%20Token%20Recycle/README.md)
 
@@ -1632,7 +1504,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs* | Yuhao Wang; Mu Qiao; Haiwen Diao; Yunzhi Zhuge; Pingping Zhang; Xindong Zhang; Lei Zhang; Huchuan Lu | [arXiv:2606.31982v1](https://arxiv.org/abs/2606.31982v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31982) |
 
-
 ## [DEP-A-20260717-TOPS Token Preservation](../DEP-A-20260717-TOPS%20Token%20Preservation/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.27161-whitepaper-review.md`](../DEP-A-20260717-TOPS%20Token%20Preservation/2606.27161-whitepaper-review.md).
@@ -1640,7 +1511,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference* | Tinghao Wang; Yichen Guo; Rui Huang; Zheng Lu; Qizhe Zhang; Chenxi Li; Yuan Zhang; Jiajun Cao; Zhirong Shen; Yaosong Du; Guangyan Gan; Wenya Wang; Lin William Cong; Shanghang Zhang | [arXiv:2606.27161v1](https://arxiv.org/abs/2606.27161v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27161) |
-
 
 ## [DEP-A-20260717-MVPruner Multi View](../DEP-A-20260717-MVPruner%20Multi%20View/README.md)
 
@@ -1650,7 +1520,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving* | Nan Yang; Zhanwen Liu; Linfeng Zhang; Shangyu Xie; Yang Wang; Wenzhuo Zhou; Xiangmo Zhao | [arXiv:2606.27660v2](https://arxiv.org/abs/2606.27660v2) - [DOI](https://doi.org/10.48550/arXiv.2606.27660) |
 
-
 ## [DEP-A-20260717-SPARE Subspace Pruning](../DEP-A-20260717-SPARE%20Subspace%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.18681-whitepaper-review.md`](../DEP-A-20260717-SPARE%20Subspace%20Pruning/2606.18681-whitepaper-review.md).
@@ -1658,7 +1527,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Moving Beyond Diversity: Visual Token Pruning as Subspace Reconstruction for Efficient VLMs* | Jaeyeon Lee; Shunjie Wen; Dong-Wan Choi | [arXiv:2606.18681v1](https://arxiv.org/abs/2606.18681v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18681) |
-
 
 ## [DEP-A-20260717-DCP Ultra Low Tokens](../DEP-A-20260717-DCP%20Ultra%20Low%20Tokens/README.md)
 
@@ -1668,7 +1536,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *DCP-Prune: Ultra-Low Token Pruning with Distribution Consistency Preservation* | Xifeng Xue; Xiaokang Wang; Zirui Li; Ming-Ming Cheng; Guolei Sun | [arXiv:2606.16633v1](https://arxiv.org/abs/2606.16633v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16633) |
 
-
 ## [DEP-A-20260717-AVEX Token Exchange](../DEP-A-20260717-AVEX%20Token%20Exchange/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2606.10533-whitepaper-review.md`](../DEP-A-20260717-AVEX%20Token%20Exchange/2606.10533-whitepaper-review.md).
@@ -1676,7 +1543,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning* | Zihan Meng; Dexiang Hong; Weidong Chen; Ziyu Zhou; Bo Hu; Zhendong Mao | [arXiv:2606.10533v1](https://arxiv.org/abs/2606.10533v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10533) |
-
 
 ## [DEP-A-20260717-STS Two Stage Pruning](../DEP-A-20260717-STS%20Two%20Stage%20Pruning/README.md)
 
@@ -1686,7 +1552,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *When Attention Collapses: Stage-Aware Visual Token Pruning from Structure to Semantics* | Jiahui Wang; Kai Zhang; Mai Han; Huanghe Zhang | [arXiv:2606.03569v1](https://arxiv.org/abs/2606.03569v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03569) |
 
-
 ## [DEP-A-20260717-SAFE Future Pruning](../DEP-A-20260717-SAFE%20Future%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.29662-whitepaper-review.md`](../DEP-A-20260717-SAFE%20Future%20Pruning/2605.29662-whitepaper-review.md).
@@ -1694,7 +1559,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation* | Shilin Ma; Chubin Zhang; Changyuan Wang; Yuji Wang; Yue Wu; Zixuan Wang; Jingqi Tian; Zheng Zhu; Yansong Tang | [arXiv:2605.29662v1](https://arxiv.org/abs/2605.29662v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29662) |
-
 
 ## [DEP-A-20260717-DiffPrune Throttling](../DEP-A-20260717-DiffPrune%20Throttling/README.md)
 
@@ -1704,7 +1568,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Beyond Surrogate Gradients: Fully Differentiable Token Pruning for Vision-Language Models* | Landi He; Mingde Yao; Shawn Young; Lijian Xu | [arXiv:2605.28051v1](https://arxiv.org/abs/2605.28051v1) - [DOI](https://doi.org/10.48550/arXiv.2605.28051) |
 
-
 ## [DEP-A-20260717-WeiToP Place Retrieval](../DEP-A-20260717-WeiToP%20Place%20Retrieval/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.20551-whitepaper-review.md`](../DEP-A-20260717-WeiToP%20Place%20Retrieval/2605.20551-whitepaper-review.md).
@@ -1712,7 +1575,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning* | Zichao Zeng; June Moh Goo; Junwei Zheng; Weijia Fan; Jiaming Zhang; Rainer Stiefelhagen; Jan Boehm | [arXiv:2605.20551v1](https://arxiv.org/abs/2605.20551v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20551) |
-
 
 ## [DEP-A-20260717-EventPrune Video Tokens](../DEP-A-20260717-EventPrune%20Video%20Tokens/README.md)
 
@@ -1722,7 +1584,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning* | Pengtao Ma; Ziliang Zhou; Ciyu Ruan; Haoyang Wang; Kaiyuan Li; Zihang Gong; Wenhua Ding; Chen Gao; Jingao Xu; Xinlei Chen | [arXiv:2605.19506v1](https://arxiv.org/abs/2605.19506v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19506) |
 
-
 ## [DEP-A-20260717-CoReDiT Diffusion](../DEP-A-20260717-CoReDiT%20Diffusion/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.14191-whitepaper-review.md`](../DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md).
@@ -1730,7 +1591,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers* | Zhuojin Li; Hsin-Pai Cheng; Hong Cai; Shizhong Han; Fatih Porikli | [arXiv:2605.14191v1](https://arxiv.org/abs/2605.14191v1) - [DOI](https://doi.org/10.48550/arXiv.2605.14191) |
-
 
 ## [DEP-A-20260717-OmniDrop Query Guidance](../DEP-A-20260717-OmniDrop%20Query%20Guidance/README.md)
 
@@ -1740,7 +1600,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance* | Yeo Jeong Park; Hyemi Jang; Minseo Choi; Jongsun Lee; Jooyoung Choi; Yongkweon Jeon | [arXiv:2605.14458v1](https://arxiv.org/abs/2605.14458v1) - [DOI](https://doi.org/10.48550/arXiv.2605.14458) |
 
-
 ## [DEP-A-20260717-LiteLVLM Pixel Grounding](../DEP-A-20260717-LiteLVLM%20Pixel%20Grounding/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.13178-whitepaper-review.md`](../DEP-A-20260717-LiteLVLM%20Pixel%20Grounding/2605.13178-whitepaper-review.md).
@@ -1748,7 +1607,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models* | Sangin Lee; Yukyung Choi | [arXiv:2605.13178v2](https://arxiv.org/abs/2605.13178v2) - [DOI](https://doi.org/10.48550/arXiv.2605.13178) |
-
 
 ## [DEP-A-20260717-ContextGuard Omni Tokens](../DEP-A-20260717-ContextGuard%20Omni%20Tokens/README.md)
 
@@ -1758,7 +1616,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs* | Chaeyoung Jung; Kyeongha Rho; Joon Son Chung | [arXiv:2605.11605v1](https://arxiv.org/abs/2605.11605v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11605) |
 
-
 ## [DEP-A-20260717-ERASE Adaptive Pruning](../DEP-A-20260717-ERASE%20Adaptive%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.09982-whitepaper-review.md`](../DEP-A-20260717-ERASE%20Adaptive%20Pruning/2605.09982-whitepaper-review.md).
@@ -1766,7 +1623,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ERASE: Eliminating Redundant Visual Tokens via Adaptive Two-Stage Token Pruning* | Yuna Lee; Kyoungho Min; Yulhwa Kim | [arXiv:2605.09982v1](https://arxiv.org/abs/2605.09982v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09982) |
-
 
 ## [DEP-A-20260717-COAST Visual Routing](../DEP-A-20260717-COAST%20Visual%20Routing/README.md)
 
@@ -1776,7 +1632,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Evading Visual Aphasia: Contrastive Adaptive Semantic Token Pruning for Vision-Language Models* | Jie Ma; Yihang Liu; Zhike Qiu; Jiayi Ji; Xiaoshuai Sun | [arXiv:2605.09429v1](https://arxiv.org/abs/2605.09429v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09429) |
 
-
 ## [DEP-A-20260717-PaceVGGT Frame Pruning](../DEP-A-20260717-PaceVGGT%20Frame%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2605.08371-whitepaper-review.md`](../DEP-A-20260717-PaceVGGT%20Frame%20Pruning/2605.08371-whitepaper-review.md).
@@ -1784,7 +1639,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers* | Haotang Li; Zhenyu Qi; Shaohan Henry Wang; Kebin Peng; Zi Wang; Qing Guo; Sen He; Huanrui Yang | [arXiv:2605.08371v1](https://arxiv.org/abs/2605.08371v1) - [DOI](https://doi.org/10.48550/arXiv.2605.08371) |
-
 
 ## [DEP-A-20260717-Trust Before Fusion](../DEP-A-20260717-Trust%20Before%20Fusion/README.md)
 
@@ -1794,7 +1648,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG* | Saadeldine Eletter; Owais Aijaz; Preslav Nakov | [arXiv:2607.10798v1](https://arxiv.org/abs/2607.10798v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10798) |
 
-
 ## [DEP-A-20260717-FreshCache Risk](../DEP-A-20260717-FreshCache%20Risk/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04281-whitepaper-review.md`](../DEP-A-20260717-FreshCache%20Risk/2607.04281-whitepaper-review.md).
@@ -1802,7 +1655,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs* | Muhammad Mansoor; Tahir Ahmad; Yeo-Chan Yoon | [arXiv:2607.04281v1](https://arxiv.org/abs/2607.04281v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04281) |
-
 
 ## [DEP-A-20260717-AGE Graph Embedding](../DEP-A-20260717-AGE%20Graph%20Embedding/README.md)
 
@@ -1812,7 +1664,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation* | Bao Long Nguyen Huu; Atsushi Hashimoto | [arXiv:2607.00052v1](https://arxiv.org/abs/2607.00052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00052) |
 
-
 ## [DEP-A-20260717-Constrained LongEval](../DEP-A-20260717-Constrained%20LongEval/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04008-whitepaper-review.md`](../DEP-A-20260717-Constrained%20LongEval/2607.04008-whitepaper-review.md).
@@ -1820,7 +1671,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Candidate-Constrained Retrieval-Augmented Generation for LongEval-RAG: System Design and Empirical Analysis* | Yingdong Yang; Haijian Wu | [arXiv:2607.04008v1](https://arxiv.org/abs/2607.04008v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04008) |
-
 
 ## [DEP-A-20260717-GRASP Search Policy](../DEP-A-20260717-GRASP%20Search%20Policy/README.md)
 
@@ -1830,7 +1680,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *GRASP: GRanularity-Aware Search Policy for Agentic RAG* | Varun Gandhi; Jaewook Lee; Shantanu Todmal; Franck Dernoncourt; Ryan Rossi; Zichao Wang; Andrew Lan | [arXiv:2607.10463v1](https://arxiv.org/abs/2607.10463v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10463) |
 
-
 ## [DEP-A-20260717-Cost Governed RAG](../DEP-A-20260717-Cost%20Governed%20RAG/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.12188-whitepaper-review.md`](../DEP-A-20260717-Cost%20Governed%20RAG/2607.12188-whitepaper-review.md).
@@ -1838,7 +1687,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems* | Navnit Shukla | [arXiv:2607.12188v1](https://arxiv.org/abs/2607.12188v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12188) |
-
 
 ## [DEP-A-20260717-EvidentialRAG Conflict](../DEP-A-20260717-EvidentialRAG%20Conflict/README.md)
 
@@ -1848,7 +1696,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *EvidentialRAG: Quantifying and Mitigating Information Conflict in Multi-Source Retrieval-Augmented Generation via Evidential Deep Learning* | S M Asif Hossain; Ruksat Khan Shayoni; M. F. Mridha | [arXiv:2607.10491v1](https://arxiv.org/abs/2607.10491v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10491) |
 
-
 ## [DEP-A-20260717-SVD RAG Trees](../DEP-A-20260717-SVD%20RAG%20Trees/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.10316-whitepaper-review.md`](../DEP-A-20260717-SVD%20RAG%20Trees/2607.10316-whitepaper-review.md).
@@ -1856,7 +1703,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SVD-RAG: Efficient Tree-Organized Retrieval-Augmented Generation via Singular Value Decomposition* | Zhihui Sun | [arXiv:2607.10316v1](https://arxiv.org/abs/2607.10316v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10316) |
-
 
 ## [DEP-A-20260717-Deceptive Grounding](../DEP-A-20260717-Deceptive%20Grounding/README.md)
 
@@ -1866,7 +1712,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation* | Cedric Caruzzo; Donggeun Yoo; Tae Soo Kim | [arXiv:2607.09349v1](https://arxiv.org/abs/2607.09349v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09349) |
 
-
 ## [DEP-A-20260717-PlanRAG Query Trees](../DEP-A-20260717-PlanRAG%20Query%20Trees/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.00508-whitepaper-review.md`](../DEP-A-20260717-PlanRAG%20Query%20Trees/2607.00508-whitepaper-review.md).
@@ -1874,7 +1719,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When RAG Meets Query Planning: Logical Query Trees for Resolving Exploratory Reasoning Problems* | Ganlin Xu; Linghao Zhang; Zhitao Yin; Hongda Xi; Chen Yang; Jiaqing Liang; Weijia Lu; Sihang Jiang; Yanghua Xiao; Deqing Yang | [arXiv:2607.00508v2](https://arxiv.org/abs/2607.00508v2) - [DOI](https://doi.org/10.48550/arXiv.2607.00508) |
-
 
 ## [DEP-A-20260717-DynaKRAG Control](../DEP-A-20260717-DynaKRAG%20Control/README.md)
 
@@ -1884,7 +1728,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation* | Yaqi Wu; Xiaolei Guo; Chenyu Zhou; Jiaqi Huang; Xianfa Zhang; Junxu Zhang; Zhuo Yu; Zhubo Shi; Jianghao Lin; Dongdong Ge | [arXiv:2607.06507v1](https://arxiv.org/abs/2607.06507v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06507) |
 
-
 ## [DEP-A-20260717-API RAG Constraints](../DEP-A-20260717-API%20RAG%20Constraints/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.05936-whitepaper-review.md`](../DEP-A-20260717-API%20RAG%20Constraints/2607.05936-whitepaper-review.md).
@@ -1892,7 +1735,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding* | Daniel Maninger; Leon Chemnitz; Jannis Brugger; Tushar Lamba; Amir Molzam Sharifloo; Mira Mezini | [arXiv:2607.05936v1](https://arxiv.org/abs/2607.05936v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05936) |
-
 
 ## [DEP-A-20260717-Pragmatic Ambiguity](../DEP-A-20260717-Pragmatic%20Ambiguity/README.md)
 
@@ -1902,7 +1744,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements* | Pavithra PM Nair; Preethu Rose Anish | [arXiv:2607.04436v1](https://arxiv.org/abs/2607.04436v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04436) |
 
-
 ## [DEP-A-20260717-GASP Hallucinations](../DEP-A-20260717-GASP%20Hallucinations/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.04223-whitepaper-review.md`](../DEP-A-20260717-GASP%20Hallucinations/2607.04223-whitepaper-review.md).
@@ -1910,7 +1751,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)* | Mohamed Aly Bouke | [arXiv:2607.04223v1](https://arxiv.org/abs/2607.04223v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04223) |
-
 
 ## [DEP-A-20260717-RAG Chunking Study](../DEP-A-20260717-RAG%20Chunking%20Study/README.md)
 
@@ -1920,7 +1760,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts* | Valentin J. J. Kreileder; Johannes Reisinger; Andreas Fischer | [arXiv:2607.01852v1](https://arxiv.org/abs/2607.01852v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01852) |
 
-
 ## [DEP-A-20260717-CheckRLM Coherence](../DEP-A-20260717-CheckRLM%20Coherence/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-17. The owning review artifact is [`2607.02262-whitepaper-review.md`](../DEP-A-20260717-CheckRLM%20Coherence/2607.02262-whitepaper-review.md).
@@ -1928,7 +1767,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CheckRLM: Effective Knowledge-Thought Coherence Checking in Retrieval-Augmented Reasoning* | Dingling Xu; Ruobing Wang; Qingfei Zhao; Yukun Yan; Zhichun Wang; Daren Zha; Shi Yu; Zhenghao Liu; Shuo Wang; Xu Han; Maosong Sun | [arXiv:2607.02262v1](https://arxiv.org/abs/2607.02262v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02262) |
-
 
 ## [DEP-A-20260717-ClinRAG Graph](../DEP-A-20260717-ClinRAG%20Graph/README.md)
 
@@ -1938,7 +1776,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *ClinRAG-GRAPH: Clinical-prior Retrieval-Augmented Graph Model with Domain Adversarial Learning for Breast pCR Prediction* | Yaofei Duan; Yuhao Huang; Tianyu Zhang; Yuan Gao; Luyi Han; Xin Wang; Xinyu Xie; Xinglong Liang; Chunyao Lu; Muzhen He; Patrick Pang; Yue Sun; Ning Mao; Tao Tan; Ritse Mann | [arXiv:2607.00798v1](https://arxiv.org/abs/2607.00798v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00798) |
 
-
 ## [DEP-A-20260718-LaMR Code Pruning](../DEP-A-20260718-LaMR%20Code%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2605.15315-whitepaper-review.md`](../DEP-A-20260718-LaMR%20Code%20Pruning/2605.15315-whitepaper-review.md).
@@ -1946,7 +1783,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning* | Jingjing Wang; Xiwen Chen; Wenhui Zhu; Huayu Li; Zhengxiao He; Feiyang Cai; Ana S. Carreon-Rascon; Xuanzhao Dong; Feng Luo | [arXiv:2605.15315v1](https://arxiv.org/abs/2605.15315v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15315) |
-
 
 ## [DEP-A-20260718-Bifocal R2LM](../DEP-A-20260718-Bifocal%20R2LM/README.md)
 
@@ -1956,7 +1792,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation* | Yuhang Chen; Xianfeng Wu; Jinhao Duan; Mingfu Liang; Xiaohan Wei; Yunchen Pu; Fei Tian; Chonglin Sun; Parish Aggarwal; Frank Shyu; Luke Simon; Sandeep Pandey; Xi Liu; Tianlong Chen | [arXiv:2606.27732v1](https://arxiv.org/abs/2606.27732v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27732) |
 
-
 ## [DEP-A-20260718-MG-RWKV Forgery](../DEP-A-20260718-MG-RWKV%20Forgery/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00902-whitepaper-review.md`](../DEP-A-20260718-MG-RWKV%20Forgery/2607.00902-whitepaper-review.md).
@@ -1964,7 +1799,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization* | Jingchen Ni; Cangjin Yu; Dan Jiang; Quan Zhang; Keyu Lv; Shannan Yan; Linyue Pan; Ke Zhang; Chun Yuan | [arXiv:2607.00902v1](https://arxiv.org/abs/2607.00902v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00902) |
-
 
 ## [DEP-A-20260718-Verbose Med Context](../DEP-A-20260718-Verbose%20Med%20Context/README.md)
 
@@ -1974,7 +1808,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *The Verbose Context Problem in Medical Records* | Shiva Kaul; Min-Gyu Kim; Anjum Khurshid; Sriram Vishwanath | [arXiv:2606.29503v1](https://arxiv.org/abs/2606.29503v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29503) |
 
-
 ## [DEP-A-20260718-EvoDS Agent Skills](../DEP-A-20260718-EvoDS%20Agent%20Skills/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.03841-whitepaper-review.md`](../DEP-A-20260718-EvoDS%20Agent%20Skills/2606.03841-whitepaper-review.md).
@@ -1982,7 +1815,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management* | Zherui Yang; Fan Liu; Yansong Ning; Hao Liu | [arXiv:2606.03841v1](https://arxiv.org/abs/2606.03841v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03841) |
-
 
 ## [DEP-A-20260718-OmniSelect Tokens](../DEP-A-20260718-OmniSelect%20Tokens/README.md)
 
@@ -1992,7 +1824,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models* | Morunliu Yang; Ruotao Xu; Le Li; Yue Wang; Jianxin Zhang; Juntao Li; Yihang Lou; Siwei Feng; Peifeng Li | [arXiv:2605.18041v1](https://arxiv.org/abs/2605.18041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18041) |
 
-
 ## [DEP-A-20260718-STACK Reasoning](../DEP-A-20260718-STACK%20Reasoning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.09150-whitepaper-review.md`](../DEP-A-20260718-STACK%20Reasoning/2604.09150-whitepaper-review.md).
@@ -2000,7 +1831,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning* | Yi Sui; Chaozhuo Li; Dawei Song | [arXiv:2604.09150v1](https://arxiv.org/abs/2604.09150v1) - [DOI](https://doi.org/10.48550/arXiv.2604.09150) |
-
 
 ## [DEP-A-20260718-Local Splitter Tactics](../DEP-A-20260718-Local%20Splitter%20Tactics/README.md)
 
@@ -2010,7 +1840,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Local-Splitter: A Measurement Study of Seven Tactics for Reducing Cloud LLM Token Usage on Coding-Agent Workloads* | Justice Owusu Agyemang; Jerry John Kponyo; Elliot Amponsah; Godfred Manu Addo Boakye; Kwame Opuni-Boachie Obour Agyekum | [arXiv:2604.12301v1](https://arxiv.org/abs/2604.12301v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12301) |
 
-
 ## [DEP-A-20260718-ContextNest Governance](../DEP-A-20260718-ContextNest%20Governance/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.02116-whitepaper-review.md`](../DEP-A-20260718-ContextNest%20Governance/2607.02116-whitepaper-review.md).
@@ -2018,7 +1847,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ContextNest: Verifiable Context Governance for Autonomous AI Agent* | Misha Sulpovar; Benn R. Konsynski; Qaish Kanchwala; Gabe Goodhart | [arXiv:2607.02116v2](https://arxiv.org/abs/2607.02116v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02116) |
-
 
 ## [DEP-A-20260718-Proactive Context Graphs](../DEP-A-20260718-Proactive%20Context%20Graphs/README.md)
 
@@ -2028,7 +1856,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Context Graphs for Proactive Enterprise Agents* | Avinash Kumar | [arXiv:2607.07721v1](https://arxiv.org/abs/2607.07721v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07721) |
 
-
 ## [DEP-A-20260718-Tool Context Pruning](../DEP-A-20260718-Tool%20Context%20Pruning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.10209-whitepaper-review.md`](../DEP-A-20260718-Tool%20Context%20Pruning/2606.10209-whitepaper-review.md).
@@ -2036,7 +1863,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents* | Abhilasha Lodha; Mahsa Pahlavikhah Varnosfaderani; Abir Chakraborty; Abhinav Mithal | [arXiv:2606.10209v1](https://arxiv.org/abs/2606.10209v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10209) |
-
 
 ## [DEP-A-20260718-SpotAttention Routing](../DEP-A-20260718-SpotAttention%20Routing/README.md)
 
@@ -2046,7 +1872,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers* | Huzama Ahmad; Se-Young Yun | [arXiv:2606.22874v1](https://arxiv.org/abs/2606.22874v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22874) |
 
-
 ## [DEP-A-20260718-Lifelong Attention](../DEP-A-20260718-Lifelong%20Attention/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2606.25342-whitepaper-review.md`](../DEP-A-20260718-Lifelong%20Attention/2606.25342-whitepaper-review.md).
@@ -2054,7 +1879,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Lifelong In-Context Learning with Transformers Requires Parametric Forms of Attention* | Luke McDermott; Robert W. Heath jr.; Rahul Parhi | [arXiv:2606.25342v1](https://arxiv.org/abs/2606.25342v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25342) |
-
 
 ## [DEP-A-20260718-DACS Focus Sessions](../DEP-A-20260718-DACS%20Focus%20Sessions/README.md)
 
@@ -2064,7 +1888,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration* | Nickson Patel | [arXiv:2604.07911v1](https://arxiv.org/abs/2604.07911v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07911) |
 
-
 ## [DEP-A-20260718-SmoothAgent Lookahead](../DEP-A-20260718-SmoothAgent%20Lookahead/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.00151-whitepaper-review.md`](../DEP-A-20260718-SmoothAgent%20Lookahead/2607.00151-whitepaper-review.md).
@@ -2072,7 +1895,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SmoothAgent: Efficient Long-Horizon LLM-Based Agent Serving with Lookahead Context Engineering* | Zaifeng Pan; Qianxu Wang; Zhengding Hu; Chang Chen; Yue Guan; Yanbo Zhou; Steven Swanson; Yufei Ding | [arXiv:2607.00151v1](https://arxiv.org/abs/2607.00151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00151) |
-
 
 ## [DEP-A-20260718-ViCoStream Pipeline](../DEP-A-20260718-ViCoStream%20Pipeline/README.md)
 
@@ -2082,7 +1904,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *ViCoStream: Streaming VideoLLMs Can Run Beyond 100 FPS with Stage-Wise Coordinated Inference* | Yang Tan; Junlong Tong; Linan Yue; Hao Wu; Pengfei Fang; Xiaoyu Shen | [arXiv:2606.19849v1](https://arxiv.org/abs/2606.19849v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19849) |
 
-
 ## [DEP-A-20260718-DASH Token Halting](../DEP-A-20260718-DASH%20Token%20Halting/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2604.18103-whitepaper-review.md`](../DEP-A-20260718-DASH%20Token%20Halting/2604.18103-whitepaper-review.md).
@@ -2090,7 +1911,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stability Implies Redundancy: Delta Attention Selective Halting for Efficient Long-Context Prefilling* | Yujie Chen; Tailai Chen; Yifeng Gao; Zoe Wanying He; Yijue Xu; Shaobo Wang; Linfeng Zhang | [arXiv:2604.18103v2](https://arxiv.org/abs/2604.18103v2) - [DOI](https://doi.org/10.48550/arXiv.2604.18103) |
-
 
 ## [DEP-A-20260718-Keyless Attention](../DEP-A-20260718-Keyless%20Attention/README.md)
 
@@ -2100,7 +1920,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Keyless Attention: Value-Space Routing and Value-Only Caching for Efficient Transformers* | Xin Gao | [arXiv:2606.21848v1](https://arxiv.org/abs/2606.21848v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21848) |
 
-
 ## [DEP-A-20260718-COBS Sparse Attention](../DEP-A-20260718-COBS%20Sparse%20Attention/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-18. The owning review artifact is [`2607.09052-whitepaper-review.md`](../DEP-A-20260718-COBS%20Sparse%20Attention/2607.09052-whitepaper-review.md).
@@ -2108,7 +1927,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *COBS: Cumulant Order Block Sparse Attention* | Alexander Tian; Aditya Ghai; Sanjit Neelam; Zaal Vasania; Akshay Mishra | [arXiv:2607.09052v1](https://arxiv.org/abs/2607.09052v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09052) |
-
 
 ## [DEP-A-20260718-Jet Long Bifocal RoPE](../DEP-A-20260718-Jet%20Long%20Bifocal%20RoPE/README.md)
 
@@ -2118,7 +1936,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE* | Haozhan Tang; Zerui Wang; Yuxian Gu; Song Han; Han Cai | [arXiv:2607.07740v2](https://arxiv.org/abs/2607.07740v2) - [DOI](https://doi.org/10.48550/arXiv.2607.07740) |
 
-
 ## [DEP-A-20260719-Edge Cloud Split](../DEP-A-20260719-Edge%20Cloud%20Split/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13093-whitepaper-review.md`](../DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md).
@@ -2126,7 +1943,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient and Privacy Aware Edge Cloud Collaborative Inference for Large Language Models* | Yi Li; Chen Li; Jiexiong Liu | [arXiv:2607.13093v1](https://arxiv.org/abs/2607.13093v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13093) |
-
 
 ## [DEP-A-20260719-Cache Resident LLM](../DEP-A-20260719-Cache%20Resident%20LLM/README.md)
 
@@ -2136,7 +1952,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Cache-Resident LLM Inference in GB-Scale Last-Level Caches* | Wanning Zhang; Tongzhou Gu; Marco Canini; Ceyu Xu; Jian Weng | [arXiv:2606.25353v1](https://arxiv.org/abs/2606.25353v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25353) |
 
-
 ## [DEP-A-20260719-SVF Geometry Scheduler](../DEP-A-20260719-SVF%20Geometry%20Scheduler/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.22327-whitepaper-review.md`](../DEP-A-20260719-SVF%20Geometry%20Scheduler/2606.22327-whitepaper-review.md).
@@ -2144,7 +1959,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice* | Li Kong; Qi Qi; Yinyu Ye; Zijie Zhou | [arXiv:2606.22327v2](https://arxiv.org/abs/2606.22327v2) - [DOI](https://doi.org/10.48550/arXiv.2606.22327) |
-
 
 ## [DEP-A-20260719-Dustin Sparse Verify](../DEP-A-20260719-Dustin%20Sparse%20Verify/README.md)
 
@@ -2154,7 +1968,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding* | WenHung Lee; Jian-Jia Chen; Xiaolin Lin; Pei-Shuo Wang; Chi-Chih Chang; Chun-Che Yang; Ning-Chi Huang; Grace Li Zhang; Kai-Chiang Wu | [arXiv:2606.24957v1](https://arxiv.org/abs/2606.24957v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24957) |
 
-
 ## [DEP-A-20260719-Moebius Runtime Switch](../DEP-A-20260719-Moebius%20Runtime%20Switch/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.26607-whitepaper-review.md`](../DEP-A-20260719-Moebius%20Runtime%20Switch/2606.26607-whitepaper-review.md).
@@ -2162,7 +1975,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch* | Shaoyu Wang; Yizhuo Liang; Jaeyong Song; Chong Li; Seo Jin Park | [arXiv:2606.26607v1](https://arxiv.org/abs/2606.26607v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26607) |
-
 
 ## [DEP-A-20260719-Concordia Checkpoint](../DEP-A-20260719-Concordia%20Checkpoint/README.md)
 
@@ -2172,7 +1984,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference* | Yuhang Gan; Yiwei Yang; Yuyi Li; Xiangyu Gao; Yichen Wang; Rain Jiang; Xiaoning Ding; Andi Quinn; Chen Qian | [arXiv:2606.23521v1](https://arxiv.org/abs/2606.23521v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23521) |
 
-
 ## [DEP-A-20260719-FlashAccel HBF](../DEP-A-20260719-FlashAccel%20HBF/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.10186-whitepaper-review.md`](../DEP-A-20260719-FlashAccel%20HBF/2607.10186-whitepaper-review.md).
@@ -2180,7 +1991,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference* | Xinyu Wang; Yalong Xue; Xiaotian Sun; Xiaoyu Zhang; Chunmeng Dou; Xueqi Li; Xiaoming Chen | [arXiv:2607.10186v1](https://arxiv.org/abs/2607.10186v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10186) |
-
 
 ## [DEP-A-20260719-HEAL Reproducibility](../DEP-A-20260719-HEAL%20Reproducibility/README.md)
 
@@ -2190,7 +2000,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Demystifying Numerical Instability in LLM Inference: Achieving Reproducible Inference for Mission-Critical Tasks with HEAL* | Zhenting Zhu; Lucas Thai; Shan Yu; Yicheng Liu; Yifan Qiao; Chenxi Wang; Harry Xu; Junyi Shu | [arXiv:2606.21023v1](https://arxiv.org/abs/2606.21023v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21023) |
 
-
 ## [DEP-A-20260719-WiSP Expert Paging](../DEP-A-20260719-WiSP%20Expert%20Paging/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.21868-whitepaper-review.md`](../DEP-A-20260719-WiSP%20Expert%20Paging/2606.21868-whitepaper-review.md).
@@ -2198,7 +2007,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WiSP: A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware* | Jiamu Zhang; Liang Wu; Mayank Darbari; Liangjie Hong | [arXiv:2606.21868v1](https://arxiv.org/abs/2606.21868v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21868) |
-
 
 ## [DEP-A-20260719-Mage Execution Memory](../DEP-A-20260719-Mage%20Execution%20Memory/README.md)
 
@@ -2208,7 +2016,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents* | Yaoqi Chen; Haibin Lai; Yuru Feng; Chuyu Han; Qianxi Zhang; Baotong Lu; Menghao Li; Xinjiang Wang; Zhirui Wang; Shusen Xu; Zengzhong Li; Zewen Jin; Hao Wu; Cheng Li; Qi Chen | [arXiv:2606.06090v1](https://arxiv.org/abs/2606.06090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06090) |
 
-
 ## [DEP-A-20260719-Oracle Agent Memory](../DEP-A-20260719-Oracle%20Agent%20Memory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.13157-whitepaper-review.md`](../DEP-A-20260719-Oracle%20Agent%20Memory/2607.13157-whitepaper-review.md).
@@ -2216,7 +2023,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents* | Richmond Alake; Cesare Bernardis; Paul Cayet; Luca Engel; Damien Hilloulin; Sungpack Hong; Allen Hosler; Nickolas Kavantzas; Ingo Kossyk; Son Le; Rhicheek Patra; Kartik Talamadupula; Valentin Venzin | [arXiv:2607.13157v1](https://arxiv.org/abs/2607.13157v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13157) |
-
 
 ## [DEP-A-20260719-ActiveMem Distributed](../DEP-A-20260719-ActiveMem%20Distributed/README.md)
 
@@ -2226,7 +2032,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *ActiveMem: Distributed Active Memory for Long-Horizon LLM Reasoning* | Yunhan Jiang; Wenbin Duan; Shasha Guo; Liang Pang; Xiaoqian Sun; Huawei Shen | [arXiv:2606.10532v1](https://arxiv.org/abs/2606.10532v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10532) |
 
-
 ## [DEP-A-20260719-Agent Memory Benchmark](../DEP-A-20260719-Agent%20Memory%20Benchmark/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.24775-whitepaper-review.md`](../DEP-A-20260719-Agent%20Memory%20Benchmark/2606.24775-whitepaper-review.md).
@@ -2234,7 +2039,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Are We Ready For An Agent-Native Memory System?* | Wei Zhou; Xuanhe Zhou; Shaokun Han; Hongming Xu; Guoliang Li; Zhiyu Li; Feiyu Xiong; Fan Wu | [arXiv:2606.24775v1](https://arxiv.org/abs/2606.24775v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24775) |
-
 
 ## [DEP-A-20260719-AuthSelect Integrity](../DEP-A-20260719-AuthSelect%20Integrity/README.md)
 
@@ -2244,7 +2048,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Selection Integrity for LLM Graph Memory: An Accumulability Criterion for Information-Flow-Blind Retrieval* | Zeming Fei; Hongming Fei; Xiaoyang Wang; Yang yang; Prosanta Gope; Biplab Sikdar; Ying Zhang | [arXiv:2606.12290v1](https://arxiv.org/abs/2606.12290v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12290) |
 
-
 ## [DEP-A-20260719-FragFuse Memory Attack](../DEP-A-20260719-FragFuse%20Memory%20Attack/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.15609-whitepaper-review.md`](../DEP-A-20260719-FragFuse%20Memory%20Attack/2606.15609-whitepaper-review.md).
@@ -2252,7 +2055,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion* | Zixin Rao; Wentian Zhu; Chan Aristella Lu; Zhaorun Chen; Wei Niu; Le Guan; Bo Li; Zhen Xiang | [arXiv:2606.15609v1](https://arxiv.org/abs/2606.15609v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15609) |
-
 
 ## [DEP-A-20260719-PersonaTree Memory](../DEP-A-20260719-PersonaTree%20Memory/README.md)
 
@@ -2262,7 +2064,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents* | Yubo Hou; Jingwei Song; Hongbo Zhang; Zhisheng Chen; Bang Xiao; Tao Wan; Zengchang Qin | [arXiv:2606.04780v1](https://arxiv.org/abs/2606.04780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04780) |
 
-
 ## [DEP-A-20260719-MASS Social Simulation](../DEP-A-20260719-MASS%20Social%20Simulation/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2606.09198-whitepaper-review.md`](../DEP-A-20260719-MASS%20Social%20Simulation/2606.09198-whitepaper-review.md).
@@ -2270,7 +2071,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation* | Yongrui Liu; Deyi Xiong | [arXiv:2606.09198v1](https://arxiv.org/abs/2606.09198v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09198) |
-
 
 ## [DEP-A-20260719-DCPM Dual Process](../DEP-A-20260719-DCPM%20Dual%20Process/README.md)
 
@@ -2280,7 +2080,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents* | Tianxiang Fei; Mingyang Song; Mao Zheng; Xiang Yu | [arXiv:2606.09483v1](https://arxiv.org/abs/2606.09483v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09483) |
 
-
 ## [DEP-A-20260719-FRAMe Flight Planning](../DEP-A-20260719-FRAMe%20Flight%20Planning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-19. The owning review artifact is [`2607.06964-whitepaper-review.md`](../DEP-A-20260719-FRAMe%20Flight%20Planning/2607.06964-whitepaper-review.md).
@@ -2288,7 +2087,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent* | Amin Tabrizian; Arsyi Aziz; Aarifah Ullah; Mahyar Ghazanfari; Pouria Razzaghi; Peng Wei | [arXiv:2607.06964v1](https://arxiv.org/abs/2607.06964v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06964) |
-
 
 ## [DEP-A-20260721-RTPrune OCR Tokens](../DEP-A-20260721-RTPrune%20OCR%20Tokens/README.md)
 
@@ -2298,7 +2096,6 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 |---|---|---|
 | *RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference* | Ben Wan; Yan Feng; Zihan Tang; Weizhe Huang; Yuting Zeng; Jia Wang; Tongxuan Liu | [arXiv:2605.00392v3](https://arxiv.org/abs/2605.00392v3) - [DOI](https://doi.org/10.48550/arXiv.2605.00392) |
 
-
 ## [DEP-A-20260721-STPrune Driving](../DEP-A-20260721-STPrune%20Driving/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.19145-whitepaper-review.md`](../DEP-A-20260721-STPrune%20Driving/2604.19145-whitepaper-review.md).
@@ -2306,7 +2103,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ST-Prune: Training-Free Spatio-Temporal Token Pruning for Vision-Language Models in Autonomous Driving* | Lin Sha; Haiyun Guo; Tao Wang; Cong Zhang; Min Huang; Jinqiao Wang; Qinghai Miao | [arXiv:2604.19145v1](https://arxiv.org/abs/2604.19145v1) - [DOI](https://doi.org/10.48550/arXiv.2604.19145) |
-
 
 ## [DEP-A-20260721-F3A Visual Scaling](../DEP-A-20260721-F3A%20Visual%20Scaling/README.md)
 
@@ -2316,7 +2112,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token Pruning with F^3A* | YiJie Huang; Yiqun Zhang; Zhuoyue Jia; Xiaocui Yang; Junzhao Huang; Zihan Wang; Shi Feng; Daling Wang; Yifei Zhang; Yongkang Liu | [arXiv:2605.16359v1](https://arxiv.org/abs/2605.16359v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16359) |
 
-
 ## [DEP-A-20260721-CICL Memory Cards](../DEP-A-20260721-CICL%20Memory%20Cards/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.08151-whitepaper-review.md`](../DEP-A-20260721-CICL%20Memory%20Cards/2606.08151-whitepaper-review.md).
@@ -2324,7 +2119,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents* | Xinyu Guan; Qianyang Zhao; Yuming Deng | [arXiv:2606.08151v2](https://arxiv.org/abs/2606.08151v2) - [DOI](https://doi.org/10.48550/arXiv.2606.08151) |
-
 
 ## [DEP-A-20260721-Geo3DPruner](../DEP-A-20260721-Geo3DPruner/README.md)
 
@@ -2334,7 +2128,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Geometry-Guided 3D Visual Token Pruning for Video-Language Models* | Han Li; Zehao Huang; Jiahui Fu; Naiyan Wang; Si Liu | [arXiv:2604.18260v1](https://arxiv.org/abs/2604.18260v1) - [DOI](https://doi.org/10.48550/arXiv.2604.18260) |
 
-
 ## [DEP-A-20260721-CATP Camouflage](../DEP-A-20260721-CATP%20Camouflage/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.16854-whitepaper-review.md`](../DEP-A-20260721-CATP%20Camouflage/2604.16854-whitepaper-review.md).
@@ -2342,7 +2135,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection* | Yuhan Gao; Shuhao Kang; Xin He; Bing Li; Xu Cheng; Yun Liu | [arXiv:2604.16854v1](https://arxiv.org/abs/2604.16854v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16854) |
-
 
 ## [DEP-A-20260721-DocPrune Document QA](../DEP-A-20260721-DocPrune%20Document%20QA/README.md)
 
@@ -2352,7 +2144,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning* | Joonmyung Choi; Sanghyeok Lee; Jongha Kim; Sehyung Kim; Dohwan Ko; Jihyung Kil; Hyunwoo J. Kim | [arXiv:2604.22281v1](https://arxiv.org/abs/2604.22281v1) - [DOI](https://doi.org/10.48550/arXiv.2604.22281) |
 
-
 ## [DEP-A-20260721-LearnPruner VLM](../DEP-A-20260721-LearnPruner%20VLM/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.23950-whitepaper-review.md`](../DEP-A-20260721-LearnPruner%20VLM/2604.23950-whitepaper-review.md).
@@ -2360,7 +2151,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LearnPruner: Rethinking Attention-based Token Pruning in Vision Language Models* | Rinyoichi Takezoe; Yaqian Li; Zihao Bo; Anzhou Hou; Mo Guang; Kaiwen Long | [arXiv:2604.23950v1](https://arxiv.org/abs/2604.23950v1) - [DOI](https://doi.org/10.48550/arXiv.2604.23950) |
-
 
 ## [DEP-A-20260721-SmolMamba Vision](../DEP-A-20260721-SmolMamba%20Vision/README.md)
 
@@ -2370,7 +2160,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models* | Dewei Bai; Hongxiang Peng; Yunyun Zeng; Ziyu Zhang; Hong Qu; Yi Zhang | [arXiv:2604.25570v1](https://arxiv.org/abs/2604.25570v1) - [DOI](https://doi.org/10.48550/arXiv.2604.25570) |
 
-
 ## [DEP-A-20260721-G2C Document MT](../DEP-A-20260721-G2C%20Document%20MT/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.03078-whitepaper-review.md`](../DEP-A-20260721-G2C%20Document%20MT/2606.03078-whitepaper-review.md).
@@ -2378,7 +2167,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *G^2C-MT: Graph-Guided Context Selection for Document-Level Machine Translation* | Baijun Ji; Zixuan Zhou; Xiangyu Duan; Yu Liu; Longbo Sun; Rupu Wei; Bohong Zhao | [arXiv:2606.03078v1](https://arxiv.org/abs/2606.03078v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03078) |
-
 
 ## [DEP-A-20260721-SLUCoS Context](../DEP-A-20260721-SLUCoS%20Context/README.md)
 
@@ -2388,7 +2176,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models* | Oroel Ipas; Guillermo Gomez-Trenado; Rocío Romero-Zaliz; Isaac Triguero | [arXiv:2605.27254v1](https://arxiv.org/abs/2605.27254v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27254) |
 
-
 ## [DEP-A-20260721-LoongDocMT Agent](../DEP-A-20260721-LoongDocMT%20Agent/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.30274-whitepaper-review.md`](../DEP-A-20260721-LoongDocMT%20Agent/2605.30274-whitepaper-review.md).
@@ -2396,7 +2183,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Loong: A Human-Like Long Document Translation Agent with Observe-and-Act Adaptive Context Selection* | Yutong Wang; Xuebo Liu; Derek F. Wong; Zhilin Li; Rongqing Jiang; Min Zhang; Shimin Tao; Daimeng Wei | [arXiv:2605.30274v1](https://arxiv.org/abs/2605.30274v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30274) |
-
 
 ## [DEP-A-20260721-SpecFlow Heat](../DEP-A-20260721-SpecFlow%20Heat/README.md)
 
@@ -2406,7 +2192,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models* | Zhaoyang Li; Yanjun Li; Wangkai Li; Yujia Chen; Tianzhu Zhang | [arXiv:2607.10640v1](https://arxiv.org/abs/2607.10640v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10640) |
 
-
 ## [DEP-A-20260721-ALVTS Layerwise](../DEP-A-20260721-ALVTS%20Layerwise/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.14277-whitepaper-review.md`](../DEP-A-20260721-ALVTS%20Layerwise/2606.14277-whitepaper-review.md).
@@ -2414,7 +2199,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs* | Yongru Chen; Kai Zhang; Zeliang Zong; Yuchen Lu; Wenming Tan; Ye Ren; Jilin Hu | [arXiv:2606.14277v1](https://arxiv.org/abs/2606.14277v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14277) |
-
 
 ## [DEP-A-20260721-Spark3R Reduction](../DEP-A-20260721-Spark3R%20Reduction/README.md)
 
@@ -2424,7 +2208,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction* | Zecheng Tang; Jiaye Fu; Qiankun Gao; Haijie Li; Yanmin Wu; Jiaqi Zhang; Siwei Ma; Jian Zhang | [arXiv:2605.06270v2](https://arxiv.org/abs/2605.06270v2) - [DOI](https://doi.org/10.48550/arXiv.2605.06270) |
 
-
 ## [DEP-A-20260721-SToP Video Tokens](../DEP-A-20260721-SToP%20Video%20Tokens/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.20937-whitepaper-review.md`](../DEP-A-20260721-SToP%20Video%20Tokens/2604.20937-whitepaper-review.md).
@@ -2432,7 +2215,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs* | Kibum Kim; Jiwan Kim; Kyle Min; Yueqi Wang; Jinyoung Moon; Julian McAuley; Chanyoung Park | [arXiv:2604.20937v2](https://arxiv.org/abs/2604.20937v2) - [DOI](https://doi.org/10.48550/arXiv.2604.20937) |
-
 
 ## [DEP-A-20260721-Legal Doc Navigation](../DEP-A-20260721-Legal%20Doc%20Navigation/README.md)
 
@@ -2442,7 +2224,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents* | Mahmoud Hany; Mourad ElSheraey; Mahmoud Said; Peter Naoum | [arXiv:2607.05764v1](https://arxiv.org/abs/2607.05764v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05764) |
 
-
 ## [DEP-A-20260721-Code Retrieval Quality](../DEP-A-20260721-Code%20Retrieval%20Quality/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.09161-whitepaper-review.md`](../DEP-A-20260721-Code%20Retrieval%20Quality/2607.09161-whitepaper-review.md).
@@ -2450,7 +2231,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluating Semantic and Quality-Aware Retrieval for Source Code Repositories* | Marek Horváth; Emília Pietriková | [arXiv:2607.09161v1](https://arxiv.org/abs/2607.09161v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09161) |
-
 
 ## [DEP-A-20260721-Video Music Retrieval](../DEP-A-20260721-Video%20Music%20Retrieval/README.md)
 
@@ -2460,7 +2240,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Multimodal Video-to-Music Recommendation via Semantic Retrieval and Temporal Reranking* | Seungheon Doh; Minhee Lee; Sangmoon Lee; Ben Sangbae Chon; Juhan Nam | [arXiv:2607.05971v1](https://arxiv.org/abs/2607.05971v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05971) |
 
-
 ## [DEP-A-20260721-Semantic Planning](../DEP-A-20260721-Semantic%20Planning/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.09540-whitepaper-review.md`](../DEP-A-20260721-Semantic%20Planning/2607.09540-whitepaper-review.md).
@@ -2468,7 +2247,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale* | Changhong Jin; Shiqiu Yang; Roger Zhe Li; Yingjie Niu; Aghiles Salah; Mete Sertkan; Zheng Ju; Xingsheng Guo; Huifeng Guo; Ruihai Dong; Barry Smyth | [arXiv:2607.09540v2](https://arxiv.org/abs/2607.09540v2) - [DOI](https://doi.org/10.48550/arXiv.2607.09540) |
-
 
 ## [DEP-A-20260722-Legal OpenWeight](../DEP-A-20260722-Legal%20OpenWeight/README.md)
 
@@ -2478,7 +2256,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing* | Amal Saad Alshehri; Nelly Bencomo; Amir Atapour-Abarghouei | [arXiv:2607.11400v1](https://arxiv.org/abs/2607.11400v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11400) |
 
-
 ## [DEP-A-20260722-ProjAgent Code Retrieval](../DEP-A-20260722-ProjAgent%20Code%20Retrieval/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.08691-whitepaper-review.md`](../DEP-A-20260722-ProjAgent%20Code%20Retrieval/2607.08691-whitepaper-review.md).
@@ -2486,7 +2263,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation* | QiHong Chen; Aaron Imani; Iftekhar Ahmed | [arXiv:2607.08691v1](https://arxiv.org/abs/2607.08691v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08691) |
-
 
 ## [DEP-A-20260722-Apple Semantic Search](../DEP-A-20260722-Apple%20Semantic%20Search/README.md)
 
@@ -2496,7 +2272,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Multilingual Semantic Retrieval for Apple Music Search* | Vishalaksh Aggarwal; Kevin Sebastian; Vivek Kanojiya; Leo Le; Nick Tucey; Santosh Shankar | [arXiv:2607.10239v2](https://arxiv.org/abs/2607.10239v2) - [DOI](https://doi.org/10.48550/arXiv.2607.10239) |
 
-
 ## [DEP-A-20260722-CrossMaps Rover Mapping](../DEP-A-20260722-CrossMaps%20Rover%20Mapping/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.16935-whitepaper-review.md`](../DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md).
@@ -2504,7 +2279,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation* | Jan-Niklas Klein; Sona Ghahremani; Christian Medeiros Adriano; Holger Giese | [arXiv:2606.16935v1](https://arxiv.org/abs/2606.16935v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16935) |
-
 
 ## [DEP-A-20260722-RADAR Dynamic RAG](../DEP-A-20260722-RADAR%20Dynamic%20RAG/README.md)
 
@@ -2514,7 +2288,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *RADAR: Defending RAG Dynamically against Retrieval Corruption* | Ziyuan Chen; Yueming Lyu; Yi Liu; Weixiang Han; Jing Dong; Caifeng Shan; Tieniu Tan | [arXiv:2605.22041v1](https://arxiv.org/abs/2605.22041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.22041) |
 
-
 ## [DEP-A-20260722-OneRetrieval Editable](../DEP-A-20260722-OneRetrieval%20Editable/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.13533-whitepaper-review.md`](../DEP-A-20260722-OneRetrieval%20Editable/2606.13533-whitepaper-review.md).
@@ -2522,7 +2295,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model* | Xuxin Zhang; Ben Chen; Yue Lv; Siyuan Wang; Yupeng Li; Yufei Ma; Zihan Liang; Tong Zhao; Ying Yang; Huangyu Dai; Lingtao Mao; Zhipeng Qian; Xinyu Sun; Chenyi Lei; Wenwu Ou; Kun Gai | [arXiv:2606.13533v2](https://arxiv.org/abs/2606.13533v2) - [DOI](https://doi.org/10.48550/arXiv.2606.13533) |
-
 
 ## [DEP-A-20260722-PRO Prefix Retention](../DEP-A-20260722-PRO%20Prefix%20Retention/README.md)
 
@@ -2532,7 +2304,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization* | Yufei Chen; Zihan Wang; Yubao Tang; Yukun Zhao; Maarten de Rijke; Zhaochun Ren | [arXiv:2606.09241v2](https://arxiv.org/abs/2606.09241v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09241) |
 
-
 ## [DEP-A-20260722-Agentic Grasp RAG](../DEP-A-20260722-Agentic%20Grasp%20RAG/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.31200-whitepaper-review.md`](../DEP-A-20260722-Agentic%20Grasp%20RAG/2606.31200-whitepaper-review.md).
@@ -2540,7 +2311,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping* | Tao Chen; Lizheng Liu; Jiaxu Wang; Ziyue Jiang; Ruiqi Tian; JiGuang Huo; Zhongxue Gan | [arXiv:2606.31200v1](https://arxiv.org/abs/2606.31200v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31200) |
-
 
 ## [DEP-A-20260722-Interpretable QA](../DEP-A-20260722-Interpretable%20QA/README.md)
 
@@ -2550,7 +2320,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Interpretable Uncertainty for Adaptive Retrieval and Reasoning in Question Answering* | Ritajit Dey; Iadh Ounis; Graham McDonald | [arXiv:2607.07380v1](https://arxiv.org/abs/2607.07380v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07380) |
 
-
 ## [DEP-A-20260722-TMem Anticipatory](../DEP-A-20260722-TMem%20Anticipatory/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.15405-whitepaper-review.md`](../DEP-A-20260722-TMem%20Anticipatory/2606.15405-whitepaper-review.md).
@@ -2558,7 +2327,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *T-Mem: Memory That Anticipates, Not Archives* | Weidong Guo; Dakai Wang; Zixuan Wang; Hui Liu; Yu Xu | [arXiv:2606.15405v1](https://arxiv.org/abs/2606.15405v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15405) |
-
 
 ## [DEP-A-20260722-TRIAGE Graph RAG](../DEP-A-20260722-TRIAGE%20Graph%20RAG/README.md)
 
@@ -2568,7 +2336,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation* | Axel TahmasebiMoradi; Lucas Schott; Martin Royer | [arXiv:2607.03447v1](https://arxiv.org/abs/2607.03447v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03447) |
 
-
 ## [DEP-A-20260722-SentAttack Retrieval](../DEP-A-20260722-SentAttack%20Retrieval/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.03456-whitepaper-review.md`](../DEP-A-20260722-SentAttack%20Retrieval/2607.03456-whitepaper-review.md).
@@ -2576,7 +2343,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SentAttack: A Sentence-Level Black-Box Adversarial Attack Method for Dense Retrieval Models* | Luping Wei; Yamin Hu; Sihan Shang; Shiyin Wang; Wenjian Luo | [arXiv:2607.03456v1](https://arxiv.org/abs/2607.03456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03456) |
-
 
 ## [DEP-A-20260722-CLDKB Poison Defense](../DEP-A-20260722-CLDKB%20Poison%20Defense/README.md)
 
@@ -2586,7 +2352,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework* | Om Solanki; Lopamudra Praharaj; Deepti Gupta; Maanak Gupta | [arXiv:2607.04379v1](https://arxiv.org/abs/2607.04379v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04379) |
 
-
 ## [DEP-A-20260722-EvoGraph R1](../DEP-A-20260722-EvoGraph%20R1/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.12764-whitepaper-review.md`](../DEP-A-20260722-EvoGraph%20R1/2607.12764-whitepaper-review.md).
@@ -2594,7 +2359,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval* | Jiashi Lin; Changhong Jiang; Xiangru Lin; Ruifei Zhang; Xinyi Zhu; Jiyao Liu; Cheng Tang; Ye Du; Shujian Gao; Junzhi Ning; Lihao Liu; Ziyan Huang; Tianbin Li; Jin Ye; Junjun He | [arXiv:2607.12764v1](https://arxiv.org/abs/2607.12764v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12764) |
-
 
 ## [DEP-A-20260722-MMAgent R2](../DEP-A-20260722-MMAgent%20R2/README.md)
 
@@ -2604,7 +2368,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG* | Tao Zhang; Ziqi Zhang; Zongyang Ma; Yuxin Yang; Bing Li; Chunfeng Yuan; Kang Rong; Fengyun Rao; Jing Lyu; Weiming Hu | [arXiv:2607.07383v1](https://arxiv.org/abs/2607.07383v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07383) |
 
-
 ## [DEP-A-20260722-MCRAG Constraints](../DEP-A-20260722-MCRAG%20Constraints/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.10151-whitepaper-review.md`](../DEP-A-20260722-MCRAG%20Constraints/2607.10151-whitepaper-review.md).
@@ -2612,7 +2375,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MC-RAG System: A Structure-Driven RAG System for Multi-Constraint Queries* | Xiao Zhang; Yang Wan; Yi Li; Miao Xie; Chunli Lv | [arXiv:2607.10151v1](https://arxiv.org/abs/2607.10151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10151) |
-
 
 ## [DEP-A-20260722-PersistentKV Scheduling](../DEP-A-20260722-PersistentKV%20Scheduling/README.md)
 
@@ -2622,7 +2384,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs* | Muhammad Ahmed | [arXiv:2606.26666v2](https://arxiv.org/abs/2606.26666v2) - [DOI](https://doi.org/10.48550/arXiv.2606.26666) |
 
-
 ## [DEP-A-20260722-ARC KV Caching](../DEP-A-20260722-ARC%20KV%20Caching/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.21238-whitepaper-review.md`](../DEP-A-20260722-ARC%20KV%20Caching/2606.21238-whitepaper-review.md).
@@ -2630,7 +2391,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Recency/Frequency Adaptive KV Caching for Large Language Model Serving* | Yang Shen; Meghana Madhyastha; Robert Underwood; Bogdan Nicolae; Randal Burns | [arXiv:2606.21238v1](https://arxiv.org/abs/2606.21238v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21238) |
-
 
 ## [DEP-A-20260722-HACK Plus KV](../DEP-A-20260722-HACK%20Plus%20KV/README.md)
 
@@ -2640,7 +2400,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *HACK++: Towards More Effective Head-Aware Key-Value Compression for Efficient Visual Autoregressive Modeling* | Ziran Qin; Yuchen Jiang; Mingbao Lin; Youru Lv; Hang Guo; Wen Fei; Weiyao Lin | [arXiv:2606.08302v1](https://arxiv.org/abs/2606.08302v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08302) |
 
-
 ## [DEP-A-20260722-SEPatch3D Tokens](../DEP-A-20260722-SEPatch3D%20Tokens/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2604.14563-whitepaper-review.md`](../DEP-A-20260722-SEPatch3D%20Tokens/2604.14563-whitepaper-review.md).
@@ -2648,7 +2407,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors* | Mingqian Ji; Shanshan Zhang; Jian Yang | [arXiv:2604.14563v1](https://arxiv.org/abs/2604.14563v1) - [DOI](https://doi.org/10.48550/arXiv.2604.14563) |
-
 
 ## [DEP-A-20260722-InternVideo3 MCR](../DEP-A-20260722-InternVideo3%20MCR/README.md)
 
@@ -2658,7 +2416,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning* | Ziang Yan; Sheng Xia; Jiashuo Yu; Yue Wu; Tianxiang Jiang; Songze Li; Kanghui Tian; Yicheng Xu; Yinan He; Kai Chen; Limin Wang; Yu Qiao; Yi Wang | [arXiv:2606.12195v1](https://arxiv.org/abs/2606.12195v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12195) |
 
-
 ## [DEP-A-20260722-UltraQuant KV4](../DEP-A-20260722-UltraQuant%20KV4/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.20474-whitepaper-review.md`](../DEP-A-20260722-UltraQuant%20KV4/2606.20474-whitepaper-review.md).
@@ -2666,7 +2423,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UltraQuant: 4-bit KV Caching for Context-Heavy Agents* | Inesh Chakrabarti; David Limpus; Aditi Ghai Rana; Bowen Bao; Spandan Tiwari; Thiago Crepaldi; Ashish Sirasao | [arXiv:2606.20474v2](https://arxiv.org/abs/2606.20474v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20474) |
-
 
 ## [DEP-A-20260722-ADR Context Strategy](../DEP-A-20260722-ADR%20Context%20Strategy/README.md)
 
@@ -2676,7 +2432,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 |---|---|---|
 | *Context Matters: Evaluating Context Strategies for Automated ADR Generation Using LLMs* | Aviral Gupta; Rudra Dhar; Daniel Feitosa; Karthik Vaidhyanathan | [arXiv:2604.03826v2](https://arxiv.org/abs/2604.03826v2) - [DOI](https://doi.org/10.48550/arXiv.2604.03826) |
 
-
 ## [DEP-A-20260722-Reflective VLA](../DEP-A-20260722-Reflective%20VLA/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.25215-whitepaper-review.md`](../DEP-A-20260722-Reflective%20VLA/2606.25215-whitepaper-review.md).
@@ -2684,7 +2439,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reflective VLA: In-Context Action Consequences Make VLAs Generalize* | Qing Lian; Kent Yu; Lei Zhang | [arXiv:2606.25215v1](https://arxiv.org/abs/2606.25215v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25215) |
-
 
 ## [DEP-A-20260722-ContextRL](../DEP-A-20260722-ContextRL/README.md)
 
@@ -2694,7 +2448,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Context-Aware RL for Agentic and Multimodal LLMs* | Peiyang Xu; Bangzheng Li; Sijia Liu; Karthik R. Narasimhan; Pramod Viswanath; Prateek Mittal; Xingyu Fu | [arXiv:2606.17053v1](https://arxiv.org/abs/2606.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17053) |
 
-
 ## [DEP-A-20260722-Translation Fertility](../DEP-A-20260722-Translation%20Fertility/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.29489-whitepaper-review.md`](../DEP-A-20260722-Translation%20Fertility/2606.29489-whitepaper-review.md).
@@ -2702,7 +2455,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Which Tokens Need Context? A Reference-Based Analysis of Translation Responsibility Using Fertility and Entropy* | Ramakrishna Appicharla; Baban Gain; Santanu Pal; Asif Ekbal | [arXiv:2606.29489v1](https://arxiv.org/abs/2606.29489v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29489) |
-
 
 ## [DEP-A-20260722-SolidiBench LLM](../DEP-A-20260722-SolidiBench%20LLM/README.md)
 
@@ -2712,7 +2464,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning* | Shi Chen; Rongcun Wang; Yuan Tian; Xiaoyuan Xie; Wei Song; Rubing Huang | [arXiv:2606.19988v1](https://arxiv.org/abs/2606.19988v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19988) |
 
-
 ## [DEP-A-20260722-FlashMemory LSA](../DEP-A-20260722-FlashMemory%20LSA/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.09079-whitepaper-review.md`](../DEP-A-20260722-FlashMemory%20LSA/2606.09079-whitepaper-review.md).
@@ -2720,7 +2471,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention* | Yan Wang; Qifan Zhang; Jiachen Yu; Tian Liang; Dongyang Ma; Xiang Hu; Zibo Lin; Chunyang Li; Zhichao Wang; Miao Peng; Nuo Chen; Jia Li; Yujiu Yang; Haitao Mi; Dong Yu | [arXiv:2606.09079v2](https://arxiv.org/abs/2606.09079v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09079) |
-
 
 ## [DEP-A-20260722-Cartridges at Scale](../DEP-A-20260722-Cartridges%20at%20Scale/README.md)
 
@@ -2730,7 +2480,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Cartridges at Scale: Training Modular KV Caches over Large Document Collections* | Momchil Hardalov; Gonzalo Iglesias; Adrià de Gispert | [arXiv:2606.04557v1](https://arxiv.org/abs/2606.04557v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04557) |
 
-
 ## [DEP-A-20260722-Unified KV Pooling](../DEP-A-20260722-Unified%20KV%20Pooling/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.14779-whitepaper-review.md`](../DEP-A-20260722-Unified%20KV%20Pooling/2606.14779-whitepaper-review.md).
@@ -2738,7 +2487,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unified KV Pooling to Accelerate Long-Context LLM Serving* | Minchul Kang; Changyong Shin; Jinwoo Jeong; Jaerim Park; Woohyun Kim; Bonyul Gu; Dongwoo Kang; Gyeongsik Yang; Chuck Yoo | [arXiv:2606.14779v1](https://arxiv.org/abs/2606.14779v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14779) |
-
 
 ## [DEP-A-20260722-LoRA KV Memory](../DEP-A-20260722-LoRA%20KV%20Memory/README.md)
 
@@ -2748,7 +2496,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Rethinking LoRA Memory Through the Lens of KV Cache Compression* | Chunsheng Zuo; Liaoyaqi Wang; William Jurayj; William Fleshman; Benjamin Van Durme | [arXiv:2606.05698v1](https://arxiv.org/abs/2606.05698v1) - [DOI](https://doi.org/10.48550/arXiv.2606.05698) |
 
-
 ## [DEP-A-20260722-SparDA KV Prefetch](../DEP-A-20260722-SparDA%20KV%20Prefetch/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.04511-whitepaper-review.md`](../DEP-A-20260722-SparDA%20KV%20Prefetch/2606.04511-whitepaper-review.md).
@@ -2756,7 +2503,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference* | Yaosheng Fu; Guangxuan Xiao; Xin Dong; Song Han; Oreste Villa | [arXiv:2606.04511v1](https://arxiv.org/abs/2606.04511v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04511) |
-
 
 ## [DEP-A-20260722-HMARS Memory](../DEP-A-20260722-HMARS%20Memory/README.md)
 
@@ -2766,7 +2512,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *HMARS: A Hierarchical Multi-Agent Memory System for Long-Context Reasoning* | Zeju Li; Ziyang Zheng; Yizhou Zhou; Qiang Xu | [arXiv:2606.28349v1](https://arxiv.org/abs/2606.28349v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28349) |
 
-
 ## [DEP-A-20260722-RedKnot KV Reuse](../DEP-A-20260722-RedKnot%20KV%20Reuse/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.06256-whitepaper-review.md`](../DEP-A-20260722-RedKnot%20KV%20Reuse/2606.06256-whitepaper-review.md).
@@ -2774,7 +2519,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention* | Yang Liu; ZhaoKai Luo; HuaYi Jin; ZhiYong Wang; RuoZhou He; BoYu Wang; Guanjie Chen; Junhao Hu | [arXiv:2606.06256v2](https://arxiv.org/abs/2606.06256v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06256) |
-
 
 ## [DEP-A-20260722-VaSE KV Eviction](../DEP-A-20260722-VaSE%20KV%20Eviction/README.md)
 
@@ -2784,7 +2528,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Value-Aware Stochastic KV Cache Eviction for Reasoning Models* | Ting-Yun Chang; Harvey Yiyun Fu; Deqing Fu; Chenghao Yang; Jesse Thomason; Robin Jia | [arXiv:2606.03928v1](https://arxiv.org/abs/2606.03928v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03928) |
 
-
 ## [DEP-A-20260722-Tangram KV Serving](../DEP-A-20260722-Tangram%20KV%20Serving/README.md)
 
 Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.06302-whitepaper-review.md`](../DEP-A-20260722-Tangram%20KV%20Serving/2606.06302-whitepaper-review.md).
@@ -2792,7 +2535,6 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving* | Hyungmin Kim; Minsoo Kim; Hongseok Kim; Jungwook Choi | [arXiv:2606.06302v2](https://arxiv.org/abs/2606.06302v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06302) |
-
 
 ## [DEP-A-20260722-SFDA Phase Memory](../DEP-A-20260722-SFDA%20Phase%20Memory/README.md)
 
@@ -2802,7 +2544,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels* | Tiantian Zhang | [arXiv:2607.11897v1](https://arxiv.org/abs/2607.11897v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11897) |
 
-
 ## [DEP-A-20260722-Still KV Compaction](../DEP-A-20260722-Still%20KV%20Compaction/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.07878-whitepaper-review.md`](../DEP-A-20260722-Still%20KV%20Compaction/2606.07878-whitepaper-review.md).
@@ -2811,7 +2552,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Still: Amortized KV Cache Compaction in a Single Forward Pass* | Charles O'Neill; Alex Sandomirsky; Harry Partridge; Mudith Jayasekara; Max Kirkby | [arXiv:2606.07878v1](https://arxiv.org/abs/2606.07878v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07878) |
 
-
 ## [DEP-A-20260722-UT ACA Context](../DEP-A-20260722-UT%20ACA%20Context/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2603.18446-whitepaper-review.md`](../DEP-A-20260722-UT%20ACA%20Context/2603.18446-whitepaper-review.md).
@@ -2819,3 +2559,43 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UT-ACA: Uncertainty-Triggered Adaptive Context Allocation for Long-Context Inference* | Lang Zhou; Shuxuan Li; Zhuohao Li; Shi Liu; Zhilin Zhao; Wei-Shi Zheng | [arXiv:2603.18446v1](https://arxiv.org/abs/2603.18446v1) - [DOI](https://doi.org/10.48550/arXiv.2603.18446) |
+
+## [DEP-A-20260720-RAVEN Visual Memory](../DEP-A-20260720-RAVEN%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.25206-whitepaper-review.md`](../DEP-A-20260720-RAVEN%20Visual%20Memory/2606.25206-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory* | Yixun Hu; Zhicheng Zheng; Lihan Zha; Chunwei Xing; Rajdeep Singh; Omar Hossain; Antonio Loquercio; Dhruv Shah | [arXiv:2606.25206v1](https://arxiv.org/abs/2606.25206v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25206) |
+
+## [DEP-A-20260720-DMV Visual Memory](../DEP-A-20260720-DMV%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.27499-whitepaper-review.md`](../DEP-A-20260720-DMV%20Visual%20Memory/2606.27499-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection* | Yujin Tang; Chenming Shang; Ruize Xu; Nikhil Singh | [arXiv:2606.27499v1](https://arxiv.org/abs/2606.27499v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27499) |
+
+## [DEP-A-20260720-HyphaeDB Gossip](../DEP-A-20260720-HyphaeDB%20Gossip/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.28781-whitepaper-review.md`](../DEP-A-20260720-HyphaeDB%20Gossip/2606.28781-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyphaeDB: A Living Knowledge Topology for Agent-First Memory* | Krishna Halaharvi | [arXiv:2606.28781v1](https://arxiv.org/abs/2606.28781v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28781) |
+
+## [DEP-A-20260720-Echo World Memory](../DEP-A-20260720-Echo%20World%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.09803-whitepaper-review.md`](../DEP-A-20260720-Echo%20World%20Memory/2606.09803-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Echo-Memory: A Controlled Study of Memory in Action World Models* | Wayne King; Zeyue Xue; Yuxuan Bian; Jie Huang; Haoran Li; Yaowei Li; Yaofeng Su; Yuming Li; Haoyu Wang; Shiyi Zhang; Songchun Zhang; Yuwei Niu; Sihan Xu; Junhao Zhuang; Haoyang Huang; Nan Duan | [arXiv:2606.09803v1](https://arxiv.org/abs/2606.09803v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09803) |
+
+## [DEP-A-20260720-LaMem Latent VLA](../DEP-A-20260720-LaMem%20Latent%20VLA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2607.07608-whitepaper-review.md`](../DEP-A-20260720-LaMem%20Latent%20VLA/2607.07608-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation* | Hongyu Qu; Jianzhe Gao; Xiaobin Hu; Shaohuan Yang; Xinlei Yu; Rui Yan; Wenguan Wang; Xiangbo Shu; Shuicheng Yan | [arXiv:2607.07608v1](https://arxiv.org/abs/2607.07608v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07608) |
