@@ -721,6 +721,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Entries without indexed research publications
 
+## [DEP-E-20260720-Decentralized SSL](../DEP-E-20260720-Decentralized%20SSL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decentralized Unsupervised Learning of Visual Representations* | Yawen Wu; Zhepeng Wang; Dewen Zeng; Meng Li; Yiyu Shi; Jingtong Hu | [arXiv:2111.10763v2](https://arxiv.org/abs/2111.10763v2) - [DOI](https://doi.org/10.48550/arXiv.2111.10763) |
+
 ## [DEP-E-20260720-Cued Speech MLLM](../DEP-E-20260720-Cued%20Speech%20MLLM/README.md)
 
 | Publication | Authors or credited organization | Canonical record |

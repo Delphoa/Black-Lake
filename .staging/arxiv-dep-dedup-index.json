@@ -1385,6 +1385,24 @@
       "slug": "Cued-Speech-MLLM",
       "source_urls": ["https://arxiv.org/abs/2503.21785", "https://arxiv.org/html/2503.21785", "https://arxiv.org/pdf/2503.21785", "https://doi.org/10.48550/arXiv.2503.21785", "https://github.com/DennisHgj/STF_ACSR"],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Decentralized SSL",
+        ".logs/20260720-Arxiv-Decentralized-SSL-LOG.md",
+        ".reports/BL-Arxiv-Decentralized-SSL-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2111.10763",
+      "arxiv_id": "2111.10763v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2111.10763",
+      "normalized_title": "Decentralized Unsupervised Learning of Visual Representations",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P07; first uniform draw; approved full-paper fallback verified; all source files withheld locally.",
+      "slug": "Decentralized-SSL",
+      "source_urls": ["https://arxiv.org/abs/2111.10763", "https://ar5iv.labs.arxiv.org/html/2111.10763", "https://arxiv.org/pdf/2111.10763", "https://doi.org/10.48550/arXiv.2111.10763"],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
