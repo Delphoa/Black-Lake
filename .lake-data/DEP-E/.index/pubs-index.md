@@ -683,6 +683,11 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Real-Time Motion-Controllable Autoregressive Video Diffusion* | Kesen Zhao; Jiaxin Shi; Beier Zhu; Junbao Zhou; Xiaolong Shen; Yuan Zhou; Qianru Sun; Hanwang Zhang | [arXiv:2510.08131v3](https://arxiv.org/abs/2510.08131v3) - [DOI](https://doi.org/10.48550/arXiv.2510.08131) |
+## [DEP-E-20260719-Coordinated CIL](../DEP-E-20260719-Coordinated%20CIL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Input and Output Coordination for Class-Incremental Learning* | Shuai Wang; Yibing Zhan; Yong Luo; Han Hu; Wei Yu; Yonggang Wen; Dacheng Tao | [arXiv:2409.05620v1](https://arxiv.org/abs/2409.05620v1) - [DOI](https://doi.org/10.48550/arXiv.2409.05620) |
 
 ## Entries without indexed research publications
 
