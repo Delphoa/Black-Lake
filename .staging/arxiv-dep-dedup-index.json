@@ -978,6 +978,52 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-Business What If",
+        ".logs/20260719-Arxiv-Business-WIA-LOG.md",
+        ".reports/BL-Arxiv-Business-WIA-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2212.13643",
+      "arxiv_id": "2212.13643v4",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2212.13643",
+      "normalized_title": "What-if Analysis for Business Professionals: Current Practices and Future Opportunities",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P06; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "Business-WIA",
+      "source_urls": [
+        "https://arxiv.org/abs/2212.13643",
+        "https://arxiv.org/html/2212.13643",
+        "https://arxiv.org/pdf/2212.13643",
+        "https://doi.org/10.48550/arXiv.2212.13643"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-Coordinated CIL",
+        ".logs/20260719-Arxiv-Coordinated-CIL-LOG.md",
+        ".reports/BL-Arxiv-Coordinated-CIL-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.05620",
+      "arxiv_id": "2409.05620v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2409.05620",
+      "normalized_title": "Joint Input and Output Coordination for Class-Incremental Learning",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P09; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "Coordinated-CIL",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.05620",
+        "https://arxiv.org/html/2409.05620",
+        "https://arxiv.org/pdf/2409.05620",
+        "https://doi.org/10.48550/arXiv.2409.05620"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/README.md",
         ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md",
         ".logs/20260719-Arxiv-Device-Tuning-MTL-LOG.md",
@@ -1000,29 +1046,6 @@
         "https://doi.org/10.48550/arXiv.2302.10820",
         "https://openaccess.thecvf.com/content/CVPR2023W/MobileAI/html/Jiang_High-Efficiency_Device-Cloud_Collaborative_Transformer_Model_CVPRW_2023_paper.html",
         "https://sites.google.com/view/dai-2023/accepted-papers"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation",
-        ".logs/20260719-Arxiv-MA-VLM-PNU-Moderation-LOG.md",
-        ".reports/BL-Arxiv-MA-VLM-PNU-Moderation-20260719/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2511.13759",
-      "arxiv_id": "2511.13759v1",
-      "commit_or_pr": "",
-      "deposit_date": "20260719",
-      "doi": "10.48550/arXiv.2511.13759",
-      "normalized_title": "Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection",
-      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P01; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
-      "slug": "MA-VLM-PNU-Moderation",
-      "source_urls": [
-        "https://arxiv.org/abs/2511.13759",
-        "https://arxiv.org/html/2511.13759",
-        "https://arxiv.org/pdf/2511.13759",
-        "https://doi.org/10.48550/arXiv.2511.13759"
       ],
       "status": "deposited"
     },
@@ -1052,29 +1075,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM",
-        ".logs/20260719-Arxiv-Sparse-SSN-PMM-LOG.md",
-        ".reports/BL-Arxiv-Sparse-SSN-PMM-20260719/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1903.11460",
-      "arxiv_id": "1903.11460v3",
-      "commit_or_pr": "",
-      "deposit_date": "20260719",
-      "doi": "10.48550/arXiv.1903.11460",
-      "normalized_title": "A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems",
-      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P03; first uniform draw; partial archive repaired to verified complete with approved ar5iv fallback; all source files withheld locally.",
-      "slug": "Sparse-SSN-PMM",
-      "source_urls": [
-        "https://arxiv.org/abs/1903.11460",
-        "https://ar5iv.labs.arxiv.org/html/1903.11460",
-        "https://arxiv.org/pdf/1903.11460",
-        "https://doi.org/10.48550/arXiv.1903.11460"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260719-Kernel Equivalence",
         ".logs/20260719-Arxiv-Kernel-Equivalence-LOG.md",
         ".reports/BL-Arxiv-Kernel-Equivalence-20260719/Report-Mark.md"
@@ -1098,6 +1098,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation",
+        ".logs/20260719-Arxiv-MA-VLM-PNU-Moderation-LOG.md",
+        ".reports/BL-Arxiv-MA-VLM-PNU-Moderation-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.13759",
+      "arxiv_id": "2511.13759v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2511.13759",
+      "normalized_title": "Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P01; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "MA-VLM-PNU-Moderation",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.13759",
+        "https://arxiv.org/html/2511.13759",
+        "https://arxiv.org/pdf/2511.13759",
+        "https://doi.org/10.48550/arXiv.2511.13759"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260719-MIRA One Touch",
         ".logs/20260719-Arxiv-MIRA-One-Touch-LOG.md",
         ".reports/BL-Arxiv-MIRA-One-Touch-20260719/Report-Mark.md"
@@ -1115,29 +1138,6 @@
         "https://arxiv.org/html/2509.13773",
         "https://arxiv.org/pdf/2509.13773",
         "https://doi.org/10.48550/arXiv.2509.13773"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260719-Business What If",
-        ".logs/20260719-Arxiv-Business-WIA-LOG.md",
-        ".reports/BL-Arxiv-Business-WIA-20260719/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2212.13643",
-      "arxiv_id": "2212.13643v4",
-      "commit_or_pr": "",
-      "deposit_date": "20260719",
-      "doi": "10.48550/arXiv.2212.13643",
-      "normalized_title": "What-if Analysis for Business Professionals: Current Practices and Future Opportunities",
-      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P06; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
-      "slug": "Business-WIA",
-      "source_urls": [
-        "https://arxiv.org/abs/2212.13643",
-        "https://arxiv.org/html/2212.13643",
-        "https://arxiv.org/pdf/2212.13643",
-        "https://doi.org/10.48550/arXiv.2212.13643"
       ],
       "status": "deposited"
     },
@@ -1190,27 +1190,51 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260719-Coordinated CIL",
-        ".logs/20260719-Arxiv-Coordinated-CIL-LOG.md",
-        ".reports/BL-Arxiv-Coordinated-CIL-20260719/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM",
+        ".logs/20260719-Arxiv-Sparse-SSN-PMM-LOG.md",
+        ".reports/BL-Arxiv-Sparse-SSN-PMM-20260719/Report-Mark.md"
       ],
-      "arxiv_base_id": "2409.05620",
-      "arxiv_id": "2409.05620v1",
+      "arxiv_base_id": "1903.11460",
+      "arxiv_id": "1903.11460v3",
       "commit_or_pr": "",
       "deposit_date": "20260719",
-      "doi": "10.48550/arXiv.2409.05620",
-      "normalized_title": "Joint Input and Output Coordination for Class-Incremental Learning",
-      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P09; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
-      "slug": "Coordinated-CIL",
+      "doi": "10.48550/arXiv.1903.11460",
+      "normalized_title": "A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P03; first uniform draw; partial archive repaired to verified complete with approved ar5iv fallback; all source files withheld locally.",
+      "slug": "Sparse-SSN-PMM",
       "source_urls": [
-        "https://arxiv.org/abs/2409.05620",
-        "https://arxiv.org/html/2409.05620",
-        "https://arxiv.org/pdf/2409.05620",
-        "https://doi.org/10.48550/arXiv.2409.05620"
+        "https://arxiv.org/abs/1903.11460",
+        "https://ar5iv.labs.arxiv.org/html/1903.11460",
+        "https://arxiv.org/pdf/1903.11460",
+        "https://doi.org/10.48550/arXiv.1903.11460"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction",
+        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-LOG.md",
+        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-PHASE-LOG.md",
+        ".reports/BL-Arxiv-WKGM-MRI-Reconstruction-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.03883",
+      "arxiv_id": "2205.03883v4",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.1002/nbm.5005",
+      "normalized_title": "WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction",
+      "notes": "First uniform draw; partial archive repaired after official and ar5iv HTML routes returned abstract-only metadata; verified PDF-derived full-text HTML; cache miss to cached; all source files withheld locally.",
+      "slug": "WKGM-MRI-Reconstruction",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.03883",
+        "https://arxiv.org/pdf/2205.03883",
+        "https://doi.org/10.1002/nbm.5005",
+        "https://github.com/yqx7150/WKGM"
+      ],
+      "status": "prepared"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-19"
+  "updated_date": "2026-07-20"
 }

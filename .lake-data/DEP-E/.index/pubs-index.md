@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **186 publications across 100 DEP-E entries** (182 arXiv records and 4 other research publications).
+- Current coverage: **187 publications across 101 DEP-E entries** (183 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-20; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260720-WKGM MRI Reconstruction](../DEP-E-20260720-WKGM%20MRI%20Reconstruction/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction* | Zongjiang Tu; Die Liu; Xiaoqing Wang et al. | [arXiv:2205.03883v4](https://arxiv.org/abs/2205.03883v4) - [Publisher DOI](https://doi.org/10.1002/nbm.5005) |
 
 ## [DEP-E-20260720-VaTD Canonical](../DEP-E-20260720-VaTD%20Canonical/README.md)
 
