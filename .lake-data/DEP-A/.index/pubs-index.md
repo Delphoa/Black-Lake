@@ -2370,3 +2370,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deployment-Time Memorization in Foundation-Model Agents* | Chen; Guilin Zhang; Kai Zhao; Dalmo Cirne; Andy Olsen; Xu Chu; Zeke Miller; Alet Blanken; Amine Anoun; Jerry Ting | [arXiv:2606.10062v2](https://arxiv.org/abs/2606.10062v2) - [DOI](https://doi.org/10.48550/arXiv.2606.10062) |
+
+
+## [DEP-A-20260720-Narrative World Model](../DEP-A-20260720-Narrative%20World%20Model/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2607.05577-whitepaper-review.md`](../DEP-A-20260720-Narrative%20World%20Model/2607.05577-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction* | Mohammad Saifullah; Thomas Kornmaier; Taaha Kazi; Vasu Sharma; Aditya Sanjiv Kanade; Aanand Kumar Yadav | [arXiv:2607.05577v1](https://arxiv.org/abs/2607.05577v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05577) |
+
+
+## [DEP-A-20260720-Memory Silence Bound](../DEP-A-20260720-Memory%20Silence%20Bound/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.06055-whitepaper-review.md`](../DEP-A-20260720-Memory%20Silence%20Bound/2606.06055-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Should Memory Stay Silent: Measuring Memory-Use Boundaries in Memory-Augmented Conversational Agents* | Lingxiang Xu; Jiaoyun Yang; Min Hu; Hongtu Chen; Ning An | [arXiv:2606.06055v1](https://arxiv.org/abs/2606.06055v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06055) |
+
+
+## [DEP-A-20260720-AdaMEM Adaptation](../DEP-A-20260720-AdaMEM%20Adaptation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.05684-whitepaper-review.md`](../DEP-A-20260720-AdaMEM%20Adaptation/2606.05684-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaMEM: Test-Time Adaptive Memory for Language Agents* | Yunxiang Zhang; Yiheng Li; Ali Payani; Lu Wang | [arXiv:2606.05684v1](https://arxiv.org/abs/2606.05684v1) - [DOI](https://doi.org/10.48550/arXiv.2606.05684) |
+
+
+## [DEP-A-20260720-CURATOR Edge Memory](../DEP-A-20260720-CURATOR%20Edge%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2606.25115-whitepaper-review.md`](../DEP-A-20260720-CURATOR%20Edge%20Memory/2606.25115-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory* | Beining Wu; Zihao Ding; Jun Huang; Yanxiao Zhao | [arXiv:2606.25115v1](https://arxiv.org/abs/2606.25115v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25115) |
+
+
+## [DEP-A-20260720-ContextSniper Code](../DEP-A-20260720-ContextSniper%20Code/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-20. The owning review artifact is [`2607.01916-whitepaper-review.md`](../DEP-A-20260720-ContextSniper%20Code/2607.01916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair* | Chiwang Luk; Matin Mohammad Najafi; Zhifeng Jia; Wei Yang; Xiuchang Li; Jinwei Zhu; Yang Ren; Lei Chen; Gao Cong | [arXiv:2607.01916v3](https://arxiv.org/abs/2607.01916v3) - [DOI](https://doi.org/10.48550/arXiv.2607.01916) |
