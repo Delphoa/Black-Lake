@@ -1071,6 +1071,29 @@
         "https://doi.org/10.48550/arXiv.1903.11460"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-Kernel Equivalence",
+        ".logs/20260719-Arxiv-Kernel-Equivalence-LOG.md",
+        ".reports/BL-Arxiv-Kernel-Equivalence-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.10886",
+      "arxiv_id": "2603.10886v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2603.10886",
+      "normalized_title": "Kernel Tests of Equivalence",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P04; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "Kernel-Equivalence",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.10886",
+        "https://arxiv.org/html/2603.10886",
+        "https://arxiv.org/pdf/2603.10886",
+        "https://doi.org/10.48550/arXiv.2603.10886"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
