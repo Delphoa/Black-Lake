@@ -1302,6 +1302,29 @@
         "https://doi.org/10.48550/arXiv.2603.14898"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-APB2Face Safety",
+        ".logs/20260720-Arxiv-APB2Face-Audio-LOG.md",
+        ".reports/BL-Arxiv-APB2Face-Audio-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2004.14569",
+      "arxiv_id": "2004.14569v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2004.14569",
+      "normalized_title": "APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P03; first uniform draw; partial archive repaired to verified complete with approved ar5iv fallback; defensive safety scope; all source files withheld locally.",
+      "slug": "APB2Face-Audio",
+      "source_urls": [
+        "https://arxiv.org/abs/2004.14569",
+        "https://ar5iv.labs.arxiv.org/html/2004.14569",
+        "https://arxiv.org/pdf/2004.14569",
+        "https://doi.org/10.48550/arXiv.2004.14569"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

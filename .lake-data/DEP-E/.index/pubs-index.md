@@ -713,6 +713,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Photonic Quantum-Enhanced Knowledge Distillation* | Kuan-Cheng Chen; Shang Yu; Chen-Yu Liu; Samuel Yen-Chi Chen; Huan-Hsin Tseng; Yen Jui Chang; Wei-Hao Huang; Felix Burt; Esperanza Cuenca Gomez; Zohim Chandani; William Clements; Ian Walmsley; Kin K. Leung | [arXiv:2603.14898v1](https://arxiv.org/abs/2603.14898v1) - [DOI](https://doi.org/10.48550/arXiv.2603.14898) |
 
+## [DEP-E-20260720-APB2Face Safety](../DEP-E-20260720-APB2Face%20Safety/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals* | Jiangning Zhang; Liang Liu; Zhucun Xue; Yong Liu | [arXiv:2004.14569v1](https://arxiv.org/abs/2004.14569v1) - [DOI](https://doi.org/10.48550/arXiv.2004.14569) |
+
 ## Entries without indexed research publications
 
 ## [DEP-E-20260719-DUET Setwise CTR](../DEP-E-20260719-DUET%20Setwise%20CTR/README.md)
