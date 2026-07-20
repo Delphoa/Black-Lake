@@ -1349,6 +1349,24 @@
         "https://github.com/Event-AHU/FEMOT"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Context Backdoor",
+        ".logs/20260720-Arxiv-Context-Backdoor-LOG.md",
+        ".reports/BL-Arxiv-Context-Backdoor-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2408.02882",
+      "arxiv_id": "2408.02882v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2408.02882",
+      "normalized_title": "Compromising Embodied Agents with Contextual Backdoor Attacks",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P05; first uniform draw; official full-paper repair verified; defensive scope; all source files withheld locally.",
+      "slug": "Context-Backdoor",
+      "source_urls": ["https://arxiv.org/abs/2408.02882", "https://arxiv.org/html/2408.02882", "https://arxiv.org/pdf/2408.02882", "https://doi.org/10.48550/arXiv.2408.02882"],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
