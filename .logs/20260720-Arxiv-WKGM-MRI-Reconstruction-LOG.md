@@ -5,10 +5,10 @@
 - Action: Uniformly selected, source-repaired, verified, reviewed, and synthesized *WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction*.
 - Inputs: Verified complete arXiv PDF, provenance-labeled PDF-derived full-text HTML, metadata, official journal record, official implementation repository, and exactly three related Black Lake DEP entries. Original source documents and derivatives were withheld locally.
 - Outputs: `.reports/BL-Arxiv-WKGM-MRI-Reconstruction-20260720/Report-Mark.md`, `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/README.md`, `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`, `.lake-data/DEP-E/.index/pubs-index.md`, and `.staging/arxiv-dep-dedup-index.json`.
-- Outcome: Public-safe artifact set prepared for direct default-branch submission.
-- Commit or PR: Pending repository submission.
-- Slack notification: Pending repository submission.
-- Blockers: None at drafting time.
+- Outcome: Public-safe artifact set deposited directly to the default branch.
+- Commit or PR: [Primary commit `b025afc`](https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0).
+- Slack notification: [Delivered to `#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699).
+- Blockers: None.
 
 ## Random Selection and Deduplication
 
@@ -67,8 +67,9 @@
 - Source-upload denylist: PDFs, HTML, metadata pages, source archives, cache records, extracted source text, temporary renderings, local archive paths, and `.source/` directories.
 - Public safety: No local absolute path, username, home directory, drive path, machine name, exact execution timestamp, or local timezone label is permitted.
 - Source policy: Source files and derivatives remain local and withheld. No `.source/` directory was created.
-- Repository submission: Pending final validation and staged allowlist check.
-- Slack notification: Pending repository submission.
+- Repository submission: Direct default-branch push succeeded in primary commit [`b025afc`](https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0) after rebasing onto concurrent DEP updates.
+- Staged allowlist result: Exactly seven public Markdown/JSON paths; zero forbidden source-document, cache, extracted-text, archive, temporary-render, or `.source/` paths.
+- Slack notification: [Delivered to `#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699).
 
 ## Next-Review Questions
 

@@ -9,7 +9,7 @@
 - Exclusions/reselections: 0/0.
 - Source state: Initial `partial`; repaired and verified `complete` before synthesis.
 - Cache state: Initial miss; `missing-only` local extraction finished `cached`.
-- Dedup state: Clear across public pointer, logs, reports, DEPs, automation memory, companion repository, and active-worktree 24-hour markers.
+- Dedup state: First draw clear across public pointer, logs, reports, DEPs, automation memory, companion repository, and active-worktree 24-hour markers; one unique public pointer deposited.
 - Source policy: PDF, HTML, metadata, invalid endpoint responses, cache, extracted text, integrity records, and temporary review renderings remained local and were not uploaded.
 
 ## Phase Metrics
@@ -25,7 +25,7 @@ Durations are rounded elapsed observations; estimates guide trajectory review ra
 | Source, equation, table, figure, publisher, and code review | 25 min | about 20 min | Complete | Full paper screened; six evidence-bearing pages rendered; journal record and official repository files inspected |
 | Related DEP exploration and exact-three synthesis | 8 min | about 4 min | Complete | Hypercomplex MRI, Residual Gaussian CBCT, and Acoustic Phase Retrieval inspected |
 | Public artifact drafting, publication index, and dedup preparation | 30 min | about 25 min | Complete | Logs, Report-Mark, schema-complete manuscript, DEP README, publication row, and pointer prepared |
-| Validation, staged allowlist, commit/push, notification, and final record | 15 min | Pending | In progress | Final public-safety, schema, staged-set, remote, and Slack gates remain |
+| Validation, staged allowlist, commit/push, notification, and final record | 15 min | about 25 min | Complete | Schema and exact-count checks passed; concurrent remote records preserved; seven-file allowlist clean; direct push and Slack delivery succeeded |
 
 The source-first trajectory was not truncated when the repair path exceeded the nominal fast path. The official arXiv and ar5iv HTML responses were both rejected as abstract-only; the review began only after a provenance-labeled PDF-derived full-text rendering passed the complete-paper gate.
 
@@ -64,7 +64,7 @@ The source-first trajectory was not truncated when the repair path exceeded the 
 - Duplicate artifact matches: 0.
 - Reselections: 0.
 - Public pointer action: Add one unique entry with publication index, DEP, logs, report, public source URLs, repair/cache notes, and submission status.
-- Commit/PR reference: Pending repository submission.
+- Commit/PR reference: [Primary commit `b025afc`](https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0); pointer status `deposited`.
 
 ## Expected vs Observed Trajectory
 
@@ -75,14 +75,14 @@ The source-first trajectory was not truncated when the repair path exceeded the 
 - Full review stayed within its estimate while covering all equations, both algorithms, eight tables, thirteen figures/captions, visual renders, the journal record, and the official code surface.
 - Related synthesis used three direct mechanism/evaluation bridges and excluded looser keyword-only matches.
 - The review preserves counterevidence: SVD-WKGM is not uniformly superior, and the paper does not establish statistical, clinical, or systems-level deployment readiness.
-- Final submission status will be recorded only after the exact staged allowlist, remote push, Slack delivery, and public pointer update are verified.
+- Final submission completed after the exact staged allowlist, remote push, Slack delivery, and public pointer update were verified. Concurrent publication and dedup entries were audited as preserved before push.
 
 ## Submission and Notification
 
-- Repository status: Pending final validation and submission.
-- Commit or PR: Pending.
-- Slack status: Pending notification to `#black-lake-artifacts` after repository submission.
-- Source-upload gate: Prepared to reject every PDF, HTML, metadata page, source response, cache file, extracted source text, integrity record, temporary rendering, local archive path, or `.source/` directory.
+- Repository status: Direct default-branch submission succeeded after rebasing onto concurrent DEP updates.
+- Commit or PR: [Primary commit `b025afc`](https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0).
+- Slack status: [Delivered to `#black-lake-artifacts`](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699).
+- Source-upload gate: Passed. The staged set contained only seven allowlisted public Markdown/JSON paths and no PDF, HTML, metadata page, source response, cache file, extracted source text, integrity record, temporary rendering, local archive path, or `.source/` directory.
 
 ## Shortfalls and Follow-Up
 

@@ -1220,11 +1220,11 @@
       ],
       "arxiv_base_id": "2205.03883",
       "arxiv_id": "2205.03883v4",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0",
       "deposit_date": "20260720",
       "doi": "10.1002/nbm.5005",
       "normalized_title": "WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction",
-      "notes": "First uniform draw; partial archive repaired after official and ar5iv HTML routes returned abstract-only metadata; verified PDF-derived full-text HTML; cache miss to cached; all source files withheld locally.",
+      "notes": "First uniform draw; partial archive repaired after official and ar5iv HTML routes returned abstract-only metadata; verified PDF-derived full-text HTML; cache miss to cached; all source files withheld locally; Slack notification https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699.",
       "slug": "WKGM-MRI-Reconstruction",
       "source_urls": [
         "https://arxiv.org/abs/2205.03883",
@@ -1232,7 +1232,7 @@
         "https://doi.org/10.1002/nbm.5005",
         "https://github.com/yqx7150/WKGM"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
