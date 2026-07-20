@@ -2370,3 +2370,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *G^2C-MT: Graph-Guided Context Selection for Document-Level Machine Translation* | Baijun Ji; Zixuan Zhou; Xiangyu Duan; Yu Liu; Longbo Sun; Rupu Wei; Bohong Zhao | [arXiv:2606.03078v1](https://arxiv.org/abs/2606.03078v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03078) |
+
+
+## [DEP-A-20260721-SLUCoS Context](../DEP-A-20260721-SLUCoS%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.27254-whitepaper-review.md`](../DEP-A-20260721-SLUCoS%20Context/2605.27254-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models* | Oroel Ipas; Guillermo Gomez-Trenado; Rocío Romero-Zaliz; Isaac Triguero | [arXiv:2605.27254v1](https://arxiv.org/abs/2605.27254v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27254) |
+
+
+## [DEP-A-20260721-LoongDocMT Agent](../DEP-A-20260721-LoongDocMT%20Agent/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.30274-whitepaper-review.md`](../DEP-A-20260721-LoongDocMT%20Agent/2605.30274-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Loong: A Human-Like Long Document Translation Agent with Observe-and-Act Adaptive Context Selection* | Yutong Wang; Xuebo Liu; Derek F. Wong; Zhilin Li; Rongqing Jiang; Min Zhang; Shimin Tao; Daimeng Wei | [arXiv:2605.30274v1](https://arxiv.org/abs/2605.30274v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30274) |
+
+
+## [DEP-A-20260721-SpecFlow Heat](../DEP-A-20260721-SpecFlow%20Heat/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2607.10640-whitepaper-review.md`](../DEP-A-20260721-SpecFlow%20Heat/2607.10640-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models* | Zhaoyang Li; Yanjun Li; Wangkai Li; Yujia Chen; Tianzhu Zhang | [arXiv:2607.10640v1](https://arxiv.org/abs/2607.10640v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10640) |
+
+
+## [DEP-A-20260721-ALVTS Layerwise](../DEP-A-20260721-ALVTS%20Layerwise/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.14277-whitepaper-review.md`](../DEP-A-20260721-ALVTS%20Layerwise/2606.14277-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs* | Yongru Chen; Kai Zhang; Zeliang Zong; Yuchen Lu; Wenming Tan; Ye Ren; Jilin Hu | [arXiv:2606.14277v1](https://arxiv.org/abs/2606.14277v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14277) |
+
+
+## [DEP-A-20260721-Spark3R Reduction](../DEP-A-20260721-Spark3R%20Reduction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.06270-whitepaper-review.md`](../DEP-A-20260721-Spark3R%20Reduction/2605.06270-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction* | Zecheng Tang; Jiaye Fu; Qiankun Gao; Haijie Li; Yanmin Wu; Jiaqi Zhang; Siwei Ma; Jian Zhang | [arXiv:2605.06270v2](https://arxiv.org/abs/2605.06270v2) - [DOI](https://doi.org/10.48550/arXiv.2605.06270) |
