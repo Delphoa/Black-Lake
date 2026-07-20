@@ -1367,6 +1367,24 @@
       "slug": "Context-Backdoor",
       "source_urls": ["https://arxiv.org/abs/2408.02882", "https://arxiv.org/html/2408.02882", "https://arxiv.org/pdf/2408.02882", "https://doi.org/10.48550/arXiv.2408.02882"],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Cued Speech MLLM",
+        ".logs/20260720-Arxiv-Cued-Speech-MLLM-LOG.md",
+        ".reports/BL-Arxiv-Cued-Speech-MLLM-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.21785",
+      "arxiv_id": "2503.21785v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2503.21785",
+      "normalized_title": "Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P06; first uniform draw; official full-paper repair verified; all participant/source files withheld locally.",
+      "slug": "Cued-Speech-MLLM",
+      "source_urls": ["https://arxiv.org/abs/2503.21785", "https://arxiv.org/html/2503.21785", "https://arxiv.org/pdf/2503.21785", "https://doi.org/10.48550/arXiv.2503.21785", "https://github.com/DennisHgj/STF_ACSR"],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

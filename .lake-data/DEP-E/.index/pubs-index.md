@@ -721,6 +721,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Entries without indexed research publications
 
+## [DEP-E-20260720-Cued Speech MLLM](../DEP-E-20260720-Cued%20Speech%20MLLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication* | Guanjie Huang; Danny Hin Kwok Tsang; Li Liu | [arXiv:2503.21785v1](https://arxiv.org/abs/2503.21785v1) - [DOI](https://doi.org/10.48550/arXiv.2503.21785) |
+
 ## [DEP-E-20260720-Context Backdoor](../DEP-E-20260720-Context%20Backdoor/README.md)
 
 | Publication | Authors or credited organization | Canonical record |
