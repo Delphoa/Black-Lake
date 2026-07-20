@@ -701,6 +701,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Joint Input and Output Coordination for Class-Incremental Learning* | Shuai Wang; Yibing Zhan; Yong Luo; Han Hu; Wei Yu; Yonggang Wen; Dacheng Tao | [arXiv:2409.05620v1](https://arxiv.org/abs/2409.05620v1) - [DOI](https://doi.org/10.48550/arXiv.2409.05620) |
 
+## [DEP-E-20260720-Higher Criticism](../DEP-E-20260720-Higher%20Criticism/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Higher criticism: $p$-values and criticism* | Jian Li; David Siegmund | [arXiv:1411.1437v3](https://arxiv.org/abs/1411.1437v3) - [DOI](https://doi.org/10.1214/15-AOS1312) |
+
 ## Entries without indexed research publications
 
 ## [DEP-E-20260719-DUET Setwise CTR](../DEP-E-20260719-DUET%20Setwise%20CTR/README.md)

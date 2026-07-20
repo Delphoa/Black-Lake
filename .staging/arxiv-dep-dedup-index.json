@@ -1256,6 +1256,29 @@
         "https://doi.org/10.48550/arXiv.2510.24369"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Higher Criticism",
+        ".logs/20260720-Arxiv-Higher-Criticism-LOG.md",
+        ".reports/BL-Arxiv-Higher-Criticism-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1411.1437",
+      "arxiv_id": "1411.1437v3",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.1214/15-AOS1312",
+      "normalized_title": "Higher criticism: $p$-values and criticism",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P01; accepted on the second uniform draw after one complete-source-gate rejection; partial archive repaired to verified complete with approved ar5iv fallback; all source files withheld locally.",
+      "slug": "Higher-Criticism",
+      "source_urls": [
+        "https://arxiv.org/abs/1411.1437",
+        "https://ar5iv.labs.arxiv.org/html/1411.1437",
+        "https://arxiv.org/pdf/1411.1437",
+        "https://doi.org/10.1214/15-AOS1312"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
