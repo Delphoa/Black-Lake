@@ -2280,3 +2280,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent* | Amin Tabrizian; Arsyi Aziz; Aarifah Ullah; Mahyar Ghazanfari; Pouria Razzaghi; Peng Wei | [arXiv:2607.06964v1](https://arxiv.org/abs/2607.06964v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06964) |
+
+
+## [DEP-A-20260721-RTPrune OCR Tokens](../DEP-A-20260721-RTPrune%20OCR%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.00392-whitepaper-review.md`](../DEP-A-20260721-RTPrune%20OCR%20Tokens/2605.00392-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference* | Ben Wan; Yan Feng; Zihan Tang; Weizhe Huang; Yuting Zeng; Jia Wang; Tongxuan Liu | [arXiv:2605.00392v3](https://arxiv.org/abs/2605.00392v3) - [DOI](https://doi.org/10.48550/arXiv.2605.00392) |
+
+
+## [DEP-A-20260721-STPrune Driving](../DEP-A-20260721-STPrune%20Driving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.19145-whitepaper-review.md`](../DEP-A-20260721-STPrune%20Driving/2604.19145-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ST-Prune: Training-Free Spatio-Temporal Token Pruning for Vision-Language Models in Autonomous Driving* | Lin Sha; Haiyun Guo; Tao Wang; Cong Zhang; Min Huang; Jinqiao Wang; Qinghai Miao | [arXiv:2604.19145v1](https://arxiv.org/abs/2604.19145v1) - [DOI](https://doi.org/10.48550/arXiv.2604.19145) |
+
+
+## [DEP-A-20260721-F3A Visual Scaling](../DEP-A-20260721-F3A%20Visual%20Scaling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2605.16359-whitepaper-review.md`](../DEP-A-20260721-F3A%20Visual%20Scaling/2605.16359-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Many Visual Tokens Do Multimodal Language Models Need? Scaling Visual Token Pruning with F^3A* | YiJie Huang; Yiqun Zhang; Zhuoyue Jia; Xiaocui Yang; Junzhao Huang; Zihan Wang; Shi Feng; Daling Wang; Yifei Zhang; Yongkang Liu | [arXiv:2605.16359v1](https://arxiv.org/abs/2605.16359v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16359) |
+
+
+## [DEP-A-20260721-CICL Memory Cards](../DEP-A-20260721-CICL%20Memory%20Cards/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2606.08151-whitepaper-review.md`](../DEP-A-20260721-CICL%20Memory%20Cards/2606.08151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents* | Xinyu Guan; Qianyang Zhao; Yuming Deng | [arXiv:2606.08151v2](https://arxiv.org/abs/2606.08151v2) - [DOI](https://doi.org/10.48550/arXiv.2606.08151) |
+
+
+## [DEP-A-20260721-Geo3DPruner](../DEP-A-20260721-Geo3DPruner/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-21. The owning review artifact is [`2604.18260-whitepaper-review.md`](../DEP-A-20260721-Geo3DPruner/2604.18260-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Geometry-Guided 3D Visual Token Pruning for Video-Language Models* | Han Li; Zehao Huang; Jiahui Fu; Naiyan Wang; Si Liu | [arXiv:2604.18260v1](https://arxiv.org/abs/2604.18260v1) - [DOI](https://doi.org/10.48550/arXiv.2604.18260) |
