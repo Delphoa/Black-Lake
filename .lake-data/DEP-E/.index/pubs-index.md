@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **164 publications across 87 DEP-E entries** (160 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-19; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **178 publications across 93 DEP-E entries** (174 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-20; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -634,6 +634,21 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Kernel Tests of Equivalence* | Xing Liu; Axel Gandy | [arXiv:2603.10886v2](https://arxiv.org/abs/2603.10886v2) - [DOI](https://doi.org/10.48550/arXiv.2603.10886) |
+
+## [DEP-E-20260720-Agent Systems Map](../DEP-E-20260720-Agent%20Systems%20Map/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows* | Arup Kumar Sarker; Alexander James Halpern; Mills Staylor; Gregor von Laszewski; Geoffrey Fox; Yue Cheng; Aymen Alsaadi; Shantenu Jha | [arXiv:2607.10987v1](https://arxiv.org/abs/2607.10987v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10987) |
+| *MemExchange: Utility-Driven Distributed Memory Reallocation for Multi-Tenant Datacenters* | AmirHossein Seyri; Abhisek Pan; Balajee Vamanan | [arXiv:2607.11579v2](https://arxiv.org/abs/2607.11579v2) - [DOI](https://doi.org/10.48550/arXiv.2607.11579) |
+| *HCRMap: Pressure-Aware Hot-Expert Residency Mapping for 3.5D MoE Chiplet Inference* | Yongqin Zhang | [arXiv:2607.11586v1](https://arxiv.org/abs/2607.11586v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11586) |
+| *GPU-Tile-Sim: A Tile-Centric GPU Simulation Framework for LLM Hardware-Software Co-Design* | Yitong Ding; Jiawei Huang; Renyang Guan et al. | [arXiv:2607.11262v1](https://arxiv.org/abs/2607.11262v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11262) |
+| *When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems* | Yibo Hu; Ren Wang | [arXiv:2607.11751v1](https://arxiv.org/abs/2607.11751v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11751) |
+| *Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming* | Xutao Mao; Xiang Zheng; Cong Wang | [arXiv:2607.11698v1](https://arxiv.org/abs/2607.11698v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11698) |
+| *Auditing the Risk Claims of Distributional Reinforcement Learning* | Hari Prasad | [arXiv:2607.11607v1](https://arxiv.org/abs/2607.11607v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11607) |
+| *ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory* | Yue Fang; Zhibang Yang; Fangkai Yang; Xiaoting Qin; Liqun Li; Qingwei Lin; Saravan Rajmohan; Dongmei Zhang | [arXiv:2607.11126v1](https://arxiv.org/abs/2607.11126v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11126) |
+| *NVAITC AI Scientist: A Governed End-to-End Research System - A Hypertension GWAS Case Study* | Eddie Huang; Ken Liao; Iven Fu et al. | [arXiv:2607.11084v1](https://arxiv.org/abs/2607.11084v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11084) |
+| *CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery* | Jungho Oh; Woosung Kim; Dong Hyeon Mok; Jonggeol Na; Seoin Back | [arXiv:2607.11712v1](https://arxiv.org/abs/2607.11712v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11712) |
 
 ## Entries without indexed research publications
 
