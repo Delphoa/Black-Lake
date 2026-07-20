@@ -707,6 +707,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|
 | *Higher criticism: $p$-values and criticism* | Jian Li; David Siegmund | [arXiv:1411.1437v3](https://arxiv.org/abs/1411.1437v3) - [DOI](https://doi.org/10.1214/15-AOS1312) |
 
+## [DEP-E-20260720-Photonic Quantum KD](../DEP-E-20260720-Photonic%20Quantum%20KD/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Photonic Quantum-Enhanced Knowledge Distillation* | Kuan-Cheng Chen; Shang Yu; Chen-Yu Liu; Samuel Yen-Chi Chen; Huan-Hsin Tseng; Yen Jui Chang; Wei-Hao Huang; Felix Burt; Esperanza Cuenca Gomez; Zohim Chandani; William Clements; Ian Walmsley; Kin K. Leung | [arXiv:2603.14898v1](https://arxiv.org/abs/2603.14898v1) - [DOI](https://doi.org/10.48550/arXiv.2603.14898) |
+
 ## Entries without indexed research publications
 
 ## [DEP-E-20260719-DUET Setwise CTR](../DEP-E-20260719-DUET%20Setwise%20CTR/README.md)
