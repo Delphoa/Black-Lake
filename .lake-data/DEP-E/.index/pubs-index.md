@@ -703,4 +703,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Entries without indexed research publications
 
+## [DEP-E-20260719-DUET Setwise CTR](../DEP-E-20260719-DUET%20Setwise%20CTR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DUET: Dual Model Co-Training for Entire Space CTR Prediction* | Yutian Xiao; Meng Yuan; Fuzhen Zhuang; Wei Chen; Shukuan Wang; Shanqi Liu; Chao Feng; Wenhui Yu; Xiang Li; Lantao Hu; Han Li; Zhao Zhang | [arXiv:2510.24369v1](https://arxiv.org/abs/2510.24369v1) - [DOI](https://doi.org/10.48550/arXiv.2510.24369) |
+
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.

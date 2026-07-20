@@ -1233,6 +1233,29 @@
         "https://github.com/yqx7150/WKGM"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR",
+        ".logs/20260719-Arxiv-DUET-Setwise-CTR-LOG.md",
+        ".reports/BL-Arxiv-DUET-Setwise-CTR-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.24369",
+      "arxiv_id": "2510.24369v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2510.24369",
+      "normalized_title": "DUET: Dual Model Co-Training for Entire Space CTR Prediction",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P10; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "DUET-Setwise-CTR",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.24369",
+        "https://arxiv.org/html/2510.24369",
+        "https://arxiv.org/pdf/2510.24369",
+        "https://doi.org/10.48550/arXiv.2510.24369"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
