@@ -2648,3 +2648,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors* | Mingqian Ji; Shanshan Zhang; Jian Yang | [arXiv:2604.14563v1](https://arxiv.org/abs/2604.14563v1) - [DOI](https://doi.org/10.48550/arXiv.2604.14563) |
+
+
+## [DEP-A-20260722-InternVideo3 MCR](../DEP-A-20260722-InternVideo3%20MCR/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.12195-whitepaper-review.md`](../DEP-A-20260722-InternVideo3%20MCR/2606.12195-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning* | Ziang Yan; Sheng Xia; Jiashuo Yu; Yue Wu; Tianxiang Jiang; Songze Li; Kanghui Tian; Yicheng Xu; Yinan He; Kai Chen; Limin Wang; Yu Qiao; Yi Wang | [arXiv:2606.12195v1](https://arxiv.org/abs/2606.12195v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12195) |
+
+
+## [DEP-A-20260722-UltraQuant KV4](../DEP-A-20260722-UltraQuant%20KV4/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.20474-whitepaper-review.md`](../DEP-A-20260722-UltraQuant%20KV4/2606.20474-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UltraQuant: 4-bit KV Caching for Context-Heavy Agents* | Inesh Chakrabarti; David Limpus; Aditi Ghai Rana; Bowen Bao; Spandan Tiwari; Thiago Crepaldi; Ashish Sirasao | [arXiv:2606.20474v2](https://arxiv.org/abs/2606.20474v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20474) |
+
+
+## [DEP-A-20260722-ADR Context Strategy](../DEP-A-20260722-ADR%20Context%20Strategy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2604.03826-whitepaper-review.md`](../DEP-A-20260722-ADR%20Context%20Strategy/2604.03826-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Matters: Evaluating Context Strategies for Automated ADR Generation Using LLMs* | Aviral Gupta; Rudra Dhar; Daniel Feitosa; Karthik Vaidhyanathan | [arXiv:2604.03826v2](https://arxiv.org/abs/2604.03826v2) - [DOI](https://doi.org/10.48550/arXiv.2604.03826) |
+
+
+## [DEP-A-20260722-Reflective VLA](../DEP-A-20260722-Reflective%20VLA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.25215-whitepaper-review.md`](../DEP-A-20260722-Reflective%20VLA/2606.25215-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reflective VLA: In-Context Action Consequences Make VLAs Generalize* | Qing Lian; Kent Yu; Lei Zhang | [arXiv:2606.25215v1](https://arxiv.org/abs/2606.25215v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25215) |
+
+
+## [DEP-A-20260722-ContextRL](../DEP-A-20260722-ContextRL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.17053-whitepaper-review.md`](../DEP-A-20260722-ContextRL/2606.17053-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context-Aware RL for Agentic and Multimodal LLMs* | Peiyang Xu; Bangzheng Li; Sijia Liu; Karthik R. Narasimhan; Pramod Viswanath; Prateek Mittal; Xingyu Fu | [arXiv:2606.17053v1](https://arxiv.org/abs/2606.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17053) |
