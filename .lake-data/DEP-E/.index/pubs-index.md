@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **187 publications across 101 DEP-E entries** (183 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-20; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **207 publications across 112 DEP-E entries** (203 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-21; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260721-Agent Evidence Loops](../DEP-E-20260721-Agent%20Evidence%20Loops/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability* | Pei Chen; Baichao An; Mengying Wu; *et al.* | [arXiv:2607.11086v1](https://arxiv.org/abs/2607.11086v1) |
+| *ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm* | Kefan Song; Yanjun Qi | [arXiv:2607.10455v1](https://arxiv.org/abs/2607.10455v1) |
+| *Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems* | Jun He; Deying Yu | [arXiv:2607.09748v1](https://arxiv.org/abs/2607.09748v1) |
+| *The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation* | Chenglin Yu; Hongquan Gui; Ying Yu; Hongxia Yang; Tao Zeng; Ming Li | [arXiv:2607.11149v2](https://arxiv.org/abs/2607.11149v2) |
+| *ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams* | Xiaokang Ma; Yifan Sun; Zhihong Jin; *et al.* | [arXiv:2607.09759v2](https://arxiv.org/abs/2607.09759v2) |
+| *ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory* | Jiayi Tian; Shiao Liu; Yuting Xu; *et al.* | [arXiv:2607.10350v3](https://arxiv.org/abs/2607.10350v3) |
+| *Information-seeking failures of large language models in agentic clinical reasoning* | Krischan Braitsch; Laura K. Schmalbrock; Theresa Weltermann; *et al.* | [arXiv:2607.10275v1](https://arxiv.org/abs/2607.10275v1) |
+| *Large language model agents accelerate inverse design of metal-organic frameworks for gas separation* | Zhaolin Hu; Hehe Fan; Wangyihan Guo; Meng Xu; Chenhao Rao; Qiwei Yang; Yi Yang | [arXiv:2607.10559v1](https://arxiv.org/abs/2607.10559v1) |
+| *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion* | Jiatong Zhao; Tengyue Zhang; Yuhan Wang; Fuyuan Wu; Junchi Yan | [arXiv:2607.10366v1](https://arxiv.org/abs/2607.10366v1) - [ACM DOI](https://doi.org/10.1145/3770855.3818998) |
+| *Fast and accurate AI-based pre-decoders for color codes* | Jan Olle; Christopher Chamberland; Muyuan Li; Igor Baratta | [arXiv:2607.10058v1](https://arxiv.org/abs/2607.10058v1) |
 
 ## [DEP-E-20260720-WKGM MRI Reconstruction](../DEP-E-20260720-WKGM%20MRI%20Reconstruction/README.md)
 
