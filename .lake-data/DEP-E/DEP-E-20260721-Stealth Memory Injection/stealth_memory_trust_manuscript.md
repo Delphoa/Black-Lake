@@ -42,7 +42,7 @@ The paper lists Yechao Zhang, Shiqian Zhao, Jiawen Zhang, Jie Zhang, Gelei Deng,
 | E2 | Sections II-IV and Figures 1-2 | Cross-session threat model, WhisperBench construction, MemGhost proxy design, and training flow | Medium-high | Operational payload details are intentionally omitted from this artifact |
 | E3 | Table I and associated discussion | Main model-specific injection, stealth, execution, and end-to-end rates | Medium-high | Author-run controlled cases; no confidence intervals or multi-seed uncertainty reported |
 | E4 | Tables II-V | Runtime transfer, proxy correlation, defense evasion, and adaptive visibility results | Medium | Model endpoints, agent versions, rubrics, and evaluator behavior may change |
-| E5 | Tables VI-VII and Appendices A-G | Hyperparameters, benchmark cases, scoring rubrics, examples, and implementation detail | Medium-high | No public code or dataset link was found on the paper record as of the access date |
+| E5 | Tables VI-VII and Appendices A-G | Proxy tools, hyperparameters, benchmark cases, scoring rubrics, examples, and implementation detail | Medium-high | No public code or dataset link was found on the paper record as of the access date |
 | E6 | S5-S6 and related DEP records | Comparison with forged-reasoning attacks, layered defenses, provenance, and memory forensics | Medium | Conceptual relation does not establish empirical equivalence |
 | E7 | S7-S9 | Existence and public framing of referenced agent runtimes | Medium-high | Runtime code and historical versions used by the paper were not audited or executed |
 | E8 | Source-text consistency audit | Metric wording ambiguity, unfinished limitation sentence, grammar defect, and figure-count mismatch | High for textual observation | Editorial defects do not by themselves invalidate the experimental results |
@@ -248,8 +248,8 @@ The MVP can be evaluated without offensive payloads. A test suite generates ordi
 
 - Main sections I-VIII were inspected: introduction; system and threat model; WhisperBench; MemGhost; experiments; related work; limitations; conclusion.
 - Appendices A-G were inspected, including benchmark details, hyperparameters, rubrics, examples, ethics, and AI-use disclosure.
-- Tables I-VII were inspected. Their roles are main attack results, runtime transfer, proxy correlation, defense evasion, adaptive visibility, training details, and evaluation rubrics/examples.
-- Figures 1-10 were inspected in the document/source inventory. They cover system architecture, benchmark and method flow, performance and training analyses, and qualitative examples.
+- Tables I-VII were inspected. Their roles are main attack results, runtime transfer, proxy correlation, defense evasion, adaptive visibility, platform-environment proxy tools, and evaluation rubrics/examples. Training details were inspected in the appendices.
+- Figures 1-10 were inspected in the document/source inventory. They cover foreground/background execution, the benchmark pipeline, category-level performance, response visibility, five baseline examples, and one deployment example.
 - Central equations for the attacker objective, proxy objective, reward decomposition, supervised fine-tuning, entropy regularization, and GRPO were inspected.
 
 ### Integrity Record

@@ -40,7 +40,7 @@ The defensive conclusion is to separate memory storage from authority. Untrusted
 | Table II | Transfer across agent runtimes and memory backends | Uses GPT-5.4 throughout; historical runtime versions not independently reconstructed |
 | Table III | Positive proxy-to-outcome correlations | Association does not establish universal proxy validity |
 | Tables IV-V | Defense evasion and adaptive visibility | Thresholds, versions, and small controlled samples limit generality |
-| Tables VI-VII and source equations | Training hyperparameters and evaluation rubric detail | No public executable artifact was linked |
+| Tables VI-VII, source equations, and appendices | Platform-environment proxy tools, training hyperparameters, and evaluation-rubric detail | No public executable artifact was linked |
 | Source consistency audit | Metric ambiguity and editorial defects | Editorial issues do not directly refute measured outcomes |
 
 ## Related DEP Entries
