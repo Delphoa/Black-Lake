@@ -851,3 +851,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Temporally Consistent Stereo Matching* | Zeng, Jiaxi; Yao, Chengtang; Wu, Yuwei; Jia, Yunde | [arXiv:2407.11950](https://arxiv.org/abs/2407.11950) - [DOI](https://doi.org/10.48550/arXiv.2407.11950) |
+
+## [DEP-E-20260721-Controlling Latent](../DEP-E-20260721-Controlling%20Latent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation* | Li, Xinjie; Zhao, Yang; Wang, Dong; Chen, Yuan; Cao, Li; Liu, Xiaoping | [arXiv:2412.02322](https://arxiv.org/abs/2412.02322) - [DOI](https://doi.org/10.48550/arXiv.2412.02322) |
