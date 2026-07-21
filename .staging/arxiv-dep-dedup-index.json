@@ -1725,6 +1725,29 @@
         "https://doi.org/10.48550/arXiv.2310.10693"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection",
+        ".logs/20260721-Arxiv-Stealth-Memory-Injection-LOG.md",
+        ".reports/BL-Arxiv-Stealth-Memory-Injection-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2607.05189",
+      "arxiv_id": "2607.05189v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2607.05189",
+      "normalized_title": "When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents",
+      "notes": "Explicit user selection; duplicate exclusions 0; reselections 0; complete existing source bundle reused with zero network downloads; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stealth-Memory-Injection",
+      "source_urls": [
+        "https://arxiv.org/abs/2607.05189v1",
+        "https://arxiv.org/html/2607.05189v1",
+        "https://arxiv.org/pdf/2607.05189v1",
+        "https://doi.org/10.48550/arXiv.2607.05189"
+      ],
+      "status": "deposited"
     }
   ]
 }
