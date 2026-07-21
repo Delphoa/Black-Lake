@@ -809,3 +809,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection* | Liu, Zhiwei; Dou, Yingtong; Yu, Philip S.; Deng, Yutong; Peng, Hao | [arXiv:2005.00625](https://arxiv.org/abs/2005.00625) - [DOI](https://doi.org/10.1145/3397271.3401253) |
+
+## [DEP-E-20260721-4 Adic Complexity](../DEP-E-20260721-4%20Adic%20Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The 4-Adic Complexity of Interleaved Quaternary Sequences of Even Length with Optimal Autocorrelation* | Jing, Xiaoyan; Xu, Zhefeng; Yang, Minghui; Feng, Keqin | [arXiv:2209.10279](https://arxiv.org/abs/2209.10279) - [DOI](https://doi.org/10.48550/arXiv.2209.10279) |

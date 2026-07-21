@@ -1518,6 +1518,29 @@
         "https://doi.org/10.1145/3397271.3401253"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity",
+        ".logs/20260721-Arxiv-4-Adic-Complexity-LOG.md",
+        ".reports/BL-Arxiv-4-Adic-Complexity-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.10279",
+      "arxiv_id": "2209.10279",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2209.10279",
+      "normalized_title": "The 4-Adic Complexity of Interleaved Quaternary Sequences of Even Length with Optimal Autocorrelation",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P02; draw 64478 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "4-Adic-Complexity",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.10279",
+        "https://ar5iv.labs.arxiv.org/html/2209.10279",
+        "https://arxiv.org/pdf/2209.10279",
+        "https://doi.org/10.48550/arXiv.2209.10279"
+      ],
+      "status": "deposited"
     }
   ]
 }
