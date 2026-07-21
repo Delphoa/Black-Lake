@@ -2558,3 +2558,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *T-Mem: Memory That Anticipates, Not Archives* | Weidong Guo; Dakai Wang; Zixuan Wang; Hui Liu; Yu Xu | [arXiv:2606.15405v1](https://arxiv.org/abs/2606.15405v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15405) |
+
+
+## [DEP-A-20260722-TRIAGE Graph RAG](../DEP-A-20260722-TRIAGE%20Graph%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.03447-whitepaper-review.md`](../DEP-A-20260722-TRIAGE%20Graph%20RAG/2607.03447-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation* | Axel TahmasebiMoradi; Lucas Schott; Martin Royer | [arXiv:2607.03447v1](https://arxiv.org/abs/2607.03447v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03447) |
+
+
+## [DEP-A-20260722-SentAttack Retrieval](../DEP-A-20260722-SentAttack%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.03456-whitepaper-review.md`](../DEP-A-20260722-SentAttack%20Retrieval/2607.03456-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SentAttack: A Sentence-Level Black-Box Adversarial Attack Method for Dense Retrieval Models* | Luping Wei; Yamin Hu; Sihan Shang; Shiyin Wang; Wenjian Luo | [arXiv:2607.03456v1](https://arxiv.org/abs/2607.03456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03456) |
+
+
+## [DEP-A-20260722-CLDKB Poison Defense](../DEP-A-20260722-CLDKB%20Poison%20Defense/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.04379-whitepaper-review.md`](../DEP-A-20260722-CLDKB%20Poison%20Defense/2607.04379-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework* | Om Solanki; Lopamudra Praharaj; Deepti Gupta; Maanak Gupta | [arXiv:2607.04379v1](https://arxiv.org/abs/2607.04379v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04379) |
+
+
+## [DEP-A-20260722-EvoGraph R1](../DEP-A-20260722-EvoGraph%20R1/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.12764-whitepaper-review.md`](../DEP-A-20260722-EvoGraph%20R1/2607.12764-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval* | Jiashi Lin; Changhong Jiang; Xiangru Lin; Ruifei Zhang; Xinyi Zhu; Jiyao Liu; Cheng Tang; Ye Du; Shujian Gao; Junzhi Ning; Lihao Liu; Ziyan Huang; Tianbin Li; Jin Ye; Junjun He | [arXiv:2607.12764v1](https://arxiv.org/abs/2607.12764v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12764) |
+
+
+## [DEP-A-20260722-MMAgent R2](../DEP-A-20260722-MMAgent%20R2/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.07383-whitepaper-review.md`](../DEP-A-20260722-MMAgent%20R2/2607.07383-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG* | Tao Zhang; Ziqi Zhang; Zongyang Ma; Yuxin Yang; Bing Li; Chunfeng Yuan; Kang Rong; Fengyun Rao; Jing Lyu; Weiming Hu | [arXiv:2607.07383v1](https://arxiv.org/abs/2607.07383v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07383) |
