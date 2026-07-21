@@ -2783,3 +2783,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Value-Aware Stochastic KV Cache Eviction for Reasoning Models* | Ting-Yun Chang; Harvey Yiyun Fu; Deqing Fu; Chenghao Yang; Jesse Thomason; Robin Jia | [arXiv:2606.03928v1](https://arxiv.org/abs/2606.03928v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03928) |
+
+
+## [DEP-A-20260722-Tangram KV Serving](../DEP-A-20260722-Tangram%20KV%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.06302-whitepaper-review.md`](../DEP-A-20260722-Tangram%20KV%20Serving/2606.06302-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving* | Hyungmin Kim; Minsoo Kim; Hongseok Kim; Jungwook Choi | [arXiv:2606.06302v2](https://arxiv.org/abs/2606.06302v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06302) |
+
+
+## [DEP-A-20260722-SFDA Phase Memory](../DEP-A-20260722-SFDA%20Phase%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.11897-whitepaper-review.md`](../DEP-A-20260722-SFDA%20Phase%20Memory/2607.11897-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels* | Tiantian Zhang | [arXiv:2607.11897v1](https://arxiv.org/abs/2607.11897v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11897) |
+
+
+## [DEP-A-20260722-Still KV Compaction](../DEP-A-20260722-Still%20KV%20Compaction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.07878-whitepaper-review.md`](../DEP-A-20260722-Still%20KV%20Compaction/2606.07878-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Still: Amortized KV Cache Compaction in a Single Forward Pass* | Charles O'Neill; Alex Sandomirsky; Harry Partridge; Mudith Jayasekara; Max Kirkby | [arXiv:2606.07878v1](https://arxiv.org/abs/2606.07878v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07878) |
+
+
+## [DEP-A-20260722-UT ACA Context](../DEP-A-20260722-UT%20ACA%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2603.18446-whitepaper-review.md`](../DEP-A-20260722-UT%20ACA%20Context/2603.18446-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UT-ACA: Uncertainty-Triggered Adaptive Context Allocation for Long-Context Inference* | Lang Zhou; Shuxuan Li; Zhuohao Li; Shi Liu; Zhilin Zhao; Wei-Shi Zheng | [arXiv:2603.18446v1](https://arxiv.org/abs/2603.18446v1) - [DOI](https://doi.org/10.48550/arXiv.2603.18446) |
