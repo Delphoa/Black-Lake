@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **187 publications across 101 DEP-E entries** (183 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-20; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **212 publications across 117 DEP-E entries** (208 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-21; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,51 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260721-Stealth Memory Injection](../DEP-E-20260721-Stealth%20Memory%20Injection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents* | Yechao Zhang; Shiqian Zhao; Jiawen Zhang; Jie Zhang; Gelei Deng; Xiaogeng Liu; Chaowei Xiao; Tianwei Zhang | [arXiv:2607.05189v1](https://arxiv.org/abs/2607.05189v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05189) |
+
+## [DEP-E-20260721-Hallo4 Portrait Motion](../DEP-E-20260721-Hallo4%20Portrait%20Motion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization* | Jiahao Cui; Yan Chen; Mingwang Xu; *et al.* | [arXiv:2505.23525v4](https://arxiv.org/abs/2505.23525v4) - [DOI](https://doi.org/10.48550/arXiv.2505.23525) |
+
+## [DEP-E-20260721-Feature Denoising](../DEP-E-20260721-Feature%20Denoising/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Feature Denoising for Improving Adversarial Robustness* | Cihang Xie; Yuxin Wu; Laurens van der Maaten; Alan L. Yuille; Kaiming He | [arXiv:1812.03411v2](https://arxiv.org/abs/1812.03411v2) - [DOI](https://doi.org/10.48550/arXiv.1812.03411) |
+
+## [DEP-E-20260721-RepoMasterEval](../DEP-E-20260721-RepoMasterEval/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RepoMasterEval: Evaluating Code Completion via Real-World Repositories* | Qinyun Wu; Chao Peng; Pengfei Gao; *et al.* | [arXiv:2408.03519v2](https://arxiv.org/abs/2408.03519v2) - [DOI](https://doi.org/10.48550/arXiv.2408.03519) |
+
+## [DEP-E-20260721-Agent Evidence Loops](../DEP-E-20260721-Agent%20Evidence%20Loops/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability* | Pei Chen; Baichao An; Mengying Wu; *et al.* | [arXiv:2607.11086v1](https://arxiv.org/abs/2607.11086v1) |
+| *ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm* | Kefan Song; Yanjun Qi | [arXiv:2607.10455v1](https://arxiv.org/abs/2607.10455v1) |
+| *Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems* | Jun He; Deying Yu | [arXiv:2607.09748v1](https://arxiv.org/abs/2607.09748v1) |
+| *The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation* | Chenglin Yu; Hongquan Gui; Ying Yu; Hongxia Yang; Tao Zeng; Ming Li | [arXiv:2607.11149v2](https://arxiv.org/abs/2607.11149v2) |
+| *ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams* | Xiaokang Ma; Yifan Sun; Zhihong Jin; *et al.* | [arXiv:2607.09759v2](https://arxiv.org/abs/2607.09759v2) |
+| *ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory* | Jiayi Tian; Shiao Liu; Yuting Xu; *et al.* | [arXiv:2607.10350v3](https://arxiv.org/abs/2607.10350v3) |
+| *Information-seeking failures of large language models in agentic clinical reasoning* | Krischan Braitsch; Laura K. Schmalbrock; Theresa Weltermann; *et al.* | [arXiv:2607.10275v1](https://arxiv.org/abs/2607.10275v1) |
+| *Large language model agents accelerate inverse design of metal-organic frameworks for gas separation* | Zhaolin Hu; Hehe Fan; Wangyihan Guo; Meng Xu; Chenhao Rao; Qiwei Yang; Yi Yang | [arXiv:2607.10559v1](https://arxiv.org/abs/2607.10559v1) |
+| *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion* | Jiatong Zhao; Tengyue Zhang; Yuhan Wang; Fuyuan Wu; Junchi Yan | [arXiv:2607.10366v1](https://arxiv.org/abs/2607.10366v1) - [ACM DOI](https://doi.org/10.1145/3770855.3818998) |
+| *Fast and accurate AI-based pre-decoders for color codes* | Jan Olle; Christopher Chamberland; Muyuan Li; Igor Baratta | [arXiv:2607.10058v1](https://arxiv.org/abs/2607.10058v1) |
+
+## [DEP-E-20260721-AMAD Anomaly](../DEP-E-20260721-AMAD%20Anomaly/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data* | Zheng Gao; Lin Guo; Chi Ma; *et al.* | [arXiv:1907.06582v1](https://arxiv.org/abs/1907.06582v1) - [DOI](https://doi.org/10.1145/3326937.3341256) |
 
 ## [DEP-E-20260720-WKGM MRI Reconstruction](../DEP-E-20260720-WKGM%20MRI%20Reconstruction/README.md)
 
@@ -764,3 +809,63 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem* | Dabao Wang; Siwei Wu; Ziling Lin; Lei Wu; Xingliang Yuan; Yajin Zhou; Haoyu Wang; Kui Ren | [arXiv:2010.12252v3](https://arxiv.org/abs/2010.12252v3) - [DOI](https://doi.org/10.1145/3457977.3460301) |
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
+
+## [DEP-E-20260721-Alleviating Inconsistency](../DEP-E-20260721-Alleviating%20Inconsistency/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection* | Liu, Zhiwei; Dou, Yingtong; Yu, Philip S.; Deng, Yutong; Peng, Hao | [arXiv:2005.00625](https://arxiv.org/abs/2005.00625) - [DOI](https://doi.org/10.1145/3397271.3401253) |
+
+## [DEP-E-20260721-4 Adic Complexity](../DEP-E-20260721-4%20Adic%20Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The 4-Adic Complexity of Interleaved Quaternary Sequences of Even Length with Optimal Autocorrelation* | Jing, Xiaoyan; Xu, Zhefeng; Yang, Minghui; Feng, Keqin | [arXiv:2209.10279](https://arxiv.org/abs/2209.10279) - [DOI](https://doi.org/10.48550/arXiv.2209.10279) |
+
+## [DEP-E-20260721-Urban Visual Intelligence](../DEP-E-20260721-Urban%20Visual%20Intelligence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery* | Zhang, Fan; Miranda, Arianna Salazar; Duarte, Fábio; Vale, Lawrence; Hack, Gary; Chen, Min; Liu, Yu; Batty, Michael; Ratti, Carlo | [arXiv:2301.00580](https://arxiv.org/abs/2301.00580) - [DOI](https://doi.org/10.48550/arXiv.2301.00580) |
+
+## [DEP-E-20260721-Equivariant Contrastive](../DEP-E-20260721-Equivariant%20Contrastive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Equivariant Contrastive Learning for Sequential Recommendation* | Zhou, Peilin; Gao, Jingqi; Xie, Yueqi; Ye, Qichen; Hua, Yining; Kim, Jae Boum; Wang, Shoujin; Kim, Sunghun | [arXiv:2211.05290](https://arxiv.org/abs/2211.05290) - [DOI](https://doi.org/10.48550/arXiv.2211.05290) |
+
+## [DEP-E-20260721-Security Non resettable](../DEP-E-20260721-Security%20Non%20resettable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the (In)Security of Non-resettable Device Identifiers in Custom Android Systems* | Dong, Zikan; Wang, Liu; Xu, Guoai; Wang, Haoyu | [arXiv:2502.15270](https://arxiv.org/abs/2502.15270) - [DOI](https://doi.org/10.48550/arXiv.2502.15270) |
+
+## [DEP-E-20260721-Beyond Feature Mapping](../DEP-E-20260721-Beyond%20Feature%20Mapping/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion* | He, Gang; Xu, Kepeng; Xu, Li; Wang, Siqi; Yu, Wenxin; Wu, Xianyun | [arXiv:2411.10775](https://arxiv.org/abs/2411.10775) - [DOI](https://doi.org/10.48550/arXiv.2411.10775) |
+
+## [DEP-E-20260721-Dataset Baselines](../DEP-E-20260721-Dataset%20Baselines/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability* | Tseng, Li-Yang; Lin, Tzu-Ling; Shuai, Hong-Han; Huang, Jen-Wei; Chang, Wen-Whei | [arXiv:2405.12847](https://arxiv.org/abs/2405.12847) - [DOI](https://doi.org/10.5281/zenodo.10265251) |
+
+## [DEP-E-20260721-Temporally Consistent](../DEP-E-20260721-Temporally%20Consistent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporally Consistent Stereo Matching* | Zeng, Jiaxi; Yao, Chengtang; Wu, Yuwei; Jia, Yunde | [arXiv:2407.11950](https://arxiv.org/abs/2407.11950) - [DOI](https://doi.org/10.48550/arXiv.2407.11950) |
+
+## [DEP-E-20260721-Controlling Latent](../DEP-E-20260721-Controlling%20Latent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation* | Li, Xinjie; Zhao, Yang; Wang, Dong; Chen, Yuan; Cao, Li; Liu, Xiaoping | [arXiv:2412.02322](https://arxiv.org/abs/2412.02322) - [DOI](https://doi.org/10.48550/arXiv.2412.02322) |
+
+## [DEP-E-20260721-Network Analysis](../DEP-E-20260721-Network%20Analysis/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Network Analysis of the iNaturalist Citizen Science Community* | Liu, Yu Lu; Jiralerspong, Thomas | [arXiv:2310.10693](https://arxiv.org/abs/2310.10693) - [DOI](https://doi.org/10.48550/arXiv.2310.10693) |

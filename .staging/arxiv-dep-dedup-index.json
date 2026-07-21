@@ -1024,6 +1024,29 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR",
+        ".logs/20260719-Arxiv-DUET-Setwise-CTR-LOG.md",
+        ".reports/BL-Arxiv-DUET-Setwise-CTR-20260719/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.24369",
+      "arxiv_id": "2510.24369v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260719",
+      "doi": "10.48550/arXiv.2510.24369",
+      "normalized_title": "DUET: Dual Model Co-Training for Entire Space CTR Prediction",
+      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P10; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
+      "slug": "DUET-Setwise-CTR",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.24369",
+        "https://arxiv.org/html/2510.24369",
+        "https://arxiv.org/pdf/2510.24369",
+        "https://doi.org/10.48550/arXiv.2510.24369"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/README.md",
         ".lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md",
         ".logs/20260719-Arxiv-Device-Tuning-MTL-LOG.md",
@@ -1213,47 +1236,140 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction",
-        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-LOG.md",
-        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-PHASE-LOG.md",
-        ".reports/BL-Arxiv-WKGM-MRI-Reconstruction-20260720/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260720-APB2Face Safety",
+        ".logs/20260720-Arxiv-APB2Face-Audio-LOG.md",
+        ".reports/BL-Arxiv-APB2Face-Audio-20260720/Report-Mark.md"
       ],
-      "arxiv_base_id": "2205.03883",
-      "arxiv_id": "2205.03883v4",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0",
+      "arxiv_base_id": "2004.14569",
+      "arxiv_id": "2004.14569v1",
+      "commit_or_pr": "",
       "deposit_date": "20260720",
-      "doi": "10.1002/nbm.5005",
-      "normalized_title": "WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction",
-      "notes": "First uniform draw; partial archive repaired after official and ar5iv HTML routes returned abstract-only metadata; verified PDF-derived full-text HTML; cache miss to cached; all source files withheld locally; Slack notification https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699.",
-      "slug": "WKGM-MRI-Reconstruction",
+      "doi": "10.48550/arXiv.2004.14569",
+      "normalized_title": "APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P03; first uniform draw; partial archive repaired to verified complete with approved ar5iv fallback; defensive safety scope; all source files withheld locally.",
+      "slug": "APB2Face-Audio",
       "source_urls": [
-        "https://arxiv.org/abs/2205.03883",
-        "https://arxiv.org/pdf/2205.03883",
-        "https://doi.org/10.1002/nbm.5005",
-        "https://github.com/yqx7150/WKGM"
+        "https://arxiv.org/abs/2004.14569",
+        "https://ar5iv.labs.arxiv.org/html/2004.14569",
+        "https://arxiv.org/pdf/2004.14569",
+        "https://doi.org/10.48550/arXiv.2004.14569"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR",
-        ".logs/20260719-Arxiv-DUET-Setwise-CTR-LOG.md",
-        ".reports/BL-Arxiv-DUET-Setwise-CTR-20260719/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260720-Context Backdoor",
+        ".logs/20260720-Arxiv-Context-Backdoor-LOG.md",
+        ".reports/BL-Arxiv-Context-Backdoor-20260720/Report-Mark.md"
       ],
-      "arxiv_base_id": "2510.24369",
-      "arxiv_id": "2510.24369v1",
+      "arxiv_base_id": "2408.02882",
+      "arxiv_id": "2408.02882v1",
       "commit_or_pr": "",
-      "deposit_date": "20260719",
-      "doi": "10.48550/arXiv.2510.24369",
-      "normalized_title": "DUET: Dual Model Co-Training for Entire Space CTR Prediction",
-      "notes": "Job BLAD-2200-20260719-7D93E819 item BLAD-2200-20260719-7D93E819-P10; first uniform draw; partial archive repaired to verified complete; all source files withheld locally.",
-      "slug": "DUET-Setwise-CTR",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2408.02882",
+      "normalized_title": "Compromising Embodied Agents with Contextual Backdoor Attacks",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P05; first uniform draw; official full-paper repair verified; defensive scope; all source files withheld locally.",
+      "slug": "Context-Backdoor",
       "source_urls": [
-        "https://arxiv.org/abs/2510.24369",
-        "https://arxiv.org/html/2510.24369",
-        "https://arxiv.org/pdf/2510.24369",
-        "https://doi.org/10.48550/arXiv.2510.24369"
+        "https://arxiv.org/abs/2408.02882",
+        "https://arxiv.org/html/2408.02882",
+        "https://arxiv.org/pdf/2408.02882",
+        "https://doi.org/10.48550/arXiv.2408.02882"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Cued Speech MLLM",
+        ".logs/20260720-Arxiv-Cued-Speech-MLLM-LOG.md",
+        ".reports/BL-Arxiv-Cued-Speech-MLLM-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.21785",
+      "arxiv_id": "2503.21785v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2503.21785",
+      "normalized_title": "Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P06; first uniform draw; official full-paper repair verified; all participant/source files withheld locally.",
+      "slug": "Cued-Speech-MLLM",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.21785",
+        "https://arxiv.org/html/2503.21785",
+        "https://arxiv.org/pdf/2503.21785",
+        "https://doi.org/10.48550/arXiv.2503.21785",
+        "https://github.com/DennisHgj/STF_ACSR"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Decentralized SSL",
+        ".logs/20260720-Arxiv-Decentralized-SSL-LOG.md",
+        ".reports/BL-Arxiv-Decentralized-SSL-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2111.10763",
+      "arxiv_id": "2111.10763v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2111.10763",
+      "normalized_title": "Decentralized Unsupervised Learning of Visual Representations",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P07; first uniform draw; approved full-paper fallback verified; all source files withheld locally.",
+      "slug": "Decentralized-SSL",
+      "source_urls": [
+        "https://arxiv.org/abs/2111.10763",
+        "https://ar5iv.labs.arxiv.org/html/2111.10763",
+        "https://arxiv.org/pdf/2111.10763",
+        "https://doi.org/10.48550/arXiv.2111.10763"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking",
+        ".logs/20260720-Arxiv-FEMOT-RGB-Event-LOG.md",
+        ".reports/BL-Arxiv-FEMOT-RGB-Event-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.14094",
+      "arxiv_id": "2606.14094v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.48550/arXiv.2606.14094",
+      "normalized_title": "FEMOT: Multi-Object Tracking using Frame and Event Cameras",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P04; first uniform draw; partial archive repaired to verified complete with official HTML; all source files withheld locally.",
+      "slug": "FEMOT-RGB-Event",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.14094",
+        "https://arxiv.org/html/2606.14094",
+        "https://arxiv.org/pdf/2606.14094",
+        "https://doi.org/10.48550/arXiv.2606.14094",
+        "https://github.com/Event-AHU/FEMOT"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260720-Flash Loan Ecosystem",
+        ".logs/20260720-Arxiv-Flash-Loan-Ecosystem-LOG.md",
+        ".reports/BL-Arxiv-Flash-Loan-Ecosystem-20260720/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.12252",
+      "arxiv_id": "2010.12252v3",
+      "commit_or_pr": "",
+      "deposit_date": "20260720",
+      "doi": "10.1145/3457977.3460301",
+      "normalized_title": "Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem",
+      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P09; first uniform draw; approved full-paper fallback verified after official HTML 404; defensive scope; all source files withheld locally.",
+      "slug": "Flash-Loan-Ecosystem",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.12252",
+        "https://ar5iv.labs.arxiv.org/html/2010.12252",
+        "https://arxiv.org/pdf/2010.12252",
+        "https://doi.org/10.1145/3457977.3460301"
       ],
       "status": "deposited"
     },
@@ -1306,107 +1422,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-APB2Face Safety",
-        ".logs/20260720-Arxiv-APB2Face-Audio-LOG.md",
-        ".reports/BL-Arxiv-APB2Face-Audio-20260720/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2004.14569",
-      "arxiv_id": "2004.14569v1",
-      "commit_or_pr": "",
-      "deposit_date": "20260720",
-      "doi": "10.48550/arXiv.2004.14569",
-      "normalized_title": "APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P03; first uniform draw; partial archive repaired to verified complete with approved ar5iv fallback; defensive safety scope; all source files withheld locally.",
-      "slug": "APB2Face-Audio",
-      "source_urls": [
-        "https://arxiv.org/abs/2004.14569",
-        "https://ar5iv.labs.arxiv.org/html/2004.14569",
-        "https://arxiv.org/pdf/2004.14569",
-        "https://doi.org/10.48550/arXiv.2004.14569"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking",
-        ".logs/20260720-Arxiv-FEMOT-RGB-Event-LOG.md",
-        ".reports/BL-Arxiv-FEMOT-RGB-Event-20260720/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2606.14094",
-      "arxiv_id": "2606.14094v1",
-      "commit_or_pr": "",
-      "deposit_date": "20260720",
-      "doi": "10.48550/arXiv.2606.14094",
-      "normalized_title": "FEMOT: Multi-Object Tracking using Frame and Event Cameras",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P04; first uniform draw; partial archive repaired to verified complete with official HTML; all source files withheld locally.",
-      "slug": "FEMOT-RGB-Event",
-      "source_urls": [
-        "https://arxiv.org/abs/2606.14094",
-        "https://arxiv.org/html/2606.14094",
-        "https://arxiv.org/pdf/2606.14094",
-        "https://doi.org/10.48550/arXiv.2606.14094",
-        "https://github.com/Event-AHU/FEMOT"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-Context Backdoor",
-        ".logs/20260720-Arxiv-Context-Backdoor-LOG.md",
-        ".reports/BL-Arxiv-Context-Backdoor-20260720/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2408.02882",
-      "arxiv_id": "2408.02882v1",
-      "commit_or_pr": "",
-      "deposit_date": "20260720",
-      "doi": "10.48550/arXiv.2408.02882",
-      "normalized_title": "Compromising Embodied Agents with Contextual Backdoor Attacks",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P05; first uniform draw; official full-paper repair verified; defensive scope; all source files withheld locally.",
-      "slug": "Context-Backdoor",
-      "source_urls": ["https://arxiv.org/abs/2408.02882", "https://arxiv.org/html/2408.02882", "https://arxiv.org/pdf/2408.02882", "https://doi.org/10.48550/arXiv.2408.02882"],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-Cued Speech MLLM",
-        ".logs/20260720-Arxiv-Cued-Speech-MLLM-LOG.md",
-        ".reports/BL-Arxiv-Cued-Speech-MLLM-20260720/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2503.21785",
-      "arxiv_id": "2503.21785v1",
-      "commit_or_pr": "",
-      "deposit_date": "20260720",
-      "doi": "10.48550/arXiv.2503.21785",
-      "normalized_title": "Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P06; first uniform draw; official full-paper repair verified; all participant/source files withheld locally.",
-      "slug": "Cued-Speech-MLLM",
-      "source_urls": ["https://arxiv.org/abs/2503.21785", "https://arxiv.org/html/2503.21785", "https://arxiv.org/pdf/2503.21785", "https://doi.org/10.48550/arXiv.2503.21785", "https://github.com/DennisHgj/STF_ACSR"],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-Decentralized SSL",
-        ".logs/20260720-Arxiv-Decentralized-SSL-LOG.md",
-        ".reports/BL-Arxiv-Decentralized-SSL-20260720/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2111.10763",
-      "arxiv_id": "2111.10763v2",
-      "commit_or_pr": "",
-      "deposit_date": "20260720",
-      "doi": "10.48550/arXiv.2111.10763",
-      "normalized_title": "Decentralized Unsupervised Learning of Visual Representations",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P07; first uniform draw; approved full-paper fallback verified; all source files withheld locally.",
-      "slug": "Decentralized-SSL",
-      "source_urls": ["https://arxiv.org/abs/2111.10763", "https://ar5iv.labs.arxiv.org/html/2111.10763", "https://arxiv.org/pdf/2111.10763", "https://doi.org/10.48550/arXiv.2111.10763"],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260720-VG Navigable Space",
         ".logs/20260720-Arxiv-VG-Navigable-Space-LOG.md",
         ".reports/BL-Arxiv-VG-Navigable-Space-20260720/Report-Mark.md"
@@ -1419,28 +1434,320 @@
       "normalized_title": "Visual-Geometry GP-based Navigable Space for Autonomous Navigation",
       "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P08; first uniform draw; official full-paper repair verified; all source files withheld locally.",
       "slug": "VG-Navigable-Space",
-      "source_urls": ["https://arxiv.org/abs/2407.06545", "https://arxiv.org/html/2407.06545", "https://arxiv.org/pdf/2407.06545", "https://doi.org/10.48550/arXiv.2407.06545"],
+      "source_urls": [
+        "https://arxiv.org/abs/2407.06545",
+        "https://arxiv.org/html/2407.06545",
+        "https://arxiv.org/pdf/2407.06545",
+        "https://doi.org/10.48550/arXiv.2407.06545"
+      ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260720-Flash Loan Ecosystem",
-        ".logs/20260720-Arxiv-Flash-Loan-Ecosystem-LOG.md",
-        ".reports/BL-Arxiv-Flash-Loan-Ecosystem-20260720/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction",
+        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-LOG.md",
+        ".logs/20260720-Arxiv-WKGM-MRI-Reconstruction-PHASE-LOG.md",
+        ".reports/BL-Arxiv-WKGM-MRI-Reconstruction-20260720/Report-Mark.md"
       ],
-      "arxiv_base_id": "2010.12252",
-      "arxiv_id": "2010.12252v3",
-      "commit_or_pr": "",
+      "arxiv_base_id": "2205.03883",
+      "arxiv_id": "2205.03883v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/b025afcbde123682df8d1acc58b8862a1cbc90b0",
       "deposit_date": "20260720",
-      "doi": "10.1145/3457977.3460301",
-      "normalized_title": "Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem",
-      "notes": "Job BLAD-2200-20260720-8636EDC7 item BLAD-2200-20260720-8636EDC7-P09; first uniform draw; approved full-paper fallback verified after official HTML 404; defensive scope; all source files withheld locally.",
-      "slug": "Flash-Loan-Ecosystem",
-      "source_urls": ["https://arxiv.org/abs/2010.12252", "https://ar5iv.labs.arxiv.org/html/2010.12252", "https://arxiv.org/pdf/2010.12252", "https://doi.org/10.1145/3457977.3460301"],
+      "doi": "10.1002/nbm.5005",
+      "normalized_title": "WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction",
+      "notes": "First uniform draw; partial archive repaired after official and ar5iv HTML routes returned abstract-only metadata; verified PDF-derived full-text HTML; cache miss to cached; all source files withheld locally; Slack notification https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784548280995699.",
+      "slug": "WKGM-MRI-Reconstruction",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.03883",
+        "https://arxiv.org/pdf/2205.03883",
+        "https://doi.org/10.1002/nbm.5005",
+        "https://github.com/yqx7150/WKGM"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Hallo4 Portrait Motion",
+        ".logs/20260721-Arxiv-Hallo4-Portrait-Motion-LOG.md",
+        ".logs/20260721-Arxiv-Hallo4-Portrait-Motion-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Hallo4-Portrait-Motion-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.23525",
+      "arxiv_id": "2505.23525v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/91d3203f8b6708be77fd6c5be451b434775463d8",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2505.23525",
+      "normalized_title": "Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization",
+      "notes": "First uniform draw; partial source unit repaired with official full-paper HTML; complete-source and cache gates passed; all source files withheld locally; primary artifact commit remotely verified.",
+      "slug": "Hallo4-Portrait-Motion",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.23525",
+        "https://arxiv.org/e-print/2505.23525",
+        "https://arxiv.org/html/2505.23525",
+        "https://arxiv.org/pdf/2505.23525",
+        "https://doi.org/10.48550/arXiv.2505.23525",
+        "https://github.com/fudan-generative-vision/hallo4"
+      ],
       "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-20"
+  "updated_date": "2026-07-21",
+  "records": [
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency",
+        ".logs/20260721-Arxiv-Alleviating-Inconsistency-LOG.md",
+        ".reports/BL-Arxiv-Alleviating-Inconsistency-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2005.00625",
+      "arxiv_id": "2005.00625",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.1145/3397271.3401253",
+      "normalized_title": "Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P01; draw 42458 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Alleviating-Inconsistency",
+      "source_urls": [
+        "https://arxiv.org/abs/2005.00625",
+        "https://ar5iv.labs.arxiv.org/html/2005.00625",
+        "https://arxiv.org/pdf/2005.00625",
+        "https://doi.org/10.1145/3397271.3401253"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity",
+        ".logs/20260721-Arxiv-4-Adic-Complexity-LOG.md",
+        ".reports/BL-Arxiv-4-Adic-Complexity-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.10279",
+      "arxiv_id": "2209.10279",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2209.10279",
+      "normalized_title": "The 4-Adic Complexity of Interleaved Quaternary Sequences of Even Length with Optimal Autocorrelation",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P02; draw 64478 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "4-Adic-Complexity",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.10279",
+        "https://ar5iv.labs.arxiv.org/html/2209.10279",
+        "https://arxiv.org/pdf/2209.10279",
+        "https://doi.org/10.48550/arXiv.2209.10279"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Urban Visual Intelligence",
+        ".logs/20260721-Arxiv-Urban-Visual-Intelligence-LOG.md",
+        ".reports/BL-Arxiv-Urban-Visual-Intelligence-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2301.00580",
+      "arxiv_id": "2301.00580",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2301.00580",
+      "normalized_title": "Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P03; draw 66698 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Urban-Visual-Intelligence",
+      "source_urls": [
+        "https://arxiv.org/abs/2301.00580",
+        "https://arxiv.org/html/2301.00580",
+        "https://arxiv.org/pdf/2301.00580",
+        "https://doi.org/10.48550/arXiv.2301.00580"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Equivariant Contrastive",
+        ".logs/20260721-Arxiv-Equivariant-Contrastive-LOG.md",
+        ".reports/BL-Arxiv-Equivariant-Contrastive-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2211.05290",
+      "arxiv_id": "2211.05290",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2211.05290",
+      "normalized_title": "Equivariant Contrastive Learning for Sequential Recommendation",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P04; draw 53468 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Equivariant-Contrastive",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.05290",
+        "https://arxiv.org/html/2211.05290",
+        "https://arxiv.org/pdf/2211.05290",
+        "https://doi.org/10.48550/arXiv.2211.05290"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Security Non resettable",
+        ".logs/20260721-Arxiv-Security-Non-resettable-LOG.md",
+        ".reports/BL-Arxiv-Security-Non-resettable-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.15270",
+      "arxiv_id": "2502.15270",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2502.15270",
+      "normalized_title": "On the (In)Security of Non-resettable Device Identifiers in Custom Android Systems",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P05; draw 11417 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Security-Non-resettable",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.15270",
+        "https://arxiv.org/html/2502.15270",
+        "https://arxiv.org/pdf/2502.15270",
+        "https://doi.org/10.48550/arXiv.2502.15270"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping",
+        ".logs/20260721-Arxiv-Beyond-Feature-Mapping-LOG.md",
+        ".reports/BL-Arxiv-Beyond-Feature-Mapping-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.10775",
+      "arxiv_id": "2411.10775",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2411.10775",
+      "normalized_title": "Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P06; draw 51295 of 75776 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Beyond-Feature-Mapping",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.10775",
+        "https://arxiv.org/html/2411.10775",
+        "https://arxiv.org/pdf/2411.10775",
+        "https://doi.org/10.48550/arXiv.2411.10775"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Dataset Baselines",
+        ".logs/20260721-Arxiv-Dataset-Baselines-LOG.md",
+        ".reports/BL-Arxiv-Dataset-Baselines-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.12847",
+      "arxiv_id": "2405.12847",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.5281/zenodo.10265251",
+      "normalized_title": "A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P07; draw 24277 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Dataset-Baselines",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.12847",
+        "https://arxiv.org/html/2405.12847",
+        "https://arxiv.org/pdf/2405.12847",
+        "https://doi.org/10.5281/zenodo.10265251"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Temporally Consistent",
+        ".logs/20260721-Arxiv-Temporally-Consistent-LOG.md",
+        ".reports/BL-Arxiv-Temporally-Consistent-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.11950",
+      "arxiv_id": "2407.11950",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2407.11950",
+      "normalized_title": "Temporally Consistent Stereo Matching",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P08; draw 58472 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Temporally-Consistent",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.11950",
+        "https://arxiv.org/html/2407.11950",
+        "https://arxiv.org/pdf/2407.11950",
+        "https://doi.org/10.48550/arXiv.2407.11950"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Controlling Latent",
+        ".logs/20260721-Arxiv-Controlling-Latent-LOG.md",
+        ".reports/BL-Arxiv-Controlling-Latent-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.02322",
+      "arxiv_id": "2412.02322",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2412.02322",
+      "normalized_title": "Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P09; draw 4663 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Controlling-Latent",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.02322",
+        "https://arxiv.org/html/2412.02322",
+        "https://arxiv.org/pdf/2412.02322",
+        "https://doi.org/10.48550/arXiv.2412.02322"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Network Analysis",
+        ".logs/20260721-Arxiv-Network-Analysis-LOG.md",
+        ".reports/BL-Arxiv-Network-Analysis-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.10693",
+      "arxiv_id": "2310.10693",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2310.10693",
+      "normalized_title": "Network Analysis of the iNaturalist Citizen Science Community",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P10; draw 26682 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Network-Analysis",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.10693",
+        "https://arxiv.org/html/2310.10693",
+        "https://arxiv.org/pdf/2310.10693",
+        "https://doi.org/10.48550/arXiv.2310.10693"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection",
+        ".logs/20260721-Arxiv-Stealth-Memory-Injection-LOG.md",
+        ".reports/BL-Arxiv-Stealth-Memory-Injection-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2607.05189",
+      "arxiv_id": "2607.05189v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2607.05189",
+      "normalized_title": "When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents",
+      "notes": "Explicit user selection; duplicate exclusions 0; reselections 0; complete existing source bundle reused with zero network downloads; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stealth-Memory-Injection",
+      "source_urls": [
+        "https://arxiv.org/abs/2607.05189v1",
+        "https://arxiv.org/html/2607.05189v1",
+        "https://arxiv.org/pdf/2607.05189v1",
+        "https://doi.org/10.48550/arXiv.2607.05189"
+      ],
+      "status": "deposited"
+    }
+  ]
 }
