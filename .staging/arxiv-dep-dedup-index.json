@@ -1564,6 +1564,29 @@
         "https://doi.org/10.48550/arXiv.2301.00580"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260721-Equivariant Contrastive",
+        ".logs/20260721-Arxiv-Equivariant-Contrastive-LOG.md",
+        ".reports/BL-Arxiv-Equivariant-Contrastive-20260721/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2211.05290",
+      "arxiv_id": "2211.05290",
+      "commit_or_pr": "",
+      "deposit_date": "20260721",
+      "doi": "10.48550/arXiv.2211.05290",
+      "normalized_title": "Equivariant Contrastive Learning for Sequential Recommendation",
+      "notes": "Job BLAD-2200-20260721-F7EDC854 item BLAD-2200-20260721-F7EDC854-P04; draw 53468 of 75776 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Equivariant-Contrastive",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.05290",
+        "https://arxiv.org/html/2211.05290",
+        "https://arxiv.org/pdf/2211.05290",
+        "https://doi.org/10.48550/arXiv.2211.05290"
+      ],
+      "status": "deposited"
     }
   ]
 }

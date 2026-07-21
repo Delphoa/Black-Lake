@@ -821,3 +821,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery* | Zhang, Fan; Miranda, Arianna Salazar; Duarte, Fábio; Vale, Lawrence; Hack, Gary; Chen, Min; Liu, Yu; Batty, Michael; Ratti, Carlo | [arXiv:2301.00580](https://arxiv.org/abs/2301.00580) - [DOI](https://doi.org/10.48550/arXiv.2301.00580) |
+
+## [DEP-E-20260721-Equivariant Contrastive](../DEP-E-20260721-Equivariant%20Contrastive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Equivariant Contrastive Learning for Sequential Recommendation* | Zhou, Peilin; Gao, Jingqi; Xie, Yueqi; Ye, Qichen; Hua, Yining; Kim, Jae Boum; Wang, Shoujin; Kim, Sunghun | [arXiv:2211.05290](https://arxiv.org/abs/2211.05290) - [DOI](https://doi.org/10.48550/arXiv.2211.05290) |
