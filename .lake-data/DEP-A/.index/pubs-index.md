@@ -2468,3 +2468,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale* | Changhong Jin; Shiqiu Yang; Roger Zhe Li; Yingjie Niu; Aghiles Salah; Mete Sertkan; Zheng Ju; Xingsheng Guo; Huifeng Guo; Ruihai Dong; Barry Smyth | [arXiv:2607.09540v2](https://arxiv.org/abs/2607.09540v2) - [DOI](https://doi.org/10.48550/arXiv.2607.09540) |
+
+
+## [DEP-A-20260722-Legal OpenWeight](../DEP-A-20260722-Legal%20OpenWeight/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.11400-whitepaper-review.md`](../DEP-A-20260722-Legal%20OpenWeight/2607.11400-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing* | Amal Saad Alshehri; Nelly Bencomo; Amir Atapour-Abarghouei | [arXiv:2607.11400v1](https://arxiv.org/abs/2607.11400v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11400) |
+
+
+## [DEP-A-20260722-ProjAgent Code Retrieval](../DEP-A-20260722-ProjAgent%20Code%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.08691-whitepaper-review.md`](../DEP-A-20260722-ProjAgent%20Code%20Retrieval/2607.08691-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation* | QiHong Chen; Aaron Imani; Iftekhar Ahmed | [arXiv:2607.08691v1](https://arxiv.org/abs/2607.08691v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08691) |
+
+
+## [DEP-A-20260722-Apple Semantic Search](../DEP-A-20260722-Apple%20Semantic%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.10239-whitepaper-review.md`](../DEP-A-20260722-Apple%20Semantic%20Search/2607.10239-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multilingual Semantic Retrieval for Apple Music Search* | Vishalaksh Aggarwal; Kevin Sebastian; Vivek Kanojiya; Leo Le; Nick Tucey; Santosh Shankar | [arXiv:2607.10239v2](https://arxiv.org/abs/2607.10239v2) - [DOI](https://doi.org/10.48550/arXiv.2607.10239) |
+
+
+## [DEP-A-20260722-CrossMaps Rover Mapping](../DEP-A-20260722-CrossMaps%20Rover%20Mapping/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.16935-whitepaper-review.md`](../DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation* | Jan-Niklas Klein; Sona Ghahremani; Christian Medeiros Adriano; Holger Giese | [arXiv:2606.16935v1](https://arxiv.org/abs/2606.16935v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16935) |
+
+
+## [DEP-A-20260722-RADAR Dynamic RAG](../DEP-A-20260722-RADAR%20Dynamic%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2605.22041-whitepaper-review.md`](../DEP-A-20260722-RADAR%20Dynamic%20RAG/2605.22041-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RADAR: Defending RAG Dynamically against Retrieval Corruption* | Ziyuan Chen; Yueming Lyu; Yi Liu; Weixiang Han; Jing Dong; Caifeng Shan; Tieniu Tan | [arXiv:2605.22041v1](https://arxiv.org/abs/2605.22041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.22041) |
