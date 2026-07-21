@@ -2693,3 +2693,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Context-Aware RL for Agentic and Multimodal LLMs* | Peiyang Xu; Bangzheng Li; Sijia Liu; Karthik R. Narasimhan; Pramod Viswanath; Prateek Mittal; Xingyu Fu | [arXiv:2606.17053v1](https://arxiv.org/abs/2606.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17053) |
+
+
+## [DEP-A-20260722-Translation Fertility](../DEP-A-20260722-Translation%20Fertility/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.29489-whitepaper-review.md`](../DEP-A-20260722-Translation%20Fertility/2606.29489-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Which Tokens Need Context? A Reference-Based Analysis of Translation Responsibility Using Fertility and Entropy* | Ramakrishna Appicharla; Baban Gain; Santanu Pal; Asif Ekbal | [arXiv:2606.29489v1](https://arxiv.org/abs/2606.29489v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29489) |
+
+
+## [DEP-A-20260722-SolidiBench LLM](../DEP-A-20260722-SolidiBench%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.19988-whitepaper-review.md`](../DEP-A-20260722-SolidiBench%20LLM/2606.19988-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning* | Shi Chen; Rongcun Wang; Yuan Tian; Xiaoyuan Xie; Wei Song; Rubing Huang | [arXiv:2606.19988v1](https://arxiv.org/abs/2606.19988v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19988) |
+
+
+## [DEP-A-20260722-FlashMemory LSA](../DEP-A-20260722-FlashMemory%20LSA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.09079-whitepaper-review.md`](../DEP-A-20260722-FlashMemory%20LSA/2606.09079-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention* | Yan Wang; Qifan Zhang; Jiachen Yu; Tian Liang; Dongyang Ma; Xiang Hu; Zibo Lin; Chunyang Li; Zhichao Wang; Miao Peng; Nuo Chen; Jia Li; Yujiu Yang; Haitao Mi; Dong Yu | [arXiv:2606.09079v2](https://arxiv.org/abs/2606.09079v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09079) |
+
+
+## [DEP-A-20260722-Cartridges at Scale](../DEP-A-20260722-Cartridges%20at%20Scale/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.04557-whitepaper-review.md`](../DEP-A-20260722-Cartridges%20at%20Scale/2606.04557-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cartridges at Scale: Training Modular KV Caches over Large Document Collections* | Momchil Hardalov; Gonzalo Iglesias; Adrià de Gispert | [arXiv:2606.04557v1](https://arxiv.org/abs/2606.04557v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04557) |
+
+
+## [DEP-A-20260722-Unified KV Pooling](../DEP-A-20260722-Unified%20KV%20Pooling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.14779-whitepaper-review.md`](../DEP-A-20260722-Unified%20KV%20Pooling/2606.14779-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unified KV Pooling to Accelerate Long-Context LLM Serving* | Minchul Kang; Changyong Shin; Jinwoo Jeong; Jaerim Park; Woohyun Kim; Bonyul Gu; Dongwoo Kang; Gyeongsik Yang; Chuck Yoo | [arXiv:2606.14779v1](https://arxiv.org/abs/2606.14779v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14779) |
