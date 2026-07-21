@@ -2,6 +2,14 @@
 
 This index attributes arXiv papers and other research publications preserved or substantively reviewed by entries in the `DEP-A` container.
 
+## [DEP-A-20260721-Stealth Memory Intake](../DEP-A-20260721-Stealth%20Memory%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete arXiv v1 paper, matching full-paper HTML, and pinned DEP-E record on 2026-07-21. The owning review artifact is [`2607.05189-whitepaper-review.md`](../DEP-A-20260721-Stealth%20Memory%20Intake/2607.05189-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents* | Yechao Zhang; Shiqian Zhao; Jiawen Zhang; Jie Zhang; Gelei Deng; Xiaogeng Liu; Chaowei Xiao; Tianwei Zhang | [arXiv:2607.05189v1](https://arxiv.org/abs/2607.05189v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05189) |
+
 ## [DEP-A-20260714-ConMax Confidence](../DEP-A-20260714-ConMax%20Confidence/README.md)
 
 Review status: substantively reviewed from the complete primary paper on 2026-07-14. The owning review artifact is [`conmax-confidence-intake-review.md`](../DEP-A-20260714-ConMax%20Confidence/conmax-confidence-intake-review.md).
