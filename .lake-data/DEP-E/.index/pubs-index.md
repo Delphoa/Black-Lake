@@ -839,3 +839,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion* | He, Gang; Xu, Kepeng; Xu, Li; Wang, Siqi; Yu, Wenxin; Wu, Xianyun | [arXiv:2411.10775](https://arxiv.org/abs/2411.10775) - [DOI](https://doi.org/10.48550/arXiv.2411.10775) |
+
+## [DEP-E-20260721-Dataset Baselines](../DEP-E-20260721-Dataset%20Baselines/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability* | Tseng, Li-Yang; Lin, Tzu-Ling; Shuai, Hong-Han; Huang, Jen-Wei; Chang, Wen-Whei | [arXiv:2405.12847](https://arxiv.org/abs/2405.12847) - [DOI](https://doi.org/10.5281/zenodo.10265251) |
