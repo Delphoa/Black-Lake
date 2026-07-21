@@ -845,3 +845,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability* | Tseng, Li-Yang; Lin, Tzu-Ling; Shuai, Hong-Han; Huang, Jen-Wei; Chang, Wen-Whei | [arXiv:2405.12847](https://arxiv.org/abs/2405.12847) - [DOI](https://doi.org/10.5281/zenodo.10265251) |
+
+## [DEP-E-20260721-Temporally Consistent](../DEP-E-20260721-Temporally%20Consistent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporally Consistent Stereo Matching* | Zeng, Jiaxi; Yao, Chengtang; Wu, Yuwei; Jia, Yunde | [arXiv:2407.11950](https://arxiv.org/abs/2407.11950) - [DOI](https://doi.org/10.48550/arXiv.2407.11950) |
