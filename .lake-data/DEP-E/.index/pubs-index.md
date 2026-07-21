@@ -857,3 +857,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation* | Li, Xinjie; Zhao, Yang; Wang, Dong; Chen, Yuan; Cao, Li; Liu, Xiaoping | [arXiv:2412.02322](https://arxiv.org/abs/2412.02322) - [DOI](https://doi.org/10.48550/arXiv.2412.02322) |
+
+## [DEP-E-20260721-Network Analysis](../DEP-E-20260721-Network%20Analysis/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Network Analysis of the iNaturalist Citizen Science Community* | Liu, Yu Lu; Jiralerspong, Thomas | [arXiv:2310.10693](https://arxiv.org/abs/2310.10693) - [DOI](https://doi.org/10.48550/arXiv.2310.10693) |
