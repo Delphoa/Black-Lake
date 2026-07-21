@@ -2513,3 +2513,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RADAR: Defending RAG Dynamically against Retrieval Corruption* | Ziyuan Chen; Yueming Lyu; Yi Liu; Weixiang Han; Jing Dong; Caifeng Shan; Tieniu Tan | [arXiv:2605.22041v1](https://arxiv.org/abs/2605.22041v1) - [DOI](https://doi.org/10.48550/arXiv.2605.22041) |
+
+
+## [DEP-A-20260722-OneRetrieval Editable](../DEP-A-20260722-OneRetrieval%20Editable/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.13533-whitepaper-review.md`](../DEP-A-20260722-OneRetrieval%20Editable/2606.13533-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model* | Xuxin Zhang; Ben Chen; Yue Lv; Siyuan Wang; Yupeng Li; Yufei Ma; Zihan Liang; Tong Zhao; Ying Yang; Huangyu Dai; Lingtao Mao; Zhipeng Qian; Xinyu Sun; Chenyi Lei; Wenwu Ou; Kun Gai | [arXiv:2606.13533v2](https://arxiv.org/abs/2606.13533v2) - [DOI](https://doi.org/10.48550/arXiv.2606.13533) |
+
+
+## [DEP-A-20260722-PRO Prefix Retention](../DEP-A-20260722-PRO%20Prefix%20Retention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.09241-whitepaper-review.md`](../DEP-A-20260722-PRO%20Prefix%20Retention/2606.09241-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization* | Yufei Chen; Zihan Wang; Yubao Tang; Yukun Zhao; Maarten de Rijke; Zhaochun Ren | [arXiv:2606.09241v2](https://arxiv.org/abs/2606.09241v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09241) |
+
+
+## [DEP-A-20260722-Agentic Grasp RAG](../DEP-A-20260722-Agentic%20Grasp%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.31200-whitepaper-review.md`](../DEP-A-20260722-Agentic%20Grasp%20RAG/2606.31200-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping* | Tao Chen; Lizheng Liu; Jiaxu Wang; Ziyue Jiang; Ruiqi Tian; JiGuang Huo; Zhongxue Gan | [arXiv:2606.31200v1](https://arxiv.org/abs/2606.31200v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31200) |
+
+
+## [DEP-A-20260722-Interpretable QA](../DEP-A-20260722-Interpretable%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.07380-whitepaper-review.md`](../DEP-A-20260722-Interpretable%20QA/2607.07380-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interpretable Uncertainty for Adaptive Retrieval and Reasoning in Question Answering* | Ritajit Dey; Iadh Ounis; Graham McDonald | [arXiv:2607.07380v1](https://arxiv.org/abs/2607.07380v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07380) |
+
+
+## [DEP-A-20260722-TMem Anticipatory](../DEP-A-20260722-TMem%20Anticipatory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.15405-whitepaper-review.md`](../DEP-A-20260722-TMem%20Anticipatory/2606.15405-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *T-Mem: Memory That Anticipates, Not Archives* | Weidong Guo; Dakai Wang; Zixuan Wang; Hui Liu; Yu Xu | [arXiv:2606.15405v1](https://arxiv.org/abs/2606.15405v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15405) |
