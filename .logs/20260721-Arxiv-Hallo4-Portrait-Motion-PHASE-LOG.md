@@ -4,7 +4,7 @@
 
 - Deposit date: 2026-07-21.
 - Paper: arXiv:2505.23525v4, *Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization*.
-- Run state: artifact drafting and validation in progress; repository submission pending.
+- Run state: artifacts deposited; primary remote verification and Slack notification completed.
 - Public-safety rule: only elapsed durations, date-only markers, repository-relative paths, public URLs, counts, and extractor statuses are recorded.
 
 ## Phase Metrics
@@ -18,8 +18,8 @@
 | Extractor preflight and cache extraction | 5 min | 0.9 sec | Preflight 0.284 sec; extraction 0.643 sec; final status `cached`. |
 | Full-paper, table, figure, and code review | 35 min | 24 min | PDF/HTML/TeX, nine tables, selected figures, and official repository inspected. |
 | Exactly-three related DEP synthesis | 10 min | 6 min | OViP Preference, VideoWeave Geometry, and AR-Drag Motion selected. |
-| Artifact drafting and schema validation | 30 min | pending | Manuscript, Report-Mark, DEP README, logs, indexes, and validation. |
-| Submission, remote verification, and notification | 15 min | pending | Allowlist gate, commits, push/PR fallback, Slack, and read-back. |
+| Artifact drafting and schema validation | 30 min | 11 min | Manuscript, Report-Mark, DEP README, logs, and indexes passed structural, safety, JSON, code, and diff checks. |
+| Submission, remote verification, and notification | 15 min | 6 min | Public-output allowlist passed; primary commit pushed and remotely verified; Slack delivered; completion record prepared. |
 
 ## Extraction Cache
 
@@ -51,15 +51,15 @@
 - Author-inventory hits: two metadata-only rows; not exclusionary.
 - Research-deposit hits: zero.
 - Reselections: zero.
-- Pointer state: pending schema-valid insertion before primary commit; remote commit reference will be added after the primary push.
+- Pointer state: `deposited`; schema-valid unique entry includes the remotely verified primary commit URL.
 
 ## Expected vs Observed Trajectory
 
-The integrity/cache phases completed faster than their estimates because the existing PDF was valid, official full-paper HTML was available on the first bounded repair cycle, and all three local extractors succeeded. Review was not truncated: methods, metrics, Tables 1-9, selected qualitative/ablation figures, limitations, source text, official code metadata, and exactly three related deposits were inspected. The whole job is expected to finish below the 90-120 minute guidance if validation and direct push remain uncomplicated; the shorter trajectory reflects source availability rather than reduced review scope.
+The integrity/cache phases completed faster than their estimates because the existing PDF was valid, official full-paper HTML was available on the first bounded repair cycle, and all three local extractors succeeded. Review was not truncated: methods, metrics, Tables 1-9, selected qualitative/ablation figures, limitations, source text, official code metadata, and exactly three related deposits were inspected. The whole job completed in about 66 minutes, below the 90-120 minute guidance; the shorter trajectory reflects source availability rather than reduced review scope.
 
 ## Shortfalls and Follow-Up
 
 - No training, inference, metric recomputation, checkpoint download, or dataset inspection was performed.
 - No multi-seed uncertainty, confidence intervals, annotation agreement, or independent user study was available from inspected sources.
 - Repo-level license clarity, portable dependency installation, checkpoint naming, training/evaluation scripts, and author-name reconciliation remain unresolved.
-- Final artifact-validation, submission, remote parity, and Slack metrics are pending and will be recorded before completion.
+- Validation and direct primary submission passed; the completion-record commit carries the final log and dedup-pointer state.

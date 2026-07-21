@@ -1476,11 +1476,11 @@
       ],
       "arxiv_base_id": "2505.23525",
       "arxiv_id": "2505.23525v4",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/91d3203f8b6708be77fd6c5be451b434775463d8",
       "deposit_date": "20260721",
       "doi": "10.48550/arXiv.2505.23525",
       "normalized_title": "Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization",
-      "notes": "First uniform draw; partial source unit repaired with official full-paper HTML; complete-source and cache gates passed; all source files withheld locally.",
+      "notes": "First uniform draw; partial source unit repaired with official full-paper HTML; complete-source and cache gates passed; all source files withheld locally; primary artifact commit remotely verified.",
       "slug": "Hallo4-Portrait-Motion",
       "source_urls": [
         "https://arxiv.org/abs/2505.23525",
@@ -1490,7 +1490,7 @@
         "https://doi.org/10.48550/arXiv.2505.23525",
         "https://github.com/fudan-generative-vision/hallo4"
       ],
-      "status": "ready_for_submission"
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

@@ -9,7 +9,7 @@
 - Draw outcome: first draw accepted; duplicate exclusions 0; reselections 0.
 - Source state: initially partial because full-paper HTML was absent; repaired to verified complete before review.
 - Cache state: initial miss; final `cached` after local `missing-only` extraction.
-- Submission state: pending primary repository commit.
+- Submission state: deposited; primary repository commit pushed and Slack notification delivered.
 
 ## Dedup and Eligibility Validation
 
@@ -64,7 +64,7 @@ The selected arXiv ID, arXiv DOI, normalized title, and `Hallo4-Portrait-Motion`
 
 ## Submission Record
 
-- Primary commit or PR: pending.
-- Final submission-record commit: pending.
-- Slack notification: pending.
+- Primary commit: https://github.com/Delphoa/Black-Lake/commit/91d3203f8b6708be77fd6c5be451b434775463d8
+- Final submission-record commit: recorded in repository history by the completion-record commit that updates this log.
+- Slack notification: delivered to `#black-lake-artifacts`.
 - Source files uploaded: no; all source and source-derived review files were withheld locally.
