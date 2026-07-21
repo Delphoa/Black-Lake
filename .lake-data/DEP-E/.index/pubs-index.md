@@ -803,3 +803,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem* | Dabao Wang; Siwei Wu; Ziling Lin; Lei Wu; Xingliang Yuan; Yajin Zhou; Haoyu Wang; Kui Ren | [arXiv:2010.12252v3](https://arxiv.org/abs/2010.12252v3) - [DOI](https://doi.org/10.1145/3457977.3460301) |
 
 - [DEP-E-20260712-LlamaCpp-Runtime](../DEP-E-20260712-LlamaCpp-Runtime/README.md) reviews a software release and commit rather than a research publication, so it intentionally has no publication row.
+
+## [DEP-E-20260721-Alleviating Inconsistency](../DEP-E-20260721-Alleviating%20Inconsistency/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection* | Liu, Zhiwei; Dou, Yingtong; Yu, Philip S.; Deng, Yutong; Peng, Hao | [arXiv:2005.00625](https://arxiv.org/abs/2005.00625) - [DOI](https://doi.org/10.1145/3397271.3401253) |
