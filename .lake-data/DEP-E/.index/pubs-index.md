@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **207 publications across 112 DEP-E entries** (203 arXiv records and 4 other research publications).
+- Current coverage: **208 publications across 113 DEP-E entries** (204 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-21; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -27,6 +27,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Large language model agents accelerate inverse design of metal-organic frameworks for gas separation* | Zhaolin Hu; Hehe Fan; Wangyihan Guo; Meng Xu; Chenhao Rao; Qiwei Yang; Yi Yang | [arXiv:2607.10559v1](https://arxiv.org/abs/2607.10559v1) |
 | *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion* | Jiatong Zhao; Tengyue Zhang; Yuhan Wang; Fuyuan Wu; Junchi Yan | [arXiv:2607.10366v1](https://arxiv.org/abs/2607.10366v1) - [ACM DOI](https://doi.org/10.1145/3770855.3818998) |
 | *Fast and accurate AI-based pre-decoders for color codes* | Jan Olle; Christopher Chamberland; Muyuan Li; Igor Baratta | [arXiv:2607.10058v1](https://arxiv.org/abs/2607.10058v1) |
+
+## [DEP-E-20260721-AMAD Anomaly](../DEP-E-20260721-AMAD%20Anomaly/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AMAD: Adversarial Multiscale Anomaly Detection on High-Dimensional and Time-Evolving Categorical Data* | Zheng Gao; Lin Guo; Chi Ma; *et al.* | [arXiv:1907.06582v1](https://arxiv.org/abs/1907.06582v1) - [DOI](https://doi.org/10.1145/3326937.3341256) |
 
 ## [DEP-E-20260720-WKGM MRI Reconstruction](../DEP-E-20260720-WKGM%20MRI%20Reconstruction/README.md)
 
