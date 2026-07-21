@@ -2738,3 +2738,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unified KV Pooling to Accelerate Long-Context LLM Serving* | Minchul Kang; Changyong Shin; Jinwoo Jeong; Jaerim Park; Woohyun Kim; Bonyul Gu; Dongwoo Kang; Gyeongsik Yang; Chuck Yoo | [arXiv:2606.14779v1](https://arxiv.org/abs/2606.14779v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14779) |
+
+
+## [DEP-A-20260722-LoRA KV Memory](../DEP-A-20260722-LoRA%20KV%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.05698-whitepaper-review.md`](../DEP-A-20260722-LoRA%20KV%20Memory/2606.05698-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking LoRA Memory Through the Lens of KV Cache Compression* | Chunsheng Zuo; Liaoyaqi Wang; William Jurayj; William Fleshman; Benjamin Van Durme | [arXiv:2606.05698v1](https://arxiv.org/abs/2606.05698v1) - [DOI](https://doi.org/10.48550/arXiv.2606.05698) |
+
+
+## [DEP-A-20260722-SparDA KV Prefetch](../DEP-A-20260722-SparDA%20KV%20Prefetch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.04511-whitepaper-review.md`](../DEP-A-20260722-SparDA%20KV%20Prefetch/2606.04511-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference* | Yaosheng Fu; Guangxuan Xiao; Xin Dong; Song Han; Oreste Villa | [arXiv:2606.04511v1](https://arxiv.org/abs/2606.04511v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04511) |
+
+
+## [DEP-A-20260722-HMARS Memory](../DEP-A-20260722-HMARS%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.28349-whitepaper-review.md`](../DEP-A-20260722-HMARS%20Memory/2606.28349-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HMARS: A Hierarchical Multi-Agent Memory System for Long-Context Reasoning* | Zeju Li; Ziyang Zheng; Yizhou Zhou; Qiang Xu | [arXiv:2606.28349v1](https://arxiv.org/abs/2606.28349v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28349) |
+
+
+## [DEP-A-20260722-RedKnot KV Reuse](../DEP-A-20260722-RedKnot%20KV%20Reuse/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.06256-whitepaper-review.md`](../DEP-A-20260722-RedKnot%20KV%20Reuse/2606.06256-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention* | Yang Liu; ZhaoKai Luo; HuaYi Jin; ZhiYong Wang; RuoZhou He; BoYu Wang; Guanjie Chen; Junhao Hu | [arXiv:2606.06256v2](https://arxiv.org/abs/2606.06256v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06256) |
+
+
+## [DEP-A-20260722-VaSE KV Eviction](../DEP-A-20260722-VaSE%20KV%20Eviction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.03928-whitepaper-review.md`](../DEP-A-20260722-VaSE%20KV%20Eviction/2606.03928-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Value-Aware Stochastic KV Cache Eviction for Reasoning Models* | Ting-Yun Chang; Harvey Yiyun Fu; Deqing Fu; Chenghao Yang; Jesse Thomason; Robin Jia | [arXiv:2606.03928v1](https://arxiv.org/abs/2606.03928v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03928) |
