@@ -827,3 +827,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Equivariant Contrastive Learning for Sequential Recommendation* | Zhou, Peilin; Gao, Jingqi; Xie, Yueqi; Ye, Qichen; Hua, Yining; Kim, Jae Boum; Wang, Shoujin; Kim, Sunghun | [arXiv:2211.05290](https://arxiv.org/abs/2211.05290) - [DOI](https://doi.org/10.48550/arXiv.2211.05290) |
+
+## [DEP-E-20260721-Security Non resettable](../DEP-E-20260721-Security%20Non%20resettable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the (In)Security of Non-resettable Device Identifiers in Custom Android Systems* | Dong, Zikan; Wang, Liu; Xu, Guoai; Wang, Haoyu | [arXiv:2502.15270](https://arxiv.org/abs/2502.15270) - [DOI](https://doi.org/10.48550/arXiv.2502.15270) |
