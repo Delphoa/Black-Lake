@@ -815,3 +815,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The 4-Adic Complexity of Interleaved Quaternary Sequences of Even Length with Optimal Autocorrelation* | Jing, Xiaoyan; Xu, Zhefeng; Yang, Minghui; Feng, Keqin | [arXiv:2209.10279](https://arxiv.org/abs/2209.10279) - [DOI](https://doi.org/10.48550/arXiv.2209.10279) |
+
+## [DEP-E-20260721-Urban Visual Intelligence](../DEP-E-20260721-Urban%20Visual%20Intelligence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery* | Zhang, Fan; Miranda, Arianna Salazar; Duarte, Fábio; Vale, Lawrence; Hack, Gary; Chen, Min; Liu, Yu; Batty, Michael; Ratti, Carlo | [arXiv:2301.00580](https://arxiv.org/abs/2301.00580) - [DOI](https://doi.org/10.48550/arXiv.2301.00580) |
