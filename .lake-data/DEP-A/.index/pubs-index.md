@@ -2603,3 +2603,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG* | Tao Zhang; Ziqi Zhang; Zongyang Ma; Yuxin Yang; Bing Li; Chunfeng Yuan; Kang Rong; Fengyun Rao; Jing Lyu; Weiming Hu | [arXiv:2607.07383v1](https://arxiv.org/abs/2607.07383v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07383) |
+
+
+## [DEP-A-20260722-MCRAG Constraints](../DEP-A-20260722-MCRAG%20Constraints/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2607.10151-whitepaper-review.md`](../DEP-A-20260722-MCRAG%20Constraints/2607.10151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MC-RAG System: A Structure-Driven RAG System for Multi-Constraint Queries* | Xiao Zhang; Yang Wan; Yi Li; Miao Xie; Chunli Lv | [arXiv:2607.10151v1](https://arxiv.org/abs/2607.10151v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10151) |
+
+
+## [DEP-A-20260722-PersistentKV Scheduling](../DEP-A-20260722-PersistentKV%20Scheduling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.26666-whitepaper-review.md`](../DEP-A-20260722-PersistentKV%20Scheduling/2606.26666-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs* | Muhammad Ahmed | [arXiv:2606.26666v2](https://arxiv.org/abs/2606.26666v2) - [DOI](https://doi.org/10.48550/arXiv.2606.26666) |
+
+
+## [DEP-A-20260722-ARC KV Caching](../DEP-A-20260722-ARC%20KV%20Caching/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.21238-whitepaper-review.md`](../DEP-A-20260722-ARC%20KV%20Caching/2606.21238-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recency/Frequency Adaptive KV Caching for Large Language Model Serving* | Yang Shen; Meghana Madhyastha; Robert Underwood; Bogdan Nicolae; Randal Burns | [arXiv:2606.21238v1](https://arxiv.org/abs/2606.21238v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21238) |
+
+
+## [DEP-A-20260722-HACK Plus KV](../DEP-A-20260722-HACK%20Plus%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2606.08302-whitepaper-review.md`](../DEP-A-20260722-HACK%20Plus%20KV/2606.08302-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HACK++: Towards More Effective Head-Aware Key-Value Compression for Efficient Visual Autoregressive Modeling* | Ziran Qin; Yuchen Jiang; Mingbao Lin; Youru Lv; Hang Guo; Wen Fei; Weiyao Lin | [arXiv:2606.08302v1](https://arxiv.org/abs/2606.08302v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08302) |
+
+
+## [DEP-A-20260722-SEPatch3D Tokens](../DEP-A-20260722-SEPatch3D%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-22. The owning review artifact is [`2604.14563-whitepaper-review.md`](../DEP-A-20260722-SEPatch3D%20Tokens/2604.14563-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors* | Mingqian Ji; Shanshan Zhang; Jian Yang | [arXiv:2604.14563v1](https://arxiv.org/abs/2604.14563v1) - [DOI](https://doi.org/10.48550/arXiv.2604.14563) |
