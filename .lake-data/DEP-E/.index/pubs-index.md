@@ -917,3 +917,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Temporal Feature Matters: A Framework for Diffusion Model Quantization* | Huang, Yushi; Gong, Ruihao; Liu, Xianglong; Liu, Jing; Li, Yuhang; Lu, Jiwen; Tao, Dacheng | [arXiv:2407.19547](https://arxiv.org/abs/2407.19547) - [DOI](https://doi.org/10.48550/arXiv.2407.19547) |
+
+## [DEP-E-20260722-Graph Alignment](../DEP-E-20260722-Graph%20Alignment/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Graph-based Alignment and Uniformity for Recommendation* | Yang, Liangwei; Liu, Zhiwei; Wang, Chen; Yang, Mingdai; Liu, Xiaolong; Ma, Jing; Yu, Philip S. | [arXiv:2308.09292](https://arxiv.org/abs/2308.09292) - [DOI](https://doi.org/10.1145/3583780.3615185) |

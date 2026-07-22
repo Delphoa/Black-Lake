@@ -1842,6 +1842,29 @@
         "https://doi.org/10.48550/arXiv.2407.19547"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Graph Alignment",
+        ".logs/20260722-Arxiv-Graph-Alignment-LOG.md",
+        ".reports/BL-Arxiv-Graph-Alignment-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.09292",
+      "arxiv_id": "2308.09292",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.1145/3583780.3615185",
+      "normalized_title": "Graph-based Alignment and Uniformity for Recommendation",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P04; draw 40512 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Graph-Alignment",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.09292",
+        "https://ar5iv.labs.arxiv.org/html/2308.09292",
+        "https://arxiv.org/pdf/2308.09292",
+        "https://doi.org/10.1145/3583780.3615185"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
