@@ -881,3 +881,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Network Analysis of the iNaturalist Citizen Science Community* | Liu, Yu Lu; Jiralerspong, Thomas | [arXiv:2310.10693](https://arxiv.org/abs/2310.10693) - [DOI](https://doi.org/10.48550/arXiv.2310.10693) |
+
+## [DEP-E-20260722-SIM MARL Power](../DEP-E-20260722-SIM%20MARL%20Power/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Power Allocation and Phase Shift Design for Stacked Intelligent Metasurfaces-aided Cell-Free Massive MIMO Systems with MARL* | Zhu, Yiyang; Zhang, Jiayi; Shi, Enyu; Liu, Ziheng; Yuen, Chau; Ai, Bo | [arXiv:2502.19675v1](https://arxiv.org/abs/2502.19675v1) - [DOI](https://doi.org/10.48550/arXiv.2502.19675) |
