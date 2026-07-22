@@ -941,3 +941,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Automatically Planning Optimal Parallel Strategy for Large Language Models* | Li, Zongbiao; Li, Xiezhao; Cui, Yinghao; Chen, Yijun; Gu, Zhixuan; Liu, Yuxuan; Zhu, Wenbo; Jia, Fei; Liu, Ke; Li, Qifeng; Zhan, Junyao; Zhou, Jiangtao; Zhang, Chenxi; Liu, Qike | [arXiv:2501.00254](https://arxiv.org/abs/2501.00254) - [DOI](https://doi.org/10.48550/arXiv.2501.00254) |
+
+## [DEP-E-20260722-Rapid Whole Slide Imaging](../DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rapid Whole Slide Imaging via Learning-based Two-shot Virtual Autofocusing* | Li, Qiang; Liu, Xianming; Han, Kaige; Guo, Cheng; Ji, Xiangyang; Wu, Xiaolin | [arXiv:2003.06630](https://arxiv.org/abs/2003.06630) - [DOI](https://doi.org/10.48550/arXiv.2003.06630) |

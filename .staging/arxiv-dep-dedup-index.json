@@ -1934,6 +1934,29 @@
         "https://doi.org/10.48550/arXiv.2501.00254"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging",
+        ".logs/20260722-Arxiv-Rapid-Whole-Slide-Imaging-LOG.md",
+        ".reports/BL-Arxiv-Rapid-Whole-Slide-Imaging-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.06630",
+      "arxiv_id": "2003.06630",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2003.06630",
+      "normalized_title": "Rapid Whole Slide Imaging via Learning-based Two-shot Virtual Autofocusing",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P08; draw 34579 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rapid-Whole-Slide-Imaging",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.06630",
+        "https://ar5iv.labs.arxiv.org/html/2003.06630",
+        "https://arxiv.org/pdf/2003.06630",
+        "https://doi.org/10.48550/arXiv.2003.06630"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
