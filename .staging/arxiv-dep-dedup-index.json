@@ -1491,10 +1491,35 @@
         "https://github.com/fudan-generative-vision/hallo4"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/README.md",
+        ".lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md",
+        ".logs/20260722-Arxiv-AVA-Vignetting-Attack-LOG.md",
+        ".logs/20260722-Arxiv-AVA-Vignetting-Attack-PHASE-LOG.md",
+        ".reports/BL-Arxiv-AVA-Vignetting-Attack-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2105.05558",
+      "arxiv_id": "2105.05558",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/4000bc7283145a6a128ffe0c66ff63c8a2bd14b3",
+      "deposit_date": "20260722",
+      "doi": "10.24963/ijcai.2021/145",
+      "normalized_title": "AVA: Adversarial Vignetting Attack against Visual Recognition",
+      "notes": "First random draw accepted with no duplicate exclusion or reselection. Initial partial source unit repaired to verified complete state with approved ar5iv full-paper fallback after official arXiv HTML was unavailable; cache miss backfilled to cached. Prose and Table 2 discrepancy preserved. Source files withheld locally; no source files uploaded. Primary artifact commit remotely verified; Slack notification delivered to #black-lake-artifacts.",
+      "slug": "AVA-Vignetting-Attack",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2105.05558",
+        "https://arxiv.org/abs/2105.05558",
+        "https://arxiv.org/e-print/2105.05558",
+        "https://arxiv.org/pdf/2105.05558",
+        "https://doi.org/10.24963/ijcai.2021/145",
+        "https://www.ijcai.org/proceedings/2021/145"
+      ],
+      "status": "deposited"
     }
   ],
-  "schema_version": "1.0",
-  "updated_date": "2026-07-21",
   "records": [
     {
       "artifact_paths": [
@@ -1748,6 +1773,238 @@
         "https://doi.org/10.48550/arXiv.2607.05189"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Few shot Multi label",
+        ".logs/20260722-Arxiv-Few-shot-Multi-label-LOG.md",
+        ".reports/BL-Arxiv-Few-shot-Multi-label-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.05256",
+      "arxiv_id": "2010.05256",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2010.05256",
+      "normalized_title": "Few-shot Learning for Multi-label Intent Detection",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P01; draw 60610 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Few-shot-Multi-label",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.05256",
+        "https://ar5iv.labs.arxiv.org/html/2010.05256",
+        "https://arxiv.org/pdf/2010.05256",
+        "https://doi.org/10.48550/arXiv.2010.05256"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Building Taiwanese",
+        ".logs/20260722-Arxiv-Building-Taiwanese-LOG.md",
+        ".reports/BL-Arxiv-Building-Taiwanese-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.07111",
+      "arxiv_id": "2411.07111",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2411.07111",
+      "normalized_title": "Building a Taiwanese Mandarin Spoken Language Model: A First Attempt",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P02; draw 24221 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Building-Taiwanese",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.07111",
+        "https://arxiv.org/html/2411.07111",
+        "https://arxiv.org/pdf/2411.07111",
+        "https://doi.org/10.48550/arXiv.2411.07111"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters",
+        ".logs/20260722-Arxiv-Temporal-Feature-Matters-LOG.md",
+        ".reports/BL-Arxiv-Temporal-Feature-Matters-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.19547",
+      "arxiv_id": "2407.19547",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2407.19547",
+      "normalized_title": "Temporal Feature Matters: A Framework for Diffusion Model Quantization",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P03; draw 31486 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Temporal-Feature-Matters",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.19547",
+        "https://arxiv.org/html/2407.19547",
+        "https://arxiv.org/pdf/2407.19547",
+        "https://doi.org/10.48550/arXiv.2407.19547"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Graph Alignment",
+        ".logs/20260722-Arxiv-Graph-Alignment-LOG.md",
+        ".reports/BL-Arxiv-Graph-Alignment-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.09292",
+      "arxiv_id": "2308.09292",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.1145/3583780.3615185",
+      "normalized_title": "Graph-based Alignment and Uniformity for Recommendation",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P04; draw 40512 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Graph-Alignment",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.09292",
+        "https://ar5iv.labs.arxiv.org/html/2308.09292",
+        "https://arxiv.org/pdf/2308.09292",
+        "https://doi.org/10.1145/3583780.3615185"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive",
+        ".logs/20260722-Arxiv-4DContrast-Contrastive-LOG.md",
+        ".reports/BL-Arxiv-4DContrast-Contrastive-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2112.02990",
+      "arxiv_id": "2112.02990",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2112.02990",
+      "normalized_title": "4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P05; draw 8397 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "4DContrast-Contrastive",
+      "source_urls": [
+        "https://arxiv.org/abs/2112.02990",
+        "https://ar5iv.labs.arxiv.org/html/2112.02990",
+        "https://arxiv.org/pdf/2112.02990",
+        "https://doi.org/10.48550/arXiv.2112.02990"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Pixie System Recommending",
+        ".logs/20260722-Arxiv-Pixie-System-Recommending-LOG.md",
+        ".reports/BL-Arxiv-Pixie-System-Recommending-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1711.07601",
+      "arxiv_id": "1711.07601",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.1711.07601",
+      "normalized_title": "Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P06; draw 43021 of 75777 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Pixie-System-Recommending",
+      "source_urls": [
+        "https://arxiv.org/abs/1711.07601",
+        "https://ar5iv.labs.arxiv.org/html/1711.07601",
+        "https://arxiv.org/pdf/1711.07601",
+        "https://doi.org/10.48550/arXiv.1711.07601"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Automatically Planning",
+        ".logs/20260722-Arxiv-Automatically-Planning-LOG.md",
+        ".reports/BL-Arxiv-Automatically-Planning-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.00254",
+      "arxiv_id": "2501.00254",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2501.00254",
+      "normalized_title": "Automatically Planning Optimal Parallel Strategy for Large Language Models",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P07; draw 4502 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Automatically-Planning",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.00254",
+        "https://arxiv.org/html/2501.00254",
+        "https://arxiv.org/pdf/2501.00254",
+        "https://doi.org/10.48550/arXiv.2501.00254"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging",
+        ".logs/20260722-Arxiv-Rapid-Whole-Slide-Imaging-LOG.md",
+        ".reports/BL-Arxiv-Rapid-Whole-Slide-Imaging-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.06630",
+      "arxiv_id": "2003.06630",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2003.06630",
+      "normalized_title": "Rapid Whole Slide Imaging via Learning-based Two-shot Virtual Autofocusing",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P08; draw 34579 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rapid-Whole-Slide-Imaging",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.06630",
+        "https://ar5iv.labs.arxiv.org/html/2003.06630",
+        "https://arxiv.org/pdf/2003.06630",
+        "https://doi.org/10.48550/arXiv.2003.06630"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring",
+        ".logs/20260722-Arxiv-LTRDetector-Exploring-LOG.md",
+        ".reports/BL-Arxiv-LTRDetector-Exploring-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.03162",
+      "arxiv_id": "2404.03162",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2404.03162",
+      "normalized_title": "LTRDetector: Exploring Long-Term Relationship for Advanced Persistent Threats Detection",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P09; draw 31905 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "LTRDetector-Exploring",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.03162",
+        "https://arxiv.org/html/2404.03162",
+        "https://arxiv.org/pdf/2404.03162",
+        "https://doi.org/10.48550/arXiv.2404.03162"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts",
+        ".logs/20260722-Arxiv-GenTune-Traceable-Prompts-LOG.md",
+        ".reports/BL-Arxiv-GenTune-Traceable-Prompts-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.15227",
+      "arxiv_id": "2508.15227",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.1145/3746059.3747774",
+      "normalized_title": "GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P10; draw 2945 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "GenTune-Traceable-Prompts",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.15227",
+        "https://arxiv.org/html/2508.15227",
+        "https://arxiv.org/pdf/2508.15227",
+        "https://doi.org/10.1145/3746059.3747774"
+      ],
+      "status": "deposited"
     }
-  ]
+  ],
+  "schema_version": "1.0",
+  "updated_date": "2026-07-22"
 }

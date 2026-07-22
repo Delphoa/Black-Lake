@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **212 publications across 117 DEP-E entries** (208 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-21; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **226 publications across 131 DEP-E entries** (222 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-22; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,24 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260722-FAVLA Fast-Slow](../DEP-E-20260722-FAVLA%20Fast-Slow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation* | Yao Li; Peiyuan Tang; Wuyang Zhang; *et al.* | [arXiv:2602.23648v1](https://arxiv.org/abs/2602.23648v1) - [DOI](https://doi.org/10.48550/arXiv.2602.23648) |
+
+## [DEP-E-20260722-Causal DP Workloads](../DEP-E-20260722-Causal%20DP%20Workloads/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration* | Amir Asiaee; Kaveh Aryan | [arXiv:2607.08122v2](https://arxiv.org/abs/2607.08122v2) - [DOI](https://doi.org/10.48550/arXiv.2607.08122) |
+
+## [DEP-E-20260722-Weak Diffusion Priors](../DEP-E-20260722-Weak%20Diffusion%20Priors/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance* | Jing Jia; Wei Yuan; Sifan Liu; Liyue Shen; Guanyang Wang | [arXiv:2601.22443v2](https://arxiv.org/abs/2601.22443v2) - [DOI](https://doi.org/10.48550/arXiv.2601.22443) |
 
 ## [DEP-E-20260721-Stealth Memory Injection](../DEP-E-20260721-Stealth%20Memory%20Injection/README.md)
 
@@ -92,7 +110,7 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
-| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806v1](https://arxiv.org/abs/2606.26806v1) Â· [DOI](https://doi.org/10.48550/arXiv.2606.26806) |
+| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806v1](https://arxiv.org/abs/2606.26806v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26806) |
 
 ## [DEP-E-20260719-CLOVER Test Benchmark](../DEP-E-20260719-CLOVER%20Test%20Benchmark/README.md)
 
@@ -104,7 +122,7 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
-| *Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation* | Yifan Mao; Jian Liu; Xianming Liu | [arXiv:2403.05056v1](https://arxiv.org/abs/2403.05056v1) Â· [DOI](https://doi.org/10.48550/arXiv.2403.05056) |
+| *Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation* | Yifan Mao; Jian Liu; Xianming Liu | [arXiv:2403.05056v1](https://arxiv.org/abs/2403.05056v1) · [DOI](https://doi.org/10.48550/arXiv.2403.05056) |
 
 ## [DEP-E-20260717-Moran Spectra](../DEP-E-20260717-Moran%20Spectra/README.md)
 
@@ -869,3 +887,75 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Network Analysis of the iNaturalist Citizen Science Community* | Liu, Yu Lu; Jiralerspong, Thomas | [arXiv:2310.10693](https://arxiv.org/abs/2310.10693) - [DOI](https://doi.org/10.48550/arXiv.2310.10693) |
+
+## [DEP-E-20260722-SIM MARL Power](../DEP-E-20260722-SIM%20MARL%20Power/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Power Allocation and Phase Shift Design for Stacked Intelligent Metasurfaces-aided Cell-Free Massive MIMO Systems with MARL* | Zhu, Yiyang; Zhang, Jiayi; Shi, Enyu; Liu, Ziheng; Yuen, Chau; Ai, Bo | [arXiv:2502.19675v1](https://arxiv.org/abs/2502.19675v1) - [DOI](https://doi.org/10.48550/arXiv.2502.19675) |
+
+## [DEP-E-20260722-AVA Vignetting Attack](../DEP-E-20260722-AVA%20Vignetting%20Attack/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AVA: Adversarial Vignetting Attack against Visual Recognition* | Tian, Binyu; Juefei-Xu, Felix; Guo, Qing; Xie, Xiaofei; Li, Xiaohong; Liu, Yang | [arXiv:2105.05558](https://arxiv.org/abs/2105.05558) - [DOI](https://doi.org/10.24963/ijcai.2021/145) |
+
+## [DEP-E-20260722-Few shot Multi label](../DEP-E-20260722-Few%20shot%20Multi%20label/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-shot Learning for Multi-label Intent Detection* | Hou, Yutai; Lai, Yongkui; Wu, Yushan; Che, Wanxiang; Liu, Ting | [arXiv:2010.05256](https://arxiv.org/abs/2010.05256) - [DOI](https://doi.org/10.48550/arXiv.2010.05256) |
+
+## [DEP-E-20260722-Building Taiwanese](../DEP-E-20260722-Building%20Taiwanese/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building a Taiwanese Mandarin Spoken Language Model: A First Attempt* | Yang, Chih-Kai; Fu, Yu-Kuan; Li, Chen-An; Lin, Yi-Cheng; Lin, Yu-Xiang; Chen, Wei-Chih; Chung, Ho Lam; Kuan, Chun-Yi; Huang, Wei-Ping; Lu, Ke-Han; Lin, Tzu-Quan; Wang, Hsiu-Hsuan; Hu, En-Pei; Hsu, Chan-Jan; Tseng, Liang-Hsuan; Chiu, I-Hsiang; Sanga, Ulin; Chen, Xuanjun; Hsu, Po-chun; Yang, Shu-wen; Lee, Hung-yi | [arXiv:2411.07111](https://arxiv.org/abs/2411.07111) - [DOI](https://doi.org/10.48550/arXiv.2411.07111) |
+
+## [DEP-E-20260722-Temporal Feature Matters](../DEP-E-20260722-Temporal%20Feature%20Matters/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Feature Matters: A Framework for Diffusion Model Quantization* | Huang, Yushi; Gong, Ruihao; Liu, Xianglong; Liu, Jing; Li, Yuhang; Lu, Jiwen; Tao, Dacheng | [arXiv:2407.19547](https://arxiv.org/abs/2407.19547) - [DOI](https://doi.org/10.48550/arXiv.2407.19547) |
+
+## [DEP-E-20260722-Graph Alignment](../DEP-E-20260722-Graph%20Alignment/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Graph-based Alignment and Uniformity for Recommendation* | Yang, Liangwei; Liu, Zhiwei; Wang, Chen; Yang, Mingdai; Liu, Xiaolong; Ma, Jing; Yu, Philip S. | [arXiv:2308.09292](https://arxiv.org/abs/2308.09292) - [DOI](https://doi.org/10.1145/3583780.3615185) |
+
+## [DEP-E-20260722-4DContrast Contrastive](../DEP-E-20260722-4DContrast%20Contrastive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding* | Chen, Yujin; Nießner, Matthias; Dai, Angela | [arXiv:2112.02990](https://arxiv.org/abs/2112.02990) - [DOI](https://doi.org/10.48550/arXiv.2112.02990) |
+
+## [DEP-E-20260722-Pixie System Recommending](../DEP-E-20260722-Pixie%20System%20Recommending/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time* | Eksombatchai, Chantat; Jindal, Pranav; Liu, Jerry Zitao; Liu, Yuchen; Sharma, Rahul; Sugnet, Charles; Ulrich, Mark; Leskovec, Jure | [arXiv:1711.07601](https://arxiv.org/abs/1711.07601) - [DOI](https://doi.org/10.48550/arXiv.1711.07601) |
+
+## [DEP-E-20260722-Automatically Planning](../DEP-E-20260722-Automatically%20Planning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Automatically Planning Optimal Parallel Strategy for Large Language Models* | Li, Zongbiao; Li, Xiezhao; Cui, Yinghao; Chen, Yijun; Gu, Zhixuan; Liu, Yuxuan; Zhu, Wenbo; Jia, Fei; Liu, Ke; Li, Qifeng; Zhan, Junyao; Zhou, Jiangtao; Zhang, Chenxi; Liu, Qike | [arXiv:2501.00254](https://arxiv.org/abs/2501.00254) - [DOI](https://doi.org/10.48550/arXiv.2501.00254) |
+
+## [DEP-E-20260722-Rapid Whole Slide Imaging](../DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rapid Whole Slide Imaging via Learning-based Two-shot Virtual Autofocusing* | Li, Qiang; Liu, Xianming; Han, Kaige; Guo, Cheng; Ji, Xiangyang; Wu, Xiaolin | [arXiv:2003.06630](https://arxiv.org/abs/2003.06630) - [DOI](https://doi.org/10.48550/arXiv.2003.06630) |
+
+## [DEP-E-20260722-LTRDetector Exploring](../DEP-E-20260722-LTRDetector%20Exploring/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LTRDetector: Exploring Long-Term Relationship for Advanced Persistent Threats Detection* | Liu, Xiaoxiao; Xu, Fan; Wang, Nan; Zhao, Qinxin; Zhang, Dalin; Zhao, Xibin; Liu, Jiqiang | [arXiv:2404.03162](https://arxiv.org/abs/2404.03162) - [DOI](https://doi.org/10.48550/arXiv.2404.03162) |
+
+## [DEP-E-20260722-GenTune Traceable Prompts](../DEP-E-20260722-GenTune%20Traceable%20Prompts/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design* | Wang, Wen-Fan; Lee, Ting-Ying; Lu, Chien-Ting; Hsu, Che-Wei; Campanyà, Nil Ponsa; Chen, Yu; Chen, Mike Y.; Chen, Bing-Yu | [arXiv:2508.15227](https://arxiv.org/abs/2508.15227) - [DOI](https://doi.org/10.1145/3746059.3747774) |
