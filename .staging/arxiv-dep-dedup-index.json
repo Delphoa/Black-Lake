@@ -1865,6 +1865,29 @@
         "https://doi.org/10.1145/3583780.3615185"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive",
+        ".logs/20260722-Arxiv-4DContrast-Contrastive-LOG.md",
+        ".reports/BL-Arxiv-4DContrast-Contrastive-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2112.02990",
+      "arxiv_id": "2112.02990",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2112.02990",
+      "normalized_title": "4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P05; draw 8397 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "4DContrast-Contrastive",
+      "source_urls": [
+        "https://arxiv.org/abs/2112.02990",
+        "https://ar5iv.labs.arxiv.org/html/2112.02990",
+        "https://arxiv.org/pdf/2112.02990",
+        "https://doi.org/10.48550/arXiv.2112.02990"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

@@ -923,3 +923,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Graph-based Alignment and Uniformity for Recommendation* | Yang, Liangwei; Liu, Zhiwei; Wang, Chen; Yang, Mingdai; Liu, Xiaolong; Ma, Jing; Yu, Philip S. | [arXiv:2308.09292](https://arxiv.org/abs/2308.09292) - [DOI](https://doi.org/10.1145/3583780.3615185) |
+
+## [DEP-E-20260722-4DContrast Contrastive](../DEP-E-20260722-4DContrast%20Contrastive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding* | Chen, Yujin; Nießner, Matthias; Dai, Angela | [arXiv:2112.02990](https://arxiv.org/abs/2112.02990) - [DOI](https://doi.org/10.48550/arXiv.2112.02990) |
