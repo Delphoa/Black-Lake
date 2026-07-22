@@ -905,3 +905,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Few-shot Learning for Multi-label Intent Detection* | Hou, Yutai; Lai, Yongkui; Wu, Yushan; Che, Wanxiang; Liu, Ting | [arXiv:2010.05256](https://arxiv.org/abs/2010.05256) - [DOI](https://doi.org/10.48550/arXiv.2010.05256) |
+
+## [DEP-E-20260722-Building Taiwanese](../DEP-E-20260722-Building%20Taiwanese/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building a Taiwanese Mandarin Spoken Language Model: A First Attempt* | Yang, Chih-Kai; Fu, Yu-Kuan; Li, Chen-An; Lin, Yi-Cheng; Lin, Yu-Xiang; Chen, Wei-Chih; Chung, Ho Lam; Kuan, Chun-Yi; Huang, Wei-Ping; Lu, Ke-Han; Lin, Tzu-Quan; Wang, Hsiu-Hsuan; Hu, En-Pei; Hsu, Chan-Jan; Tseng, Liang-Hsuan; Chiu, I-Hsiang; Sanga, Ulin; Chen, Xuanjun; Hsu, Po-chun; Yang, Shu-wen; Lee, Hung-yi | [arXiv:2411.07111](https://arxiv.org/abs/2411.07111) - [DOI](https://doi.org/10.48550/arXiv.2411.07111) |
