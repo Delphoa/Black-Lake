@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **223 publications across 128 DEP-E entries** (219 arXiv records and 4 other research publications).
+- Current coverage: **224 publications across 129 DEP-E entries** (220 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-22; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -18,6 +18,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration* | Amir Asiaee; Kaveh Aryan | [arXiv:2607.08122v2](https://arxiv.org/abs/2607.08122v2) - [DOI](https://doi.org/10.48550/arXiv.2607.08122) |
+
+## [DEP-E-20260722-Weak Diffusion Priors](../DEP-E-20260722-Weak%20Diffusion%20Priors/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance* | Jing Jia; Wei Yuan; Sifan Liu; Liyue Shen; Guanyang Wang | [arXiv:2601.22443v2](https://arxiv.org/abs/2601.22443v2) - [DOI](https://doi.org/10.48550/arXiv.2601.22443) |
 
 ## [DEP-E-20260721-Stealth Memory Injection](../DEP-E-20260721-Stealth%20Memory%20Injection/README.md)
 
@@ -98,7 +104,7 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
-| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806v1](https://arxiv.org/abs/2606.26806v1) Â· [DOI](https://doi.org/10.48550/arXiv.2606.26806) |
+| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806v1](https://arxiv.org/abs/2606.26806v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26806) |
 
 ## [DEP-E-20260719-CLOVER Test Benchmark](../DEP-E-20260719-CLOVER%20Test%20Benchmark/README.md)
 
@@ -110,7 +116,7 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
-| *Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation* | Yifan Mao; Jian Liu; Xianming Liu | [arXiv:2403.05056v1](https://arxiv.org/abs/2403.05056v1) Â· [DOI](https://doi.org/10.48550/arXiv.2403.05056) |
+| *Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation* | Yifan Mao; Jian Liu; Xianming Liu | [arXiv:2403.05056v1](https://arxiv.org/abs/2403.05056v1) · [DOI](https://doi.org/10.48550/arXiv.2403.05056) |
 
 ## [DEP-E-20260717-Moran Spectra](../DEP-E-20260717-Moran%20Spectra/README.md)
 
