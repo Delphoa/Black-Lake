@@ -19,8 +19,8 @@
 | Extractor preflight and cache population | 5 min | under 2 min | complete | `missing-only`; cache miss backfilled to cached. Extraction itself completed in 1.745 seconds. |
 | Full-paper, source, figure, table, and implementation review | 35 min | about 22 min | complete | Eight pages visually inspected; numeric and source-level consistency checks performed. |
 | Related DEP synthesis | 10 min | about 7 min | complete | Exactly three conceptually overlapping deposits inspected. |
-| Artifact drafting and validation | 30 min | pending final measurement | in progress | Five new artifacts plus two index updates. |
-| Allowlist, submission, and Slack notification | 15 min | pending | pending | Requires clean staged set and repository submission. |
+| Artifact drafting and validation | 30 min | about 18 min | complete | Five new artifacts plus two index updates; schema, count, syntax, JSON, and public-safety checks passed. |
+| Allowlist, submission, and Slack notification | 15 min | about 5 min | complete | Seven-file allowlist passed; primary commit was remotely verified and Slack delivery succeeded. |
 
 ## Source-Integrity Metrics
 
@@ -51,11 +51,11 @@
 
 ## Dedup Index Status
 
-The first draw passed the public index, repository artifact, automation-memory, active-worktree, and related-data checks. Duplicate exclusions and reselections were both zero. The new pointer is being added with a submission-pending status and will be finalized with the repository reference after push.
+The first draw passed the public index, repository artifact, automation-memory, active-worktree, and related-data checks. Duplicate exclusions and reselections were both zero. The pointer is finalized with deposited status and the remotely verified primary commit.
 
 ## Expected-vs-Observed Trajectory
 
-The first-draw acceptance and single bounded repair pass kept selection, repair, and extraction below their estimates. Review time was still spent on the complete source, source representation, all PDF pages, result tables, and a discrepancy between prose and Table 2. The job remains inside the whole-job guidance without truncating evidence review.
+The first-draw acceptance and single bounded repair pass kept selection, repair, and extraction below their estimates. Review time was still spent on the complete source, source representation, all PDF pages, result tables, and a discrepancy between prose and Table 2. The rounded phase total was about 77 minutes, below the whole-job guidance because selection, repair, cache extraction, and submission completed without retries; evidence review was not truncated.
 
 ## Shortfalls
 
@@ -65,4 +65,4 @@ The first-draw acceptance and single bounded repair pass kept selection, repair,
 
 ## Public-Output Gate
 
-Only generated Markdown and the required derived dedup JSON are eligible for staging. PDF, HTML, TeX/source archives, extracted text, caches, renders, metadata snapshots, and local provenance files remain outside the repository. Staged-name and public-safety scans are pending submission validation.
+The gate passed with exactly seven files: six generated Markdown artifacts or indexes and the required derived dedup JSON. PDF, HTML, TeX/source archives, extracted text, caches, renders, metadata snapshots, and local provenance files remained outside the repository. Staged-name, public-safety, JSON, schema, exact-count, Python syntax, and whitespace checks passed. Primary commit [4000bc7283145a6a128ffe0c66ff63c8a2bd14b3](https://github.com/Delphoa/Black-Lake/commit/4000bc7283145a6a128ffe0c66ff63c8a2bd14b3) was remotely verified; the Slack notification was delivered to `#black-lake-artifacts`.

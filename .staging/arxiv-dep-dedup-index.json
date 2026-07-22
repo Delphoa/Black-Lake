@@ -1503,11 +1503,11 @@
       ],
       "arxiv_base_id": "2105.05558",
       "arxiv_id": "2105.05558",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/4000bc7283145a6a128ffe0c66ff63c8a2bd14b3",
       "deposit_date": "20260722",
       "doi": "10.24963/ijcai.2021/145",
       "normalized_title": "AVA: Adversarial Vignetting Attack against Visual Recognition",
-      "notes": "First random draw accepted with no duplicate exclusion or reselection. Initial partial source unit repaired to verified complete state with approved ar5iv full-paper fallback after official arXiv HTML was unavailable; cache miss backfilled to cached. Prose and Table 2 discrepancy preserved. Source files withheld locally; no source files uploaded.",
+      "notes": "First random draw accepted with no duplicate exclusion or reselection. Initial partial source unit repaired to verified complete state with approved ar5iv full-paper fallback after official arXiv HTML was unavailable; cache miss backfilled to cached. Prose and Table 2 discrepancy preserved. Source files withheld locally; no source files uploaded. Primary artifact commit remotely verified; Slack notification delivered to #black-lake-artifacts.",
       "slug": "AVA-Vignetting-Attack",
       "source_urls": [
         "https://ar5iv.labs.arxiv.org/html/2105.05558",
@@ -1517,7 +1517,7 @@
         "https://doi.org/10.24963/ijcai.2021/145",
         "https://www.ijcai.org/proceedings/2021/145"
       ],
-      "status": "submission_pending"
+      "status": "deposited"
     }
   ],
   "records": [

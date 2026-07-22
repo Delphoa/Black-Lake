@@ -65,7 +65,7 @@ The review inspected the complete eight-page paper, its full-paper HTML and TeX/
 
 ## Submission Record
 
-- Status: submission pending.
-- Primary commit or PR: pending.
-- Slack notification: pending.
+- Status: deposited to the default branch and remotely verified.
+- Primary commit: [4000bc7283145a6a128ffe0c66ff63c8a2bd14b3](https://github.com/Delphoa/Black-Lake/commit/4000bc7283145a6a128ffe0c66ff63c8a2bd14b3).
+- Slack notification: delivered to `#black-lake-artifacts`.
 - Public-source policy: source files withheld locally; no source files uploaded.
