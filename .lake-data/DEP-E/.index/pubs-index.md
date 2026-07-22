@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **224 publications across 129 DEP-E entries** (220 arXiv records and 4 other research publications).
+- Current coverage: **226 publications across 131 DEP-E entries** (222 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-22; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260722-FAVLA Fast-Slow](../DEP-E-20260722-FAVLA%20Fast-Slow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation* | Yao Li; Peiyuan Tang; Wuyang Zhang; *et al.* | [arXiv:2602.23648v1](https://arxiv.org/abs/2602.23648v1) - [DOI](https://doi.org/10.48550/arXiv.2602.23648) |
 
 ## [DEP-E-20260722-Causal DP Workloads](../DEP-E-20260722-Causal%20DP%20Workloads/README.md)
 
