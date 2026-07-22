@@ -953,3 +953,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LTRDetector: Exploring Long-Term Relationship for Advanced Persistent Threats Detection* | Liu, Xiaoxiao; Xu, Fan; Wang, Nan; Zhao, Qinxin; Zhang, Dalin; Zhao, Xibin; Liu, Jiqiang | [arXiv:2404.03162](https://arxiv.org/abs/2404.03162) - [DOI](https://doi.org/10.48550/arXiv.2404.03162) |
+
+## [DEP-E-20260722-GenTune Traceable Prompts](../DEP-E-20260722-GenTune%20Traceable%20Prompts/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design* | Wang, Wen-Fan; Lee, Ting-Ying; Lu, Chien-Ting; Hsu, Che-Wei; Campanyà, Nil Ponsa; Chen, Yu; Chen, Mike Y.; Chen, Bing-Yu | [arXiv:2508.15227](https://arxiv.org/abs/2508.15227) - [DOI](https://doi.org/10.1145/3746059.3747774) |
