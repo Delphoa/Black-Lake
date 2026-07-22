@@ -893,3 +893,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Power Allocation and Phase Shift Design for Stacked Intelligent Metasurfaces-aided Cell-Free Massive MIMO Systems with MARL* | Zhu, Yiyang; Zhang, Jiayi; Shi, Enyu; Liu, Ziheng; Yuen, Chau; Ai, Bo | [arXiv:2502.19675v1](https://arxiv.org/abs/2502.19675v1) - [DOI](https://doi.org/10.48550/arXiv.2502.19675) |
+
+## [DEP-E-20260722-AVA Vignetting Attack](../DEP-E-20260722-AVA%20Vignetting%20Attack/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AVA: Adversarial Vignetting Attack against Visual Recognition* | Tian, Binyu; Juefei-Xu, Felix; Guo, Qing; Xie, Xiaofei; Li, Xiaohong; Liu, Yang | [arXiv:2105.05558](https://arxiv.org/abs/2105.05558) - [DOI](https://doi.org/10.24963/ijcai.2021/145) |

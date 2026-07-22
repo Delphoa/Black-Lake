@@ -1491,10 +1491,35 @@
         "https://github.com/fudan-generative-vision/hallo4"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/README.md",
+        ".lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md",
+        ".logs/20260722-Arxiv-AVA-Vignetting-Attack-LOG.md",
+        ".logs/20260722-Arxiv-AVA-Vignetting-Attack-PHASE-LOG.md",
+        ".reports/BL-Arxiv-AVA-Vignetting-Attack-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2105.05558",
+      "arxiv_id": "2105.05558",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.24963/ijcai.2021/145",
+      "normalized_title": "AVA: Adversarial Vignetting Attack against Visual Recognition",
+      "notes": "First random draw accepted with no duplicate exclusion or reselection. Initial partial source unit repaired to verified complete state with approved ar5iv full-paper fallback after official arXiv HTML was unavailable; cache miss backfilled to cached. Prose and Table 2 discrepancy preserved. Source files withheld locally; no source files uploaded.",
+      "slug": "AVA-Vignetting-Attack",
+      "source_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2105.05558",
+        "https://arxiv.org/abs/2105.05558",
+        "https://arxiv.org/e-print/2105.05558",
+        "https://arxiv.org/pdf/2105.05558",
+        "https://doi.org/10.24963/ijcai.2021/145",
+        "https://www.ijcai.org/proceedings/2021/145"
+      ],
+      "status": "submission_pending"
     }
   ],
-  "schema_version": "1.0",
-  "updated_date": "2026-07-21",
   "records": [
     {
       "artifact_paths": [
@@ -1749,5 +1774,7 @@
       ],
       "status": "deposited"
     }
-  ]
+  ],
+  "schema_version": "1.0",
+  "updated_date": "2026-07-22"
 }
