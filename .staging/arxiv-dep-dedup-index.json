@@ -1773,6 +1773,29 @@
         "https://doi.org/10.48550/arXiv.2607.05189"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Few shot Multi label",
+        ".logs/20260722-Arxiv-Few-shot-Multi-label-LOG.md",
+        ".reports/BL-Arxiv-Few-shot-Multi-label-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.05256",
+      "arxiv_id": "2010.05256",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2010.05256",
+      "normalized_title": "Few-shot Learning for Multi-label Intent Detection",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P01; draw 60610 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Few-shot-Multi-label",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.05256",
+        "https://ar5iv.labs.arxiv.org/html/2010.05256",
+        "https://arxiv.org/pdf/2010.05256",
+        "https://doi.org/10.48550/arXiv.2010.05256"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

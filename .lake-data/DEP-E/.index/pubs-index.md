@@ -899,3 +899,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AVA: Adversarial Vignetting Attack against Visual Recognition* | Tian, Binyu; Juefei-Xu, Felix; Guo, Qing; Xie, Xiaofei; Li, Xiaohong; Liu, Yang | [arXiv:2105.05558](https://arxiv.org/abs/2105.05558) - [DOI](https://doi.org/10.24963/ijcai.2021/145) |
+
+## [DEP-E-20260722-Few shot Multi label](../DEP-E-20260722-Few%20shot%20Multi%20label/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-shot Learning for Multi-label Intent Detection* | Hou, Yutai; Lai, Yongkui; Wu, Yushan; Che, Wanxiang; Liu, Ting | [arXiv:2010.05256](https://arxiv.org/abs/2010.05256) - [DOI](https://doi.org/10.48550/arXiv.2010.05256) |
