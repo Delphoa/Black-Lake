@@ -947,3 +947,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rapid Whole Slide Imaging via Learning-based Two-shot Virtual Autofocusing* | Li, Qiang; Liu, Xianming; Han, Kaige; Guo, Cheng; Ji, Xiangyang; Wu, Xiaolin | [arXiv:2003.06630](https://arxiv.org/abs/2003.06630) - [DOI](https://doi.org/10.48550/arXiv.2003.06630) |
+
+## [DEP-E-20260722-LTRDetector Exploring](../DEP-E-20260722-LTRDetector%20Exploring/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LTRDetector: Exploring Long-Term Relationship for Advanced Persistent Threats Detection* | Liu, Xiaoxiao; Xu, Fan; Wang, Nan; Zhao, Qinxin; Zhang, Dalin; Zhao, Xibin; Liu, Jiqiang | [arXiv:2404.03162](https://arxiv.org/abs/2404.03162) - [DOI](https://doi.org/10.48550/arXiv.2404.03162) |

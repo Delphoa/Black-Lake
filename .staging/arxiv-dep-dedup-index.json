@@ -1957,6 +1957,29 @@
         "https://doi.org/10.48550/arXiv.2003.06630"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring",
+        ".logs/20260722-Arxiv-LTRDetector-Exploring-LOG.md",
+        ".reports/BL-Arxiv-LTRDetector-Exploring-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.03162",
+      "arxiv_id": "2404.03162",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2404.03162",
+      "normalized_title": "LTRDetector: Exploring Long-Term Relationship for Advanced Persistent Threats Detection",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P09; draw 31905 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "LTRDetector-Exploring",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.03162",
+        "https://arxiv.org/html/2404.03162",
+        "https://arxiv.org/pdf/2404.03162",
+        "https://doi.org/10.48550/arXiv.2404.03162"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
