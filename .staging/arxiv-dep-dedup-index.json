@@ -1888,6 +1888,29 @@
         "https://doi.org/10.48550/arXiv.2112.02990"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Pixie System Recommending",
+        ".logs/20260722-Arxiv-Pixie-System-Recommending-LOG.md",
+        ".reports/BL-Arxiv-Pixie-System-Recommending-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1711.07601",
+      "arxiv_id": "1711.07601",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.1711.07601",
+      "normalized_title": "Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P06; draw 43021 of 75777 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Pixie-System-Recommending",
+      "source_urls": [
+        "https://arxiv.org/abs/1711.07601",
+        "https://ar5iv.labs.arxiv.org/html/1711.07601",
+        "https://arxiv.org/pdf/1711.07601",
+        "https://doi.org/10.48550/arXiv.1711.07601"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

@@ -929,3 +929,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding* | Chen, Yujin; Nießner, Matthias; Dai, Angela | [arXiv:2112.02990](https://arxiv.org/abs/2112.02990) - [DOI](https://doi.org/10.48550/arXiv.2112.02990) |
+
+## [DEP-E-20260722-Pixie System Recommending](../DEP-E-20260722-Pixie%20System%20Recommending/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time* | Eksombatchai, Chantat; Jindal, Pranav; Liu, Jerry Zitao; Liu, Yuchen; Sharma, Rahul; Sugnet, Charles; Ulrich, Mark; Leskovec, Jure | [arXiv:1711.07601](https://arxiv.org/abs/1711.07601) - [DOI](https://doi.org/10.48550/arXiv.1711.07601) |
