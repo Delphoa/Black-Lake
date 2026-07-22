@@ -1819,6 +1819,29 @@
         "https://doi.org/10.48550/arXiv.2411.07111"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters",
+        ".logs/20260722-Arxiv-Temporal-Feature-Matters-LOG.md",
+        ".reports/BL-Arxiv-Temporal-Feature-Matters-20260722/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.19547",
+      "arxiv_id": "2407.19547",
+      "commit_or_pr": "",
+      "deposit_date": "20260722",
+      "doi": "10.48550/arXiv.2407.19547",
+      "normalized_title": "Temporal Feature Matters: A Framework for Diffusion Model Quantization",
+      "notes": "Job BLAD-2200-20260722-A5461BD0 item BLAD-2200-20260722-A5461BD0-P03; draw 31486 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Temporal-Feature-Matters",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.19547",
+        "https://arxiv.org/html/2407.19547",
+        "https://arxiv.org/pdf/2407.19547",
+        "https://doi.org/10.48550/arXiv.2407.19547"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",

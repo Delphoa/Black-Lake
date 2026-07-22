@@ -911,3 +911,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Building a Taiwanese Mandarin Spoken Language Model: A First Attempt* | Yang, Chih-Kai; Fu, Yu-Kuan; Li, Chen-An; Lin, Yi-Cheng; Lin, Yu-Xiang; Chen, Wei-Chih; Chung, Ho Lam; Kuan, Chun-Yi; Huang, Wei-Ping; Lu, Ke-Han; Lin, Tzu-Quan; Wang, Hsiu-Hsuan; Hu, En-Pei; Hsu, Chan-Jan; Tseng, Liang-Hsuan; Chiu, I-Hsiang; Sanga, Ulin; Chen, Xuanjun; Hsu, Po-chun; Yang, Shu-wen; Lee, Hung-yi | [arXiv:2411.07111](https://arxiv.org/abs/2411.07111) - [DOI](https://doi.org/10.48550/arXiv.2411.07111) |
+
+## [DEP-E-20260722-Temporal Feature Matters](../DEP-E-20260722-Temporal%20Feature%20Matters/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Feature Matters: A Framework for Diffusion Model Quantization* | Huang, Yushi; Gong, Ruihao; Liu, Xianglong; Liu, Jing; Li, Yuhang; Lu, Jiwen; Tao, Dacheng | [arXiv:2407.19547](https://arxiv.org/abs/2407.19547) - [DOI](https://doi.org/10.48550/arXiv.2407.19547) |
