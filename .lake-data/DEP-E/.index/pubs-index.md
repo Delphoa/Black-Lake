@@ -989,3 +989,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design* | Wang, Wen-Fan; Lee, Ting-Ying; Lu, Chien-Ting; Hsu, Che-Wei; Campanyà, Nil Ponsa; Chen, Yu; Chen, Mike Y.; Chen, Bing-Yu | [arXiv:2508.15227](https://arxiv.org/abs/2508.15227) - [DOI](https://doi.org/10.1145/3746059.3747774) |
+
+## [DEP-E-20260723-UnityShots Memory-Driven](../DEP-E-20260723-UnityShots%20Memory-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating* | Huang, Jiehui; Zhang, Yuechen; Xia, Bin; Wang, Jiahao; He, Xu; Tang, Zhenchao; Chu, Meng; Tao, Xin; Wan, Pengfei; Jia, Jiaya | [arXiv:2606.21661](https://arxiv.org/abs/2606.21661) - [DOI](https://doi.org/10.48550/arXiv.2606.21661) |
