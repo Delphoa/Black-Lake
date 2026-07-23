@@ -1013,3 +1013,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions* | Li, Ronghui; Zhang, Youliang; Zhang, Yachao; Zhang, Yuxiang; Su, Mingyang; Guo, Jie; Liu, Ziwei; Liu, Yebin; Li, Xiu | [arXiv:2412.16982](https://arxiv.org/abs/2412.16982) - [DOI](https://doi.org/10.48550/arXiv.2412.16982) |
+
+## [DEP-E-20260723-RBA-FE A Robust Brain-Ins](../DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis* | Wu, Yu-Xuan; Huang, Ziyan; Hu, Bin; Guan, Zhi-Hong | [arXiv:2506.07118](https://arxiv.org/abs/2506.07118) - [DOI](https://doi.org/10.48550/arXiv.2506.07118) |
