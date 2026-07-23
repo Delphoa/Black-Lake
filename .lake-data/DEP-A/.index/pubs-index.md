@@ -2734,3 +2734,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LRCP: Low-Rank Compressibility Guided Visual Token Pruning for Efficient LVLMs* | Hongyu Lu; Feng Zhang; Wenwei Jin; Huanling Hu; Tianjun Shi; Shikai Jiang; Yao Hu; Jiawei Li | [arXiv:2605.15621v1](https://arxiv.org/abs/2605.15621v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15621) |
+
+
+## [DEP-A-20260724-BACON KV Compression](../DEP-A-20260724-BACON%20KV%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.14782-whitepaper-review.md`](../DEP-A-20260724-BACON%20KV%20Compression/2606.14782-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression* | Tianhao Chen; Yuheng Wu; Kelu Yao; Xiaogang Xu; Xiaobin Hu; Dongman Lee | [arXiv:2606.14782v2](https://arxiv.org/abs/2606.14782v2) - [DOI](https://doi.org/10.48550/arXiv.2606.14782) |
+
+
+## [DEP-A-20260724-MawForge MoE Cache](../DEP-A-20260724-MawForge%20MoE%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2607.09686-whitepaper-review.md`](../DEP-A-20260724-MawForge%20MoE%20Cache/2607.09686-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference* | Craig Opie | [arXiv:2607.09686v1](https://arxiv.org/abs/2607.09686v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09686) |
+
+
+## [DEP-A-20260724-ReasonAlloc KV Routing](../DEP-A-20260724-ReasonAlloc%20KV%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.11164-whitepaper-review.md`](../DEP-A-20260724-ReasonAlloc%20KV%20Routing/2606.11164-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models* | Wenhao Liu; Hao Shi; Yunhe Li; Weizhi Fei; Xiangyuan Wang; Mengzhe Ruan; Hanxu Hou; Peisong Wang; Linqi Song; Shuang Qiu | [arXiv:2606.11164v1](https://arxiv.org/abs/2606.11164v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11164) |
+
+
+## [DEP-A-20260724-Service Congestion](../DEP-A-20260724-Service%20Congestion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.15555-whitepaper-review.md`](../DEP-A-20260724-Service%20Congestion/2606.15555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Service-Induced Congestion in Memory-Constrained LLM Serving* | Ruicheng Ao; Jing Dong; Gan Luo; David Simchi-Levi | [arXiv:2606.15555v1](https://arxiv.org/abs/2606.15555v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15555) |
+
+
+## [DEP-A-20260724-KV Cache Marketplace](../DEP-A-20260724-KV%20Cache%20Marketplace/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.13361-whitepaper-review.md`](../DEP-A-20260724-KV%20Cache%20Marketplace/2606.13361-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can I Buy Your KV Cache?* | Luoyuan Zhang | [arXiv:2606.13361v1](https://arxiv.org/abs/2606.13361v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13361) |
