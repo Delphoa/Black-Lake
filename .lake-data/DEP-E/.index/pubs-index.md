@@ -1025,3 +1025,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization for Prompt Enhancement* | Zhan, Pengwei; Xu, Zhen; Tan, Qian; Song, Jie; Xie, Ru | [arXiv:2405.20701](https://arxiv.org/abs/2405.20701) - [DOI](https://doi.org/10.48550/arXiv.2405.20701) |
+
+## [DEP-E-20260723-COEVO Co-Evolutionary Fra](../DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *COEVO: Co-Evolutionary Framework for Joint Functional Correctness and PPA Optimization in LLM-Based RTL Generation* | Ping, Heng; Zhang, Peiyu; Li, Shixuan; Yang, Wei; Cheng, Anzhe; Duan, Shukai; Zhang, Xiaole; Bogdan, Paul | [arXiv:2604.15001](https://arxiv.org/abs/2604.15001) - [DOI](https://doi.org/10.48550/arXiv.2604.15001) |
