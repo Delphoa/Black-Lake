@@ -1037,3 +1037,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling* | Li, Junyi; Huang, Heng | [arXiv:2411.05868](https://arxiv.org/abs/2411.05868) - [DOI](https://doi.org/10.48550/arXiv.2411.05868) |
+
+## [DEP-E-20260723-Rethinking Facial Express](../DEP-E-20260723-Rethinking%20Facial%20Express/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Facial Expression Recognition in the Era of Multimodal Large Language Models: Benchmark, Datasets, and Beyond* | Zhang, Fan; Li, Haoxuan; Qian, Shengju; Wang, Xin; Lian, Zheng; Wu, Hao; Zhu, Zhihong; Gao, Yuan; Li, Qiankun; Zheng, Yefeng; Lin, Zhouchen; Heng, Pheng-Ann | [arXiv:2511.00389](https://arxiv.org/abs/2511.00389) - [DOI](https://doi.org/10.48550/arXiv.2511.00389) |
