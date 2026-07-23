@@ -21,7 +21,7 @@
 | Full-paper, theorem, figure, table, and code review | 35 min | about 34 min | complete | Full source representations, targeted visual pages, runtime appendix, and official code surface inspected. |
 | Related DEP synthesis | 10 min | about 9 min | complete | Exactly three conceptually overlapping deposits inspected. |
 | Artifact drafting and validation | 30 min | about 27 min | complete | Five new artifacts plus two public index updates prepared and validated. |
-| Allowlist, submission, and Slack notification | 15 min | pending final submission | in progress | Staged-source allowlist and remote delivery are the final gates. |
+| Allowlist, submission, and Slack notification | 15 min | about 11 min | complete | Seven-file allowlist passed; the rebased commit reached the default branch and Slack delivery succeeded. |
 
 ## Source-Integrity Metrics
 
@@ -54,11 +54,11 @@
 
 ## Dedup Index Status
 
-The first draw passed public-index, repository-artifact, automation-memory, active-recent-branch, and companion-data checks. One metadata-only companion inventory row was not treated as a prior deposit. Duplicate exclusions and reselections were zero. The new pointer is prepared with the complete artifact path set, public source URLs, and deposited status.
+The first draw passed public-index, repository-artifact, automation-memory, active-recent-branch, and companion-data checks. One metadata-only companion inventory row was not treated as a prior deposit. Duplicate exclusions and reselections were zero. The new pointer contains the complete artifact path set, public source URLs, deposited status, and primary commit reference.
 
 ## Expected-vs-Observed Trajectory
 
-Selection, deduplication, repair, and extraction completed below their combined estimate because the first draw was eligible and official arXiv full-paper HTML succeeded on the bounded repair pass. Review time was intentionally spent on the theorem proof, complete result table, convergence plots, runtime appendix, official code surface, and exactly three related deposits. The source-first review was not truncated when the theorem gap and runtime evidence required deeper checking.
+Selection, deduplication, repair, and extraction completed below their combined estimate because the first draw was eligible and official arXiv full-paper HTML succeeded on the bounded repair pass. Review time was intentionally spent on the theorem proof, complete result table, convergence plots, runtime appendix, official code surface, and exactly three related deposits. The source-first review was not truncated when the theorem gap and runtime evidence required deeper checking. Total observed work was about 106 minutes, within the 90-120 minute whole-job guidance.
 
 ## Shortfalls
 
@@ -68,4 +68,4 @@ Selection, deduplication, repair, and extraction completed below their combined 
 
 ## Public-Output Gate
 
-The intended staged allowlist contains exactly seven public files: five generated Markdown artifacts, the DEP-E publication index, and the required derived dedup JSON. PDF, HTML, metadata HTML, source archives, extracted text, caches, integrity records, repair bundles, and temporary page renders remain outside the staged set. Final staged-name, public-safety, JSON, schema, exact-count, code-syntax, and whitespace checks must pass before push.
+The staged allowlist contained exactly seven public files: five generated Markdown artifacts, the DEP-E publication index, and the required derived dedup JSON. PDF, HTML, metadata HTML, source archives, extracted text, caches, integrity records, repair bundles, and temporary page renders remained outside the staged set. Staged-name, public-safety, JSON, schema, exact-count, and whitespace checks passed before push; the direct default-branch push and Slack notification succeeded.

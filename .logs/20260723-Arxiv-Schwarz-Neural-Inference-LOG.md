@@ -67,5 +67,7 @@ The review inspected the 28-page ICLR 2026 paper, full-paper HTML, TeX/source re
 
 ## Submission Record
 
-- Status: prepared for allowlisted submission to the default branch.
+- Status: deposited on the default branch.
+- Primary commit: [7b795c0](https://github.com/Delphoa/Black-Lake/commit/7b795c0ccb8278b800b74b423c000f414b5c4e9c).
+- Slack notification: delivered to `#black-lake-artifacts`.
 - Public-source policy: source files withheld locally; no source files uploaded.

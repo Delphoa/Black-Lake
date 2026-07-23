@@ -1530,7 +1530,7 @@
       ],
       "arxiv_base_id": "2504.00510",
       "arxiv_id": "2504.00510v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/7b795c0ccb8278b800b74b423c000f414b5c4e9c",
       "deposit_date": "20260723",
       "doi": "10.48550/arXiv.2504.00510",
       "normalized_title": "Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving",
