@@ -995,3 +995,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating* | Huang, Jiehui; Zhang, Yuechen; Xia, Bin; Wang, Jiahao; He, Xu; Tang, Zhenchao; Chu, Meng; Tao, Xin; Wan, Pengfei; Jia, Jiaya | [arXiv:2606.21661](https://arxiv.org/abs/2606.21661) - [DOI](https://doi.org/10.48550/arXiv.2606.21661) |
+
+## [DEP-E-20260723-Harnessing Adaptive Topol](../DEP-E-20260723-Harnessing%20Adaptive%20Topol/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Harnessing Adaptive Topology Representations for Zero-Shot Graph Question Answering* | Wei, Yanbin; Yan, Jiangyue; Kang, Chun; Chen, Yang; Liu, Hua; Kwok, James T.; Zhang, Yu | [arXiv:2508.06345](https://arxiv.org/abs/2508.06345) - [DOI](https://doi.org/10.48550/arXiv.2508.06345) |
