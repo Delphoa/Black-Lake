@@ -2034,7 +2034,7 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-23",
+  "updated_date": "2026-07-24",
   "papers": [
     {
       "artifact_paths": [
@@ -2263,6 +2263,31 @@
         "https://arxiv.org/html/2503.19482",
         "https://arxiv.org/pdf/2503.19482",
         "https://doi.org/10.48550/arXiv.2503.19482"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking",
+        ".logs/20260724-Arxiv-Spiking-Pose-Tracking-LOG.md",
+        ".reports/BL-Arxiv-Spiking-Pose-Tracking-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2303.09681",
+      "arxiv_id": "2303.09681v5",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2303.09681",
+      "normalized_title": "Highly Efficient 3D Human Pose Tracking from Events with Spiking Spatiotemporal Transformer",
+      "notes": "Uniform draw 53213 of 75777 unique paper units from 75780 PDFs; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete; all source files withheld locally.",
+      "slug": "Spiking-Pose-Tracking",
+      "source_urls": [
+        "https://arxiv.org/abs/2303.09681",
+        "https://arxiv.org/html/2303.09681",
+        "https://arxiv.org/pdf/2303.09681",
+        "https://arxiv.org/e-print/2303.09681",
+        "https://doi.org/10.48550/arXiv.2303.09681",
+        "https://github.com/JimmyZou/HumanPoseTracking_SNN"
       ],
       "status": "deposited"
     }

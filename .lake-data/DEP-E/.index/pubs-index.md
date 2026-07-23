@@ -1049,3 +1049,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models* | Liu, Zhongxin; Wang, Zhiwei; Niu, Jun; Li, Ying; Sun, Hongyu; Xu, Meng; Wang, He; Wu, Gaofei; Zhang, Yuqing | [arXiv:2503.19482](https://arxiv.org/abs/2503.19482) - [DOI](https://doi.org/10.48550/arXiv.2503.19482) |
+
+## [DEP-E-20260724-Spiking Pose Tracking](../DEP-E-20260724-Spiking%20Pose%20Tracking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Highly Efficient 3D Human Pose Tracking from Events with Spiking Spatiotemporal Transformer* | Zou, Shihao; Mu, Yuxuan; Ji, Wei; Wang, Zi-An; Zuo, Xinxin; Wang, Sen; Si, Weixin; Cheng, Li | [arXiv:2303.09681](https://arxiv.org/abs/2303.09681) - [DOI](https://doi.org/10.48550/arXiv.2303.09681) |
