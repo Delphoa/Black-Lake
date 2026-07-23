@@ -2081,6 +2081,29 @@
         "https://doi.org/10.48550/arXiv.2508.06345"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm",
+        ".logs/20260723-Arxiv-ScaleEnv-Scaling-Environment-Synthesis-Scratch-LOG.md",
+        ".reports/BL-Arxiv-ScaleEnv-Scaling-Environment-Synthesis-Scratch-20260723/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.06820",
+      "arxiv_id": "2602.06820",
+      "commit_or_pr": "",
+      "deposit_date": "20260723",
+      "doi": "10.48550/arXiv.2602.06820",
+      "normalized_title": "ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training",
+      "notes": "Job BLAD-2200-20260723-FCF6DE3F item BLAD-2200-20260723-FCF6DE3F-P03; draw 67212 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ScaleEnv-Scaling-Environment-Synthesis-Scratch",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.06820",
+        "https://arxiv.org/html/2602.06820",
+        "https://arxiv.org/pdf/2602.06820",
+        "https://doi.org/10.48550/arXiv.2602.06820"
+      ],
+      "status": "deposited"
     }
   ]
 }

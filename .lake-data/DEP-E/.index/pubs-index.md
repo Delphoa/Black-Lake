@@ -1001,3 +1001,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Harnessing Adaptive Topology Representations for Zero-Shot Graph Question Answering* | Wei, Yanbin; Yan, Jiangyue; Kang, Chun; Chen, Yang; Liu, Hua; Kwok, James T.; Zhang, Yu | [arXiv:2508.06345](https://arxiv.org/abs/2508.06345) - [DOI](https://doi.org/10.48550/arXiv.2508.06345) |
+
+## [DEP-E-20260723-ScaleEnv Scaling Environm](../DEP-E-20260723-ScaleEnv%20Scaling%20Environm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training* | Tu, Dunwei; Hao, Hongyan; Yang, Hansi; Chen, Yihao; Zhang, Yi-Kai; Xia, Zhikang; Yang, Yu; Sun, Yueqing; Liu, Xingchen; Shen, Furao; Gu, Qi; Su, Hui; Cai, Xunliang | [arXiv:2602.06820](https://arxiv.org/abs/2602.06820) - [DOI](https://doi.org/10.48550/arXiv.2602.06820) |
