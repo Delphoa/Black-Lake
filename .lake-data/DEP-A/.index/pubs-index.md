@@ -2869,3 +2869,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CommitDistill: A Lightweight Knowledge-Centric Memory Layer for Software Repositories* | Divya Chukkapalli; Thejesh Avula; Aditya Aggarwal; Harsimran Singh; Amith Tallanki | [arXiv:2605.18284v1](https://arxiv.org/abs/2605.18284v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18284) |
+
+
+## [DEP-A-20260724-Memory Target Audit](../DEP-A-20260724-Memory%20Target%20Audit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.24060-whitepaper-review.md`](../DEP-A-20260724-Memory%20Target%20Audit/2605.24060-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Same Ranking, Different Winner: How Scoring Targets Shape LLM Memory Benchmarks* | Sugam Panthi; Rabab Abdelfattah | [arXiv:2605.24060v1](https://arxiv.org/abs/2605.24060v1) - [DOI](https://doi.org/10.48550/arXiv.2605.24060) |
+
+
+## [DEP-A-20260724-H-Mem Hybrid Memory](../DEP-A-20260724-H-Mem%20Hybrid%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.15701-whitepaper-review.md`](../DEP-A-20260724-H-Mem%20Hybrid%20Memory/2605.15701-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure* | Jiawei Yu; Yixiang Fang; Xilin Liu; Yuchi Ma | [arXiv:2605.15701v1](https://arxiv.org/abs/2605.15701v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15701) |
+
+
+## [DEP-A-20260724-Scientific Dual Memory](../DEP-A-20260724-Scientific%20Dual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.17625-whitepaper-review.md`](../DEP-A-20260724-Scientific%20Dual%20Memory/2605.17625-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Episodic-Semantic Memory Architecture for Long-Horizon Scientific Agents* | Nikola Milosevic | [arXiv:2605.17625v1](https://arxiv.org/abs/2605.17625v1) - [DOI](https://doi.org/10.48550/arXiv.2605.17625) |
+
+
+## [DEP-A-20260724-MemPoison Attack](../DEP-A-20260724-MemPoison%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.29960-whitepaper-review.md`](../DEP-A-20260724-MemPoison%20Attack/2605.29960-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction* | Hongtao Wang; Se Yang; Yu Chen; Puzhuo Liu | [arXiv:2605.29960v1](https://arxiv.org/abs/2605.29960v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29960) |
+
+
+## [DEP-A-20260724-CogniFold Proactive](../DEP-A-20260724-CogniFold%20Proactive/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.13438-whitepaper-review.md`](../DEP-A-20260724-CogniFold%20Proactive/2605.13438-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CogniFold: Always-On Proactive Memory via Cognitive Folding* | Suli Wang; Yiqun Duan; Yu Deng; Rundong Zhao; Dai Shi; Minghua Deng; Chen Chen; Xinliang Zhou | [arXiv:2605.13438v3](https://arxiv.org/abs/2605.13438v3) - [DOI](https://doi.org/10.48550/arXiv.2605.13438) |
