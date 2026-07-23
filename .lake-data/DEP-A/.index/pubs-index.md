@@ -3004,3 +3004,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SMMBench: A Benchmark for Source-Distributed Multimodal Agent Memory* | Huacan Chai; Yukai Wang; Yingxuan Yang; Dan Peng; Yuanyi Song; Zhihui Fu; Weiwen Liu; Jianghao Lin; Jun Wang; Weinan Zhang | [arXiv:2605.15710v1](https://arxiv.org/abs/2605.15710v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15710) |
+
+
+## [DEP-A-20260724-MemTrace Evolution Graph](../DEP-A-20260724-MemTrace%20Evolution%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.28732-whitepaper-review.md`](../DEP-A-20260724-MemTrace%20Evolution%20Graph/2605.28732-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems* | Xinle Deng; Ruobin Zhong; Hujin Peng; Xiaoben Lu; Yanzhe Wu; Guang Li; Buqiang Xu; Yunzhi Yao; Jizhan Fang; Haoliang Cao; Junjie Guo; Yuan Yuan; Ziqing Ma; Yuanqiang Yu; Rui Hu; Baohua Dong; Hangcheng Zhu; Ningyu Zhang | [arXiv:2605.28732v2](https://arxiv.org/abs/2605.28732v2) - [DOI](https://doi.org/10.48550/arXiv.2605.28732) |
+
+
+## [DEP-A-20260724-WorldMemArena](../DEP-A-20260724-WorldMemArena/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.29341-whitepaper-review.md`](../DEP-A-20260724-WorldMemArena/2605.29341-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction* | Chengzhi Liu; Yuzhe Yang; Sophia Xiao Pu; Yepeng Liu; Lin Long; Yichen Guo; Nuo Chen; Zhaotian Weng; Elena Kochkina; Simerjot Kaur; Charese Smiley; Xiaomo Liu; James Zou; Sheng Liu; Yuheng Bu; Songyou Peng; Xin Eric Wang | [arXiv:2605.29341v2](https://arxiv.org/abs/2605.29341v2) - [DOI](https://doi.org/10.48550/arXiv.2605.29341) |
+
+
+## [DEP-A-20260724-MemAudit Counterfactual](../DEP-A-20260724-MemAudit%20Counterfactual/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.23723-whitepaper-review.md`](../DEP-A-20260724-MemAudit%20Counterfactual/2605.23723-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection* | Zhewen Tan; Yilun Yao; Huiyan Jin; Wenhan Yu; Guoan Wang; Mengyuan Fan; liang lu; Feng Liu; Xiangzheng Zhang; Duohe Ma; Tong Yang; Lin Sun | [arXiv:2605.23723v1](https://arxiv.org/abs/2605.23723v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23723) |
+
+
+## [DEP-A-20260724-QAPruner Quant-Aware](../DEP-A-20260724-QAPruner%20Quant-Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2604.02816-whitepaper-review.md`](../DEP-A-20260724-QAPruner%20Quant-Aware/2604.02816-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models* | Xinhao Wang; Zhonyu Xia; Zhiwei Lin; Zhe Li; Yongtao Wang | [arXiv:2604.02816v1](https://arxiv.org/abs/2604.02816v1) - [DOI](https://doi.org/10.48550/arXiv.2604.02816) |
+
+
+## [DEP-A-20260724-ForestPrune Video](../DEP-A-20260724-ForestPrune%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2603.22911-whitepaper-review.md`](../DEP-A-20260724-ForestPrune%20Video/2603.22911-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling* | Shaobo Ju; Baiyang Song; Tao Chen; Jiapeng Zhang; Qiong Wu; Chao Chang; HuaiXi Wang; Yiyi Zhou; Rongrong Ji | [arXiv:2603.22911v2](https://arxiv.org/abs/2603.22911v2) - [DOI](https://doi.org/10.48550/arXiv.2603.22911) |
