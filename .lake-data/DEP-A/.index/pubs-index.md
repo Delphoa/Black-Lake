@@ -2824,3 +2824,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents* | A. Haroon Rasheed; Maria Kabtoul | [arXiv:2606.03374v2](https://arxiv.org/abs/2606.03374v2) - [DOI](https://doi.org/10.48550/arXiv.2606.03374) |
+
+
+## [DEP-A-20260724-Heartbeat Pollution](../DEP-A-20260724-Heartbeat%20Pollution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2603.23064-whitepaper-review.md`](../DEP-A-20260724-Heartbeat%20Pollution/2603.23064-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution* | Yechao Zhang; Shiqian Zhao; Jie Zhang; Gelei Deng; Jiawen Zhang; Xiaogeng Liu; Chaowei Xiao; Tianwei Zhang | [arXiv:2603.23064v3](https://arxiv.org/abs/2603.23064v3) - [DOI](https://doi.org/10.48550/arXiv.2603.23064) |
+
+
+## [DEP-A-20260724-Governed Agent Memory](../DEP-A-20260724-Governed%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.26252-whitepaper-review.md`](../DEP-A-20260724-Governed%20Agent%20Memory/2605.26252-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory* | Abdelghny Orogat; Essam Mansour | [arXiv:2605.26252v1](https://arxiv.org/abs/2605.26252v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26252) |
+
+
+## [DEP-A-20260724-FadeMem Video KV](../DEP-A-20260724-FadeMem%20Video%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.10671-whitepaper-review.md`](../DEP-A-20260724-FadeMem%20Video%20KV/2606.10671-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion* | Yu Lu; Junjie Yang; Piotr Koniusz; YuXin Song; Yi Yang | [arXiv:2606.10671v1](https://arxiv.org/abs/2606.10671v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10671) |
+
+
+## [DEP-A-20260724-VikingMem Memory Base](../DEP-A-20260724-VikingMem%20Memory%20Base/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.29640-whitepaper-review.md`](../DEP-A-20260724-VikingMem%20Memory%20Base/2605.29640-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VikingMem: A Memory Base Management System for Stateful LLM-based Applications* | Jiajie Fu; Junwen Chen; Mengzhao Wang; Aoxiang He; Maojia Sheng; Xiangyu Ke; Yifan Zhu; Yunjun Gao | [arXiv:2605.29640v3](https://arxiv.org/abs/2605.29640v3) - [DOI](https://doi.org/10.48550/arXiv.2605.29640) |
+
+
+## [DEP-A-20260724-CommitDistill Repo](../DEP-A-20260724-CommitDistill%20Repo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.18284-whitepaper-review.md`](../DEP-A-20260724-CommitDistill%20Repo/2605.18284-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CommitDistill: A Lightweight Knowledge-Centric Memory Layer for Software Repositories* | Divya Chukkapalli; Thejesh Avula; Aditya Aggarwal; Harsimran Singh; Amith Tallanki | [arXiv:2605.18284v1](https://arxiv.org/abs/2605.18284v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18284) |
