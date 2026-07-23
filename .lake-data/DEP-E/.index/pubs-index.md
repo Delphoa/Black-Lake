@@ -1019,3 +1019,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis* | Wu, Yu-Xuan; Huang, Ziyan; Hu, Bin; Guan, Zhi-Hong | [arXiv:2506.07118](https://arxiv.org/abs/2506.07118) - [DOI](https://doi.org/10.48550/arXiv.2506.07118) |
+
+## [DEP-E-20260723-Unveiling the Lexical Sen](../DEP-E-20260723-Unveiling%20the%20Lexical%20Sen/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization for Prompt Enhancement* | Zhan, Pengwei; Xu, Zhen; Tan, Qian; Song, Jie; Xie, Ru | [arXiv:2405.20701](https://arxiv.org/abs/2405.20701) - [DOI](https://doi.org/10.48550/arXiv.2405.20701) |
