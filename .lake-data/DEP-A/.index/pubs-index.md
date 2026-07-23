@@ -2779,3 +2779,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can I Buy Your KV Cache?* | Luoyuan Zhang | [arXiv:2606.13361v1](https://arxiv.org/abs/2606.13361v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13361) |
+
+
+## [DEP-A-20260724-ITME CXL Memory](../DEP-A-20260724-ITME%20CXL%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.12556-whitepaper-review.md`](../DEP-A-20260724-ITME%20CXL%20Memory/2606.12556-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ITME: Inference Tiered Memory Expansion with Disaggregated CXL-Hybrid Memories* | Hakbeom Jang; Younghoon Min; Sunwoong Kim; Taeyoung Ahn; Hanyee Kim; Youngpyo Joo; Hoshik Kim; Jongryool Kim | [arXiv:2606.12556v2](https://arxiv.org/abs/2606.12556v2) - [DOI](https://doi.org/10.48550/arXiv.2606.12556) |
+
+
+## [DEP-A-20260724-EntropyInfer KV](../DEP-A-20260724-EntropyInfer%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.09508-whitepaper-review.md`](../DEP-A-20260724-EntropyInfer%20KV/2606.09508-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs* | Zhanchao Xu; Haoyang Li; Qingfa Xiao; Fei Teng; Chen Jason Zhang; Lei Chen; Qing Li | [arXiv:2606.09508v1](https://arxiv.org/abs/2606.09508v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09508) |
+
+
+## [DEP-A-20260724-AsymCache MSA](../DEP-A-20260724-AsymCache%20MSA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.02964-whitepaper-review.md`](../DEP-A-20260724-AsymCache%20MSA/2606.02964-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Segment Attention: Enabling Efficient KV-Cache Management for Faster Large Language Model Serving* | Chunan Shi; Yilei Chen; Yilin Chen; Xupeng Miao; Bin Cui | [arXiv:2606.02964v1](https://arxiv.org/abs/2606.02964v1) - [DOI](https://doi.org/10.48550/arXiv.2606.02964) |
+
+
+## [DEP-A-20260724-LiveStarPro Memory](../DEP-A-20260724-LiveStarPro%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.17798-whitepaper-review.md`](../DEP-A-20260724-LiveStarPro%20Memory/2606.17798-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams* | Zhenyu Yang; Kairui Zhang; Bing Wang; Shengsheng Qian; Changsheng Xu | [arXiv:2606.17798v1](https://arxiv.org/abs/2606.17798v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17798) |
+
+
+## [DEP-A-20260724-eMEM Embodied Memory](../DEP-A-20260724-eMEM%20Embodied%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.03374-whitepaper-review.md`](../DEP-A-20260724-eMEM%20Embodied%20Memory/2606.03374-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents* | A. Haroon Rasheed; Maria Kabtoul | [arXiv:2606.03374v2](https://arxiv.org/abs/2606.03374v2) - [DOI](https://doi.org/10.48550/arXiv.2606.03374) |
