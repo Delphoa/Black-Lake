@@ -2959,3 +2959,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft* | Yuchen Guo; Junli Gong; Weicheng Wang; Hongmin Cai; Yiu-ming Cheung; Weifeng Su | [arXiv:2605.27762v2](https://arxiv.org/abs/2605.27762v2) - [DOI](https://doi.org/10.48550/arXiv.2605.27762) |
+
+
+## [DEP-A-20260724-MemCog Navigable Memory](../DEP-A-20260724-MemCog%20Navigable%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.28046-whitepaper-review.md`](../DEP-A-20260724-MemCog%20Navigable%20Memory/2605.28046-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemCog: From Memory-as-Tool to Memory-as-Cognition in Conversational Agents* | Zihan Li; Xingyu Fan; Feifei Li; Wenhui Que | [arXiv:2605.28046v1](https://arxiv.org/abs/2605.28046v1) - [DOI](https://doi.org/10.48550/arXiv.2605.28046) |
+
+
+## [DEP-A-20260724-DeMem Decision Memory](../DEP-A-20260724-DeMem%20Decision%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.10870-whitepaper-review.md`](../DEP-A-20260724-DeMem%20Decision%20Memory/2605.10870-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory* | Mingxi Zou; Zhihan Guo; Langzhang Liang; Zhuo Wang; Qifan Wang; Qingsong Wen; Irwin King; Lizhen Qu; Zenglin Xu | [arXiv:2605.10870v1](https://arxiv.org/abs/2605.10870v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10870) |
+
+
+## [DEP-A-20260724-MemFail Diagnostic](../DEP-A-20260724-MemFail%20Diagnostic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.26667-whitepaper-review.md`](../DEP-A-20260724-MemFail%20Diagnostic/2605.26667-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemFail: Stress-Testing Failure Modes of LLM Memory Systems* | Ishir Garg; Neel Kolhe; Dawn Song; Xuandong Zhao | [arXiv:2605.26667v1](https://arxiv.org/abs/2605.26667v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26667) |
+
+
+## [DEP-A-20260724-ShadowMerge Graph Attack](../DEP-A-20260724-ShadowMerge%20Graph%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.09033-whitepaper-review.md`](../DEP-A-20260724-ShadowMerge%20Graph%20Attack/2605.09033-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShadowMerge: A Novel Poisoning Attack on Graph-Based Agent Memory via Relation-Channel Conflicts* | Yang Luo; Zifeng Kang; Tiantian Ji; Xinran Liu; Yong Liu; Shuyu Li; Lingyun Peng | [arXiv:2605.09033v3](https://arxiv.org/abs/2605.09033v3) - [DOI](https://doi.org/10.48550/arXiv.2605.09033) |
+
+
+## [DEP-A-20260724-SMMBench Multisource](../DEP-A-20260724-SMMBench%20Multisource/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.15710-whitepaper-review.md`](../DEP-A-20260724-SMMBench%20Multisource/2605.15710-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SMMBench: A Benchmark for Source-Distributed Multimodal Agent Memory* | Huacan Chai; Yukai Wang; Yingxuan Yang; Dan Peng; Yuanyi Song; Zhihui Fu; Weiwen Liu; Jianghao Lin; Jun Wang; Weinan Zhang | [arXiv:2605.15710v1](https://arxiv.org/abs/2605.15710v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15710) |
