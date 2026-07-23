@@ -2914,3 +2914,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CogniFold: Always-On Proactive Memory via Cognitive Folding* | Suli Wang; Yiqun Duan; Yu Deng; Rundong Zhao; Dai Shi; Minghua Deng; Chen Chen; Xinliang Zhou | [arXiv:2605.13438v3](https://arxiv.org/abs/2605.13438v3) - [DOI](https://doi.org/10.48550/arXiv.2605.13438) |
+
+
+## [DEP-A-20260724-Tiara Memory-Side NIC](../DEP-A-20260724-Tiara%20Memory-Side%20NIC/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.13708-whitepaper-review.md`](../DEP-A-20260724-Tiara%20Memory-Side%20NIC/2606.13708-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tiara: A Programmable Line-Rate ISA for Remote Memory Access* | Bojie Li | [arXiv:2606.13708v1](https://arxiv.org/abs/2606.13708v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13708) |
+
+
+## [DEP-A-20260724-RootMem Logical Memory](../DEP-A-20260724-RootMem%20Logical%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.23283-whitepaper-review.md`](../DEP-A-20260724-RootMem%20Logical%20Memory/2606.23283-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Root Memories: Benchmarking and Enhancing Implicit Logical Memory Retrieval for Personalized LLMs* | Hongxun Ding; Xiang Yu; Chengbing Wang; Jianfei Xiao; Keqin Bao; Wenjie Wang; Xiangnan He | [arXiv:2606.23283v1](https://arxiv.org/abs/2606.23283v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23283) |
+
+
+## [DEP-A-20260724-TASM Semantic Memory](../DEP-A-20260724-TASM%20Semantic%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2606.11853-whitepaper-review.md`](../DEP-A-20260724-TASM%20Semantic%20Memory/2606.11853-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning* | Zhirui Chen; Ziwei Chen; Ling Shao | [arXiv:2606.11853v1](https://arxiv.org/abs/2606.11853v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11853) |
+
+
+## [DEP-A-20260724-SAVEMem Video Memory](../DEP-A-20260724-SAVEMem%20Video%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.07897-whitepaper-review.md`](../DEP-A-20260724-SAVEMem%20Video%20Memory/2605.07897-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding* | Hang Wu; Sherin Mary Mathews; Yujun Cai; Ming-Hsuan Yang; Yiwei Wang | [arXiv:2605.07897v1](https://arxiv.org/abs/2605.07897v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07897) |
+
+
+## [DEP-A-20260724-PEAM Parametric Memory](../DEP-A-20260724-PEAM%20Parametric%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2605.27762-whitepaper-review.md`](../DEP-A-20260724-PEAM%20Parametric%20Memory/2605.27762-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft* | Yuchen Guo; Junli Gong; Weicheng Wang; Hongmin Cai; Yiu-ming Cheung; Weifeng Su | [arXiv:2605.27762v2](https://arxiv.org/abs/2605.27762v2) - [DOI](https://doi.org/10.48550/arXiv.2605.27762) |
