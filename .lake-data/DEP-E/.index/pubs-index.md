@@ -1007,3 +1007,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training* | Tu, Dunwei; Hao, Hongyan; Yang, Hansi; Chen, Yihao; Zhang, Yi-Kai; Xia, Zhikang; Yang, Yu; Sun, Yueqing; Liu, Xingchen; Shen, Furao; Gu, Qi; Su, Hui; Cai, Xunliang | [arXiv:2602.06820](https://arxiv.org/abs/2602.06820) - [DOI](https://doi.org/10.48550/arXiv.2602.06820) |
+
+## [DEP-E-20260723-InterDance Reactive 3D Da](../DEP-E-20260723-InterDance%20Reactive%203D%20Da/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions* | Li, Ronghui; Zhang, Youliang; Zhang, Yachao; Zhang, Yuxiang; Su, Mingyang; Guo, Jie; Liu, Ziwei; Liu, Yebin; Li, Xiu | [arXiv:2412.16982](https://arxiv.org/abs/2412.16982) - [DOI](https://doi.org/10.48550/arXiv.2412.16982) |

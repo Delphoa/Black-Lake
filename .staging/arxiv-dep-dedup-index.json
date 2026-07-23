@@ -2104,6 +2104,29 @@
         "https://doi.org/10.48550/arXiv.2602.06820"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da",
+        ".logs/20260723-Arxiv-InterDance-Reactive-3D-Dance-Generation-LOG.md",
+        ".reports/BL-Arxiv-InterDance-Reactive-3D-Dance-Generation-20260723/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.16982",
+      "arxiv_id": "2412.16982",
+      "commit_or_pr": "",
+      "deposit_date": "20260723",
+      "doi": "10.48550/arXiv.2412.16982",
+      "normalized_title": "InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions",
+      "notes": "Job BLAD-2200-20260723-FCF6DE3F item BLAD-2200-20260723-FCF6DE3F-P04; draw 75329 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "InterDance-Reactive-3D-Dance-Generation",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.16982",
+        "https://arxiv.org/html/2412.16982",
+        "https://arxiv.org/pdf/2412.16982",
+        "https://doi.org/10.48550/arXiv.2412.16982"
+      ],
+      "status": "deposited"
     }
   ]
 }
