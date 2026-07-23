@@ -1043,3 +1043,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Facial Expression Recognition in the Era of Multimodal Large Language Models: Benchmark, Datasets, and Beyond* | Zhang, Fan; Li, Haoxuan; Qian, Shengju; Wang, Xin; Lian, Zheng; Wu, Hao; Zhu, Zhihong; Gao, Yuan; Li, Qiankun; Zheng, Yefeng; Lin, Zhouchen; Heng, Pheng-Ann | [arXiv:2511.00389](https://arxiv.org/abs/2511.00389) - [DOI](https://doi.org/10.48550/arXiv.2511.00389) |
+
+## [DEP-E-20260723-KSHSeek Data-Driven Appro](../DEP-E-20260723-KSHSeek%20Data-Driven%20Appro/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models* | Liu, Zhongxin; Wang, Zhiwei; Niu, Jun; Li, Ying; Sun, Hongyu; Xu, Meng; Wang, He; Wu, Gaofei; Zhang, Yuqing | [arXiv:2503.19482](https://arxiv.org/abs/2503.19482) - [DOI](https://doi.org/10.48550/arXiv.2503.19482) |
