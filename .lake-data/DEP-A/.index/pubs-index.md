@@ -3049,3 +3049,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling* | Shaobo Ju; Baiyang Song; Tao Chen; Jiapeng Zhang; Qiong Wu; Chao Chang; HuaiXi Wang; Yiyi Zhou; Rongrong Ji | [arXiv:2603.22911v2](https://arxiv.org/abs/2603.22911v2) - [DOI](https://doi.org/10.48550/arXiv.2603.22911) |
+
+
+## [DEP-A-20260724-HAWK Head-Aware Prune](../DEP-A-20260724-HAWK%20Head-Aware%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2604.07812-whitepaper-review.md`](../DEP-A-20260724-HAWK%20Head-Aware%20Prune/2604.07812-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models* | Qihui Zhu; Tao Zhang; Yuchen Wang; Zijian Wen; Mengjie Zhang; Shuangwu Chen; Xiaobin Tan; Jian Yang; Yang Liu; Zhenhua Dong; Xianzhi Yu; Yinfei Pan | [arXiv:2604.07812v1](https://arxiv.org/abs/2604.07812v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07812) |
+
+
+## [DEP-A-20260724-HistPrune GUI History](../DEP-A-20260724-HistPrune%20GUI%20History/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2603.26041-whitepaper-review.md`](../DEP-A-20260724-HistPrune%20GUI%20History/2603.26041-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives* | Daiqiang Li; Zihao Pan; Zeyu Zhang; Ronghao Chen; Huacan Wang; Honggang Chen; Haiyun Jiang | [arXiv:2603.26041v3](https://arxiv.org/abs/2603.26041v3) - [DOI](https://doi.org/10.48550/arXiv.2603.26041) |
+
+
+## [DEP-A-20260724-ReDiPrune Video](../DEP-A-20260724-ReDiPrune%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2603.24680-whitepaper-review.md`](../DEP-A-20260724-ReDiPrune%20Video/2603.24680-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs* | An Yu; Ting Yu Tsai; Zhenfei Zhang; Weiheng Lu; Felix X.-F. Ye; Ming-Ching Chang | [arXiv:2603.24680v2](https://arxiv.org/abs/2603.24680v2) - [DOI](https://doi.org/10.48550/arXiv.2603.24680) |
+
+
+## [DEP-A-20260724-ResPrune Reconstruction](../DEP-A-20260724-ResPrune%20Reconstruction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2603.21105-whitepaper-review.md`](../DEP-A-20260724-ResPrune%20Reconstruction/2603.21105-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models* | Xu Li; Yi Zheng; Yuxuan Liang; Zhe Liu; Xiaolei Chen; Haotian Chen; Rui Zhu; Xiangyang Xue | [arXiv:2603.21105v1](https://arxiv.org/abs/2603.21105v1) - [DOI](https://doi.org/10.48550/arXiv.2603.21105) |
+
+
+## [DEP-A-20260724-SVDPrune Spectral](../DEP-A-20260724-SVDPrune%20Spectral/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-24. The owning review artifact is [`2604.11530-whitepaper-review.md`](../DEP-A-20260724-SVDPrune%20Spectral/2604.11530-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Attention Scores: SVD-Based Vision Token Pruning for Efficient Vision-Language Models* | Yvon Apedo; Martyna Poreba; Michal Szczepanski; Samia Bouchafa | [arXiv:2604.11530v3](https://arxiv.org/abs/2604.11530v3) - [DOI](https://doi.org/10.48550/arXiv.2604.11530) |
