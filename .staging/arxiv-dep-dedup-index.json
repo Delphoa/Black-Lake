@@ -2196,6 +2196,29 @@
         "https://doi.org/10.48550/arXiv.2604.15001"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm",
+        ".logs/20260723-Arxiv-Provably-Faster-Algorithms-for-Bilevel-LOG.md",
+        ".reports/BL-Arxiv-Provably-Faster-Algorithms-for-Bilevel-20260723/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.05868",
+      "arxiv_id": "2411.05868",
+      "commit_or_pr": "",
+      "deposit_date": "20260723",
+      "doi": "10.48550/arXiv.2411.05868",
+      "normalized_title": "Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling",
+      "notes": "Job BLAD-2200-20260723-FCF6DE3F item BLAD-2200-20260723-FCF6DE3F-P08; draw 8943 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Provably-Faster-Algorithms-for-Bilevel",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.05868",
+        "https://arxiv.org/html/2411.05868",
+        "https://arxiv.org/pdf/2411.05868",
+        "https://doi.org/10.48550/arXiv.2411.05868"
+      ],
+      "status": "deposited"
     }
   ]
 }

@@ -1031,3 +1031,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *COEVO: Co-Evolutionary Framework for Joint Functional Correctness and PPA Optimization in LLM-Based RTL Generation* | Ping, Heng; Zhang, Peiyu; Li, Shixuan; Yang, Wei; Cheng, Anzhe; Duan, Shukai; Zhang, Xiaole; Bogdan, Paul | [arXiv:2604.15001](https://arxiv.org/abs/2604.15001) - [DOI](https://doi.org/10.48550/arXiv.2604.15001) |
+
+## [DEP-E-20260723-Provably Faster Algorithm](../DEP-E-20260723-Provably%20Faster%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling* | Li, Junyi; Huang, Heng | [arXiv:2411.05868](https://arxiv.org/abs/2411.05868) - [DOI](https://doi.org/10.48550/arXiv.2411.05868) |
