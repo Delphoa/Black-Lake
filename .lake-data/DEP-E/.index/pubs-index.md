@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **226 publications across 131 DEP-E entries** (222 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-22; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **242 publications across 147 DEP-E entries** (238 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-23; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,36 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260723-Schwarz Neural Inference](../DEP-E-20260723-Schwarz%20Neural%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving* | Jianing Huang; Kaixuan Zhang; Youjia Wu; Ze Cheng | [arXiv:2504.00510v2](https://arxiv.org/abs/2504.00510v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2504.00510) - [ICLR 2026](https://iclr.cc/virtual/2026/poster/10010246) |
+
+## [DEP-E-20260723-SAGE-Nav Review](../DEP-E-20260723-SAGE-Nav%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation* | Hao Su; Yuehao Huang; Yukai Ma; Yong Liu; Jiajun Lv | [arXiv:2606.25497v1](https://arxiv.org/abs/2606.25497v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25497) |
+
+## [DEP-E-20260723-CausalStock Review](../DEP-E-20260723-CausalStock%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction* | Shuqi Li; Yuebo Sun; Yuxin Lin; Xin Gao; Shuo Shang; Rui Yan | [arXiv:2411.06391v1](https://arxiv.org/abs/2411.06391v1) - [arXiv DOI](https://doi.org/10.48550/arXiv.2411.06391) - [NeurIPS DOI](https://doi.org/10.52202/079017-1504) |
+
+## [DEP-E-20260723-RAR Visual Reranking](../DEP-E-20260723-RAR%20Visual%20Reranking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition* | Ziyu Liu; Zeyi Sun; Yuhang Zang; *et al.* | [arXiv:2403.13805v2](https://arxiv.org/abs/2403.13805v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2403.13805) - [IEEE DOI](https://doi.org/10.1109/TIP.2025.3644175) |
+
+## [DEP-E-20260723-ANCHOR Audit](../DEP-E-20260723-ANCHOR%20Audit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm* | Kefan Song; Yanjun Qi | [arXiv:2607.10455v1](https://arxiv.org/abs/2607.10455v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10455) |
 
 ## [DEP-E-20260722-FAVLA Fast-Slow](../DEP-E-20260722-FAVLA%20Fast-Slow/README.md)
 
@@ -959,3 +989,63 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design* | Wang, Wen-Fan; Lee, Ting-Ying; Lu, Chien-Ting; Hsu, Che-Wei; Campanyà, Nil Ponsa; Chen, Yu; Chen, Mike Y.; Chen, Bing-Yu | [arXiv:2508.15227](https://arxiv.org/abs/2508.15227) - [DOI](https://doi.org/10.1145/3746059.3747774) |
+
+## [DEP-E-20260723-UnityShots Memory-Driven](../DEP-E-20260723-UnityShots%20Memory-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating* | Huang, Jiehui; Zhang, Yuechen; Xia, Bin; Wang, Jiahao; He, Xu; Tang, Zhenchao; Chu, Meng; Tao, Xin; Wan, Pengfei; Jia, Jiaya | [arXiv:2606.21661](https://arxiv.org/abs/2606.21661) - [DOI](https://doi.org/10.48550/arXiv.2606.21661) |
+
+## [DEP-E-20260723-Harnessing Adaptive Topol](../DEP-E-20260723-Harnessing%20Adaptive%20Topol/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Harnessing Adaptive Topology Representations for Zero-Shot Graph Question Answering* | Wei, Yanbin; Yan, Jiangyue; Kang, Chun; Chen, Yang; Liu, Hua; Kwok, James T.; Zhang, Yu | [arXiv:2508.06345](https://arxiv.org/abs/2508.06345) - [DOI](https://doi.org/10.48550/arXiv.2508.06345) |
+
+## [DEP-E-20260723-ScaleEnv Scaling Environm](../DEP-E-20260723-ScaleEnv%20Scaling%20Environm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training* | Tu, Dunwei; Hao, Hongyan; Yang, Hansi; Chen, Yihao; Zhang, Yi-Kai; Xia, Zhikang; Yang, Yu; Sun, Yueqing; Liu, Xingchen; Shen, Furao; Gu, Qi; Su, Hui; Cai, Xunliang | [arXiv:2602.06820](https://arxiv.org/abs/2602.06820) - [DOI](https://doi.org/10.48550/arXiv.2602.06820) |
+
+## [DEP-E-20260723-InterDance Reactive 3D Da](../DEP-E-20260723-InterDance%20Reactive%203D%20Da/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions* | Li, Ronghui; Zhang, Youliang; Zhang, Yachao; Zhang, Yuxiang; Su, Mingyang; Guo, Jie; Liu, Ziwei; Liu, Yebin; Li, Xiu | [arXiv:2412.16982](https://arxiv.org/abs/2412.16982) - [DOI](https://doi.org/10.48550/arXiv.2412.16982) |
+
+## [DEP-E-20260723-RBA-FE A Robust Brain-Ins](../DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis* | Wu, Yu-Xuan; Huang, Ziyan; Hu, Bin; Guan, Zhi-Hong | [arXiv:2506.07118](https://arxiv.org/abs/2506.07118) - [DOI](https://doi.org/10.48550/arXiv.2506.07118) |
+
+## [DEP-E-20260723-Unveiling the Lexical Sen](../DEP-E-20260723-Unveiling%20the%20Lexical%20Sen/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization for Prompt Enhancement* | Zhan, Pengwei; Xu, Zhen; Tan, Qian; Song, Jie; Xie, Ru | [arXiv:2405.20701](https://arxiv.org/abs/2405.20701) - [DOI](https://doi.org/10.48550/arXiv.2405.20701) |
+
+## [DEP-E-20260723-COEVO Co-Evolutionary Fra](../DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *COEVO: Co-Evolutionary Framework for Joint Functional Correctness and PPA Optimization in LLM-Based RTL Generation* | Ping, Heng; Zhang, Peiyu; Li, Shixuan; Yang, Wei; Cheng, Anzhe; Duan, Shukai; Zhang, Xiaole; Bogdan, Paul | [arXiv:2604.15001](https://arxiv.org/abs/2604.15001) - [DOI](https://doi.org/10.48550/arXiv.2604.15001) |
+
+## [DEP-E-20260723-Provably Faster Algorithm](../DEP-E-20260723-Provably%20Faster%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Provably Faster Algorithms for Bilevel Optimization via Without-Replacement Sampling* | Li, Junyi; Huang, Heng | [arXiv:2411.05868](https://arxiv.org/abs/2411.05868) - [DOI](https://doi.org/10.48550/arXiv.2411.05868) |
+
+## [DEP-E-20260723-Rethinking Facial Express](../DEP-E-20260723-Rethinking%20Facial%20Express/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Facial Expression Recognition in the Era of Multimodal Large Language Models: Benchmark, Datasets, and Beyond* | Zhang, Fan; Li, Haoxuan; Qian, Shengju; Wang, Xin; Lian, Zheng; Wu, Hao; Zhu, Zhihong; Gao, Yuan; Li, Qiankun; Zheng, Yefeng; Lin, Zhouchen; Heng, Pheng-Ann | [arXiv:2511.00389](https://arxiv.org/abs/2511.00389) - [DOI](https://doi.org/10.48550/arXiv.2511.00389) |
+
+## [DEP-E-20260723-KSHSeek Data-Driven Appro](../DEP-E-20260723-KSHSeek%20Data-Driven%20Appro/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models* | Liu, Zhongxin; Wang, Zhiwei; Niu, Jun; Li, Ying; Sun, Hongyu; Xu, Meng; Wang, He; Wu, Gaofei; Zhang, Yuqing | [arXiv:2503.19482](https://arxiv.org/abs/2503.19482) - [DOI](https://doi.org/10.48550/arXiv.2503.19482) |
