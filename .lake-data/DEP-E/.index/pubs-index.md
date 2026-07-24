@@ -1108,3 +1108,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale* | Li, Haoyang; Wu, Shang; Zhang, Xiaokang; Huang, Xinmei; Zhang, Jing; Jiang, Fuxin; Wang, Shuai; Zhang, Tieying; Chen, Jianjun; Shi, Rui; Chen, Hong; Li, Cuiping | [arXiv:2503.02240](https://arxiv.org/abs/2503.02240) - [DOI](https://doi.org/10.48550/arXiv.2503.02240) |
+
+
+## [DEP-E-20260724-Habitat Synthetic Scenes](../DEP-E-20260724-Habitat%20Synthetic%20Scenes/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation* | Khanna, Mukul; Mao, Yongsen; Jiang, Hanxiao; Haresh, Sanjay; Shacklett, Brennan; Batra, Dhruv; Clegg, Alexander; Undersander, Eric; Chang, Angel X.; Savva, Manolis | [arXiv:2306.11290](https://arxiv.org/abs/2306.11290) - [DOI](https://doi.org/10.48550/arXiv.2306.11290) |

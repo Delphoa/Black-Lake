@@ -1621,6 +1621,29 @@
         "https://doi.org/10.48550/arXiv.2503.02240"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes",
+        ".logs/20260724-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-LOG.md",
+        ".reports/BL-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.11290",
+      "arxiv_id": "2306.11290",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2306.11290",
+      "normalized_title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P03; draw 16587 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Habitat-Synthetic-Scenes-Dataset-HSSD-200-An",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.11290",
+        "https://arxiv.org/html/2306.11290v1",
+        "https://arxiv.org/pdf/2306.11290",
+        "https://doi.org/10.48550/arXiv.2306.11290"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
