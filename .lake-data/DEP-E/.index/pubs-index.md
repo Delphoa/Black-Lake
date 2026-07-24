@@ -1136,3 +1136,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Higher-Order Spectral Clustering under Superimposed Stochastic Block Model* | Paul, Subhadeep; Milenkovic, Olgica; Chen, Yuguo | [arXiv:1812.06515](https://arxiv.org/abs/1812.06515) - [DOI](https://doi.org/10.48550/arXiv.1812.06515) |
+
+
+## [DEP-E-20260724-Visible-Thermal Tiny](../DEP-E-20260724-Visible-Thermal%20Tiny/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines* | Ying, Xinyi; Xiao, Chao; Li, Ruojing; He, Xu; Li, Boyang; Cao, Xu; Li, Zhaoxu; Wang, Yingqian; Hu, Mingyuan; Xu, Qingyu; Lin, Zaiping; Li, Miao; Zhou, Shilin; An, Wei; Sheng, Weidong; Liu, Li | [arXiv:2406.14482](https://arxiv.org/abs/2406.14482) - [DOI](https://doi.org/10.48550/arXiv.2406.14482) |

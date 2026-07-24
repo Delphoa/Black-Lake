@@ -1713,6 +1713,29 @@
         "https://doi.org/10.48550/arXiv.1812.06515"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Visible-Thermal Tiny",
+        ".logs/20260724-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-LOG.md",
+        ".reports/BL-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.14482",
+      "arxiv_id": "2406.14482",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2406.14482",
+      "normalized_title": "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P07; draw 59192 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Visible-Thermal-Tiny-Object-Detection-A",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.14482",
+        "https://arxiv.org/html/2406.14482",
+        "https://arxiv.org/pdf/2406.14482",
+        "https://doi.org/10.48550/arXiv.2406.14482"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
