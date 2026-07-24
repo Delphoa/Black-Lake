@@ -1150,3 +1150,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density* | Li, Shuangqi; Liu, Chen; Zhang, Tong; Le, Hieu; Süsstrunk, Sabine; Salzmann, Mathieu | [arXiv:2407.08659](https://arxiv.org/abs/2407.08659) - [DOI](https://doi.org/10.48550/arXiv.2407.08659) |
+
+
+## [DEP-E-20260724-MOSS Enabling Code-Driven](../DEP-E-20260724-MOSS%20Enabling%20Code-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents* | Zhu, Ming; Zhou, Yi | [arXiv:2409.16120](https://arxiv.org/abs/2409.16120) - [DOI](https://doi.org/10.48550/arXiv.2409.16120) |
