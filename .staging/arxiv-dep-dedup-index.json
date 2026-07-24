@@ -1559,11 +1559,11 @@
       ],
       "arxiv_base_id": "2407.13137",
       "arxiv_id": "2407.13137v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c99d9a83c52d5814074682cf217182eaace34401",
       "deposit_date": "20260724",
       "doi": "10.1109/TITS.2025.3558146",
       "normalized_title": "OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation",
-      "notes": "Uniform draw index 20731 of 75777 units; first draw accepted; duplicate exclusions and reselections zero; partial source repaired to verified complete; cache miss became cached; comparison, efficiency, calibration, split, and release gaps preserved; all source files withheld locally.",
+      "notes": "Uniform draw index 20731 of 75777 units; first draw accepted; duplicate exclusions and reselections zero; partial source repaired to verified complete; cache miss became cached; comparison, efficiency, calibration, split, and release gaps preserved; primary artifact commit remotely verified; Slack delivery confirmed; all source files withheld locally.",
       "slug": "OE-BevSeg-Perception",
       "source_urls": [
         "https://arxiv.org/abs/2407.13137",
@@ -1574,7 +1574,7 @@
         "https://github.com/SunJ1025/OE-BevSeg/commit/ccd4a0876899ad993bee769692330181d5f66503",
         "https://ieeexplore.ieee.org/document/10964637"
       ],
-      "status": "review_validated"
+      "status": "deposited"
     }
   ],
   "papers": [

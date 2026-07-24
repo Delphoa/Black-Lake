@@ -19,9 +19,9 @@
 | Full-paper, table, figure, publisher, and official-code review | 30-45 min | 34.2 min | Complete | Full 14-page paper, source tables, rendered key pages, IEEE metadata, and pinned repository surface inspected |
 | Related DEP exploration and exactly-three selection | 10-15 min | 9.6 min | Complete | HERMES World Model, Stable Diffusion Depth, and iKalibr Calibration selected for concrete overlap |
 | Manuscript, Report-Mark, DEP README, job log, and index authoring | 30-45 min | 34.8 min | Complete | Schema-complete manuscript and exact-count Report-Mark synthesis drafted |
-| Structural, syntax, link, public-safety, and source-upload gates | 15-25 min | Pending final measurement | In progress | Final validation and staged allowlist inspection occur before push |
-| Repository submission and remote verification | 10-20 min | Pending final measurement | Pending | Primary commit URL will be recorded after remote verification |
-| Slack notification | under 5 min | Pending final measurement | Pending | Notification follows successful repository submission |
+| Structural, syntax, link, public-safety, and source-upload gates | 15-25 min | 7.8 min | Complete | Manuscript schema, exact-count sections, three Python mock-ups, JSON, public-safety scan, diff hygiene, and exact seven-file staged allowlist passed |
+| Repository submission and remote verification | 10-20 min | 4.9 min | Complete | Concurrent `main` change rebased; both publication-index entries preserved; primary commit remotely verified |
+| Slack notification | under 5 min | 1.2 min | Complete | Message sent to `#black-lake-artifacts` and confirmed by channel read-back |
 
 ## Extraction Cache
 
@@ -59,14 +59,16 @@
 - Entry action: new pointer added.
 - Entry count after addition: 65.
 - Initial public status: `review_validated`.
-- Commit/PR reference: pending primary remote commit.
-- Finalization action: update this phase log and the pointer to `deposited` with the remotely verified primary artifact commit.
+- Final public status: `deposited`.
+- Primary artifact commit: https://github.com/Delphoa/Black-Lake/commit/c99d9a83c52d5814074682cf217182eaace34401.
+- Slack confirmation: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1784896067255819.
+- Finalization action: this phase log and the public pointer record the remotely verified primary artifact commit.
 
 ## Expected vs Observed Trajectory
 
 The source repair and cache phases were faster than their envelopes because official companion artifacts were available on the first bounded attempt and all local extractors except `pdftotext` succeeded. Review time remained within guidance despite inspecting paper tables, all rendered pages, the publisher record, and the official code surface. Related-DEP exploration was slightly below estimate because three strong local matches were already present and could be verified directly.
 
-Authoring remained within its envelope. The overall job is expected to finish near the 90-120 minute guidance; validation/submission may extend the trajectory if a concurrent remote change requires a fetch/rebase or if any public-safety/source-upload gate fails. No source, table, figure, code-surface, or related-DEP review was truncated to meet a phase estimate.
+Authoring remained within its envelope. The rounded phase total was approximately 118 minutes, within the 90-120 minute whole-job guidance. Validation completed below its envelope because all structural and public-safety checks passed on the final draft. Submission also completed below its envelope despite one concurrent `main` change requiring a rebase and a scoped publication-index conflict resolution. No source, table, figure, code-surface, or related-DEP review was truncated to meet a phase estimate.
 
 ## Shortfalls and Follow-Up
 
@@ -75,4 +77,5 @@ Authoring remained within its envelope. The overall job is expected to finish ne
 - `Paper evidence`: no repeated seeds, confidence intervals, statistical tests, resource tails, calibration-error sweep, sensor-fault sweep, aggregate adverse-condition study, or closed-loop outcome.
 - `Release evidence`: paper-matched scripts, dependencies, checkpoints, expected outputs, and an apparently executable multimodal Mamba path were not established from the inspected public repository surface.
 - `Version boundary`: the later IEEE journal full text was not inspected; DOI and publication metadata were recorded without assuming exact text identity with arXiv v1.
-- `Submission`: pending final validation, allowlisted staging, remote push verification, pointer finalization, and Slack read-back.
+- `Submission concurrency`: remote `main` advanced before publication; one publication-index conflict was resolved by preserving both the intervening CuraLight entry and the OE-BevSeg entry. The exact seven-file public allowlist was revalidated before push.
+- `Notification`: Slack delivery and read-back succeeded; no notification blocker remains.
