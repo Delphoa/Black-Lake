@@ -1736,6 +1736,29 @@
         "https://doi.org/10.48550/arXiv.2406.14482"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity",
+        ".logs/20260724-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-LOG.md",
+        ".reports/BL-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.08659",
+      "arxiv_id": "2407.08659",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2407.08659",
+      "normalized_title": "Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P08; draw 33224 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Controlling-the-Fidelity-and-Diversity-of-Deep",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.08659",
+        "https://arxiv.org/html/2407.08659",
+        "https://arxiv.org/pdf/2407.08659",
+        "https://doi.org/10.48550/arXiv.2407.08659"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

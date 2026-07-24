@@ -1143,3 +1143,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines* | Ying, Xinyi; Xiao, Chao; Li, Ruojing; He, Xu; Li, Boyang; Cao, Xu; Li, Zhaoxu; Wang, Yingqian; Hu, Mingyuan; Xu, Qingyu; Lin, Zaiping; Li, Miao; Zhou, Shilin; An, Wei; Sheng, Weidong; Liu, Li | [arXiv:2406.14482](https://arxiv.org/abs/2406.14482) - [DOI](https://doi.org/10.48550/arXiv.2406.14482) |
+
+
+## [DEP-E-20260724-Controlling the Fidelity](../DEP-E-20260724-Controlling%20the%20Fidelity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density* | Li, Shuangqi; Liu, Chen; Zhang, Tong; Le, Hieu; Süsstrunk, Sabine; Salzmann, Mathieu | [arXiv:2407.08659](https://arxiv.org/abs/2407.08659) - [DOI](https://doi.org/10.48550/arXiv.2407.08659) |
