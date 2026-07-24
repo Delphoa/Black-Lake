@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **266 publications across 162 DEP-E entries** (262 arXiv records and 4 other research publications).
+- Current coverage: **267 publications across 163 DEP-E entries** (263 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-24; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -33,6 +33,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *RareDxR1: Learning to Reason at the Knowledge Frontier for Rare Disease Diagnosis* | Deyang Jiang; Haoran Wu; Ziyi Wang; Yiming Rong; Yunlong Zhao; Ye Jin; Bo Xu | [arXiv:2607.00147v1](https://arxiv.org/abs/2607.00147v1); [DOI](https://doi.org/10.48550/arXiv.2607.00147) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
 | *PHREEQC-MCQ-200: Diagnostic Evaluation of LLMs With and Without Geochemical Tools* | Ke Zhang; Sahchit Chundur; Mohammad Javad Qomi; Maziar Raissi | [arXiv:2607.00436v1](https://arxiv.org/abs/2607.00436v1); [DOI](https://doi.org/10.48550/arXiv.2607.00436) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
 | *Experimental Quantification of Layered Error Suppression in Fiber-Interconnected Quantum Data Centers* | Seyed Navid Elyasi; Sima Bahrani; Rui Wang; Dimitra Simeonidou; Paolo Monti; Rui Lin | [arXiv:2607.00735v1](https://arxiv.org/abs/2607.00735v1); [DOI](https://doi.org/10.48550/arXiv.2607.00735) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+
+## [DEP-E-20260724-MOCS Flexible Lengths](../DEP-E-20260724-MOCS%20Flexible%20Lengths/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How to Construct Mutually Orthogonal Complementary Sets with Non-Power-of-Two Lengths?* | Shing-Wei Wu; Chao-Yu Chen; Zilong Liu | [arXiv:2003.06991v1](https://arxiv.org/abs/2003.06991v1) - [arXiv DOI](https://doi.org/10.48550/arXiv.2003.06991) - [IEEE DOI](https://doi.org/10.1109/TIT.2020.2980818) |
 
 ## [DEP-E-20260723-Schwarz Neural Inference](../DEP-E-20260723-Schwarz%20Neural%20Inference/README.md)
 

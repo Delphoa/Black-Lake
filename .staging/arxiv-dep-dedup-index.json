@@ -1832,6 +1832,31 @@
         "https://github.com/JimmyZou/HumanPoseTracking_SNN"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths",
+        ".logs/20260724-Arxiv-MOCS-Flexible-Lengths-LOG.md",
+        ".reports/BL-Arxiv-MOCS-Flexible-Lengths-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.06991",
+      "arxiv_id": "2003.06991v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2003.06991",
+      "normalized_title": "How to Construct Mutually Orthogonal Complementary Sets with Non-Power-of-Two Lengths?",
+      "notes": "Uniform draw 42505 of 75777 unique paper units from 75780 PDFs; duplicate exclusions 0; other exclusions 0; reselections 0; initial partial source repaired to verified complete; all source files withheld locally.",
+      "slug": "MOCS-Flexible-Lengths",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.06991",
+        "https://arxiv.org/pdf/2003.06991",
+        "https://ar5iv.labs.arxiv.org/html/2003.06991",
+        "https://arxiv.org/e-print/2003.06991",
+        "https://doi.org/10.48550/arXiv.2003.06991",
+        "https://doi.org/10.1109/TIT.2020.2980818"
+      ],
+      "status": "deposited"
     }
   ],
   "records": [
