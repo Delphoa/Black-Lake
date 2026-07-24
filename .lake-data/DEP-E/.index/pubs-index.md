@@ -1094,3 +1094,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation* | Sun, Jian; Dai, Yuqi; Vong, Chi-Man; Xu, Qing; Li, Shengbo Eben; Wang, Jianqiang; He, Lei; Li, Keqiang | [arXiv:2407.13137](https://arxiv.org/abs/2407.13137) - [DOI](https://doi.org/10.1109/TITS.2025.3558146) |
+
+
+## [DEP-E-20260724-OpenOneRec Technical](../DEP-E-20260724-OpenOneRec%20Technical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenOneRec Technical Report* | Zhou, Guorui; Bao, Honghui; Huang, Jiaming; Deng, Jiaxin; Zhang, Jinghao; She, Junda; Cai, Kuo; Ren, Lejian; Ren, Lu; Luo, Qiang; Wang, Qianqian; Hu, Qigen; Zhang, Rongzhou; Tang, Ruiming; Wang, Shiyao; Li, Wuchao; Wu, Xiangyu; Luo, Xinchen; Wang, Xingmei; Hu, Yifei; Wu, Yunfan; Liu, Zhanyu; Zhang, Zhiyang; Zhang, Zixing; Chen, Bo; Wen, Bin; Ma, Chaoyi; Song, Chengru; Chu, Chenglong; Lian, Defu; Yang, Fan; Jiang, Feng; Cheng, Hongtao; Wang, Huanjie; Gai, Kun; Zheng, Pengfei; Wang, Qiang; Huang, Rui; Mao, Siyang; Gao, Tingting; Yuan, Wei; Wang, Yan; Zhou, Yang; Su, Yi; Cheng, Zexuan; Ling, Zhixin; Li, Ziming | [arXiv:2512.24762](https://arxiv.org/abs/2512.24762) - [DOI](https://doi.org/10.48550/arXiv.2512.24762) |

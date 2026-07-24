@@ -1575,6 +1575,29 @@
         "https://ieeexplore.ieee.org/document/10964637"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-OpenOneRec Technical",
+        ".logs/20260724-Arxiv-OpenOneRec-Technical-Report-LOG.md",
+        ".reports/BL-Arxiv-OpenOneRec-Technical-Report-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.24762",
+      "arxiv_id": "2512.24762",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2512.24762",
+      "normalized_title": "OpenOneRec Technical Report",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P01; draw 62762 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "OpenOneRec-Technical-Report",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.24762",
+        "https://arxiv.org/html/2512.24762v1",
+        "https://arxiv.org/pdf/2512.24762",
+        "https://doi.org/10.48550/arXiv.2512.24762"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
