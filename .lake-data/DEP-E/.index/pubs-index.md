@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **242 publications across 147 DEP-E entries** (238 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-23; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **263 publications across 159 DEP-E entries** (259 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-24; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260724-Operational Reliability](../DEP-E-20260724-Operational%20Reliability/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *AutoMem: Automated Learning of Memory as a Cognitive Skill* | Shengguang Wu; Hao Zhu; Yuhui Zhang; Xiaohan Wang; Serena Yeung-Levy | [arXiv:2607.01224v1](https://arxiv.org/abs/2607.01224v1); [DOI](https://doi.org/10.48550/arXiv.2607.01224) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Self-GC: Self-Governing Context for Long-Horizon LLM Agents* | Xubin Hao; Hongjin Meng; Xin Yin; Jiawei Zhu; Chenpeng Cao | [arXiv:2607.00692v1](https://arxiv.org/abs/2607.00692v1); [DOI](https://doi.org/10.48550/arXiv.2607.00692) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *The State-Prediction Separation Hypothesis* | Giovanni Monea; Nathan Godey; Kianté Brantley; Yoav Artzi | [arXiv:2607.01218v1](https://arxiv.org/abs/2607.01218v1); [DOI](https://doi.org/10.48550/arXiv.2607.01218) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Can Agents Generalize to the Open World?* | Song-Lin Lv; Weiming Wu; Rui Zhu; Zi-Jian Cheng; Lan-Zhe Guo | [arXiv:2607.01084v1](https://arxiv.org/abs/2607.01084v1); [DOI](https://doi.org/10.48550/arXiv.2607.01084) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Adversarial Pragmatics for AI Safety Evaluation* | Brett Reynolds | [arXiv:2607.01153v2](https://arxiv.org/abs/2607.01153v2); [DOI](https://doi.org/10.48550/arXiv.2607.01153) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Skills Are Not Islands: The Hidden Supply Chain Behind Agent Skills* | Changguo Jia; Tianqi Zhao; Runzhi He; Minghui Zhou | [arXiv:2607.01136v1](https://arxiv.org/abs/2607.01136v1); [DOI](https://doi.org/10.48550/arXiv.2607.01136) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?* | Zhi Chen; Zhensu Sun; Yuling Shi; David Lo; Lingxiao Jiang | [arXiv:2607.01211v2](https://arxiv.org/abs/2607.01211v2); [DOI](https://doi.org/10.48550/arXiv.2607.01211) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *RareDxR1: Learning to Reason at the Knowledge Frontier for Rare Disease Diagnosis* | Deyang Jiang; Haoran Wu; Ziyi Wang; Yiming Rong; Yunlong Zhao; Ye Jin; Bo Xu | [arXiv:2607.00147v1](https://arxiv.org/abs/2607.00147v1); [DOI](https://doi.org/10.48550/arXiv.2607.00147) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *PHREEQC-MCQ-200: Diagnostic Evaluation of LLMs With and Without Geochemical Tools* | Ke Zhang; Sahchit Chundur; Mohammad Javad Qomi; Maziar Raissi | [arXiv:2607.00436v1](https://arxiv.org/abs/2607.00436v1); [DOI](https://doi.org/10.48550/arXiv.2607.00436) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
+| *Experimental Quantification of Layered Error Suppression in Fiber-Interconnected Quantum Data Centers* | Seyed Navid Elyasi; Sima Bahrani; Rui Wang; Dimitra Simeonidou; Paolo Monti; Rui Lin | [arXiv:2607.00735v1](https://arxiv.org/abs/2607.00735v1); [DOI](https://doi.org/10.48550/arXiv.2607.00735) | [DEP-E](../DEP-E-20260724-Operational%20Reliability/README.md) |
 
 ## [DEP-E-20260723-Schwarz Neural Inference](../DEP-E-20260723-Schwarz%20Neural%20Inference/README.md)
 
