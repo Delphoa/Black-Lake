@@ -1115,3 +1115,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation* | Khanna, Mukul; Mao, Yongsen; Jiang, Hanxiao; Haresh, Sanjay; Shacklett, Brennan; Batra, Dhruv; Clegg, Alexander; Undersander, Eric; Chang, Angel X.; Savva, Manolis | [arXiv:2306.11290](https://arxiv.org/abs/2306.11290) - [DOI](https://doi.org/10.48550/arXiv.2306.11290) |
+
+
+## [DEP-E-20260724-AG3D Learning to Generate](../DEP-E-20260724-AG3D%20Learning%20to%20Generate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AG3D: Learning to Generate 3D Avatars from 2D Image Collections* | Dong, Zijian; Chen, Xu; Yang, Jinlong; Black, Michael J.; Hilliges, Otmar; Geiger, Andreas | [arXiv:2305.02312](https://arxiv.org/abs/2305.02312) - [DOI](https://doi.org/10.48550/arXiv.2305.02312) |

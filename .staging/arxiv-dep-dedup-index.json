@@ -1644,6 +1644,29 @@
         "https://doi.org/10.48550/arXiv.2306.11290"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-AG3D Learning to Generate",
+        ".logs/20260724-Arxiv-AG3D-Learning-to-Generate-3D-Avatars-from-LOG.md",
+        ".reports/BL-Arxiv-AG3D-Learning-to-Generate-3D-Avatars-from-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2305.02312",
+      "arxiv_id": "2305.02312",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2305.02312",
+      "normalized_title": "AG3D: Learning to Generate 3D Avatars from 2D Image Collections",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P04; draw 17272 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "AG3D-Learning-to-Generate-3D-Avatars-from",
+      "source_urls": [
+        "https://arxiv.org/abs/2305.02312",
+        "https://ar5iv.labs.arxiv.org/html/2305.02312",
+        "https://arxiv.org/pdf/2305.02312",
+        "https://doi.org/10.48550/arXiv.2305.02312"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
