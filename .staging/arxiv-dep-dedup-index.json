@@ -1598,6 +1598,29 @@
         "https://doi.org/10.48550/arXiv.2512.24762"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing",
+        ".logs/20260724-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-LOG.md",
+        ".reports/BL-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.02240",
+      "arxiv_id": "2503.02240",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2503.02240",
+      "normalized_title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P02; draw 63249 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "OmniSQL-Synthesizing-High-quality-Text-to-SQL",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.02240",
+        "https://arxiv.org/html/2503.02240",
+        "https://arxiv.org/pdf/2503.02240",
+        "https://doi.org/10.48550/arXiv.2503.02240"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

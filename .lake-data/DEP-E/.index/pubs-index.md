@@ -1101,3 +1101,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenOneRec Technical Report* | Zhou, Guorui; Bao, Honghui; Huang, Jiaming; Deng, Jiaxin; Zhang, Jinghao; She, Junda; Cai, Kuo; Ren, Lejian; Ren, Lu; Luo, Qiang; Wang, Qianqian; Hu, Qigen; Zhang, Rongzhou; Tang, Ruiming; Wang, Shiyao; Li, Wuchao; Wu, Xiangyu; Luo, Xinchen; Wang, Xingmei; Hu, Yifei; Wu, Yunfan; Liu, Zhanyu; Zhang, Zhiyang; Zhang, Zixing; Chen, Bo; Wen, Bin; Ma, Chaoyi; Song, Chengru; Chu, Chenglong; Lian, Defu; Yang, Fan; Jiang, Feng; Cheng, Hongtao; Wang, Huanjie; Gai, Kun; Zheng, Pengfei; Wang, Qiang; Huang, Rui; Mao, Siyang; Gao, Tingting; Yuan, Wei; Wang, Yan; Zhou, Yang; Su, Yi; Cheng, Zexuan; Ling, Zhixin; Li, Ziming | [arXiv:2512.24762](https://arxiv.org/abs/2512.24762) - [DOI](https://doi.org/10.48550/arXiv.2512.24762) |
+
+
+## [DEP-E-20260724-OmniSQL Synthesizing](../DEP-E-20260724-OmniSQL%20Synthesizing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale* | Li, Haoyang; Wu, Shang; Zhang, Xiaokang; Huang, Xinmei; Zhang, Jing; Jiang, Fuxin; Wang, Shuai; Zhang, Tieying; Chen, Jianjun; Shi, Rui; Chen, Hong; Li, Cuiping | [arXiv:2503.02240](https://arxiv.org/abs/2503.02240) - [DOI](https://doi.org/10.48550/arXiv.2503.02240) |
