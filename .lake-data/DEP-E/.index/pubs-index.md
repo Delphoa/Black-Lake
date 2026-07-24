@@ -1157,3 +1157,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents* | Zhu, Ming; Zhou, Yi | [arXiv:2409.16120](https://arxiv.org/abs/2409.16120) - [DOI](https://doi.org/10.48550/arXiv.2409.16120) |
+
+
+## [DEP-E-20260724-A Large Scale Study of](../DEP-E-20260724-A%20Large%20Scale%20Study%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners* | Shi, Jingyi; Chen, Yufeng; Xiao, Yang; Li, Yuekang; Xu, Zhengzi; Qiu, Sihao; Zhang, Chi; Qi, Keyu; Li, Yeting; Chen, Xingchu; Zou, Yanyan; Liu, Yang; Huo, Wei | [arXiv:2511.01180](https://arxiv.org/abs/2511.01180) - [DOI](https://doi.org/10.48550/arXiv.2511.01180) |

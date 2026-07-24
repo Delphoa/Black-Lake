@@ -1782,6 +1782,29 @@
         "https://doi.org/10.48550/arXiv.2409.16120"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of",
+        ".logs/20260724-Arxiv-A-Large-Scale-Study-of-AI-based-LOG.md",
+        ".reports/BL-Arxiv-A-Large-Scale-Study-of-AI-based-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.01180",
+      "arxiv_id": "2511.01180",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2511.01180",
+      "normalized_title": "A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P10; draw 55632 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Large-Scale-Study-of-AI-based",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.01180",
+        "https://arxiv.org/html/2511.01180",
+        "https://arxiv.org/pdf/2511.01180",
+        "https://doi.org/10.48550/arXiv.2511.01180"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
