@@ -1076,3 +1076,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CuraLight: Debate-Guided Data Curation for LLM-Centered Traffic Signal Control* | Guo, Qing; Li, Xinhang; Chen, Junyu; Guo, Zheng; Xu, Shengzhe; Zhang, Lin; Li, Lei | [arXiv:2604.05663v2](https://arxiv.org/abs/2604.05663v2) - [DOI](https://doi.org/10.48550/arXiv.2604.05663) |
+
+## [DEP-E-20260724-OE-BevSeg Perception](../DEP-E-20260724-OE-BevSeg%20Perception/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation* | Sun, Jian; Dai, Yuqi; Vong, Chi-Man; Xu, Qing; Li, Shengbo Eben; Wang, Jianqiang; He, Lei; Li, Keqiang | [arXiv:2407.13137](https://arxiv.org/abs/2407.13137) - [DOI](https://doi.org/10.1109/TITS.2025.3558146) |
