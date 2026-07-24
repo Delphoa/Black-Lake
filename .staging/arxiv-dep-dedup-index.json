@@ -1667,6 +1667,29 @@
         "https://doi.org/10.48550/arXiv.2305.02312"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing",
+        ".logs/20260724-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-LOG.md",
+        ".reports/BL-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.05451",
+      "arxiv_id": "2411.05451",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2411.05451",
+      "normalized_title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P05; draw 51623 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "WorkflowLLM-Enhancing-Workflow-Orchestration",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.05451",
+        "https://arxiv.org/html/2411.05451",
+        "https://arxiv.org/pdf/2411.05451",
+        "https://doi.org/10.48550/arXiv.2411.05451"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
