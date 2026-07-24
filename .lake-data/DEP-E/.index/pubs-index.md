@@ -1129,3 +1129,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models* | Fan, Shengda; Cong, Xin; Fu, Yuepeng; Zhang, Zhong; Zhang, Shuyan; Liu, Yuanwei; Wu, Yesai; Lin, Yankai; Liu, Zhiyuan; Sun, Maosong | [arXiv:2411.05451](https://arxiv.org/abs/2411.05451) - [DOI](https://doi.org/10.48550/arXiv.2411.05451) |
+
+
+## [DEP-E-20260724-Higher-Order Spectral](../DEP-E-20260724-Higher-Order%20Spectral/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Higher-Order Spectral Clustering under Superimposed Stochastic Block Model* | Paul, Subhadeep; Milenkovic, Olgica; Chen, Yuguo | [arXiv:1812.06515](https://arxiv.org/abs/1812.06515) - [DOI](https://doi.org/10.48550/arXiv.1812.06515) |

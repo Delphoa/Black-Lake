@@ -1690,6 +1690,29 @@
         "https://doi.org/10.48550/arXiv.2411.05451"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral",
+        ".logs/20260724-Arxiv-Higher-Order-Spectral-Clustering-under-LOG.md",
+        ".reports/BL-Arxiv-Higher-Order-Spectral-Clustering-under-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1812.06515",
+      "arxiv_id": "1812.06515",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.1812.06515",
+      "normalized_title": "Higher-Order Spectral Clustering under Superimposed Stochastic Block Model",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P06; draw 42878 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Higher-Order-Spectral-Clustering-under",
+      "source_urls": [
+        "https://arxiv.org/abs/1812.06515",
+        "https://ar5iv.labs.arxiv.org/html/1812.06515",
+        "https://arxiv.org/pdf/1812.06515",
+        "https://doi.org/10.48550/arXiv.1812.06515"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
