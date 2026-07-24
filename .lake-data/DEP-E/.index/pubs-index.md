@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **263 publications across 159 DEP-E entries** (259 arXiv records and 4 other research publications).
+- Current coverage: **264 publications across 160 DEP-E entries** (260 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-24; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -1070,3 +1070,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Highly Efficient 3D Human Pose Tracking from Events with Spiking Spatiotemporal Transformer* | Zou, Shihao; Mu, Yuxuan; Ji, Wei; Wang, Zi-An; Zuo, Xinxin; Wang, Sen; Si, Weixin; Cheng, Li | [arXiv:2303.09681](https://arxiv.org/abs/2303.09681) - [DOI](https://doi.org/10.48550/arXiv.2303.09681) |
+
+## [DEP-E-20260724-CuraLight Review](../DEP-E-20260724-CuraLight%20Review/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CuraLight: Debate-Guided Data Curation for LLM-Centered Traffic Signal Control* | Guo, Qing; Li, Xinhang; Chen, Junyu; Guo, Zheng; Xu, Shengzhe; Zhang, Lin; Li, Lei | [arXiv:2604.05663v2](https://arxiv.org/abs/2604.05663v2) - [DOI](https://doi.org/10.48550/arXiv.2604.05663) |
