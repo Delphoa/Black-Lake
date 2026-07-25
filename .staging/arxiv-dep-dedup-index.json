@@ -1829,6 +1829,29 @@
         "https://doi.org/10.48550/arXiv.2601.09088"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260725-NeMO Neural Map Growing",
+        ".logs/20260725-Arxiv-NeMO-Neural-Map-Growing-System-for-LOG.md",
+        ".reports/BL-Arxiv-NeMO-Neural-Map-Growing-System-for-20260725/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.04540",
+      "arxiv_id": "2306.04540",
+      "commit_or_pr": "",
+      "deposit_date": "20260725",
+      "doi": "10.48550/arXiv.2306.04540",
+      "normalized_title": "NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark",
+      "notes": "Job BLAD-2200-20260725-FF48EE13 item BLAD-2200-20260725-FF48EE13-P01; draw 30208 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "NeMO-Neural-Map-Growing-System-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.04540",
+        "https://ar5iv.labs.arxiv.org/html/2306.04540",
+        "https://arxiv.org/pdf/2306.04540",
+        "https://doi.org/10.48550/arXiv.2306.04540"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -1190,3 +1190,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Willmore surfaces in spheres via loop groups I: generic cases and some examples* | Dorfmeister, Josef F.; Wang, Peng | [arXiv:1301.2756v4](https://arxiv.org/abs/1301.2756) - [DOI](https://doi.org/10.48550/arXiv.1301.2756) |
+
+
+## [DEP-E-20260725-NeMO Neural Map Growing](../DEP-E-20260725-NeMO%20Neural%20Map%20Growing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark* | Zhu, Xi; Cao, Xiya; Dong, Zhiwei; Zhou, Caifa; Liu, Qiangbo; Li, Wei; Wang, Yongliang | [arXiv:2306.04540](https://arxiv.org/abs/2306.04540) - [DOI](https://doi.org/10.48550/arXiv.2306.04540) |
