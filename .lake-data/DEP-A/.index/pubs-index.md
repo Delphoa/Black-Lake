@@ -3094,3 +3094,183 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Attention Scores: SVD-Based Vision Token Pruning for Efficient Vision-Language Models* | Yvon Apedo; Martyna Poreba; Michal Szczepanski; Samia Bouchafa | [arXiv:2604.11530v3](https://arxiv.org/abs/2604.11530v3) - [DOI](https://doi.org/10.48550/arXiv.2604.11530) |
+
+
+## [DEP-A-20260725-Renyi Token Metric](../DEP-A-20260725-Renyi%20Token%20Metric/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.27900-whitepaper-review.md`](../DEP-A-20260725-Renyi%20Token%20Metric/2603.27900-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RÃ©nyi Entropy: A New Token Pruning Metric for Vision Transformers* | Wei-Yuan Su; Ruijie Zhang; Zheng Zhang | [arXiv:2603.27900v1](https://arxiv.org/abs/2603.27900v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27900) |
+
+
+## [DEP-A-20260725-SeGPruner 3D QA](../DEP-A-20260725-SeGPruner%203D%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.29437-whitepaper-review.md`](../DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering* | Wenli Li; Kai Zhao; Haoran Jiang; Enquan Yang; Yi Su; Dan Zeng | [arXiv:2603.29437v1](https://arxiv.org/abs/2603.29437v1) - [DOI](https://doi.org/10.48550/arXiv.2603.29437) |
+
+
+## [DEP-A-20260725-VLA-IAP Interaction](../DEP-A-20260725-VLA-IAP%20Interaction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.22991-whitepaper-review.md`](../DEP-A-20260725-VLA-IAP%20Interaction/2603.22991-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models* | Jintao Cheng; Haozhe Wang; Weibin Li; Gang Wang; Yipu Zhang; Xiaoyu Tang; Jin Wu; Xieyuanli Chen; Yunhui Liu; Wei Zhang | [arXiv:2603.22991v1](https://arxiv.org/abs/2603.22991v1) - [DOI](https://doi.org/10.48550/arXiv.2603.22991) |
+
+
+## [DEP-A-20260725-Privacy Token Prune](../DEP-A-20260725-Privacy%20Token%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.26336-whitepaper-review.md`](../DEP-A-20260725-Privacy%20Token%20Prune/2603.26336-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition* | Nazia Aslam; Abhisek Ray; Joakim Bruslund Haurum; Lukas Esterle; Kamal Nasrollahi | [arXiv:2603.26336v1](https://arxiv.org/abs/2603.26336v1) - [DOI](https://doi.org/10.48550/arXiv.2603.26336) |
+
+
+## [DEP-A-20260725-DeSAP Task Pruning](../DEP-A-20260725-DeSAP%20Task%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.11240-whitepaper-review.md`](../DEP-A-20260725-DeSAP%20Task%20Pruning/2604.11240-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models* | Kexin Ma; Jing Xiao; Chaofeng Chen; Geyong Min; Guibo Zhu; Jinqiao Wang; Liang Liao | [arXiv:2604.11240v1](https://arxiv.org/abs/2604.11240v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11240) |
+
+
+## [DEP-A-20260725-TriStage VLA Prune](../DEP-A-20260725-TriStage%20VLA%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.09244-whitepaper-review.md`](../DEP-A-20260725-TriStage%20VLA%20Prune/2604.09244-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness* | Zihao Zheng; Sicheng Tian; Zhihao Mao; Lingyue Zhang; Chenyue Li; Ziyun Zhang; Hong Gao; Yuchen Huang; Yutong Xu; Guojie Luo; Xiang Chen | [arXiv:2604.09244v2](https://arxiv.org/abs/2604.09244v2) - [DOI](https://doi.org/10.48550/arXiv.2604.09244) |
+
+
+## [DEP-A-20260725-DSTP Shift Recovery](../DEP-A-20260725-DSTP%20Shift%20Recovery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.12358-whitepaper-review.md`](../DEP-A-20260725-DSTP%20Shift%20Recovery/2604.12358-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding* | Jiwan Kim; Kibum Kim; Wonjoong Kim; Byung-Kwan Lee; Chanyoung Park | [arXiv:2604.12358v2](https://arxiv.org/abs/2604.12358v2) - [DOI](https://doi.org/10.48550/arXiv.2604.12358) |
+
+
+## [DEP-A-20260725-Pruning Calibration](../DEP-A-20260725-Pruning%20Calibration/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.12035-whitepaper-review.md`](../DEP-A-20260725-Pruning%20Calibration/2604.12035-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs* | Kaizhen Tan | [arXiv:2604.12035v1](https://arxiv.org/abs/2604.12035v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12035) |
+
+
+## [DEP-A-20260725-IWP Dual Form](../DEP-A-20260725-IWP%20Dual%20Form/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.00757-whitepaper-review.md`](../DEP-A-20260725-IWP%20Dual%20Form/2604.00757-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models* | Dong-Jae Lee; Sunghyun Baek; Junmo Kim | [arXiv:2604.00757v2](https://arxiv.org/abs/2604.00757v2) - [DOI](https://doi.org/10.48550/arXiv.2604.00757) |
+
+
+## [DEP-A-20260725-HieraVid Hierarchy](../DEP-A-20260725-HieraVid%20Hierarchy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.01881-whitepaper-review.md`](../DEP-A-20260725-HieraVid%20Hierarchy/2604.01881-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models* | Yansong Guo; Chaoyang Zhu; Jiayi Ji; Jianghang Lin; Liujuan Cao | [arXiv:2604.01881v1](https://arxiv.org/abs/2604.01881v1) - [DOI](https://doi.org/10.48550/arXiv.2604.01881) |
+
+
+## [DEP-A-20260725-Efficient3D Pruning](../DEP-A-20260725-Efficient3D%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.02689-whitepaper-review.md`](../DEP-A-20260725-Efficient3D%20Pruning/2604.02689-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs* | Yuhui Lin; Siyue Yu; Yuxing Yang; Guangliang Cheng; Jimin Xiao | [arXiv:2604.02689v1](https://arxiv.org/abs/2604.02689v1) - [DOI](https://doi.org/10.48550/arXiv.2604.02689) |
+
+
+## [DEP-A-20260725-ID Selection](../DEP-A-20260725-ID%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.05601-whitepaper-review.md`](../DEP-A-20260725-ID%20Selection/2604.05601-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference* | Zhaohong Huang; Wenjing Liu; Yuxin Zhang; Fei Chao; Rongrong Ji | [arXiv:2604.05601v1](https://arxiv.org/abs/2604.05601v1) - [DOI](https://doi.org/10.48550/arXiv.2604.05601) |
+
+
+## [DEP-A-20260725-Recoverable Routing](../DEP-A-20260725-Recoverable%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.12412-whitepaper-review.md`](../DEP-A-20260725-Recoverable%20Routing/2606.12412-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models* | Cheng-Yu Yang; Shao-Yuan Lo; Yu-Lun Liu | [arXiv:2606.12412v1](https://arxiv.org/abs/2606.12412v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12412) |
+
+
+## [DEP-A-20260725-SchemaFirst Retrieval](../DEP-A-20260725-SchemaFirst%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.28387-whitepaper-review.md`](../DEP-A-20260725-SchemaFirst%20Retrieval/2606.28387-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Schema-First Retrieval: Embedding Catalogs for Natural Language Analytics* | Adarsh Agrawal; Shashank Indukuri | [arXiv:2606.28387v1](https://arxiv.org/abs/2606.28387v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28387) |
+
+
+## [DEP-A-20260725-ConCise RAG State](../DEP-A-20260725-ConCise%20RAG%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.28361-whitepaper-review.md`](../DEP-A-20260725-ConCise%20RAG%20State/2606.28361-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services* | Kuan Yan; Zhiqing Tang; Tian Wang; Weijia Jia | [arXiv:2606.28361v1](https://arxiv.org/abs/2606.28361v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28361) |
+
+
+## [DEP-A-20260725-HistoRAG Method](../DEP-A-20260725-HistoRAG%20Method/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.18103-whitepaper-review.md`](../DEP-A-20260725-HistoRAG%20Method/2606.18103-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HistoRAG: Embedding Historical Methodology in Retrieval-Augmented Generation Through Critical Technical Practice* | Noah J. Kim-Baumann; Torsten Hiltmann | [arXiv:2606.18103v1](https://arxiv.org/abs/2606.18103v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18103) |
+
+
+## [DEP-A-20260725-TS-RAG Strategy](../DEP-A-20260725-TS-RAG%20Strategy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.24976-whitepaper-review.md`](../DEP-A-20260725-TS-RAG%20Strategy/2606.24976-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval* | Sana Ayromlou; Purvi Sehgal; Pradyumna Narayana | [arXiv:2606.24976v3](https://arxiv.org/abs/2606.24976v3) - [DOI](https://doi.org/10.48550/arXiv.2606.24976) |
+
+
+## [DEP-A-20260725-MythraGen Art RAG](../DEP-A-20260725-MythraGen%20Art%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.22924-whitepaper-review.md`](../DEP-A-20260725-MythraGen%20Art%20RAG/2606.22924-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MythraGen: Two-Stage Retrieval Augmented Art Generation Framework* | Quang-Khai Le; Cong-Long Nguyen; Minh-Triet Tran; Trung-Nghia Le | [arXiv:2606.22924v1](https://arxiv.org/abs/2606.22924v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22924) |
+
+
+## [DEP-A-20260725-Fail-RAG Robotics](../DEP-A-20260725-Fail-RAG%20Robotics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.19598-whitepaper-review.md`](../DEP-A-20260725-Fail-RAG%20Robotics/2606.19598-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fail-RAG : A Retrieval Augmented Generation Informed Framework for Robot Failure Identification* | Ameya Salvi; Jie Hu | [arXiv:2606.19598v1](https://arxiv.org/abs/2606.19598v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19598) |
+
+
+## [DEP-A-20260725-Stellar Disk Retrieval](../DEP-A-20260725-Stellar%20Disk%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.19960-whitepaper-review.md`](../DEP-A-20260725-Stellar%20Disk%20Retrieval/2606.19960-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries* | Yuxiang Guo; Zhonghao Hu; Yuren Mao; Yuhang Liu; Congcong Ge; Xiaolu Zhang; Jun Zhou; Yunjun Gao | [arXiv:2606.19960v1](https://arxiv.org/abs/2606.19960v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19960) |
