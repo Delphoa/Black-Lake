@@ -3184,3 +3184,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models* | Yansong Guo; Chaoyang Zhu; Jiayi Ji; Jianghang Lin; Liujuan Cao | [arXiv:2604.01881v1](https://arxiv.org/abs/2604.01881v1) - [DOI](https://doi.org/10.48550/arXiv.2604.01881) |
+
+
+## [DEP-A-20260725-Efficient3D Pruning](../DEP-A-20260725-Efficient3D%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.02689-whitepaper-review.md`](../DEP-A-20260725-Efficient3D%20Pruning/2604.02689-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs* | Yuhui Lin; Siyue Yu; Yuxing Yang; Guangliang Cheng; Jimin Xiao | [arXiv:2604.02689v1](https://arxiv.org/abs/2604.02689v1) - [DOI](https://doi.org/10.48550/arXiv.2604.02689) |
+
+
+## [DEP-A-20260725-ID Selection](../DEP-A-20260725-ID%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.05601-whitepaper-review.md`](../DEP-A-20260725-ID%20Selection/2604.05601-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference* | Zhaohong Huang; Wenjing Liu; Yuxin Zhang; Fei Chao; Rongrong Ji | [arXiv:2604.05601v1](https://arxiv.org/abs/2604.05601v1) - [DOI](https://doi.org/10.48550/arXiv.2604.05601) |
+
+
+## [DEP-A-20260725-Recoverable Routing](../DEP-A-20260725-Recoverable%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.12412-whitepaper-review.md`](../DEP-A-20260725-Recoverable%20Routing/2606.12412-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models* | Cheng-Yu Yang; Shao-Yuan Lo; Yu-Lun Liu | [arXiv:2606.12412v1](https://arxiv.org/abs/2606.12412v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12412) |
+
+
+## [DEP-A-20260725-SchemaFirst Retrieval](../DEP-A-20260725-SchemaFirst%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.28387-whitepaper-review.md`](../DEP-A-20260725-SchemaFirst%20Retrieval/2606.28387-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Schema-First Retrieval: Embedding Catalogs for Natural Language Analytics* | Adarsh Agrawal; Shashank Indukuri | [arXiv:2606.28387v1](https://arxiv.org/abs/2606.28387v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28387) |
+
+
+## [DEP-A-20260725-ConCise RAG State](../DEP-A-20260725-ConCise%20RAG%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.28361-whitepaper-review.md`](../DEP-A-20260725-ConCise%20RAG%20State/2606.28361-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services* | Kuan Yan; Zhiqing Tang; Tian Wang; Weijia Jia | [arXiv:2606.28361v1](https://arxiv.org/abs/2606.28361v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28361) |
