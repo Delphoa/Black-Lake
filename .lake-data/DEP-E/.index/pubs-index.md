@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **267 publications across 163 DEP-E entries** (263 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-24; non-arXiv attribution was checked against the official OpenAI and Nature publication records.
+- Current coverage: **279 publications across 175 DEP-E entries** (275 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-25; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260725-ToolEmu Audit](../DEP-E-20260725-ToolEmu%20Audit/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Identifying the Risks of LM Agents with an LM-Emulated Sandbox* | Yangjun Ruan; Honghua Dong; Andrew Wang; *et al.* | [arXiv:2309.15817v2](https://arxiv.org/abs/2309.15817v2); [DOI](https://doi.org/10.48550/arXiv.2309.15817); [ICLR 2024](https://openreview.net/forum?id=GEcwtMk1uA) | [DEP-E](../DEP-E-20260725-ToolEmu%20Audit/README.md) |
 
 ## [DEP-E-20260724-Shuffled Autoregress](../DEP-E-20260724-Shuffled%20Autoregress/README.md)
 
