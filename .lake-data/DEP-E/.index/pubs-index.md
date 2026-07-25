@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **280 publications across 176 DEP-E entries** (276 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-25; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **290 publications across 177 DEP-E entries** (286 arXiv records and 4 other research publications).
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-26; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260726-Agent Control Systems](../DEP-E-20260726-Agent%20Control%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning* | Chen Tang; Yizhou Wang; Jianyu Wu; *et al.* | [arXiv:2607.07708v1](https://arxiv.org/abs/2607.07708); [DOI](https://doi.org/10.48550/arXiv.2607.07708) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Co-LMLM: Continuous-Query Limited Memory Language Models* | Yair Feldman; Linxi Zhao; Nathan Godey; Dongyoung Go; Yilun Hua; Kilian Q. Weinberger; Jennifer J. Sun; Yoav Artzi | [arXiv:2607.07707v1](https://arxiv.org/abs/2607.07707); [DOI](https://doi.org/10.48550/arXiv.2607.07707) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *The Key to Going Linear: Analysis-Driven Transformer Linearization* | Anna Kuzina; Paul N. Whatmough; Babak Ehteshami Bejnordi | [arXiv:2607.07706v1](https://arxiv.org/abs/2607.07706); [DOI](https://doi.org/10.48550/arXiv.2607.07706) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization* | Ying Chang; Jiahang Xu; Xuan Feng; Chenyuan Yang; Peng Cheng; Yuqing Yang | [arXiv:2607.07702v1](https://arxiv.org/abs/2607.07702); [DOI](https://doi.org/10.48550/arXiv.2607.07702) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety* | Yujiao Chen | [arXiv:2607.07695v1](https://arxiv.org/abs/2607.07695); [DOI](https://doi.org/10.48550/arXiv.2607.07695) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents* | Tianming Sha; Yue Zhao; Lichao Sun; Yushun Dong | [arXiv:2607.07676v1](https://arxiv.org/abs/2607.07676); [DOI](https://doi.org/10.48550/arXiv.2607.07676) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting* | Aya Spira; Stav Cohen; Elad Feldman; Ron Bitton; Avishai Wool; Ben Nassi | [arXiv:2607.07433v1](https://arxiv.org/abs/2607.07433); [DOI](https://doi.org/10.48550/arXiv.2607.07433) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Mitigating Taint-Style Vulnerabilities in MCP Servers via Security-Aware Tool Descriptions* | Yang Shi; Jiaheng Fu; Yihe Huang; Ruixiang Wu; Chengyao Sun; Kaifeng Huang | [arXiv:2607.07461v1](https://arxiv.org/abs/2607.07461); [DOI](https://doi.org/10.48550/arXiv.2607.07461) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents* | Harry Owiredu-Ashley | [arXiv:2607.07474v1](https://arxiv.org/abs/2607.07474); [DOI](https://doi.org/10.48550/arXiv.2607.07474) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
+| *Faster quantum linear system solver beyond the condition number* | Alexander M. Dalzell; Jianqiang Li; Yuan Su | [arXiv:2607.07691v1](https://arxiv.org/abs/2607.07691); [DOI](https://doi.org/10.48550/arXiv.2607.07691) | [DEP-E](../DEP-E-20260726-Agent%20Control%20Systems/README.md) |
 
 ## [DEP-E-20260725-DASD Reasoning](../DEP-E-20260725-DASD%20Reasoning/README.md)
 
