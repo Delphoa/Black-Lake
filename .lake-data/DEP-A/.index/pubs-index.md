@@ -3229,3 +3229,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services* | Kuan Yan; Zhiqing Tang; Tian Wang; Weijia Jia | [arXiv:2606.28361v1](https://arxiv.org/abs/2606.28361v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28361) |
+
+
+## [DEP-A-20260725-HistoRAG Method](../DEP-A-20260725-HistoRAG%20Method/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.18103-whitepaper-review.md`](../DEP-A-20260725-HistoRAG%20Method/2606.18103-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HistoRAG: Embedding Historical Methodology in Retrieval-Augmented Generation Through Critical Technical Practice* | Noah J. Kim-Baumann; Torsten Hiltmann | [arXiv:2606.18103v1](https://arxiv.org/abs/2606.18103v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18103) |
+
+
+## [DEP-A-20260725-TS-RAG Strategy](../DEP-A-20260725-TS-RAG%20Strategy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.24976-whitepaper-review.md`](../DEP-A-20260725-TS-RAG%20Strategy/2606.24976-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval* | Sana Ayromlou; Purvi Sehgal; Pradyumna Narayana | [arXiv:2606.24976v3](https://arxiv.org/abs/2606.24976v3) - [DOI](https://doi.org/10.48550/arXiv.2606.24976) |
+
+
+## [DEP-A-20260725-MythraGen Art RAG](../DEP-A-20260725-MythraGen%20Art%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.22924-whitepaper-review.md`](../DEP-A-20260725-MythraGen%20Art%20RAG/2606.22924-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MythraGen: Two-Stage Retrieval Augmented Art Generation Framework* | Quang-Khai Le; Cong-Long Nguyen; Minh-Triet Tran; Trung-Nghia Le | [arXiv:2606.22924v1](https://arxiv.org/abs/2606.22924v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22924) |
+
+
+## [DEP-A-20260725-Fail-RAG Robotics](../DEP-A-20260725-Fail-RAG%20Robotics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.19598-whitepaper-review.md`](../DEP-A-20260725-Fail-RAG%20Robotics/2606.19598-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fail-RAG : A Retrieval Augmented Generation Informed Framework for Robot Failure Identification* | Ameya Salvi; Jie Hu | [arXiv:2606.19598v1](https://arxiv.org/abs/2606.19598v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19598) |
+
+
+## [DEP-A-20260725-Stellar Disk Retrieval](../DEP-A-20260725-Stellar%20Disk%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2606.19960-whitepaper-review.md`](../DEP-A-20260725-Stellar%20Disk%20Retrieval/2606.19960-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries* | Yuxiang Guo; Zhonghao Hu; Yuren Mao; Yuhang Liu; Congcong Ge; Xiaolu Zhang; Jun Zhou; Yunjun Gao | [arXiv:2606.19960v1](https://arxiv.org/abs/2606.19960v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19960) |
