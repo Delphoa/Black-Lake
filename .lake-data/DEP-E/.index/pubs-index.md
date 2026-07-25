@@ -1211,3 +1211,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke* | Yang, Hao; Huang, Weijian; Qi, Kehan; Li, Cheng; Liu, Xinfeng; Wang, Meiyun; Zheng, Hairong; Wang, Shanshan | [arXiv:1907.07008](https://arxiv.org/abs/1907.07008) - [DOI](https://doi.org/10.1007/978-3-030-32248-9_30) |
+
+
+## [DEP-E-20260725-Global Commander and](../DEP-E-20260725-Global%20Commander%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation* | Jin, Kaiming; Wu, Yuefan; Wu, Shengqiong; Li, Bobo; Yan, Shuicheng; Chua, Tat-Seng | [arXiv:2602.18941](https://arxiv.org/abs/2602.18941) - [DOI](https://doi.org/10.48550/arXiv.2602.18941) |

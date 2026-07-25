@@ -1898,6 +1898,29 @@
         "https://doi.org/10.1007/978-3-030-32248-9_30"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260725-Global Commander and",
+        ".logs/20260725-Arxiv-Global-Commander-and-Local-Operative-A-Dual-LOG.md",
+        ".reports/BL-Arxiv-Global-Commander-and-Local-Operative-A-Dual-20260725/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.18941",
+      "arxiv_id": "2602.18941",
+      "commit_or_pr": "",
+      "deposit_date": "20260725",
+      "doi": "10.48550/arXiv.2602.18941",
+      "normalized_title": "Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation",
+      "notes": "Job BLAD-2200-20260725-FF48EE13 item BLAD-2200-20260725-FF48EE13-P04; draw 42257 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Global-Commander-and-Local-Operative-A-Dual",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.18941",
+        "https://arxiv.org/html/2602.18941",
+        "https://arxiv.org/pdf/2602.18941",
+        "https://doi.org/10.48550/arXiv.2602.18941"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
