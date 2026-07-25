@@ -1253,3 +1253,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions* | Ning, Junzhi; Tang, Cheng; Zhou, Kaijing; Song, Diping; Liu, Lihao; Hu, Ming; Li, Wei; Xu, Huihui; Su, Yanzhou; Li, Tianbin; Liu, Jiyao; Ye, Jin; Zhang, Sheng; Ji, Yuanfeng; He, Junjun | [arXiv:2505.12887](https://arxiv.org/abs/2505.12887) - [DOI](https://doi.org/10.48550/arXiv.2505.12887) |
+
+
+## [DEP-E-20260725-B ezier curves that are](../DEP-E-20260725-B%20ezier%20curves%20that%20are/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *B\'ezier curves that are close to elastica* | Brander, David; Bærentzen, J. Andreas; Fisker, Ann-Sofie; Gravesen, Jens | [arXiv:1710.09192](https://arxiv.org/abs/1710.09192) - [DOI](https://doi.org/10.48550/arXiv.1710.09192) |
