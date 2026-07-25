@@ -1164,3 +1164,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners* | Shi, Jingyi; Chen, Yufeng; Xiao, Yang; Li, Yuekang; Xu, Zhengzi; Qiu, Sihao; Zhang, Chi; Qi, Keyu; Li, Yeting; Chen, Xingchu; Zou, Yanyan; Liu, Yang; Huo, Wei | [arXiv:2511.01180](https://arxiv.org/abs/2511.01180) - [DOI](https://doi.org/10.48550/arXiv.2511.01180) |
+
+
+## [DEP-E-20260725-Dental Lung MR](../DEP-E-20260725-Dental%20Lung%20MR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dissecting the Dental Lung Cancer Axis via Mendelian Randomization and Mediation Analysis* | Zhang, Wenran; Luo, Huihuan; Wei, Linda; Nie, Ping; Wu, Yiqun; Yu, Dedong | [arXiv:2507.18287v1](https://arxiv.org/abs/2507.18287v1) - [DOI](https://doi.org/10.1109/BIBM66473.2025.11357049) |
