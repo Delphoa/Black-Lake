@@ -3139,3 +3139,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models* | Kexin Ma; Jing Xiao; Chaofeng Chen; Geyong Min; Guibo Zhu; Jinqiao Wang; Liang Liao | [arXiv:2604.11240v1](https://arxiv.org/abs/2604.11240v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11240) |
+
+
+## [DEP-A-20260725-TriStage VLA Prune](../DEP-A-20260725-TriStage%20VLA%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.09244-whitepaper-review.md`](../DEP-A-20260725-TriStage%20VLA%20Prune/2604.09244-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness* | Zihao Zheng; Sicheng Tian; Zhihao Mao; Lingyue Zhang; Chenyue Li; Ziyun Zhang; Hong Gao; Yuchen Huang; Yutong Xu; Guojie Luo; Xiang Chen | [arXiv:2604.09244v2](https://arxiv.org/abs/2604.09244v2) - [DOI](https://doi.org/10.48550/arXiv.2604.09244) |
+
+
+## [DEP-A-20260725-DSTP Shift Recovery](../DEP-A-20260725-DSTP%20Shift%20Recovery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.12358-whitepaper-review.md`](../DEP-A-20260725-DSTP%20Shift%20Recovery/2604.12358-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding* | Jiwan Kim; Kibum Kim; Wonjoong Kim; Byung-Kwan Lee; Chanyoung Park | [arXiv:2604.12358v2](https://arxiv.org/abs/2604.12358v2) - [DOI](https://doi.org/10.48550/arXiv.2604.12358) |
+
+
+## [DEP-A-20260725-Pruning Calibration](../DEP-A-20260725-Pruning%20Calibration/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.12035-whitepaper-review.md`](../DEP-A-20260725-Pruning%20Calibration/2604.12035-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs* | Kaizhen Tan | [arXiv:2604.12035v1](https://arxiv.org/abs/2604.12035v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12035) |
+
+
+## [DEP-A-20260725-IWP Dual Form](../DEP-A-20260725-IWP%20Dual%20Form/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.00757-whitepaper-review.md`](../DEP-A-20260725-IWP%20Dual%20Form/2604.00757-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models* | Dong-Jae Lee; Sunghyun Baek; Junmo Kim | [arXiv:2604.00757v2](https://arxiv.org/abs/2604.00757v2) - [DOI](https://doi.org/10.48550/arXiv.2604.00757) |
+
+
+## [DEP-A-20260725-HieraVid Hierarchy](../DEP-A-20260725-HieraVid%20Hierarchy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.01881-whitepaper-review.md`](../DEP-A-20260725-HieraVid%20Hierarchy/2604.01881-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models* | Yansong Guo; Chaoyang Zhu; Jiayi Ji; Jianghang Lin; Liujuan Cao | [arXiv:2604.01881v1](https://arxiv.org/abs/2604.01881v1) - [DOI](https://doi.org/10.48550/arXiv.2604.01881) |
