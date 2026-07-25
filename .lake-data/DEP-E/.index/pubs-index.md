@@ -1225,3 +1225,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multimodal Cyber-physical Interaction in XR: Hybrid Doctoral Thesis Defense* | Alhilal, Ahmad; Lam, Kit Yung; Lee, Lik-Hang; Wang, Xuetong; Li, Sijia; Siekkinen, Matti; Braud, Tristan; Hui, Pan | [arXiv:2603.15392](https://arxiv.org/abs/2603.15392) - [DOI](https://doi.org/10.48550/arXiv.2603.15392) |
+
+
+## [DEP-E-20260725-Fast Safety Assessment](../DEP-E-20260725-Fast%20Safety%20Assessment/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast Safety Assessment and Correction Framework for Maintenance Work Zones* | Xu, Zhepu; Yang, Qun | [arXiv:1911.01179](https://arxiv.org/abs/1911.01179) - [DOI](https://doi.org/10.48550/arXiv.1911.01179) |
