@@ -1232,3 +1232,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast Safety Assessment and Correction Framework for Maintenance Work Zones* | Xu, Zhepu; Yang, Qun | [arXiv:1911.01179](https://arxiv.org/abs/1911.01179) - [DOI](https://doi.org/10.48550/arXiv.1911.01179) |
+
+
+## [DEP-E-20260725-Improved Counting and](../DEP-E-20260725-Improved%20Counting%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improved Counting and Localization from Density Maps for Object Detection in 2D and 3D Microscopy Imaging* | Li, Shijie; Ach, Thomas; Gerig, Guido | [arXiv:2203.15691](https://arxiv.org/abs/2203.15691) - [DOI](https://doi.org/10.48550/arXiv.2203.15691) |
