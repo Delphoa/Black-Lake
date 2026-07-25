@@ -1246,3 +1246,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning* | Liu, Lihui | [arXiv:2512.17912](https://arxiv.org/abs/2512.17912) - [DOI](https://doi.org/10.48550/arXiv.2512.17912) |
+
+
+## [DEP-E-20260725-RetinaLogos Fine-Grained](../DEP-E-20260725-RetinaLogos%20Fine-Grained/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions* | Ning, Junzhi; Tang, Cheng; Zhou, Kaijing; Song, Diping; Liu, Lihao; Hu, Ming; Li, Wei; Xu, Huihui; Su, Yanzhou; Li, Tianbin; Liu, Jiyao; Ye, Jin; Zhang, Sheng; Ji, Yuanfeng; He, Junjun | [arXiv:2505.12887](https://arxiv.org/abs/2505.12887) - [DOI](https://doi.org/10.48550/arXiv.2505.12887) |
