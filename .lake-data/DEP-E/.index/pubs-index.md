@@ -1177,3 +1177,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dissecting the Dental Lung Cancer Axis via Mendelian Randomization and Mediation Analysis* | Zhang, Wenran; Luo, Huihuan; Wei, Linda; Nie, Ping; Wu, Yiqun; Yu, Dedong | [arXiv:2507.18287v1](https://arxiv.org/abs/2507.18287v1) - [DOI](https://doi.org/10.1109/BIBM66473.2025.11357049) |
+
+
+## [DEP-E-20260725-Willmore Loop Groups](../DEP-E-20260725-Willmore%20Loop%20Groups/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Willmore surfaces in spheres via loop groups I: generic cases and some examples* | Dorfmeister, Josef F.; Wang, Peng | [arXiv:1301.2756v4](https://arxiv.org/abs/1301.2756) - [DOI](https://doi.org/10.48550/arXiv.1301.2756) |
