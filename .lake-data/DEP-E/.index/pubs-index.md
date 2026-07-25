@@ -1197,3 +1197,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark* | Zhu, Xi; Cao, Xiya; Dong, Zhiwei; Zhou, Caifa; Liu, Qiangbo; Li, Wei; Wang, Yongliang | [arXiv:2306.04540](https://arxiv.org/abs/2306.04540) - [DOI](https://doi.org/10.48550/arXiv.2306.04540) |
+
+
+## [DEP-E-20260725-Removal then Selection A](../DEP-E-20260725-Removal%20then%20Selection%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection* | Zhao, Tianyi; Yuan, Maoxun; Jiang, Feng; Wang, Nan; Wei, Xingxing | [arXiv:2401.10731](https://arxiv.org/abs/2401.10731) - [DOI](https://doi.org/10.1109/TITS.2025.3638627) |
