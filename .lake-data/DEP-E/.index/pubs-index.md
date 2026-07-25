@@ -1239,3 +1239,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improved Counting and Localization from Density Maps for Object Detection in 2D and 3D Microscopy Imaging* | Li, Shijie; Ach, Thomas; Gerig, Guido | [arXiv:2203.15691](https://arxiv.org/abs/2203.15691) - [DOI](https://doi.org/10.48550/arXiv.2203.15691) |
+
+
+## [DEP-E-20260725-Graph-O1 Monte Carlo Tree](../DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning* | Liu, Lihui | [arXiv:2512.17912](https://arxiv.org/abs/2512.17912) - [DOI](https://doi.org/10.48550/arXiv.2512.17912) |
