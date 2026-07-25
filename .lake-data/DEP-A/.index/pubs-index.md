@@ -3094,3 +3094,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Attention Scores: SVD-Based Vision Token Pruning for Efficient Vision-Language Models* | Yvon Apedo; Martyna Poreba; Michal Szczepanski; Samia Bouchafa | [arXiv:2604.11530v3](https://arxiv.org/abs/2604.11530v3) - [DOI](https://doi.org/10.48550/arXiv.2604.11530) |
+
+
+## [DEP-A-20260725-Renyi Token Metric](../DEP-A-20260725-Renyi%20Token%20Metric/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.27900-whitepaper-review.md`](../DEP-A-20260725-Renyi%20Token%20Metric/2603.27900-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RÃ©nyi Entropy: A New Token Pruning Metric for Vision Transformers* | Wei-Yuan Su; Ruijie Zhang; Zheng Zhang | [arXiv:2603.27900v1](https://arxiv.org/abs/2603.27900v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27900) |
+
+
+## [DEP-A-20260725-SeGPruner 3D QA](../DEP-A-20260725-SeGPruner%203D%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.29437-whitepaper-review.md`](../DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering* | Wenli Li; Kai Zhao; Haoran Jiang; Enquan Yang; Yi Su; Dan Zeng | [arXiv:2603.29437v1](https://arxiv.org/abs/2603.29437v1) - [DOI](https://doi.org/10.48550/arXiv.2603.29437) |
+
+
+## [DEP-A-20260725-VLA-IAP Interaction](../DEP-A-20260725-VLA-IAP%20Interaction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.22991-whitepaper-review.md`](../DEP-A-20260725-VLA-IAP%20Interaction/2603.22991-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models* | Jintao Cheng; Haozhe Wang; Weibin Li; Gang Wang; Yipu Zhang; Xiaoyu Tang; Jin Wu; Xieyuanli Chen; Yunhui Liu; Wei Zhang | [arXiv:2603.22991v1](https://arxiv.org/abs/2603.22991v1) - [DOI](https://doi.org/10.48550/arXiv.2603.22991) |
+
+
+## [DEP-A-20260725-Privacy Token Prune](../DEP-A-20260725-Privacy%20Token%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2603.26336-whitepaper-review.md`](../DEP-A-20260725-Privacy%20Token%20Prune/2603.26336-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition* | Nazia Aslam; Abhisek Ray; Joakim Bruslund Haurum; Lukas Esterle; Kamal Nasrollahi | [arXiv:2603.26336v1](https://arxiv.org/abs/2603.26336v1) - [DOI](https://doi.org/10.48550/arXiv.2603.26336) |
+
+
+## [DEP-A-20260725-DeSAP Task Pruning](../DEP-A-20260725-DeSAP%20Task%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-25. The owning review artifact is [`2604.11240-whitepaper-review.md`](../DEP-A-20260725-DeSAP%20Task%20Pruning/2604.11240-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models* | Kexin Ma; Jing Xiao; Chaofeng Chen; Geyong Min; Guibo Zhu; Jinqiao Wang; Liang Liao | [arXiv:2604.11240v1](https://arxiv.org/abs/2604.11240v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11240) |
