@@ -1218,3 +1218,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation* | Jin, Kaiming; Wu, Yuefan; Wu, Shengqiong; Li, Bobo; Yan, Shuicheng; Chua, Tat-Seng | [arXiv:2602.18941](https://arxiv.org/abs/2602.18941) - [DOI](https://doi.org/10.48550/arXiv.2602.18941) |
+
+
+## [DEP-E-20260725-Multimodal Cyber-physical](../DEP-E-20260725-Multimodal%20Cyber-physical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Cyber-physical Interaction in XR: Hybrid Doctoral Thesis Defense* | Alhilal, Ahmad; Lam, Kit Yung; Lee, Lik-Hang; Wang, Xuetong; Li, Sijia; Siekkinen, Matti; Braud, Tristan; Hui, Pan | [arXiv:2603.15392](https://arxiv.org/abs/2603.15392) - [DOI](https://doi.org/10.48550/arXiv.2603.15392) |
