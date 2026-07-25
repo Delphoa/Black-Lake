@@ -1204,3 +1204,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection* | Zhao, Tianyi; Yuan, Maoxun; Jiang, Feng; Wang, Nan; Wei, Xingxing | [arXiv:2401.10731](https://arxiv.org/abs/2401.10731) - [DOI](https://doi.org/10.1109/TITS.2025.3638627) |
+
+
+## [DEP-E-20260725-CLCI-Net Cross-Level](../DEP-E-20260725-CLCI-Net%20Cross-Level/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke* | Yang, Hao; Huang, Weijian; Qi, Kehan; Li, Cheng; Liu, Xinfeng; Wang, Meiyun; Zheng, Hairong; Wang, Shanshan | [arXiv:1907.07008](https://arxiv.org/abs/1907.07008) - [DOI](https://doi.org/10.1007/978-3-030-32248-9_30) |
