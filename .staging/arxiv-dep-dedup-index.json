@@ -1816,7 +1816,7 @@
       ],
       "arxiv_base_id": "2601.09088",
       "arxiv_id": "2601.09088",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/910088dc5a1c12dc992956c081fc3ae194e0cee5",
       "deposit_date": "20260725",
       "doi": "10.48550/arXiv.2601.09088",
       "normalized_title": "Distribution-Aligned Sequence Distillation for Superior Long-CoT Reasoning",
