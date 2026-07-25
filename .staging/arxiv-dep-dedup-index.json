@@ -1550,98 +1550,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception",
-        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/README.md",
-        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md",
-        ".logs/20260724-Arxiv-OE-BevSeg-Perception-LOG.md",
-        ".logs/20260724-Arxiv-OE-BevSeg-Perception-PHASE-LOG.md",
-        ".reports/BL-Arxiv-OE-BevSeg-Perception-20260724/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of",
+        ".logs/20260724-Arxiv-A-Large-Scale-Study-of-AI-based-LOG.md",
+        ".reports/BL-Arxiv-A-Large-Scale-Study-of-AI-based-20260724/Report-Mark.md"
       ],
-      "arxiv_base_id": "2407.13137",
-      "arxiv_id": "2407.13137v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c99d9a83c52d5814074682cf217182eaace34401",
-      "deposit_date": "20260724",
-      "doi": "10.1109/TITS.2025.3558146",
-      "normalized_title": "OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation",
-      "notes": "Uniform draw index 20731 of 75777 units; first draw accepted; duplicate exclusions and reselections zero; partial source repaired to verified complete; cache miss became cached; comparison, efficiency, calibration, split, and release gaps preserved; primary artifact commit remotely verified; Slack delivery confirmed; all source files withheld locally.",
-      "slug": "OE-BevSeg-Perception",
-      "source_urls": [
-        "https://arxiv.org/abs/2407.13137",
-        "https://arxiv.org/e-print/2407.13137",
-        "https://arxiv.org/html/2407.13137",
-        "https://arxiv.org/pdf/2407.13137",
-        "https://doi.org/10.1109/TITS.2025.3558146",
-        "https://github.com/SunJ1025/OE-BevSeg/commit/ccd4a0876899ad993bee769692330181d5f66503",
-        "https://ieeexplore.ieee.org/document/10964637"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-OpenOneRec Technical",
-        ".logs/20260724-Arxiv-OpenOneRec-Technical-Report-LOG.md",
-        ".reports/BL-Arxiv-OpenOneRec-Technical-Report-20260724/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2512.24762",
-      "arxiv_id": "2512.24762",
+      "arxiv_base_id": "2511.01180",
+      "arxiv_id": "2511.01180",
       "commit_or_pr": "",
       "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2512.24762",
-      "normalized_title": "OpenOneRec Technical Report",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P01; draw 62762 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "OpenOneRec-Technical-Report",
+      "doi": "10.48550/arXiv.2511.01180",
+      "normalized_title": "A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P10; draw 55632 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Large-Scale-Study-of-AI-based",
       "source_urls": [
-        "https://arxiv.org/abs/2512.24762",
-        "https://arxiv.org/html/2512.24762v1",
-        "https://arxiv.org/pdf/2512.24762",
-        "https://doi.org/10.48550/arXiv.2512.24762"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing",
-        ".logs/20260724-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-LOG.md",
-        ".reports/BL-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-20260724/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2503.02240",
-      "arxiv_id": "2503.02240",
-      "commit_or_pr": "",
-      "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2503.02240",
-      "normalized_title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P02; draw 63249 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "OmniSQL-Synthesizing-High-quality-Text-to-SQL",
-      "source_urls": [
-        "https://arxiv.org/abs/2503.02240",
-        "https://arxiv.org/html/2503.02240",
-        "https://arxiv.org/pdf/2503.02240",
-        "https://doi.org/10.48550/arXiv.2503.02240"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes",
-        ".logs/20260724-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-LOG.md",
-        ".reports/BL-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-20260724/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2306.11290",
-      "arxiv_id": "2306.11290",
-      "commit_or_pr": "",
-      "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2306.11290",
-      "normalized_title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P03; draw 16587 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Habitat-Synthetic-Scenes-Dataset-HSSD-200-An",
-      "source_urls": [
-        "https://arxiv.org/abs/2306.11290",
-        "https://arxiv.org/html/2306.11290v1",
-        "https://arxiv.org/pdf/2306.11290",
-        "https://doi.org/10.48550/arXiv.2306.11290"
+        "https://arxiv.org/abs/2511.01180",
+        "https://arxiv.org/html/2511.01180",
+        "https://arxiv.org/pdf/2511.01180",
+        "https://doi.org/10.48550/arXiv.2511.01180"
       ],
       "status": "deposited"
     },
@@ -1671,23 +1596,46 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing",
-        ".logs/20260724-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-LOG.md",
-        ".reports/BL-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-20260724/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity",
+        ".logs/20260724-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-LOG.md",
+        ".reports/BL-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-20260724/Report-Mark.md"
       ],
-      "arxiv_base_id": "2411.05451",
-      "arxiv_id": "2411.05451",
+      "arxiv_base_id": "2407.08659",
+      "arxiv_id": "2407.08659",
       "commit_or_pr": "",
       "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2411.05451",
-      "normalized_title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P05; draw 51623 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "WorkflowLLM-Enhancing-Workflow-Orchestration",
+      "doi": "10.48550/arXiv.2407.08659",
+      "normalized_title": "Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P08; draw 33224 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Controlling-the-Fidelity-and-Diversity-of-Deep",
       "source_urls": [
-        "https://arxiv.org/abs/2411.05451",
-        "https://arxiv.org/html/2411.05451",
-        "https://arxiv.org/pdf/2411.05451",
-        "https://doi.org/10.48550/arXiv.2411.05451"
+        "https://arxiv.org/abs/2407.08659",
+        "https://arxiv.org/html/2407.08659",
+        "https://arxiv.org/pdf/2407.08659",
+        "https://doi.org/10.48550/arXiv.2407.08659"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes",
+        ".logs/20260724-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-LOG.md",
+        ".reports/BL-Arxiv-Habitat-Synthetic-Scenes-Dataset-HSSD-200-An-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.11290",
+      "arxiv_id": "2306.11290",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2306.11290",
+      "normalized_title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P03; draw 16587 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Habitat-Synthetic-Scenes-Dataset-HSSD-200-An",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.11290",
+        "https://arxiv.org/html/2306.11290v1",
+        "https://arxiv.org/pdf/2306.11290",
+        "https://doi.org/10.48550/arXiv.2306.11290"
       ],
       "status": "deposited"
     },
@@ -1717,52 +1665,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-Visible-Thermal Tiny",
-        ".logs/20260724-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-LOG.md",
-        ".reports/BL-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-20260724/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2406.14482",
-      "arxiv_id": "2406.14482",
-      "commit_or_pr": "",
-      "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2406.14482",
-      "normalized_title": "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P07; draw 59192 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Visible-Thermal-Tiny-Object-Detection-A",
-      "source_urls": [
-        "https://arxiv.org/abs/2406.14482",
-        "https://arxiv.org/html/2406.14482",
-        "https://arxiv.org/pdf/2406.14482",
-        "https://doi.org/10.48550/arXiv.2406.14482"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity",
-        ".logs/20260724-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-LOG.md",
-        ".reports/BL-Arxiv-Controlling-the-Fidelity-and-Diversity-of-Deep-20260724/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2407.08659",
-      "arxiv_id": "2407.08659",
-      "commit_or_pr": "",
-      "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2407.08659",
-      "normalized_title": "Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P08; draw 33224 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Controlling-the-Fidelity-and-Diversity-of-Deep",
-      "source_urls": [
-        "https://arxiv.org/abs/2407.08659",
-        "https://arxiv.org/html/2407.08659",
-        "https://arxiv.org/pdf/2407.08659",
-        "https://doi.org/10.48550/arXiv.2407.08659"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260724-MOSS Enabling Code-Driven",
         ".logs/20260724-Arxiv-MOSS-Enabling-Code-Driven-Evolution-and-Context-LOG.md",
         ".reports/BL-Arxiv-MOSS-Enabling-Code-Driven-Evolution-and-Context-20260724/Report-Mark.md"
@@ -1786,23 +1688,145 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of",
-        ".logs/20260724-Arxiv-A-Large-Scale-Study-of-AI-based-LOG.md",
-        ".reports/BL-Arxiv-A-Large-Scale-Study-of-AI-based-20260724/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception",
+        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/README.md",
+        ".lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md",
+        ".logs/20260724-Arxiv-OE-BevSeg-Perception-LOG.md",
+        ".logs/20260724-Arxiv-OE-BevSeg-Perception-PHASE-LOG.md",
+        ".reports/BL-Arxiv-OE-BevSeg-Perception-20260724/Report-Mark.md"
       ],
-      "arxiv_base_id": "2511.01180",
-      "arxiv_id": "2511.01180",
+      "arxiv_base_id": "2407.13137",
+      "arxiv_id": "2407.13137v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/c99d9a83c52d5814074682cf217182eaace34401",
+      "deposit_date": "20260724",
+      "doi": "10.1109/TITS.2025.3558146",
+      "normalized_title": "OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation",
+      "notes": "Uniform draw index 20731 of 75777 units; first draw accepted; duplicate exclusions and reselections zero; partial source repaired to verified complete; cache miss became cached; comparison, efficiency, calibration, split, and release gaps preserved; primary artifact commit remotely verified; Slack delivery confirmed; all source files withheld locally.",
+      "slug": "OE-BevSeg-Perception",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.13137",
+        "https://arxiv.org/e-print/2407.13137",
+        "https://arxiv.org/html/2407.13137",
+        "https://arxiv.org/pdf/2407.13137",
+        "https://doi.org/10.1109/TITS.2025.3558146",
+        "https://github.com/SunJ1025/OE-BevSeg/commit/ccd4a0876899ad993bee769692330181d5f66503",
+        "https://ieeexplore.ieee.org/document/10964637"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing",
+        ".logs/20260724-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-LOG.md",
+        ".reports/BL-Arxiv-OmniSQL-Synthesizing-High-quality-Text-to-SQL-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.02240",
+      "arxiv_id": "2503.02240",
       "commit_or_pr": "",
       "deposit_date": "20260724",
-      "doi": "10.48550/arXiv.2511.01180",
-      "normalized_title": "A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners",
-      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P10; draw 55632 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-Large-Scale-Study-of-AI-based",
+      "doi": "10.48550/arXiv.2503.02240",
+      "normalized_title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P02; draw 63249 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "OmniSQL-Synthesizing-High-quality-Text-to-SQL",
       "source_urls": [
-        "https://arxiv.org/abs/2511.01180",
-        "https://arxiv.org/html/2511.01180",
-        "https://arxiv.org/pdf/2511.01180",
-        "https://doi.org/10.48550/arXiv.2511.01180"
+        "https://arxiv.org/abs/2503.02240",
+        "https://arxiv.org/html/2503.02240",
+        "https://arxiv.org/pdf/2503.02240",
+        "https://doi.org/10.48550/arXiv.2503.02240"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-OpenOneRec Technical",
+        ".logs/20260724-Arxiv-OpenOneRec-Technical-Report-LOG.md",
+        ".reports/BL-Arxiv-OpenOneRec-Technical-Report-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.24762",
+      "arxiv_id": "2512.24762",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2512.24762",
+      "normalized_title": "OpenOneRec Technical Report",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P01; draw 62762 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "OpenOneRec-Technical-Report",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.24762",
+        "https://arxiv.org/html/2512.24762v1",
+        "https://arxiv.org/pdf/2512.24762",
+        "https://doi.org/10.48550/arXiv.2512.24762"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-Visible-Thermal Tiny",
+        ".logs/20260724-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-LOG.md",
+        ".reports/BL-Arxiv-Visible-Thermal-Tiny-Object-Detection-A-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.14482",
+      "arxiv_id": "2406.14482",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2406.14482",
+      "normalized_title": "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P07; draw 59192 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Visible-Thermal-Tiny-Object-Detection-A",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.14482",
+        "https://arxiv.org/html/2406.14482",
+        "https://arxiv.org/pdf/2406.14482",
+        "https://doi.org/10.48550/arXiv.2406.14482"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing",
+        ".logs/20260724-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-LOG.md",
+        ".reports/BL-Arxiv-WorkflowLLM-Enhancing-Workflow-Orchestration-20260724/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.05451",
+      "arxiv_id": "2411.05451",
+      "commit_or_pr": "",
+      "deposit_date": "20260724",
+      "doi": "10.48550/arXiv.2411.05451",
+      "normalized_title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+      "notes": "Job BLAD-2200-20260724-CF53BCCB item BLAD-2200-20260724-CF53BCCB-P05; draw 51623 of 75777 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "WorkflowLLM-Enhancing-Workflow-Orchestration",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.05451",
+        "https://arxiv.org/html/2411.05451",
+        "https://arxiv.org/pdf/2411.05451",
+        "https://doi.org/10.48550/arXiv.2411.05451"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260725-DASD Reasoning",
+        ".logs/20260725-Arxiv-DASD-Reasoning-LOG.md",
+        ".logs/20260725-Arxiv-DASD-Reasoning-PHASE-LOG.md",
+        ".reports/BL-Arxiv-DASD-Reasoning-20260725/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.09088",
+      "arxiv_id": "2601.09088",
+      "commit_or_pr": "",
+      "deposit_date": "20260725",
+      "doi": "10.48550/arXiv.2601.09088",
+      "normalized_title": "Distribution-Aligned Sequence Distillation for Superior Long-CoT Reasoning",
+      "notes": "Uniform draw 56517 of 75777 parent-paper units; duplicate exclusions 0; reselections 0; complete-source gate passed after local repair; all source files withheld locally.",
+      "slug": "DASD-Reasoning",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.09088",
+        "https://arxiv.org/html/2601.09088",
+        "https://arxiv.org/pdf/2601.09088",
+        "https://doi.org/10.48550/arXiv.2601.09088"
       ],
       "status": "deposited"
     }
@@ -2575,5 +2599,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-24"
+  "updated_date": "2026-07-25"
 }
