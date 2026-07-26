@@ -1331,3 +1331,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM* | Wu, Penghao; Lu, Lewei; Liu, Ziwei | [arXiv:2505.15816](https://arxiv.org/abs/2505.15816) - [DOI](https://doi.org/10.48550/arXiv.2505.15816) |
+
+
+## [DEP-E-20260726-WebUIBench A](../DEP-E-20260726-WebUIBench%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code* | Lin, Zhiyu; Zhou, Zhengda; Zhao, Zhiyuan; Wan, Tianrui; Ma, Yilun; Gao, Junyu; Li, Xuelong | [arXiv:2506.07818](https://arxiv.org/abs/2506.07818) - [DOI](https://doi.org/10.48550/arXiv.2506.07818) |
