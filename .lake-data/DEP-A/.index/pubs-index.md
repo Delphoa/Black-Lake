@@ -3319,3 +3319,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs* | Illia Makarov; Mykola Glybovets | [arXiv:2606.30133v1](https://arxiv.org/abs/2606.30133v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30133) |
+
+
+## [DEP-A-20260726-SAE Concept Retrieval](../DEP-A-20260726-SAE%20Concept%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.00023-whitepaper-review.md`](../DEP-A-20260726-SAE%20Concept%20Retrieval/2607.00023-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aligning Sentence Embeddings to Human Concepts via Sparse Autoencoders* | Wonseok Shin; Songkuk Kim | [arXiv:2607.00023v1](https://arxiv.org/abs/2607.00023v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00023) |
+
+
+## [DEP-A-20260726-SemFlowRAG Gradient](../DEP-A-20260726-SemFlowRAG%20Gradient/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.28447-whitepaper-review.md`](../DEP-A-20260726-SemFlowRAG%20Gradient/2606.28447-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SemFlowRAG: Directed Semantic Flow from Abstraction to Evidence for Complex Reasoning* | Houyuan Qin; Rong Wu; Qinyuan Qin; Botian Shi; Jingjing Qu; Yang Sun; Pinlong Cai | [arXiv:2606.28447v1](https://arxiv.org/abs/2606.28447v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28447) |
+
+
+## [DEP-A-20260726-SCD Semantic Cache](../DEP-A-20260726-SCD%20Semantic%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.07684-whitepaper-review.md`](../DEP-A-20260726-SCD%20Semantic%20Cache/2606.07684-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching* | Qianli Ma; Zhiqing Tang; Hanshuai Cui; Zhi Yao; Weijia Jia | [arXiv:2606.07684v1](https://arxiv.org/abs/2606.07684v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07684) |
+
+
+## [DEP-A-20260726-MCompassRAG Topics](../DEP-A-20260726-MCompassRAG%20Topics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.18508-whitepaper-review.md`](../DEP-A-20260726-MCompassRAG%20Topics/2606.18508-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval* | Amirhossein Abaskohi; Raymond Li; Gaetano Cimino; Peter West; Giuseppe Carenini; Issam H. Laradji | [arXiv:2606.18508v1](https://arxiv.org/abs/2606.18508v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18508) |
+
+
+## [DEP-A-20260726-MAM AI Offline Care](../DEP-A-20260726-MAM%20AI%20Offline%20Care/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.29580-whitepaper-review.md`](../DEP-A-20260726-MAM%20AI%20Offline%20Care/2606.29580-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAM-AI: An On-Device Medical Retrieval-Augmented Generation System for Nurses and Midwives in Zanzibar* | Yi Ren | [arXiv:2606.29580v3](https://arxiv.org/abs/2606.29580v3) - [DOI](https://doi.org/10.48550/arXiv.2606.29580) |
