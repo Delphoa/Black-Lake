@@ -3634,3 +3634,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory* | Minghao Guo; Qingyue Jiao; Zeru Shi; Yihao Quan; Boxuan Zhang; Danrui Li; Liwei Che; Wujiang Xu; Shilong Liu; Zirui Liu; Mubbasir Kapadia; Vladimir Pavlovic; Jiang Liu; Mengdi Wang; Yiyu Shi; Dimitris N. Metaxas; Ruixiang Tang | [arXiv:2605.15128v1](https://arxiv.org/abs/2605.15128v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15128) |
+
+
+## [DEP-A-20260727-MedMemoryBench](../DEP-A-20260727-MedMemoryBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.11814-whitepaper-review.md`](../DEP-A-20260727-MedMemoryBench/2605.11814-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare* | Yihao Wang; Haoran Xu; Renjie Gu; Yixuan Ye; Xinyi Chen; Xinyu Mu; Yuan Gao; Chunxiao Guo; Peng Wei; Jinjie Gu; Huan Li; Ke Chen; Lidan Shou | [arXiv:2605.11814v1](https://arxiv.org/abs/2605.11814v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11814) |
+
+
+## [DEP-A-20260727-MemLineage Security](../DEP-A-20260727-MemLineage%20Security/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.14421-whitepaper-review.md`](../DEP-A-20260727-MemLineage%20Security/2605.14421-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemLineage: Lineage-Guided Enforcement for LLM Agent Memory* | Ciyan Ouyang; Rui Hou | [arXiv:2605.14421v1](https://arxiv.org/abs/2605.14421v1) - [DOI](https://doi.org/10.48550/arXiv.2605.14421) |
+
+
+## [DEP-A-20260727-DimMem Structure](../DEP-A-20260727-DimMem%20Structure/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.15759-whitepaper-review.md`](../DEP-A-20260727-DimMem%20Structure/2605.15759-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory* | Wentao Qiu; Haotian Hu; Fanyi Wang; Jinwei Kong; Yu Zhang | [arXiv:2605.15759v3](https://arxiv.org/abs/2605.15759v3) - [DOI](https://doi.org/10.48550/arXiv.2605.15759) |
+
+
+## [DEP-A-20260727-Auto Dreamer Memory](../DEP-A-20260727-Auto%20Dreamer%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.20616-whitepaper-review.md`](../DEP-A-20260727-Auto%20Dreamer%20Memory/2605.20616-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents* | Chongrui Ye; Yuxiang Liu; Yu Wang; Haofei Yu; Yining Zhao; Ge Liu; Julian McAuley; Jiaxuan You | [arXiv:2605.20616v1](https://arxiv.org/abs/2605.20616v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20616) |
+
+
+## [DEP-A-20260727-Scale Conditioned Mem](../DEP-A-20260727-Scale%20Conditioned%20Mem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.07313-whitepaper-review.md`](../DEP-A-20260727-Scale%20Conditioned%20Mem/2605.07313-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory* | Jiaqi Shao; Yiyi Lu; Yunzhen Zhang; Bing Luo | [arXiv:2605.07313v1](https://arxiv.org/abs/2605.07313v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07313) |
