@@ -1310,3 +1310,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context* | Shi, Junyu; Sun, Yong; Zhang, Zhiyuan; Liu, Lijiang; Zhang, Zhengjie; He, Yuxin; Nie, Qiang | [arXiv:2510.02722](https://arxiv.org/abs/2510.02722) - [DOI](https://doi.org/10.48550/arXiv.2510.02722) |
+
+
+## [DEP-E-20260726-See Plan Rewind](../DEP-E-20260726-See%20Plan%20Rewind/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation* | Dai, Tingjun; Han, Mingfei; Du, Tingwen; Liu, Zhiheng; Zhang, Zihao; Li, Zhihui; Khan, Salman; Yu, Jun; Chang, Xiaojun | [arXiv:2603.09292](https://arxiv.org/abs/2603.09292) - [DOI](https://doi.org/10.48550/arXiv.2603.09292) |
