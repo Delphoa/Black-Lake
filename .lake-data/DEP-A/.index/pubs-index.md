@@ -3409,3 +3409,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference* | Junjie Li; Jiong Lou; Jie Li | [arXiv:2606.09916v1](https://arxiv.org/abs/2606.09916v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09916) |
+
+
+## [DEP-A-20260726-FCGraft Code Policy](../DEP-A-20260726-FCGraft%20Code%20Policy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.13097-whitepaper-review.md`](../DEP-A-20260726-FCGraft%20Code%20Policy/2606.13097-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents* | Saehun Chun; Wonje Choi; Sera Choi; Sanghyun Ahn; Honguk Woo | [arXiv:2606.13097v1](https://arxiv.org/abs/2606.13097v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13097) |
+
+
+## [DEP-A-20260726-Prompt to Paper Bio](../DEP-A-20260726-Prompt%20to%20Paper%20Bio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.05456-whitepaper-review.md`](../DEP-A-20260726-Prompt%20to%20Paper%20Bio/2607.05456-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt-to-Paper: Agentic AI System for Bioinformatics* | Kamran, Ramsha; Amjad, Maheera; Mustansar, Zartasha; Shaukat, Arsalan; Sherbaz, Salma; Khan, Muhammad U. S. | [arXiv:2607.05456v1](https://arxiv.org/abs/2607.05456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05456) |
+
+
+## [DEP-A-20260726-Retail Behavior Twin](../DEP-A-20260726-Retail%20Behavior%20Twin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.06993-whitepaper-review.md`](../DEP-A-20260726-Retail%20Behavior%20Twin/2607.06993-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large Behavior Model: A Promptable Digital Twin of the Retail Customer* | Modecrua, Wachiravit; Pachtrachai, Krittin; Kraisingkorn, Touchapon | [arXiv:2607.06993v2](https://arxiv.org/abs/2607.06993v2) - [DOI](https://doi.org/10.48550/arXiv.2607.06993) |
+
+
+## [DEP-A-20260726-MRMMIA Memory Attack](../DEP-A-20260726-MRMMIA%20Memory%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2605.27825-whitepaper-review.md`](../DEP-A-20260726-MRMMIA%20Memory%20Attack/2605.27825-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MRMMIA: Membership Inference Attacks on Memory in Chat Agents* | Chen, Kai; Pang, Yan; Wang, Tianhao | [arXiv:2605.27825v1](https://arxiv.org/abs/2605.27825v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27825) |
+
+
+## [DEP-A-20260726-MemReread Long Context](../DEP-A-20260726-MemReread%20Long%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2605.10268-whitepaper-review.md`](../DEP-A-20260726-MemReread%20Long%20Context/2605.10268-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading* | Ji, Baibei; Weng, Xiaoyang; Li, Juntao; Tang, Zecheng; Lou, Yihang; Zhang, Min | [arXiv:2605.10268v1](https://arxiv.org/abs/2605.10268v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10268) |
