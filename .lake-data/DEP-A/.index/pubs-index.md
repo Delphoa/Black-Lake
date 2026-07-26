@@ -3769,3 +3769,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast* | Igor Bogdanov; Chung-Horng Lung; Thomas Kunz; Jie Gao; Adrian Taylor; Marzia Zaman | [arXiv:2605.16233v1](https://arxiv.org/abs/2605.16233v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16233) |
+
+
+## [DEP-A-20260727-Preping Memory](../DEP-A-20260727-Preping%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.13880-whitepaper-review.md`](../DEP-A-20260727-Preping%20Memory/2605.13880-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PREPING: Building Agent Memory without Tasks* | Yumin Choi; Sangwoo Park; Minki Kang; Jinheon Baek; Sung Ju Hwang | [arXiv:2605.13880v1](https://arxiv.org/abs/2605.13880v1) - [DOI](https://doi.org/10.48550/arXiv.2605.13880) |
+
+
+## [DEP-A-20260727-Memory Experts Diffusion](../DEP-A-20260727-Memory%20Experts%20Diffusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.18813-whitepaper-review.md`](../DEP-A-20260727-Memory%20Experts%20Diffusion/2605.18813-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Composition of Memory Experts for Diffusion World Models* | Sebastian Stapf; Pablo Acuaviva Huertos; Aram Davtyan; Paolo Favaro | [arXiv:2605.18813v1](https://arxiv.org/abs/2605.18813v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18813) |
+
+
+## [DEP-A-20260727-MemGym Environment](../DEP-A-20260727-MemGym%20Environment/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.20833-whitepaper-review.md`](../DEP-A-20260727-MemGym%20Environment/2605.20833-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemGym: a Long-Horizon Memory Environment for LLM Agents* | Wujiang Xu; Yu Wang; Kai Mei; Kaiqu Liang; Zhenting Wang; Mingyu Jin; Han Zhang; Shi-Xiong Zhang; Wenyue Hua; Sambit Sahu; Dimitris N. Metaxas | [arXiv:2605.20833v1](https://arxiv.org/abs/2605.20833v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20833) |
+
+
+## [DEP-A-20260727-ElasticMem](../DEP-A-20260727-ElasticMem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.30690-whitepaper-review.md`](../DEP-A-20260727-ElasticMem/2605.30690-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ElasticMem: Latent Memory as a Learnable Resource for LLM Agents* | Tao Feng; Chongrui Ye; Tianyang Luo; Jingjun Xu; Xueqiang Xu; Haozhen Zhang; Ge Liu; Jiaxuan You | [arXiv:2605.30690v1](https://arxiv.org/abs/2605.30690v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30690) |
