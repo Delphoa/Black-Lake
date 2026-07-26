@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **291 publications across 178 DEP-E entries** (287 arXiv records and 4 other research publications).
+- Current coverage: **301 publications across 179 DEP-E entries** (297 arXiv records and 4 other research publications).
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-26; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260726-Constraint-Aware Systems](../DEP-E-20260726-Constraint-Aware%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass* | Victor Giannakouris; Immanuel Trummer | [arXiv:2607.07696v1](https://arxiv.org/abs/2607.07696); [DOI](https://doi.org/10.48550/arXiv.2607.07696) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops* | Mingguang Chen; Licheng Wang; Bo Qu | [arXiv:2607.07663v1](https://arxiv.org/abs/2607.07663); [DOI](https://doi.org/10.48550/arXiv.2607.07663) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *RL Post-Training Builds Compositional Reasoning Strategies* | Azwar Abdulsalam; Nishil Patel; Andrew Saxe | [arXiv:2607.07646v1](https://arxiv.org/abs/2607.07646); [DOI](https://doi.org/10.48550/arXiv.2607.07646) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Hephaestus: Toward a Cybersecurity AI Scientist* | Jiaqi Li; Yang Zhao; Wen Lu; Lvyang Zhang; Lidong Zhai | [arXiv:2606.29981v1](https://arxiv.org/abs/2606.29981); [DOI](https://doi.org/10.48550/arXiv.2606.29981) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security* | Md. Nahid Hasan; Md. Golam Rabiul Alam | [arXiv:2607.07635v2](https://arxiv.org/abs/2607.07635); [DOI](https://doi.org/10.48550/arXiv.2607.07635) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Modeling Failure Dynamics in Mobile Interaction: Identifying the Success Cliff in USSD Workflows* | Aklile Seyoum Mamo; Amanuel Kebede; Anny Christelle Irakoze; Jema Ndibwile | [arXiv:2607.07650v1](https://arxiv.org/abs/2607.07650); [DOI](https://doi.org/10.48550/arXiv.2607.07650) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Acoustic-phonon-driven spin-lattice relaxation of the negatively charged boron vacancy center in hexagonal boron nitride* | Priyo Adhikary; Pramey Upadhyaya | [arXiv:2607.07642v1](https://arxiv.org/abs/2607.07642); [DOI](https://doi.org/10.48550/arXiv.2607.07642) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *Quantum Convolutional Neural Network with Rough Path Signature Kernels* | Leonardo Nogueira Falabella; Vasily Sazonov | [arXiv:2607.07634v1](https://arxiv.org/abs/2607.07634); [DOI](https://doi.org/10.48550/arXiv.2607.07634) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation* | Xuan-Thong Truong; Trung-Kien Le; Tung Kieu; Thi-Thu Nguyen; Nhat-Hai Nguyen | [arXiv:2607.07640v1](https://arxiv.org/abs/2607.07640); [DOI](https://doi.org/10.48550/arXiv.2607.07640) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
+| *An optimal control approach for neural network architecture adaptation with a posteriori error estimation* | C. G. Krishnanunni; Thomas Scott; Tan Bui-Thanh | [arXiv:2607.07637v1](https://arxiv.org/abs/2607.07637); [DOI](https://doi.org/10.48550/arXiv.2607.07637) | [DEP-E](../DEP-E-20260726-Constraint-Aware%20Systems/README.md) |
 
 ## [DEP-E-20260726-Motivic Zeta](../DEP-E-20260726-Motivic%20Zeta/README.md)
 
