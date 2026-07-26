@@ -3274,3 +3274,183 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries* | Yuxiang Guo; Zhonghao Hu; Yuren Mao; Yuhang Liu; Congcong Ge; Xiaolu Zhang; Jun Zhou; Yunjun Gao | [arXiv:2606.19960v1](https://arxiv.org/abs/2606.19960v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19960) |
+
+
+## [DEP-A-20260726-FeLoG Feedback Graph](../DEP-A-20260726-FeLoG%20Feedback%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22180-whitepaper-review.md`](../DEP-A-20260726-FeLoG%20Feedback%20Graph/2606.22180-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism* | Peng Fang; Arijit Khan; Ziqiang Wu; Zhenli Li; Yibo Zhou; Fang Wang; Dan Feng | [arXiv:2606.22180v2](https://arxiv.org/abs/2606.22180v2) - [DOI](https://doi.org/10.48550/arXiv.2606.22180) |
+
+
+## [DEP-A-20260726-SPIN Spectral Search](../DEP-A-20260726-SPIN%20Spectral%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.21535-whitepaper-review.md`](../DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Embedding Geometry to Spectral Search: Energy Dispersion Networks For Vector Retrieval* | Lorenzo Moriondo; Ilias Azizi | [arXiv:2606.21535v2](https://arxiv.org/abs/2606.21535v2) - [DOI](https://doi.org/10.48550/arXiv.2606.21535) |
+
+
+## [DEP-A-20260726-HAKARI Retrieval Bench](../DEP-A-20260726-HAKARI%20Retrieval%20Bench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22778-whitepaper-review.md`](../DEP-A-20260726-HAKARI%20Retrieval%20Bench/2606.22778-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions* | Yuichi Tateno | [arXiv:2606.22778v1](https://arxiv.org/abs/2606.22778v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22778) |
+
+
+## [DEP-A-20260726-Pi RAG Oblivious](../DEP-A-20260726-Pi%20RAG%20Oblivious/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22153-whitepaper-review.md`](../DEP-A-20260726-Pi%20RAG%20Oblivious/2606.22153-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *$π$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models* | Aniket Wattamwar; Mrunal Kakirwar | [arXiv:2606.22153v1](https://arxiv.org/abs/2606.22153v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22153) |
+
+
+## [DEP-A-20260726-Query Aware Graph RAG](../DEP-A-20260726-Query%20Aware%20Graph%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.30133-whitepaper-review.md`](../DEP-A-20260726-Query%20Aware%20Graph%20RAG/2606.30133-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs* | Illia Makarov; Mykola Glybovets | [arXiv:2606.30133v1](https://arxiv.org/abs/2606.30133v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30133) |
+
+
+## [DEP-A-20260726-SAE Concept Retrieval](../DEP-A-20260726-SAE%20Concept%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.00023-whitepaper-review.md`](../DEP-A-20260726-SAE%20Concept%20Retrieval/2607.00023-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aligning Sentence Embeddings to Human Concepts via Sparse Autoencoders* | Wonseok Shin; Songkuk Kim | [arXiv:2607.00023v1](https://arxiv.org/abs/2607.00023v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00023) |
+
+
+## [DEP-A-20260726-SemFlowRAG Gradient](../DEP-A-20260726-SemFlowRAG%20Gradient/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.28447-whitepaper-review.md`](../DEP-A-20260726-SemFlowRAG%20Gradient/2606.28447-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SemFlowRAG: Directed Semantic Flow from Abstraction to Evidence for Complex Reasoning* | Houyuan Qin; Rong Wu; Qinyuan Qin; Botian Shi; Jingjing Qu; Yang Sun; Pinlong Cai | [arXiv:2606.28447v1](https://arxiv.org/abs/2606.28447v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28447) |
+
+
+## [DEP-A-20260726-SCD Semantic Cache](../DEP-A-20260726-SCD%20Semantic%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.07684-whitepaper-review.md`](../DEP-A-20260726-SCD%20Semantic%20Cache/2606.07684-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching* | Qianli Ma; Zhiqing Tang; Hanshuai Cui; Zhi Yao; Weijia Jia | [arXiv:2606.07684v1](https://arxiv.org/abs/2606.07684v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07684) |
+
+
+## [DEP-A-20260726-MCompassRAG Topics](../DEP-A-20260726-MCompassRAG%20Topics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.18508-whitepaper-review.md`](../DEP-A-20260726-MCompassRAG%20Topics/2606.18508-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval* | Amirhossein Abaskohi; Raymond Li; Gaetano Cimino; Peter West; Giuseppe Carenini; Issam H. Laradji | [arXiv:2606.18508v1](https://arxiv.org/abs/2606.18508v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18508) |
+
+
+## [DEP-A-20260726-MAM AI Offline Care](../DEP-A-20260726-MAM%20AI%20Offline%20Care/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.29580-whitepaper-review.md`](../DEP-A-20260726-MAM%20AI%20Offline%20Care/2606.29580-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAM-AI: An On-Device Medical Retrieval-Augmented Generation System for Nurses and Midwives in Zanzibar* | Yi Ren | [arXiv:2606.29580v3](https://arxiv.org/abs/2606.29580v3) - [DOI](https://doi.org/10.48550/arXiv.2606.29580) |
+
+
+## [DEP-A-20260726-RAG State Lock In](../DEP-A-20260726-RAG%20State%20Lock%20In/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22728-whitepaper-review.md`](../DEP-A-20260726-RAG%20State%20Lock%20In/2606.22728-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Confidence Takes the Wrong Path: Diagnosing Retrieval-State Lock-In in RAG* | Sahib Julka | [arXiv:2606.22728v1](https://arxiv.org/abs/2606.22728v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22728) |
+
+
+## [DEP-A-20260726-Attribution Metric Audit](../DEP-A-20260726-Attribution%20Metric%20Audit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.23915-whitepaper-review.md`](../DEP-A-20260726-Attribution%20Metric%20Audit/2606.23915-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs* | Tianyu Ding; Aditya Nannapaneni; Juan Pablo De la Cruz Weinstein | [arXiv:2606.23915v1](https://arxiv.org/abs/2606.23915v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23915) |
+
+
+## [DEP-A-20260726-Invoice Haystack](../DEP-A-20260726-Invoice%20Haystack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.25343-whitepaper-review.md`](../DEP-A-20260726-Invoice%20Haystack/2606.25343-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity* | Heethanjan Kanagalingam; Thenukan Pathmanathan; Mokeeshan Vathanakumar; Basim Azam; Sarah Monazam Erfani; Naveed Akhtar | [arXiv:2606.25343v2](https://arxiv.org/abs/2606.25343v2) - [DOI](https://doi.org/10.48550/arXiv.2606.25343) |
+
+
+## [DEP-A-20260726-Visual Token Privacy](../DEP-A-20260726-Visual%20Token%20Privacy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.14783-whitepaper-review.md`](../DEP-A-20260726-Visual%20Token%20Privacy/2606.14783-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Vision Encoder as a Privacy Boundary: Visual-Token Side Channels in Encoder-Free Vision-Language Models* | Chenyu Zhou; Qiliang Jiang; Shuning Wu; Xu Zhou | [arXiv:2606.14783v1](https://arxiv.org/abs/2606.14783v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14783) |
+
+
+## [DEP-A-20260726-IntentKV Agent Cache](../DEP-A-20260726-IntentKV%20Agent%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.09916-whitepaper-review.md`](../DEP-A-20260726-IntentKV%20Agent%20Cache/2606.09916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference* | Junjie Li; Jiong Lou; Jie Li | [arXiv:2606.09916v1](https://arxiv.org/abs/2606.09916v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09916) |
+
+
+## [DEP-A-20260726-FCGraft Code Policy](../DEP-A-20260726-FCGraft%20Code%20Policy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.13097-whitepaper-review.md`](../DEP-A-20260726-FCGraft%20Code%20Policy/2606.13097-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents* | Saehun Chun; Wonje Choi; Sera Choi; Sanghyun Ahn; Honguk Woo | [arXiv:2606.13097v1](https://arxiv.org/abs/2606.13097v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13097) |
+
+
+## [DEP-A-20260726-Prompt to Paper Bio](../DEP-A-20260726-Prompt%20to%20Paper%20Bio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.05456-whitepaper-review.md`](../DEP-A-20260726-Prompt%20to%20Paper%20Bio/2607.05456-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt-to-Paper: Agentic AI System for Bioinformatics* | Kamran, Ramsha; Amjad, Maheera; Mustansar, Zartasha; Shaukat, Arsalan; Sherbaz, Salma; Khan, Muhammad U. S. | [arXiv:2607.05456v1](https://arxiv.org/abs/2607.05456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05456) |
+
+
+## [DEP-A-20260726-Retail Behavior Twin](../DEP-A-20260726-Retail%20Behavior%20Twin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2607.06993-whitepaper-review.md`](../DEP-A-20260726-Retail%20Behavior%20Twin/2607.06993-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large Behavior Model: A Promptable Digital Twin of the Retail Customer* | Modecrua, Wachiravit; Pachtrachai, Krittin; Kraisingkorn, Touchapon | [arXiv:2607.06993v2](https://arxiv.org/abs/2607.06993v2) - [DOI](https://doi.org/10.48550/arXiv.2607.06993) |
+
+
+## [DEP-A-20260726-MRMMIA Memory Attack](../DEP-A-20260726-MRMMIA%20Memory%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2605.27825-whitepaper-review.md`](../DEP-A-20260726-MRMMIA%20Memory%20Attack/2605.27825-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MRMMIA: Membership Inference Attacks on Memory in Chat Agents* | Chen, Kai; Pang, Yan; Wang, Tianhao | [arXiv:2605.27825v1](https://arxiv.org/abs/2605.27825v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27825) |
+
+
+## [DEP-A-20260726-MemReread Long Context](../DEP-A-20260726-MemReread%20Long%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2605.10268-whitepaper-review.md`](../DEP-A-20260726-MemReread%20Long%20Context/2605.10268-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading* | Ji, Baibei; Weng, Xiaoyang; Li, Juntao; Tang, Zecheng; Lou, Yihang; Zhang, Min | [arXiv:2605.10268v1](https://arxiv.org/abs/2605.10268v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10268) |
