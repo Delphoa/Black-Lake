@@ -3679,3 +3679,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory* | Jiaqi Shao; Yiyi Lu; Yunzhen Zhang; Bing Luo | [arXiv:2605.07313v1](https://arxiv.org/abs/2605.07313v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07313) |
+
+
+## [DEP-A-20260727-EvoMemBench](../DEP-A-20260727-EvoMemBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.18421-whitepaper-review.md`](../DEP-A-20260727-EvoMemBench/2605.18421-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective* | Yuyao Wang; Zhongjian Zhang; Mo Chi; Kaichi Yu; Yuhan Li; Miao Peng; Bing Tong; Chen Zhang; Yan Zhou; Jia Li | [arXiv:2605.18421v2](https://arxiv.org/abs/2605.18421v2) - [DOI](https://doi.org/10.48550/arXiv.2605.18421) |
+
+
+## [DEP-A-20260727-Memorywire Protocol](../DEP-A-20260727-Memorywire%20Protocol/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.01138-whitepaper-review.md`](../DEP-A-20260727-Memorywire%20Protocol/2606.01138-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations* | Thamilvendhan Munirathinam | [arXiv:2606.01138v2](https://arxiv.org/abs/2606.01138v2) - [DOI](https://doi.org/10.48550/arXiv.2606.01138) |
+
+
+## [DEP-A-20260727-Portable Agent Memory](../DEP-A-20260727-Portable%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.11032-whitepaper-review.md`](../DEP-A-20260727-Portable%20Agent%20Memory/2605.11032-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Portable Agent Memory: A Protocol for Cryptographically-Verified Memory Transfer Across Heterogeneous AI Agents* | Santhosh Kumar Ravindran | [arXiv:2605.11032v1](https://arxiv.org/abs/2605.11032v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11032) |
+
+
+## [DEP-A-20260727-MemMark Attribution](../DEP-A-20260727-MemMark%20Attribution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.25002-whitepaper-review.md`](../DEP-A-20260727-MemMark%20Attribution/2605.25002-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems* | Haobo Zhang; Xutao Mao; Guangyuan Dong; Ziwei Li; Xuanbo Su; Kaijie Chen; Jing Yang; Zheng Lin | [arXiv:2605.25002v2](https://arxiv.org/abs/2605.25002v2) - [DOI](https://doi.org/10.48550/arXiv.2605.25002) |
+
+
+## [DEP-A-20260727-MementoGUI Memory](../DEP-A-20260727-MementoGUI%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.18652-whitepaper-review.md`](../DEP-A-20260727-MementoGUI%20Memory/2605.18652-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents* | Ziyun Zeng; Hang Hua; Bocheng Zou; Mu Cai; Rogerio Feris; Jiebo Luo | [arXiv:2605.18652v1](https://arxiv.org/abs/2605.18652v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18652) |
