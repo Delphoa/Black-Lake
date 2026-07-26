@@ -1317,3 +1317,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation* | Dai, Tingjun; Han, Mingfei; Du, Tingwen; Liu, Zhiheng; Zhang, Zihao; Li, Zhihui; Khan, Salman; Yu, Jun; Chang, Xiaojun | [arXiv:2603.09292](https://arxiv.org/abs/2603.09292) - [DOI](https://doi.org/10.48550/arXiv.2603.09292) |
+
+
+## [DEP-E-20260726-MoE3D Mixture of Experts](../DEP-E-20260726-MoE3D%20Mixture%20of%20Experts/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoE3D: Mixture of Experts meets Multi-Modal 3D Understanding* | Li, Yu; Hou, Yuenan; Wei, Yingmei; Zhu, Xinge; Ma, Yuexin; Shao, Wenqi; Guo, Yanming | [arXiv:2511.22103](https://arxiv.org/abs/2511.22103) - [DOI](https://doi.org/10.48550/arXiv.2511.22103) |

@@ -2128,6 +2128,29 @@
         "https://doi.org/10.48550/arXiv.2603.09292"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts",
+        ".logs/20260726-Arxiv-MoE3D-Mixture-of-Experts-meets-Multi-Modal-LOG.md",
+        ".reports/BL-Arxiv-MoE3D-Mixture-of-Experts-meets-Multi-Modal-20260726/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.22103",
+      "arxiv_id": "2511.22103",
+      "commit_or_pr": "",
+      "deposit_date": "20260726",
+      "doi": "10.48550/arXiv.2511.22103",
+      "normalized_title": "MoE3D: Mixture of Experts meets Multi-Modal 3D Understanding",
+      "notes": "Job BLAD-2200-20260726-1DBD5211 item BLAD-2200-20260726-1DBD5211-P04; draw 34526 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "MoE3D-Mixture-of-Experts-meets-Multi-Modal",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.22103",
+        "https://arxiv.org/html/2511.22103",
+        "https://arxiv.org/pdf/2511.22103",
+        "https://doi.org/10.48550/arXiv.2511.22103"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
