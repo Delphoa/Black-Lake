@@ -3364,3 +3364,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MAM-AI: An On-Device Medical Retrieval-Augmented Generation System for Nurses and Midwives in Zanzibar* | Yi Ren | [arXiv:2606.29580v3](https://arxiv.org/abs/2606.29580v3) - [DOI](https://doi.org/10.48550/arXiv.2606.29580) |
+
+
+## [DEP-A-20260726-RAG State Lock In](../DEP-A-20260726-RAG%20State%20Lock%20In/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22728-whitepaper-review.md`](../DEP-A-20260726-RAG%20State%20Lock%20In/2606.22728-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Confidence Takes the Wrong Path: Diagnosing Retrieval-State Lock-In in RAG* | Sahib Julka | [arXiv:2606.22728v1](https://arxiv.org/abs/2606.22728v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22728) |
+
+
+## [DEP-A-20260726-Attribution Metric Audit](../DEP-A-20260726-Attribution%20Metric%20Audit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.23915-whitepaper-review.md`](../DEP-A-20260726-Attribution%20Metric%20Audit/2606.23915-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs* | Tianyu Ding; Aditya Nannapaneni; Juan Pablo De la Cruz Weinstein | [arXiv:2606.23915v1](https://arxiv.org/abs/2606.23915v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23915) |
+
+
+## [DEP-A-20260726-Invoice Haystack](../DEP-A-20260726-Invoice%20Haystack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.25343-whitepaper-review.md`](../DEP-A-20260726-Invoice%20Haystack/2606.25343-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity* | Heethanjan Kanagalingam; Thenukan Pathmanathan; Mokeeshan Vathanakumar; Basim Azam; Sarah Monazam Erfani; Naveed Akhtar | [arXiv:2606.25343v2](https://arxiv.org/abs/2606.25343v2) - [DOI](https://doi.org/10.48550/arXiv.2606.25343) |
+
+
+## [DEP-A-20260726-Visual Token Privacy](../DEP-A-20260726-Visual%20Token%20Privacy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.14783-whitepaper-review.md`](../DEP-A-20260726-Visual%20Token%20Privacy/2606.14783-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Vision Encoder as a Privacy Boundary: Visual-Token Side Channels in Encoder-Free Vision-Language Models* | Chenyu Zhou; Qiliang Jiang; Shuning Wu; Xu Zhou | [arXiv:2606.14783v1](https://arxiv.org/abs/2606.14783v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14783) |
+
+
+## [DEP-A-20260726-IntentKV Agent Cache](../DEP-A-20260726-IntentKV%20Agent%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.09916-whitepaper-review.md`](../DEP-A-20260726-IntentKV%20Agent%20Cache/2606.09916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IntentKV: Cross-Turn Intent-Aware KV Cache Pruning for Agent Inference* | Junjie Li; Jiong Lou; Jie Li | [arXiv:2606.09916v1](https://arxiv.org/abs/2606.09916v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09916) |
