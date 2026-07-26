@@ -3544,3 +3544,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation* | Jihu Guo; Sitian Lu; Tenghui Ma; Wei Gao; Zhisheng Ye; Xingcheng Zhang; Dahua Lin | [arXiv:2606.17518v1](https://arxiv.org/abs/2606.17518v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17518) |
+
+
+## [DEP-A-20260727-Dual Dimension Attn](../DEP-A-20260727-Dual%20Dimension%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.18587-whitepaper-review.md`](../DEP-A-20260727-Dual%20Dimension%20Attn/2606.18587-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dual Dimensionality for Local and Global Attention* | Zhiyuan Wang; Xuan Luo; Sirui Zeng; Xifeng Yan | [arXiv:2606.18587v1](https://arxiv.org/abs/2606.18587v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18587) |
+
+
+## [DEP-A-20260727-Streaming Attn Bounds](../DEP-A-20260727-Streaming%20Attn%20Bounds/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.07205-whitepaper-review.md`](../DEP-A-20260727-Streaming%20Attn%20Bounds/2606.07205-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Tight Bounds for Streaming Attention* | Justin Y. Chen; Ying Feng; Piotr Indyk; Michael Kapralov; Ekaterina Kochetkova; Boris Prokhorov | [arXiv:2606.07205v1](https://arxiv.org/abs/2606.07205v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07205) |
+
+
+## [DEP-A-20260727-CacheWeaver RAG](../DEP-A-20260727-CacheWeaver%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.19667-whitepaper-review.md`](../DEP-A-20260727-CacheWeaver%20RAG/2606.19667-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CacheWeaver: Cache-Aware Evidence Ordering for Efficient Grounded RAG Inference* | Kaizhen Tan; Rong Gu; Mingyuan Li | [arXiv:2606.19667v1](https://arxiv.org/abs/2606.19667v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19667) |
+
+
+## [DEP-A-20260727-KVarN Quantization](../DEP-A-20260727-KVarN%20Quantization/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.03458-whitepaper-review.md`](../DEP-A-20260727-KVarN%20Quantization/2606.03458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks* | Lorenz K. Muller; Philippe Bich; Chiara Boretti; Hyun-Min Chang; Jiawei Zhuang; Lukas Cavigelli | [arXiv:2606.03458v1](https://arxiv.org/abs/2606.03458v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03458) |
+
+
+## [DEP-A-20260727-Edge Clock Governor](../DEP-A-20260727-Edge%20Clock%20Governor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.16106-whitepaper-review.md`](../DEP-A-20260727-Edge%20Clock%20Governor/2606.16106-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Edge-Inference Governors Need Memory-Clock State* | Jaehoon Kang | [arXiv:2606.16106v3](https://arxiv.org/abs/2606.16106v3) - [DOI](https://doi.org/10.48550/arXiv.2606.16106) |
