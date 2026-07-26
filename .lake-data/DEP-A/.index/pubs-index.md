@@ -3454,3 +3454,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading* | Ji, Baibei; Weng, Xiaoyang; Li, Juntao; Tang, Zecheng; Lou, Yihang; Zhang, Min | [arXiv:2605.10268v1](https://arxiv.org/abs/2605.10268v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10268) |
+
+
+## [DEP-A-20260727-Programmable KV](../DEP-A-20260727-Programmable%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.17107-whitepaper-review.md`](../DEP-A-20260727-Programmable%20KV/2606.17107-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Models Take Notes at Prefill: KV Cache Can Be Editable and Composable* | Bojie Li | [arXiv:2606.17107v1](https://arxiv.org/abs/2606.17107v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17107) |
+
+
+## [DEP-A-20260727-SproutRAG Tree](../DEP-A-20260727-SproutRAG%20Tree/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.18381-whitepaper-review.md`](../DEP-A-20260727-SproutRAG%20Tree/2606.18381-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG* | Amirhossein Abaskohi; Issam H. Laradji; Peter West; Giuseppe Carenini | [arXiv:2606.18381v1](https://arxiv.org/abs/2606.18381v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18381) |
+
+
+## [DEP-A-20260727-Token Tax RAG](../DEP-A-20260727-Token%20Tax%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.20898-whitepaper-review.md`](../DEP-A-20260727-Token%20Tax%20RAG/2606.20898-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Token Tax of Epistemic Accuracy: Comparing RAG and Long-Context Architectures for Document-Grounded Generative AI Applications* | Austin Hamilton; Ryan Singh; Michael Wise; Ibrahim Yousif; Arthur Carvalho; Zhe Shan; Mohammad Mayyas; Lora A. Cavuoto; Fadel M. Megahed | [arXiv:2606.20898v1](https://arxiv.org/abs/2606.20898v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20898) |
+
+
+## [DEP-A-20260727-LazyAttention RAG](../DEP-A-20260727-LazyAttention%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.04302-whitepaper-review.md`](../DEP-A-20260727-LazyAttention%20RAG/2606.04302-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding* | Haocheng Xia; Mihir Pamnani; Hanxi Fang; Supawit Chockchowwat; Yongjoo Park | [arXiv:2606.04302v1](https://arxiv.org/abs/2606.04302v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04302) |
+
+
+## [DEP-A-20260727-QCFuse RAG Cache](../DEP-A-20260727-QCFuse%20RAG%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.05875-whitepaper-review.md`](../DEP-A-20260727-QCFuse%20RAG%20Cache/2606.05875-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving* | Jianxin Yan; Wangze Ni; Zhenxin Li; Jiabao Jin; Zhitao Shen; Haoyang Li; Jia Zhu; Peng Cheng; Xuemin Lin; Lei Chen; Kui Ren | [arXiv:2606.05875v1](https://arxiv.org/abs/2606.05875v1) - [DOI](https://doi.org/10.48550/arXiv.2606.05875) |
