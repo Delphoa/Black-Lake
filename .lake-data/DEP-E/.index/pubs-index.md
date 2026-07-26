@@ -1345,3 +1345,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TRACE: Unlocking Effective CXL Bandwidth via Lossless Compression and Precision Scaling* | Xie, Rui; Haq, Asad Ul; Fang, Yunhua; Ma, Linsen; Engineer, Zirak Burzin; Liu, Liu; Zhang, Tong | [arXiv:2509.03377](https://arxiv.org/abs/2509.03377) - [DOI](https://doi.org/10.48550/arXiv.2509.03377) |
+
+
+## [DEP-E-20260726-Proposer-Agent-Evaluator](../DEP-E-20260726-Proposer-Agent-Evaluator/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents* | Zhou, Yifei; Yang, Qianlan; Lin, Kaixiang; Bai, Min; Zhou, Xiong; Wang, Yu-Xiong; Levine, Sergey; Li, Erran | [arXiv:2412.13194](https://arxiv.org/abs/2412.13194) - [DOI](https://doi.org/10.48550/arXiv.2412.13194) |
