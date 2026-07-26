@@ -1338,3 +1338,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code* | Lin, Zhiyu; Zhou, Zhengda; Zhao, Zhiyuan; Wan, Tianrui; Ma, Yilun; Gao, Junyu; Li, Xuelong | [arXiv:2506.07818](https://arxiv.org/abs/2506.07818) - [DOI](https://doi.org/10.48550/arXiv.2506.07818) |
+
+
+## [DEP-E-20260726-TRACE Unlocking Effective](../DEP-E-20260726-TRACE%20Unlocking%20Effective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TRACE: Unlocking Effective CXL Bandwidth via Lossless Compression and Precision Scaling* | Xie, Rui; Haq, Asad Ul; Fang, Yunhua; Ma, Linsen; Engineer, Zirak Burzin; Liu, Liu; Zhang, Tong | [arXiv:2509.03377](https://arxiv.org/abs/2509.03377) - [DOI](https://doi.org/10.48550/arXiv.2509.03377) |
