@@ -1352,3 +1352,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents* | Zhou, Yifei; Yang, Qianlan; Lin, Kaixiang; Bai, Min; Zhou, Xiong; Wang, Yu-Xiong; Levine, Sergey; Li, Erran | [arXiv:2412.13194](https://arxiv.org/abs/2412.13194) - [DOI](https://doi.org/10.48550/arXiv.2412.13194) |
+
+
+## [DEP-E-20260726-ManipulationNet An](../DEP-E-20260726-ManipulationNet%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning* | Chen, Yiting; Kimble, Kenneth; Adelson, Edward H.; Asfour, Tamim; Chanrungmaneekul, Podshara; Chitta, Sachin; Chitambar, Yash; Chen, Ziyang; Goldberg, Ken; Kragic, Danica; Li, Hui; Li, Xiang; Li, Yunzhu; Prather, Aaron; Pollard, Nancy; Roa-Garzon, Maximo A.; Seney, Robert; Sha, Shuo; Wang, Shihefeng; Xiang, Yu; Zhang, Kaifeng; Zhu, Yuke; Hang, Kaiyu | [arXiv:2603.04363](https://arxiv.org/abs/2603.04363) - [DOI](https://doi.org/10.48550/arXiv.2603.04363) |
