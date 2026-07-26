@@ -3589,3 +3589,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Edge-Inference Governors Need Memory-Clock State* | Jaehoon Kang | [arXiv:2606.16106v3](https://arxiv.org/abs/2606.16106v3) - [DOI](https://doi.org/10.48550/arXiv.2606.16106) |
+
+
+## [DEP-A-20260727-Depth Attention](../DEP-A-20260727-Depth%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.05014-whitepaper-review.md`](../DEP-A-20260727-Depth%20Attention/2606.05014-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Depth-Attention: Cross-Layer Value Mixing for Language Models* | Boyi Zeng; Yiqin Hao; Zitong Wang; Shixiang Song; He Li; Feichen Song; Yifan Liu; Ziwei He; Xinbing Wang; Zhouhan Lin | [arXiv:2606.05014v2](https://arxiv.org/abs/2606.05014v2) - [DOI](https://doi.org/10.48550/arXiv.2606.05014) |
+
+
+## [DEP-A-20260727-Sol Video Engine](../DEP-A-20260727-Sol%20Video%20Engine/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.23743-whitepaper-review.md`](../DEP-A-20260727-Sol%20Video%20Engine/2606.23743-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation* | Yitong Li; Junsong Chen; Haopeng Li; Haozhe Liu; Jincheng Yu; Ligeng Zhu; Ping Luo; Song Han; Enze Xie | [arXiv:2606.23743v2](https://arxiv.org/abs/2606.23743v2) - [DOI](https://doi.org/10.48550/arXiv.2606.23743) |
+
+
+## [DEP-A-20260727-Private RAG Rewrite](../DEP-A-20260727-Private%20RAG%20Rewrite/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.24623-whitepaper-review.md`](../DEP-A-20260727-Private%20RAG%20Rewrite/2606.24623-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity* | Yuanhe Zhao; Tianyu Zhang; Huafei Xing; Derek F. Wong; Jianbin Li; Tao Fang | [arXiv:2606.24623v1](https://arxiv.org/abs/2606.24623v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24623) |
+
+
+## [DEP-A-20260727-JAMEL Exploration](../DEP-A-20260727-JAMEL%20Exploration/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.01528-whitepaper-review.md`](../DEP-A-20260727-JAMEL%20Exploration/2606.01528-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Agent Memory and Exploration Learning via Novelty Signals* | Shizuo Tian; Xiaohong Weng; Rui Kong; Yuxuan Chen; Guohong Liu; Yuebing Song; Jiacheng Liu; Yuchen Li; Dawei Yin; Ting Cao; Yunxin Liu; Yuanchun Li | [arXiv:2606.01528v1](https://arxiv.org/abs/2606.01528v1) - [DOI](https://doi.org/10.48550/arXiv.2606.01528) |
+
+
+## [DEP-A-20260727-MemEye Benchmark](../DEP-A-20260727-MemEye%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.15128-whitepaper-review.md`](../DEP-A-20260727-MemEye%20Benchmark/2605.15128-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory* | Minghao Guo; Qingyue Jiao; Zeru Shi; Yihao Quan; Boxuan Zhang; Danrui Li; Liwei Che; Wujiang Xu; Shilong Liu; Zirui Liu; Mubbasir Kapadia; Vladimir Pavlovic; Jiang Liu; Mengdi Wang; Yiyu Shi; Dimitris N. Metaxas; Ruixiang Tang | [arXiv:2605.15128v1](https://arxiv.org/abs/2605.15128v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15128) |
