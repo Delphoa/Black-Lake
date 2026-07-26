@@ -2266,6 +2266,29 @@
         "https://doi.org/10.48550/arXiv.2603.04363"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260726-Baichuan Alignment",
+        ".logs/20260726-Arxiv-Baichuan-Alignment-Technical-Report-LOG.md",
+        ".reports/BL-Arxiv-Baichuan-Alignment-Technical-Report-20260726/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.14940",
+      "arxiv_id": "2410.14940",
+      "commit_or_pr": "",
+      "deposit_date": "20260726",
+      "doi": "10.48550/arXiv.2410.14940",
+      "normalized_title": "Baichuan Alignment Technical Report",
+      "notes": "Job BLAD-2200-20260726-1DBD5211 item BLAD-2200-20260726-1DBD5211-P10; draw 8499 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Baichuan-Alignment-Technical-Report",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.14940",
+        "https://arxiv.org/html/2410.14940",
+        "https://arxiv.org/pdf/2410.14940",
+        "https://doi.org/10.48550/arXiv.2410.14940"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

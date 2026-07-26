@@ -1359,3 +1359,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning* | Chen, Yiting; Kimble, Kenneth; Adelson, Edward H.; Asfour, Tamim; Chanrungmaneekul, Podshara; Chitta, Sachin; Chitambar, Yash; Chen, Ziyang; Goldberg, Ken; Kragic, Danica; Li, Hui; Li, Xiang; Li, Yunzhu; Prather, Aaron; Pollard, Nancy; Roa-Garzon, Maximo A.; Seney, Robert; Sha, Shuo; Wang, Shihefeng; Xiang, Yu; Zhang, Kaifeng; Zhu, Yuke; Hang, Kaiyu | [arXiv:2603.04363](https://arxiv.org/abs/2603.04363) - [DOI](https://doi.org/10.48550/arXiv.2603.04363) |
+
+
+## [DEP-E-20260726-Baichuan Alignment](../DEP-E-20260726-Baichuan%20Alignment/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Baichuan Alignment Technical Report* | Lin, Mingan; Yang, Fan; Shen, Yanjun; Sun, Haoze; Li, Tianpeng; Zhang, Tao; Zhu, Chenzheng; Zhang, Tao; Zheng, Miao; Li, Xu; Zhou, Yijie; Chen, Mingyang; Qin, Yanzhao; Li, Youquan; Liang, Hao; Li, Fei; Li, Yadong; Wang, Mang; Dong, Guosheng; Fang, Kun; Xu, Jianhua; Cui, Bin; Zhang, Wentao; Zhou, Zenan; Chen, Weipeng | [arXiv:2410.14940](https://arxiv.org/abs/2410.14940) - [DOI](https://doi.org/10.48550/arXiv.2410.14940) |
