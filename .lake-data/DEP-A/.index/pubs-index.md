@@ -3274,3 +3274,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries* | Yuxiang Guo; Zhonghao Hu; Yuren Mao; Yuhang Liu; Congcong Ge; Xiaolu Zhang; Jun Zhou; Yunjun Gao | [arXiv:2606.19960v1](https://arxiv.org/abs/2606.19960v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19960) |
+
+
+## [DEP-A-20260726-FeLoG Feedback Graph](../DEP-A-20260726-FeLoG%20Feedback%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22180-whitepaper-review.md`](../DEP-A-20260726-FeLoG%20Feedback%20Graph/2606.22180-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism* | Peng Fang; Arijit Khan; Ziqiang Wu; Zhenli Li; Yibo Zhou; Fang Wang; Dan Feng | [arXiv:2606.22180v2](https://arxiv.org/abs/2606.22180v2) - [DOI](https://doi.org/10.48550/arXiv.2606.22180) |
+
+
+## [DEP-A-20260726-SPIN Spectral Search](../DEP-A-20260726-SPIN%20Spectral%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.21535-whitepaper-review.md`](../DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Embedding Geometry to Spectral Search: Energy Dispersion Networks For Vector Retrieval* | Lorenzo Moriondo; Ilias Azizi | [arXiv:2606.21535v2](https://arxiv.org/abs/2606.21535v2) - [DOI](https://doi.org/10.48550/arXiv.2606.21535) |
+
+
+## [DEP-A-20260726-HAKARI Retrieval Bench](../DEP-A-20260726-HAKARI%20Retrieval%20Bench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22778-whitepaper-review.md`](../DEP-A-20260726-HAKARI%20Retrieval%20Bench/2606.22778-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions* | Yuichi Tateno | [arXiv:2606.22778v1](https://arxiv.org/abs/2606.22778v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22778) |
+
+
+## [DEP-A-20260726-Pi RAG Oblivious](../DEP-A-20260726-Pi%20RAG%20Oblivious/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.22153-whitepaper-review.md`](../DEP-A-20260726-Pi%20RAG%20Oblivious/2606.22153-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *$π$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models* | Aniket Wattamwar; Mrunal Kakirwar | [arXiv:2606.22153v1](https://arxiv.org/abs/2606.22153v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22153) |
+
+
+## [DEP-A-20260726-Query Aware Graph RAG](../DEP-A-20260726-Query%20Aware%20Graph%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-26. The owning review artifact is [`2606.30133-whitepaper-review.md`](../DEP-A-20260726-Query%20Aware%20Graph%20RAG/2606.30133-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs* | Illia Makarov; Mykola Glybovets | [arXiv:2606.30133v1](https://arxiv.org/abs/2606.30133v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30133) |
