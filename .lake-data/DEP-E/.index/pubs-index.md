@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **301 publications across 179 DEP-E entries** (297 arXiv records and 4 other research publications).
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-26; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **332 publication reviews across 201 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-27; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260727-Memory and Agent Safety](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Distributed Attacks in Persistent-State AI Control* | Josh Hills; Ida Caspary; Asa Cooper Stickland | [arXiv:2607.02514v2](https://arxiv.org/abs/2607.02514); [DOI](https://doi.org/10.48550/arXiv.2607.02514) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification* | Yunhao Feng; Ruixiao Lin; Ming Wen; *et al.* | [arXiv:2607.01793v2](https://arxiv.org/abs/2607.01793); [DOI](https://doi.org/10.48550/arXiv.2607.01793) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *ContextNest: Verifiable Context Governance for Autonomous AI Agents* | Misha Sulpovar; Benn R. Konsynski; Qaish Kanchwala; Gabe Goodhart | [arXiv:2607.02116v2](https://arxiv.org/abs/2607.02116); [DOI](https://doi.org/10.48550/arXiv.2607.02116) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning* | Yanjun Zhao; Ruizhong Qiu; Tianxin Wei; *et al.* | [arXiv:2607.02509v1](https://arxiv.org/abs/2607.02509); [DOI](https://doi.org/10.48550/arXiv.2607.02509) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *A Hippocampus for Linear Attention: An Exact Memory for What the Recurrent State Forgets* | Wanyun Cui | [arXiv:2607.02303v1](https://arxiv.org/abs/2607.02303); [DOI](https://doi.org/10.48550/arXiv.2607.02303) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories* | Qianyu Chen; Ziteng Feng; Canran Xiao; Runxuan Tang | [arXiv:2607.02010v1](https://arxiv.org/abs/2607.02010); [DOI](https://doi.org/10.48550/arXiv.2607.02010) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models* | Xi Fang; Weijie Xu; Yingqiang Ge; Yuhui Xu; Stephanie Eckman; Chandan K. Reddy | [arXiv:2607.02374v2](https://arxiv.org/abs/2607.02374); [DOI](https://doi.org/10.48550/arXiv.2607.02374) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks* | Samiha A. Ismail; Fan X. Chen; Ali Merali | [arXiv:2607.02175v1](https://arxiv.org/abs/2607.02175); [DOI](https://doi.org/10.48550/arXiv.2607.02175) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *Grounded autonomous research: a fault-tolerant LLM pipeline from corpus to manuscript in frontier computational physics* | Haonan Huang | [arXiv:2607.02329v1](https://arxiv.org/abs/2607.02329); [DOI](https://doi.org/10.48550/arXiv.2607.02329) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
+| *Optimal Stabilizer Testing and Learning with Limited Quantum Memory* | Srinivasan Arunachalam; Louis Schatzki | [arXiv:2607.02444v1](https://arxiv.org/abs/2607.02444); [DOI](https://doi.org/10.48550/arXiv.2607.02444) | [DEP-E](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md) |
 
 ## [DEP-E-20260726-Constraint-Aware Systems](../DEP-E-20260726-Constraint-Aware%20Systems/README.md)
 
