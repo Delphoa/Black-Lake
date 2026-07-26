@@ -1296,3 +1296,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *B\'ezier curves that are close to elastica* | Brander, David; Bærentzen, J. Andreas; Fisker, Ann-Sofie; Gravesen, Jens | [arXiv:1710.09192](https://arxiv.org/abs/1710.09192) - [DOI](https://doi.org/10.48550/arXiv.1710.09192) |
+
+
+## [DEP-E-20260726-Compressed CSI Feedback](../DEP-E-20260726-Compressed%20CSI%20Feedback/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compressed CSI Feedback With Learned Measurement Matrix for mmWave Massive MIMO* | Wu, Pengxia; Liu, Zichuan; Cheng, Julian | [arXiv:1903.02127](https://arxiv.org/abs/1903.02127) - [DOI](https://doi.org/10.48550/arXiv.1903.02127) |

@@ -2059,6 +2059,29 @@
         "https://doi.org/10.48550/arXiv.1710.09192"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback",
+        ".logs/20260726-Arxiv-Compressed-CSI-Feedback-With-Learned-Measurement-LOG.md",
+        ".reports/BL-Arxiv-Compressed-CSI-Feedback-With-Learned-Measurement-20260726/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1903.02127",
+      "arxiv_id": "1903.02127",
+      "commit_or_pr": "",
+      "deposit_date": "20260726",
+      "doi": "10.48550/arXiv.1903.02127",
+      "normalized_title": "Compressed CSI Feedback With Learned Measurement Matrix for mmWave Massive MIMO",
+      "notes": "Job BLAD-2200-20260726-1DBD5211 item BLAD-2200-20260726-1DBD5211-P01; draw 18733 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Compressed-CSI-Feedback-With-Learned-Measurement",
+      "source_urls": [
+        "https://arxiv.org/abs/1903.02127",
+        "https://ar5iv.labs.arxiv.org/html/1903.02127",
+        "https://arxiv.org/pdf/1903.02127",
+        "https://doi.org/10.48550/arXiv.1903.02127"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -2829,5 +2852,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-25"
+  "updated_date": "2026-07-26"
 }
