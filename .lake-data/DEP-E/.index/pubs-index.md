@@ -1303,3 +1303,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compressed CSI Feedback With Learned Measurement Matrix for mmWave Massive MIMO* | Wu, Pengxia; Liu, Zichuan; Cheng, Julian | [arXiv:1903.02127](https://arxiv.org/abs/1903.02127) - [DOI](https://doi.org/10.48550/arXiv.1903.02127) |
+
+
+## [DEP-E-20260726-MoGIC Boosting Motion](../DEP-E-20260726-MoGIC%20Boosting%20Motion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context* | Shi, Junyu; Sun, Yong; Zhang, Zhiyuan; Liu, Lijiang; Zhang, Zhengjie; He, Yuxin; Nie, Qiang | [arXiv:2510.02722](https://arxiv.org/abs/2510.02722) - [DOI](https://doi.org/10.48550/arXiv.2510.02722) |
