@@ -1324,3 +1324,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoE3D: Mixture of Experts meets Multi-Modal 3D Understanding* | Li, Yu; Hou, Yuenan; Wei, Yingmei; Zhu, Xinge; Ma, Yuexin; Shao, Wenqi; Guo, Yanming | [arXiv:2511.22103](https://arxiv.org/abs/2511.22103) - [DOI](https://doi.org/10.48550/arXiv.2511.22103) |
+
+
+## [DEP-E-20260726-Streamline Without](../DEP-E-20260726-Streamline%20Without/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM* | Wu, Penghao; Lu, Lewei; Liu, Ziwei | [arXiv:2505.15816](https://arxiv.org/abs/2505.15816) - [DOI](https://doi.org/10.48550/arXiv.2505.15816) |
