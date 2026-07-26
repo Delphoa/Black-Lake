@@ -3724,3 +3724,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents* | Ziyun Zeng; Hang Hua; Bocheng Zou; Mu Cai; Rogerio Feris; Jiebo Luo | [arXiv:2605.18652v1](https://arxiv.org/abs/2605.18652v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18652) |
+
+
+## [DEP-A-20260727-HAGE Graph Memory](../DEP-A-20260727-HAGE%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.09942-whitepaper-review.md`](../DEP-A-20260727-HAGE%20Graph%20Memory/2605.09942-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution* | Dongming Jiang; Yi Li; Guanpeng Li; Qiannan Li; Bingzhe Li | [arXiv:2605.09942v1](https://arxiv.org/abs/2605.09942v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09942) |
+
+
+## [DEP-A-20260727-MemForest Temporal](../DEP-A-20260727-MemForest%20Temporal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.23986-whitepaper-review.md`](../DEP-A-20260727-MemForest%20Temporal/2605.23986-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing* | Han Chen; Zining Zhang; Wenqi Pei; Bingsheng He; Ming Wu; Jason Zeng; Michael Heinrich; Wei Wu; Hongbao Zhang | [arXiv:2605.23986v1](https://arxiv.org/abs/2605.23986v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23986) |
+
+
+## [DEP-A-20260727-LongMemEval V2](../DEP-A-20260727-LongMemEval%20V2/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.12493-whitepaper-review.md`](../DEP-A-20260727-LongMemEval%20V2/2605.12493-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues* | Di Wu; Zixiang Ji; Asmi Kawatkar; Bryan Kwan; Jia-Chen Gu; Nanyun Peng; Kai-Wei Chang | [arXiv:2605.12493v1](https://arxiv.org/abs/2605.12493v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12493) |
+
+
+## [DEP-A-20260727-SeqMem Eval](../DEP-A-20260727-SeqMem%20Eval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.15384-whitepaper-review.md`](../DEP-A-20260727-SeqMem%20Eval/2605.15384-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory* | Songwei Dong; Zihan Chen; Chengshuai Shi; Peng Wang; Jundong Li; Cong Shen | [arXiv:2605.15384v1](https://arxiv.org/abs/2605.15384v1) - [DOI](https://doi.org/10.48550/arXiv.2605.15384) |
+
+
+## [DEP-A-20260727-FORGE Memory](../DEP-A-20260727-FORGE%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2605.16233-whitepaper-review.md`](../DEP-A-20260727-FORGE%20Memory/2605.16233-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast* | Igor Bogdanov; Chung-Horng Lung; Thomas Kunz; Jie Gao; Adrian Taylor; Marzia Zaman | [arXiv:2605.16233v1](https://arxiv.org/abs/2605.16233v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16233) |
