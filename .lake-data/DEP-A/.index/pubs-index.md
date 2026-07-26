@@ -3499,3 +3499,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving* | Jianxin Yan; Wangze Ni; Zhenxin Li; Jiabao Jin; Zhitao Shen; Haoyang Li; Jia Zhu; Peng Cheng; Xuemin Lin; Lei Chen; Kui Ren | [arXiv:2606.05875v1](https://arxiv.org/abs/2606.05875v1) - [DOI](https://doi.org/10.48550/arXiv.2606.05875) |
+
+
+## [DEP-A-20260727-MedRLM Blueprint](../DEP-A-20260727-MedRLM%20Blueprint/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.20164-whitepaper-review.md`](../DEP-A-20260727-MedRLM%20Blueprint/2606.20164-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization* | Aueaphum Aueawatthanaphisut | [arXiv:2606.20164v1](https://arxiv.org/abs/2606.20164v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20164) |
+
+
+## [DEP-A-20260727-GQE Sparse Queries](../DEP-A-20260727-GQE%20Sparse%20Queries/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.20945-whitepaper-review.md`](../DEP-A-20260727-GQE%20Sparse%20Queries/2606.20945-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention* | Vishesh Tripathi; Abhay Kumar | [arXiv:2606.20945v2](https://arxiv.org/abs/2606.20945v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20945) |
+
+
+## [DEP-A-20260727-VeriAttn TEE GPU](../DEP-A-20260727-VeriAttn%20TEE%20GPU/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.16352-whitepaper-review.md`](../DEP-A-20260727-VeriAttn%20TEE%20GPU/2606.16352-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Communication-Efficient Verifiable Attention for LLM Inference* | Ziqun Chen; Ming Wu; Michael Heinrich; Jason Zeng; Huiying Lan; Tianwei Zhang; Rui Tan | [arXiv:2606.16352v1](https://arxiv.org/abs/2606.16352v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16352) |
+
+
+## [DEP-A-20260727-Mobile NPU dLLM](../DEP-A-20260727-Mobile%20NPU%20dLLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.13740-whitepaper-review.md`](../DEP-A-20260727-Mobile%20NPU%20dLLM/2606.13740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient On-Device Diffusion LLM Inference with Mobile NPU* | Tuowei Wang; Yanfan Sun; Ju Ren | [arXiv:2606.13740v1](https://arxiv.org/abs/2606.13740v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13740) |
+
+
+## [DEP-A-20260727-SpecGen Kernels](../DEP-A-20260727-SpecGen%20Kernels/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-27. The owning review artifact is [`2606.17518-whitepaper-review.md`](../DEP-A-20260727-SpecGen%20Kernels/2606.17518-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpecGen: Accelerating Agentic Kernel Optimization with Speculative Generation* | Jihu Guo; Sitian Lu; Tenghui Ma; Wei Gao; Zhisheng Ye; Xingcheng Zhang; Dahua Lin | [arXiv:2606.17518v1](https://arxiv.org/abs/2606.17518v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17518) |
