@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **332 publication reviews across 201 DEP-E entries**.
+- Current coverage: **342 publication reviews across 202 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-27; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260727-Evidence-Gated Systems](../DEP-E-20260727-Evidence-Gated%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference* | Amirhossein Abaskohi; Giuseppe Carenini; Peter West; Yuhang He | [arXiv:2606.31145v1](https://arxiv.org/abs/2606.31145v1); [DOI](https://doi.org/10.48550/arXiv.2606.31145) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory* | Zihan Chen; Songwei Dong; Chengshuai Shi; Peng Wang; Song Wang; Cong Shen; Jundong Li | [arXiv:2606.31121v1](https://arxiv.org/abs/2606.31121v1); [DOI](https://doi.org/10.48550/arXiv.2606.31121) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense* | Mitchell Hermon; Rahul Gupta; Weitong Ruan; Ekraam Sabir; Haohan Wang | [arXiv:2606.30783v1](https://arxiv.org/abs/2606.30783v1); [DOI](https://doi.org/10.48550/arXiv.2606.30783) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming* | Yong Yang; Xing Zheng; Huiyu Wu; *et al.* | [arXiv:2606.31227v1](https://arxiv.org/abs/2606.31227v1); [DOI](https://doi.org/10.48550/arXiv.2606.31227) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express* | Richard Kang; Yudho Diponegoro | [arXiv:2606.31498v1](https://arxiv.org/abs/2606.31498v1); [DOI](https://doi.org/10.48550/arXiv.2606.31498) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation* | Yuan Wang; Wanxing Chang; Songtao Jiang; *et al.* | [arXiv:2606.31292v1](https://arxiv.org/abs/2606.31292v1); [DOI](https://doi.org/10.48550/arXiv.2606.31292) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning* | Kaitao Chen; Weiqian Zhao; Jiamin Wu; *et al.* | [arXiv:2606.31599v1](https://arxiv.org/abs/2606.31599v1); [DOI](https://doi.org/10.48550/arXiv.2606.31599) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Context-Verified, Error-Budget-Aware Decomposition Selection for Toffoli Networks* | Karol Bartkiewicz; Patrycja Tulewicz | [arXiv:2606.31791v1](https://arxiv.org/abs/2606.31791v1); [DOI](https://doi.org/10.48550/arXiv.2606.31791) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Automatic quantum function parallelization and memory management in Qrisp* | Raphael Seidel | [arXiv:2606.31837v1](https://arxiv.org/abs/2606.31837v1); [DOI](https://doi.org/10.48550/arXiv.2606.31837) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *An efficient Pauli decomposition algorithm for structured matrices* | Daniel J. Spencer; Kishor Bharti; Alexey V. Gorshkov | [arXiv:2606.31952v1](https://arxiv.org/abs/2606.31952v1); [DOI](https://doi.org/10.48550/arXiv.2606.31952) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
 
 ## [DEP-E-20260727-Memory and Agent Safety](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md)
 
