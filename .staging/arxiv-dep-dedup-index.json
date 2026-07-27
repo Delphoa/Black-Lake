@@ -2427,6 +2427,29 @@
         "https://doi.org/10.48550/arXiv.2007.01475"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260727-The Case of FBA as a DEX",
+        ".logs/20260727-Arxiv-The-Case-of-FBA-as-a-DEX-LOG.md",
+        ".reports/BL-Arxiv-The-Case-of-FBA-as-a-DEX-20260727/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.01177",
+      "arxiv_id": "2302.01177",
+      "commit_or_pr": "",
+      "deposit_date": "20260727",
+      "doi": "10.48550/arXiv.2302.01177",
+      "normalized_title": "The Case of FBA as a DEX Processing Model",
+      "notes": "Job BLAD-2200-20260727-ADBD50D5 item BLAD-2200-20260727-ADBD50D5-P07; draw 59181 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-Case-of-FBA-as-a-DEX",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.01177",
+        "https://arxiv.org/html/2302.01177",
+        "https://arxiv.org/pdf/2302.01177",
+        "https://doi.org/10.48550/arXiv.2302.01177"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

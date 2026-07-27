@@ -1438,3 +1438,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ODE-CNN: Omnidirectional Depth Extension Networks* | Cheng, Xinjing; Wang, Peng; Zhou, Yanqi; Guan, Chenye; Yang, Ruigang | [arXiv:2007.01475](https://arxiv.org/abs/2007.01475) - [DOI](https://doi.org/10.48550/arXiv.2007.01475) |
+
+
+## [DEP-E-20260727-The Case of FBA as a DEX](../DEP-E-20260727-The%20Case%20of%20FBA%20as%20a%20DEX/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Case of FBA as a DEX Processing Model* | Gong, Tiantian; Liu, Zeyu; Kate, Aniket | [arXiv:2302.01177](https://arxiv.org/abs/2302.01177) - [DOI](https://doi.org/10.48550/arXiv.2302.01177) |
