@@ -1466,3 +1466,19 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning* | Liu, Qiang; Han, Tao; Moges, Ephraim | [arXiv:2003.12911](https://arxiv.org/abs/2003.12911) - [DOI](https://doi.org/10.48550/arXiv.2003.12911) |
+
+
+## [DEP-E-20260728-Agent Reliability Gates](../DEP-E-20260728-Agent%20Reliability%20Gates/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Reward Hacking in Reinforcement Learning* | Yao, Jiayu; Wang, Yiwei; Zhang, Anmeng; Sun, Zhe; Wang, Songsong; Mei, Lingrui; Ge, Yuyao; Liu, Shenghua | [arXiv:2607.09492](https://arxiv.org/abs/2607.09492) - [DOI](https://doi.org/10.48550/arXiv.2607.09492) |
+| *Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation* | Zhou, Kaiji; Leonardis, Ales; Feng, Yue | [arXiv:2607.09600](https://arxiv.org/abs/2607.09600) - [DOI](https://doi.org/10.48550/arXiv.2607.09600) |
+| *LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making* | Xu, Zihan; Chen, Yanzhen; Zhang, Xiaocheng; Fan, Zhiting; Zhai, Weiqi; Xu, Hongxia; Liu, Zuozhu | [arXiv:2607.09322](https://arxiv.org/abs/2607.09322) - [DOI](https://doi.org/10.48550/arXiv.2607.09322) |
+| *OpenProver: Agentic and Interactive Theorem Proving with Lean 4* | Kripner, Matěj; Straka, Milan | [arXiv:2607.09217](https://arxiv.org/abs/2607.09217) - [DOI](https://doi.org/10.48550/arXiv.2607.09217) |
+| *Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents* | Takahara, Izumi; Mizoguchi, Teruyasu | [arXiv:2607.09195](https://arxiv.org/abs/2607.09195) - [DOI](https://doi.org/10.48550/arXiv.2607.09195) |
+| *Failure as a Process: An Anatomy of CLI Coding Agent Trajectories* | Zhao, Xiangxin; Li, Han; Li, Shuaiting; Zhao, Tianyi; Barr, Earl T.; Sarro, Federica; Ye, He | [arXiv:2607.09510](https://arxiv.org/abs/2607.09510) - [DOI](https://doi.org/10.48550/arXiv.2607.09510) |
+| *VEXA_IoT: Autonomous IoT Vulnerability EXploitation using AI Agents* | Swinea, Katherine; Aryal, Kshitiz; Praharaj, Lopamudra; Gupta, Maanak | [arXiv:2607.09653](https://arxiv.org/abs/2607.09653) - [DOI](https://doi.org/10.48550/arXiv.2607.09653) |
+| *Active rejection enables reliable generalization of universal machine-learning interatomic potentials* | Luo, Mingxiang; Mao, Xinnan; Wang, Lu; Bai, Lei; Ding, Feng; Li, Yuqiang | [arXiv:2607.09456](https://arxiv.org/abs/2607.09456) - [DOI](https://doi.org/10.48550/arXiv.2607.09456) |
+| *ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts* | Li, Jiawen; Guan, Tian; Shi, Huijuan; Ling, Xitong; Fu, Mingxi; Han, Anjia; He, Chao; He, Yonghong | [arXiv:2607.09526](https://arxiv.org/abs/2607.09526) - [DOI](https://doi.org/10.48550/arXiv.2607.09526) |
+| *ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI* | Mollapour, Mohadeseh; Aslansefat, Koorosh; Dehghani, Zeinab; Mishra, Bhupesh Kumar; Shah, Tejal; Mian, Zhibao | [arXiv:2607.09649](https://arxiv.org/abs/2607.09649) - [DOI](https://doi.org/10.48550/arXiv.2607.09649) |
