@@ -1431,3 +1431,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-Scenario Unified Modeling of User Interests at Billion Scale* | Xu, Manjie; Chen, Cheng; Jia, Xin; Zhou, Jingyi; Wu, Yongji; Wang, Zejian; Zhang, Chi; Zuo, Kai; Chen, Yibo; Tang, Xu; Hu, Yao; Zhu, Yixin | [arXiv:2510.14788](https://arxiv.org/abs/2510.14788) - [DOI](https://doi.org/10.48550/arXiv.2510.14788) |
+
+
+## [DEP-E-20260727-ODE-CNN Omnidirectional](../DEP-E-20260727-ODE-CNN%20Omnidirectional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ODE-CNN: Omnidirectional Depth Extension Networks* | Cheng, Xinjing; Wang, Peng; Zhou, Yanqi; Guan, Chenye; Yang, Ruigang | [arXiv:2007.01475](https://arxiv.org/abs/2007.01475) - [DOI](https://doi.org/10.48550/arXiv.2007.01475) |
