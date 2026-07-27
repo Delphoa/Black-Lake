@@ -1445,3 +1445,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Case of FBA as a DEX Processing Model* | Gong, Tiantian; Liu, Zeyu; Kate, Aniket | [arXiv:2302.01177](https://arxiv.org/abs/2302.01177) - [DOI](https://doi.org/10.48550/arXiv.2302.01177) |
+
+
+## [DEP-E-20260727-Simulating Classroom](../DEP-E-20260727-Simulating%20Classroom/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Simulating Classroom Education with LLM-Empowered Agents* | Zhang, Zheyuan; Zhang-Li, Daniel; Yu, Jifan; Gong, Linlu; Zhou, Jinchang; Hao, Zhanxin; Jiang, Jianxiao; Cao, Jie; Liu, Huiqin; Liu, Zhiyuan; Hou, Lei; Li, Juanzi | [arXiv:2406.19226](https://arxiv.org/abs/2406.19226) - [DOI](https://doi.org/10.48550/arXiv.2406.19226) |
