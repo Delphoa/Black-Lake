@@ -2358,6 +2358,29 @@
         "https://doi.org/10.48550/arXiv.2502.01401"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260727-Polydisc version of",
+        ".logs/20260727-Arxiv-Polydisc-version-of-Arveson-s-conjecture-LOG.md",
+        ".reports/BL-Arxiv-Polydisc-version-of-Arveson-s-conjecture-20260727/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1609.07777",
+      "arxiv_id": "1609.07777",
+      "commit_or_pr": "",
+      "deposit_date": "20260727",
+      "doi": "10.48550/arXiv.1609.07777",
+      "normalized_title": "Polydisc version of Arveson's conjecture",
+      "notes": "Job BLAD-2200-20260727-ADBD50D5 item BLAD-2200-20260727-ADBD50D5-P04; draw 51656 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Polydisc-version-of-Arveson-s-conjecture",
+      "source_urls": [
+        "https://arxiv.org/abs/1609.07777",
+        "https://ar5iv.labs.arxiv.org/html/1609.07777",
+        "https://arxiv.org/pdf/1609.07777",
+        "https://doi.org/10.48550/arXiv.1609.07777"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

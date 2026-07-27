@@ -1417,3 +1417,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Language-to-Space Programming for Training-Free 3D Visual Grounding* | Mi, Boyu; Wang, Hanqing; Wang, Tai; Chen, Yilun; Pang, Jiangmiao | [arXiv:2502.01401](https://arxiv.org/abs/2502.01401) - [DOI](https://doi.org/10.48550/arXiv.2502.01401) |
+
+
+## [DEP-E-20260727-Polydisc version of](../DEP-E-20260727-Polydisc%20version%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Polydisc version of Arveson's conjecture* | Wang, Penghui; Zhao, Chong | [arXiv:1609.07777](https://arxiv.org/abs/1609.07777) - [DOI](https://doi.org/10.48550/arXiv.1609.07777) |
