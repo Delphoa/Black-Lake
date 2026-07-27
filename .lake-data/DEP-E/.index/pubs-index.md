@@ -1403,3 +1403,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A New System of Global Fractional-order Interval Implicit Projection Neural Networks* | Wu, Zeng-bao; Li, Jin-dong; Huang, Nan-jing | [arXiv:1611.06665](https://arxiv.org/abs/1611.06665) - [DOI](https://doi.org/10.48550/arXiv.1611.06665) |
+
+
+## [DEP-E-20260727-Polar Codes with Memory](../DEP-E-20260727-Polar%20Codes%20with%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Polar Codes with Memory* | Zhou, Wenyue; Liu, Qiang; Shen, Yifei; Zhou, Xiaofeng; Zhang, Chuan; Xu, Yaohua; Li, Liping | [arXiv:1907.00527](https://arxiv.org/abs/1907.00527) - [DOI](https://doi.org/10.48550/arXiv.1907.00527) |
