@@ -1396,3 +1396,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Baichuan Alignment Technical Report* | Lin, Mingan; Yang, Fan; Shen, Yanjun; Sun, Haoze; Li, Tianpeng; Zhang, Tao; Zhu, Chenzheng; Zhang, Tao; Zheng, Miao; Li, Xu; Zhou, Yijie; Chen, Mingyang; Qin, Yanzhao; Li, Youquan; Liang, Hao; Li, Fei; Li, Yadong; Wang, Mang; Dong, Guosheng; Fang, Kun; Xu, Jianhua; Cui, Bin; Zhang, Wentao; Zhou, Zenan; Chen, Weipeng | [arXiv:2410.14940](https://arxiv.org/abs/2410.14940) - [DOI](https://doi.org/10.48550/arXiv.2410.14940) |
+
+
+## [DEP-E-20260727-A New System of Global](../DEP-E-20260727-A%20New%20System%20of%20Global/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A New System of Global Fractional-order Interval Implicit Projection Neural Networks* | Wu, Zeng-bao; Li, Jin-dong; Huang, Nan-jing | [arXiv:1611.06665](https://arxiv.org/abs/1611.06665) - [DOI](https://doi.org/10.48550/arXiv.1611.06665) |

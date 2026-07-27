@@ -2289,6 +2289,29 @@
         "https://doi.org/10.48550/arXiv.2410.14940"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260727-A New System of Global",
+        ".logs/20260727-Arxiv-A-New-System-of-Global-Fractional-order-LOG.md",
+        ".reports/BL-Arxiv-A-New-System-of-Global-Fractional-order-20260727/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1611.06665",
+      "arxiv_id": "1611.06665",
+      "commit_or_pr": "",
+      "deposit_date": "20260727",
+      "doi": "10.48550/arXiv.1611.06665",
+      "normalized_title": "A New System of Global Fractional-order Interval Implicit Projection Neural Networks",
+      "notes": "Job BLAD-2200-20260727-ADBD50D5 item BLAD-2200-20260727-ADBD50D5-P01; draw 27246 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-New-System-of-Global-Fractional-order",
+      "source_urls": [
+        "https://arxiv.org/abs/1611.06665",
+        "https://ar5iv.labs.arxiv.org/html/1611.06665",
+        "https://arxiv.org/pdf/1611.06665",
+        "https://doi.org/10.48550/arXiv.1611.06665"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -3059,5 +3082,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-26"
+  "updated_date": "2026-07-27"
 }
