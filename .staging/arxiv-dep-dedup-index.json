@@ -2335,6 +2335,29 @@
         "https://doi.org/10.48550/arXiv.1907.00527"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260727-Language-to-Space",
+        ".logs/20260727-Arxiv-Language-to-Space-Programming-for-Training-Free-LOG.md",
+        ".reports/BL-Arxiv-Language-to-Space-Programming-for-Training-Free-20260727/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.01401",
+      "arxiv_id": "2502.01401",
+      "commit_or_pr": "",
+      "deposit_date": "20260727",
+      "doi": "10.48550/arXiv.2502.01401",
+      "normalized_title": "Language-to-Space Programming for Training-Free 3D Visual Grounding",
+      "notes": "Job BLAD-2200-20260727-ADBD50D5 item BLAD-2200-20260727-ADBD50D5-P03; draw 72018 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Language-to-Space-Programming-for-Training-Free",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.01401",
+        "https://arxiv.org/html/2502.01401v1",
+        "https://arxiv.org/pdf/2502.01401",
+        "https://doi.org/10.48550/arXiv.2502.01401"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
