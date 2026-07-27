@@ -2381,6 +2381,29 @@
         "https://doi.org/10.48550/arXiv.1609.07777"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260727-Cross-Scenario Unified",
+        ".logs/20260727-Arxiv-Cross-Scenario-Unified-Modeling-of-User-LOG.md",
+        ".reports/BL-Arxiv-Cross-Scenario-Unified-Modeling-of-User-20260727/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.14788",
+      "arxiv_id": "2510.14788",
+      "commit_or_pr": "",
+      "deposit_date": "20260727",
+      "doi": "10.48550/arXiv.2510.14788",
+      "normalized_title": "Cross-Scenario Unified Modeling of User Interests at Billion Scale",
+      "notes": "Job BLAD-2200-20260727-ADBD50D5 item BLAD-2200-20260727-ADBD50D5-P05; draw 66290 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Cross-Scenario-Unified-Modeling-of-User",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.14788",
+        "https://arxiv.org/html/2510.14788",
+        "https://arxiv.org/pdf/2510.14788",
+        "https://doi.org/10.48550/arXiv.2510.14788"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

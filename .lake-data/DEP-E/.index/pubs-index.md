@@ -1424,3 +1424,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Polydisc version of Arveson's conjecture* | Wang, Penghui; Zhao, Chong | [arXiv:1609.07777](https://arxiv.org/abs/1609.07777) - [DOI](https://doi.org/10.48550/arXiv.1609.07777) |
+
+
+## [DEP-E-20260727-Cross-Scenario Unified](../DEP-E-20260727-Cross-Scenario%20Unified/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Scenario Unified Modeling of User Interests at Billion Scale* | Xu, Manjie; Chen, Cheng; Jia, Xin; Zhou, Jingyi; Wu, Yongji; Wang, Zejian; Zhang, Chi; Zuo, Kai; Chen, Yibo; Tang, Xu; Hu, Yao; Zhu, Yixin | [arXiv:2510.14788](https://arxiv.org/abs/2510.14788) - [DOI](https://doi.org/10.48550/arXiv.2510.14788) |
