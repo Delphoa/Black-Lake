@@ -2619,6 +2619,31 @@
         "https://doi.org/10.48550/arXiv.2310.15743"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md",
+        ".logs/20260728-Arxiv-CanCal-Towards-Real-time-and-Lightweight-Ransomware-Detection-and-LOG.md",
+        ".reports/BL-Arxiv-CanCal-Towards-Real-time-and-Lightweight-Ransomware-Detection-and-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2408.16515",
+      "arxiv_id": "2408.16515",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P05",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2408.16515",
+      "normalized_title": "CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "CanCal-Towards-Real-time-and-Lightweight-Ransomware-Detection-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2408.16515",
+        "https://arxiv.org/html/2408.16515",
+        "https://arxiv.org/pdf/2408.16515",
+        "https://doi.org/10.48550/arXiv.2408.16515"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
