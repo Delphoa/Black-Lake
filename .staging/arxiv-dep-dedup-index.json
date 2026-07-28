@@ -2594,6 +2594,31 @@
         "https://doi.org/10.48550/arXiv.2310.08751"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md",
+        ".logs/20260728-Arxiv-RAPL-A-Relation-Aware-Prototype-Learning-Approach-for-Few-LOG.md",
+        ".reports/BL-Arxiv-RAPL-A-Relation-Aware-Prototype-Learning-Approach-for-Few-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.15743",
+      "arxiv_id": "2310.15743",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P04",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2310.15743",
+      "normalized_title": "RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "RAPL-A-Relation-Aware-Prototype-Learning-Approach-for-Few",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.15743",
+        "https://ar5iv.labs.arxiv.org/html/2310.15743",
+        "https://arxiv.org/pdf/2310.15743",
+        "https://doi.org/10.48550/arXiv.2310.15743"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
