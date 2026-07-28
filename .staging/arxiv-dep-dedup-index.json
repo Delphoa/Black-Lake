@@ -2719,6 +2719,31 @@
         "https://doi.org/10.48550/arXiv.2402.02658"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md",
+        ".logs/20260728-Arxiv-FLASH-Efficient-Visuomotor-Policy-via-Sparse-Sampling-LOG.md",
+        ".reports/BL-Arxiv-FLASH-Efficient-Visuomotor-Policy-via-Sparse-Sampling-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.15492",
+      "arxiv_id": "2605.15492",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P09",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2605.15492",
+      "normalized_title": "FLASH: Efficient Visuomotor Policy via Sparse Sampling",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "FLASH-Efficient-Visuomotor-Policy-via-Sparse-Sampling",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.15492",
+        "https://arxiv.org/html/2605.15492",
+        "https://arxiv.org/pdf/2605.15492",
+        "https://doi.org/10.48550/arXiv.2605.15492"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
