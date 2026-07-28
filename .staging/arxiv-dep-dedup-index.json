@@ -2669,6 +2669,31 @@
         "https://doi.org/10.48550/arXiv.1306.2866"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md",
+        ".logs/20260728-Arxiv-HeightFormer-Learning-Height-Prediction-in-Voxel-Features-for-Roadside-LOG.md",
+        ".reports/BL-Arxiv-HeightFormer-Learning-Height-Prediction-in-Voxel-Features-for-Roadside-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.10777",
+      "arxiv_id": "2503.10777",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P07",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2503.10777",
+      "normalized_title": "HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "HeightFormer-Learning-Height-Prediction-in-Voxel-Features-for-Roadside",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.10777",
+        "https://arxiv.org/html/2503.10777",
+        "https://arxiv.org/pdf/2503.10777",
+        "https://doi.org/10.48550/arXiv.2503.10777"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
