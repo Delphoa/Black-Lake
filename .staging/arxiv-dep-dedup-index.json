@@ -2644,6 +2644,31 @@
         "https://doi.org/10.48550/arXiv.2408.16515"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-Hierarchical structuring/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-Hierarchical structuring/hierarchical_structuring_manuscript.md",
+        ".logs/20260728-Arxiv-Hierarchical-structuring-of-Cultural-Heritage-objects-within-large-aggregations-LOG.md",
+        ".reports/BL-Arxiv-Hierarchical-structuring-of-Cultural-Heritage-objects-within-large-aggregations-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1306.2866",
+      "arxiv_id": "1306.2866",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P06",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.1306.2866",
+      "normalized_title": "Hierarchical structuring of Cultural Heritage objects within large aggregations",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "Hierarchical-structuring-of-Cultural-Heritage-objects-within-large-aggregations",
+      "source_urls": [
+        "https://arxiv.org/abs/1306.2866",
+        "https://ar5iv.labs.arxiv.org/html/1306.2866",
+        "https://arxiv.org/pdf/1306.2866",
+        "https://doi.org/10.48550/arXiv.1306.2866"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
