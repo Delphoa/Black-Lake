@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **363 publication reviews across 214 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-27; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **374 publication reviews across 215 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-28; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -18,6 +18,22 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors | Canonical source | Owning DEP |
 |---|---|---|---|
 | *The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction* | Xiaogang Peng; Xiao Zhou; Yikai Luo; Hao Wen; Yu Ding; Zizhao Wu | [arXiv:2306.13566v2](https://arxiv.org/abs/2306.13566v2); [DOI](https://doi.org/10.48550/arXiv.2306.13566) | [DEP-E](../DEP-E-20260728-MI-Motion%20Review/README.md) |
+
+## [DEP-E-20260728-Reliability Proof Chains](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *A Self-Evolving Agentic System for Automated Generation and Execution of Biological Protocols* | Yankai Jiang; Weiting Tang; Haoran Sun; *et al.* | [arXiv:2606.31763](https://arxiv.org/abs/2606.31763); [DOI](https://doi.org/10.48550/arXiv.2606.31763) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *ACE: Pluggable Adaptive Context Elasticizer across Agents* | Ning Liao; Zihao Long; Xiaoxing Wang; *et al.* | [arXiv:2606.31564](https://arxiv.org/abs/2606.31564); [DOI](https://doi.org/10.48550/arXiv.2606.31564) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *AxDafny: Agentic Verified Code Generation in Dafny* | Benjamin Breen; Austin Letson; Borja Requena Pozo; Leopoldo Sarra | [arXiv:2606.32007](https://arxiv.org/abs/2606.32007); [DOI](https://doi.org/10.48550/arXiv.2606.32007) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Antaeus: Hunting Repository-Level Logic Vulnerabilities via Context-Grounded LLM Reasoning* | Michele Armillotta; Nicolò Romandini; Rebecca Montanari; Lorenzo Cavallaro | [arXiv:2607.01138](https://arxiv.org/abs/2607.01138); [DOI](https://doi.org/10.48550/arXiv.2607.01138) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems* | Chanwoo Choi; Euntae Kim; Kyuho Lee; *et al.* | [arXiv:2607.00422](https://arxiv.org/abs/2607.00422); [DOI](https://doi.org/10.48550/arXiv.2607.00422) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Xiaomi-GUI-0 Technical Report* | Wanxia Cao; Chengzhen Duan; Pei Fu; *et al.* | [arXiv:2606.31410](https://arxiv.org/abs/2606.31410); [DOI](https://doi.org/10.48550/arXiv.2606.31410) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *FARS: A Fully Automated Research System Deployed at Scale* | Qiong Tang; Tianxiang Sun; Xiangkun Hu; *et al.* | [arXiv:2606.31651](https://arxiv.org/abs/2606.31651); [DOI](https://doi.org/10.48550/arXiv.2606.31651) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Harnessing Textual Refusal Directions for Multimodal Safety* | Moreno D'Incà; Nicu Sebe; Massimiliano Mancini | [arXiv:2606.31876](https://arxiv.org/abs/2606.31876); [DOI](https://doi.org/10.48550/arXiv.2606.31876) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision* | Xianda Zheng; Huan Gao; Meng-Fen Chiang; Michael Witbrock; Kaiqi Zhao; Shangyang Li | [arXiv:2606.31800](https://arxiv.org/abs/2606.31800); [DOI](https://doi.org/10.48550/arXiv.2606.31800) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation* | Matthias Werner | [arXiv:2607.01227](https://arxiv.org/abs/2607.01227); [DOI](https://doi.org/10.48550/arXiv.2607.01227) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities* | Corban Villa; Sohee Kim; Austin Chu; Alon Shakevsky; Raluca Ada Popa | [arXiv:2606.26933](https://arxiv.org/abs/2606.26933); [DOI](https://doi.org/10.48550/arXiv.2606.26933) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
 
 ## [DEP-E-20260727-Evidence-Gated Systems](../DEP-E-20260727-Evidence-Gated%20Systems/README.md)
 
