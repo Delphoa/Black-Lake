@@ -2694,6 +2694,31 @@
         "https://doi.org/10.48550/arXiv.2503.10777"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md",
+        ".logs/20260728-Arxiv-Multi-step-Problem-Solving-Through-a-Verifier-An-Empirical-LOG.md",
+        ".reports/BL-Arxiv-Multi-step-Problem-Solving-Through-a-Verifier-An-Empirical-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2402.02658",
+      "arxiv_id": "2402.02658",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P08",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2402.02658",
+      "normalized_title": "Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "Multi-step-Problem-Solving-Through-a-Verifier-An-Empirical",
+      "source_urls": [
+        "https://arxiv.org/abs/2402.02658",
+        "https://arxiv.org/html/2402.02658",
+        "https://arxiv.org/pdf/2402.02658",
+        "https://doi.org/10.48550/arXiv.2402.02658"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
