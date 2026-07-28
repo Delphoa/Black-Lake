@@ -2569,6 +2569,31 @@
         "https://doi.org/10.48550/arXiv.2205.01608"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md",
+        ".logs/20260728-Arxiv-Constrained-Bayesian-Optimization-with-Adaptive-Active-Learning-of-Unknown-LOG.md",
+        ".reports/BL-Arxiv-Constrained-Bayesian-Optimization-with-Adaptive-Active-Learning-of-Unknown-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.08751",
+      "arxiv_id": "2310.08751",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P03",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2310.08751",
+      "normalized_title": "Constrained Bayesian Optimization with Adaptive Active Learning of Unknown Constraints",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "Constrained-Bayesian-Optimization-with-Adaptive-Active-Learning-of-Unknown",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.08751",
+        "https://arxiv.org/html/2310.08751",
+        "https://arxiv.org/pdf/2310.08751",
+        "https://doi.org/10.48550/arXiv.2310.08751"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

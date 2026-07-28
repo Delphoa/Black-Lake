@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **376 publication reviews across 217 DEP-E entries**.
+- Current coverage: **377 publication reviews across 218 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-28; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260728-Constrained Bayesian](../DEP-E-20260728-Constrained%20Bayesian/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Constrained Bayesian Optimization with Adaptive Active Learning of Unknown Constraints* | Zhang, Fengxue; Zhu, Zejie; Chen, Yuxin | [arXiv:2310.08751](https://arxiv.org/abs/2310.08751); [DOI](https://doi.org/10.48550/arXiv.2310.08751) | [DEP-E](../DEP-E-20260728-Constrained%20Bayesian/README.md) |
 
 ## [DEP-E-20260728-Local Stochastic Bilevel](../DEP-E-20260728-Local%20Stochastic%20Bilevel/README.md)
 
