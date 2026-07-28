@@ -2544,6 +2544,31 @@
         "https://doi.org/10.48550/arXiv.2502.00987"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/README.md",
+        ".lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md",
+        ".logs/20260728-Arxiv-Local-Stochastic-Bilevel-Optimization-with-Momentum-Based-Variance-Reduction-LOG.md",
+        ".reports/BL-Arxiv-Local-Stochastic-Bilevel-Optimization-with-Momentum-Based-Variance-Reduction-20260728/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.01608",
+      "arxiv_id": "2205.01608",
+      "commit_or_pr": "",
+      "deployment_item_id": "BLAD-2200-20260728-EB036F17-P02",
+      "deployment_job_id": "BLAD-2200-20260728-EB036F17",
+      "deposit_date": "20260728",
+      "doi": "10.48550/arXiv.2205.01608",
+      "normalized_title": "Local Stochastic Bilevel Optimization with Momentum-Based Variance Reduction",
+      "notes": "Verified complete source reviewed source-first; all source files withheld locally; direct commit recorded in repository history.",
+      "slug": "Local-Stochastic-Bilevel-Optimization-with-Momentum-Based-Variance-Reduction",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.01608",
+        "https://ar5iv.labs.arxiv.org/html/2205.01608",
+        "https://arxiv.org/pdf/2205.01608",
+        "https://doi.org/10.48550/arXiv.2205.01608"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
