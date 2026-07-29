@@ -4035,3 +4035,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TGV-KV: Text-Grounded KV Eviction for Vision-Language Models* | Jizhihui Liu; Ruizi Han; Miao Zhang; Rui Shao; Xuebo Liu; Weili Guan; Yaowei Wang | [arXiv:2606.03075v1](https://arxiv.org/abs/2606.03075v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03075) |
+
+
+## [DEP-A-20260730-Eywa Provenance](../DEP-A-20260730-Eywa%20Provenance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.30771-whitepaper-review.md`](../DEP-A-20260730-Eywa%20Provenance/2605.30771-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Eywa: Provenance-Grounded Long-Term Memory for AI Agents* | Resham Joshi | [arXiv:2605.30771v1](https://arxiv.org/abs/2605.30771v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30771) |
+
+
+## [DEP-A-20260730-ForecastCompass](../DEP-A-20260730-ForecastCompass/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.30858-whitepaper-review.md`](../DEP-A-20260730-ForecastCompass/2605.30858-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ForecastCompass: Guiding Agentic Forecasting with Adaptive Factor Memory* | Yurui Chang; Yongkang Du; Yuanpu Cao; Jinghui Chen; Lu Lin | [arXiv:2605.30858v1](https://arxiv.org/abs/2605.30858v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30858) |
+
+
+## [DEP-A-20260730-DeferMem](../DEP-A-20260730-DeferMem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.22411-whitepaper-review.md`](../DEP-A-20260730-DeferMem/2605.22411-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeferMem: Query-Time Evidence Distillation via Reinforcement Learning for Long-Term Memory QA* | Jianing Yin; Tan Tang | [arXiv:2605.22411v1](https://arxiv.org/abs/2605.22411v1) - [DOI](https://doi.org/10.48550/arXiv.2605.22411) |
+
+
+## [DEP-A-20260730-MemIR Provenance](../DEP-A-20260730-MemIR%20Provenance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.25869-whitepaper-review.md`](../DEP-A-20260730-MemIR%20Provenance/2605.25869-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mitigating Provenance-Role Collapse in Long-Term Agents via Typed Memory Representation* | Zhengda Jin; Bingbing Wang; Jing Li; Ruifeng Xu; Min Zhang | [arXiv:2605.25869v1](https://arxiv.org/abs/2605.25869v1) - [DOI](https://doi.org/10.48550/arXiv.2605.25869) |
+
+
+## [DEP-A-20260730-SAGE Graph Memory](../DEP-A-20260730-SAGE%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.12061-whitepaper-review.md`](../DEP-A-20260730-SAGE%20Graph%20Memory/2605.12061-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory* | Juntong Wang; Haoyue Zhao; guanghui Pan; Xiyuan Wang; Yanbo Wang; Qiyan Deng; Muhan Zhang | [arXiv:2605.12061v1](https://arxiv.org/abs/2605.12061v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12061) |
