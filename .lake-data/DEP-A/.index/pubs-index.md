@@ -3858,3 +3858,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MEMOREPAIR: Barrier-First Cascade Repair in Agentic Memory* | Zhao, Yang; Dai, Chengxiao; Kou, Mengying; Xiu, Yue | [arXiv:2605.07242v1](https://arxiv.org/abs/2605.07242v1) · [DOI](https://doi.org/10.48550/arXiv.2605.07242) |
+
+## [DEP-A-20260729-Echo Infinity Learning Ev](../DEP-A-20260729-Echo%20Infinity%20Learning%20Ev/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.04527-whitepaper-review.md`](../DEP-A-20260729-Echo%20Infinity%20Learning%20Ev/2606.04527-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation* | Bian, Yuxuan; Xue, Zeyue; Zhang, Songchun; Zhang, Shiyi; Jin, Weiyang; Li, Yaowei; Zhuang, Junhao; Li, Haoran; Huang, Jie; Huang, Haoyang; Duan, Nan; Xu, Qiang | [arXiv:2606.04527v1](https://arxiv.org/abs/2606.04527v1) · [DOI](https://doi.org/10.48550/arXiv.2606.04527) |
+
+
+## [DEP-A-20260729-Express Language Modeling](../DEP-A-20260729-Express%20Language%20Modeling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.10944-whitepaper-review.md`](../DEP-A-20260729-Express%20Language%20Modeling/2606.10944-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Express Language Modeling* | Gong, Albert; Carrell, Annabelle Michael; Dwivedi, Raaz; Mackey, Lester | [arXiv:2606.10944v1](https://arxiv.org/abs/2606.10944v1) · [DOI](https://doi.org/10.48550/arXiv.2606.10944) |
+
+
+## [DEP-A-20260729-YouZhi Towards High Concu](../DEP-A-20260729-YouZhi%20Towards%20High%20Concu/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.05868-whitepaper-review.md`](../DEP-A-20260729-YouZhi%20Towards%20High%20Concu/2606.05868-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *YouZhi: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition* | PSBC LLM Team; Huawei LLM Team; Long, Ruihan; Wu, Junjie; Zhang, Tianan; Zhang, Duo; Wu, Yaozong; Fu, Jinbin; Liu, Chang; Tang, Zhentao; Yang, Wenshuang; Wang, Xin; Song, Zhihao; Huang, Ning; Xu, Wenjing; Zong, Shuai; Sun, Shupei; Wang, Sen; Hu, Jing; Wang, Bin; Wang, Xinyu; Ju, Junkui; Ding, Zequn; Ran, Jie; Luo, Man; Kai, Shixiong; Hou, Linkai; Liang, Kaichao; Zhao, Hu; Zhao, Yang; Lin, Shucheng; Yu, Wei; Jiang, Chenghan; Ding, Jingjing; Zhang, Jiahui; Jin, Tian; Zhang, Yuhang; Guo, Dong; Sun, Wei; Xie, Jun; Li, Jianwei; Cao, Lei; Li, Pei; Li, Jiabin; Yuan, Jia; Yuan, Rui; Zhu, Jing; Yuan, Mingxuan; Lv, Zhangcheng; Jiang, Xin; Fei, Xiuhong; Ren, Xiaozhe; Li, Yulong; Zhang, Zhipeng; Wang, Hang; Xu, Zhaohui; Zhao, Rui; He, Yibo; Niu, Xinzhuang | [arXiv:2606.05868v1](https://arxiv.org/abs/2606.05868v1) · [DOI](https://doi.org/10.48550/arXiv.2606.05868) |
+
+
+## [DEP-A-20260729-Temporal Validity in Retr](../DEP-A-20260729-Temporal%20Validity%20in%20Retr/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26511-whitepaper-review.md`](../DEP-A-20260729-Temporal%20Validity%20in%20Retr/2606.26511-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge* | Yadav, Neeraj | [arXiv:2606.26511v1](https://arxiv.org/abs/2606.26511v1) · [DOI](https://doi.org/10.48550/arXiv.2606.26511) |
+
+
+## [DEP-A-20260729-LATTE Forecasting Peer An](../DEP-A-20260729-LATTE%20Forecasting%20Peer%20An/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.26612-whitepaper-review.md`](../DEP-A-20260729-LATTE%20Forecasting%20Peer%20An/2605.26612-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LATTE: Forecasting Peer Anchored Preference Trajectories for Personalized LLM Generation* | Li, Jinze; Yang, Xiaoyan; Yang, Shuo; Xu, Jinfeng; Shen, Yue; Wang, Jian; Gu, Jinjie; Ngai, Edith Cheuk-Han | [arXiv:2605.26612v1](https://arxiv.org/abs/2605.26612v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26612) |
