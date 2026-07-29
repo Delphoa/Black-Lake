@@ -3990,3 +3990,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents* | Wang, Chunxiao | [arXiv:2605.09863v1](https://arxiv.org/abs/2605.09863v1) · [DOI](https://doi.org/10.48550/arXiv.2605.09863) |
+
+
+## [DEP-A-20260729-Executable GUI Memory](../DEP-A-20260729-Executable%20GUI%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.12294-whitepaper-review.md`](../DEP-A-20260729-Executable%20GUI%20Memory/2605.12294-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Executable Agentic Memory for GUI Agent* | Zerui Qin; Sheng Yue; Xingyuan Hua; Yongjian Fu; Ju Ren | [arXiv:2605.12294v1](https://arxiv.org/abs/2605.12294v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12294) |
+
+
+## [DEP-A-20260729-SAGE Memory Gate](../DEP-A-20260729-SAGE%20Memory%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.30711-whitepaper-review.md`](../DEP-A-20260729-SAGE%20Memory%20Gate/2605.30711-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGE: A Novelty Gate for Efficient Memory Evolution in Agentic LLMs* | Sijia Wang; Dhanajit Brahma; Ricardo Henao | [arXiv:2605.30711v2](https://arxiv.org/abs/2605.30711v2) - [DOI](https://doi.org/10.48550/arXiv.2605.30711) |
+
+
+## [DEP-A-20260729-Hubness Admission Gate](../DEP-A-20260729-Hubness%20Admission%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.19692-whitepaper-review.md`](../DEP-A-20260729-Hubness%20Admission%20Gate/2606.19692-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Global Gating Is Enough: Admission-Time Hubness Control in Anisotropic Vector Retrieval Systems* | Prashant Kumar Pathak; Tarun Kumar Sharma | [arXiv:2606.19692v1](https://arxiv.org/abs/2606.19692v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19692) |
+
+
+## [DEP-A-20260729-ARReST WSI Index](../DEP-A-20260729-ARReST%20WSI%20Index/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26157-whitepaper-review.md`](../DEP-A-20260729-ARReST%20WSI%20Index/2606.26157-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval* | Jialiang Geng; Ghazal Alabtah; Saghir Alfasly; Wataru Uegami; H.R.Tizhoosh | [arXiv:2606.26157v1](https://arxiv.org/abs/2606.26157v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26157) |
+
+
+## [DEP-A-20260729-RAG Compression Scaling](../DEP-A-20260729-RAG%20Compression%20Scaling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.21807-whitepaper-review.md`](../DEP-A-20260729-RAG%20Compression%20Scaling/2606.21807-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fixed RAG Compression Collapses Measured Reader Scaling* | Sugam Panthi; Rabab Abdelfattah | [arXiv:2606.21807v1](https://arxiv.org/abs/2606.21807v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21807) |
