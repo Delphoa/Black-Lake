@@ -1619,3 +1619,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On a Utilitarian Approach to Privacy Preserving Text Generation* | Xu, Zekun; Aggarwal, Abhinav; Feyisetan, Oluwaseyi; Teissier, Nathanael | [arXiv:2104.11838](https://arxiv.org/abs/2104.11838) - [DOI](https://doi.org/10.48550/arXiv.2104.11838) |
+
+
+## [DEP-E-20260729-Private Matrix](../DEP-E-20260729-Private%20Matrix/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Private Matrix Approximation and Geometry of Unitary Orbits* | Mangoubi, Oren; Wu, Yikai; Kale, Satyen; Thakurta, Abhradeep Guha; Vishnoi, Nisheeth K. | [arXiv:2207.02794](https://arxiv.org/abs/2207.02794) - [DOI](https://doi.org/10.48550/arXiv.2207.02794) |
