@@ -1668,3 +1668,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Link Prediction on Latent Heterogeneous Graphs* | Nguyen, Trung-Kien; Liu, Zemin; Fang, Yuan | [arXiv:2302.10432](https://arxiv.org/abs/2302.10432) - [DOI](https://doi.org/10.48550/arXiv.2302.10432) |
+
+
+## [DEP-E-20260729-Transfer using Fourier](../DEP-E-20260729-Transfer%20using%20Fourier/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Transfer using Fourier transform and minimal representation of $E_7$* | Le, Nhat Hoang; Wang, Bryan Peng Jun | [arXiv:2507.18329](https://arxiv.org/abs/2507.18329) - [DOI](https://doi.org/10.48550/arXiv.2507.18329) |
