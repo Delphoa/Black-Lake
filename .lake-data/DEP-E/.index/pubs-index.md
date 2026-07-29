@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **332 publication reviews across 201 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-27; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **396 publication reviews across 228 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-29; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,130 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260729-Correspondence Insert](../DEP-E-20260729-Correspondence%20Insert/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Correspondence Insertion for As-Projective-As-Possible Image Stitching* | Liu, William X.; Chin, Tat-Jun | [arXiv:1608.07997](https://arxiv.org/abs/1608.07997); [DOI](https://doi.org/10.48550/arXiv.1608.07997) | [DEP-E](../DEP-E-20260729-Correspondence%20Insert/README.md) |
+
+## [DEP-E-20260729-Hybrid Spectrum Markets](../DEP-E-20260729-Hybrid%20Spectrum%20Markets/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Combining Spot and Futures Markets: A Hybrid Market Approach to Dynamic Spectrum Access* | Gao, Lin; Shou, Biying; Chen, Ying-Ju; Huang, Jianwei | [arXiv:1405.7175](https://arxiv.org/abs/1405.7175); [DOI](https://doi.org/10.48550/arXiv.1405.7175) | [DEP-E](../DEP-E-20260729-Hybrid%20Spectrum%20Markets/README.md) |
+
+## [DEP-E-20260729-Inspectable Agents](../DEP-E-20260729-Inspectable%20Agents/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *GPT-Red: Unlocking self-improvement through AI-powered red teaming* | OpenAI | [Official report](https://openai.com/index/unlocking-self-improvement-gpt-red/) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Separating signal from noise in coding evaluations* | OpenAI | [Official audit](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *STOCKTAKE: A Benchmark for Belief Tracking and Long-Horizon Decision-Making in Language Model Agents* | Deb, Sagar; Krishnan, Ashwanth | [arXiv:2607.13618](https://arxiv.org/abs/2607.13618); [DOI](https://doi.org/10.48550/arXiv.2607.13618) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Verbalizable Representations Form a Global Workspace in Language Models* | Gurnee, Wes; Sofroniew, Nicholas; Pearce, Adam; *et al.* | [Transformer Circuits](https://transformer-circuits.pub/2026/workspace/index.html) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Modular Pretraining Enables Access Control* | Roland, Ethan; Cubuktepe, Murat; Martinez, Erick; *et al.* | [arXiv:2607.08077](https://arxiv.org/abs/2607.08077); [DOI](https://doi.org/10.48550/arXiv.2607.08077) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Towards autonomous medical artificial intelligence agents* | Ferber, Dyke; Hilgers, Lars; Höper, Christiane; *et al.* | [Nature](https://doi.org/10.1038/s41586-026-10675-5) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *An agentic artificially intelligent X-ray scientist* | Chen, Zhantao; Petsch, Alexander N.; Israelski, Aidan J.; *et al.* | [Nature Machine Intelligence](https://doi.org/10.1038/s42256-026-01261-5) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Oracle Agent Memory: A Formal System for Governed, Auditable, and Evolutionary Context in Agentic AI* | Alake, Richmond; Bernardis, Andrea; Cayet, Amélie; *et al.* | [arXiv:2607.13157](https://arxiv.org/abs/2607.13157); [DOI](https://doi.org/10.48550/arXiv.2607.13157) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *HORCRUX: A Unified Cryptographic Processor for RSA and ML-KEM on FPGA and ASIC* | Dolmeta, Alessandra; Piscopo, Valeria; Hutter, Michael; Martina, Maurizio; Masera, Guido | [arXiv:2607.13939](https://arxiv.org/abs/2607.13939); [DOI](https://doi.org/10.48550/arXiv.2607.13939) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *PriEval-Protect: A Comprehensive Assessment of Privacy Protection in Large Language Models* | Chebil, Ilef; El Hadj, Asma; Yousfi, Souheib; Hedhili, Aroua; Sliman, Layth | [arXiv:2607.13754](https://arxiv.org/abs/2607.13754); [DOI](https://doi.org/10.48550/arXiv.2607.13754) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+
+## [DEP-E-20260728-CiteEval Principle-Driven](../DEP-E-20260728-CiteEval%20Principle-Driven/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *CiteEval: Principle-Driven Citation Evaluation for Source Attribution* | Xu, Yumo; Qi, Peng; Chen, Jifan; *et al.* | [arXiv:2506.01829](https://arxiv.org/abs/2506.01829); [DOI](https://doi.org/10.48550/arXiv.2506.01829) | [DEP-E](../DEP-E-20260728-CiteEval%20Principle-Driven/README.md) |
+
+## [DEP-E-20260728-FLASH Efficient](../DEP-E-20260728-FLASH%20Efficient/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *FLASH: Efficient Visuomotor Policy via Sparse Sampling* | Bai, Jiaqi; Jia, Jindou; Hu, Yuxuan; Li, Gen; Chen, Xiangyu; An, Tuo; Zuo, Kuangji; Yang, Jianfei | [arXiv:2605.15492](https://arxiv.org/abs/2605.15492); [DOI](https://doi.org/10.48550/arXiv.2605.15492) | [DEP-E](../DEP-E-20260728-FLASH%20Efficient/README.md) |
+
+## [DEP-E-20260728-Multi-step Problem](../DEP-E-20260728-Multi-step%20Problem/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision* | Wang, Zihan; Li, Yunxuan; Wu, Yuexin; Luo, Liangchen; Hou, Le; Yu, Hongkun; Shang, Jingbo | [arXiv:2402.02658](https://arxiv.org/abs/2402.02658); [DOI](https://doi.org/10.48550/arXiv.2402.02658) | [DEP-E](../DEP-E-20260728-Multi-step%20Problem/README.md) |
+
+## [DEP-E-20260728-HeightFormer Learning](../DEP-E-20260728-HeightFormer%20Learning/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer* | Zhang, Zhang; Sun, Chao; Yue, Chao; Wen, Da; Chen, Yujie; Wang, Tianze; Leng, Jianghao | [arXiv:2503.10777](https://arxiv.org/abs/2503.10777); [DOI](https://doi.org/10.48550/arXiv.2503.10777) | [DEP-E](../DEP-E-20260728-HeightFormer%20Learning/README.md) |
+
+## [DEP-E-20260728-Hierarchical structuring](../DEP-E-20260728-Hierarchical%20structuring/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Hierarchical structuring of Cultural Heritage objects within large aggregations* | Wang, Shenghui; Isaac, Antoine; Charles, Valentine; Koopman, Rob; Agoropoulou, Anthi; van der Werf, Titia | [arXiv:1306.2866](https://arxiv.org/abs/1306.2866); [DOI](https://doi.org/10.48550/arXiv.1306.2866) | [DEP-E](../DEP-E-20260728-Hierarchical%20structuring/README.md) |
+
+## [DEP-E-20260728-CanCal Towards Real-time](../DEP-E-20260728-CanCal%20Towards%20Real-time/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments* | Wang, Shenao; Dong, Feng; Yang, Hangfeng; Xu, Jingheng; Wang, Haoyu | [arXiv:2408.16515](https://arxiv.org/abs/2408.16515); [DOI](https://doi.org/10.48550/arXiv.2408.16515) | [DEP-E](../DEP-E-20260728-CanCal%20Towards%20Real-time/README.md) |
+
+## [DEP-E-20260728-RAPL Relation-Aware](../DEP-E-20260728-RAPL%20Relation-Aware/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction* | Meng, Shiao; Hu, Xuming; Liu, Aiwei; Li, Shu'ang; Ma, Fukun; Yang, Yawen; Wen, Lijie | [arXiv:2310.15743](https://arxiv.org/abs/2310.15743); [DOI](https://doi.org/10.48550/arXiv.2310.15743) | [DEP-E](../DEP-E-20260728-RAPL%20Relation-Aware/README.md) |
+
+## [DEP-E-20260728-Constrained Bayesian](../DEP-E-20260728-Constrained%20Bayesian/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Constrained Bayesian Optimization with Adaptive Active Learning of Unknown Constraints* | Zhang, Fengxue; Zhu, Zejie; Chen, Yuxin | [arXiv:2310.08751](https://arxiv.org/abs/2310.08751); [DOI](https://doi.org/10.48550/arXiv.2310.08751) | [DEP-E](../DEP-E-20260728-Constrained%20Bayesian/README.md) |
+
+## [DEP-E-20260728-Local Stochastic Bilevel](../DEP-E-20260728-Local%20Stochastic%20Bilevel/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Local Stochastic Bilevel Optimization with Momentum-Based Variance Reduction* | Li, Junyi; Huang, Feihu; Huang, Heng | [arXiv:2205.01608](https://arxiv.org/abs/2205.01608); [DOI](https://doi.org/10.48550/arXiv.2205.01608) | [DEP-E](../DEP-E-20260728-Local%20Stochastic%20Bilevel/README.md) |
+
+## [DEP-E-20260728-RandLoRA Full-rank](../DEP-E-20260728-RandLoRA%20Full-rank/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *RandLoRA: Full-rank parameter-efficient fine-tuning of large models* | Albert, Paul; Zhang, Frederic Z.; Saratchandran, Hemanth; Rodriguez-Opazo, Cristian; Hengel, Anton van den; Abbasnejad, Ehsan | [arXiv:2502.00987](https://arxiv.org/abs/2502.00987); [DOI](https://doi.org/10.48550/arXiv.2502.00987) | [DEP-E](../DEP-E-20260728-RandLoRA%20Full-rank/README.md) |
+
+## [DEP-E-20260728-MI-Motion Review](../DEP-E-20260728-MI-Motion%20Review/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction* | Xiaogang Peng; Xiao Zhou; Yikai Luo; Hao Wen; Yu Ding; Zizhao Wu | [arXiv:2306.13566v2](https://arxiv.org/abs/2306.13566v2); [DOI](https://doi.org/10.48550/arXiv.2306.13566) | [DEP-E](../DEP-E-20260728-MI-Motion%20Review/README.md) |
+
+## [DEP-E-20260728-Reliability Proof Chains](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *A Self-Evolving Agentic System for Automated Generation and Execution of Biological Protocols* | Yankai Jiang; Weiting Tang; Haoran Sun; *et al.* | [arXiv:2606.31763](https://arxiv.org/abs/2606.31763); [DOI](https://doi.org/10.48550/arXiv.2606.31763) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *ACE: Pluggable Adaptive Context Elasticizer across Agents* | Ning Liao; Zihao Long; Xiaoxing Wang; *et al.* | [arXiv:2606.31564](https://arxiv.org/abs/2606.31564); [DOI](https://doi.org/10.48550/arXiv.2606.31564) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *AxDafny: Agentic Verified Code Generation in Dafny* | Benjamin Breen; Austin Letson; Borja Requena Pozo; Leopoldo Sarra | [arXiv:2606.32007](https://arxiv.org/abs/2606.32007); [DOI](https://doi.org/10.48550/arXiv.2606.32007) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Antaeus: Hunting Repository-Level Logic Vulnerabilities via Context-Grounded LLM Reasoning* | Michele Armillotta; Nicolò Romandini; Rebecca Montanari; Lorenzo Cavallaro | [arXiv:2607.01138](https://arxiv.org/abs/2607.01138); [DOI](https://doi.org/10.48550/arXiv.2607.01138) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems* | Chanwoo Choi; Euntae Kim; Kyuho Lee; *et al.* | [arXiv:2607.00422](https://arxiv.org/abs/2607.00422); [DOI](https://doi.org/10.48550/arXiv.2607.00422) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Xiaomi-GUI-0 Technical Report* | Wanxia Cao; Chengzhen Duan; Pei Fu; *et al.* | [arXiv:2606.31410](https://arxiv.org/abs/2606.31410); [DOI](https://doi.org/10.48550/arXiv.2606.31410) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *FARS: A Fully Automated Research System Deployed at Scale* | Qiong Tang; Tianxiang Sun; Xiangkun Hu; *et al.* | [arXiv:2606.31651](https://arxiv.org/abs/2606.31651); [DOI](https://doi.org/10.48550/arXiv.2606.31651) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Harnessing Textual Refusal Directions for Multimodal Safety* | Moreno D'Incà; Nicu Sebe; Massimiliano Mancini | [arXiv:2606.31876](https://arxiv.org/abs/2606.31876); [DOI](https://doi.org/10.48550/arXiv.2606.31876) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision* | Xianda Zheng; Huan Gao; Meng-Fen Chiang; Michael Witbrock; Kaiqi Zhao; Shangyang Li | [arXiv:2606.31800](https://arxiv.org/abs/2606.31800); [DOI](https://doi.org/10.48550/arXiv.2606.31800) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation* | Matthias Werner | [arXiv:2607.01227](https://arxiv.org/abs/2607.01227); [DOI](https://doi.org/10.48550/arXiv.2607.01227) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+| *Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities* | Corban Villa; Sohee Kim; Austin Chu; Alon Shakevsky; Raluca Ada Popa | [arXiv:2606.26933](https://arxiv.org/abs/2606.26933); [DOI](https://doi.org/10.48550/arXiv.2606.26933) | [DEP-E](../DEP-E-20260728-Reliability%20Proof%20Chains/README.md) |
+
+## [DEP-E-20260727-Evidence-Gated Systems](../DEP-E-20260727-Evidence-Gated%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference* | Amirhossein Abaskohi; Giuseppe Carenini; Peter West; Yuhang He | [arXiv:2606.31145v1](https://arxiv.org/abs/2606.31145v1); [DOI](https://doi.org/10.48550/arXiv.2606.31145) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory* | Zihan Chen; Songwei Dong; Chengshuai Shi; Peng Wang; Song Wang; Cong Shen; Jundong Li | [arXiv:2606.31121v1](https://arxiv.org/abs/2606.31121v1); [DOI](https://doi.org/10.48550/arXiv.2606.31121) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense* | Mitchell Hermon; Rahul Gupta; Weitong Ruan; Ekraam Sabir; Haohan Wang | [arXiv:2606.30783v1](https://arxiv.org/abs/2606.30783v1); [DOI](https://doi.org/10.48550/arXiv.2606.30783) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming* | Yong Yang; Xing Zheng; Huiyu Wu; *et al.* | [arXiv:2606.31227v1](https://arxiv.org/abs/2606.31227v1); [DOI](https://doi.org/10.48550/arXiv.2606.31227) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express* | Richard Kang; Yudho Diponegoro | [arXiv:2606.31498v1](https://arxiv.org/abs/2606.31498v1); [DOI](https://doi.org/10.48550/arXiv.2606.31498) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation* | Yuan Wang; Wanxing Chang; Songtao Jiang; *et al.* | [arXiv:2606.31292v1](https://arxiv.org/abs/2606.31292v1); [DOI](https://doi.org/10.48550/arXiv.2606.31292) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning* | Kaitao Chen; Weiqian Zhao; Jiamin Wu; *et al.* | [arXiv:2606.31599v1](https://arxiv.org/abs/2606.31599v1); [DOI](https://doi.org/10.48550/arXiv.2606.31599) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Context-Verified, Error-Budget-Aware Decomposition Selection for Toffoli Networks* | Karol Bartkiewicz; Patrycja Tulewicz | [arXiv:2606.31791v1](https://arxiv.org/abs/2606.31791v1); [DOI](https://doi.org/10.48550/arXiv.2606.31791) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *Automatic quantum function parallelization and memory management in Qrisp* | Raphael Seidel | [arXiv:2606.31837v1](https://arxiv.org/abs/2606.31837v1); [DOI](https://doi.org/10.48550/arXiv.2606.31837) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
+| *An efficient Pauli decomposition algorithm for structured matrices* | Daniel J. Spencer; Kishor Bharti; Alexey V. Gorshkov | [arXiv:2606.31952v1](https://arxiv.org/abs/2606.31952v1); [DOI](https://doi.org/10.48550/arXiv.2606.31952) | [DEP-E](../DEP-E-20260727-Evidence-Gated%20Systems/README.md) |
 
 ## [DEP-E-20260727-Memory and Agent Safety](../DEP-E-20260727-Memory%20and%20Agent%20Safety/README.md)
 
@@ -1388,3 +1512,96 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LogiAgent: Automated Logical Testing for REST Systems with LLM-Based Multi-Agents* | Zhang, Ke; Zhang, Chenxi; Wang, Chong; Zhang, Chi; Wu, YaChen; Xing, Zhenchang; Liu, Yang; Li, Qingshan; Peng, Xin | [arXiv:2503.15079](https://arxiv.org/abs/2503.15079) - [DOI](https://doi.org/10.48550/arXiv.2503.15079) |
+
+
+## [DEP-E-20260727-A New System of Global](../DEP-E-20260727-A%20New%20System%20of%20Global/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A New System of Global Fractional-order Interval Implicit Projection Neural Networks* | Wu, Zeng-bao; Li, Jin-dong; Huang, Nan-jing | [arXiv:1611.06665](https://arxiv.org/abs/1611.06665) - [DOI](https://doi.org/10.48550/arXiv.1611.06665) |
+
+
+## [DEP-E-20260727-Polar Codes with Memory](../DEP-E-20260727-Polar%20Codes%20with%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Polar Codes with Memory* | Zhou, Wenyue; Liu, Qiang; Shen, Yifei; Zhou, Xiaofeng; Zhang, Chuan; Xu, Yaohua; Li, Liping | [arXiv:1907.00527](https://arxiv.org/abs/1907.00527) - [DOI](https://doi.org/10.48550/arXiv.1907.00527) |
+
+
+## [DEP-E-20260727-Language-to-Space](../DEP-E-20260727-Language-to-Space/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Language-to-Space Programming for Training-Free 3D Visual Grounding* | Mi, Boyu; Wang, Hanqing; Wang, Tai; Chen, Yilun; Pang, Jiangmiao | [arXiv:2502.01401](https://arxiv.org/abs/2502.01401) - [DOI](https://doi.org/10.48550/arXiv.2502.01401) |
+
+
+## [DEP-E-20260727-Polydisc version of](../DEP-E-20260727-Polydisc%20version%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Polydisc version of Arveson's conjecture* | Wang, Penghui; Zhao, Chong | [arXiv:1609.07777](https://arxiv.org/abs/1609.07777) - [DOI](https://doi.org/10.48550/arXiv.1609.07777) |
+
+
+## [DEP-E-20260727-Cross-Scenario Unified](../DEP-E-20260727-Cross-Scenario%20Unified/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Scenario Unified Modeling of User Interests at Billion Scale* | Xu, Manjie; Chen, Cheng; Jia, Xin; Zhou, Jingyi; Wu, Yongji; Wang, Zejian; Zhang, Chi; Zuo, Kai; Chen, Yibo; Tang, Xu; Hu, Yao; Zhu, Yixin | [arXiv:2510.14788](https://arxiv.org/abs/2510.14788) - [DOI](https://doi.org/10.48550/arXiv.2510.14788) |
+
+
+## [DEP-E-20260727-ODE-CNN Omnidirectional](../DEP-E-20260727-ODE-CNN%20Omnidirectional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ODE-CNN: Omnidirectional Depth Extension Networks* | Cheng, Xinjing; Wang, Peng; Zhou, Yanqi; Guan, Chenye; Yang, Ruigang | [arXiv:2007.01475](https://arxiv.org/abs/2007.01475) - [DOI](https://doi.org/10.48550/arXiv.2007.01475) |
+
+
+## [DEP-E-20260727-The Case of FBA as a DEX](../DEP-E-20260727-The%20Case%20of%20FBA%20as%20a%20DEX/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Case of FBA as a DEX Processing Model* | Gong, Tiantian; Liu, Zeyu; Kate, Aniket | [arXiv:2302.01177](https://arxiv.org/abs/2302.01177) - [DOI](https://doi.org/10.48550/arXiv.2302.01177) |
+
+
+## [DEP-E-20260727-Simulating Classroom](../DEP-E-20260727-Simulating%20Classroom/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Simulating Classroom Education with LLM-Empowered Agents* | Zhang, Zheyuan; Zhang-Li, Daniel; Yu, Jifan; Gong, Linlu; Zhou, Jinchang; Hao, Zhanxin; Jiang, Jianxiao; Cao, Jie; Liu, Huiqin; Liu, Zhiyuan; Hou, Lei; Li, Juanzi | [arXiv:2406.19226](https://arxiv.org/abs/2406.19226) - [DOI](https://doi.org/10.48550/arXiv.2406.19226) |
+
+
+## [DEP-E-20260727-Kimi K2 5 Visual Agentic](../DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kimi K2.5: Visual Agentic Intelligence* | Kimi Team; Bai, Tongtong; Bai, Yifan; Bao, Yiping; Cai, S. H.; Cao, Yuan; Charles, Y.; Che, H. S.; Chen, Cheng; Chen, Guanduo; Chen, Huarong; Chen, Jia; Chen, Jiahao; Chen, Jianlong; Chen, Jun; Chen, Kefan; Chen, Liang; Chen, Ruijue; Chen, Xinhao; Chen, Yanru; Chen, Yanxu; Chen, Yicun; Chen, Yimin; Chen, Yingjiang; Chen, Yuankun; Chen, Yujie; Chen, Yutian; Chen, Zhirong; Chen, Ziwei; Cheng, Dazhi; Chu, Minghan; Cui, Jialei; Deng, Jiaqi; Diao, Muxi; Ding, Hao; Dong, Mengfan; Dong, Mengnan; Dong, Yuxin; Dong, Yuhao; Du, Angang; Du, Chenzhuang; Du, Dikang; Du, Lingxiao; Du, Yulun; Fan, Yu; Fang, Shengjun; Feng, Qiulin; Feng, Yichen; Fu, Garimugai; Fu, Kelin; Gao, Hongcheng; Gao, Tong; Ge, Yuyao; Geng, Shangyi; Gong, Chengyang; Gong, Xiaochen; Gongque, Zhuoma; Gu, Qizheng; Gu, Xinran; Gu, Yicheng; Guan, Longyu; Guo, Yuanying; Hao, Xiaoru; He, Weiran; He, Wenyang; He, Yunjia; Hong, Chao; Hu, Hao; Hu, Jiaxi; Hu, Yangyang; Hu, Zhenxing; Huang, Ke; Huang, Ruiyuan; Huang, Weixiao; Huang, Zhiqi; Jiang, Tao; Jiang, Zhejun; Jin, Xinyi; Jing, Yu; Lai, Guokun; Li, Aidi; Li, C.; Li, Cheng; Li, Fang; Li, Guanghe; Li, Guanyu; Li, Haitao; Li, Haoyang; Li, Jia; Li, Jingwei; Li, Junxiong; Li, Lincan; Li, Mo; Li, Weihong; Li, Wentao; Li, Xinhang; Li, Xinhao; Li, Yang; Li, Yanhao; Li, Yiwei; Li, Yuxiao; Li, Zhaowei; Li, Zheming; Liao, Weilong; Lin, Jiawei; Lin, Xiaohan; Lin, Zhishan; Lin, Zichao; Liu, Cheng; Liu, Chenyu; Liu, Hongzhang; Liu, Liang; Liu, Shaowei; Liu, Shudong; Liu, Shuran; Liu, Tianwei; Liu, Tianyu; Liu, Weizhou; Liu, Xiangyan; Liu, Yangyang; Liu, Yanming; Liu, Yibo; Liu, Yuanxin; Liu, Yue; Liu, Zhengying; Liu, Zhongnuo; Lu, Enzhe; Lu, Haoyu; Lu, Zhiyuan; Luo, Junyu; Luo, Tongxu; Luo, Yashuo; Ma, Long; Ma, Yingwei; Mao, Shaoguang; Mei, Yuan; Men, Xin; Meng, Fanqing; Meng, Zhiyong; Miao, Yibo; Ni, Minqing; Ouyang, Kun; Pan, Siyuan; Pang, Bo; Qian, Yuchao; Qin, Ruoyu; Qin, Zeyu; Qiu, Jiezhong; Qu, Bowen; Shang, Zeyu; Shao, Youbo; Shen, Tianxiao; Shen, Zhennan; Shi, Juanfeng; Shi, Lidong; Shi, Shengyuan; Song, Feifan; Song, Pengwei; Song, Tianhui; Song, Xiaoxi; Su, Hongjin; Su, Jianlin; Su, Zhaochen; Sui, Lin; Sun, Jinsong; Sun, Junyao; Sun, Tongyu; Sung, Flood; Tai, Yunpeng; Tang, Chuning; Tang, Heyi; Tang, Xiaojuan; Tang, Zhengyang; Tao, Jiawen; Teng, Shiyuan; Tian, Chaoran; Tian, Pengfei; Wang, Ao; Wang, Bowen; Wang, Chensi; Wang, Chuang; Wang, Congcong; Wang, Dingkun; Wang, Dinglu; Wang, Dongliang; Wang, Feng; Wang, Hailong; Wang, Haiming; Wang, Hengzhi; Wang, Huaqing; Wang, Hui; Wang, Jiahao; Wang, Jinhong; Wang, Jiuzheng; Wang, Kaixin; Wang, Linian; Wang, Qibin; Wang, Shengjie; Wang, Shuyi; Wang, Si; Wang, Wei; Wang, Xiaochen; Wang, Xinyuan; Wang, Yao; Wang, Yejie; Wang, Yipu; Wang, Yiqin; Wang, Yucheng; Wang, Yuzhi; Wang, Zhaoji; Wang, Zhaowei; Wang, Zhengtao; Wang, Zhexu; Wang, Zihan; Wang, Zizhe; Wei, Chu; Wei, Ming; Wen, Chuan; Wen, Zichen; Wu, Chengjie; Wu, Haoning; Wu, Junyan; Wu, Rucong; Wu, Wenhao; Wu, Yuefeng; Wu, Yuhao; Wu, Yuxin; Wu, Zijian; Xiao, Chenjun; Xie, Jin; Xie, Xiaotong; Xie, Yuchong; Xin, Yifei; Xing, Bowei; Xu, Boyu; Xu, Jianfan; Xu, Jing; Xu, Jinjing; Xu, L. H.; Xu, Lin; Xu, Suting; Xu, Weixin; Xu, Xinbo; Xu, Xinran; Xu, Yangchuan; Xu, Yichang; Xu, Yuemeng; Xu, Zelai; Xu, Ziyao; Yan, Junjie; Yan, Yuzi; Yang, Guangyao; Yang, Hao; Yang, Junwei; Yang, Kai; Yang, Ningyuan; Yang, Ruihan; Yang, Xiaofei; Yang, Xinlong; Yang, Ying; Yang, Yi; Yang, Yi; Yang, Zhen; Yang, Zhilin; Yang, Zonghan; Yao, Haotian; Ye, Dan; Ye, Wenjie; Ye, Zhuorui; Yin, Bohong; Yu, Chengzhen; Yu, Longhui; Yu, Tao; Yu, Tianxiang; Yuan, Enming; Yuan, Mengjie; Yuan, Xiaokun; Yue, Yang; Zeng, Weihao; Zha, Dunyuan; Zhan, Haobing; Zhang, Dehao; Zhang, Hao; Zhang, Jin; Zhang, Puqi; Zhang, Qiao; Zhang, Rui; Zhang, Xiaobin; Zhang, Y.; Zhang, Yadong; Zhang, Yangkun; Zhang, Yichi; Zhang, Yizhi; Zhang, Yongting; Zhang, Yu; Zhang, Yushun; Zhang, Yutao; Zhang, Yutong; Zhang, Zheng; Zhao, Chenguang; Zhao, Feifan; Zhao, Jinxiang; Zhao, Shuai; Zhao, Xiangyu; Zhao, Yikai; Zhao, Zijia; Zheng, Huabin; Zheng, Ruihan; Zheng, Shaojie; Zheng, Tengyang; Zhong, Junfeng; Zhong, Longguang; Zhong, Weiming; Zhou, M.; Zhou, Runjie; Zhou, Xinyu; Zhou, Zaida; Zhu, Jinguo; Zhu, Liya; Zhu, Xinhao; Zhu, Yuxuan; Zhu, Zhen; Zhuang, Jingze; Zhuang, Weiyu; Zou, Ying; Zu, Xinxing | [arXiv:2602.02276](https://arxiv.org/abs/2602.02276) - [DOI](https://doi.org/10.48550/arXiv.2602.02276) |
+
+
+## [DEP-E-20260727-EdgeSlice Slicing](../DEP-E-20260727-EdgeSlice%20Slicing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning* | Liu, Qiang; Han, Tao; Moges, Ephraim | [arXiv:2003.12911](https://arxiv.org/abs/2003.12911) - [DOI](https://doi.org/10.48550/arXiv.2003.12911) |
+
+
+## [DEP-E-20260728-Agent Reliability Gates](../DEP-E-20260728-Agent%20Reliability%20Gates/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Reward Hacking in Reinforcement Learning* | Yao, Jiayu; Wang, Yiwei; Zhang, Anmeng; Sun, Zhe; Wang, Songsong; Mei, Lingrui; Ge, Yuyao; Liu, Shenghua | [arXiv:2607.09492](https://arxiv.org/abs/2607.09492) - [DOI](https://doi.org/10.48550/arXiv.2607.09492) |
+| *Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation* | Zhou, Kaiji; Leonardis, Ales; Feng, Yue | [arXiv:2607.09600](https://arxiv.org/abs/2607.09600) - [DOI](https://doi.org/10.48550/arXiv.2607.09600) |
+| *LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making* | Xu, Zihan; Chen, Yanzhen; Zhang, Xiaocheng; Fan, Zhiting; Zhai, Weiqi; Xu, Hongxia; Liu, Zuozhu | [arXiv:2607.09322](https://arxiv.org/abs/2607.09322) - [DOI](https://doi.org/10.48550/arXiv.2607.09322) |
+| *OpenProver: Agentic and Interactive Theorem Proving with Lean 4* | Kripner, Matěj; Straka, Milan | [arXiv:2607.09217](https://arxiv.org/abs/2607.09217) - [DOI](https://doi.org/10.48550/arXiv.2607.09217) |
+| *Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents* | Takahara, Izumi; Mizoguchi, Teruyasu | [arXiv:2607.09195](https://arxiv.org/abs/2607.09195) - [DOI](https://doi.org/10.48550/arXiv.2607.09195) |
+| *Failure as a Process: An Anatomy of CLI Coding Agent Trajectories* | Zhao, Xiangxin; Li, Han; Li, Shuaiting; Zhao, Tianyi; Barr, Earl T.; Sarro, Federica; Ye, He | [arXiv:2607.09510](https://arxiv.org/abs/2607.09510) - [DOI](https://doi.org/10.48550/arXiv.2607.09510) |
+| *VEXA_IoT: Autonomous IoT Vulnerability EXploitation using AI Agents* | Swinea, Katherine; Aryal, Kshitiz; Praharaj, Lopamudra; Gupta, Maanak | [arXiv:2607.09653](https://arxiv.org/abs/2607.09653) - [DOI](https://doi.org/10.48550/arXiv.2607.09653) |
+| *Active rejection enables reliable generalization of universal machine-learning interatomic potentials* | Luo, Mingxiang; Mao, Xinnan; Wang, Lu; Bai, Lei; Ding, Feng; Li, Yuqiang | [arXiv:2607.09456](https://arxiv.org/abs/2607.09456) - [DOI](https://doi.org/10.48550/arXiv.2607.09456) |
+| *ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts* | Li, Jiawen; Guan, Tian; Shi, Huijuan; Ling, Xitong; Fu, Mingxi; Han, Anjia; He, Chao; He, Yonghong | [arXiv:2607.09526](https://arxiv.org/abs/2607.09526) - [DOI](https://doi.org/10.48550/arXiv.2607.09526) |
+| *ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI* | Mollapour, Mohadeseh; Aslansefat, Koorosh; Dehghani, Zeinab; Mishra, Bhupesh Kumar; Shah, Tejal; Mian, Zhibao | [arXiv:2607.09649](https://arxiv.org/abs/2607.09649) - [DOI](https://doi.org/10.48550/arXiv.2607.09649) |
+
+
+## [DEP-E-20260729-Group Control Swarms](../DEP-E-20260729-Group%20Control%20Swarms/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field* | Li, Siyu; Shervedani, Afagh Mehri; Žefran, Miloš; Paprotny, Igor | [arXiv:2406.13829v2](https://arxiv.org/abs/2406.13829v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2406.13829) - [Springer DOI](https://doi.org/10.1007/978-3-032-09967-9_14) |

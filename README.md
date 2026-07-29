@@ -27,7 +27,7 @@ Use this naming convention:
 
 ```text
 .lake-data/DEP-E/DEP-E-YYYYMMDD-Short Description
-.lake-data/DEP-R-YYYYMMDD-Short Description
+.lake-data/DEP-R/DEP-R-YYYYMMDD-Short Description
 .lake-data/DEP-A/DEP-A-YYYYMMDD-Short Description
 ```
 
@@ -47,7 +47,7 @@ Examples:
 
 ```text
 .lake-data/DEP-E/DEP-E-20260708-Agent Memory Study
-.lake-data/DEP-R-20260708-SEPCFG Paper
+.lake-data/DEP-R/DEP-R-20260708-SEPCFG Paper
 .lake-data/DEP-A/DEP-A-20260708-Model Weights Index
 ```
 
