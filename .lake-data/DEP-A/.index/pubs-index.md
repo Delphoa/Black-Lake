@@ -3814,3 +3814,47 @@ Review status: substantively reviewed from the complete Transformer Circuits Thr
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Verbalizable Representations Form a Global Workspace in Language Models* | Wes Gurnee; Nicholas Sofroniew; Adam Pearce; Mateusz Piotrowski; Isaac Kauvar; Runjin Chen; Anna Soligo; Paul Bogdan; Euan Ong; Rowan Wang; T. Ben Thompson; David Abrahams; Subhash Kantamneni; Emmanuel Ameisen; Joshua Batson; Jack Lindsey | [Transformer Circuits Thread](https://transformer-circuits.pub/2026/workspace/index.html) |
+
+## [DEP-A-20260729-MMed Bench IR A](../DEP-A-20260729-MMed%20Bench%20IR%20A/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.24200-whitepaper-review.md`](../DEP-A-20260729-MMed%20Bench%20IR%20A/2606.24200-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MMed-Bench-IR: A Heterogeneous Benchmark for Multilingual Medical Information Retrieval* | Lee, Junhyeok; Jang, Han; Goh, Hyeonjin; Choi, Kyu Sung | [arXiv:2606.24200v1](https://arxiv.org/abs/2606.24200v1) · [DOI](https://doi.org/10.48550/arXiv.2606.24200) |
+
+
+## [DEP-A-20260729-Novelty Aware Agentic Ret](../DEP-A-20260729-Novelty%20Aware%20Agentic%20Ret/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.22151-whitepaper-review.md`](../DEP-A-20260729-Novelty%20Aware%20Agentic%20Ret/2606.22151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Novelty-Aware Agentic Retrieval: Comparing Research Contributions Through Structured Multi-Step Reasoning* | Han, Shou-Tzu | [arXiv:2606.22151v1](https://arxiv.org/abs/2606.22151v1) · [DOI](https://doi.org/10.48550/arXiv.2606.22151) |
+
+
+## [DEP-A-20260729-mamabench and mamaretriev](../DEP-A-20260729-mamabench%20and%20mamaretriev/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.29467-whitepaper-review.md`](../DEP-A-20260729-mamabench%20and%20mamaretriev/2606.29467-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *mamabench and mamaretrieval: Benchmarks for Evaluating Medical Retrieval-Augmented Generation in Maternal, Neonatal, and Reproductive Health* | Ren, Yi | [arXiv:2606.29467v3](https://arxiv.org/abs/2606.29467v3) · [DOI](https://doi.org/10.48550/arXiv.2606.29467) |
+
+
+## [DEP-A-20260729-TLDR Compressing Audio To](../DEP-A-20260729-TLDR%20Compressing%20Audio%20To/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.09019-whitepaper-review.md`](../DEP-A-20260729-TLDR%20Compressing%20Audio%20To/2606.09019-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech* | Lee, Yejin; Moon, Junwon; Kim, Hyoeun; Choi, Hyunjin; Kim, Heeseung; Shim, Kyuhong | [arXiv:2606.09019v1](https://arxiv.org/abs/2606.09019v1) · [DOI](https://doi.org/10.48550/arXiv.2606.09019) |
+
+
+## [DEP-A-20260729-MEMOREPAIR Barrier First](../DEP-A-20260729-MEMOREPAIR%20Barrier%20First/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.07242-whitepaper-review.md`](../DEP-A-20260729-MEMOREPAIR%20Barrier%20First/2605.07242-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MEMOREPAIR: Barrier-First Cascade Repair in Agentic Memory* | Zhao, Yang; Dai, Chengxiao; Kou, Mengying; Xiu, Yue | [arXiv:2605.07242v1](https://arxiv.org/abs/2605.07242v1) · [DOI](https://doi.org/10.48550/arXiv.2605.07242) |
