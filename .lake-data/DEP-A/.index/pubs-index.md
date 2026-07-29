@@ -3946,3 +3946,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Causal Intervention-Based Memory Selection for Long-Horizon LLM Agents* | Srivastava, Saksham Sahai | [arXiv:2605.17641v1](https://arxiv.org/abs/2605.17641v1) · [DOI](https://doi.org/10.48550/arXiv.2605.17641) |
+
+## [DEP-A-20260729-Beyond Static Dialogues B](../DEP-A-20260729-Beyond%20Static%20Dialogues%20B/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.31086-whitepaper-review.md`](../DEP-A-20260729-Beyond%20Static%20Dialogues%20B/2605.31086-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory* | Zhang, Han; Tang, Zihao; Yu, Xin; Liu, Xiao; Gong, Yeyun; Huang, Haizhen; Lu, Yan; Deng, Weiwei; Sun, Feng; Zhang, Qi; Yang, Hanfang | [arXiv:2605.31086v2](https://arxiv.org/abs/2605.31086v2) · [DOI](https://doi.org/10.48550/arXiv.2605.31086) |
+
+
+## [DEP-A-20260729-Learning User Aware Recal](../DEP-A-20260729-Learning%20User%20Aware%20Recal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2607.00017-whitepaper-review.md`](../DEP-A-20260729-Learning%20User%20Aware%20Recal/2607.00017-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning User-Aware Recall: Personalized Retrieval in Long-Term Conversational Memory* | Jiang, ZhiShu; Liu, Haibo; Shen, Xin; QI, Guanqiang; Miao, Chenxi; Li, Weikang; Qian, Liwei; Pei, Xin; Huang, Jizhou | [arXiv:2607.00017v2](https://arxiv.org/abs/2607.00017v2) · [DOI](https://doi.org/10.48550/arXiv.2607.00017) |
+
+
+## [DEP-A-20260729-Goal Oriented Reasoning f](../DEP-A-20260729-Goal%20Oriented%20Reasoning%20f/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.12213-whitepaper-review.md`](../DEP-A-20260729-Goal%20Oriented%20Reasoning%20f/2605.12213-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Goal-Oriented Reasoning for RAG-based Memory in Conversational Agentic LLM Systems* | Liang, Jiazhou; Toroghi, Armin; Liu, Yifan Simon; Kalarde, Faeze Moradi; Gallagher, Liam; Sanner, Scott | [arXiv:2605.12213v2](https://arxiv.org/abs/2605.12213v2) · [DOI](https://doi.org/10.48550/arXiv.2605.12213) |
+
+
+## [DEP-A-20260729-MemGuard Preventing Memor](../DEP-A-20260729-MemGuard%20Preventing%20Memor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.28009-whitepaper-review.md`](../DEP-A-20260729-MemGuard%20Preventing%20Memor/2605.28009-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemGuard: Preventing Memory Contamination in Long-Term Memory-Augmented Large Language Models* | Ha, Hyeonjeong; Kim, Jeonghwan; Qian, Cheng; Liu, Jiayu; Campbell, William M.; Wu, Yue; Zhang, Yuji; McKeown, Kathleen; Hakkani-Tur, Dilek; Ji, Heng | [arXiv:2605.28009v1](https://arxiv.org/abs/2605.28009v1) · [DOI](https://doi.org/10.48550/arXiv.2605.28009) |
+
+
+## [DEP-A-20260729-Nautilus Compass Black bo](../DEP-A-20260729-Nautilus%20Compass%20Black%20bo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.09863-whitepaper-review.md`](../DEP-A-20260729-Nautilus%20Compass%20Black%20bo/2605.09863-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents* | Wang, Chunxiao | [arXiv:2605.09863v1](https://arxiv.org/abs/2605.09863v1) · [DOI](https://doi.org/10.48550/arXiv.2605.09863) |
