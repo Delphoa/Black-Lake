@@ -4125,3 +4125,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering* | Ansh Kamthan | [arXiv:2606.29090v1](https://arxiv.org/abs/2606.29090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29090) |
+
+
+## [DEP-A-20260729-Streaming Tool Intent](../DEP-A-20260729-Streaming%20Tool%20Intent/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.20113-whitepaper-review.md`](../DEP-A-20260729-Streaming%20Tool%20Intent/2606.20113-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Streaming Tool Use Help? Characterizing Tool-Intent Stabilization in Streaming Retrieval-Augmented Generation* | Elroy Galbraith | [arXiv:2606.20113v2](https://arxiv.org/abs/2606.20113v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20113) |
+
+
+## [DEP-A-20260729-Policy Aware Vectors](../DEP-A-20260729-Policy%20Aware%20Vectors/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.19803-whitepaper-review.md`](../DEP-A-20260729-Policy%20Aware%20Vectors/2606.19803-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Policy-aware Vector Search: A Vision for Fine Grained Access Control in Vector Databases* | Lakshmi Sahithi Yalamarthi; Primal Pappachan | [arXiv:2606.19803v1](https://arxiv.org/abs/2606.19803v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19803) |
+
+
+## [DEP-A-20260729-WAG Wearable Retrieval](../DEP-A-20260729-WAG%20Wearable%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.18763-whitepaper-review.md`](../DEP-A-20260729-WAG%20Wearable%20Retrieval/2605.18763-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Query-Conditioned Graph Retrieval for Contextualized LLM Reasoning in Personalized Wearable Data* | Zhenyu Lu; Mahyar Abbasian; Amir M. Rahmani | [arXiv:2605.18763v1](https://arxiv.org/abs/2605.18763v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18763) |
+
+
+## [DEP-A-20260729-RAG Security Survey](../DEP-A-20260729-RAG%20Security%20Survey/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25533-whitepaper-review.md`](../DEP-A-20260729-RAG%20Security%20Survey/2606.25533-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems* | Balamurugan Palanisamy; G S S Chalapathi; Vikas Hassija; Rajkumar Buyya | [arXiv:2606.25533v1](https://arxiv.org/abs/2606.25533v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25533) |
