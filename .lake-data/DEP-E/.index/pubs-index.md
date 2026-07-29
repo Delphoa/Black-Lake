@@ -1640,3 +1640,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rank Optimization for MIMO Channel with RIS: Simulation and Measurement* | Meng, Shengguo; Tang, Wankai; Chen, Weicong; Lan, Jifeng; Zhou, Qun Yan; Han, Yu; Li, Xiao; Jin, Shi | [arXiv:2307.13237](https://arxiv.org/abs/2307.13237) - [DOI](https://doi.org/10.1109/LWC.2023.3331489) |
+
+
+## [DEP-E-20260729-Decoupled Training with](../DEP-E-20260729-Decoupled%20Training%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning* | Ma, Yuting; Cheng, Lechao; Xu, Xiaohua | [arXiv:2605.27900](https://arxiv.org/abs/2605.27900) - [DOI](https://doi.org/10.48550/arXiv.2605.27900) |
