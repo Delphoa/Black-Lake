@@ -4080,3 +4080,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation* | Xiaochen Wang; Bao Hoang; Han Liu; Ting Wang; Fenglong Ma | [arXiv:2606.26458v1](https://arxiv.org/abs/2606.26458v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26458) |
+
+
+## [DEP-A-20260729-TRACE Poison Detection](../DEP-A-20260729-TRACE%20Poison%20Detection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25721-whitepaper-review.md`](../DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution* | Yan-Lun Chen; Pin-Yu Chen; Chia-Mu Yu; Ying-Dar Lin; Yu-Sung Wu; Wei-Bin Lee | [arXiv:2606.25721v1](https://arxiv.org/abs/2606.25721v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25721) |
+
+
+## [DEP-A-20260729-PhysRAG Video](../DEP-A-20260729-PhysRAG%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26916-whitepaper-review.md`](../DEP-A-20260729-PhysRAG%20Video/2606.26916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation* | Kexu Cheng; Zicheng Liu; Mingju Gao; Chunhe Song; Hao Tang | [arXiv:2606.26916v1](https://arxiv.org/abs/2606.26916v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26916) |
+
+
+## [DEP-A-20260729-SHIFT Conflict Gate](../DEP-A-20260729-SHIFT%20Conflict%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.27786-whitepaper-review.md`](../DEP-A-20260729-SHIFT%20Conflict%20Gate/2606.27786-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation* | Ruochang Li; Pengcheng Huang; Zhenghao Liu; Yukun Yan; Huiyuan Xie; Yu Gu; Ge Yu; Maosong Sun | [arXiv:2606.27786v1](https://arxiv.org/abs/2606.27786v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27786) |
+
+
+## [DEP-A-20260729-LCAi Perspective RAG](../DEP-A-20260729-LCAi%20Perspective%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26857-whitepaper-review.md`](../DEP-A-20260729-LCAi%20Perspective%20RAG/2606.26857-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation* | Georgios Tsironis; Juan D. Medrano-Garcia; Gonzalo Guillen-Gosalbez | [arXiv:2606.26857v1](https://arxiv.org/abs/2606.26857v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26857) |
+
+
+## [DEP-A-20260729-AB RAG Budget Control](../DEP-A-20260729-AB%20RAG%20Budget%20Control/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.29090-whitepaper-review.md`](../DEP-A-20260729-AB%20RAG%20Budget%20Control/2606.29090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering* | Ansh Kamthan | [arXiv:2606.29090v1](https://arxiv.org/abs/2606.29090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29090) |
