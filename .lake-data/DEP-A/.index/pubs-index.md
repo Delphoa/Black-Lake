@@ -4125,3 +4125,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemPro: Agentic Memory Systems as Evolvable Programs* | Qingshan Liu; Guoqing Wang; Wen Wu; Jingqi Huang; Xinqi Tao; Dejia Song; Jie Zhou; Liang He | [arXiv:2606.00619v1](https://arxiv.org/abs/2606.00619v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00619) |
+
+
+## [DEP-A-20260730-MiMo Inference](../DEP-A-20260730-MiMo%20Inference/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2607.13095-whitepaper-review.md`](../DEP-A-20260730-MiMo%20Inference/2607.13095-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit* | Xiaomi MiMo Team; Anqi Liu; Aoxin Ma; Bo Chen; Bo Yang; Chen Wang; Chen Zhang; Chengda Tang; Chengwei Wang; Chiheng Lou; Depeng Yan; Fuli Luo; Gang Wang; Hailin Zhang; Jiale Sun; Kang Zhou; Rui Huang; Shaohui Liu; Shen Huang; Shijie Cao; Shuaishuai Fan; Tianling Zhou; Xiangwei Deng; Xueyang Xie; Xuli Wang; Yingchun Lai; Yu Yang; Yuan Zhang; Zhen Tang; Zhonghua Deng; Zihan Jiang | [arXiv:2607.13095v1](https://arxiv.org/abs/2607.13095v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13095) |
+
+
+## [DEP-A-20260730-Unlimited OCR](../DEP-A-20260730-Unlimited%20OCR/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.23050-whitepaper-review.md`](../DEP-A-20260730-Unlimited%20OCR/2606.23050-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unlimited OCR Works* | Youyang Yin; Huanhuan Liu; Qunyi Xie; Chaorun Liu; Shiqi Yang; Shaohua Wang; Zhanlong Liu; Hao Zou; Jinyue Chen; Shu Wei; Jingjing Wu; Mingxin Huang; Zhen Wu; Guibin Wang; Tengyu Du; Lei Jia | [arXiv:2606.23050v1](https://arxiv.org/abs/2606.23050v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23050) |
+
+
+## [DEP-A-20260730-FleetAgent V2N](../DEP-A-20260730-FleetAgent%20V2N/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.21222-whitepaper-review.md`](../DEP-A-20260730-FleetAgent%20V2N/2606.21222-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FleetAgent: Teleoperation Assistant for Autonomous Fleets via Vectorized V2N Messages* | Juntong Peng; Qi Chen; Deyuan Qu; Takayuki Shimizu; Yaobin Chen; Ziran Wang | [arXiv:2606.21222v1](https://arxiv.org/abs/2606.21222v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21222) |
+
+
+## [DEP-A-20260730-KV Compression Stats](../DEP-A-20260730-KV%20Compression%20Stats/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2607.09683-whitepaper-review.md`](../DEP-A-20260730-KV%20Compression%20Stats/2607.09683-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ablation, Statistical Inference, and Validation for KV-Cache Compression* | Paolo D'Alberto; Ashish Siarasao; Elliott Delaye; Rajeev Patwari | [arXiv:2607.09683v1](https://arxiv.org/abs/2607.09683v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09683) |
