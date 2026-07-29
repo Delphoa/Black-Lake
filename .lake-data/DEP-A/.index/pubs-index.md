@@ -3990,3 +3990,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents* | Wang, Chunxiao | [arXiv:2605.09863v1](https://arxiv.org/abs/2605.09863v1) · [DOI](https://doi.org/10.48550/arXiv.2605.09863) |
+
+
+## [DEP-A-20260730-ACZ Visual Safety](../DEP-A-20260730-ACZ%20Visual%20Safety/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.07250-whitepaper-review.md`](../DEP-A-20260730-ACZ%20Visual%20Safety/2605.07250-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hard to Read, Easy to Jailbreak: How Visual Degradation Bypasses MLLM Safety Alignment* | Zhixue Song; Boyan Han; Yiwei Wang; Chi Zhang | [arXiv:2605.07250v1](https://arxiv.org/abs/2605.07250v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07250) |
+
+
+## [DEP-A-20260730-BabelTele Language](../DEP-A-20260730-BabelTele%20Language/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.19857-whitepaper-review.md`](../DEP-A-20260730-BabelTele%20Language/2606.19857-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large Language Models Do Not Always Need Readable Language* | Jiayi Zhu; Haoxuan Peng; Junxi Wang; Liang Ke; Chen Zhang; Linfeng Zhang | [arXiv:2606.19857v1](https://arxiv.org/abs/2606.19857v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19857) |
+
+
+## [DEP-A-20260730-EvolveMem](../DEP-A-20260730-EvolveMem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.13941-whitepaper-review.md`](../DEP-A-20260730-EvolveMem/2605.13941-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents* | Jiaqi Liu; Xinyu Ye; Peng Xia; Zeyu Zheng; Cihang Xie; Mingyu Ding; Huaxiu Yao | [arXiv:2605.13941v1](https://arxiv.org/abs/2605.13941v1) - [DOI](https://doi.org/10.48550/arXiv.2605.13941) |
+
+
+## [DEP-A-20260730-MUSE Autoskill](../DEP-A-20260730-MUSE%20Autoskill/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.27366-whitepaper-review.md`](../DEP-A-20260730-MUSE%20Autoskill/2605.27366-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation* | Huawei Lin; Peng Li; Jie Song; Fuxin Jiang; Tieying Zhang | [arXiv:2605.27366v2](https://arxiv.org/abs/2605.27366v2) - [DOI](https://doi.org/10.48550/arXiv.2605.27366) |
+
+
+## [DEP-A-20260730-TGV KV](../DEP-A-20260730-TGV%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.03075-whitepaper-review.md`](../DEP-A-20260730-TGV%20KV/2606.03075-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TGV-KV: Text-Grounded KV Eviction for Vision-Language Models* | Jizhihui Liu; Ruizi Han; Miao Zhang; Rui Shao; Xuebo Liu; Weili Guan; Yaowei Wang | [arXiv:2606.03075v1](https://arxiv.org/abs/2606.03075v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03075) |
