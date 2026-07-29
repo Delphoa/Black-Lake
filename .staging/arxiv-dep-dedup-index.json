@@ -2834,6 +2834,29 @@
         "https://doi.org/10.48550/arXiv.2207.02794"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-Decentralized Attention",
+        ".logs/20260729-Arxiv-Decentralized-Attention-Fails-Centralized-LOG.md",
+        ".reports/BL-Arxiv-Decentralized-Attention-Fails-Centralized-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.18473",
+      "arxiv_id": "2602.18473",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.48550/arXiv.2602.18473",
+      "normalized_title": "Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P03; draw 75230 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Decentralized-Attention-Fails-Centralized",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.18473",
+        "https://arxiv.org/html/2602.18473",
+        "https://arxiv.org/pdf/2602.18473",
+        "https://doi.org/10.48550/arXiv.2602.18473"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

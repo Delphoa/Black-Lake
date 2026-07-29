@@ -1626,3 +1626,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Private Matrix Approximation and Geometry of Unitary Orbits* | Mangoubi, Oren; Wu, Yikai; Kale, Satyen; Thakurta, Abhradeep Guha; Vishnoi, Nisheeth K. | [arXiv:2207.02794](https://arxiv.org/abs/2207.02794) - [DOI](https://doi.org/10.48550/arXiv.2207.02794) |
+
+
+## [DEP-E-20260729-Decentralized Attention](../DEP-E-20260729-Decentralized%20Attention/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series* | Yu, Guoqi; Wang, Juncheng; Yang, Chen; Qin, Jing; Aviles-Rivero, Angelica I.; Wang, Shujun | [arXiv:2602.18473](https://arxiv.org/abs/2602.18473) - [DOI](https://doi.org/10.48550/arXiv.2602.18473) |
