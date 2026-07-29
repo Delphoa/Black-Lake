@@ -3902,3 +3902,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LATTE: Forecasting Peer Anchored Preference Trajectories for Personalized LLM Generation* | Li, Jinze; Yang, Xiaoyan; Yang, Shuo; Xu, Jinfeng; Shen, Yue; Wang, Jian; Gu, Jinjie; Ngai, Edith Cheuk-Han | [arXiv:2605.26612v1](https://arxiv.org/abs/2605.26612v1) · [DOI](https://doi.org/10.48550/arXiv.2605.26612) |
+
+## [DEP-A-20260729-Visual Agentic Memory Ena](../DEP-A-20260729-Visual%20Agentic%20Memory%20Ena/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.16481-whitepaper-review.md`](../DEP-A-20260729-Visual%20Agentic%20Memory%20Ena/2605.16481-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visual Agentic Memory: Enabling Online Long Video Understanding via Online Indexing, Hierarchical Memory, and Agentic Retrieval* | Li, Aiden Yiliu; Numan, Nels; Steed, Anthony | [arXiv:2605.16481v1](https://arxiv.org/abs/2605.16481v1) · [DOI](https://doi.org/10.48550/arXiv.2605.16481) |
+
+
+## [DEP-A-20260729-MemConflict Evaluating Lo](../DEP-A-20260729-MemConflict%20Evaluating%20Lo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.20926-whitepaper-review.md`](../DEP-A-20260729-MemConflict%20Evaluating%20Lo/2605.20926-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemConflict: Evaluating Long-Term Memory Systems Under Memory Conflicts* | Tao, Zhen; Zhao, Jinxiang; Liu, Peng; Xi, Dinghao; Chen, Yanfang; Xu, Wei; Li, Zhiyu | [arXiv:2605.20926v1](https://arxiv.org/abs/2605.20926v1) · [DOI](https://doi.org/10.48550/arXiv.2605.20926) |
+
+
+## [DEP-A-20260729-VisMMOE Exploiting Visual](../DEP-A-20260729-VisMMOE%20Exploiting%20Visual/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.05899-whitepaper-review.md`](../DEP-A-20260729-VisMMOE%20Exploiting%20Visual/2605.05899-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VisMMOE: Exploiting Visual-Expert Affinity for Efficient Visual-Language MoE Offloading* | Xu, Cheng; Hou, Xiaofeng; Liu, Jiacheng; Li, Chao | [arXiv:2605.05899v1](https://arxiv.org/abs/2605.05899v1) · [DOI](https://doi.org/10.48550/arXiv.2605.05899) |
+
+
+## [DEP-A-20260729-Temporal Order Matters fo](../DEP-A-20260729-Temporal%20Order%20Matters%20fo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.04555-whitepaper-review.md`](../DEP-A-20260729-Temporal%20Order%20Matters%20fo/2606.04555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents* | Liu, Yifan Simon; Gallagher, Liam; Kalarde, Faeze Moradi; Liang, Jiazhou; Toroghi, Armin; Sanner, Scott | [arXiv:2606.04555v1](https://arxiv.org/abs/2606.04555v1) · [DOI](https://doi.org/10.48550/arXiv.2606.04555) |
+
+
+## [DEP-A-20260729-Causal Intervention Based](../DEP-A-20260729-Causal%20Intervention%20Based/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.17641-whitepaper-review.md`](../DEP-A-20260729-Causal%20Intervention%20Based/2605.17641-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Causal Intervention-Based Memory Selection for Long-Horizon LLM Agents* | Srivastava, Saksham Sahai | [arXiv:2605.17641v1](https://arxiv.org/abs/2605.17641v1) · [DOI](https://doi.org/10.48550/arXiv.2605.17641) |
