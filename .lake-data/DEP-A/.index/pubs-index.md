@@ -3805,3 +3805,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ElasticMem: Latent Memory as a Learnable Resource for LLM Agents* | Tao Feng; Chongrui Ye; Tianyang Luo; Jingjun Xu; Xueqiang Xu; Haozhen Zhang; Ge Liu; Jiaxuan You | [arXiv:2605.30690v1](https://arxiv.org/abs/2605.30690v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30690) |
+
+
+## [DEP-A-20260729-J-Space Workspace](../DEP-A-20260729-J-Space%20Workspace/README.md)
+
+Review status: substantively reviewed from the complete Transformer Circuits Thread paper, its official organization summary, and the official companion implementation metadata on 2026-07-29. The owning review artifact is [`j-space-workspace-review.md`](../DEP-A-20260729-J-Space%20Workspace/j-space-workspace-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verbalizable Representations Form a Global Workspace in Language Models* | Wes Gurnee; Nicholas Sofroniew; Adam Pearce; Mateusz Piotrowski; Isaac Kauvar; Runjin Chen; Anna Soligo; Paul Bogdan; Euan Ong; Rowan Wang; T. Ben Thompson; David Abrahams; Subhash Kantamneni; Emmanuel Ameisen; Joshua Batson; Jack Lindsey | [Transformer Circuits Thread](https://transformer-circuits.pub/2026/workspace/index.html) |
