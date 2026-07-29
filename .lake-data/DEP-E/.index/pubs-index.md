@@ -1654,3 +1654,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Systematic Survey of Automatic Prompt Optimization Techniques* | Ramnath, Kiran; Zhou, Kang; Guan, Sheng; Mishra, Soumya Smruti; Qi, Xuan; Shen, Zhengyuan; Wang, Shuai; Woo, Sangmin; Jeoung, Sullam; Wang, Yawei; Wang, Haozhu; Ding, Han; Lu, Yuzhe; Xu, Zhichao; Zhou, Yun; Srinivasan, Balasubramaniam; Yan, Qiaojing; Chen, Yueyan; Ding, Haibo; Xu, Panpan; Cheong, Lin Lee | [arXiv:2502.16923](https://arxiv.org/abs/2502.16923) - [DOI](https://doi.org/10.18653/v1/2025.emnlp-main.1681) |
+
+
+## [DEP-E-20260729-Remarks on the](../DEP-E-20260729-Remarks%20on%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Remarks on the Cryptographic Primitive of Attribute-based Encryption* | Cao, Zhengjun; Liu, Lihua | [arXiv:1408.4846](https://arxiv.org/abs/1408.4846) - [DOI](https://doi.org/10.48550/arXiv.1408.4846) |
