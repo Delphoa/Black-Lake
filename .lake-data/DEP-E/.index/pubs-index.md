@@ -1675,3 +1675,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Transfer using Fourier transform and minimal representation of $E_7$* | Le, Nhat Hoang; Wang, Bryan Peng Jun | [arXiv:2507.18329](https://arxiv.org/abs/2507.18329) - [DOI](https://doi.org/10.48550/arXiv.2507.18329) |
+
+
+## [DEP-E-20260729-MVA2023 Small Object](../DEP-E-20260729-MVA2023%20Small%20Object/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results* | Kondo, Yuki; Ukita, Norimichi; Yamaguchi, Takayuki; Hou, Hao-Yu; Shen, Mu-Yi; Hsu, Chia-Chi; Huang, En-Ming; Huang, Yu-Chen; Xia, Yu-Cheng; Wang, Chien-Yao; Lee, Chun-Yi; Huo, Da; Kastner, Marc A.; Liu, Tingwei; Kawanishi, Yasutomo; Hirayama, Takatsugu; Komamizu, Takahiro; Ide, Ichiro; Shinya, Yosuke; Liu, Xinyao; Liang, Guang; Yasui, Syusuke | [arXiv:2307.09143](https://arxiv.org/abs/2307.09143) - [DOI](https://doi.org/10.23919/MVA57639.2023.10215935) |

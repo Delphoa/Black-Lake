@@ -2995,6 +2995,29 @@
         "https://doi.org/10.48550/arXiv.2507.18329"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object",
+        ".logs/20260729-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-LOG.md",
+        ".reports/BL-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2307.09143",
+      "arxiv_id": "2307.09143",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.23919/MVA57639.2023.10215935",
+      "normalized_title": "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P10; draw 36389 of 75778 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "MVA2023-Small-Object-Detection-Challenge-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2307.09143",
+        "https://ar5iv.labs.arxiv.org/html/2307.09143",
+        "https://arxiv.org/pdf/2307.09143",
+        "https://doi.org/10.23919/MVA57639.2023.10215935"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
