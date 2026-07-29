@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **396 publication reviews across 228 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-29; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **406 publication reviews across 229 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-30; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260730-Agentic Trajectories](../DEP-E-20260730-Agentic%20Trajectories/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *The Shift to Agentic AI: Evidence from Codex* | Johnston, Drew; Holtz, David; Richmond, Alex Martin; Ong, Christopher; Tambe, Prasanna; Chatterji, Aaron | [arXiv:2606.26959](https://arxiv.org/abs/2606.26959); [DOI](https://doi.org/10.48550/arXiv.2606.26959) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *scBench-Long: Verifiable Benchmarking of Long-Horizon Single-Cell Biology* | Diks, Ian; Yang, Zhen; Banerjee, Arjun; Proctor, Tim; Workman, Kenny | [arXiv:2606.26563](https://arxiv.org/abs/2606.26563); [DOI](https://doi.org/10.48550/arXiv.2606.26563) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents* | Hu, Shijing; Liu, Liang; Meng, Zhu; Zhao, Zhicheng | [arXiv:2606.28061](https://arxiv.org/abs/2606.28061); [DOI](https://doi.org/10.48550/arXiv.2606.28061) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy* | Thees, Oscar; Müller, Roman; Templ, Matthias | [arXiv:2606.27936](https://arxiv.org/abs/2606.27936); [DOI](https://doi.org/10.48550/arXiv.2606.27936) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *Agentic Hardware Design as Repository-Level Code Evolution* | Yu, Cunxi; Deng, Chenhui; Pinckney, Nathaniel; Khailany, Brucek | [arXiv:2606.28279](https://arxiv.org/abs/2606.28279); [DOI](https://doi.org/10.48550/arXiv.2606.28279) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior* | Zhou, Qinhong; Gan, Chuang; Cherian, Anoop | [arXiv:2606.28182](https://arxiv.org/abs/2606.28182); [DOI](https://doi.org/10.48550/arXiv.2606.28182) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *Simulating the Dynamics of Markovian Quantum Processes by Quantum Collision Models on Quantum Computers* | Wang, Zeqing; Teske, Julian D.; Bhardwaj, Anshuman; Takahashi, Masahiro O.; Yunoki, Seiji | [arXiv:2606.27856](https://arxiv.org/abs/2606.27856); [DOI](https://doi.org/10.48550/arXiv.2606.27856) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts* | Wang, Yuanyuan; Wang, Wenjie; Li, Haoxuan; Gong, Mingming; Zhang, Kun | [arXiv:2606.28228](https://arxiv.org/abs/2606.28228); [DOI](https://doi.org/10.48550/arXiv.2606.28228) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *Directed Graph Topology Inference via Graph Filter Identification* | Shafipour, Rasoul; Buciulea, Andrei; Segarra, Santiago; Marques, Antonio G.; Mateos, Gonzalo | [arXiv:2606.27455](https://arxiv.org/abs/2606.27455); [DOI](https://doi.org/10.48550/arXiv.2606.27455) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
+| *FMO-xTB: Fragment molecular orbital method with GFN1-xTB for large-scale quantum-mechanical simulations* | Einsele, Richard; Mitrić, Roland | [arXiv:2606.28022](https://arxiv.org/abs/2606.28022); [DOI](https://doi.org/10.48550/arXiv.2606.28022) | [DEP-E](../DEP-E-20260730-Agentic%20Trajectories/README.md) |
 
 ## [DEP-E-20260729-Correspondence Insert](../DEP-E-20260729-Correspondence%20Insert/README.md)
 
