@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **384 publication reviews across 225 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-28; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **394 publication reviews across 226 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-29; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260729-Inspectable Agents](../DEP-E-20260729-Inspectable%20Agents/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *GPT-Red: Unlocking self-improvement through AI-powered red teaming* | OpenAI | [Official report](https://openai.com/index/unlocking-self-improvement-gpt-red/) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Separating signal from noise in coding evaluations* | OpenAI | [Official audit](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *STOCKTAKE: A Benchmark for Belief Tracking and Long-Horizon Decision-Making in Language Model Agents* | Deb, Sagar; Krishnan, Ashwanth | [arXiv:2607.13618](https://arxiv.org/abs/2607.13618); [DOI](https://doi.org/10.48550/arXiv.2607.13618) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Verbalizable Representations Form a Global Workspace in Language Models* | Gurnee, Wes; Sofroniew, Nicholas; Pearce, Adam; *et al.* | [Transformer Circuits](https://transformer-circuits.pub/2026/workspace/index.html) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Modular Pretraining Enables Access Control* | Roland, Ethan; Cubuktepe, Murat; Martinez, Erick; *et al.* | [arXiv:2607.08077](https://arxiv.org/abs/2607.08077); [DOI](https://doi.org/10.48550/arXiv.2607.08077) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Towards autonomous medical artificial intelligence agents* | Ferber, Dyke; Hilgers, Lars; Höper, Christiane; *et al.* | [Nature](https://doi.org/10.1038/s41586-026-10675-5) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *An agentic artificially intelligent X-ray scientist* | Chen, Zhantao; Petsch, Alexander N.; Israelski, Aidan J.; *et al.* | [Nature Machine Intelligence](https://doi.org/10.1038/s42256-026-01261-5) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *Oracle Agent Memory: A Formal System for Governed, Auditable, and Evolutionary Context in Agentic AI* | Alake, Richmond; Bernardis, Andrea; Cayet, Amélie; *et al.* | [arXiv:2607.13157](https://arxiv.org/abs/2607.13157); [DOI](https://doi.org/10.48550/arXiv.2607.13157) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *HORCRUX: A Unified Cryptographic Processor for RSA and ML-KEM on FPGA and ASIC* | Dolmeta, Alessandra; Piscopo, Valeria; Hutter, Michael; Martina, Maurizio; Masera, Guido | [arXiv:2607.13939](https://arxiv.org/abs/2607.13939); [DOI](https://doi.org/10.48550/arXiv.2607.13939) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
+| *PriEval-Protect: A Comprehensive Assessment of Privacy Protection in Large Language Models* | Chebil, Ilef; El Hadj, Asma; Yousfi, Souheib; Hedhili, Aroua; Sliman, Layth | [arXiv:2607.13754](https://arxiv.org/abs/2607.13754); [DOI](https://doi.org/10.48550/arXiv.2607.13754) | [DEP-E](../DEP-E-20260729-Inspectable%20Agents/README.md) |
 
 ## [DEP-E-20260728-CiteEval Principle-Driven](../DEP-E-20260728-CiteEval%20Principle-Driven/README.md)
 
