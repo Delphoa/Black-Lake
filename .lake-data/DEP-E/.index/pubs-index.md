@@ -1661,3 +1661,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Remarks on the Cryptographic Primitive of Attribute-based Encryption* | Cao, Zhengjun; Liu, Lihua | [arXiv:1408.4846](https://arxiv.org/abs/1408.4846) - [DOI](https://doi.org/10.48550/arXiv.1408.4846) |
+
+
+## [DEP-E-20260729-Link Prediction on Latent](../DEP-E-20260729-Link%20Prediction%20on%20Latent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Link Prediction on Latent Heterogeneous Graphs* | Nguyen, Trung-Kien; Liu, Zemin; Fang, Yuan | [arXiv:2302.10432](https://arxiv.org/abs/2302.10432) - [DOI](https://doi.org/10.48550/arXiv.2302.10432) |
