@@ -1612,3 +1612,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SE#PCFG: Semantically Enhanced PCFG for Password Analysis and Cracking* | Wang, Yangde; Qiu, Weidong; Tang, Peng; Tian, Hao; Li, Shujun | [arXiv:2306.06824](https://arxiv.org/abs/2306.06824) - [IEEE DOI](https://doi.org/10.1109/TDSC.2025.3547773) |
+
+
+## [DEP-E-20260729-On a Utilitarian Approach](../DEP-E-20260729-On%20a%20Utilitarian%20Approach/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On a Utilitarian Approach to Privacy Preserving Text Generation* | Xu, Zekun; Aggarwal, Abhinav; Feyisetan, Oluwaseyi; Teissier, Nathanael | [arXiv:2104.11838](https://arxiv.org/abs/2104.11838) - [DOI](https://doi.org/10.48550/arXiv.2104.11838) |
