@@ -4080,3 +4080,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory* | Juntong Wang; Haoyue Zhao; guanghui Pan; Xiyuan Wang; Yanbo Wang; Qiyan Deng; Muhan Zhang | [arXiv:2605.12061v1](https://arxiv.org/abs/2605.12061v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12061) |
+
+
+## [DEP-A-20260730-Retrieve Then Steer](../DEP-A-20260730-Retrieve%20Then%20Steer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.10094-whitepaper-review.md`](../DEP-A-20260730-Retrieve%20Then%20Steer/2605.10094-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs* | Jianchao Zhao; Huoren Yang; Yusong Hu; Yuyang Gao; Qiguan Ou; Cong Wan; SongLin Dong; Zhiheng Ma; Yihong Gong | [arXiv:2605.10094v2](https://arxiv.org/abs/2605.10094v2) - [DOI](https://doi.org/10.48550/arXiv.2605.10094) |
+
+
+## [DEP-A-20260730-NeuSymMS](../DEP-A-20260730-NeuSymMS/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.17596-whitepaper-review.md`](../DEP-A-20260730-NeuSymMS/2605.17596-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NeuSymMS: A Hybrid Neuro-Symbolic Memory System for Persistent, Self-Curating LLM Agents* | Mujahid Sultan; Sri Thuraisamy; Daya Rajaratnam | [arXiv:2605.17596v2](https://arxiv.org/abs/2605.17596v2) - [DOI](https://doi.org/10.48550/arXiv.2605.17596) |
+
+
+## [DEP-A-20260730-AutoMEM Generality](../DEP-A-20260730-AutoMEM%20Generality/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.04315-whitepaper-review.md`](../DEP-A-20260730-AutoMEM%20Generality/2606.04315-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline* | Zhikai Chen; Jialiang Gu; Junyu Yin; Xianxuan Long; Shenglai Zeng; Xiaoze Liu; Kai Guo; Keren Zhou; Jiliang Tang | [arXiv:2606.04315v1](https://arxiv.org/abs/2606.04315v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04315) |
+
+
+## [DEP-A-20260730-MERIT Text to SQL](../DEP-A-20260730-MERIT%20Text%20to%20SQL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.00547-whitepaper-review.md`](../DEP-A-20260730-MERIT%20Text%20to%20SQL/2606.00547-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning to Retrieve: Dual-Level Long-Term Memory for Text-to-SQL Agents* | Yibo Wang; Nikki Lijing Kuang; Philip S. Yu; Zhewei Yao; Yuxiong He | [arXiv:2606.00547v1](https://arxiv.org/abs/2606.00547v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00547) |
+
+
+## [DEP-A-20260730-MemPro Programs](../DEP-A-20260730-MemPro%20Programs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2606.00619-whitepaper-review.md`](../DEP-A-20260730-MemPro%20Programs/2606.00619-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemPro: Agentic Memory Systems as Evolvable Programs* | Qingshan Liu; Guoqing Wang; Wen Wu; Jingqi Huang; Xinqi Tao; Dejia Song; Jie Zhou; Liang He | [arXiv:2606.00619v1](https://arxiv.org/abs/2606.00619v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00619) |
