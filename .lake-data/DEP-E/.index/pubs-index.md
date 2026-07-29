@@ -1647,3 +1647,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning* | Ma, Yuting; Cheng, Lechao; Xu, Xiaohua | [arXiv:2605.27900](https://arxiv.org/abs/2605.27900) - [DOI](https://doi.org/10.48550/arXiv.2605.27900) |
+
+
+## [DEP-E-20260729-A Systematic Survey of](../DEP-E-20260729-A%20Systematic%20Survey%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Systematic Survey of Automatic Prompt Optimization Techniques* | Ramnath, Kiran; Zhou, Kang; Guan, Sheng; Mishra, Soumya Smruti; Qi, Xuan; Shen, Zhengyuan; Wang, Shuai; Woo, Sangmin; Jeoung, Sullam; Wang, Yawei; Wang, Haozhu; Ding, Han; Lu, Yuzhe; Xu, Zhichao; Zhou, Yun; Srinivasan, Balasubramaniam; Yan, Qiaojing; Chen, Yueyan; Ding, Haibo; Xu, Panpan; Cheong, Lin Lee | [arXiv:2502.16923](https://arxiv.org/abs/2502.16923) - [DOI](https://doi.org/10.18653/v1/2025.emnlp-main.1681) |
