@@ -4035,3 +4035,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fixed RAG Compression Collapses Measured Reader Scaling* | Sugam Panthi; Rabab Abdelfattah | [arXiv:2606.21807v1](https://arxiv.org/abs/2606.21807v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21807) |
+
+
+## [DEP-A-20260729-Ghost Vector Deletion](../DEP-A-20260729-Ghost%20Vector%20Deletion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.18497-whitepaper-review.md`](../DEP-A-20260729-Ghost%20Vector%20Deletion/2606.18497-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases* | Chandranil Chakraborttii; Jackeline García Alvarado; Sitora Abdulofizova; Shivanshu Dwivedi | [arXiv:2606.18497v1](https://arxiv.org/abs/2606.18497v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18497) |
+
+
+## [DEP-A-20260729-Error Aware ASR RAG](../DEP-A-20260729-Error%20Aware%20ASR%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.24915-whitepaper-review.md`](../DEP-A-20260729-Error%20Aware%20ASR%20RAG/2606.24915-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction* | Mohammad Aref Jafari-Raddani | [arXiv:2606.24915v1](https://arxiv.org/abs/2606.24915v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24915) |
+
+
+## [DEP-A-20260729-Hybrid IR Medical QA](../DEP-A-20260729-Hybrid%20IR%20Medical%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25338-whitepaper-review.md`](../DEP-A-20260729-Hybrid%20IR%20Medical%20QA/2606.25338-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering* | Sheng Wan; Jiahui Zhang; Zicheng Zhao; Shougang Ren | [arXiv:2606.25338v1](https://arxiv.org/abs/2606.25338v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25338) |
+
+
+## [DEP-A-20260729-EMA Filtered ANN](../DEP-A-20260729-EMA%20Filtered%20ANN/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.00734-whitepaper-review.md`](../DEP-A-20260729-EMA%20Filtered%20ANN/2606.00734-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EMA: Approximate Nearest Neighbor Search with General Attribute Filtering and Dynamic Updates* | Mocheng Li; Baotong Lu; James Cheng; Chenhao Ma | [arXiv:2606.00734v1](https://arxiv.org/abs/2606.00734v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00734) |
+
+
+## [DEP-A-20260729-MKG RAG Benchmark](../DEP-A-20260729-MKG%20RAG%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26458-whitepaper-review.md`](../DEP-A-20260729-MKG%20RAG%20Benchmark/2606.26458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation* | Xiaochen Wang; Bao Hoang; Han Liu; Ting Wang; Fenglong Ma | [arXiv:2606.26458v1](https://arxiv.org/abs/2606.26458v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26458) |
