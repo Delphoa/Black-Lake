@@ -1605,3 +1605,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field* | Li, Siyu; Shervedani, Afagh Mehri; Žefran, Miloš; Paprotny, Igor | [arXiv:2406.13829v2](https://arxiv.org/abs/2406.13829v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2406.13829) - [Springer DOI](https://doi.org/10.1007/978-3-032-09967-9_14) |
+
+
+## [DEP-E-20260729-Semantic Password Risk](../DEP-E-20260729-Semantic%20Password%20Risk/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SE#PCFG: Semantically Enhanced PCFG for Password Analysis and Cracking* | Wang, Yangde; Qiu, Weidong; Tang, Peng; Tian, Hao; Li, Shujun | [arXiv:2306.06824](https://arxiv.org/abs/2306.06824) - [IEEE DOI](https://doi.org/10.1109/TDSC.2025.3547773) |
