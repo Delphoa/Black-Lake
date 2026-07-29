@@ -28,7 +28,7 @@
     },
     {
       "dep_class": "DEP-R",
-      "path": ".lake-data/DEP-R-20260729-J-Space Profile",
+      "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile",
       "role": "static identity, routing, status, and correction boundary",
       "scope_note": "Contains no duplicated substantive paper review."
     }
@@ -48,7 +48,7 @@
         },
         {
           "dep_class": "DEP-R",
-          "path": ".lake-data/DEP-R-20260729-J-Space Profile/README.md"
+          "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile/README.md"
         }
       ]
     },
@@ -117,13 +117,13 @@
       "object_type": "Structured record",
       "status": "deposited",
       "dep_class": "DEP-R",
-      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-object-register.json"
+      "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile/j-space-profile-object-register.json"
     },
     {
       "object_type": "Index / catalog",
       "status": "deposited",
       "dep_class": "DEP-R",
-      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md"
+      "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md"
     },
     {
       "object_type": "Cold-storage asset",
@@ -135,7 +135,7 @@
       "object_type": "Static archival record",
       "status": "deposited",
       "dep_class": "DEP-R",
-      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-static-archival-record.md"
+      "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile/j-space-static-archival-record.md"
     },
     {
       "object_type": "Authorized source file",
@@ -207,7 +207,7 @@
     {
       "object_type": "Deduplication / pointer index",
       "status": "accounted_for",
-      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md",
+      "path": ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md",
       "reason": "The crosswalk is the canonical pointer catalog; no duplicate source package was created."
     },
     {

@@ -75,10 +75,10 @@ The full profile keeps evolving analysis in DEP-E, freezes the focused review an
 | Source extraction | Extraction | `DEP-A` | [`j-space-source-extraction.md`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-source-extraction.md) |
 | Method card | Transformed document | `DEP-A` | [`j-space-method-card.md`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-method-card.md) |
 | Claim-evidence data | Dataset | `DEP-A` | [`j-space-claim-evidence-dataset.json`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-claim-evidence-dataset.json) |
-| Static profile manifest | DEP manifest / README | `DEP-R` | [`README.md`](../../DEP-R-20260729-J-Space%20Profile/README.md) |
-| Static archival record | Static archival record | `DEP-R` | [`j-space-static-archival-record.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-static-archival-record.md) |
-| Machine object register | Structured record | `DEP-R` | [`j-space-profile-object-register.json`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-object-register.json) |
-| Human profile crosswalk | Index / catalog | `DEP-R` | [`j-space-profile-crosswalk.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md) |
+| Static profile manifest | DEP manifest / README | `DEP-R` | [`README.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/README.md) |
+| Static archival record | Static archival record | `DEP-R` | [`j-space-static-archival-record.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-static-archival-record.md) |
+| Machine object register | Structured record | `DEP-R` | [`j-space-profile-object-register.json`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-object-register.json) |
+| Human profile crosswalk | Index / catalog | `DEP-R` | [`j-space-profile-crosswalk.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md) |
 | Workflow trace | Five log/trace types | Workflow | [`20260729-J-Space-Full-Profile-LOG.md`](../../../.logs/20260729-J-Space-Full-Profile-LOG.md) |
 | Review and audit mark | Four report/note types | Workflow | [`Report-Mark.md`](../../../.reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md) |
 | DEP-E publication index | Publication index | Workflow | [`pubs-index.md`](../.index/pubs-index.md) |

@@ -10,7 +10,7 @@
 
 - `.lake-data/DEP-E/DEP-E-20260729-Inspectable Agents`
 - `.lake-data/DEP-A/DEP-A-20260729-J-Space Workspace`
-- `.lake-data/DEP-R-20260729-J-Space Profile`
+- `.lake-data/DEP-R/DEP-R-20260729-J-Space Profile`
 
 ## Operational Log
 
@@ -18,7 +18,7 @@
 - Applied the local full-profile contract, which requires every canonical and supporting record-object type to be generated or explicitly accounted for.
 - Preserved the existing multi-topic DEP-E while adding only `j-space-*` research objects.
 - Preserved the focused DEP-A review and added source-derived cold-storage objects.
-- Created a root-level DEP-R static record as permitted by the repository class contract.
+- Created the first DEP-R static record and placed it under the adopted `.lake-data/DEP-R/` class container.
 - Used no local source archive, model weights, prompts, activations, corpora, benchmark payloads, or repository clone.
 
 ## Ingestion Note
@@ -48,6 +48,7 @@ No source file was ingested. The primary paper was linked and paraphrased becaus
 | 8 | Generate workflow support | Added this consolidated log and the full-profile Report-Mark |
 | 9 | Cross-link manifests | Added reciprocal external profile-object links to DEP-E and DEP-A READMEs and kept Attribution Blocks final |
 | 10 | Validate | Checked schema headings, JSON syntax, internal links, inventory coverage, scope terms, and repository diff |
+| 11 | Adopt the `DEP-R` class container | Moved the static record to `.lake-data/DEP-R/DEP-R-20260729-J-Space Profile` and updated repository rules and all affected links |
 
 ## Deposition Log
 

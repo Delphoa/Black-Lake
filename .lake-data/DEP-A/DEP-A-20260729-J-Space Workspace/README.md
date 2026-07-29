@@ -68,10 +68,10 @@ The cold-storage package therefore preserves both the positive causal evidence a
 | Method evaluation | Evaluation | `DEP-E` | [`j-space-method-evaluation.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-method-evaluation.md) |
 | Evidence synthesis | Synthesis | `DEP-E` | [`j-space-evidence-synthesis.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-evidence-synthesis.md) |
 | Implementation note | Implementation note | `DEP-E` | [`j-space-implementation-note.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-implementation-note.md) |
-| Static profile manifest | DEP manifest / README | `DEP-R` | [`README.md`](../../DEP-R-20260729-J-Space%20Profile/README.md) |
-| Static archival record | Static archival record | `DEP-R` | [`j-space-static-archival-record.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-static-archival-record.md) |
-| Machine object register | Structured record | `DEP-R` | [`j-space-profile-object-register.json`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-object-register.json) |
-| Human profile crosswalk | Index / catalog | `DEP-R` | [`j-space-profile-crosswalk.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md) |
+| Static profile manifest | DEP manifest / README | `DEP-R` | [`README.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/README.md) |
+| Static archival record | Static archival record | `DEP-R` | [`j-space-static-archival-record.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-static-archival-record.md) |
+| Machine object register | Structured record | `DEP-R` | [`j-space-profile-object-register.json`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-object-register.json) |
+| Human profile crosswalk | Index / catalog | `DEP-R` | [`j-space-profile-crosswalk.md`](../../DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md) |
 | Workflow trace | Five log/trace types | Workflow | [`20260729-J-Space-Full-Profile-LOG.md`](../../../.logs/20260729-J-Space-Full-Profile-LOG.md) |
 | Review and audit mark | Four report/note types | Workflow | [`Report-Mark.md`](../../../.reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md) |
 | DEP-A publication index | Publication index | Workflow | [`pubs-index.md`](../.index/pubs-index.md) |

@@ -50,18 +50,18 @@ This separation makes downstream discovery and correction safer. A reviewer can 
 
 | Profile role | DEP class / workflow | External object |
 |---|---|---|
-| Evolving research | `DEP-E` | [`j-space-research-manuscript.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-manuscript.md) |
-| Research report | `DEP-E` | [`j-space-research-report.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-report.md) |
-| Literature review | `DEP-E` | [`j-space-literature-review.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-literature-review.md) |
-| Method evaluation | `DEP-E` | [`j-space-method-evaluation.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-method-evaluation.md) |
-| Evidence synthesis | `DEP-E` | [`j-space-evidence-synthesis.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-evidence-synthesis.md) |
-| Implementation note | `DEP-E` | [`j-space-implementation-note.md`](../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-implementation-note.md) |
-| Frozen manuscript review | `DEP-A` | [`j-space-workspace-review.md`](../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-workspace-review.md) |
-| Source extraction | `DEP-A` | [`j-space-source-extraction.md`](../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-source-extraction.md) |
-| Transformed method card | `DEP-A` | [`j-space-method-card.md`](../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-method-card.md) |
-| Claim-evidence dataset | `DEP-A` | [`j-space-claim-evidence-dataset.json`](../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-claim-evidence-dataset.json) |
-| Workflow trace | Workflow | [`20260729-J-Space-Full-Profile-LOG.md`](../../.logs/20260729-J-Space-Full-Profile-LOG.md) |
-| Review and audit mark | Workflow | [`Report-Mark.md`](../../.reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md) |
+| Evolving research | `DEP-E` | [`j-space-research-manuscript.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-manuscript.md) |
+| Research report | `DEP-E` | [`j-space-research-report.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-report.md) |
+| Literature review | `DEP-E` | [`j-space-literature-review.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-literature-review.md) |
+| Method evaluation | `DEP-E` | [`j-space-method-evaluation.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-method-evaluation.md) |
+| Evidence synthesis | `DEP-E` | [`j-space-evidence-synthesis.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-evidence-synthesis.md) |
+| Implementation note | `DEP-E` | [`j-space-implementation-note.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-implementation-note.md) |
+| Frozen manuscript review | `DEP-A` | [`j-space-workspace-review.md`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-workspace-review.md) |
+| Source extraction | `DEP-A` | [`j-space-source-extraction.md`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-source-extraction.md) |
+| Transformed method card | `DEP-A` | [`j-space-method-card.md`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-method-card.md) |
+| Claim-evidence dataset | `DEP-A` | [`j-space-claim-evidence-dataset.json`](../../DEP-A/DEP-A-20260729-J-Space%20Workspace/j-space-claim-evidence-dataset.json) |
+| Workflow trace | Workflow | [`20260729-J-Space-Full-Profile-LOG.md`](../../../.logs/20260729-J-Space-Full-Profile-LOG.md) |
+| Review and audit mark | Workflow | [`Report-Mark.md`](../../../.reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md) |
 
 The complete object-type mapping is in [`j-space-profile-crosswalk.md`](j-space-profile-crosswalk.md).
 

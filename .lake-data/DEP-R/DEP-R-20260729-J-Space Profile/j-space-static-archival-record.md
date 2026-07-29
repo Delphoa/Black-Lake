@@ -76,6 +76,7 @@ This record includes only the J-space paper and its official source surfaces. It
 | Source snapshot selected for the focused review | Commit `f91342a701df29adbb2df87886028a11f8095076` |
 | Focused DEP-A review created | Commit `5e9f722441b5fadbd910030b7641b301c217be75` |
 | Full profile generation | 2026-07-29; final commit recorded by repository history |
+| DEP-R class container adopted | Record moved to `.lake-data/DEP-R/DEP-R-20260729-J-Space Profile`; final commit recorded by repository history |
 
 The DEP-A is an intentionally partial, object-level derivation from a multi-topic DEP-E. It is not represented in the complete-record DEP-E-to-DEP-A review ledger because the unrelated source objects were explicitly excluded.
 

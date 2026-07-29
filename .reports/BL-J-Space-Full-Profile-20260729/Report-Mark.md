@@ -94,8 +94,8 @@ This organization prevents a readable internal signal from being mistaken for an
 
 - Evolving research: [DEP-E README](../../.lake-data/DEP-E/DEP-E-20260729-Inspectable%20Agents/README.md)
 - Frozen artifacts: [DEP-A README](../../.lake-data/DEP-A/DEP-A-20260729-J-Space%20Workspace/README.md)
-- Static register: [DEP-R README](../../.lake-data/DEP-R-20260729-J-Space%20Profile/README.md)
-- Complete crosswalk: [j-space-profile-crosswalk.md](../../.lake-data/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md)
+- Static register: [DEP-R README](../../.lake-data/DEP-R/DEP-R-20260729-J-Space%20Profile/README.md)
+- Complete crosswalk: [j-space-profile-crosswalk.md](../../.lake-data/DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md)
 - Workflow trace: [20260729-J-Space-Full-Profile-LOG.md](../../.logs/20260729-J-Space-Full-Profile-LOG.md)
 
 ## Validation Notes
