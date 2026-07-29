@@ -1591,3 +1591,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Active rejection enables reliable generalization of universal machine-learning interatomic potentials* | Luo, Mingxiang; Mao, Xinnan; Wang, Lu; Bai, Lei; Ding, Feng; Li, Yuqiang | [arXiv:2607.09456](https://arxiv.org/abs/2607.09456) - [DOI](https://doi.org/10.48550/arXiv.2607.09456) |
 | *ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts* | Li, Jiawen; Guan, Tian; Shi, Huijuan; Ling, Xitong; Fu, Mingxi; Han, Anjia; He, Chao; He, Yonghong | [arXiv:2607.09526](https://arxiv.org/abs/2607.09526) - [DOI](https://doi.org/10.48550/arXiv.2607.09526) |
 | *ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI* | Mollapour, Mohadeseh; Aslansefat, Koorosh; Dehghani, Zeinab; Mishra, Bhupesh Kumar; Shah, Tejal; Mian, Zhibao | [arXiv:2607.09649](https://arxiv.org/abs/2607.09649) - [DOI](https://doi.org/10.48550/arXiv.2607.09649) |
+
+
+## [DEP-E-20260729-Group Control Swarms](../DEP-E-20260729-Group%20Control%20Swarms/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field* | Li, Siyu; Shervedani, Afagh Mehri; Žefran, Miloš; Paprotny, Igor | [arXiv:2406.13829v2](https://arxiv.org/abs/2406.13829v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2406.13829) - [Springer DOI](https://doi.org/10.1007/978-3-032-09967-9_14) |
