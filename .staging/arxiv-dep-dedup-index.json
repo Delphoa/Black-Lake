@@ -2857,6 +2857,29 @@
         "https://doi.org/10.48550/arXiv.2602.18473"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-Rank Optimization for",
+        ".logs/20260729-Arxiv-Rank-Optimization-for-MIMO-Channel-with-RIS-LOG.md",
+        ".reports/BL-Arxiv-Rank-Optimization-for-MIMO-Channel-with-RIS-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2307.13237",
+      "arxiv_id": "2307.13237",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.1109/LWC.2023.3331489",
+      "normalized_title": "Rank Optimization for MIMO Channel with RIS: Simulation and Measurement",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P04; draw 20734 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rank-Optimization-for-MIMO-Channel-with-RIS",
+      "source_urls": [
+        "https://arxiv.org/abs/2307.13237",
+        "https://arxiv.org/html/2307.13237",
+        "https://arxiv.org/pdf/2307.13237",
+        "https://doi.org/10.1109/LWC.2023.3331489"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

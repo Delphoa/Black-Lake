@@ -1633,3 +1633,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series* | Yu, Guoqi; Wang, Juncheng; Yang, Chen; Qin, Jing; Aviles-Rivero, Angelica I.; Wang, Shujun | [arXiv:2602.18473](https://arxiv.org/abs/2602.18473) - [DOI](https://doi.org/10.48550/arXiv.2602.18473) |
+
+
+## [DEP-E-20260729-Rank Optimization for](../DEP-E-20260729-Rank%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rank Optimization for MIMO Channel with RIS: Simulation and Measurement* | Meng, Shengguo; Tang, Wankai; Chen, Weicong; Lan, Jifeng; Zhou, Qun Yan; Han, Yu; Li, Xiao; Jin, Shi | [arXiv:2307.13237](https://arxiv.org/abs/2307.13237) - [DOI](https://doi.org/10.1109/LWC.2023.3331489) |
