@@ -1,5 +1,11 @@
 ---
 title: "J-Space Workspace - DEP-A"
+artifact_id: "DEP-A-JSPACE-REVIEW-20260729"
+dep_class: "DEP-A"
+profile_id: "j-space-workspace-20260729"
+record_object_type:
+  - "manuscript review"
+  - "cold-storage asset"
 generated_at: "2026-07-29 17:52 +09:00 (Asia/Tokyo)"
 artifact_type: "DEP research artifact"
 primary_subject: "A source-grounded review of the Jacobian lens and the evidence that verbalizable representations form a workspace-like computational interface in language models."

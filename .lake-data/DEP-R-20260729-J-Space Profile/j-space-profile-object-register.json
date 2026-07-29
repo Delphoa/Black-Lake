@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_id": "DEP-R-JSPACE-REGISTER-20260729",
+  "profile_id": "j-space-workspace-20260729",
+  "dep_class": "DEP-R",
+  "record_object_type": "structured record",
+  "subject": "Verbalizable Representations Form a Global Workspace in Language Models",
+  "source_scope": "J-space research only",
+  "generated_at": "2026-07-29",
+  "canonical_source": "https://transformer-circuits.pub/2026/workspace/index.html",
+  "selection_provenance": {
+    "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents",
+    "commit": "f91342a701df29adbb2df87886028a11f8095076",
+    "scope_note": "Only the J-space research object is in profile scope."
+  },
+  "dep_entries": [
+    {
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents",
+      "role": "evolving research",
+      "scope_note": "The owning DEP is historically multi-topic; only files prefixed j-space- are full-profile research objects."
+    },
+    {
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace",
+      "role": "frozen source-grounded artifacts",
+      "scope_note": "Limited to the selected J-space paper and official implementation surfaces."
+    },
+    {
+      "dep_class": "DEP-R",
+      "path": ".lake-data/DEP-R-20260729-J-Space Profile",
+      "role": "static identity, routing, status, and correction boundary",
+      "scope_note": "Contains no duplicated substantive paper review."
+    }
+  ],
+  "canonical_record_objects": [
+    {
+      "object_type": "DEP manifest / README",
+      "status": "deposited",
+      "instances": [
+        {
+          "dep_class": "DEP-E",
+          "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/README.md"
+        },
+        {
+          "dep_class": "DEP-A",
+          "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/README.md"
+        },
+        {
+          "dep_class": "DEP-R",
+          "path": ".lake-data/DEP-R-20260729-J-Space Profile/README.md"
+        }
+      ]
+    },
+    {
+      "object_type": "Research manuscript",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-research-manuscript.md"
+    },
+    {
+      "object_type": "Manuscript review",
+      "status": "deposited",
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/j-space-workspace-review.md"
+    },
+    {
+      "object_type": "Research report",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-research-report.md"
+    },
+    {
+      "object_type": "Literature review",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-literature-review.md"
+    },
+    {
+      "object_type": "Evaluation",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-method-evaluation.md"
+    },
+    {
+      "object_type": "Synthesis",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-evidence-synthesis.md"
+    },
+    {
+      "object_type": "Implementation note",
+      "status": "deposited",
+      "dep_class": "DEP-E",
+      "path": ".lake-data/DEP-E/DEP-E-20260729-Inspectable Agents/j-space-implementation-note.md"
+    },
+    {
+      "object_type": "Extraction",
+      "status": "deposited",
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/j-space-source-extraction.md"
+    },
+    {
+      "object_type": "Transformed document",
+      "status": "deposited",
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/j-space-method-card.md"
+    },
+    {
+      "object_type": "Dataset",
+      "status": "deposited",
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/j-space-claim-evidence-dataset.json",
+      "boundary": "Reviewer-extracted claim/evidence rows; not original experiment data."
+    },
+    {
+      "object_type": "Structured record",
+      "status": "deposited",
+      "dep_class": "DEP-R",
+      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-object-register.json"
+    },
+    {
+      "object_type": "Index / catalog",
+      "status": "deposited",
+      "dep_class": "DEP-R",
+      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md"
+    },
+    {
+      "object_type": "Cold-storage asset",
+      "status": "deposited",
+      "dep_class": "DEP-A",
+      "path": ".lake-data/DEP-A/DEP-A-20260729-J-Space Workspace/j-space-workspace-review.md"
+    },
+    {
+      "object_type": "Static archival record",
+      "status": "deposited",
+      "dep_class": "DEP-R",
+      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-static-archival-record.md"
+    },
+    {
+      "object_type": "Authorized source file",
+      "status": "not_deposited",
+      "dep_class": null,
+      "path": null,
+      "reason": "No explicit source-deposition authorization and no paper redistribution license was visible in the inspected primary page. No .source directory is created."
+    },
+    {
+      "object_type": "Correction / supersession record",
+      "status": "not_applicable",
+      "dep_class": null,
+      "path": null,
+      "reason": "No correction or supersession is presently known. Future corrections must retain this profile and identify the affected object and evidence."
+    }
+  ],
+  "supporting_workflow_objects": [
+    {
+      "object_type": "Operational log",
+      "status": "deposited",
+      "path": ".logs/20260729-J-Space-Full-Profile-LOG.md"
+    },
+    {
+      "object_type": "Deposition log",
+      "status": "deposited",
+      "path": ".logs/20260729-J-Space-Full-Profile-LOG.md"
+    },
+    {
+      "object_type": "Review log",
+      "status": "deposited",
+      "path": ".logs/20260729-J-Space-Full-Profile-LOG.md"
+    },
+    {
+      "object_type": "Ingestion note",
+      "status": "deposited",
+      "path": ".logs/20260729-J-Space-Full-Profile-LOG.md"
+    },
+    {
+      "object_type": "Process trace",
+      "status": "deposited",
+      "path": ".logs/20260729-J-Space-Full-Profile-LOG.md"
+    },
+    {
+      "object_type": "Review report",
+      "status": "deposited",
+      "path": ".reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md"
+    },
+    {
+      "object_type": "Audit summary",
+      "status": "deposited",
+      "path": ".reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md"
+    },
+    {
+      "object_type": "Synthesis report",
+      "status": "deposited",
+      "path": ".reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md"
+    },
+    {
+      "object_type": "Consolidation note",
+      "status": "deposited",
+      "path": ".reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md"
+    },
+    {
+      "object_type": "Staging artifact",
+      "status": "not_applicable_at_completion",
+      "path": null,
+      "reason": "Incomplete drafting material is not a canonical deposit and is not committed."
+    },
+    {
+      "object_type": "Deduplication / pointer index",
+      "status": "accounted_for",
+      "path": ".lake-data/DEP-R-20260729-J-Space Profile/j-space-profile-crosswalk.md",
+      "reason": "The crosswalk is the canonical pointer catalog; no duplicate source package was created."
+    },
+    {
+      "object_type": "Publication index",
+      "status": "existing",
+      "paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-A/.index/pubs-index.md"
+      ],
+      "reason": "Both existing rows already identify the selected publication; no duplicate or DEP-R publication row is needed."
+    },
+    {
+      "object_type": "Template",
+      "status": "existing",
+      "path": ".templates/dep-readme-template.md"
+    }
+  ],
+  "paired_review_ledger": {
+    "status": "not_applicable",
+    "reason": "The focused DEP-A selects one research object from a multi-topic DEP-E. The paired ledgers cover complete DEP-E-to-DEP-A review and are not used for this partial derivation."
+  },
+  "source_and_stability_boundaries": {
+    "source_files_deposited": false,
+    "source_directory_created": false,
+    "correction_known": false,
+    "staging_committed": false,
+    "experiments_reproduced": false
+  }
+}

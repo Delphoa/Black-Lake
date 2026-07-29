@@ -1,60 +1,105 @@
 # DEP-A-20260729-J-Space Workspace
 
-#artificial-intelligence #language-models #mechanistic-interpretability #jacobian-lens #global-workspace #alignment-auditing #model-evaluation
+#artificial-intelligence #language-models #mechanistic-interpretability #jacobian-lens #global-workspace #alignment-auditing #model-evaluation #cold-storage
 
-This DEP-A preserves a public-safe, source-grounded review of *Verbalizable Representations Form a Global Workspace in Language Models*. The owning artifact is deliberately limited to that paper's Jacobian-lens method, J-space evidence, alignment implications, counterfactual-reflection experiment, and official reference implementation. It does not carry forward the other papers, products, benchmarks, systems, or governance subjects collected in the broader `DEP-E-20260729-Inspectable Agents` record.
+- DEP Class: `DEP-A`
+- Artifact type: `DEP cold-storage package`
+- Subject: *Verbalizable Representations Form a Global Workspace in Language Models*
+- Profile ID: `j-space-workspace-20260729`
+
+This DEP-A preserves the stable, source-grounded J-space review and its normalized derivative artifacts. It is deliberately limited to the Jacobian-lens method, J-space evidence, alignment implications, counterfactual-reflection experiment, and official reference implementation. It does not carry forward the other papers, products, benchmarks, systems, or governance subjects collected in the broader `DEP-E-20260729-Inspectable Agents` record.
 
 ## Contents
 
-- `README.md` - classification, inventory, scope boundary, relevance, and final source attribution.
-- `j-space-workspace-review.md` - schema-complete review of the primary paper with an evidence ledger, claim audit, limitations, replication boundary, and bounded implementation paths.
+| File | Record-object type | Purpose |
+|---|---|---|
+| [`README.md`](README.md) | DEP manifest / README | Classification, complete package inventory, scope boundary, profile relationships, and attribution |
+| [`j-space-workspace-review.md`](j-space-workspace-review.md) | Manuscript review; cold-storage asset | Schema-complete critical review with evidence ledger, claim audit, limitations, and replication boundary |
+| [`j-space-source-extraction.md`](j-space-source-extraction.md) | Extraction | Normalized method, experiment, limitation, and implementation facts with source locations |
+| [`j-space-method-card.md`](j-space-method-card.md) | Transformed document | Durable method-card representation of inputs, transformation, operations, controls, outputs, assumptions, and safe use |
+| [`j-space-claim-evidence-dataset.json`](j-space-claim-evidence-dataset.json) | Dataset | Reviewer-extracted claim/evidence rows; no raw prompts, activations, model data, or source text |
 
-No external source files, model weights, prompts, corpora, activations, benchmark payloads, or repository clones are committed. The primary paper and official implementation were inspected through their public URLs. The implementation is linked for provenance; it is not redistributed.
+No external source files, model weights, prompts, corpora, activations, benchmark payloads, or repository clones are committed. The paper and official implementation were inspected through public URLs.
 
 ## Summary of Items
 
 ### `README.md`
 
-Defines the cold-storage boundary and records the canonical source locators. It makes explicit that this DEP-A owns one research object rather than the multi-topic evidence set of the source DEP-E.
+Defines the cold-storage boundary, inventories every deposited object, and links the complete cross-class profile without broadening the evidence scope.
 
 ### `j-space-workspace-review.md`
 
-Reconstructs the paper's method and evidence: the layer-wise averaged Jacobian used to decode residual-stream activations; the sparse, token-aligned J-space; causal swap, steering, clamping, and ablation experiments; the claimed global-workspace-like properties; structural broadcast evidence; alignment-audit case studies; post-training observations; and counterfactual reflection training. It separates reported findings from reviewer inference and preserves material limits, including single-token readouts, post-hoc workspace boundaries, proprietary-model dependence, incomplete task coverage, ambiguous early-layer results, and lack of independent reproduction.
+Freezes the full critical interpretation of the layer-wise Jacobian lens, sparse token-aligned J-space, report and reasoning interventions, flexible and automatic task evidence, workspace capacity and broadcast, alignment cases, post-training findings, counterfactual reflection, and material limits.
+
+### `j-space-source-extraction.md`
+
+Preserves normalized source facts and quantitative anchors separately from reviewer conclusions. It includes explicit section locators and a receipt excluding the original DEP-E's unrelated subjects.
+
+### `j-space-method-card.md`
+
+Transforms the paper's method into a stable, implementation-facing card while preserving the first-order, context-averaged, overcomplete, and research-only boundaries.
+
+### `j-space-claim-evidence-dataset.json`
+
+Stores ten normalized claim/evidence records with experiment family, model/task scope, intervention, control, reported result, source locator, assessment, confidence, and limitation. It is reviewer-extracted data, not an author-released experimental dataset.
 
 ## Insights and Relevance
 
-The study's durable contribution is a causal, vocabulary-aligned observation and intervention surface for intermediate language-model representations. Its experiments support a narrower conclusion than “thought reading”: a small and imperfectly observed representational component is unusually involved in verbal report and flexible internal computation, while substantial automatic processing bypasses it. That makes the J-lens promising for hypothesis generation, model audits, and controlled research, but insufficient as a standalone safety monitor or proof of intent. The associated claims about conscious access are functional analogies, not evidence of subjective experience.
+The study's durable contribution is a causal, vocabulary-aligned observation and intervention surface for intermediate language-model representations. A small component can be functionally important without explaining much variance. At the same time, automatic processing can bypass J-space, and single-token readouts can miss distributed or ambiguous concepts.
+
+The cold-storage package therefore preserves both the positive causal evidence and the reasons not to treat lens outputs as ground truth. It is suitable for future retrieval, replication design, and authorized model-audit research—not standalone safety monitoring, intent proof, or consciousness inference.
 
 ## Relationship to the Source DEP-E
 
 - Source record: [`DEP-E-20260729-Inspectable Agents`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/README.md).
 - Imported research object: *Verbalizable Representations Form a Global Workspace in Language Models* and its official companion implementation.
-- Excluded from this DEP-A: GPT-Red, the SWE-Bench Pro audit, STOCKTAKE, modular pretraining, medical and scientific agents, Oracle Agent Memory, HORCRUX, PriEval-Protect, Smart Coverage Goals, the NIST crypto-agility paper, and the source DEP-E's cross-domain product synthesis.
-- Classification rationale: this entry freezes a completed review of one identified publication and its public implementation surface for durable retrieval.
+- Excluded: GPT-Red, the SWE-Bench Pro audit, STOCKTAKE, modular pretraining, medical and scientific agents, Oracle Agent Memory, HORCRUX, PriEval-Protect, Smart Coverage Goals, NIST crypto agility, and the source DEP-E's cross-domain product synthesis.
+- Classification rationale: this entry freezes one completed, focused interpretation and its source-derived records for durable retrieval.
+- Paired-ledger boundary: this is an object-level selection from a multi-topic DEP-E, not a complete DEP-E-to-DEP-A review; the complete-record paired-review ledgers are therefore not used.
+
+## J-Space Full DEP Profile
+
+| External object | Object type | DEP class / workflow | Link |
+|---|---|---|---|
+| Source DEP-E manifest | DEP manifest / README | `DEP-E` | [`README.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/README.md) |
+| Research manuscript | Research manuscript | `DEP-E` | [`j-space-research-manuscript.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-manuscript.md) |
+| Research report | Research report | `DEP-E` | [`j-space-research-report.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-research-report.md) |
+| Literature review | Literature review | `DEP-E` | [`j-space-literature-review.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-literature-review.md) |
+| Method evaluation | Evaluation | `DEP-E` | [`j-space-method-evaluation.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-method-evaluation.md) |
+| Evidence synthesis | Synthesis | `DEP-E` | [`j-space-evidence-synthesis.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-evidence-synthesis.md) |
+| Implementation note | Implementation note | `DEP-E` | [`j-space-implementation-note.md`](../../DEP-E/DEP-E-20260729-Inspectable%20Agents/j-space-implementation-note.md) |
+| Static profile manifest | DEP manifest / README | `DEP-R` | [`README.md`](../../DEP-R-20260729-J-Space%20Profile/README.md) |
+| Static archival record | Static archival record | `DEP-R` | [`j-space-static-archival-record.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-static-archival-record.md) |
+| Machine object register | Structured record | `DEP-R` | [`j-space-profile-object-register.json`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-object-register.json) |
+| Human profile crosswalk | Index / catalog | `DEP-R` | [`j-space-profile-crosswalk.md`](../../DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md) |
+| Workflow trace | Five log/trace types | Workflow | [`20260729-J-Space-Full-Profile-LOG.md`](../../../.logs/20260729-J-Space-Full-Profile-LOG.md) |
+| Review and audit mark | Four report/note types | Workflow | [`Report-Mark.md`](../../../.reports/BL-J-Space-Full-Profile-20260729/Report-Mark.md) |
+| DEP-A publication index | Publication index | Workflow | [`pubs-index.md`](../.index/pubs-index.md) |
+| DEP-E publication index | Publication index | Workflow | [`pubs-index.md`](../../DEP-E/.index/pubs-index.md) |
 
 ## Attribution Block
 
 - Source URL: https://transformer-circuits.pub/2026/workspace/index.html
-  - Applies to: `j-space-workspace-review.md` and this README.
-  - Notes: Complete primary paper, published in the Transformer Circuits Thread on 2026-07-06 and inspected on 2026-07-29. No paper license was visible in the inspected page, so the source was linked and paraphrased rather than redistributed.
+  - Applies to: `j-space-workspace-review.md`, `j-space-source-extraction.md`, `j-space-method-card.md`, `j-space-claim-evidence-dataset.json`, and this README.
+  - Notes: Complete primary paper, published 2026-07-06 and inspected 2026-07-29. No paper license was visible in the inspected page, so it was linked and paraphrased rather than redistributed.
 - Source URL: https://www.anthropic.com/research/global-workspace
-  - Applies to: `j-space-workspace-review.md`.
+  - Applies to: all Markdown artifacts in this DEP-A.
   - Notes: Official author-organization summary used as near-primary context, not as a substitute for the paper.
 - Source URL: https://github.com/anthropics/jacobian-lens
-  - Applies to: `j-space-workspace-review.md`.
-  - Notes: Official companion repository inspected for implementation scope, maintenance status, dependencies, synthetic data notes, and reproducibility boundaries.
+  - Applies to: every deposited artifact and this README.
+  - Notes: Official companion repository inspected for implementation scope, maintenance status, dependencies, synthetic-data notes, and reproducibility boundaries.
 - Source URL: https://github.com/anthropics/jacobian-lens/blob/main/README.md
-  - Applies to: `j-space-workspace-review.md`.
-  - Notes: Reference-implementation documentation; inspected blob SHA `296ba6e47e3fc01da6bea94a0c38248ff9e6641a`.
+  - Applies to: `j-space-workspace-review.md`, `j-space-source-extraction.md`, and `j-space-method-card.md`.
+  - Notes: Reference documentation; inspected blob `296ba6e47e3fc01da6bea94a0c38248ff9e6641a`.
 - Source URL: https://github.com/anthropics/jacobian-lens/blob/main/pyproject.toml
-  - Applies to: `j-space-workspace-review.md`.
-  - Notes: Package metadata for `jlens` version `0.1.0`; inspected blob SHA `facb1859429522ce7a695a3a65970101cbdae4cb`.
+  - Applies to: `j-space-workspace-review.md`, `j-space-source-extraction.md`, and `j-space-method-card.md`.
+  - Notes: `jlens` 0.1.0 package metadata; inspected blob `facb1859429522ce7a695a3a65970101cbdae4cb`.
 - Source URL: https://github.com/anthropics/jacobian-lens/blob/main/LICENSE
-  - Applies to: `j-space-workspace-review.md`.
-  - Notes: Apache License 2.0 for the companion code and repository-provided synthetic prompt sets; inspected blob SHA `d645695673349e3947e8e5ae42332d0ac3164cd7`.
+  - Applies to: `j-space-workspace-review.md`, `j-space-source-extraction.md`, and `j-space-method-card.md`.
+  - Notes: Apache License 2.0 for the companion code; inspected blob `d645695673349e3947e8e5ae42332d0ac3164cd7`.
 - Source URL: https://www.neuronpedia.org/jlens
   - Applies to: `j-space-workspace-review.md`.
-  - Notes: Public interactive J-lens surface linked by the paper; included as implementation context only and not used to validate the paper's empirical claims.
+  - Notes: Public interactive surface linked by the paper; implementation context only, not empirical validation.
 - Source record: https://github.com/Delphoa/Black-Lake/tree/f91342a701df29adbb2df87886028a11f8095076/.lake-data/DEP-E/DEP-E-20260729-Inspectable%20Agents
-  - Applies to: this README and the scope/provenance notes in `j-space-workspace-review.md`.
+  - Applies to: every file in this DEP-A.
   - Notes: Upstream multi-topic DEP-E from which the single primary research object was selected. No unrelated research subject or object was imported.
