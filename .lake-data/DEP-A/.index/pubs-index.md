@@ -4296,3 +4296,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MaMe & MaRe: Matrix-Based Token Merging and Restoration for Efficient Visual Perception and Synthesis* | Simin Huo; Ning Li | [arXiv:2604.13432v1](https://arxiv.org/abs/2604.13432v1) - [DOI](https://doi.org/10.48550/arXiv.2604.13432) |
+
+
+## [DEP-A-20260731-LG HCC Compression](../DEP-A-20260731-LG%20HCC%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2603.28431-whitepaper-review.md`](../DEP-A-20260731-LG%20HCC%20Compression/2603.28431-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LG-HCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting* | Xuan Deng; Xiandong Meng; Hengyu Man; Qiang Zhu; Tiange Zhang; Debin Zhao; Xiaopeng Fan | [arXiv:2603.28431v3](https://arxiv.org/abs/2603.28431v3) - [DOI](https://doi.org/10.48550/arXiv.2603.28431) |
+
+
+## [DEP-A-20260731-Continual Learning](../DEP-A-20260731-Continual%20Learning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.07847-whitepaper-review.md`](../DEP-A-20260731-Continual%20Learning/2607.07847-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Continual Learning Require Learning* | Anne Harrington; Nayan Saxena; Michael Murphy; Anastasia Borovykh; Zeyu Yun; Sridhar Kamath; Ara Eindra Kyi; Trevor Darrell; Jitendra Malik; Yutong Bai | [arXiv:2607.07847v1](https://arxiv.org/abs/2607.07847v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07847) |
+
+
+## [DEP-A-20260731-Fusion Token Adaptation](../DEP-A-20260731-Fusion%20Token%20Adaptation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.02612-whitepaper-review.md`](../DEP-A-20260731-Fusion%20Token%20Adaptation/2607.02612-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers* | Aravind Pradeep; Samira Nazari; Mahdi Taheri; Christian Herglotz | [arXiv:2607.02612v1](https://arxiv.org/abs/2607.02612v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02612) |
+
+
+## [DEP-A-20260731-Skill Memory Tradeoffs](../DEP-A-20260731-Skill%20Memory%20Tradeoffs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.09421-whitepaper-review.md`](../DEP-A-20260731-Skill%20Memory%20Tradeoffs/2606.09421-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Should a Skill Remember? Quality--Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents* | Qinghua Xing; Yinda Chen; Yaping Jin; Zhenhe Wu; Bohan Lin; Hang Zhou; Xinghao Chen; Hanting Chen; Zhiwei Xiong | [arXiv:2606.09421v2](https://arxiv.org/abs/2606.09421v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09421) |
+
+
+## [DEP-A-20260731-SparseSAM Activations](../DEP-A-20260731-SparseSAM%20Activations/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2605.17633-whitepaper-review.md`](../DEP-A-20260731-SparseSAM%20Activations/2605.17633-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SparseSAM: Structured Sparsification of Activations in Segment Anything Models* | Hoai-Chau Tran; Chi H. Nguyen; Duy M. H. Nguyen; Mathias Niepert; Fan Lai; Khoa D. Doan | [arXiv:2605.17633v1](https://arxiv.org/abs/2605.17633v1) - [DOI](https://doi.org/10.48550/arXiv.2605.17633) |
