@@ -1731,3 +1731,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents* | Yan, Yunhe; Wang, Shihe; Du, Jiajun; Yang, Yexuan; Shan, Yuxuan; Qiu, Qichen; Jia, Xianqing; Wang, Xinge; Yuan, Xin; Han, Xu; Qin, Mao; Chen, Yinxiao; Peng, Chen; Wang, Shangguang; Xu, Mengwei | [arXiv:2506.07672](https://arxiv.org/abs/2506.07672) - [DOI](https://doi.org/10.48550/arXiv.2506.07672) |
+
+
+## [DEP-E-20260730-RLHF-V Towards](../DEP-E-20260730-RLHF-V%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback* | Yu, Tianyu; Yao, Yuan; Zhang, Haoye; He, Taiwen; Han, Yifeng; Cui, Ganqu; Hu, Jinyi; Liu, Zhiyuan; Zheng, Hai-Tao; Sun, Maosong; Chua, Tat-Seng | [arXiv:2312.00849](https://arxiv.org/abs/2312.00849) - [DOI](https://doi.org/10.48550/arXiv.2312.00849) |

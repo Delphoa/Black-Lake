@@ -3041,6 +3041,29 @@
         "https://doi.org/10.48550/arXiv.1805.12305"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards",
+        ".logs/20260730-Arxiv-RLHF-V-Towards-Trustworthy-MLLMs-via-Behavior-LOG.md",
+        ".reports/BL-Arxiv-RLHF-V-Towards-Trustworthy-MLLMs-via-Behavior-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.00849",
+      "arxiv_id": "2312.00849",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.2312.00849",
+      "normalized_title": "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P01; draw 38725 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RLHF-V-Towards-Trustworthy-MLLMs-via-Behavior",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.00849",
+        "https://arxiv.org/html/2312.00849",
+        "https://arxiv.org/pdf/2312.00849",
+        "https://doi.org/10.48550/arXiv.2312.00849"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
