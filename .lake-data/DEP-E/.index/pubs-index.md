@@ -1752,3 +1752,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps* | Xu, Zehui; Wang, Junhui; Shi, Yongliang; Gao, Chao; Zhou, Guyue | [arXiv:2508.00303](https://arxiv.org/abs/2508.00303) - [DOI](https://doi.org/10.48550/arXiv.2508.00303) |
+
+
+## [DEP-E-20260730-Self-supervised TransUNet](../DEP-E-20260730-Self-supervised%20TransUNet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-supervised TransUNet for Ultrasound regional segmentation of the distal radius in children* | Zhou, Yuyue; Knight, Jessica; Felfeliyan, Banafshe; Keen, Christopher; Hareendranathan, Abhilash Rakkunedeth; Jaremko, Jacob L. | [arXiv:2309.09490](https://arxiv.org/abs/2309.09490) - [DOI](https://doi.org/10.48550/arXiv.2309.09490) |
