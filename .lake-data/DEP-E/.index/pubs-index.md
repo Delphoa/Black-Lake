@@ -1712,3 +1712,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results* | Kondo, Yuki; Ukita, Norimichi; Yamaguchi, Takayuki; Hou, Hao-Yu; Shen, Mu-Yi; Hsu, Chia-Chi; Huang, En-Ming; Huang, Yu-Chen; Xia, Yu-Cheng; Wang, Chien-Yao; Lee, Chun-Yi; Huo, Da; Kastner, Marc A.; Liu, Tingwei; Kawanishi, Yasutomo; Hirayama, Takatsugu; Komamizu, Takahiro; Ide, Ichiro; Shinya, Yosuke; Liu, Xinyao; Liang, Guang; Yasui, Syusuke | [arXiv:2307.09143](https://arxiv.org/abs/2307.09143) - [DOI](https://doi.org/10.23919/MVA57639.2023.10215935) |
+
+
+## [DEP-E-20260730-MCPWorld Benchmark](../DEP-E-20260730-MCPWorld%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents* | Yan, Yunhe; Wang, Shihe; Du, Jiajun; Yang, Yexuan; Shan, Yuxuan; Qiu, Qichen; Jia, Xianqing; Wang, Xinge; Yuan, Xin; Han, Xu; Qin, Mao; Chen, Yinxiao; Peng, Chen; Wang, Shangguang; Xu, Mengwei | [arXiv:2506.07672](https://arxiv.org/abs/2506.07672) - [DOI](https://doi.org/10.48550/arXiv.2506.07672) |
