@@ -1759,3 +1759,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Self-supervised TransUNet for Ultrasound regional segmentation of the distal radius in children* | Zhou, Yuyue; Knight, Jessica; Felfeliyan, Banafshe; Keen, Christopher; Hareendranathan, Abhilash Rakkunedeth; Jaremko, Jacob L. | [arXiv:2309.09490](https://arxiv.org/abs/2309.09490) - [DOI](https://doi.org/10.48550/arXiv.2309.09490) |
+
+
+## [DEP-E-20260730-Personalized Safety in](../DEP-E-20260730-Personalized%20Safety%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach* | Wu, Yuchen; Sun, Edward; Zhu, Kaijie; Lian, Jianxun; Hernandez-Orallo, Jose; Caliskan, Aylin; Wang, Jindong | [arXiv:2505.18882](https://arxiv.org/abs/2505.18882) - [DOI](https://doi.org/10.48550/arXiv.2505.18882) |
