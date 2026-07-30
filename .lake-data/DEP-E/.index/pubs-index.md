@@ -1766,3 +1766,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach* | Wu, Yuchen; Sun, Edward; Zhu, Kaijie; Lian, Jianxun; Hernandez-Orallo, Jose; Caliskan, Aylin; Wang, Jindong | [arXiv:2505.18882](https://arxiv.org/abs/2505.18882) - [DOI](https://doi.org/10.48550/arXiv.2505.18882) |
+
+
+## [DEP-E-20260730-Spectral Adapter](../DEP-E-20260730-Spectral%20Adapter/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Adapter: Fine-Tuning in Spectral Space* | Zhang, Fangzhao; Pilanci, Mert | [arXiv:2405.13952](https://arxiv.org/abs/2405.13952) - [DOI](https://doi.org/10.48550/arXiv.2405.13952) |
