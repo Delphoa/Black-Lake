@@ -38,7 +38,7 @@
 
 - Prior index state: no record for arXiv:1805.12305, its DOI, normalized title, or slug.
 - Validation sources: current dedup pointer, Black-Lake `.logs`, `.reports`, `.lake-data`, automation memory, current remote Black-Lake records, and Black-Lake-Data entries.
-- Result: unique public research deposit. The index is updated with repository-relative paths, public source URLs, date-only deposit metadata, and an initially blank commit reference pending repository submission.
+- Result: unique public research deposit. The index is updated with repository-relative paths, public source URLs, date-only deposit metadata, and the primary submission reference: https://github.com/Delphoa/Black-Lake/commit/d8a5903c.
 
 ## Expected vs Observed Trajectory
 

@@ -3028,7 +3028,7 @@
       ],
       "arxiv_base_id": "1805.12305",
       "arxiv_id": "1805.12305",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d8a5903c",
       "deposit_date": "20260730",
       "doi": "10.48550/arXiv.1805.12305",
       "normalized_title": "Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction",
