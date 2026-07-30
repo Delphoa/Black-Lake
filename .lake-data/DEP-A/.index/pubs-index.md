@@ -4251,3 +4251,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval* | Suhyeong Park; Junha Jung; Jungwoo Park; Jaewoo Kang | [arXiv:2607.04605v2](https://arxiv.org/abs/2607.04605v2) - [DOI](https://doi.org/10.48550/arXiv.2607.04605) |
+
+
+## [DEP-A-20260731-VISTA Context](../DEP-A-20260731-VISTA%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.30005-whitepaper-review.md`](../DEP-A-20260731-VISTA%20Context/2606.30005-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via a Proprioceptive Dashboard* | Binyan Xu; Haitao Li; Kehuan Zhang | [arXiv:2606.30005v2](https://arxiv.org/abs/2606.30005v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30005) |
+
+
+## [DEP-A-20260731-DORA Token Merging](../DEP-A-20260731-DORA%20Token%20Merging/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2605.11683-whitepaper-review.md`](../DEP-A-20260731-DORA%20Token%20Merging/2605.11683-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DORA: Dynamic Online Reinforcement Agent for Token Merging in Vision Transformers* | Kaixuan He; Song Chen; Yi Kang | [arXiv:2605.11683v1](https://arxiv.org/abs/2605.11683v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11683) |
+
+
+## [DEP-A-20260731-SparseGF Ground Filter](../DEP-A-20260731-SparseGF%20Ground%20Filter/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2604.21356-whitepaper-review.md`](../DEP-A-20260731-SparseGF%20Ground%20Filter/2604.21356-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SparseGF: A Height-Aware Sparse Segmentation Framework with Context Compression for Robust Ground Filtering Across Urban to Natural Scenes* | Nannan Qin; Pengjie Tao; Haiyan Guan; Zhizhong Kang; Lingfei Ma; Xiangyun Hu; Jonathan Li | [arXiv:2604.21356v1](https://arxiv.org/abs/2604.21356v1) - [DOI](https://doi.org/10.48550/arXiv.2604.21356) |
+
+
+## [DEP-A-20260731-ST Merge Robotics](../DEP-A-20260731-ST%20Merge%20Robotics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.29350-whitepaper-review.md`](../DEP-A-20260731-ST%20Merge%20Robotics/2606.29350-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast Enough to Act: Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs* | Junzhou Chen; Jindong Wang; Gang Zhou | [arXiv:2606.29350v1](https://arxiv.org/abs/2606.29350v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29350) |
+
+
+## [DEP-A-20260731-MaMe MaRe Tokens](../DEP-A-20260731-MaMe%20MaRe%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2604.13432-whitepaper-review.md`](../DEP-A-20260731-MaMe%20MaRe%20Tokens/2604.13432-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MaMe & MaRe: Matrix-Based Token Merging and Restoration for Efficient Visual Perception and Synthesis* | Simin Huo; Ning Li | [arXiv:2604.13432v1](https://arxiv.org/abs/2604.13432v1) - [DOI](https://doi.org/10.48550/arXiv.2604.13432) |
