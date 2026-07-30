@@ -1745,3 +1745,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Representing data by sparse combination of contextual data points for classification* | Wang, Jingyan; Zhou, Yihua; Yin, Ming; Chen, Shaochang; Edwards, Benjamin | [arXiv:1507.00019](https://arxiv.org/abs/1507.00019) - [DOI](https://doi.org/10.48550/arXiv.1507.00019) |
+
+
+## [DEP-E-20260730-TopoDiffuser A](../DEP-E-20260730-TopoDiffuser%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps* | Xu, Zehui; Wang, Junhui; Shi, Yongliang; Gao, Chao; Zhou, Guyue | [arXiv:2508.00303](https://arxiv.org/abs/2508.00303) - [DOI](https://doi.org/10.48550/arXiv.2508.00303) |
