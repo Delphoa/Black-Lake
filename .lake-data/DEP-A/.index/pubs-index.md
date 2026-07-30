@@ -4206,3 +4206,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PARTREP: Learning What to Repeat for Decoder-only LLMs* | Andikawati P Widjaja; Yongjun Kim; Hyounghun Kim; Jaeho Lee | [arXiv:2607.01792v1](https://arxiv.org/abs/2607.01792v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01792) |
+
+
+## [DEP-A-20260731-TraceLab Agent Traces](../DEP-A-20260731-TraceLab%20Agent%20Traces/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.30560-whitepaper-review.md`](../DEP-A-20260731-TraceLab%20Agent%20Traces/2606.30560-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TraceLab: Characterizing Coding Agent Workloads for LLM Serving* | Kan Zhu; Mathew Jacob; Chenxi Ma; Yi Pan; Stephanie Wang; Arvind Krishnamurthy; Baris Kasikci | [arXiv:2606.30560v2](https://arxiv.org/abs/2606.30560v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30560) |
+
+
+## [DEP-A-20260731-Execution Capsules](../DEP-A-20260731-Execution%20Capsules/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.20537-whitepaper-review.md`](../DEP-A-20260731-Execution%20Capsules/2606.20537-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving* | Liang Su | [arXiv:2606.20537v1](https://arxiv.org/abs/2606.20537v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20537) |
+
+
+## [DEP-A-20260731-ReMP Reconfiguration](../DEP-A-20260731-ReMP%20Reconfiguration/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.18741-whitepaper-review.md`](../DEP-A-20260731-ReMP%20Reconfiguration/2606.18741-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving* | Haipeng Yuan; Kaining Zheng; Yongshu Bai; Yuchen Zhang; Yunquan Zhang; Baodong Wu; Xiang Gao; Daning Cheng | [arXiv:2606.18741v1](https://arxiv.org/abs/2606.18741v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18741) |
+
+
+## [DEP-A-20260731-AdaMerge Tokens](../DEP-A-20260731-AdaMerge%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2605.27465-whitepaper-review.md`](../DEP-A-20260731-AdaMerge%20Tokens/2605.27465-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaMerge: Salience-Aware Adaptive Token Merging for Training-Free Acceleration of Vision Transformers* | Semi Lee; Hyejin Go; Hyesong Choi | [arXiv:2605.27465v1](https://arxiv.org/abs/2605.27465v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27465) |
+
+
+## [DEP-A-20260731-SaMer Retrieval](../DEP-A-20260731-SaMer%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.04605-whitepaper-review.md`](../DEP-A-20260731-SaMer%20Retrieval/2607.04605-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval* | Suhyeong Park; Junha Jung; Jungwoo Park; Jaewoo Kang | [arXiv:2607.04605v2](https://arxiv.org/abs/2607.04605v2) - [DOI](https://doi.org/10.48550/arXiv.2607.04605) |
