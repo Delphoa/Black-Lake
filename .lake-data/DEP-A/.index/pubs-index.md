@@ -4161,3 +4161,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ablation, Statistical Inference, and Validation for KV-Cache Compression* | Paolo D'Alberto; Ashish Siarasao; Elliott Delaye; Rajeev Patwari | [arXiv:2607.09683v1](https://arxiv.org/abs/2607.09683v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09683) |
+
+
+## [DEP-A-20260731-MiniPIC Cache](../DEP-A-20260731-MiniPIC%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.13126-whitepaper-review.md`](../DEP-A-20260731-MiniPIC%20Cache/2606.13126-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MiniPIC: Flexible Position-Independent Caching in <100LOC* | Nathan Ordonez; Thomas Parnell | [arXiv:2606.13126v1](https://arxiv.org/abs/2606.13126v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13126) |
+
+
+## [DEP-A-20260731-Latent Communication](../DEP-A-20260731-Latent%20Communication/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.05711-whitepaper-review.md`](../DEP-A-20260731-Latent%20Communication/2606.05711-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems* | Yingzhuo Liu | [arXiv:2606.05711v3](https://arxiv.org/abs/2606.05711v3) - [DOI](https://doi.org/10.48550/arXiv.2606.05711) |
+
+
+## [DEP-A-20260731-Hidden Decoding](../DEP-A-20260731-Hidden%20Decoding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.08186-whitepaper-review.md`](../DEP-A-20260731-Hidden%20Decoding/2607.08186-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models* | Aiwei Liu; Cheng Shi; Chuhan Wu; Ci Lei; Di Lu; Donald He; Fan Zhang; Fanhao Kong; Feifei Zhang; Guan Wang; Haicheng Wang; Haoyu Liu; Houjin Yu; Jiachen Ding; Jiayi Feng; Jie Zhou; Jijun Chi; Jindi Shi; Jing Lei; Junjie Zhang; Laiyi Li; Le Tian; Linhao Zhang; Miao Fan; Sijun Zhang; Wei Jia; Weiwei Shi; Wenhan Li; Wentao Zhao; Wenteng Liang; Xiao Zhou; Xiaojin Zhou; Xihuai Wang; Xinyu Gao; Xuanliang Wang; Xuyang Ao; Yang Yu; Yangxiu You; Yinuo Zhao; Yufei Kuang; Yufei Wang; Yuan Liu; Yuwen Chen; Zhencong Tian; Zhongyin Zhao; Zilin Yu; Zitao Wang | [arXiv:2607.08186v1](https://arxiv.org/abs/2607.08186v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08186) |
+
+
+## [DEP-A-20260731-3DLS Serving](../DEP-A-20260731-3DLS%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.01617-whitepaper-review.md`](../DEP-A-20260731-3DLS%20Serving/2607.01617-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *3DLS: A 3D Logic-Stacked Architecture for Disaggregated LLM Serving* | Jaehun Lee; In-Jun Jung; Joo-Young Kim | [arXiv:2607.01617v1](https://arxiv.org/abs/2607.01617v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01617) |
+
+
+## [DEP-A-20260731-PARTREP Repetition](../DEP-A-20260731-PARTREP%20Repetition/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.01792-whitepaper-review.md`](../DEP-A-20260731-PARTREP%20Repetition/2607.01792-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PARTREP: Learning What to Repeat for Decoder-only LLMs* | Andikawati P Widjaja; Yongjun Kim; Hyounghun Kim; Jaeho Lee | [arXiv:2607.01792v1](https://arxiv.org/abs/2607.01792v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01792) |
