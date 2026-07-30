@@ -1787,3 +1787,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sat3R: Satellite DSM Reconstruction via RPC-Aware Depth Fine-tuning* | Yang, Qiaoyi; Zhou, Chaoyi; Liu, Xi; Wang, Run; Xu, Minghui; Pesé, Mert D.; Luo, Feng; Xu, Yuhao; Cheng, Zhi-Qi; Chen, Qiushi; Qi, Hairong; Huang, Siyu | [arXiv:2605.07264](https://arxiv.org/abs/2605.07264) - [DOI](https://doi.org/10.48550/arXiv.2605.07264) |
+
+
+## [DEP-E-20260730-Toward building](../DEP-E-20260730-Toward%20building/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Toward building next-generation Geocoding systems: a systematic review* | Yin, Zhengcong; Goldberg, Daniel W.; Lin, Binbin; Zhou, Bing; Li, Diya; Ma, Andong; Ming, Ziqian; Cai, Heng; Zhang, Zhe; Wang, Shaohua; Gao, Shanzhen; Lee, Joey Ying; Li, Xiao; Huo, Da | [arXiv:2503.18888](https://arxiv.org/abs/2503.18888) - [DOI](https://doi.org/10.48550/arXiv.2503.18888) |
