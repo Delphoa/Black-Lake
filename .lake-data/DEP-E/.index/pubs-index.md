@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **406 publication reviews across 229 DEP-E entries**.
+- Current coverage: **416 publication reviews across 230 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-30; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260730-Evidence-Gated Agents](../DEP-E-20260730-Evidence-Gated%20Agents/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents* | Wei, Shuyue; Liu, Chang; Zhou, Zimu; Tong, Yongxin; Cui, Lizhen | [arXiv:2607.25992](https://arxiv.org/abs/2607.25992); [DOI](https://doi.org/10.48550/arXiv.2607.25992) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Towards an Agent Operating System - Lessons from Classical and Cloud OS* | Steinder, Gosia; Franke, Hubertus | [arXiv:2607.25076](https://arxiv.org/abs/2607.25076); [DOI](https://doi.org/10.48550/arXiv.2607.25076) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation* | Krsteski, Stefan; Meyer, Charlotte; Allegre, Guillaume; O'Halloran, Tony; Sallinen, Alexandre | [arXiv:2607.25891](https://arxiv.org/abs/2607.25891); [DOI](https://doi.org/10.48550/arXiv.2607.25891) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?* | Shaikh, Farooq | [arXiv:2607.25995](https://arxiv.org/abs/2607.25995); [DOI](https://doi.org/10.48550/arXiv.2607.25995) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Distributing Security Controls Through Harness Engineering* | Gore, William Robert | [arXiv:2607.25890](https://arxiv.org/abs/2607.25890); [DOI](https://doi.org/10.48550/arXiv.2607.25890) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Reinforcement Learning for Code Optimization* | Chambon, Pierre; Zheng, Kunhao; Decugis, Juliette; Sagot, Benoit; Synnaeve, Gabriel | [arXiv:2607.25970](https://arxiv.org/abs/2607.25970); [DOI](https://doi.org/10.48550/arXiv.2607.25970) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases* | Yang, Rui; Xuan, Weihao; Lin, Yi; *et al.* | [arXiv:2607.25933](https://arxiv.org/abs/2607.25933); [DOI](https://doi.org/10.48550/arXiv.2607.25933) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?* | Pillai, Abhishek; Nayak, Samir Kumar; Chen, Yuan | [arXiv:2607.26041](https://arxiv.org/abs/2607.26041); [DOI](https://doi.org/10.48550/arXiv.2607.26041) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *OmniQEC: discovering practical quantum error-correcting codes by an AI scientist* | Yan, Ge; Li, Shanchuan; Ma, Pengyue; Zhang, Qixin; Ma, Pingchuan; Wang, Jianping; Hsieh, Min-Hsiu; Du, Yuxuan | [arXiv:2607.25865](https://arxiv.org/abs/2607.25865); [DOI](https://doi.org/10.48550/arXiv.2607.25865) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
+| *Lowering the implementation barrier of neutral-atom quantum computing with agentic workflows* | Dalyac, Constantin; Dauphin, Alexandre; Henriet, Loïc; Jurczak, Christophe | [arXiv:2607.25834](https://arxiv.org/abs/2607.25834); [DOI](https://doi.org/10.48550/arXiv.2607.25834) | [DEP-E](../DEP-E-20260730-Evidence-Gated%20Agents/README.md) |
 
 ## [DEP-E-20260730-Agentic Trajectories](../DEP-E-20260730-Agentic%20Trajectories/README.md)
 
