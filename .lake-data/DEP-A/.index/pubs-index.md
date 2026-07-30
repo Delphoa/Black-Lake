@@ -4476,3 +4476,21 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks* | Jinrong Xiang; Ming Xu | [arXiv:2606.15807v1](https://arxiv.org/abs/2606.15807v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15807) |
+
+
+## [DEP-A-20260731-Ontology ASR Correction](../DEP-A-20260731-Ontology%20ASR%20Correction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.13464-whitepaper-review.md`](../DEP-A-20260731-Ontology%20ASR%20Correction/2606.13464-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations* | Xinxin Li; Huiyao Chen; Meishan Zhang; Yunxin Li; Zulong Chen; Zhibo Ren; Xiaoqing Dong; Baotian Hu; Min Zhang | [arXiv:2606.13464v2](https://arxiv.org/abs/2606.13464v2) - [DOI](https://doi.org/10.48550/arXiv.2606.13464) |
+
+
+## [DEP-A-20260731-Sharded Memory RL](../DEP-A-20260731-Sharded%20Memory%20RL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.12941-whitepaper-review.md`](../DEP-A-20260731-Sharded%20Memory%20RL/2606.12941-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Turn Reasoning When Context Arrives in Pieces: Scalable Sharding and Memory-Augmented RL* | Shu Tong Luo; Wenqin Liu; Rui Liu; Mingming Gong; Jiaxian Guo | [arXiv:2606.12941v2](https://arxiv.org/abs/2606.12941v2) - [DOI](https://doi.org/10.48550/arXiv.2606.12941) |
