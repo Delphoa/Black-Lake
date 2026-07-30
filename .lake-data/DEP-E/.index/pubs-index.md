@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **418 publication reviews across 232 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-30; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **419 publication reviews across 233 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-31; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260731-Evidence Replay](../DEP-E-20260731-Evidence%20Replay/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning* | Yanjun Zhao; Ruizhong Qiu; Tianxin Wei; *et al.* | [arXiv:2607.02509v1](https://arxiv.org/abs/2607.02509); [DOI](https://doi.org/10.48550/arXiv.2607.02509) | [DEP-E](../DEP-E-20260731-Evidence%20Replay/README.md) |
 
 ## [DEP-E-20260730-Epsilon Prox Affine](../DEP-E-20260730-Epsilon%20Prox%20Affine/README.md)
 
