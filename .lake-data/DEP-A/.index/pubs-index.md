@@ -4341,3 +4341,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SparseSAM: Structured Sparsification of Activations in Segment Anything Models* | Hoai-Chau Tran; Chi H. Nguyen; Duy M. H. Nguyen; Mathias Niepert; Fan Lai; Khoa D. Doan | [arXiv:2605.17633v1](https://arxiv.org/abs/2605.17633v1) - [DOI](https://doi.org/10.48550/arXiv.2605.17633) |
+
+
+## [DEP-A-20260731-Distilled RAG Reranker](../DEP-A-20260731-Distilled%20RAG%20Reranker/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.11933-whitepaper-review.md`](../DEP-A-20260731-Distilled%20RAG%20Reranker/2607.11933-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Transforming LLMs into Efficient Cross-Encoders via Knowledge Distillation for RAG Reranking* | Shreeya Dasa Lakshminath; Shubhan S | [arXiv:2607.11933v1](https://arxiv.org/abs/2607.11933v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11933) |
+
+
+## [DEP-A-20260731-RAG Ideology Temperature](../DEP-A-20260731-RAG%20Ideology%20Temperature/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.11783-whitepaper-review.md`](../DEP-A-20260731-RAG%20Ideology%20Temperature/2607.11783-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?* | Elmira Salari; Hazem Amamou; José Victor de Souza; Shruti Kshirsagar; Maria Nunes Delfino; Anderson Avila | [arXiv:2607.11783v1](https://arxiv.org/abs/2607.11783v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11783) |
+
+
+## [DEP-A-20260731-Healthier Public RAG](../DEP-A-20260731-Healthier%20Public%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.06641-whitepaper-review.md`](../DEP-A-20260731-Healthier%20Public%20RAG/2607.06641-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering* | Felix Feldman; Joshua Harris; Timothy Laurence; Leo Loman; Ollie Higgins; Fan Grayson; Poonam Soma; Bethany Pace-Bonello; Michael Borowitz; Toby Nonnenmacher | [arXiv:2607.06641v1](https://arxiv.org/abs/2607.06641v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06641) |
+
+
+## [DEP-A-20260731-RAG Inference Cost Attack](../DEP-A-20260731-RAG%20Inference%20Cost%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.02643-whitepaper-review.md`](../DEP-A-20260731-RAG%20Inference%20Cost%20Attack/2606.02643-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inference Cost Attacks for Retrieval-Augmented Large Language Models* | Chengliang Liu; Liangbo Ning; Yujuan Ding; Wenqi Fan | [arXiv:2606.02643v1](https://arxiv.org/abs/2606.02643v1) - [DOI](https://doi.org/10.48550/arXiv.2606.02643) |
+
+
+## [DEP-A-20260731-Eval Pair Judge Matrix](../DEP-A-20260731-Eval%20Pair%20Judge%20Matrix/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.10626-whitepaper-review.md`](../DEP-A-20260731-Eval%20Pair%20Judge%20Matrix/2607.10626-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Eval-Pair Matrix: Answer-Paired Meta-Evaluation of LLM Judges for Grounded RAG* | Sriram Selvam; Anneswa Ghosh | [arXiv:2607.10626v1](https://arxiv.org/abs/2607.10626v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10626) |
