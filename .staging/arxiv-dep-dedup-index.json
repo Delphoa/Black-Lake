@@ -2772,6 +2772,29 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of",
+        ".logs/20260729-Arxiv-A-Systematic-Survey-of-Automatic-Prompt-LOG.md",
+        ".reports/BL-Arxiv-A-Systematic-Survey-of-Automatic-Prompt-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.16923",
+      "arxiv_id": "2502.16923",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.18653/v1/2025.emnlp-main.1681",
+      "normalized_title": "A Systematic Survey of Automatic Prompt Optimization Techniques",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P06; draw 28887 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Systematic-Survey-of-Automatic-Prompt",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.16923",
+        "https://arxiv.org/html/2502.16923",
+        "https://arxiv.org/pdf/2502.16923",
+        "https://doi.org/10.18653/v1/2025.emnlp-main.1681"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260729-Correspondence Insert",
         ".logs/20260729-Arxiv-Correspondence-Insert-LOG.md",
         ".reports/BL-Arxiv-Correspondence-Insert-20260729/Report-Mark.md"
@@ -2786,6 +2809,98 @@
       "slug": "Correspondence-Insert",
       "source_urls": [
         "https://arxiv.org/abs/1608.07997"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-Decentralized Attention",
+        ".logs/20260729-Arxiv-Decentralized-Attention-Fails-Centralized-LOG.md",
+        ".reports/BL-Arxiv-Decentralized-Attention-Fails-Centralized-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.18473",
+      "arxiv_id": "2602.18473",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.48550/arXiv.2602.18473",
+      "normalized_title": "Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P03; draw 75230 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Decentralized-Attention-Fails-Centralized",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.18473",
+        "https://arxiv.org/html/2602.18473",
+        "https://arxiv.org/pdf/2602.18473",
+        "https://doi.org/10.48550/arXiv.2602.18473"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-Decoupled Training with",
+        ".logs/20260729-Arxiv-Decoupled-Training-with-Local-Reinforcement-Fine-LOG.md",
+        ".reports/BL-Arxiv-Decoupled-Training-with-Local-Reinforcement-Fine-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.27900",
+      "arxiv_id": "2605.27900",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.48550/arXiv.2605.27900",
+      "normalized_title": "Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P05; draw 42060 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Decoupled-Training-with-Local-Reinforcement-Fine",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.27900",
+        "https://arxiv.org/html/2605.27900",
+        "https://arxiv.org/pdf/2605.27900",
+        "https://doi.org/10.48550/arXiv.2605.27900"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent",
+        ".logs/20260729-Arxiv-Link-Prediction-on-Latent-Heterogeneous-Graphs-LOG.md",
+        ".reports/BL-Arxiv-Link-Prediction-on-Latent-Heterogeneous-Graphs-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.10432",
+      "arxiv_id": "2302.10432",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.48550/arXiv.2302.10432",
+      "normalized_title": "Link Prediction on Latent Heterogeneous Graphs",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P08; draw 18876 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Link-Prediction-on-Latent-Heterogeneous-Graphs",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.10432",
+        "https://ar5iv.labs.arxiv.org/html/2302.10432",
+        "https://arxiv.org/pdf/2302.10432",
+        "https://doi.org/10.48550/arXiv.2302.10432"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object",
+        ".logs/20260729-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-LOG.md",
+        ".reports/BL-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-20260729/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2307.09143",
+      "arxiv_id": "2307.09143",
+      "commit_or_pr": "",
+      "deposit_date": "20260729",
+      "doi": "10.23919/MVA57639.2023.10215935",
+      "normalized_title": "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results",
+      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P10; draw 36389 of 75778 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "MVA2023-Small-Object-Detection-Challenge-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2307.09143",
+        "https://ar5iv.labs.arxiv.org/html/2307.09143",
+        "https://arxiv.org/pdf/2307.09143",
+        "https://doi.org/10.23919/MVA57639.2023.10215935"
       ],
       "status": "deposited"
     },
@@ -2838,29 +2953,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260729-Decentralized Attention",
-        ".logs/20260729-Arxiv-Decentralized-Attention-Fails-Centralized-LOG.md",
-        ".reports/BL-Arxiv-Decentralized-Attention-Fails-Centralized-20260729/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2602.18473",
-      "arxiv_id": "2602.18473",
-      "commit_or_pr": "",
-      "deposit_date": "20260729",
-      "doi": "10.48550/arXiv.2602.18473",
-      "normalized_title": "Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series",
-      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P03; draw 75230 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Decentralized-Attention-Fails-Centralized",
-      "source_urls": [
-        "https://arxiv.org/abs/2602.18473",
-        "https://arxiv.org/html/2602.18473",
-        "https://arxiv.org/pdf/2602.18473",
-        "https://doi.org/10.48550/arXiv.2602.18473"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260729-Rank Optimization for",
         ".logs/20260729-Arxiv-Rank-Optimization-for-MIMO-Channel-with-RIS-LOG.md",
         ".reports/BL-Arxiv-Rank-Optimization-for-MIMO-Channel-with-RIS-20260729/Report-Mark.md"
@@ -2878,52 +2970,6 @@
         "https://arxiv.org/html/2307.13237",
         "https://arxiv.org/pdf/2307.13237",
         "https://doi.org/10.1109/LWC.2023.3331489"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260729-Decoupled Training with",
-        ".logs/20260729-Arxiv-Decoupled-Training-with-Local-Reinforcement-Fine-LOG.md",
-        ".reports/BL-Arxiv-Decoupled-Training-with-Local-Reinforcement-Fine-20260729/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2605.27900",
-      "arxiv_id": "2605.27900",
-      "commit_or_pr": "",
-      "deposit_date": "20260729",
-      "doi": "10.48550/arXiv.2605.27900",
-      "normalized_title": "Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning",
-      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P05; draw 42060 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Decoupled-Training-with-Local-Reinforcement-Fine",
-      "source_urls": [
-        "https://arxiv.org/abs/2605.27900",
-        "https://arxiv.org/html/2605.27900",
-        "https://arxiv.org/pdf/2605.27900",
-        "https://doi.org/10.48550/arXiv.2605.27900"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of",
-        ".logs/20260729-Arxiv-A-Systematic-Survey-of-Automatic-Prompt-LOG.md",
-        ".reports/BL-Arxiv-A-Systematic-Survey-of-Automatic-Prompt-20260729/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.16923",
-      "arxiv_id": "2502.16923",
-      "commit_or_pr": "",
-      "deposit_date": "20260729",
-      "doi": "10.18653/v1/2025.emnlp-main.1681",
-      "normalized_title": "A Systematic Survey of Automatic Prompt Optimization Techniques",
-      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P06; draw 28887 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-Systematic-Survey-of-Automatic-Prompt",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.16923",
-        "https://arxiv.org/html/2502.16923",
-        "https://arxiv.org/pdf/2502.16923",
-        "https://doi.org/10.18653/v1/2025.emnlp-main.1681"
       ],
       "status": "deposited"
     },
@@ -2953,29 +2999,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent",
-        ".logs/20260729-Arxiv-Link-Prediction-on-Latent-Heterogeneous-Graphs-LOG.md",
-        ".reports/BL-Arxiv-Link-Prediction-on-Latent-Heterogeneous-Graphs-20260729/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2302.10432",
-      "arxiv_id": "2302.10432",
-      "commit_or_pr": "",
-      "deposit_date": "20260729",
-      "doi": "10.48550/arXiv.2302.10432",
-      "normalized_title": "Link Prediction on Latent Heterogeneous Graphs",
-      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P08; draw 18876 of 75778 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Link-Prediction-on-Latent-Heterogeneous-Graphs",
-      "source_urls": [
-        "https://arxiv.org/abs/2302.10432",
-        "https://ar5iv.labs.arxiv.org/html/2302.10432",
-        "https://arxiv.org/pdf/2302.10432",
-        "https://doi.org/10.48550/arXiv.2302.10432"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260729-Transfer using Fourier",
         ".logs/20260729-Arxiv-Transfer-using-Fourier-transform-and-minimal-LOG.md",
         ".reports/BL-Arxiv-Transfer-using-Fourier-transform-and-minimal-20260729/Report-Mark.md"
@@ -2998,24 +3021,24 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object",
-        ".logs/20260729-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-LOG.md",
-        ".reports/BL-Arxiv-MVA2023-Small-Object-Detection-Challenge-for-20260729/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260730-SLFE Redundancy Review",
+        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-LOG.md",
+        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SLFE-Redundancy-Reduction-20260730/Report-Mark.md"
       ],
-      "arxiv_base_id": "2307.09143",
-      "arxiv_id": "2307.09143",
+      "arxiv_base_id": "1805.12305",
+      "arxiv_id": "1805.12305",
       "commit_or_pr": "",
-      "deposit_date": "20260729",
-      "doi": "10.23919/MVA57639.2023.10215935",
-      "normalized_title": "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results",
-      "notes": "Job BLAD-2200-20260729-5EE3EF9C item BLAD-2200-20260729-5EE3EF9C-P10; draw 36389 of 75778 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "MVA2023-Small-Object-Detection-Challenge-for",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.1805.12305",
+      "normalized_title": "Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction",
+      "notes": "Uniform PowerShell Get-Random draw 6515 of 75959 PDF candidates; no exclusions or reselections; complete-source gate passed after bounded HTML repair; all source files withheld locally.",
+      "slug": "SLFE-Redundancy-Reduction",
       "source_urls": [
-        "https://arxiv.org/abs/2307.09143",
-        "https://ar5iv.labs.arxiv.org/html/2307.09143",
-        "https://arxiv.org/pdf/2307.09143",
-        "https://doi.org/10.23919/MVA57639.2023.10215935"
+        "https://ar5iv.labs.arxiv.org/html/1805.12305",
+        "https://arxiv.org/abs/1805.12305",
+        "https://arxiv.org/pdf/1805.12305",
+        "https://doi.org/10.48550/arXiv.1805.12305"
       ],
       "status": "deposited"
     }
@@ -3788,5 +3811,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-29"
+  "updated_date": "2026-07-30"
 }
