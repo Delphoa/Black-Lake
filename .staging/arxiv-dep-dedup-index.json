@@ -3179,6 +3179,29 @@
         "https://doi.org/10.48550/arXiv.2405.13952"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive",
+        ".logs/20260730-Arxiv-Drag-Your-GAN-Interactive-Point-based-LOG.md",
+        ".reports/BL-Arxiv-Drag-Your-GAN-Interactive-Point-based-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2305.10973",
+      "arxiv_id": "2305.10973",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.1145/3588432.3591500",
+      "normalized_title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P07; draw 15176 of 75957 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Drag-Your-GAN-Interactive-Point-based",
+      "source_urls": [
+        "https://arxiv.org/abs/2305.10973",
+        "https://arxiv.org/html/2305.10973",
+        "https://arxiv.org/pdf/2305.10973",
+        "https://doi.org/10.1145/3588432.3591500"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

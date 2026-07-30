@@ -1773,3 +1773,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spectral Adapter: Fine-Tuning in Spectral Space* | Zhang, Fangzhao; Pilanci, Mert | [arXiv:2405.13952](https://arxiv.org/abs/2405.13952) - [DOI](https://doi.org/10.48550/arXiv.2405.13952) |
+
+
+## [DEP-E-20260730-Drag Your GAN Interactive](../DEP-E-20260730-Drag%20Your%20GAN%20Interactive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold* | Pan, Xingang; Tewari, Ayush; Leimkühler, Thomas; Liu, Lingjie; Meka, Abhimitra; Theobalt, Christian | [arXiv:2305.10973](https://arxiv.org/abs/2305.10973) - [DOI](https://doi.org/10.1145/3588432.3591500) |
