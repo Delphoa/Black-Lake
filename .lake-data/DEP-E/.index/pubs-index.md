@@ -1738,3 +1738,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback* | Yu, Tianyu; Yao, Yuan; Zhang, Haoye; He, Taiwen; Han, Yifeng; Cui, Ganqu; Hu, Jinyi; Liu, Zhiyuan; Zheng, Hai-Tao; Sun, Maosong; Chua, Tat-Seng | [arXiv:2312.00849](https://arxiv.org/abs/2312.00849) - [DOI](https://doi.org/10.48550/arXiv.2312.00849) |
+
+
+## [DEP-E-20260730-Representing data by](../DEP-E-20260730-Representing%20data%20by/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Representing data by sparse combination of contextual data points for classification* | Wang, Jingyan; Zhou, Yihua; Yin, Ming; Chen, Shaochang; Edwards, Benjamin | [arXiv:1507.00019](https://arxiv.org/abs/1507.00019) - [DOI](https://doi.org/10.48550/arXiv.1507.00019) |

@@ -3064,6 +3064,29 @@
         "https://doi.org/10.48550/arXiv.2312.00849"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Representing data by",
+        ".logs/20260730-Arxiv-Representing-data-by-sparse-combination-of-LOG.md",
+        ".reports/BL-Arxiv-Representing-data-by-sparse-combination-of-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1507.00019",
+      "arxiv_id": "1507.00019",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.1507.00019",
+      "normalized_title": "Representing data by sparse combination of contextual data points for classification",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P02; draw 1959 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Representing-data-by-sparse-combination-of",
+      "source_urls": [
+        "https://arxiv.org/abs/1507.00019",
+        "https://ar5iv.labs.arxiv.org/html/1507.00019",
+        "https://arxiv.org/pdf/1507.00019",
+        "https://doi.org/10.48550/arXiv.1507.00019"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
