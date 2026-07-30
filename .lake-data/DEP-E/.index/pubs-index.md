@@ -1794,3 +1794,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Toward building next-generation Geocoding systems: a systematic review* | Yin, Zhengcong; Goldberg, Daniel W.; Lin, Binbin; Zhou, Bing; Li, Diya; Ma, Andong; Ming, Ziqian; Cai, Heng; Zhang, Zhe; Wang, Shaohua; Gao, Shanzhen; Lee, Joey Ying; Li, Xiao; Huo, Da | [arXiv:2503.18888](https://arxiv.org/abs/2503.18888) - [DOI](https://doi.org/10.48550/arXiv.2503.18888) |
+
+
+## [DEP-E-20260730-SOC Semantic-Assisted](../DEP-E-20260730-SOC%20Semantic-Assisted/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation* | Luo, Zhuoyan; Xiao, Yicheng; Liu, Yong; Li, Shuyan; Wang, Yitong; Tang, Yansong; Li, Xiu; Yang, Yujiu | [arXiv:2305.17011](https://arxiv.org/abs/2305.17011) - [DOI](https://doi.org/10.48550/arXiv.2305.17011) |
