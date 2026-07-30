@@ -4386,3 +4386,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Eval-Pair Matrix: Answer-Paired Meta-Evaluation of LLM Judges for Grounded RAG* | Sriram Selvam; Anneswa Ghosh | [arXiv:2607.10626v1](https://arxiv.org/abs/2607.10626v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10626) |
+
+
+## [DEP-A-20260731-ConvMemory Attribution](../DEP-A-20260731-ConvMemory%20Attribution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2605.28062-whitepaper-review.md`](../DEP-A-20260731-ConvMemory%20Attribution/2605.28062-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConvMemory: A Lightweight Learned Memory Reranker, a Negative Attribution Result, and a Research-Preview Conflict Editor* | Taiheng Pan | [arXiv:2605.28062v1](https://arxiv.org/abs/2605.28062v1) - [DOI](https://doi.org/10.48550/arXiv.2605.28062) |
+
+
+## [DEP-A-20260731-Feedback Self Improvement](../DEP-A-20260731-Feedback%20Self%20Improvement/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.11267-whitepaper-review.md`](../DEP-A-20260731-Feedback%20Self%20Improvement/2607.11267-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing LLMs through human feedback: a journey towards self-improvement* | Tatiana Pelc; Gila Kamhi; Asaf Avrahamy; Adi Fledel-Alon | [arXiv:2607.11267v1](https://arxiv.org/abs/2607.11267v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11267) |
+
+
+## [DEP-A-20260731-Tool Adaptive Reranker](../DEP-A-20260731-Tool%20Adaptive%20Reranker/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.10555-whitepaper-review.md`](../DEP-A-20260731-Tool%20Adaptive%20Reranker/2607.10555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tool-Adaptive LLM Reranker* | Zichuan Liu; Ruijin Hua | [arXiv:2607.10555v1](https://arxiv.org/abs/2607.10555v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10555) |
+
+
+## [DEP-A-20260731-Merged Conversational IR](../DEP-A-20260731-Merged%20Conversational%20IR/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.08540-whitepaper-review.md`](../DEP-A-20260731-Merged%20Conversational%20IR/2607.08540-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging* | Ahmed Rayane Kebir; Jose G. Moreno; Lynda Tamine | [arXiv:2607.08540v1](https://arxiv.org/abs/2607.08540v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08540) |
+
+
+## [DEP-A-20260731-Vision Free CIR](../DEP-A-20260731-Vision%20Free%20CIR/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.12621-whitepaper-review.md`](../DEP-A-20260731-Vision%20Free%20CIR/2607.12621-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval* | Ryotaro Shimada; Yu-Chieh Lin; Yuji Nozawa; Youyang Ng; Osamu Torii; Yusuke Matsui | [arXiv:2607.12621v1](https://arxiv.org/abs/2607.12621v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12621) |
