@@ -1780,3 +1780,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold* | Pan, Xingang; Tewari, Ayush; Leimkühler, Thomas; Liu, Lingjie; Meka, Abhimitra; Theobalt, Christian | [arXiv:2305.10973](https://arxiv.org/abs/2305.10973) - [DOI](https://doi.org/10.1145/3588432.3591500) |
+
+
+## [DEP-E-20260730-Sat3R Satellite DSM](../DEP-E-20260730-Sat3R%20Satellite%20DSM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sat3R: Satellite DSM Reconstruction via RPC-Aware Depth Fine-tuning* | Yang, Qiaoyi; Zhou, Chaoyi; Liu, Xi; Wang, Run; Xu, Minghui; Pesé, Mert D.; Luo, Feng; Xu, Yuhao; Cheng, Zhi-Qi; Chen, Qiushi; Qi, Hairong; Huang, Siyu | [arXiv:2605.07264](https://arxiv.org/abs/2605.07264) - [DOI](https://doi.org/10.48550/arXiv.2605.07264) |
