@@ -4431,3 +4431,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval* | Ryotaro Shimada; Yu-Chieh Lin; Yuji Nozawa; Youyang Ng; Osamu Torii; Yusuke Matsui | [arXiv:2607.12621v1](https://arxiv.org/abs/2607.12621v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12621) |
+
+
+## [DEP-A-20260731-ReflectWorld MM](../DEP-A-20260731-ReflectWorld%20MM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.09759-whitepaper-review.md`](../DEP-A-20260731-ReflectWorld%20MM/2607.09759-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams* | Xiaokang Ma; Yifan Sun; Zhihong Jin; Jie Gu; Yudong Luo; Shenyi Shao; Chu Tang; Jingmin Chen; Li Pu | [arXiv:2607.09759v2](https://arxiv.org/abs/2607.09759v2) - [DOI](https://doi.org/10.48550/arXiv.2607.09759) |
+
+
+## [DEP-A-20260731-Memory Sycophancy](../DEP-A-20260731-Memory%20Sycophancy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.10949-whitepaper-review.md`](../DEP-A-20260731-Memory%20Sycophancy/2606.10949-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models* | Shelly Bensal; Axel Magnuson; Aparna Balagopalan; Daniel M. Bikel | [arXiv:2606.10949v1](https://arxiv.org/abs/2606.10949v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10949) |
+
+
+## [DEP-A-20260731-Epistemic Working Memory](../DEP-A-20260731-Epistemic%20Working%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2607.12267-whitepaper-review.md`](../DEP-A-20260731-Epistemic%20Working%20Memory/2607.12267-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents* | Ning Liu | [arXiv:2607.12267v1](https://arxiv.org/abs/2607.12267v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12267) |
+
+
+## [DEP-A-20260731-Mem World Robot Model](../DEP-A-20260731-Mem%20World%20Robot%20Model/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.18960-whitepaper-review.md`](../DEP-A-20260731-Mem%20World%20Robot%20Model/2606.18960-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation* | Zirui Zheng; Jiaqian Yu; Xiongfeng Peng; jun shi; Mingyi Li; Chao Zhang; Weiming Li; Dong Wang; Huchuan Lu; Xu Jia | [arXiv:2606.18960v2](https://arxiv.org/abs/2606.18960v2) - [DOI](https://doi.org/10.48550/arXiv.2606.18960) |
+
+
+## [DEP-A-20260731-Cross Domain Traffic](../DEP-A-20260731-Cross%20Domain%20Traffic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-31. The owning review artifact is [`2606.15807-whitepaper-review.md`](../DEP-A-20260731-Cross%20Domain%20Traffic/2606.15807-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks* | Jinrong Xiang; Ming Xu | [arXiv:2606.15807v1](https://arxiv.org/abs/2606.15807v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15807) |
