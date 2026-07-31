@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **431 publication reviews across 236 DEP-E entries**.
+- Current coverage: **441 publication reviews across 237 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-31; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260801-Evidence Systems](../DEP-E-20260801-Evidence%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning* | Fang, Lizhe; Shen, Weizhou; Tang, Tianyi; Wang, Yisen | [arXiv:2607.19345v1](https://arxiv.org/abs/2607.19345); [DOI](https://doi.org/10.48550/arXiv.2607.19345) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents* | He, Qijia; Cheng, Jiayi; Le, Chenqian; *et al.* | [arXiv:2607.19338v1](https://arxiv.org/abs/2607.19338); [DOI](https://doi.org/10.48550/arXiv.2607.19338) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface* | Sidot, Yohann | [arXiv:2607.19267v1](https://arxiv.org/abs/2607.19267); [DOI](https://doi.org/10.48550/arXiv.2607.19267) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Images* | Liao, Dankai; Zhang, Tianyi; Wu, Yufeng; *et al.* | [arXiv:2607.19261v2](https://arxiv.org/abs/2607.19261); [DOI](https://doi.org/10.48550/arXiv.2607.19261) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation* | Sun, Weifeng; Fan, Ye; Chen, Yuchen; *et al.* | [arXiv:2607.19104v1](https://arxiv.org/abs/2607.19104); [DOI](https://doi.org/10.48550/arXiv.2607.19104) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training* | Malik, Nuemaan | [arXiv:2607.19058v1](https://arxiv.org/abs/2607.19058); [DOI](https://doi.org/10.48550/arXiv.2607.19058) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *ATLAS: A Foundation Neural Sampler for Amorphous Materials* | Cheng, Mouyang; Blessing, Denis; Yu, Botao; *et al.* | [arXiv:2607.19198v1](https://arxiv.org/abs/2607.19198); [DOI](https://doi.org/10.48550/arXiv.2607.19198) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *PhoenixRepair: Rethinking Repair Strategy Exploration in Software Agents* | Jiang, Tianyue; Wang, Yanlin; He, Xin; *et al.* | [arXiv:2607.18859v1](https://arxiv.org/abs/2607.18859); [DOI](https://doi.org/10.48550/arXiv.2607.18859) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems* | Kasneci, Gjergji; Kasneci, Enkelejda | [arXiv:2607.19292v1](https://arxiv.org/abs/2607.19292); [DOI](https://doi.org/10.48550/arXiv.2607.19292) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
+| *Quantum Synchronization* | Solanki, Parvinder; Cabot, Albert; Iemini, Fernando; *et al.* | [arXiv:2607.19328v1](https://arxiv.org/abs/2607.19328); [DOI](https://doi.org/10.48550/arXiv.2607.19328) | [DEP-E](../DEP-E-20260801-Evidence%20Systems/README.md) |
 
 ## [DEP-E-20260731-CT-UCBVI Regret](../DEP-E-20260731-CT-UCBVI%20Regret/README.md)
 
