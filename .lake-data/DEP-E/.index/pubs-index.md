@@ -1869,3 +1869,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Estimating the persistent homology of $\mathbb{R}^n$-valued functions using function-geometric multifiltrations* | André, Ethan; Li, Jingyi; Loiseaux, David; Oudot, Steve | [arXiv:2412.04162](https://arxiv.org/abs/2412.04162) - [DOI](https://doi.org/10.48550/arXiv.2412.04162) |
+
+
+## [DEP-E-20260731-GADT Enhancing](../DEP-E-20260731-GADT%20Enhancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation* | Ma, Yating; Xu, Xiaogang; Fang, Liming; Liu, Zhe | [arXiv:2410.18648](https://arxiv.org/abs/2410.18648) - [DOI](https://doi.org/10.48550/arXiv.2410.18648) |

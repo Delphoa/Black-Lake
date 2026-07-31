@@ -3364,6 +3364,29 @@
         "https://doi.org/10.48550/arXiv.2412.04162"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-GADT Enhancing",
+        ".logs/20260731-Arxiv-GADT-Enhancing-Transferable-Adversarial-Attacks-LOG.md",
+        ".reports/BL-Arxiv-GADT-Enhancing-Transferable-Adversarial-Attacks-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.18648",
+      "arxiv_id": "2410.18648",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2410.18648",
+      "normalized_title": "GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P04; draw 17614 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "GADT-Enhancing-Transferable-Adversarial-Attacks",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.18648",
+        "https://arxiv.org/html/2410.18648",
+        "https://arxiv.org/pdf/2410.18648",
+        "https://doi.org/10.48550/arXiv.2410.18648"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
