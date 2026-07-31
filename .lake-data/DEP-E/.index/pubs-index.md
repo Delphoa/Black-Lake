@@ -1822,3 +1822,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation* | Luo, Zhuoyan; Xiao, Yicheng; Liu, Yong; Li, Shuyan; Wang, Yitong; Tang, Yansong; Li, Xiu; Yang, Yujiu | [arXiv:2305.17011](https://arxiv.org/abs/2305.17011) - [DOI](https://doi.org/10.48550/arXiv.2305.17011) |
+
+
+## [DEP-E-20260731-Lorenz Divide Conquer](../DEP-E-20260731-Lorenz%20Divide%20Conquer/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Divide-and-Conquer Modeling for the CTF-4-Science Lorenz Benchmark* | Li, Shundong | [arXiv:2606.10084](https://arxiv.org/abs/2606.10084) - [DOI](https://doi.org/10.48550/arXiv.2606.10084) |
