@@ -4715,3 +4715,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FOLIO: Focused Semantic Memory for Streaming Video Understanding* | Haoyang Fan; Dhruv Parikh; Anvitha Ramachandran; Sameh Gobriel; Nilesh Jain; Rajgopal Kannan; Viktor Prasanna | [arXiv:2607.13298v1](https://arxiv.org/abs/2607.13298v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13298) |
+
+
+## [DEP-A-20260801-Business Value IDs](../DEP-A-20260801-Business%20Value%20IDs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11392-whitepaper-review.md`](../DEP-A-20260801-Business%20Value%20IDs/2607.11392-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval* | Gui Ling; Zhihong Chen; Yu Li; Tong Xiong; Kunhai Lin; Kaixuan Zhang; Yuliang Yan; Dan Ou; Haihong Tang; Bo Zheng | [arXiv:2607.11392v1](https://arxiv.org/abs/2607.11392v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11392) |
+
+
+## [DEP-A-20260801-Collaborative VLM Prune](../DEP-A-20260801-Collaborative%20VLM%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2604.02956-whitepaper-review.md`](../DEP-A-20260801-Collaborative%20VLM%20Prune/2604.02956-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Collaborative Multi-Mode Pruning for Vision-Language Models* | Zimeng Wu; Yunhong Wang; Donghao Wang; Jiaxin Chen | [arXiv:2604.02956v1](https://arxiv.org/abs/2604.02956v1) - [DOI](https://doi.org/10.48550/arXiv.2604.02956) |
+
+
+## [DEP-A-20260801-Dynamic PTQ](../DEP-A-20260801-Dynamic%20PTQ/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.12487-whitepaper-review.md`](../DEP-A-20260801-Dynamic%20PTQ/2606.12487-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynamicPTQ: Mitigating Activation Quantization Collapse via Residual-Stream Dynamics* | Zimo Zhao; Maolin Wang; Bowen Yu; Bowen Liu; Xiao Han; Xiangyu Zhao | [arXiv:2606.12487v1](https://arxiv.org/abs/2606.12487v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12487) |
+
+
+## [DEP-A-20260801-Hierarchical Sparse Attn](../DEP-A-20260801-Hierarchical%20Sparse%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.02980-whitepaper-review.md`](../DEP-A-20260801-Hierarchical%20Sparse%20Attn/2607.02980-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling* | Xiang Hu; Xinyu Wei; Hao Gu; Minshen Zhang; Tian Liang; Huayang Li; Lei Zhu; Yan Wang; Sirui Han; Yushi Bai; Kewei Tu; Haitao Mi; Leo Liang | [arXiv:2607.02980v1](https://arxiv.org/abs/2607.02980v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02980) |
+
+
+## [DEP-A-20260801-Cross Layer Sparse Attn](../DEP-A-20260801-Cross%20Layer%20Sparse%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.06467-whitepaper-review.md`](../DEP-A-20260801-Cross%20Layer%20Sparse%20Attn/2606.06467-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *You Only Index Once: Cross-Layer Sparse Attention with Shared Routing* | Yutao Sun; Yanqi Zhang; Li Dong; Jianyong Wang; Furu Wei | [arXiv:2606.06467v1](https://arxiv.org/abs/2606.06467v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06467) |
