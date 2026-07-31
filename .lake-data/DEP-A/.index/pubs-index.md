@@ -4805,3 +4805,30 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation* | Peyman Hosseini; Ondrej Bohdal; Ahmed Alajrami; Andrea Maracani; Ignacio Castro; Matthew Purver; Mete Ozay; Savas Ozkan; Taha Ceritli | [arXiv:2606.29961v1](https://arxiv.org/abs/2606.29961v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29961) |
+
+
+## [DEP-A-20260801-Predict Reuse Repair](../DEP-A-20260801-Predict%20Reuse%20Repair/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.30389-whitepaper-review.md`](../DEP-A-20260801-Predict%20Reuse%20Repair/2606.30389-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predict, Reuse, and Repair: Accelerating Dynamic Sparse Attention for Long-Context LLM Decoding* | Tianyu Wang; Gourav Rattihalli; Aditya Dhakal; Junbo Li; Zhiwei Ren; Dejan Milojicic; Longfei Shangguan | [arXiv:2606.30389v1](https://arxiv.org/abs/2606.30389v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30389) |
+
+
+## [DEP-A-20260801-Quantized Program Repair](../DEP-A-20260801-Quantized%20Program%20Repair/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.27205-whitepaper-review.md`](../DEP-A-20260801-Quantized%20Program%20Repair/2606.27205-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Smaller Models, Unexpected Costs: Trade-offs in LLM Quantization for Automated Program Repair* | Fernando Vallecillos-Ruiz; Giordano d'Aloisio; Max Hort; Luca Traini; Antinisca Di Marco; Leon Moonen | [arXiv:2606.27205v2](https://arxiv.org/abs/2606.27205v2) - [DOI](https://doi.org/10.48550/arXiv.2606.27205) |
+
+
+## [DEP-A-20260801-LiteTopK Kernel](../DEP-A-20260801-LiteTopK%20Kernel/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11976-whitepaper-review.md`](../DEP-A-20260801-LiteTopK%20Kernel/2607.11976-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention* | Ziqi Yin; Jianyang Gao; Peiqi Yin; Jiangneng Li; Gao Cong | [arXiv:2607.11976v2](https://arxiv.org/abs/2607.11976v2) - [DOI](https://doi.org/10.48550/arXiv.2607.11976) |
