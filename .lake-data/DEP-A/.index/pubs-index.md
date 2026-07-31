@@ -4494,3 +4494,47 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Turn Reasoning When Context Arrives in Pieces: Scalable Sharding and Memory-Augmented RL* | Shu Tong Luo; Wenqin Liu; Rui Liu; Mingming Gong; Jiaxian Guo | [arXiv:2606.12941v2](https://arxiv.org/abs/2606.12941v2) - [DOI](https://doi.org/10.48550/arXiv.2606.12941) |
+
+## [DEP-A-20260801-AIS Vessel Memory](../DEP-A-20260801-AIS%20Vessel%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.06311-whitepaper-review.md`](../DEP-A-20260801-AIS%20Vessel%20Memory/2606.06311-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AIS-Based Vessel Trajectory Prediction Using Memory-Augmented Neural Networks* | Wonmo Koo; Sanha Chang; Heeyoung Kim | [arXiv:2606.06311v1](https://arxiv.org/abs/2606.06311v1) · [DOI](https://doi.org/10.48550/arXiv.2606.06311) |
+
+
+## [DEP-A-20260801-Personal Visual Memory](../DEP-A-20260801-Personal%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2605.28806-whitepaper-review.md`](../DEP-A-20260801-Personal%20Visual%20Memory/2605.28806-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Personal Visual Memory from Explicit and Implicit Evidence* | Viet Nguyen; Thao Nguyen; Vishal M. Patel; Yuheng Li | [arXiv:2605.28806v1](https://arxiv.org/abs/2605.28806v1) · [DOI](https://doi.org/10.48550/arXiv.2605.28806) |
+
+
+## [DEP-A-20260801-Evo Attacker](../DEP-A-20260801-Evo%20Attacker/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2605.25389-whitepaper-review.md`](../DEP-A-20260801-Evo%20Attacker/2605.25389-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS* | Bingyu Yan; Xiaoming Zhang; Jinyu Hou; Chaozhuo Li; Ziyi Zhou; Yiming Hei; Litian Zhang | [arXiv:2605.25389v1](https://arxiv.org/abs/2605.25389v1) · [DOI](https://doi.org/10.48550/arXiv.2605.25389) |
+
+
+## [DEP-A-20260801-MemCam Video](../DEP-A-20260801-MemCam%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2603.26193-whitepaper-review.md`](../DEP-A-20260801-MemCam%20Video/2603.26193-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemCam: Memory-Augmented Camera Control for Consistent Video Generation* | Xinhang Gao; Junlin Guan; Shuhan Luo; Wenzhuo Li; Guanghuan Tan; Jiacheng Wang | [arXiv:2603.26193v1](https://arxiv.org/abs/2603.26193v1) · [DOI](https://doi.org/10.48550/arXiv.2603.26193) |
+
+
+## [DEP-A-20260801-Modal Logic HOL](../DEP-A-20260801-Modal%20Logic%20HOL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10880-whitepaper-review.md`](../DEP-A-20260801-Modal%20Logic%20HOL/2607.10880-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)* | Christoph Benzmüller; Daniel Kirchner | [arXiv:2607.10880v1](https://arxiv.org/abs/2607.10880v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10880) |
