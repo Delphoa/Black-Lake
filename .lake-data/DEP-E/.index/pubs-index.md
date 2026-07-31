@@ -1848,3 +1848,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Paths and Intersections: Minimum Realization of Okamura-Seymour Instances* | Chen, Yu; Pylyavskyy, Pavlo; Tan, Zihan | [arXiv:2607.02883](https://arxiv.org/abs/2607.02883) - [DOI](https://doi.org/10.48550/arXiv.2607.02883) |
+
+
+## [DEP-E-20260731-Inferentially-Private](../DEP-E-20260731-Inferentially-Private/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inferentially-Private Private Information* | Wang, Shuaiqi; Zheng, Shuran; Lin, Zinan; Fanti, Giulia; Wu, Zhiwei Steven | [arXiv:2410.17095](https://arxiv.org/abs/2410.17095) - [DOI](https://doi.org/10.48550/arXiv.2410.17095) |
