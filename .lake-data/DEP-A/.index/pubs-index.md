@@ -4670,3 +4670,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Hyperspherical Geometry of CLIP Latent Space: A Semantic Mixture Model* | Zijie Yu; Gaowen Liu; Ramana Rao Kompella; Philip S. Yu; Yue Song | [arXiv:2607.13660v1](https://arxiv.org/abs/2607.13660v1) · [DOI](https://doi.org/10.48550/arXiv.2607.13660) |
+
+
+## [DEP-A-20260801-Code MUE Uncertainty](../DEP-A-20260801-Code%20MUE%20Uncertainty/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.12273-whitepaper-review.md`](../DEP-A-20260801-Code%20MUE%20Uncertainty/2607.12273-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Code-MUE: Measuring Code LLMs' Uncertainty through Execution-based Semantic Interaction Graphs* | Xiaoning Ren; Yinxing Xue; Lei Ma; Yuheng Huang | [arXiv:2607.12273v1](https://arxiv.org/abs/2607.12273v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12273) |
+
+
+## [DEP-A-20260801-CROSS Localization](../DEP-A-20260801-CROSS%20Localization/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.12429-whitepaper-review.md`](../DEP-A-20260801-CROSS%20Localization/2607.12429-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization* | Mao Chen; Xiangkai Zhang; Zhiyong Liu; Chuankai Liu; Xu Yang | [arXiv:2607.12429v1](https://arxiv.org/abs/2607.12429v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12429) |
+
+
+## [DEP-A-20260801-Instance VLN Maps](../DEP-A-20260801-Instance%20VLN%20Maps/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.12630-whitepaper-review.md`](../DEP-A-20260801-Instance%20VLN%20Maps/2607.12630-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Instance-Enriched Semantic Maps for Visual Language Navigation* | Jiho Hong; Eunae Kang; Sanghyun Kim; Young-Sik Shin | [arXiv:2607.12630v1](https://arxiv.org/abs/2607.12630v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12630) |
+
+
+## [DEP-A-20260801-Token Flow Firewall](../DEP-A-20260801-Token%20Flow%20Firewall/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.08395-whitepaper-review.md`](../DEP-A-20260801-Token%20Flow%20Firewall/2607.08395-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents* | Puji Wang; Yingchen Zhang; Ruqing Zhang; Jiafeng Guo; Xueqi Cheng | [arXiv:2607.08395v1](https://arxiv.org/abs/2607.08395v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08395) |
+
+
+## [DEP-A-20260801-FOLIO Video Memory](../DEP-A-20260801-FOLIO%20Video%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.13298-whitepaper-review.md`](../DEP-A-20260801-FOLIO%20Video%20Memory/2607.13298-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FOLIO: Focused Semantic Memory for Streaming Video Understanding* | Haoyang Fan; Dhruv Parikh; Anvitha Ramachandran; Sameh Gobriel; Nilesh Jain; Rajgopal Kannan; Viktor Prasanna | [arXiv:2607.13298v1](https://arxiv.org/abs/2607.13298v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13298) |
