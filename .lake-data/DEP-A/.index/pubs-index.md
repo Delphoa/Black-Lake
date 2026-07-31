@@ -4538,3 +4538,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)* | Christoph Benzmüller; Daniel Kirchner | [arXiv:2607.10880v1](https://arxiv.org/abs/2607.10880v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10880) |
+
+## [DEP-A-20260801-Stresa Adaptation](../DEP-A-20260801-Stresa%20Adaptation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10909-whitepaper-review.md`](../DEP-A-20260801-Stresa%20Adaptation/2607.10909-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation* | Junchen Fu; Kaiwen Zheng; Ioannis Arapakis; Wenhao Deng; Xin Xin; Joemon M. Jose; Xuri Ge | [arXiv:2607.10909v1](https://arxiv.org/abs/2607.10909v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10909) |
+
+
+## [DEP-A-20260801-Online Metric Embedding](../DEP-A-20260801-Online%20Metric%20Embedding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10624-whitepaper-review.md`](../DEP-A-20260801-Online%20Metric%20Embedding/2607.10624-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deterministic Online Embedding of Metric Spaces into Low Dimensional Spaces* | Noam Licht; Ilan Newman; Yuri Rabinovich | [arXiv:2607.10624v1](https://arxiv.org/abs/2607.10624v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10624) |
+
+
+## [DEP-A-20260801-COJEPA MRI](../DEP-A-20260801-COJEPA%20MRI/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11962-whitepaper-review.md`](../DEP-A-20260801-COJEPA%20MRI/2607.11962-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contrastive Joint-Embedding Prediction for Representation Learning in Structural MRI* | Fabian Mager; Lars Kai Hansen | [arXiv:2607.11962v1](https://arxiv.org/abs/2607.11962v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11962) |
+
+
+## [DEP-A-20260801-Soft Token RecSys](../DEP-A-20260801-Soft%20Token%20RecSys/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10016-whitepaper-review.md`](../DEP-A-20260801-Soft%20Token%20RecSys/2607.10016-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tokenizing Numerical and Embedding Features for LLM RecSys* | Zhe Xu; Ankit Peshin; Chiyu Zhang; Feng Qi; Johnson Lui; Anil Ramakrishna; Justin Johnson; Carl Hu; Kaushik Rangadurai; Luke Simon | [arXiv:2607.10016v1](https://arxiv.org/abs/2607.10016v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10016) |
+
+
+## [DEP-A-20260801-Personal Video Search](../DEP-A-20260801-Personal%20Video%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.13493-whitepaper-review.md`](../DEP-A-20260801-Personal%20Video%20Search/2607.13493-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Personalizing Incremental Video Search with Hybrid Text and ID Embeddings* | Vivek Kanojiya; Vishalaksh Aggarwal; Daeho Baek; Lyndon Kennedy; Xuetao Yin | [arXiv:2607.13493v1](https://arxiv.org/abs/2607.13493v1) · [DOI](https://doi.org/10.48550/arXiv.2607.13493) |
