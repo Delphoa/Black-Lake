@@ -4760,3 +4760,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *You Only Index Once: Cross-Layer Sparse Attention with Shared Routing* | Yutao Sun; Yanqi Zhang; Li Dong; Jianyong Wang; Furu Wei | [arXiv:2606.06467v1](https://arxiv.org/abs/2606.06467v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06467) |
+
+
+## [DEP-A-20260801-Temporal Video Pruning](../DEP-A-20260801-Temporal%20Video%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2605.17837-whitepaper-review.md`](../DEP-A-20260801-Temporal%20Video%20Pruning/2605.17837-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Aware Pruning for Efficient Diffusion-based Video Generation* | Sheng Li; Yang Sui; Junhao Ran; Bo Yuan; Yue Dai; Xulong Tang | [arXiv:2605.17837v2](https://arxiv.org/abs/2605.17837v2) - [DOI](https://doi.org/10.48550/arXiv.2605.17837) |
+
+
+## [DEP-A-20260801-Stream KL Distillation](../DEP-A-20260801-Stream%20KL%20Distillation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.20005-whitepaper-review.md`](../DEP-A-20260801-Stream%20KL%20Distillation/2606.20005-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *StreamKL: Fast and Memory-Efficient KL Divergence for Boosting Attention Distillation* | Guangda Liu; Yiquan Wang; Chengwei Li; Wenhao Chen; Jing Lin; Yiwu Yao; Danning Ke; Wenchao Ding; Jieru Zhao | [arXiv:2606.20005v1](https://arxiv.org/abs/2606.20005v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20005) |
+
+
+## [DEP-A-20260801-Long Context TTT](../DEP-A-20260801-Long%20Context%20TTT/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.09415-whitepaper-review.md`](../DEP-A-20260801-Long%20Context%20TTT/2607.09415-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-Guided Test-Time Training for Long-Context LLMs* | Xinyu Zhu; Zhe Xu; Xiaohan Wei; Yunchen Pu; Fei Tian; Chonglin Sun; Kaushik Rangadurai; Hua Zhi; Frank Shyu; Sandeep Pandey; Luke Simon; Yu Meng; Xi Liu | [arXiv:2607.09415v1](https://arxiv.org/abs/2607.09415v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09415) |
+
+
+## [DEP-A-20260801-Hyperbolic CLIP](../DEP-A-20260801-Hyperbolic%20CLIP/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.00428-whitepaper-review.md`](../DEP-A-20260801-Hyperbolic%20CLIP/2607.00428-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyFL-CLIP: Hyperbolic Fine-Tuning of CLIP for Robust Long-Context Understanding* | Ji Ha Jang; Hayeon Kim; Chulwon Lee; Junghun James Kim; Se Young Chun | [arXiv:2607.00428v1](https://arxiv.org/abs/2607.00428v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00428) |
+
+
+## [DEP-A-20260801-DuoMem On Device](../DEP-A-20260801-DuoMem%20On%20Device/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.29961-whitepaper-review.md`](../DEP-A-20260801-DuoMem%20On%20Device/2606.29961-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation* | Peyman Hosseini; Ondrej Bohdal; Ahmed Alajrami; Andrea Maracani; Ignacio Castro; Matthew Purver; Mete Ozay; Savas Ozkan; Taha Ceritli | [arXiv:2606.29961v1](https://arxiv.org/abs/2606.29961v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29961) |
