@@ -1883,3 +1883,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structured Directional Pruning via Perturbation Orthogonal Projection* | Li, Yinchuan; Liu, Xiaofeng; Shao, Yunfeng; Wang, Qing; Geng, Yanhui | [arXiv:2107.05328](https://arxiv.org/abs/2107.05328) - [DOI](https://doi.org/10.48550/arXiv.2107.05328) |
+
+
+## [DEP-E-20260731-Deep Learning for](../DEP-E-20260731-Deep%20Learning%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data* | Xu, Zhengsen; Li, Jonathan; Cheng, Sibo; Rui, Xue; Zhao, Yu; He, Hongjie; Guan, Haiyan; Sharma, Aryan; Erxleben, Matthew; Chang, Ryan; Xu, Linlin | [arXiv:2405.01607](https://arxiv.org/abs/2405.01607) - [DOI](https://doi.org/10.48550/arXiv.2405.01607) |
