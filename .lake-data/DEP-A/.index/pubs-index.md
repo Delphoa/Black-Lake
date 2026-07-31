@@ -4582,3 +4582,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Personalizing Incremental Video Search with Hybrid Text and ID Embeddings* | Vivek Kanojiya; Vishalaksh Aggarwal; Daeho Baek; Lyndon Kennedy; Xuetao Yin | [arXiv:2607.13493v1](https://arxiv.org/abs/2607.13493v1) · [DOI](https://doi.org/10.48550/arXiv.2607.13493) |
+
+## [DEP-A-20260801-CGRL Pathology](../DEP-A-20260801-CGRL%20Pathology/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.12556-whitepaper-review.md`](../DEP-A-20260801-CGRL%20Pathology/2607.12556-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification* | Thuc Huynh; Tuan Le; Doanh C. Bui | [arXiv:2607.12556v1](https://arxiv.org/abs/2607.12556v1) · [DOI](https://doi.org/10.48550/arXiv.2607.12556) |
+
+
+## [DEP-A-20260801-Random Graph Embedding](../DEP-A-20260801-Random%20Graph%20Embedding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10074-whitepaper-review.md`](../DEP-A-20260801-Random%20Graph%20Embedding/2607.10074-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distance-Preserving Embeddings in Inhomogeneous Random Graphs* | My Le; Luana Ruiz; Souvik Dhara | [arXiv:2607.10074v1](https://arxiv.org/abs/2607.10074v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10074) |
+
+
+## [DEP-A-20260801-AeroMELD](../DEP-A-20260801-AeroMELD/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11073-whitepaper-review.md`](../DEP-A-20260801-AeroMELD/2607.11073-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AeroMELD: A Linear Embedding of Aerosol Populations for Diagnostics and Latent Dynamics* | Ehsan Saleh; Saba Ghaffari; Wenhan Tang; Jeffrey H. Curtis; Lekha Patel; Peter A. Bosler; Nicole Riemer; Matthew West | [arXiv:2607.11073v1](https://arxiv.org/abs/2607.11073v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11073) |
+
+
+## [DEP-A-20260801-ECHOv2 Sound](../DEP-A-20260801-ECHOv2%20Sound/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10596-whitepaper-review.md`](../DEP-A-20260801-ECHOv2%20Sound/2607.10596-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ECHOv2: Two-Level Band-Splitting Representation Learning for Anomalous Sound Detection* | Yucong Zhang; Juan Liu; Ming Li | [arXiv:2607.10596v1](https://arxiv.org/abs/2607.10596v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10596) |
+
+
+## [DEP-A-20260801-PhenoEmbed](../DEP-A-20260801-PhenoEmbed/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.10231-whitepaper-review.md`](../DEP-A-20260801-PhenoEmbed/2607.10231-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology* | Taimur Khan | [arXiv:2607.10231v1](https://arxiv.org/abs/2607.10231v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10231) |
