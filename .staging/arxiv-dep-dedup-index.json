@@ -3341,6 +3341,29 @@
         "https://doi.org/10.48550/arXiv.2604.22894"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-Estimating the persistent",
+        ".logs/20260731-Arxiv-Estimating-the-persistent-homology-of-mathbb-R-LOG.md",
+        ".reports/BL-Arxiv-Estimating-the-persistent-homology-of-mathbb-R-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.04162",
+      "arxiv_id": "2412.04162",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2412.04162",
+      "normalized_title": "Estimating the persistent homology of $\\mathbb{R}^n$-valued functions using function-geometric multifiltrations",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P03; draw 29171 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Estimating-the-persistent-homology-of-mathbb-R",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.04162",
+        "https://arxiv.org/html/2412.04162",
+        "https://arxiv.org/pdf/2412.04162",
+        "https://doi.org/10.48550/arXiv.2412.04162"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

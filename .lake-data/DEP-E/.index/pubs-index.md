@@ -1862,3 +1862,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients* | Wu, Jia-Mian; Liu, Jun; Li, Siqi; Wang, Xiaoya; Yin, Shibai; Luo, Huanyu; Zheng, Lingling; Gao, Qiang; Yang, Jigang; Jiang, Tai-Xiang | [arXiv:2604.22894](https://arxiv.org/abs/2604.22894) - [DOI](https://doi.org/10.48550/arXiv.2604.22894) |
+
+
+## [DEP-E-20260731-Estimating the persistent](../DEP-E-20260731-Estimating%20the%20persistent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Estimating the persistent homology of $\mathbb{R}^n$-valued functions using function-geometric multifiltrations* | André, Ethan; Li, Jingyi; Loiseaux, David; Oudot, Steve | [arXiv:2412.04162](https://arxiv.org/abs/2412.04162) - [DOI](https://doi.org/10.48550/arXiv.2412.04162) |
