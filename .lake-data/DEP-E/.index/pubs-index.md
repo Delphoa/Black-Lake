@@ -1890,3 +1890,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data* | Xu, Zhengsen; Li, Jonathan; Cheng, Sibo; Rui, Xue; Zhao, Yu; He, Hongjie; Guan, Haiyan; Sharma, Aryan; Erxleben, Matthew; Chang, Ryan; Xu, Linlin | [arXiv:2405.01607](https://arxiv.org/abs/2405.01607) - [DOI](https://doi.org/10.48550/arXiv.2405.01607) |
+
+
+## [DEP-E-20260731-SFOOD A Multimodal](../DEP-E-20260731-SFOOD%20A%20Multimodal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights* | Xu, Zhenbo; Yang, Jinghan; Huang, Gong; Feng, Jiqing; Liu, Liu; Sun, Ruihan; Meng, Ajin; Zhang, Zhuo; He, Zhaofeng | [arXiv:2507.04412](https://arxiv.org/abs/2507.04412) - [DOI](https://doi.org/10.48550/arXiv.2507.04412) |

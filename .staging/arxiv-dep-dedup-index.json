@@ -3433,6 +3433,29 @@
         "https://doi.org/10.48550/arXiv.2405.01607"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal",
+        ".logs/20260731-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-LOG.md",
+        ".reports/BL-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.04412",
+      "arxiv_id": "2507.04412",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2507.04412",
+      "normalized_title": "SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P07; draw 71179 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SFOOD-A-Multimodal-Benchmark-for-Comprehensive",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.04412",
+        "https://arxiv.org/html/2507.04412",
+        "https://arxiv.org/pdf/2507.04412",
+        "https://doi.org/10.48550/arXiv.2507.04412"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
