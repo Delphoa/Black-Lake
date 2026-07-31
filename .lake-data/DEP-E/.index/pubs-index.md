@@ -1904,3 +1904,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact* | Liu, Ruikang; Bai, Haoli; Lin, Haokun; Li, Yuening; Gao, Han; Xu, Zhengzhuo; Hou, Lu; Yao, Jun; Yuan, Chun | [arXiv:2403.01241](https://arxiv.org/abs/2403.01241) - [DOI](https://doi.org/10.48550/arXiv.2403.01241) |
+
+
+## [DEP-E-20260731-GeoDM Geometry-aware](../DEP-E-20260731-GeoDM%20Geometry-aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GeoDM: Geometry-aware Distribution Matching for Dataset Distillation* | Li, Xuhui; Luo, Zhengquan; Cui, Zihui; Xu, Zhiqiang | [arXiv:2512.08317](https://arxiv.org/abs/2512.08317) - [DOI](https://doi.org/10.48550/arXiv.2512.08317) |

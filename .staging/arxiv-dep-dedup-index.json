@@ -3479,6 +3479,29 @@
         "https://doi.org/10.48550/arXiv.2403.01241"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-GeoDM Geometry-aware",
+        ".logs/20260731-Arxiv-GeoDM-Geometry-aware-Distribution-Matching-for-LOG.md",
+        ".reports/BL-Arxiv-GeoDM-Geometry-aware-Distribution-Matching-for-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.08317",
+      "arxiv_id": "2512.08317",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2512.08317",
+      "normalized_title": "GeoDM: Geometry-aware Distribution Matching for Dataset Distillation",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P09; draw 33474 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "GeoDM-Geometry-aware-Distribution-Matching-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.08317",
+        "https://arxiv.org/html/2512.08317",
+        "https://arxiv.org/pdf/2512.08317",
+        "https://doi.org/10.48550/arXiv.2512.08317"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
