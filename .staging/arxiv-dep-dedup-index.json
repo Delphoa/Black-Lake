@@ -3502,6 +3502,29 @@
         "https://doi.org/10.48550/arXiv.2512.08317"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a",
+        ".logs/20260731-Arxiv-No-Free-Charge-Theorem-a-Covert-Channel-LOG.md",
+        ".reports/BL-Arxiv-No-Free-Charge-Theorem-a-Covert-Channel-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1609.02750",
+      "arxiv_id": "1609.02750",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.1609.02750",
+      "normalized_title": "No Free Charge Theorem: a Covert Channel via USB Charging Cable on Mobile Devices",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P10; draw 2969 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "No-Free-Charge-Theorem-a-Covert-Channel",
+      "source_urls": [
+        "https://arxiv.org/abs/1609.02750",
+        "https://arxiv.org/html/1609.02750",
+        "https://arxiv.org/pdf/1609.02750",
+        "https://doi.org/10.48550/arXiv.1609.02750"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

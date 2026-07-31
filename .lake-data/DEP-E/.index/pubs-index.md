@@ -1911,3 +1911,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GeoDM: Geometry-aware Distribution Matching for Dataset Distillation* | Li, Xuhui; Luo, Zhengquan; Cui, Zihui; Xu, Zhiqiang | [arXiv:2512.08317](https://arxiv.org/abs/2512.08317) - [DOI](https://doi.org/10.48550/arXiv.2512.08317) |
+
+
+## [DEP-E-20260731-No Free Charge Theorem a](../DEP-E-20260731-No%20Free%20Charge%20Theorem%20a/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *No Free Charge Theorem: a Covert Channel via USB Charging Cable on Mobile Devices* | Spolaor, Riccardo; Abudahi, Laila; Moonsamy, Veelasha; Conti, Mauro; Poovendran, Radha | [arXiv:1609.02750](https://arxiv.org/abs/1609.02750) - [DOI](https://doi.org/10.48550/arXiv.1609.02750) |
