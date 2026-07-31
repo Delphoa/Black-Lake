@@ -1855,3 +1855,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Inferentially-Private Private Information* | Wang, Shuaiqi; Zheng, Shuran; Lin, Zinan; Fanti, Giulia; Wu, Zhiwei Steven | [arXiv:2410.17095](https://arxiv.org/abs/2410.17095) - [DOI](https://doi.org/10.48550/arXiv.2410.17095) |
+
+
+## [DEP-E-20260731-Generalizable CT-Free PET](../DEP-E-20260731-Generalizable%20CT-Free%20PET/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients* | Wu, Jia-Mian; Liu, Jun; Li, Siqi; Wang, Xiaoya; Yin, Shibai; Luo, Huanyu; Zheng, Lingling; Gao, Qiang; Yang, Jigang; Jiang, Tai-Xiang | [arXiv:2604.22894](https://arxiv.org/abs/2604.22894) - [DOI](https://doi.org/10.48550/arXiv.2604.22894) |

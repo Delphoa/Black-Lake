@@ -3318,6 +3318,29 @@
         "https://doi.org/10.48550/arXiv.2410.17095"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET",
+        ".logs/20260731-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-LOG.md",
+        ".reports/BL-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.22894",
+      "arxiv_id": "2604.22894",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2604.22894",
+      "normalized_title": "Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P02; draw 52315 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Generalizable-CT-Free-PET-Attenuation-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.22894",
+        "https://arxiv.org/html/2604.22894",
+        "https://arxiv.org/pdf/2604.22894",
+        "https://doi.org/10.48550/arXiv.2604.22894"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
