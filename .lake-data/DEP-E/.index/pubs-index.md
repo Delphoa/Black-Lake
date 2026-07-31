@@ -1897,3 +1897,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights* | Xu, Zhenbo; Yang, Jinghan; Huang, Gong; Feng, Jiqing; Liu, Liu; Sun, Ruihan; Meng, Ajin; Zhang, Zhuo; He, Zhaofeng | [arXiv:2507.04412](https://arxiv.org/abs/2507.04412) - [DOI](https://doi.org/10.48550/arXiv.2507.04412) |
+
+
+## [DEP-E-20260731-IntactKV Improving Large](../DEP-E-20260731-IntactKV%20Improving%20Large/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact* | Liu, Ruikang; Bai, Haoli; Lin, Haokun; Li, Yuening; Gao, Han; Xu, Zhengzhuo; Hou, Lu; Yao, Jun; Yuan, Chun | [arXiv:2403.01241](https://arxiv.org/abs/2403.01241) - [DOI](https://doi.org/10.48550/arXiv.2403.01241) |
