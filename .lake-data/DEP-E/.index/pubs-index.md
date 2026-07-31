@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **419 publication reviews across 233 DEP-E entries**.
+- Current coverage: **429 publication reviews across 234 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-31; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260731-Operational Evidence](../DEP-E-20260731-Operational%20Evidence/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Do Models Fake Alignment Without Clear Consequences?* | Niblett, Cole Alexander; Nanni, Alexander Chabot; Rao, Anita K. | [arXiv:2607.24758v2](https://arxiv.org/abs/2607.24758); [DOI](https://doi.org/10.48550/arXiv.2607.24758) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *LLM Scheming Inversely Scales with Pretraining Language Coverage* | Truong, Nathan; Panda, Aryan; Ye, Rayming; Sun, Zoe; Chaudhary, Maheep | [arXiv:2607.24769v1](https://arxiv.org/abs/2607.24769); [DOI](https://doi.org/10.48550/arXiv.2607.24769) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents* | Lan, Wenhao; Li, Shan; Lai, Xinhua; Wu, Meiqi; Yang, Junbin; Shen, Haihua | [arXiv:2607.23999v2](https://arxiv.org/abs/2607.23999); [DOI](https://doi.org/10.48550/arXiv.2607.23999) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents* | Moreira, Priscila Saboia; Sweet, Christopher R. | [arXiv:2607.24759v1](https://arxiv.org/abs/2607.24759); [DOI](https://doi.org/10.48550/arXiv.2607.24759) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents* | Yu, Zhongming; Yu, Hengjia; Yuan, Boqin; *et al.* | [arXiv:2607.25431v1](https://arxiv.org/abs/2607.25431); [DOI](https://doi.org/10.48550/arXiv.2607.25431) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels* | Brodsky, Joshua; Kumar, Dhravid; Kashmira, Savini; Danatanarayana, Jayanaka; Mars, Jason; Flautner, Krisztian; Tang, Lingjia | [arXiv:2607.24762v1](https://arxiv.org/abs/2607.24762); [DOI](https://doi.org/10.48550/arXiv.2607.24762) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference* | William, Vimal; Tandon, Ravi; Dass, Jyotikrishna | [arXiv:2607.24788v1](https://arxiv.org/abs/2607.24788); [DOI](https://doi.org/10.48550/arXiv.2607.24788) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models* | Kong, Jinwei; Meng, Runqi; Wang, Fanyi; Qiu, Wentao; Hu, Haotian; Zhou, Yongjian; Ge, Zhenhua | [arXiv:2607.24787v1](https://arxiv.org/abs/2607.24787); [DOI](https://doi.org/10.48550/arXiv.2607.24787) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *PowerScale: Energy-Efficient Geo-Distributed Model Training with Federated Datacenter Power* | Mehboob, Talha; Xu, Zhe; Zink, Michael; Irwin, David | [arXiv:2607.25650v1](https://arxiv.org/abs/2607.25650); [DOI](https://doi.org/10.48550/arXiv.2607.25650) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+| *PATHFinder Agent for Tailored Prenatal Care* | Balloli, Vaibhav; Samuel, Carissa; Abdelnabi, Samia; Peahl, Alex; Bondi-Kelly, Elizabeth | [arXiv:2607.24768v1](https://arxiv.org/abs/2607.24768); [DOI](https://doi.org/10.48550/arXiv.2607.24768); [ACM DOI](https://doi.org/10.1145/3786579.3804996) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
 
 ## [DEP-E-20260731-Evidence Replay](../DEP-E-20260731-Evidence%20Replay/README.md)
 
