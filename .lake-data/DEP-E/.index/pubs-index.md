@@ -1876,3 +1876,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation* | Ma, Yating; Xu, Xiaogang; Fang, Liming; Liu, Zhe | [arXiv:2410.18648](https://arxiv.org/abs/2410.18648) - [DOI](https://doi.org/10.48550/arXiv.2410.18648) |
+
+
+## [DEP-E-20260731-Structured Directional](../DEP-E-20260731-Structured%20Directional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Directional Pruning via Perturbation Orthogonal Projection* | Li, Yinchuan; Liu, Xiaofeng; Shao, Yunfeng; Wang, Qing; Geng, Yanhui | [arXiv:2107.05328](https://arxiv.org/abs/2107.05328) - [DOI](https://doi.org/10.48550/arXiv.2107.05328) |
