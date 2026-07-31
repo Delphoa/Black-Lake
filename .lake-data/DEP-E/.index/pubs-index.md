@@ -1933,3 +1933,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *No Free Charge Theorem: a Covert Channel via USB Charging Cable on Mobile Devices* | Spolaor, Riccardo; Abudahi, Laila; Moonsamy, Veelasha; Conti, Mauro; Poovendran, Radha | [arXiv:1609.02750](https://arxiv.org/abs/1609.02750) - [DOI](https://doi.org/10.48550/arXiv.1609.02750) |
+
+
+## [DEP-E-20260801-CrossNER Adapt](../DEP-E-20260801-CrossNER%20Adapt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CrossNER: Evaluating Cross-Domain Named Entity Recognition* | Liu, Zihan; Xu, Yan; Yu, Tiezheng; Dai, Wenliang; Ji, Ziwei; Cahyawijaya, Samuel; Madotto, Andrea; Fung, Pascale | [arXiv:2012.04373](https://arxiv.org/abs/2012.04373) - [DOI](https://doi.org/10.48550/arXiv.2012.04373) |
