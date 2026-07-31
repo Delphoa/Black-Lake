@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **430 publication reviews across 235 DEP-E entries**.
+- Current coverage: **431 publication reviews across 236 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-31; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -33,6 +33,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models* | Kong, Jinwei; Meng, Runqi; Wang, Fanyi; Qiu, Wentao; Hu, Haotian; Zhou, Yongjian; Ge, Zhenhua | [arXiv:2607.24787v1](https://arxiv.org/abs/2607.24787); [DOI](https://doi.org/10.48550/arXiv.2607.24787) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
 | *PowerScale: Energy-Efficient Geo-Distributed Model Training with Federated Datacenter Power* | Mehboob, Talha; Xu, Zhe; Zink, Michael; Irwin, David | [arXiv:2607.25650v1](https://arxiv.org/abs/2607.25650); [DOI](https://doi.org/10.48550/arXiv.2607.25650) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
 | *PATHFinder Agent for Tailored Prenatal Care* | Balloli, Vaibhav; Samuel, Carissa; Abdelnabi, Samia; Peahl, Alex; Bondi-Kelly, Elizabeth | [arXiv:2607.24768v1](https://arxiv.org/abs/2607.24768); [DOI](https://doi.org/10.48550/arXiv.2607.24768); [ACM DOI](https://doi.org/10.1145/3786579.3804996) | [DEP-E](../DEP-E-20260731-Operational%20Evidence/README.md) |
+
+## [DEP-E-20260731-Lattice Spoken LM](../DEP-E-20260731-Lattice%20Spoken%20LM/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Learning Spoken Language Representations with Neural Lattice Language Modeling* | Huang, Chao-Wei; Chen, Yun-Nung | [arXiv:2007.02629v2](https://arxiv.org/abs/2007.02629); [ACL DOI](https://doi.org/10.18653/v1/2020.acl-main.347) | [DEP-E](../DEP-E-20260731-Lattice%20Spoken%20LM/README.md) |
 
 ## [DEP-E-20260731-Evidence Replay](../DEP-E-20260731-Evidence%20Replay/README.md)
 
