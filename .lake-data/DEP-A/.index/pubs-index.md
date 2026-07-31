@@ -4626,3 +4626,47 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PhenoEmbed: Self-Supervised Multispectral UAV Time-Series Embeddings for Individual Tree Crown Phenology* | Taimur Khan | [arXiv:2607.10231v1](https://arxiv.org/abs/2607.10231v1) · [DOI](https://doi.org/10.48550/arXiv.2607.10231) |
+
+## [DEP-A-20260801-Multi Prefix Retrieval](../DEP-A-20260801-Multi%20Prefix%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2606.23642-whitepaper-review.md`](../DEP-A-20260801-Multi%20Prefix%20Retrieval/2606.23642-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Long-Context Retrieval with Multi-Prefix Embedding* | Zhenglin Yu; Xueguang Ma; Shengyao Zhuang; Zhichao Xu; Luyu Gao; Crystina Zhang; Jimmy Lin | [arXiv:2606.23642v1](https://arxiv.org/abs/2606.23642v1) · [DOI](https://doi.org/10.48550/arXiv.2606.23642) |
+
+
+## [DEP-A-20260801-SISA Rec](../DEP-A-20260801-SISA%20Rec/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11168-whitepaper-review.md`](../DEP-A-20260801-SISA%20Rec/2607.11168-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SISA-Rec: A Semantically Integrated Sequential Recommender with Contrastive Alignment* | Soohan Abbasi; Shahid Munir Shah; Rafia Shaikh; Mahmoud Aljawarneh | [arXiv:2607.11168v1](https://arxiv.org/abs/2607.11168v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11168) |
+
+
+## [DEP-A-20260801-SkillComm](../DEP-A-20260801-SkillComm/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.11972-whitepaper-review.md`](../DEP-A-20260801-SkillComm/2607.11972-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SkillComm: Skill-Driven Semantic Communication for Sequential Workflows via Incremental Token Transmission* | Ziyang Meng; Lu Lu | [arXiv:2607.11972v1](https://arxiv.org/abs/2607.11972v1) · [DOI](https://doi.org/10.48550/arXiv.2607.11972) |
+
+
+## [DEP-A-20260801-Semantic Robot Anchor](../DEP-A-20260801-Semantic%20Robot%20Anchor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.13597-whitepaper-review.md`](../DEP-A-20260801-Semantic%20Robot%20Anchor/2607.13597-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Anchoring for Robotic Action Representations* | Yuan Xu; Youheng Shi; Chengyang Li; Wentao Zhu; Yizhou Wang | [arXiv:2607.13597v1](https://arxiv.org/abs/2607.13597v1) · [DOI](https://doi.org/10.48550/arXiv.2607.13597) |
+
+
+## [DEP-A-20260801-CLIP Sphere Mixture](../DEP-A-20260801-CLIP%20Sphere%20Mixture/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-01. The owning review artifact is [`2607.13660-whitepaper-review.md`](../DEP-A-20260801-CLIP%20Sphere%20Mixture/2607.13660-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Hyperspherical Geometry of CLIP Latent Space: A Semantic Mixture Model* | Zijie Yu; Gaowen Liu; Ramana Rao Kompella; Philip S. Yu; Yue Song | [arXiv:2607.13660v1](https://arxiv.org/abs/2607.13660v1) · [DOI](https://doi.org/10.48550/arXiv.2607.13660) |
