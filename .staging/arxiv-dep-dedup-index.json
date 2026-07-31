@@ -3021,24 +3021,47 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/DEP-E-20260730-SLFE Redundancy Review",
-        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-LOG.md",
-        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-PHASE-LOG.md",
-        ".reports/BL-Arxiv-SLFE-Redundancy-Reduction-20260730/Report-Mark.md"
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive",
+        ".logs/20260730-Arxiv-Drag-Your-GAN-Interactive-Point-based-LOG.md",
+        ".reports/BL-Arxiv-Drag-Your-GAN-Interactive-Point-based-20260730/Report-Mark.md"
       ],
-      "arxiv_base_id": "1805.12305",
-      "arxiv_id": "1805.12305",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d8a5903c",
+      "arxiv_base_id": "2305.10973",
+      "arxiv_id": "2305.10973",
+      "commit_or_pr": "",
       "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.1805.12305",
-      "normalized_title": "Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction",
-      "notes": "Uniform PowerShell Get-Random draw 6515 of 75959 PDF candidates; no exclusions or reselections; complete-source gate passed after bounded HTML repair; all source files withheld locally.",
-      "slug": "SLFE-Redundancy-Reduction",
+      "doi": "10.1145/3588432.3591500",
+      "normalized_title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P07; draw 15176 of 75957 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Drag-Your-GAN-Interactive-Point-based",
       "source_urls": [
-        "https://ar5iv.labs.arxiv.org/html/1805.12305",
-        "https://arxiv.org/abs/1805.12305",
-        "https://arxiv.org/pdf/1805.12305",
-        "https://doi.org/10.48550/arXiv.1805.12305"
+        "https://arxiv.org/abs/2305.10973",
+        "https://arxiv.org/html/2305.10973",
+        "https://arxiv.org/pdf/2305.10973",
+        "https://doi.org/10.1145/3588432.3591500"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Personalized Safety in",
+        ".logs/20260730-Arxiv-Personalized-Safety-in-LLMs-A-Benchmark-and-LOG.md",
+        ".reports/BL-Arxiv-Personalized-Safety-in-LLMs-A-Benchmark-and-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.18882",
+      "arxiv_id": "2505.18882",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.2505.18882",
+      "normalized_title": "Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P05; draw 11738 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Personalized-Safety-in-LLMs-A-Benchmark-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.18882",
+        "https://arxiv.org/html/2505.18882",
+        "https://arxiv.org/pdf/2505.18882",
+        "https://doi.org/10.48550/arXiv.2505.18882"
       ],
       "status": "deposited"
     },
@@ -3090,116 +3113,47 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A",
-        ".logs/20260730-Arxiv-TopoDiffuser-A-Diffusion-Based-Multimodal-LOG.md",
-        ".reports/BL-Arxiv-TopoDiffuser-A-Diffusion-Based-Multimodal-20260730/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260730-SLFE Redundancy Review",
+        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-LOG.md",
+        ".logs/20260730-Arxiv-SLFE-Redundancy-Reduction-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SLFE-Redundancy-Reduction-20260730/Report-Mark.md"
       ],
-      "arxiv_base_id": "2508.00303",
-      "arxiv_id": "2508.00303",
-      "commit_or_pr": "",
+      "arxiv_base_id": "1805.12305",
+      "arxiv_id": "1805.12305",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/d8a5903c",
       "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.2508.00303",
-      "normalized_title": "TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P03; draw 60681 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "TopoDiffuser-A-Diffusion-Based-Multimodal",
+      "doi": "10.48550/arXiv.1805.12305",
+      "normalized_title": "Start Late or Finish Early A Distributed Graph Processing System with Redundancy Reduction",
+      "notes": "Uniform PowerShell Get-Random draw 6515 of 75959 PDF candidates; no exclusions or reselections; complete-source gate passed after bounded HTML repair; all source files withheld locally.",
+      "slug": "SLFE-Redundancy-Reduction",
       "source_urls": [
-        "https://arxiv.org/abs/2508.00303",
-        "https://arxiv.org/html/2508.00303",
-        "https://arxiv.org/pdf/2508.00303",
-        "https://doi.org/10.48550/arXiv.2508.00303"
+        "https://ar5iv.labs.arxiv.org/html/1805.12305",
+        "https://arxiv.org/abs/1805.12305",
+        "https://arxiv.org/pdf/1805.12305",
+        "https://doi.org/10.48550/arXiv.1805.12305"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-Self-supervised TransUNet",
-        ".logs/20260730-Arxiv-Self-supervised-TransUNet-for-Ultrasound-LOG.md",
-        ".reports/BL-Arxiv-Self-supervised-TransUNet-for-Ultrasound-20260730/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted",
+        ".logs/20260730-Arxiv-SOC-Semantic-Assisted-Object-Cluster-for-LOG.md",
+        ".reports/BL-Arxiv-SOC-Semantic-Assisted-Object-Cluster-for-20260730/Report-Mark.md"
       ],
-      "arxiv_base_id": "2309.09490",
-      "arxiv_id": "2309.09490",
+      "arxiv_base_id": "2305.17011",
+      "arxiv_id": "2305.17011",
       "commit_or_pr": "",
       "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.2309.09490",
-      "normalized_title": "Self-supervised TransUNet for Ultrasound regional segmentation of the distal radius in children",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P04; draw 23304 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Self-supervised-TransUNet-for-Ultrasound",
+      "doi": "10.48550/arXiv.2305.17011",
+      "normalized_title": "SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P10; draw 40440 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SOC-Semantic-Assisted-Object-Cluster-for",
       "source_urls": [
-        "https://arxiv.org/abs/2309.09490",
-        "https://ar5iv.labs.arxiv.org/html/2309.09490",
-        "https://arxiv.org/pdf/2309.09490",
-        "https://doi.org/10.48550/arXiv.2309.09490"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-Personalized Safety in",
-        ".logs/20260730-Arxiv-Personalized-Safety-in-LLMs-A-Benchmark-and-LOG.md",
-        ".reports/BL-Arxiv-Personalized-Safety-in-LLMs-A-Benchmark-and-20260730/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2505.18882",
-      "arxiv_id": "2505.18882",
-      "commit_or_pr": "",
-      "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.2505.18882",
-      "normalized_title": "Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P05; draw 11738 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Personalized-Safety-in-LLMs-A-Benchmark-and",
-      "source_urls": [
-        "https://arxiv.org/abs/2505.18882",
-        "https://arxiv.org/html/2505.18882",
-        "https://arxiv.org/pdf/2505.18882",
-        "https://doi.org/10.48550/arXiv.2505.18882"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-Spectral Adapter",
-        ".logs/20260730-Arxiv-Spectral-Adapter-Fine-Tuning-in-Spectral-Space-LOG.md",
-        ".reports/BL-Arxiv-Spectral-Adapter-Fine-Tuning-in-Spectral-Space-20260730/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2405.13952",
-      "arxiv_id": "2405.13952",
-      "commit_or_pr": "",
-      "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.2405.13952",
-      "normalized_title": "Spectral Adapter: Fine-Tuning in Spectral Space",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P06; draw 52211 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Spectral-Adapter-Fine-Tuning-in-Spectral-Space",
-      "source_urls": [
-        "https://arxiv.org/abs/2405.13952",
-        "https://arxiv.org/html/2405.13952",
-        "https://arxiv.org/pdf/2405.13952",
-        "https://doi.org/10.48550/arXiv.2405.13952"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive",
-        ".logs/20260730-Arxiv-Drag-Your-GAN-Interactive-Point-based-LOG.md",
-        ".reports/BL-Arxiv-Drag-Your-GAN-Interactive-Point-based-20260730/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2305.10973",
-      "arxiv_id": "2305.10973",
-      "commit_or_pr": "",
-      "deposit_date": "20260730",
-      "doi": "10.1145/3588432.3591500",
-      "normalized_title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P07; draw 15176 of 75957 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Drag-Your-GAN-Interactive-Point-based",
-      "source_urls": [
-        "https://arxiv.org/abs/2305.10973",
-        "https://arxiv.org/html/2305.10973",
-        "https://arxiv.org/pdf/2305.10973",
-        "https://doi.org/10.1145/3588432.3591500"
+        "https://arxiv.org/abs/2305.17011",
+        "https://ar5iv.labs.arxiv.org/html/2305.17011",
+        "https://arxiv.org/pdf/2305.17011",
+        "https://doi.org/10.48550/arXiv.2305.17011"
       ],
       "status": "deposited"
     },
@@ -3229,6 +3183,75 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Self-supervised TransUNet",
+        ".logs/20260730-Arxiv-Self-supervised-TransUNet-for-Ultrasound-LOG.md",
+        ".reports/BL-Arxiv-Self-supervised-TransUNet-for-Ultrasound-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2309.09490",
+      "arxiv_id": "2309.09490",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.2309.09490",
+      "normalized_title": "Self-supervised TransUNet for Ultrasound regional segmentation of the distal radius in children",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P04; draw 23304 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Self-supervised-TransUNet-for-Ultrasound",
+      "source_urls": [
+        "https://arxiv.org/abs/2309.09490",
+        "https://ar5iv.labs.arxiv.org/html/2309.09490",
+        "https://arxiv.org/pdf/2309.09490",
+        "https://doi.org/10.48550/arXiv.2309.09490"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-Spectral Adapter",
+        ".logs/20260730-Arxiv-Spectral-Adapter-Fine-Tuning-in-Spectral-Space-LOG.md",
+        ".reports/BL-Arxiv-Spectral-Adapter-Fine-Tuning-in-Spectral-Space-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.13952",
+      "arxiv_id": "2405.13952",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.2405.13952",
+      "normalized_title": "Spectral Adapter: Fine-Tuning in Spectral Space",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P06; draw 52211 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Spectral-Adapter-Fine-Tuning-in-Spectral-Space",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.13952",
+        "https://arxiv.org/html/2405.13952",
+        "https://arxiv.org/pdf/2405.13952",
+        "https://doi.org/10.48550/arXiv.2405.13952"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A",
+        ".logs/20260730-Arxiv-TopoDiffuser-A-Diffusion-Based-Multimodal-LOG.md",
+        ".reports/BL-Arxiv-TopoDiffuser-A-Diffusion-Based-Multimodal-20260730/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.00303",
+      "arxiv_id": "2508.00303",
+      "commit_or_pr": "",
+      "deposit_date": "20260730",
+      "doi": "10.48550/arXiv.2508.00303",
+      "normalized_title": "TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps",
+      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P03; draw 60681 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "TopoDiffuser-A-Diffusion-Based-Multimodal",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.00303",
+        "https://arxiv.org/html/2508.00303",
+        "https://arxiv.org/pdf/2508.00303",
+        "https://doi.org/10.48550/arXiv.2508.00303"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260730-Toward building",
         ".logs/20260730-Arxiv-Toward-building-next-generation-Geocoding-LOG.md",
         ".reports/BL-Arxiv-Toward-building-next-generation-Geocoding-20260730/Report-Mark.md"
@@ -3252,23 +3275,24 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted",
-        ".logs/20260730-Arxiv-SOC-Semantic-Assisted-Object-Cluster-for-LOG.md",
-        ".reports/BL-Arxiv-SOC-Semantic-Assisted-Object-Cluster-for-20260730/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260731-OS Minimum Paths",
+        ".logs/20260731-Arxiv-OS-Minimum-Paths-LOG.md",
+        ".logs/20260731-Arxiv-OS-Minimum-Paths-PHASE-LOG.md",
+        ".reports/BL-Arxiv-OS-Minimum-Paths-20260731/Report-Mark.md"
       ],
-      "arxiv_base_id": "2305.17011",
-      "arxiv_id": "2305.17011",
-      "commit_or_pr": "",
-      "deposit_date": "20260730",
-      "doi": "10.48550/arXiv.2305.17011",
-      "normalized_title": "SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation",
-      "notes": "Job BLAD-2200-20260730-2FDDC232 item BLAD-2200-20260730-2FDDC232-P10; draw 40440 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "SOC-Semantic-Assisted-Object-Cluster-for",
+      "arxiv_base_id": "2607.02883",
+      "arxiv_id": "2607.02883",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/27dc0bd0685655a7112dc76b0f23f873628811e2",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2607.02883",
+      "normalized_title": "Paths and Intersections: Minimum Realization of Okamura-Seymour Instances",
+      "notes": "Complete paper gate passed after bounded repair; cache cached; source package unavailable; source files withheld locally and not uploaded.",
+      "slug": "OS-Minimum-Paths",
       "source_urls": [
-        "https://arxiv.org/abs/2305.17011",
-        "https://ar5iv.labs.arxiv.org/html/2305.17011",
-        "https://arxiv.org/pdf/2305.17011",
-        "https://doi.org/10.48550/arXiv.2305.17011"
+        "https://arxiv.org/abs/2607.02883",
+        "https://arxiv.org/html/2607.02883",
+        "https://arxiv.org/pdf/2607.02883",
+        "https://doi.org/10.48550/arXiv.2607.02883"
       ],
       "status": "deposited"
     }
@@ -4041,5 +4065,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-30"
+  "updated_date": "2026-07-31"
 }
