@@ -1835,3 +1835,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Divide-and-Conquer Modeling for the CTF-4-Science Lorenz Benchmark* | Li, Shundong | [arXiv:2606.10084](https://arxiv.org/abs/2606.10084) - [DOI](https://doi.org/10.48550/arXiv.2606.10084) |
+
+
+## [DEP-E-20260731-OS Minimum Paths](../DEP-E-20260731-OS%20Minimum%20Paths/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Paths and Intersections: Minimum Realization of Okamura-Seymour Instances* | Chen, Yu; Pylyavskyy, Pavlo; Tan, Zihan | [arXiv:2607.02883](https://arxiv.org/abs/2607.02883) - [DOI](https://doi.org/10.48550/arXiv.2607.02883) |
