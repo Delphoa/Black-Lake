@@ -13,6 +13,21 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Reviewed publications
 
+## [DEP-E-20260802-Evidence Boundaries](../DEP-E-20260802-Evidence%20Boundaries/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *BadWAM: When World-Action Models Dream Right but Act Wrong* | Li, Qi; Yang, Xingyi; Wang, Xinchao | [arXiv:2607.15207v1](https://arxiv.org/abs/2607.15207); [DOI](https://doi.org/10.48550/arXiv.2607.15207) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents* | Bagmar, Aadesh; Saraf, Pushkar | [arXiv:2607.15143v1](https://arxiv.org/abs/2607.15143); [DOI](https://doi.org/10.48550/arXiv.2607.15143) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Plover: Steering GUI Agents through Plan-Centric Interaction* | Venkatesan, Madhumitha; Wen, Shicheng; Guo, Jiajing; Ono, Jorge Piazentin; Ren, Liu; Liu, Dongyu | [arXiv:2607.15193v1](https://arxiv.org/abs/2607.15193); [DOI](https://doi.org/10.48550/arXiv.2607.15193) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Concept-Guided Spatial Regularization for World Models in Atari Pong* | Lu, Yukuan; Xia, Zaishuo; Lu, Weyl; Chen, Yubei | [arXiv:2607.15142v1](https://arxiv.org/abs/2607.15142); [DOI](https://doi.org/10.48550/arXiv.2607.15142) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy* | Do, Patrick Phuoc; Ta, Chau M.; Wang, Chaoli | [arXiv:2607.15176v2](https://arxiv.org/abs/2607.15176v2); [DOI](https://doi.org/10.48550/arXiv.2607.15176) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research* | Zhang, Junjie; Liu, Jiayu; Liu, Wenbin; et al. | [arXiv:2607.14582v1](https://arxiv.org/abs/2607.14582v1); [DOI](https://doi.org/10.48550/arXiv.2607.14582) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology* | Ra, Sinyoung; Kim, Jonghun; Park, Hyunjin | [arXiv:2607.14581v1](https://arxiv.org/abs/2607.14581); [DOI](https://doi.org/10.48550/arXiv.2607.14581) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Coulomb blockade in microscopic material defects as a source of decoherence and noise in solid-state quantum circuits* | Banerjee, R.; Lindoy, L. P.; Hegedüs, M.; et al. | [arXiv:2607.15252v2](https://arxiv.org/abs/2607.15252v2); [DOI](https://doi.org/10.48550/arXiv.2607.15252) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *The Distributed Open-Source Vulnerability Ecosystem* | Mandl, Peter; Mandl, Paul | [arXiv:2607.14900v1](https://arxiv.org/abs/2607.14900v1); [DOI](https://doi.org/10.48550/arXiv.2607.14900) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+| *Analytic Abduction: Causal Decomposition and Governed Commitment for Human-AI Coordination* | Pareschi, Remo | [arXiv:2607.14641v1](https://arxiv.org/abs/2607.14641v1); [DOI](https://doi.org/10.48550/arXiv.2607.14641) | [DEP-E](../DEP-E-20260802-Evidence%20Boundaries/README.md) |
+
 ## [DEP-E-20260801-RawBMamba](../DEP-E-20260801-RawBMamba/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |
