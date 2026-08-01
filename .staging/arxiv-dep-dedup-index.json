@@ -3642,6 +3642,29 @@
         "https://doi.org/10.48550/arXiv.2105.15076"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-GQA- mu P maximal",
+        ".logs/20260801-Arxiv-GQA-mu-P-The-maximal-parameterization-update-for-grouped-q-LOG.md",
+        ".reports/BL-Arxiv-GQA-mu-P-The-maximal-parameterization-update-for-gro-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.15290",
+      "arxiv_id": "2605.15290",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2605.15290",
+      "normalized_title": "GQA-{\\mu}P: The maximal parameterization update for grouped query attention",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P05; draw 36062 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "GQA-mu-P-The-maximal-parameterization-update-for-grouped-q",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.15290",
+        "https://arxiv.org/html/2605.15290",
+        "https://arxiv.org/pdf/2605.15290",
+        "https://doi.org/10.48550/arXiv.2605.15290"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

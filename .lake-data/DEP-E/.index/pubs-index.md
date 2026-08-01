@@ -1998,3 +1998,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark* | Shu, Xiujun; Wang, Xiao; Zang, Xianghao; Zhang, Shiliang; Chen, Yuanqi; Li, Ge; Tian, Qi | [arXiv:2105.15076](https://arxiv.org/abs/2105.15076) - [DOI](https://doi.org/10.48550/arXiv.2105.15076) |
+
+## [DEP-E-20260801-GQA- mu P maximal](../DEP-E-20260801-GQA-%20mu%20P%20maximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GQA-{\mu}P: The maximal parameterization update for grouped query attention* | Chickering, Kyle R.; Wang, Huijuan; Wu, Mengxi; Moreno, Alexander; Chen, Muhao; Ma, Xuezhe; Soboleva, Daria; Hestness, Joel; Liu, Zhengzhong; Xing, Eric | [arXiv:2605.15290](https://arxiv.org/abs/2605.15290) - [DOI](https://doi.org/10.48550/arXiv.2605.15290) |
