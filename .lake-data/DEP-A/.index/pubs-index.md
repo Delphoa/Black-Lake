@@ -4832,3 +4832,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention* | Ziqi Yin; Jianyang Gao; Peiqi Yin; Jiangneng Li; Gao Cong | [arXiv:2607.11976v2](https://arxiv.org/abs/2607.11976v2) - [DOI](https://doi.org/10.48550/arXiv.2607.11976) |
+
+
+## [DEP-A-20260802-Predicate LongBench](../DEP-A-20260802-Predicate%20LongBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.08284-whitepaper-review.md`](../DEP-A-20260802-Predicate%20LongBench/2607.08284-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding Axes of Difficulty For Long Context Tasks Via PredicateLongBench* | Siddhartha Jain; Ameya Velingker | [arXiv:2607.08284v1](https://arxiv.org/abs/2607.08284v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08284) |
+
+
+## [DEP-A-20260802-LCG Relational Images](../DEP-A-20260802-LCG%20Relational%20Images/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.26171-whitepaper-review.md`](../DEP-A-20260802-LCG%20Relational%20Images/2606.26171-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LCG: Long-Context Consistent Image Generation with Sparse Relational Attention* | Zihao Wang; Yijia Xu; Haoze Zheng; Xuran Ma; Haokun Gui; Harry Yang | [arXiv:2606.26171v1](https://arxiv.org/abs/2606.26171v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26171) |
+
+
+## [DEP-A-20260802-KGERMAR Graph Memory](../DEP-A-20260802-KGERMAR%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.14047-whitepaper-review.md`](../DEP-A-20260802-KGERMAR%20Graph%20Memory/2606.14047-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling* | Ghadir Alselwi; Basem Suleiman; Hao Xue; Shoaib Jameel; Hakim Hacid; Flora D. Salim; Imran Razzak | [arXiv:2606.14047v1](https://arxiv.org/abs/2606.14047v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14047) |
+
+
+## [DEP-A-20260802-RAPID ViT Pruning](../DEP-A-20260802-RAPID%20ViT%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.08156-whitepaper-review.md`](../DEP-A-20260802-RAPID%20ViT%20Pruning/2606.08156-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAPID: Layer-Wise Redundancy-Aware Pruning and Importance-Driven Token Merging for Efficient ViT* | Kyumin Choi; Ikbeom Jang | [arXiv:2606.08156v1](https://arxiv.org/abs/2606.08156v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08156) |
+
+
+## [DEP-A-20260802-Score Only Retrieval](../DEP-A-20260802-Score%20Only%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.11465-whitepaper-review.md`](../DEP-A-20260802-Score%20Only%20Retrieval/2607.11465-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Score-Only Distillation for Compact Dense Retrieval* | Kirill Dubovikov; Martin Takac; Salem Lahlou | [arXiv:2607.11465v1](https://arxiv.org/abs/2607.11465v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11465) |
