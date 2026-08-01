@@ -5057,3 +5057,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency* | Satoshi Matsuoka | [arXiv:2607.07207v1](https://arxiv.org/abs/2607.07207v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07207) |
+
+
+## [DEP-A-20260802-Linguistic Load Routing](../DEP-A-20260802-Linguistic%20Load%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.04951-whitepaper-review.md`](../DEP-A-20260802-Linguistic%20Load%20Routing/2607.04951-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Words Predict Workload* | Anubhab Banerjee | [arXiv:2607.04951v1](https://arxiv.org/abs/2607.04951v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04951) |
+
+
+## [DEP-A-20260802-Online LP LLM Routing](../DEP-A-20260802-Online%20LP%20LLM%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.03948-whitepaper-review.md`](../DEP-A-20260802-Online%20LP%20LLM%20Routing/2607.03948-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online Linear Programming for Multi-Objective Routing in LLM Serving* | Zixi Chen; Yinyu Ye; Zijie Zhou | [arXiv:2607.03948v1](https://arxiv.org/abs/2607.03948v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03948) |
+
+
+## [DEP-A-20260802-Sangam dLLM Serving](../DEP-A-20260802-Sangam%20dLLM%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.04206-whitepaper-review.md`](../DEP-A-20260802-Sangam%20dLLM%20Serving/2607.04206-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sangam: Efficiently Serving Diffusion LLMs with the AR Stack* | Nitin Kedia; Saurabh Agarwal; Myungjin Lee; Aditya Akella | [arXiv:2607.04206v1](https://arxiv.org/abs/2607.04206v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04206) |
+
+
+## [DEP-A-20260802-Edge VLM Energy](../DEP-A-20260802-Edge%20VLM%20Energy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.09520-whitepaper-review.md`](../DEP-A-20260802-Edge%20VLM%20Energy/2607.09520-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference* | Junfei Zhan; Haoxun Shen; Mingang Guo; Zixuan Huang; Tengjiao He | [arXiv:2607.09520v1](https://arxiv.org/abs/2607.09520v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09520) |
+
+
+## [DEP-A-20260802-Wiola SLM](../DEP-A-20260802-Wiola%20SLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.01394-whitepaper-review.md`](../DEP-A-20260802-Wiola%20SLM/2607.01394-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Wiola Architecture for Efficient Small Language Models* | Aryuemaan Kumar Chowdhury; Afreen Shaik; Yaparla Bhargavi; Brahma Kumar | [arXiv:2607.01394v1](https://arxiv.org/abs/2607.01394v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01394) |
