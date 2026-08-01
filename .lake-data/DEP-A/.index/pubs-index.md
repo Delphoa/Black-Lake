@@ -4967,3 +4967,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models* | Xinying Lin; Xuyang Liu; Yiyu Wang; Teng Ma; Wenqi Ren | [arXiv:2603.27650v1](https://arxiv.org/abs/2603.27650v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27650) |
+
+
+## [DEP-A-20260802-Group Graph Fourier](../DEP-A-20260802-Group%20Graph%20Fourier/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.13338-whitepaper-review.md`](../DEP-A-20260802-Group%20Graph%20Fourier/2607.13338-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Harmonic Analysis on Graphs via Isometric Group Embedding: A Canonical Fourier Transform, Shift, and Convolution for Network Signals* | Rigobert Fokam Souop; Laurent Bitjoka | [arXiv:2607.13338v1](https://arxiv.org/abs/2607.13338v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13338) |
+
+
+## [DEP-A-20260802-Dense Latent Comms](../DEP-A-20260802-Dense%20Latent%20Comms/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.13594-whitepaper-review.md`](../DEP-A-20260802-Dense%20Latent%20Comms/2606.13594-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents* | Siyi Chen; Xiaoyan Zhang; Meng Wu; Jonathan Tremblay; Valts Blukis; Stan Birchfield; Rene Vidal; Alvaro Velasquez; Sijia Liu; Qing Qu | [arXiv:2606.13594v1](https://arxiv.org/abs/2606.13594v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13594) |
+
+
+## [DEP-A-20260802-DMoE Knowledge Inject](../DEP-A-20260802-DMoE%20Knowledge%20Inject/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.14243-whitepaper-review.md`](../DEP-A-20260802-DMoE%20Knowledge%20Inject/2606.14243-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupled Mixture-of-Experts for Parametric Knowledge Injection* | Baoqing Yue; Weihang Su; Qingyao Ai; Yichen Tang; Changyue Wang; Jiacheng Kang; Jingtao Zhan; Yiqun Liu | [arXiv:2606.14243v1](https://arxiv.org/abs/2606.14243v1) - [DOI](https://doi.org/10.48550/arXiv.2606.14243) |
+
+
+## [DEP-A-20260802-AgentServeSim](../DEP-A-20260802-AgentServeSim/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.09613-whitepaper-review.md`](../DEP-A-20260802-AgentServeSim/2606.09613-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AGENTSERVESIM: A Hardware-aware Simulator for Multi-Turn LLM Agent Serving* | Rakibul Hasan Rajib; Mengxin Zheng; Qian Lou | [arXiv:2606.09613v2](https://arxiv.org/abs/2606.09613v2) - [DOI](https://doi.org/10.48550/arXiv.2606.09613) |
+
+
+## [DEP-A-20260802-NF CoT Flows](../DEP-A-20260802-NF%20CoT%20Flows/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.06447-whitepaper-review.md`](../DEP-A-20260802-NF%20CoT%20Flows/2606.06447-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Latent Reasoning with Normalizing Flows* | Guancheng Tu; Xiangjun Fu; Suhao Yu; Yao Tang; Haoqiang Kang; Lianhui Qin; Yizhe Zhang; Jiatao Gu | [arXiv:2606.06447v1](https://arxiv.org/abs/2606.06447v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06447) |
