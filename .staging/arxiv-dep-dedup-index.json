@@ -3688,6 +3688,29 @@
         "https://doi.org/10.48550/arXiv.2409.01147"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-High-Order Langevin",
+        ".logs/20260801-Arxiv-High-Order-Langevin-Diffusion-Yields-an-Accelerated-MCMC-A-LOG.md",
+        ".reports/BL-Arxiv-High-Order-Langevin-Diffusion-Yields-an-Accelerated-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1908.10859",
+      "arxiv_id": "1908.10859",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.1908.10859",
+      "normalized_title": "High-Order Langevin Diffusion Yields an Accelerated MCMC Algorithm",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P07; draw 46546 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "High-Order-Langevin-Diffusion-Yields-an-Accelerated-MCMC-A",
+      "source_urls": [
+        "https://arxiv.org/abs/1908.10859",
+        "https://ar5iv.labs.arxiv.org/html/1908.10859",
+        "https://arxiv.org/pdf/1908.10859",
+        "https://doi.org/10.48550/arXiv.1908.10859"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
