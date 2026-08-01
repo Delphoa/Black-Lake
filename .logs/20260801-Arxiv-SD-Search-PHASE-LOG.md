@@ -33,7 +33,7 @@
 
 - Pre-write status: no matching public pointer entry, log, report, DEP-E artifact, automation-memory marker, or 24-hour marker.
 - Reselection status: not required.
-- Post-write status: one unique deposited entry for arXiv:2605.18299; commit reference is added after remote submission when known.
+- Post-write status: one unique deposited entry for arXiv:2605.18299; commit reference recorded at https://github.com/Delphoa/Black-Lake/commit/1b462206e4f1788215ea1c2de6ac2835559af797.
 
 ## Expected vs Observed Trajectory
 
@@ -47,7 +47,7 @@
 - No independent training, inference, benchmark rerun, or code execution was performed.
 - No official implementation was identified in the inspected source bundle or focused public search.
 - The cache manifest contains local paths by design and remains outside the public artifact set.
-- The final staged allowlist must contain only the generated Markdown artifacts and the derived dedup JSON; source files, caches, extracted text, and repair records must remain unstaged.
+- Allowlist result: the staged submission contained only generated Markdown artifacts and the derived dedup JSON; source files, caches, extracted text, and repair records remained unstaged.
 
 ## Attribution Block
 

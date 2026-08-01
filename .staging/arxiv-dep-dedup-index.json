@@ -3536,7 +3536,7 @@
       ],
       "arxiv_base_id": "2605.18299",
       "arxiv_id": "2605.18299v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/1b462206e4f1788215ea1c2de6ac2835559af797",
       "deposit_date": "20260801",
       "doi": "10.48550/arXiv.2605.18299",
       "normalized_title": "SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning",
