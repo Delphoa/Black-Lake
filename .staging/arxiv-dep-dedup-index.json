@@ -3757,6 +3757,29 @@
         "https://doi.org/10.48550/arXiv.2410.05629"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial",
+        ".logs/20260801-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to-LOG.md",
+        ".reports/BL-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learn-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.18521",
+      "arxiv_id": "2509.18521",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2509.18521",
+      "normalized_title": "APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P10; draw 37526 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.18521",
+        "https://arxiv.org/html/2509.18521",
+        "https://arxiv.org/pdf/2509.18521",
+        "https://doi.org/10.48550/arXiv.2509.18521"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

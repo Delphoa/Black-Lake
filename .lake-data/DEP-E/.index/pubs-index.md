@@ -2028,3 +2028,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Vector-ICL: In-context Learning with Continuous Vector Representations* | Zhuang, Yufan; Singh, Chandan; Liu, Liyuan; Shang, Jingbo; Gao, Jianfeng | [arXiv:2410.05629](https://arxiv.org/abs/2410.05629) - [DOI](https://doi.org/10.48550/arXiv.2410.05629) |
+
+## [DEP-E-20260801-APRIL Active Partial](../DEP-E-20260801-APRIL%20Active%20Partial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation* | Zhou, Yuzhen; Li, Jiajun; Su, Yusheng; Ramesh, Gowtham; Zhu, Zilin; Long, Xiang; Zhao, Chenyang; Pan, Jin; Yu, Xiaodong; Wang, Ze; Du, Kangrui; Wu, Jialian; Sun, Ximeng; Liu, Jiang; Yu, Qiaolin; Chen, Hao; Liu, Zicheng; Barsoum, Emad | [arXiv:2509.18521](https://arxiv.org/abs/2509.18521) - [DOI](https://doi.org/10.48550/arXiv.2509.18521) |
