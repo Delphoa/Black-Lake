@@ -4922,3 +4922,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *moBERTo: A Modern Encoder for Portuguese via Continued Pretraining of ModernBERT* | Thiago Laitz; Thales Sales Almeida; João Guilherme Alves Santos; Giovana Kerche Bonás | [arXiv:2606.22722v1](https://arxiv.org/abs/2606.22722v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22722) |
+
+
+## [DEP-A-20260802-GRIP VLM Pruning](../DEP-A-20260802-GRIP%20VLM%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2605.13375-whitepaper-review.md`](../DEP-A-20260802-GRIP%20VLM%20Pruning/2605.13375-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models* | Mingzhe Huang; Weijun Wang; Xin Ding; Liang Mi; Hao Wen; Yuanchun Li; Lichen Pang; Shansong Yang; Yunxin Liu; Ting Cao | [arXiv:2605.13375v1](https://arxiv.org/abs/2605.13375v1) - [DOI](https://doi.org/10.48550/arXiv.2605.13375) |
+
+
+## [DEP-A-20260802-Temporal Video Edit](../DEP-A-20260802-Temporal%20Video%20Edit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.08780-whitepaper-review.md`](../DEP-A-20260802-Temporal%20Video%20Edit/2606.08780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Consistency: Preserving Temporal Structure in Zero-Shot Video Editing* | Deyin Liu; Yisheng Ding; Zhe Jin; Xiatian Zhu; Anjan Dutta; Lin Wu | [arXiv:2606.08780v1](https://arxiv.org/abs/2606.08780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08780) |
+
+
+## [DEP-A-20260802-MergeTok Tokenizer](../DEP-A-20260802-MergeTok%20Tokenizer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2605.30904-whitepaper-review.md`](../DEP-A-20260802-MergeTok%20Tokenizer/2605.30904-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging* | Luyuan Zhang; Siyuan Li; Zedong Wang; Qingsong Xie; Cheng Tan; Anna Wang; Yanhao Zhang; Chen Chen; Haonan Lu; Haoqian Wang | [arXiv:2605.30904v1](https://arxiv.org/abs/2605.30904v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30904) |
+
+
+## [DEP-A-20260802-TARIC Outdoor VLN](../DEP-A-20260802-TARIC%20Outdoor%20VLN/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2605.31121-whitepaper-review.md`](../DEP-A-20260802-TARIC%20Outdoor%20VLN/2605.31121-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues* | Tianle Zeng; Hanjing Ye; Jianwei Peng; Jingwen Yu; Hanxuan Chen; Hong Zhang | [arXiv:2605.31121v1](https://arxiv.org/abs/2605.31121v1) - [DOI](https://doi.org/10.48550/arXiv.2605.31121) |
+
+
+## [DEP-A-20260802-V CAST Video Pruning](../DEP-A-20260802-V%20CAST%20Video%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2603.27650-whitepaper-review.md`](../DEP-A-20260802-V%20CAST%20Video%20Pruning/2603.27650-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models* | Xinying Lin; Xuyang Liu; Yiyu Wang; Teng Ma; Wenqi Ren | [arXiv:2603.27650v1](https://arxiv.org/abs/2603.27650v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27650) |
