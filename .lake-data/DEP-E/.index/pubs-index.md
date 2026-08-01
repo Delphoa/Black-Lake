@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **441 publication reviews across 237 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-07-31; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **451 publication reviews across 238 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-01; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260801-Verifiable Agent Systems](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift* | Hsu, Dan C.; Lu, Luke | [arXiv:2607.09175v1](https://arxiv.org/abs/2607.09175); [DOI](https://doi.org/10.48550/arXiv.2607.09175) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *Statistically Undetectable Backdoors in Deep Neural Networks* | Bogdanov, Andrej; Rosen, Alon; Vafa, Neekon | [arXiv:2607.09532v1](https://arxiv.org/abs/2607.09532); [DOI](https://doi.org/10.48550/arXiv.2607.09532) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading* | Li, Zongxia; Li, Zhongzhi; Shi, Yucheng; *et al.* | [arXiv:2607.08964v2](https://arxiv.org/abs/2607.08964); [DOI](https://doi.org/10.48550/arXiv.2607.08964) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling* | Kuang, Peng; Jin, Haibo; Han, Xiaoyu; Wang, Yanli; Yuan, Xiaopeng; Yu, Ye; Xu, Kaidi; Wang, Haohan | [arXiv:2607.09153v1](https://arxiv.org/abs/2607.09153); [DOI](https://doi.org/10.48550/arXiv.2607.09153) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *Shared Selective Persistent Memory for Agentic LLM Systems* | Pedada, Sanjana; Dhavala, Aditya; Patil, Neelraj | [arXiv:2607.09493v1](https://arxiv.org/abs/2607.09493); [DOI](https://doi.org/10.48550/arXiv.2607.09493) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *SherAgent: Scaling Attack Investigation in the Wild via LLM-Empowered Iterative Query-Filter Backtracking* | Li, Zhenyuan; Wang, Zhengkai; Jiang, Ling; Shen, Xiangmin; Lin, Ruixiao; Nie, Sen; Wu, Shi; Ji, Shouling | [arXiv:2607.09176v1](https://arxiv.org/abs/2607.09176); [DOI](https://doi.org/10.48550/arXiv.2607.09176) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction* | Qu, Chongyu; Cui, Can; Lu, Zhengyi; *et al.* | [arXiv:2607.09521v1](https://arxiv.org/abs/2607.09521); [DOI](https://doi.org/10.48550/arXiv.2607.09521) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference* | Zhan, Junfei; Shen, Haoxun; Guo, Mingang; Huang, Zixuan; He, Tengjiao | [arXiv:2607.09520v1](https://arxiv.org/abs/2607.09520); [DOI](https://doi.org/10.48550/arXiv.2607.09520) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *ProofCouncil: An LLM Agent for Solving Open Mathematical Problems* | Schmitt, Johannes; Gehrunger, Tim; Dekoninck, Jasper; Bérczi, Gergely; Kreitner, Uri; Price, Liam; Holmes, David | [arXiv:2607.09474v1](https://arxiv.org/abs/2607.09474); [DOI](https://doi.org/10.48550/arXiv.2607.09474) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
+| *Malaika: Understanding Malware through Tri-Grounded Agentic Reasoning* | Qian, Xingzhi; Zheng, Xinran; He, Yiling; Cavallaro, Lorenzo | [arXiv:2607.09179v1](https://arxiv.org/abs/2607.09179); [DOI](https://doi.org/10.48550/arXiv.2607.09179) | [DEP-E](../DEP-E-20260801-Verifiable%20Agent%20Systems/README.md) |
 
 ## [DEP-E-20260801-Evidence Systems](../DEP-E-20260801-Evidence%20Systems/README.md)
 
