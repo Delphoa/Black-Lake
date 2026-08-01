@@ -5147,3 +5147,30 @@ Review status: substantively reviewed from the complete arXiv v4 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WorldParticle: Unified World Simulation of Lagrangian Particle Dynamics via Transformer* | Caoliwen Wang; Minghao Guo; Siyuan Chen; Heng Zhang; Mengdi Wang; Xingyu Ni; Hanson Sun; Kunyi Wang; Zherong Pan; Kui Wu; Lingjie Liu; Yin Yang; Chenfanfu Jiang; Taku Komura; Wojciech Matusik; Peter Yichen Chen | [arXiv:2605.15305v4](https://arxiv.org/abs/2605.15305v4) - [DOI](https://doi.org/10.48550/arXiv.2605.15305) |
+
+
+## [DEP-A-20260802-Bangla 135M LLM](../DEP-A-20260802-Bangla%20135M%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.16383-whitepaper-review.md`](../DEP-A-20260802-Bangla%20135M%20LLM/2606.16383-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Surpassing Scale by Efficiency: A Compact 135M Parameter Foundational LLM Natively Adapted for the Bangla Language* | Rabindra Nath Nandi | [arXiv:2606.16383v1](https://arxiv.org/abs/2606.16383v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16383) |
+
+
+## [DEP-A-20260802-BioManus MCP Planning](../DEP-A-20260802-BioManus%20MCP%20Planning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.04494-whitepaper-review.md`](../DEP-A-20260802-BioManus%20MCP%20Planning/2606.04494-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System* | Zhangtianyi Chen; Florensia Widjaja; Wufei Dai; Xiangjun Zhang; Yuhao Shen; Juexiao Zhou | [arXiv:2606.04494v1](https://arxiv.org/abs/2606.04494v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04494) |
+
+
+## [DEP-A-20260802-Pre Reason Mobile Agent](../DEP-A-20260802-Pre%20Reason%20Mobile%20Agent/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.03236-whitepaper-review.md`](../DEP-A-20260802-Pre%20Reason%20Mobile%20Agent/2606.03236-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents* | Zhijie Ding; Weinan Hong; Zicheng Zhu; Lei Li; Dezhi Kong; Hao Wang; Peng Zhou; Xuchu Jiang; Jiaming Xu | [arXiv:2606.03236v1](https://arxiv.org/abs/2606.03236v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03236) |
