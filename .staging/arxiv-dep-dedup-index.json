@@ -3275,70 +3275,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-OS Minimum Paths",
-        ".logs/20260731-Arxiv-OS-Minimum-Paths-LOG.md",
-        ".logs/20260731-Arxiv-OS-Minimum-Paths-PHASE-LOG.md",
-        ".reports/BL-Arxiv-OS-Minimum-Paths-20260731/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260731-Deep Learning for",
+        ".logs/20260731-Arxiv-Deep-Learning-for-Wildfire-Risk-Prediction-LOG.md",
+        ".reports/BL-Arxiv-Deep-Learning-for-Wildfire-Risk-Prediction-20260731/Report-Mark.md"
       ],
-      "arxiv_base_id": "2607.02883",
-      "arxiv_id": "2607.02883",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/27dc0bd0685655a7112dc76b0f23f873628811e2",
-      "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2607.02883",
-      "normalized_title": "Paths and Intersections: Minimum Realization of Okamura-Seymour Instances",
-      "notes": "Complete paper gate passed after bounded repair; cache cached; source package unavailable; source files withheld locally and not uploaded.",
-      "slug": "OS-Minimum-Paths",
-      "source_urls": [
-        "https://arxiv.org/abs/2607.02883",
-        "https://arxiv.org/html/2607.02883",
-        "https://arxiv.org/pdf/2607.02883",
-        "https://doi.org/10.48550/arXiv.2607.02883"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-Inferentially-Private",
-        ".logs/20260731-Arxiv-Inferentially-Private-Private-Information-LOG.md",
-        ".reports/BL-Arxiv-Inferentially-Private-Private-Information-20260731/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2410.17095",
-      "arxiv_id": "2410.17095",
+      "arxiv_base_id": "2405.01607",
+      "arxiv_id": "2405.01607",
       "commit_or_pr": "",
       "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2410.17095",
-      "normalized_title": "Inferentially-Private Private Information",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P01; draw 67130 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Inferentially-Private-Private-Information",
+      "doi": "10.48550/arXiv.2405.01607",
+      "normalized_title": "Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P06; draw 54904 of 75957 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Deep-Learning-for-Wildfire-Risk-Prediction",
       "source_urls": [
-        "https://arxiv.org/abs/2410.17095",
-        "https://arxiv.org/html/2410.17095",
-        "https://arxiv.org/pdf/2410.17095",
-        "https://doi.org/10.48550/arXiv.2410.17095"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET",
-        ".logs/20260731-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-LOG.md",
-        ".reports/BL-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-20260731/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2604.22894",
-      "arxiv_id": "2604.22894",
-      "commit_or_pr": "",
-      "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2604.22894",
-      "normalized_title": "Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P02; draw 52315 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Generalizable-CT-Free-PET-Attenuation-and",
-      "source_urls": [
-        "https://arxiv.org/abs/2604.22894",
-        "https://arxiv.org/html/2604.22894",
-        "https://arxiv.org/pdf/2604.22894",
-        "https://doi.org/10.48550/arXiv.2604.22894"
+        "https://arxiv.org/abs/2405.01607",
+        "https://arxiv.org/html/2405.01607",
+        "https://arxiv.org/pdf/2405.01607",
+        "https://doi.org/10.48550/arXiv.2405.01607"
       ],
       "status": "deposited"
     },
@@ -3391,92 +3344,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-Structured Directional",
-        ".logs/20260731-Arxiv-Structured-Directional-Pruning-via-Perturbation-LOG.md",
-        ".reports/BL-Arxiv-Structured-Directional-Pruning-via-Perturbation-20260731/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET",
+        ".logs/20260731-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-LOG.md",
+        ".reports/BL-Arxiv-Generalizable-CT-Free-PET-Attenuation-and-20260731/Report-Mark.md"
       ],
-      "arxiv_base_id": "2107.05328",
-      "arxiv_id": "2107.05328",
+      "arxiv_base_id": "2604.22894",
+      "arxiv_id": "2604.22894",
       "commit_or_pr": "",
       "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2107.05328",
-      "normalized_title": "Structured Directional Pruning via Perturbation Orthogonal Projection",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P05; draw 65168 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Structured-Directional-Pruning-via-Perturbation",
+      "doi": "10.48550/arXiv.2604.22894",
+      "normalized_title": "Generalizable CT-Free PET Attenuation and Scatter Correction for Pediatric Patients",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P02; draw 52315 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Generalizable-CT-Free-PET-Attenuation-and",
       "source_urls": [
-        "https://arxiv.org/abs/2107.05328",
-        "https://arxiv.org/html/2107.05328",
-        "https://arxiv.org/pdf/2107.05328",
-        "https://doi.org/10.48550/arXiv.2107.05328"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-Deep Learning for",
-        ".logs/20260731-Arxiv-Deep-Learning-for-Wildfire-Risk-Prediction-LOG.md",
-        ".reports/BL-Arxiv-Deep-Learning-for-Wildfire-Risk-Prediction-20260731/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2405.01607",
-      "arxiv_id": "2405.01607",
-      "commit_or_pr": "",
-      "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2405.01607",
-      "normalized_title": "Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P06; draw 54904 of 75957 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Deep-Learning-for-Wildfire-Risk-Prediction",
-      "source_urls": [
-        "https://arxiv.org/abs/2405.01607",
-        "https://arxiv.org/html/2405.01607",
-        "https://arxiv.org/pdf/2405.01607",
-        "https://doi.org/10.48550/arXiv.2405.01607"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal",
-        ".logs/20260731-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-LOG.md",
-        ".reports/BL-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-20260731/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2507.04412",
-      "arxiv_id": "2507.04412",
-      "commit_or_pr": "",
-      "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2507.04412",
-      "normalized_title": "SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P07; draw 71179 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "SFOOD-A-Multimodal-Benchmark-for-Comprehensive",
-      "source_urls": [
-        "https://arxiv.org/abs/2507.04412",
-        "https://arxiv.org/html/2507.04412",
-        "https://arxiv.org/pdf/2507.04412",
-        "https://doi.org/10.48550/arXiv.2507.04412"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large",
-        ".logs/20260731-Arxiv-IntactKV-Improving-Large-Language-Model-LOG.md",
-        ".reports/BL-Arxiv-IntactKV-Improving-Large-Language-Model-20260731/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2403.01241",
-      "arxiv_id": "2403.01241",
-      "commit_or_pr": "",
-      "deposit_date": "20260731",
-      "doi": "10.48550/arXiv.2403.01241",
-      "normalized_title": "IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact",
-      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P08; draw 18353 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "IntactKV-Improving-Large-Language-Model",
-      "source_urls": [
-        "https://arxiv.org/abs/2403.01241",
-        "https://arxiv.org/html/2403.01241",
-        "https://arxiv.org/pdf/2403.01241",
-        "https://doi.org/10.48550/arXiv.2403.01241"
+        "https://arxiv.org/abs/2604.22894",
+        "https://arxiv.org/html/2604.22894",
+        "https://arxiv.org/pdf/2604.22894",
+        "https://doi.org/10.48550/arXiv.2604.22894"
       ],
       "status": "deposited"
     },
@@ -3506,6 +3390,52 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-Inferentially-Private",
+        ".logs/20260731-Arxiv-Inferentially-Private-Private-Information-LOG.md",
+        ".reports/BL-Arxiv-Inferentially-Private-Private-Information-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.17095",
+      "arxiv_id": "2410.17095",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2410.17095",
+      "normalized_title": "Inferentially-Private Private Information",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P01; draw 67130 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Inferentially-Private-Private-Information",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.17095",
+        "https://arxiv.org/html/2410.17095",
+        "https://arxiv.org/pdf/2410.17095",
+        "https://doi.org/10.48550/arXiv.2410.17095"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large",
+        ".logs/20260731-Arxiv-IntactKV-Improving-Large-Language-Model-LOG.md",
+        ".reports/BL-Arxiv-IntactKV-Improving-Large-Language-Model-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.01241",
+      "arxiv_id": "2403.01241",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2403.01241",
+      "normalized_title": "IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P08; draw 18353 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "IntactKV-Improving-Large-Language-Model",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.01241",
+        "https://arxiv.org/html/2403.01241",
+        "https://arxiv.org/pdf/2403.01241",
+        "https://doi.org/10.48550/arXiv.2403.01241"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a",
         ".logs/20260731-Arxiv-No-Free-Charge-Theorem-a-Covert-Channel-LOG.md",
         ".reports/BL-Arxiv-No-Free-Charge-Theorem-a-Covert-Channel-20260731/Report-Mark.md"
@@ -3523,6 +3453,101 @@
         "https://arxiv.org/html/1609.02750",
         "https://arxiv.org/pdf/1609.02750",
         "https://doi.org/10.48550/arXiv.1609.02750"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-OS Minimum Paths",
+        ".logs/20260731-Arxiv-OS-Minimum-Paths-LOG.md",
+        ".logs/20260731-Arxiv-OS-Minimum-Paths-PHASE-LOG.md",
+        ".reports/BL-Arxiv-OS-Minimum-Paths-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2607.02883",
+      "arxiv_id": "2607.02883",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/27dc0bd0685655a7112dc76b0f23f873628811e2",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2607.02883",
+      "normalized_title": "Paths and Intersections: Minimum Realization of Okamura-Seymour Instances",
+      "notes": "Complete paper gate passed after bounded repair; cache cached; source package unavailable; source files withheld locally and not uploaded.",
+      "slug": "OS-Minimum-Paths",
+      "source_urls": [
+        "https://arxiv.org/abs/2607.02883",
+        "https://arxiv.org/html/2607.02883",
+        "https://arxiv.org/pdf/2607.02883",
+        "https://doi.org/10.48550/arXiv.2607.02883"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal",
+        ".logs/20260731-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-LOG.md",
+        ".reports/BL-Arxiv-SFOOD-A-Multimodal-Benchmark-for-Comprehensive-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.04412",
+      "arxiv_id": "2507.04412",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2507.04412",
+      "normalized_title": "SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P07; draw 71179 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SFOOD-A-Multimodal-Benchmark-for-Comprehensive",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.04412",
+        "https://arxiv.org/html/2507.04412",
+        "https://arxiv.org/pdf/2507.04412",
+        "https://doi.org/10.48550/arXiv.2507.04412"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260731-Structured Directional",
+        ".logs/20260731-Arxiv-Structured-Directional-Pruning-via-Perturbation-LOG.md",
+        ".reports/BL-Arxiv-Structured-Directional-Pruning-via-Perturbation-20260731/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2107.05328",
+      "arxiv_id": "2107.05328",
+      "commit_or_pr": "",
+      "deposit_date": "20260731",
+      "doi": "10.48550/arXiv.2107.05328",
+      "normalized_title": "Structured Directional Pruning via Perturbation Orthogonal Projection",
+      "notes": "Job BLAD-2200-20260731-3D09E72F item BLAD-2200-20260731-3D09E72F-P05; draw 65168 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Structured-Directional-Pruning-via-Perturbation",
+      "source_urls": [
+        "https://arxiv.org/abs/2107.05328",
+        "https://arxiv.org/html/2107.05328",
+        "https://arxiv.org/pdf/2107.05328",
+        "https://doi.org/10.48550/arXiv.2107.05328"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning",
+        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning/sd_search_reasoning_manuscript.md",
+        ".logs/20260801-Arxiv-SD-Search-LOG.md",
+        ".logs/20260801-Arxiv-SD-Search-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SD-Search-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.18299",
+      "arxiv_id": "2605.18299v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2605.18299",
+      "normalized_title": "SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning",
+      "notes": "Uniform first-draw acceptance; source unit repaired to complete before review; local missing-only cache is cached; source files withheld locally; commit reference added after remote submission.",
+      "slug": "SD-Search",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.18299",
+        "https://arxiv.org/e-print/2605.18299",
+        "https://arxiv.org/html/2605.18299",
+        "https://arxiv.org/pdf/2605.18299",
+        "https://doi.org/10.48550/arXiv.2605.18299"
       ],
       "status": "deposited"
     }
@@ -4295,5 +4320,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-07-31"
+  "updated_date": "2026-08-01"
 }
