@@ -5102,3 +5102,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Wiola Architecture for Efficient Small Language Models* | Aryuemaan Kumar Chowdhury; Afreen Shaik; Yaparla Bhargavi; Brahma Kumar | [arXiv:2607.01394v1](https://arxiv.org/abs/2607.01394v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01394) |
+
+
+## [DEP-A-20260802-HASTE CNN Compression](../DEP-A-20260802-HASTE%20CNN%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.30516-whitepaper-review.md`](../DEP-A-20260802-HASTE%20CNN%20Compression/2606.30516-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HASTE: A Framework for Training-Free, Dynamic, and Steerable Compression of Pre-Trained Convolutional Neural Networks* | Lukas Meiner; Jens Mehnert; Alexandru Paul Condurache | [arXiv:2606.30516v1](https://arxiv.org/abs/2606.30516v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30516) |
+
+
+## [DEP-A-20260802-Web Context A11y](../DEP-A-20260802-Web%20Context%20A11y/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.27506-whitepaper-review.md`](../DEP-A-20260802-Web%20Context%20A11y/2606.27506-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contextual Associations Between Webpage Elements for Web Accessibility: An Empirical Study* | Kishan Rakesh; Shiyi Wei | [arXiv:2606.27506v1](https://arxiv.org/abs/2606.27506v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27506) |
+
+
+## [DEP-A-20260802-Temporal Causal PFN](../DEP-A-20260802-Temporal%20Causal%20PFN/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.20889-whitepaper-review.md`](../DEP-A-20260802-Temporal%20Causal%20PFN/2606.20889-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Causal Prior-Data Fitted Networks for Panel Data with Learned Reliability Signals* | Shravan Talupula; Saurabh Sharma | [arXiv:2606.20889v1](https://arxiv.org/abs/2606.20889v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20889) |
+
+
+## [DEP-A-20260802-Coding Agent Context](../DEP-A-20260802-Coding%20Agent%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.09691-whitepaper-review.md`](../DEP-A-20260802-Coding%20Agent%20Context/2607.09691-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Context Does a Coding Agent Actually Need to Act?* | Brian Sam-Bodden | [arXiv:2607.09691v1](https://arxiv.org/abs/2607.09691v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09691) |
+
+
+## [DEP-A-20260802-WorldParticle](../DEP-A-20260802-WorldParticle/README.md)
+
+Review status: substantively reviewed from the complete arXiv v4 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2605.15305-whitepaper-review.md`](../DEP-A-20260802-WorldParticle/2605.15305-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WorldParticle: Unified World Simulation of Lagrangian Particle Dynamics via Transformer* | Caoliwen Wang; Minghao Guo; Siyuan Chen; Heng Zhang; Mengdi Wang; Xingyu Ni; Hanson Sun; Kunyi Wang; Zherong Pan; Kui Wu; Lingjie Liu; Yin Yang; Chenfanfu Jiang; Taku Komura; Wojciech Matusik; Peter Yichen Chen | [arXiv:2605.15305v4](https://arxiv.org/abs/2605.15305v4) - [DOI](https://doi.org/10.48550/arXiv.2605.15305) |
