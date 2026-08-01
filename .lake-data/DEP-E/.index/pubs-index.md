@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **452 publication reviews across 239 DEP-E entries**.
+- Current coverage: **453 publication reviews across 240 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-01; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260801-RawBMamba](../DEP-E-20260801-RawBMamba/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection* | Chen, Yujie; Yi, Jiangyan; Xue, Jun; *et al.* | [arXiv:2406.06086v2](https://arxiv.org/abs/2406.06086v2); [arXiv DOI](https://doi.org/10.48550/arXiv.2406.06086); [Interspeech DOI](https://doi.org/10.21437/Interspeech.2024-698) | [DEP-E](../DEP-E-20260801-RawBMamba/README.md) |
 
 ## [DEP-E-20260801-PTransIPs Protein PLM](../DEP-E-20260801-PTransIPs%20Protein%20PLM/README.md)
 
