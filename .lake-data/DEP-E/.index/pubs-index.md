@@ -1974,3 +1974,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *De-homogenization of optimal multi-scale 3D topologies* | Groen, Jeroen P.; Stutz, Florian C.; Aage, Niels; Bærentzen, Jakob A.; Sigmund, Ole | [arXiv:1910.13002](https://arxiv.org/abs/1910.13002) - [DOI](https://doi.org/10.48550/arXiv.1910.13002) - [Journal DOI](https://doi.org/10.1016/j.cma.2020.112979) |
+
+## [DEP-E-20260801-RLET Reinforcement](../DEP-E-20260801-RLET%20Reinforcement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees* | Liu, Tengxiao; Guo, Qipeng; Hu, Xiangkun; Zhang, Yue; Qiu, Xipeng; Zhang, Zheng | [arXiv:2210.17095](https://arxiv.org/abs/2210.17095) - [DOI](https://doi.org/10.48550/arXiv.2210.17095) |
