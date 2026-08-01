@@ -5012,3 +5012,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Latent Reasoning with Normalizing Flows* | Guancheng Tu; Xiangjun Fu; Suhao Yu; Yao Tang; Haoqiang Kang; Lianhui Qin; Yizhe Zhang; Jiatao Gu | [arXiv:2606.06447v1](https://arxiv.org/abs/2606.06447v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06447) |
+
+
+## [DEP-A-20260802-BlockBatch dLLM](../DEP-A-20260802-BlockBatch%20dLLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2605.29233-whitepaper-review.md`](../DEP-A-20260802-BlockBatch%20dLLM/2605.29233-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BlockBatch: Multi-Scale Consensus Decoding for Efficient Diffusion Language Model Inference* | Xiaoyou Wu; Cheng-Jhih Shih; Binfei Ji; Yong Liu; Yingyan Celine Lin | [arXiv:2605.29233v2](https://arxiv.org/abs/2605.29233v2) - [DOI](https://doi.org/10.48550/arXiv.2605.29233) |
+
+
+## [DEP-A-20260802-WanToFight Engine](../DEP-A-20260802-WanToFight%20Engine/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.12592-whitepaper-review.md`](../DEP-A-20260802-WanToFight%20Engine/2607.12592-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction* | Li Hu; Guangyuan Wang; Peng Zhang; Bang Zhang | [arXiv:2607.12592v1](https://arxiv.org/abs/2607.12592v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12592) |
+
+
+## [DEP-A-20260802-FastTPS Token Phase](../DEP-A-20260802-FastTPS%20Token%20Phase/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.11211-whitepaper-review.md`](../DEP-A-20260802-FastTPS%20Token%20Phase/2607.11211-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FastTPS: An Optimized Method for LLM Token Phase for AI accelerators* | Wenzong Yang; Danyang Zhang; Kun Cao; Tejus Siddagangaiah; Rajeev Patwari; Zhanxing Pu; Siyin Kong; Zijiang Yang; Hao Zhu; Varun Sharma; Yue Gao; Tianping Li; Fan Yang; Jicheng Chen; Yushan Chen; Fennian Zhao; Aaron Ng; Elliott Delaye; Ashish Sirasao; Sudip Nag | [arXiv:2607.11211v1](https://arxiv.org/abs/2607.11211v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11211) |
+
+
+## [DEP-A-20260802-Agent Steering Transfer](../DEP-A-20260802-Agent%20Steering%20Transfer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.09156-whitepaper-review.md`](../DEP-A-20260802-Agent%20Steering%20Transfer/2607.09156-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Present but Rescaled: Chat-to-Agent Transfer of Additive Activation Steering* | Lucas Pinto | [arXiv:2607.09156v1](https://arxiv.org/abs/2607.09156v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09156) |
+
+
+## [DEP-A-20260802-AI Memory Economics](../DEP-A-20260802-AI%20Memory%20Economics/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.07207-whitepaper-review.md`](../DEP-A-20260802-AI%20Memory%20Economics/2607.07207-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency* | Satoshi Matsuoka | [arXiv:2607.07207v1](https://arxiv.org/abs/2607.07207v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07207) |
