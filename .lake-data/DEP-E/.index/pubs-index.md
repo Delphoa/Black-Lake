@@ -1961,3 +1961,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CrossNER: Evaluating Cross-Domain Named Entity Recognition* | Liu, Zihan; Xu, Yan; Yu, Tiezheng; Dai, Wenliang; Ji, Ziwei; Cahyawijaya, Samuel; Madotto, Andrea; Fung, Pascale | [arXiv:2012.04373](https://arxiv.org/abs/2012.04373) - [DOI](https://doi.org/10.48550/arXiv.2012.04373) |
+
+
+## [DEP-E-20260801-Dehomogenized 3D Topology](../DEP-E-20260801-Dehomogenized%203D%20Topology/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *De-homogenization of optimal multi-scale 3D topologies* | Groen, Jeroen P.; Stutz, Florian C.; Aage, Niels; Bærentzen, Jakob A.; Sigmund, Ole | [arXiv:1910.13002](https://arxiv.org/abs/1910.13002) - [DOI](https://doi.org/10.48550/arXiv.1910.13002) - [Journal DOI](https://doi.org/10.1016/j.cma.2020.112979) |
