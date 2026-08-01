@@ -2022,3 +2022,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PFGM++: Unlocking the Potential of Physics-Inspired Generative Models* | Xu, Yilun; Liu, Ziming; Tian, Yonglong; Tong, Shangyuan; Tegmark, Max; Jaakkola, Tommi | [arXiv:2302.04265](https://arxiv.org/abs/2302.04265) - [DOI](https://doi.org/10.48550/arXiv.2302.04265) |
+
+## [DEP-E-20260801-Vector-ICL In-context](../DEP-E-20260801-Vector-ICL%20In-context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vector-ICL: In-context Learning with Continuous Vector Representations* | Zhuang, Yufan; Singh, Chandan; Liu, Liyuan; Shang, Jingbo; Gao, Jianfeng | [arXiv:2410.05629](https://arxiv.org/abs/2410.05629) - [DOI](https://doi.org/10.48550/arXiv.2410.05629) |

@@ -3734,6 +3734,29 @@
         "https://doi.org/10.48550/arXiv.2302.04265"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Vector-ICL In-context",
+        ".logs/20260801-Arxiv-Vector-ICL-In-context-Learning-with-Continuous-Vector-Repr-LOG.md",
+        ".reports/BL-Arxiv-Vector-ICL-In-context-Learning-with-Continuous-Vecto-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.05629",
+      "arxiv_id": "2410.05629",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2410.05629",
+      "normalized_title": "Vector-ICL: In-context Learning with Continuous Vector Representations",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P09; draw 26392 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Vector-ICL-In-context-Learning-with-Continuous-Vector-Repr",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.05629",
+        "https://arxiv.org/html/2410.05629",
+        "https://arxiv.org/pdf/2410.05629",
+        "https://doi.org/10.48550/arXiv.2410.05629"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
