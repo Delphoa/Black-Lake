@@ -2016,3 +2016,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *High-Order Langevin Diffusion Yields an Accelerated MCMC Algorithm* | Mou, Wenlong; Ma, Yi-An; Wainwright, Martin J.; Bartlett, Peter L.; Jordan, Michael I. | [arXiv:1908.10859](https://arxiv.org/abs/1908.10859) - [DOI](https://doi.org/10.48550/arXiv.1908.10859) |
+
+## [DEP-E-20260801-PFGM Unlocking Potential](../DEP-E-20260801-PFGM%20Unlocking%20Potential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PFGM++: Unlocking the Potential of Physics-Inspired Generative Models* | Xu, Yilun; Liu, Ziming; Tian, Yonglong; Tong, Shangyuan; Tegmark, Max; Jaakkola, Tommi | [arXiv:2302.04265](https://arxiv.org/abs/2302.04265) - [DOI](https://doi.org/10.48550/arXiv.2302.04265) |
