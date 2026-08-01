@@ -4877,3 +4877,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Score-Only Distillation for Compact Dense Retrieval* | Kirill Dubovikov; Martin Takac; Salem Lahlou | [arXiv:2607.11465v1](https://arxiv.org/abs/2607.11465v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11465) |
+
+
+## [DEP-A-20260802-TOLiD Token Lifting](../DEP-A-20260802-TOLiD%20Token%20Lifting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.10762-whitepaper-review.md`](../DEP-A-20260802-TOLiD%20Token%20Lifting/2607.10762-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TOLiD: Bridging the Architecture Gap in Vision Foundation Model to LiDAR Pretraining via Token Lifting for Distillation* | Sutharsan Mahendran; Darshana Priyasad; Kaushik Roy; Tharindu Fernando; Sridha Sridharan; Clinton Fookes; Peyman Moghadam | [arXiv:2607.10762v1](https://arxiv.org/abs/2607.10762v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10762) |
+
+
+## [DEP-A-20260802-DATGR Semantic Drift](../DEP-A-20260802-DATGR%20Semantic%20Drift/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.08490-whitepaper-review.md`](../DEP-A-20260802-DATGR%20Semantic%20Drift/2607.08490-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text* | Bharathwaj Vijayakumar; Sahana K. Varadaraju | [arXiv:2607.08490v1](https://arxiv.org/abs/2607.08490v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08490) |
+
+
+## [DEP-A-20260802-LongCrafter Synthesis](../DEP-A-20260802-LongCrafter%20Synthesis/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2607.06160-whitepaper-review.md`](../DEP-A-20260802-LongCrafter%20Synthesis/2607.06160-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis* | Chenhao Yuan; Yinhao Xu; Shuwen Xu; Xizhi Yang; Jiaxiang Liu; Chenxi Zhou; Shaoping Huang; Haolin Ren; Pengfei Cao; Jun Zhao; Kang Liu | [arXiv:2607.06160v1](https://arxiv.org/abs/2607.06160v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06160) |
+
+
+## [DEP-A-20260802-HRM SSM Adapters](../DEP-A-20260802-HRM%20SSM%20Adapters/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.26290-whitepaper-review.md`](../DEP-A-20260802-HRM%20SSM%20Adapters/2606.26290-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SSM Adapters via Hankel Reduced-order Modeling: Injection Site Determines Task Suitability in Long-Context Fine-Tuning* | Omanshu Thapliyal | [arXiv:2606.26290v1](https://arxiv.org/abs/2606.26290v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26290) |
+
+
+## [DEP-A-20260802-moBERTo Portuguese](../DEP-A-20260802-moBERTo%20Portuguese/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-02. The owning review artifact is [`2606.22722-whitepaper-review.md`](../DEP-A-20260802-moBERTo%20Portuguese/2606.22722-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *moBERTo: A Modern Encoder for Portuguese via Continued Pretraining of ModernBERT* | Thiago Laitz; Thales Sales Almeida; João Guilherme Alves Santos; Giovana Kerche Bonás | [arXiv:2606.22722v1](https://arxiv.org/abs/2606.22722v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22722) |
