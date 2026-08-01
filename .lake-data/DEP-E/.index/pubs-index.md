@@ -1986,3 +1986,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Controlling Decision Drift in Multimodal Sentiment Analysis with Missing Modalities* | Chen, Chenglizhao; Cao, Yuchen; Liu, Xinyu; Song, Mengke; Zhang, Guisheng; Yu, Xiaomin | [arXiv:2605.16889](https://arxiv.org/abs/2605.16889) - [DOI](https://doi.org/10.48550/arXiv.2605.16889) |
+
+## [DEP-E-20260801-Relational Contrastive](../DEP-E-20260801-Relational%20Contrastive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition* | Lin, Tiancheng; Zhang, Jinglei; Xu, Yi; Chen, Kai; Zhang, Rui; Chen, Chang-Wen | [arXiv:2411.11219](https://arxiv.org/abs/2411.11219) - [DOI](https://doi.org/10.48550/arXiv.2411.11219) |

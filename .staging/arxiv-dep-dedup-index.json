@@ -3596,6 +3596,29 @@
         "https://doi.org/10.48550/arXiv.2605.16889"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Relational Contrastive",
+        ".logs/20260801-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Modeling-LOG.md",
+        ".reports/BL-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Mod-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.11219",
+      "arxiv_id": "2411.11219",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2411.11219",
+      "normalized_title": "Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P03; draw 24396 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Relational-Contrastive-Learning-and-Masked-Image-Modeling",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.11219",
+        "https://arxiv.org/html/2411.11219",
+        "https://arxiv.org/pdf/2411.11219",
+        "https://doi.org/10.48550/arXiv.2411.11219"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
