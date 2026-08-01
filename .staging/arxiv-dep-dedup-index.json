@@ -3573,6 +3573,29 @@
         "https://doi.org/10.48550/arXiv.2210.17095"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Controlling Decision",
+        ".logs/20260801-Arxiv-Controlling-Decision-Drift-in-Multimodal-Sentiment-Analysi-LOG.md",
+        ".reports/BL-Arxiv-Controlling-Decision-Drift-in-Multimodal-Sentiment-A-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.16889",
+      "arxiv_id": "2605.16889",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2605.16889",
+      "normalized_title": "Controlling Decision Drift in Multimodal Sentiment Analysis with Missing Modalities",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P02; draw 28626 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Controlling-Decision-Drift-in-Multimodal-Sentiment-Analysi",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.16889",
+        "https://arxiv.org/html/2605.16889",
+        "https://arxiv.org/pdf/2605.16889",
+        "https://doi.org/10.48550/arXiv.2605.16889"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

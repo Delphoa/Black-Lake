@@ -1980,3 +1980,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees* | Liu, Tengxiao; Guo, Qipeng; Hu, Xiangkun; Zhang, Yue; Qiu, Xipeng; Zhang, Zheng | [arXiv:2210.17095](https://arxiv.org/abs/2210.17095) - [DOI](https://doi.org/10.48550/arXiv.2210.17095) |
+
+## [DEP-E-20260801-Controlling Decision](../DEP-E-20260801-Controlling%20Decision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Controlling Decision Drift in Multimodal Sentiment Analysis with Missing Modalities* | Chen, Chenglizhao; Cao, Yuchen; Liu, Xinyu; Song, Mengke; Zhang, Guisheng; Yu, Xiaomin | [arXiv:2605.16889](https://arxiv.org/abs/2605.16889) - [DOI](https://doi.org/10.48550/arXiv.2605.16889) |
