@@ -2004,3 +2004,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GQA-{\mu}P: The maximal parameterization update for grouped query attention* | Chickering, Kyle R.; Wang, Huijuan; Wu, Mengxi; Moreno, Alexander; Chen, Muhao; Ma, Xuezhe; Soboleva, Daria; Hestness, Joel; Liu, Zhengzhong; Xing, Eric | [arXiv:2605.15290](https://arxiv.org/abs/2605.15290) - [DOI](https://doi.org/10.48550/arXiv.2605.15290) |
+
+## [DEP-E-20260801-On Mechanism Underlying](../DEP-E-20260801-On%20Mechanism%20Underlying/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Mechanism Underlying Algorithmic Collusion* | Xu, Zhang; Zhao, Wei | [arXiv:2409.01147](https://arxiv.org/abs/2409.01147) - [DOI](https://doi.org/10.48550/arXiv.2409.01147) |
