@@ -1992,3 +1992,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition* | Lin, Tiancheng; Zhang, Jinglei; Xu, Yi; Chen, Kai; Zhang, Rui; Chen, Chang-Wen | [arXiv:2411.11219](https://arxiv.org/abs/2411.11219) - [DOI](https://doi.org/10.48550/arXiv.2411.11219) |
+
+## [DEP-E-20260801-Large-Scale](../DEP-E-20260801-Large-Scale/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark* | Shu, Xiujun; Wang, Xiao; Zang, Xianghao; Zhang, Shiliang; Chen, Yuanqi; Li, Ge; Tian, Qi | [arXiv:2105.15076](https://arxiv.org/abs/2105.15076) - [DOI](https://doi.org/10.48550/arXiv.2105.15076) |

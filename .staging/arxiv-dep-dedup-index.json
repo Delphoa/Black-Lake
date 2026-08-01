@@ -3619,6 +3619,29 @@
         "https://doi.org/10.48550/arXiv.2411.11219"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Large-Scale",
+        ".logs/20260801-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-Algor-LOG.md",
+        ".reports/BL-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2105.15076",
+      "arxiv_id": "2105.15076",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2105.15076",
+      "normalized_title": "Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P04; draw 8974 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Large-Scale-Spatio-Temporal-Person-Re-identification-Algor",
+      "source_urls": [
+        "https://arxiv.org/abs/2105.15076",
+        "https://ar5iv.labs.arxiv.org/html/2105.15076",
+        "https://arxiv.org/pdf/2105.15076",
+        "https://doi.org/10.48550/arXiv.2105.15076"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
