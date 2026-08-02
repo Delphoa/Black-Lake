@@ -3806,6 +3806,29 @@
         "https://doi.org/10.48550/arXiv.2509.18521"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy",
+        ".logs/20260802-Arxiv-A-Survey-on-Trustworthy-LLM-Agents-Threats-LOG.md",
+        ".reports/BL-Arxiv-A-Survey-on-Trustworthy-LLM-Agents-Threats-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.09648",
+      "arxiv_id": "2503.09648",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2503.09648",
+      "normalized_title": "A Survey on Trustworthy LLM Agents: Threats and Countermeasures",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P01; draw 11813 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Survey-on-Trustworthy-LLM-Agents-Threats",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.09648",
+        "https://arxiv.org/html/2503.09648",
+        "https://arxiv.org/pdf/2503.09648",
+        "https://doi.org/10.48550/arXiv.2503.09648"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

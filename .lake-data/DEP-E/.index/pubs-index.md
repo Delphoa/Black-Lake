@@ -2079,3 +2079,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation* | Zhou, Yuzhen; Li, Jiajun; Su, Yusheng; Ramesh, Gowtham; Zhu, Zilin; Long, Xiang; Zhao, Chenyang; Pan, Jin; Yu, Xiaodong; Wang, Ze; Du, Kangrui; Wu, Jialian; Sun, Ximeng; Liu, Jiang; Yu, Qiaolin; Chen, Hao; Liu, Zicheng; Barsoum, Emad | [arXiv:2509.18521](https://arxiv.org/abs/2509.18521) - [DOI](https://doi.org/10.48550/arXiv.2509.18521) |
+
+
+## [DEP-E-20260802-A Survey on Trustworthy](../DEP-E-20260802-A%20Survey%20on%20Trustworthy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey on Trustworthy LLM Agents: Threats and Countermeasures* | Yu, Miao; Meng, Fanci; Zhou, Xinyun; Wang, Shilong; Mao, Junyuan; Pang, Linsey; Chen, Tianlong; Wang, Kun; Li, Xinfeng; Zhang, Yongfeng; An, Bo; Wen, Qingsong | [arXiv:2503.09648](https://arxiv.org/abs/2503.09648) - [DOI](https://doi.org/10.48550/arXiv.2503.09648) |
