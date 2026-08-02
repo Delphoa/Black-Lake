@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **468 publication reviews across 242 DEP-E entries**.
+- Current coverage: **469 publication reviews across 243 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-02; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -31,6 +31,11 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Observation of quantum phase synchronization in spin-1 atoms* | Laskar, Arif Warsi; Adhikary, Pratik; Mondal, Suprodip; Katiyar, Parag; Vinjanampathy, Sai; Ghosh, Saikat | [arXiv:1910.11832v4](https://arxiv.org/abs/1910.11832); [DOI](https://doi.org/10.1103/PhysRevLett.125.013601) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
 | *Observation of a continuous time crystal* | Kongkhambut, Phatthamon; Skulte, Jim; Mathey, Ludwig; Cosme, Jayson G.; Hemmerich, Andreas; Keßler, Hans | [arXiv:2202.06980v3](https://arxiv.org/abs/2202.06980); [DOI](https://doi.org/10.1126/science.abo3382) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
 | *Observation of synchronization between two quantum van der Pol oscillators in trapped ions* | Liu, Jiarui; Wu, Qiming; Moore, Joel E.; Haeffner, Hartmut; Wächtler, Christopher W. | [arXiv:2509.18423v2](https://arxiv.org/abs/2509.18423); [DOI](https://doi.org/10.1103/w1bm-wjl4) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+## [DEP-E-20260802-COVID Fake News](../DEP-E-20260802-COVID%20Fake%20News/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Transformer-based Language Model Fine-tuning Methods for COVID-19 Fake News Detection* | Chen, Ben; Chen, Bin; Gao, Dehong; Chen, Qijin; Huo, Chengfu; Meng, Xiaonan; Ren, Weijun; Zhou, Yang | [arXiv:2101.05509v3](https://arxiv.org/abs/2101.05509); [arXiv DOI](https://doi.org/10.48550/arXiv.2101.05509); [Springer DOI](https://doi.org/10.1007/978-3-030-73696-5_9) | [DEP-E](../DEP-E-20260802-COVID%20Fake%20News/README.md) |
 
 ## [DEP-E-20260802-AOGM Mitosis](../DEP-E-20260802-AOGM%20Mitosis/README.md)
 
