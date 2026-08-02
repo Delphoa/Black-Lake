@@ -2164,3 +2164,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment* | Fan, Wenrui; Suvon, Mohammod N. I.; Zhou, Shuo; Liu, Xianyuan; Alabed, Samer; Osmani, Venet; Swift, Andrew J.; Chen, Chen; Lu, Haiping | [arXiv:2403.10635](https://arxiv.org/abs/2403.10635) - [DOI](https://doi.org/10.48550/arXiv.2403.10635) |
+
+
+## [DEP-E-20260803-QFT Tuning](../DEP-E-20260803-QFT%20Tuning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources* | Li, Zhikai; Liu, Xiaoxuan; Zhu, Banghua; Dong, Zhen; Gu, Qingyi; Keutzer, Kurt | [arXiv:2310.07147](https://arxiv.org/abs/2310.07147) - [DOI](https://doi.org/10.48550/arXiv.2310.07147) |
