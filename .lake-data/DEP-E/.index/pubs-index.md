@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **469 publication reviews across 243 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-02; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **479 publication reviews across 244 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-03; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260803-Reliability Boundaries](../DEP-E-20260803-Reliability%20Boundaries/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference* | Liang, Xiaolong; Li, Juanjuan; Qin, Rui; Lv, Yisheng | [arXiv:2607.21162v1](https://arxiv.org/abs/2607.21162); [DOI](https://doi.org/10.48550/arXiv.2607.21162) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents* | Saha, Swapnanil | [arXiv:2607.20972v1](https://arxiv.org/abs/2607.20972); [DOI](https://doi.org/10.48550/arXiv.2607.20972) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Automated Synthesis and Adversarial Validation of Executable Causal Research Pipelines* | Girshovitz, Irena; Zeltzer, Dan; Gilad-Bachrach, Ran | [arXiv:2607.21173v1](https://arxiv.org/abs/2607.21173); [DOI](https://doi.org/10.48550/arXiv.2607.21173) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *SciExplore: Evaluating Autonomous Agents from Scientific Navigation to Information Integration* | Tang, Yinhao; Fang, Youqing; Sun, Yanan; *et al.* | [arXiv:2607.20926v1](https://arxiv.org/abs/2607.20926); [DOI](https://doi.org/10.48550/arXiv.2607.20926) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions* | Zhu, Pengyu; Li, Lijun; Yang, Longju; Su, Sen; Shao, Jing | [arXiv:2607.20891v2](https://arxiv.org/abs/2607.20891); [DOI](https://doi.org/10.48550/arXiv.2607.20891) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Beyond Heavy Log Curation: Perplexity-Based APT Detection via Unsupervised, Context-Augmented Language Models* | Otsu, Shoya; Suzuki, Kei; Koike-Akino, Toshiaki; Liu, Jing; Wang, Ye | [arXiv:2607.20832v1](https://arxiv.org/abs/2607.20832); [DOI](https://doi.org/10.48550/arXiv.2607.20832) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Multimodal Pretraining for Generalizable EEG Representation Learning* | Bakhtiarvand, Targol; Kalita, Jugal; Atyabi, Adham | [arXiv:2607.21384v1](https://arxiv.org/abs/2607.21384); [DOI](https://doi.org/10.48550/arXiv.2607.21384) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment* | Maghsoodi, Nooshin; Jamzad, Amoon; Policelli, Robert; *et al.* | [arXiv:2607.21437v1](https://arxiv.org/abs/2607.21437); [DOI](https://doi.org/10.48550/arXiv.2607.21437) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs* | Du, Muyang; Yu, Shuang; Lai, Junjie | [arXiv:2607.21042v1](https://arxiv.org/abs/2607.21042); [DOI](https://doi.org/10.48550/arXiv.2607.21042) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
+| *Strategic Plan for Neutral Atom Quantum Computation* | Menssen, Adrian J.; Wang, Tout; Gullans, Michael; *et al.* | [arXiv:2607.21554v1](https://arxiv.org/abs/2607.21554); [DOI](https://doi.org/10.48550/arXiv.2607.21554) | [DEP-E](../DEP-E-20260803-Reliability%20Boundaries/README.md) |
 
 ## [DEP-E-20260802-Quantum Coordination](../DEP-E-20260802-Quantum%20Coordination/README.md)
 
