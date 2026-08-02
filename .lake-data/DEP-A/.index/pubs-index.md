@@ -5309,3 +5309,30 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies* | Ganlin Yang; Zhangzheng Tu; Yuqiang Yang; Sitong Mao; Junyi Dong; Tianxing Chen; Jiaqi Peng; Jing Xiong; Jiafei Cao; Jifeng Dai; Wengang Zhou; Yao Mu; Tai Wang | [arXiv:2606.20092v2](https://arxiv.org/abs/2606.20092v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20092) |
+
+
+## [DEP-A-20260803-WorldLines Agents](../DEP-A-20260803-WorldLines%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.18847-whitepaper-review.md`](../DEP-A-20260803-WorldLines%20Agents/2606.18847-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents* | Yehang Zhang; Jianchong Su; Haojian Huang; Yifan Chang; Tianhao Zhou; Xinli Xu; Yingjie Xu; Yinchuan Li; Zexi Li; Ying-Cong Chen | [arXiv:2606.18847v1](https://arxiv.org/abs/2606.18847v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18847) |
+
+
+## [DEP-A-20260803-RAMPART Agent Memory](../DEP-A-20260803-RAMPART%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.04628-whitepaper-review.md`](../DEP-A-20260803-RAMPART%20Agent%20Memory/2606.04628-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation* | Nikodem Tomczak | [arXiv:2606.04628v1](https://arxiv.org/abs/2606.04628v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04628) |
+
+
+## [DEP-A-20260803-ENPMR Emotional Memory](../DEP-A-20260803-ENPMR%20Emotional%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2605.27240-whitepaper-review.md`](../DEP-A-20260803-ENPMR%20Emotional%20Memory/2605.27240-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents* | Xing Fu; Yulin Hu; Mengtong Ji; Haozhen Li; Yixin Sun; Weixiang Zhao; Yanyan Zhao; Bing Qin | [arXiv:2605.27240v1](https://arxiv.org/abs/2605.27240v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27240) |
