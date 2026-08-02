@@ -2086,3 +2086,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey on Trustworthy LLM Agents: Threats and Countermeasures* | Yu, Miao; Meng, Fanci; Zhou, Xinyun; Wang, Shilong; Mao, Junyuan; Pang, Linsey; Chen, Tianlong; Wang, Kun; Li, Xinfeng; Zhang, Yongfeng; An, Bo; Wen, Qingsong | [arXiv:2503.09648](https://arxiv.org/abs/2503.09648) - [DOI](https://doi.org/10.48550/arXiv.2503.09648) |
+
+
+## [DEP-E-20260802-CryoGEM Physics-Informed](../DEP-E-20260802-CryoGEM%20Physics-Informed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy* | Zhang, Jiakai; Chen, Qihe; Zeng, Yan; Gao, Wenyuan; He, Xuming; Liu, Zhijie; Yu, Jingyi | [arXiv:2312.02235](https://arxiv.org/abs/2312.02235) - [DOI](https://doi.org/10.48550/arXiv.2312.02235) |

@@ -3829,6 +3829,29 @@
         "https://doi.org/10.48550/arXiv.2503.09648"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-CryoGEM Physics-Informed",
+        ".logs/20260802-Arxiv-CryoGEM-Physics-Informed-Generative-Cryo-LOG.md",
+        ".reports/BL-Arxiv-CryoGEM-Physics-Informed-Generative-Cryo-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.02235",
+      "arxiv_id": "2312.02235",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2312.02235",
+      "normalized_title": "CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P02; draw 63958 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "CryoGEM-Physics-Informed-Generative-Cryo",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.02235",
+        "https://arxiv.org/html/2312.02235",
+        "https://arxiv.org/pdf/2312.02235",
+        "https://doi.org/10.48550/arXiv.2312.02235"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
