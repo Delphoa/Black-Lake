@@ -5174,3 +5174,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents* | Zhijie Ding; Weinan Hong; Zicheng Zhu; Lei Li; Dezhi Kong; Hao Wang; Peng Zhou; Xuchu Jiang; Jiaming Xu | [arXiv:2606.03236v1](https://arxiv.org/abs/2606.03236v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03236) |
+
+
+## [DEP-A-20260803-AgentKGV Verification](../DEP-A-20260803-AgentKGV%20Verification/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.09092-whitepaper-review.md`](../DEP-A-20260803-AgentKGV%20Verification/2607.09092-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs* | Yumin Heo; Hyeon-gu Lee; Sumin Seo; Youngjoong Ko | [arXiv:2607.09092v1](https://arxiv.org/abs/2607.09092v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09092) |
+
+
+## [DEP-A-20260803-Investor Brief RAG](../DEP-A-20260803-Investor%20Brief%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.09121-whitepaper-review.md`](../DEP-A-20260803-Investor%20Brief%20RAG/2607.09121-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs* | Bartosz Ziółko; Kacper Dobrzeniewski | [arXiv:2607.09121v1](https://arxiv.org/abs/2607.09121v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09121) |
+
+
+## [DEP-A-20260803-Multimodal Graph RAG](../DEP-A-20260803-Multimodal%20Graph%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.28780-whitepaper-review.md`](../DEP-A-20260803-Multimodal%20Graph%20RAG/2606.28780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Graph RAG for Long-range Visually Rich Document Understanding* | Yi-Cheng Wang; Chu-Song Chen | [arXiv:2606.28780v1](https://arxiv.org/abs/2606.28780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28780) |
+
+
+## [DEP-A-20260803-ReDiTT Time Series](../DEP-A-20260803-ReDiTT%20Time%20Series/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.12391-whitepaper-review.md`](../DEP-A-20260803-ReDiTT%20Time%20Series/2607.12391-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReDiTT: Retrieval Augmented Conditional Diffusion Transformers for Asynchronous Time Series* | Saiyue Lyu; Zhitian Zhang; Ruizhi Deng; Thibaut Durand | [arXiv:2607.12391v1](https://arxiv.org/abs/2607.12391v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12391) |
+
+
+## [DEP-A-20260803-MMIR TCM Clinical](../DEP-A-20260803-MMIR%20TCM%20Clinical/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.01814-whitepaper-review.md`](../DEP-A-20260803-MMIR%20TCM%20Clinical/2607.01814-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support* | Lihui Luo; Joongwon Chae; Ziyan Chen; Yang Liu; Siyi Cheng; Weihan Gao; Zelin Zeng; Xiaoming Yin; Samaneh Beheshti Kashi; Dongmei Yu; Lian Zhang; Jing Sui; Zeming Liang; Jiansong Ji; Peter E. Lobie; Peiwu Qin | [arXiv:2607.01814v1](https://arxiv.org/abs/2607.01814v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01814) |
