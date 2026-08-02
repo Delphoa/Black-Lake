@@ -3921,6 +3921,29 @@
         "https://doi.org/10.48550/arXiv.2207.06366"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-Separate the Wheat from",
+        ".logs/20260802-Arxiv-Separate-the-Wheat-from-the-Chaff-Model-LOG.md",
+        ".reports/BL-Arxiv-Separate-the-Wheat-from-the-Chaff-Model-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.08090",
+      "arxiv_id": "2308.08090",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2308.08090",
+      "normalized_title": "Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P06; draw 63578 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Separate-the-Wheat-from-the-Chaff-Model",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.08090",
+        "https://arxiv.org/html/2308.08090",
+        "https://arxiv.org/pdf/2308.08090",
+        "https://doi.org/10.48550/arXiv.2308.08090"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
