@@ -2135,3 +2135,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics* | Liu, Zhu; Kong, Cunliang; Liu, Ying; Sun, Maosong | [arXiv:2403.01509](https://arxiv.org/abs/2403.01509) - [DOI](https://doi.org/10.48550/arXiv.2403.01509) |
+
+
+## [DEP-E-20260802-Boundary and](../DEP-E-20260802-Boundary%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation* | Wang, Shujun; Yu, Lequan; Li, Kang; Yang, Xin; Fu, Chi-Wing; Heng, Pheng-Ann | [arXiv:1906.11143](https://arxiv.org/abs/1906.11143) - [DOI](https://doi.org/10.48550/arXiv.1906.11143) |
