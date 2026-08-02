@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **454 publication reviews across 241 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-01; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **468 publication reviews across 242 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-02; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,25 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260802-Quantum Coordination](../DEP-E-20260802-Quantum%20Coordination/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning* | Fang, Lizhe; Shen, Weizhou; Tang, Tianyi; Wang, Yisen | [arXiv:2607.19345v1](https://arxiv.org/abs/2607.19345); [DOI](https://doi.org/10.48550/arXiv.2607.19345) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents* | He, Qijia; Cheng, Jiayi; Le, Chenqian; *et al.* | [arXiv:2607.19338v1](https://arxiv.org/abs/2607.19338); [DOI](https://doi.org/10.48550/arXiv.2607.19338) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface* | Sidot, Yohann | [arXiv:2607.19267v1](https://arxiv.org/abs/2607.19267); [DOI](https://doi.org/10.48550/arXiv.2607.19267) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Images* | Liao, Dankai; Zhang, Tianyi; Wu, Yufeng; *et al.* | [arXiv:2607.19261v2](https://arxiv.org/abs/2607.19261); [DOI](https://doi.org/10.48550/arXiv.2607.19261) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation* | Sun, Weifeng; Fan, Ye; Chen, Yuchen; *et al.* | [arXiv:2607.19104v1](https://arxiv.org/abs/2607.19104); [DOI](https://doi.org/10.48550/arXiv.2607.19104) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training* | Malik, Nuemaan | [arXiv:2607.19058v1](https://arxiv.org/abs/2607.19058); [DOI](https://doi.org/10.48550/arXiv.2607.19058) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *ATLAS: A Foundation Neural Sampler for Amorphous Materials* | Cheng, Mouyang; Blessing, Denis; Yu, Botao; *et al.* | [arXiv:2607.19198v1](https://arxiv.org/abs/2607.19198); [DOI](https://doi.org/10.48550/arXiv.2607.19198) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *PhoenixRepair: Rethinking Repair Strategy Exploration in Software Agents* | Jiang, Tianyue; Wang, Yanlin; He, Xin; *et al.* | [arXiv:2607.18859v1](https://arxiv.org/abs/2607.18859); [DOI](https://doi.org/10.48550/arXiv.2607.18859) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems* | Kasneci, Gjergji; Kasneci, Enkelejda | [arXiv:2607.19292v1](https://arxiv.org/abs/2607.19292); [DOI](https://doi.org/10.48550/arXiv.2607.19292) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Quantum Synchronization* | Solanki, Parvinder; Cabot, Albert; Iemini, Fernando; *et al.* | [arXiv:2607.19328v1](https://arxiv.org/abs/2607.19328); [DOI](https://doi.org/10.48550/arXiv.2607.19328) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Quantum Synchronization on the IBM Q System* | Koppenhöfer, Martin; Bruder, Christoph; Roulet, Alexandre | [arXiv:1910.12675v2](https://arxiv.org/abs/1910.12675); [DOI](https://doi.org/10.1103/PhysRevResearch.2.023026) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Observation of quantum phase synchronization in spin-1 atoms* | Laskar, Arif Warsi; Adhikary, Pratik; Mondal, Suprodip; Katiyar, Parag; Vinjanampathy, Sai; Ghosh, Saikat | [arXiv:1910.11832v4](https://arxiv.org/abs/1910.11832); [DOI](https://doi.org/10.1103/PhysRevLett.125.013601) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Observation of a continuous time crystal* | Kongkhambut, Phatthamon; Skulte, Jim; Mathey, Ludwig; Cosme, Jayson G.; Hemmerich, Andreas; Keßler, Hans | [arXiv:2202.06980v3](https://arxiv.org/abs/2202.06980); [DOI](https://doi.org/10.1126/science.abo3382) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
+| *Observation of synchronization between two quantum van der Pol oscillators in trapped ions* | Liu, Jiarui; Wu, Qiming; Moore, Joel E.; Haeffner, Hartmut; Wächtler, Christopher W. | [arXiv:2509.18423v2](https://arxiv.org/abs/2509.18423); [DOI](https://doi.org/10.1103/w1bm-wjl4) | [DEP-E](../DEP-E-20260802-Quantum%20Coordination/README.md) |
 
 ## [DEP-E-20260802-AOGM Mitosis](../DEP-E-20260802-AOGM%20Mitosis/README.md)
 
