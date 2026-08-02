@@ -5219,3 +5219,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support* | Lihui Luo; Joongwon Chae; Ziyan Chen; Yang Liu; Siyi Cheng; Weihan Gao; Zelin Zeng; Xiaoming Yin; Samaneh Beheshti Kashi; Dongmei Yu; Lian Zhang; Jing Sui; Zeming Liang; Jiansong Ji; Peter E. Lobie; Peiwu Qin | [arXiv:2607.01814v1](https://arxiv.org/abs/2607.01814v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01814) |
+
+
+## [DEP-A-20260803-Music Affect OSINT](../DEP-A-20260803-Music%20Affect%20OSINT/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.12517-whitepaper-review.md`](../DEP-A-20260803-Music%20Affect%20OSINT/2607.12517-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Open-Source Intelligence and Music Information Retrieval for Geographic Attribution of Musical Affect and the Ecological Limits of Population Inference* | Mohammadreza Rashidi | [arXiv:2607.12517v1](https://arxiv.org/abs/2607.12517v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12517) |
+
+
+## [DEP-A-20260803-Vinci2 Proactive Video](../DEP-A-20260803-Vinci2%20Proactive%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.11523-whitepaper-review.md`](../DEP-A-20260803-Vinci2%20Proactive%20Video/2607.11523-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos* | Gong Sitong; Tianyu Yan; Caixin Kang; Bo Zheng; Xiang Ruan; Huchuan Lu; Kaipeng Zhang; Yoichi Sato; Yifei Huang | [arXiv:2607.11523v1](https://arxiv.org/abs/2607.11523v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11523) |
+
+
+## [DEP-A-20260803-RouteRec Evaluation](../DEP-A-20260803-RouteRec%20Evaluation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.09908-whitepaper-review.md`](../DEP-A-20260803-RouteRec%20Evaluation/2607.09908-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation* | Kaiji Zhou; Vladimir Kalmykov; Yue Feng | [arXiv:2607.09908v1](https://arxiv.org/abs/2607.09908v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09908) |
+
+
+## [DEP-A-20260803-LongMedBench](../DEP-A-20260803-LongMedBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.09322-whitepaper-review.md`](../DEP-A-20260803-LongMedBench/2607.09322-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making* | Zihan Xu; Yanzhen Chen; Xiaocheng Zhang; Zhiting Fan; Weiqi Zhai; Hongxia Xu; Zuozhu Liu | [arXiv:2607.09322v2](https://arxiv.org/abs/2607.09322v2) - [DOI](https://doi.org/10.48550/arXiv.2607.09322) |
+
+
+## [DEP-A-20260803-VISTA Architect](../DEP-A-20260803-VISTA%20Architect/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.22692-whitepaper-review.md`](../DEP-A-20260803-VISTA%20Architect/2606.22692-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards* | Tuomo Kiiskinen; Jason Fries; Philip Adamson; David Wu; Timothy John Ellis-Caleo; Aaron Fanous; Balasubramanian Narasimhan; Joel Neal; Sylvia Plevritis; Manuel A. Rivas | [arXiv:2606.22692v1](https://arxiv.org/abs/2606.22692v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22692) |
