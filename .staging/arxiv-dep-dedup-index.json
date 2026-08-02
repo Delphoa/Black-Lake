@@ -2,6 +2,32 @@
   "entries": [
     {
       "artifact_paths": [
+        ".lake-data/DEP-E-20260802-Heartcare ECG",
+        ".lake-data/DEP-E-20260802-Heartcare ECG/README.md",
+        ".lake-data/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md",
+        ".logs/20260802-Arxiv-HeartcareGPT-ECG-LOG.md",
+        ".logs/20260802-Arxiv-HeartcareGPT-ECG-PHASE-LOG.md",
+        ".reports/BL-Arxiv-HeartcareGPT-ECG-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.05831",
+      "arxiv_id": "2506.05831v4",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2506.05831",
+      "normalized_title": "heartcaregpt: a unified multimodal ecg suite for dual signal-image modeling and understanding",
+      "notes": "Uniform draw index 19919 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
+      "slug": "HeartcareGPT-ECG",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.05831",
+        "https://arxiv.org/html/2506.05831",
+        "https://arxiv.org/pdf/2506.05831",
+        "https://doi.org/10.48550/arXiv.2506.05831",
+        "https://github.com/ZJU4HealthCare/HeartcareGPT"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E-20260708-ConMax Reasoning",
         ".logs/20260708-Arxiv-ConMax-LOG.md",
         ".reports/BL-Arxiv-ConMax-20260708/Report-Mark.md"
