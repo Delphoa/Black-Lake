@@ -5381,3 +5381,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Multilingual Averages: MTEB-PT, a Benchmark for Portuguese Sentence Encoders* | Lucas Hideki Takeuchi Okamura; Alexandre Alcoforado; Anna Helena Reali Costa | [arXiv:2607.04071v1](https://arxiv.org/abs/2607.04071v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04071) |
+
+
+## [DEP-A-20260803-Layer Specific RoPE](../DEP-A-20260803-Layer%20Specific%20RoPE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.27705-whitepaper-review.md`](../DEP-A-20260803-Layer%20Specific%20RoPE/2606.27705-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mitigating Position Bias in Transformers via Layer-Specific Positional Embedding Scaling* | Changze Lv; Zhenghua Wang; Yiran Ding; Yixin Wu; Tianlong Li; Zhibo Xu; Muling Wu; Tianyuan Shi; Shizheng Li; Qi Qian; Xuanjing Huang; Xiaoqing Zheng | [arXiv:2606.27705v1](https://arxiv.org/abs/2606.27705v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27705) |
+
+
+## [DEP-A-20260803-CoCo Embedding Loss](../DEP-A-20260803-CoCo%20Embedding%20Loss/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.12916-whitepaper-review.md`](../DEP-A-20260803-CoCo%20Embedding%20Loss/2607.12916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence* | Blanca Cano-Camarero; Ángela Fernández-Pascual; José R. Dorronsoro | [arXiv:2607.12916v1](https://arxiv.org/abs/2607.12916v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12916) |
+
+
+## [DEP-A-20260803-Label Free Region Score](../DEP-A-20260803-Label%20Free%20Region%20Score/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.13437-whitepaper-review.md`](../DEP-A-20260803-Label%20Free%20Region%20Score/2607.13437-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLIP-Guided Label-Free Discriminative Region Scoring for Fine-Grained Classification* | Yujie Zhu | [arXiv:2607.13437v1](https://arxiv.org/abs/2607.13437v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13437) |
+
+
+## [DEP-A-20260803-2D RoPE Scene Text](../DEP-A-20260803-2D%20RoPE%20Scene%20Text/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.13458-whitepaper-review.md`](../DEP-A-20260803-2D%20RoPE%20Scene%20Text/2607.13458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *2D Rotary Position Embedding for Scene Text Recognition with Transformers* | Zobeir Raisi | [arXiv:2607.13458v1](https://arxiv.org/abs/2607.13458v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13458) |
+
+
+## [DEP-A-20260803-Bioacoustic Active Learn](../DEP-A-20260803-Bioacoustic%20Active%20Learn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.13555-whitepaper-review.md`](../DEP-A-20260803-Bioacoustic%20Active%20Learn/2607.13555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Greedy Volume Maximization of Gradient Embeddings for Long-Tailed Frame-Level Bioacoustic Active Learning* | Shiqi Zhang; Marius Faiß; Ariana Strandburg-Peshkin; Tuomas Virtanen | [arXiv:2607.13555v1](https://arxiv.org/abs/2607.13555v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13555) |
