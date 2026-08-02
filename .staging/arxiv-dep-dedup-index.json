@@ -3944,6 +3944,29 @@
         "https://doi.org/10.48550/arXiv.2308.08090"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do",
+        ".logs/20260802-Arxiv-TL-DR-Too-Long-Do-Re-weighting-LOG.md",
+        ".reports/BL-Arxiv-TL-DR-Too-Long-Do-Re-weighting-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.02678",
+      "arxiv_id": "2506.02678",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2506.02678",
+      "normalized_title": "TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P07; draw 62424 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "TL-DR-Too-Long-Do-Re-weighting",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.02678",
+        "https://arxiv.org/html/2506.02678",
+        "https://arxiv.org/pdf/2506.02678",
+        "https://doi.org/10.48550/arXiv.2506.02678"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

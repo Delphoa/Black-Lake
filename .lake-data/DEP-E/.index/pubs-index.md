@@ -2121,3 +2121,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation* | Hu, Xinshuo; Li, Dongfang; Hu, Baotian; Zheng, Zihao; Liu, Zhenyu; Zhang, Min | [arXiv:2308.08090](https://arxiv.org/abs/2308.08090) - [DOI](https://doi.org/10.48550/arXiv.2308.08090) |
+
+
+## [DEP-E-20260802-TL DR Too Long Do](../DEP-E-20260802-TL%20DR%20Too%20Long%20Do/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression* | Li, Zhong-Zhi; Liang, Xiao; Tang, Zihao; Ji, Lei; Wang, Peijie; Xu, Haotian; W, Xing; Huang, Haizhen; Deng, Weiwei; Gong, Yeyun; Guo, Zhijiang; Liu, Xiao; Yin, Fei; Liu, Cheng-Lin | [arXiv:2506.02678](https://arxiv.org/abs/2506.02678) - [DOI](https://doi.org/10.48550/arXiv.2506.02678) |
