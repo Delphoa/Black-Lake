@@ -5471,3 +5471,21 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows* | Emanuele Quinto; Carlo Andrea Rozzi; Francesco Zanitti | [arXiv:2607.08740v1](https://arxiv.org/abs/2607.08740v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08740) |
+
+
+## [DEP-A-20260803-Directory Vector Search](../DEP-A-20260803-Directory%20Vector%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.16903-whitepaper-review.md`](../DEP-A-20260803-Directory%20Vector%20Search/2606.16903-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Directory-Aware Query and Maintenance in Vector Databases* | Mengzhao Wang; Zheng Gong; Jingpei Hu; Jiajie Fu; Maojia Sheng; Junwen Chen; Yifan Zhu | [arXiv:2606.16903v1](https://arxiv.org/abs/2606.16903v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16903) |
+
+
+## [DEP-A-20260803-Agentic Hallucination](../DEP-A-20260803-Agentic%20Hallucination/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2605.29055-whitepaper-review.md`](../DEP-A-20260803-Agentic%20Hallucination/2605.29055-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching* | Diego Gosmar; Deborah A. Dahl | [arXiv:2605.29055v1](https://arxiv.org/abs/2605.29055v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29055) |
