@@ -3967,6 +3967,29 @@
         "https://doi.org/10.48550/arXiv.2506.02678"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-Fantastic Semantics and",
+        ".logs/20260802-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-LOG.md",
+        ".reports/BL-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.01509",
+      "arxiv_id": "2403.01509",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2403.01509",
+      "normalized_title": "Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P08; draw 34789 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Fantastic-Semantics-and-Where-to-Find-Them",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.01509",
+        "https://arxiv.org/html/2403.01509",
+        "https://arxiv.org/pdf/2403.01509",
+        "https://doi.org/10.48550/arXiv.2403.01509"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -2128,3 +2128,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression* | Li, Zhong-Zhi; Liang, Xiao; Tang, Zihao; Ji, Lei; Wang, Peijie; Xu, Haotian; W, Xing; Huang, Haizhen; Deng, Weiwei; Gong, Yeyun; Guo, Zhijiang; Liu, Xiao; Yin, Fei; Liu, Cheng-Lin | [arXiv:2506.02678](https://arxiv.org/abs/2506.02678) - [DOI](https://doi.org/10.48550/arXiv.2506.02678) |
+
+
+## [DEP-E-20260802-Fantastic Semantics and](../DEP-E-20260802-Fantastic%20Semantics%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics* | Liu, Zhu; Kong, Cunliang; Liu, Ying; Sun, Maosong | [arXiv:2403.01509](https://arxiv.org/abs/2403.01509) - [DOI](https://doi.org/10.48550/arXiv.2403.01509) |
