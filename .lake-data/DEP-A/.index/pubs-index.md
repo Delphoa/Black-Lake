@@ -5264,3 +5264,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards* | Tuomo Kiiskinen; Jason Fries; Philip Adamson; David Wu; Timothy John Ellis-Caleo; Aaron Fanous; Balasubramanian Narasimhan; Joel Neal; Sylvia Plevritis; Manuel A. Rivas | [arXiv:2606.22692v1](https://arxiv.org/abs/2606.22692v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22692) |
+
+
+## [DEP-A-20260803-Curriculum Alignment](../DEP-A-20260803-Curriculum%20Alignment/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.19469-whitepaper-review.md`](../DEP-A-20260803-Curriculum%20Alignment/2606.19469-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023* | Sherzod Turaev; Mary John; Saja Aldabet; Mamoun Awad; Nazar Zaki; Khaled Shuaib | [arXiv:2606.19469v1](https://arxiv.org/abs/2606.19469v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19469) |
+
+
+## [DEP-A-20260803-GEO Critical Survey](../DEP-A-20260803-GEO%20Critical%20Survey/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.14035-whitepaper-review.md`](../DEP-A-20260803-GEO%20Critical%20Survey/2607.14035-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)* | Olivier Martinez | [arXiv:2607.14035v1](https://arxiv.org/abs/2607.14035v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14035) |
+
+
+## [DEP-A-20260803-TraceRetain Memory](../DEP-A-20260803-TraceRetain%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.29178-whitepaper-review.md`](../DEP-A-20260803-TraceRetain%20Memory/2606.29178-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selective Memory Retention for Long-Horizon LLM Agents* | Pranath Reddy | [arXiv:2606.29178v1](https://arxiv.org/abs/2606.29178v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29178) |
+
+
+## [DEP-A-20260803-Revelio Memory Safety](../DEP-A-20260803-Revelio%20Memory%20Safety/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.22263-whitepaper-review.md`](../DEP-A-20260803-Revelio%20Memory%20Safety/2606.22263-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection For Repository-Scale Codebases* | Yiwei Hou; Hao Wang; Muxi Lyu; Marius Momeu; Eric Nguyen; Taige Yang; Koushik Sen; Dawn Song; David Wagner | [arXiv:2606.22263v1](https://arxiv.org/abs/2606.22263v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22263) |
+
+
+## [DEP-A-20260803-EventVLA Visual Memory](../DEP-A-20260803-EventVLA%20Visual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.20092-whitepaper-review.md`](../DEP-A-20260803-EventVLA%20Visual%20Memory/2606.20092-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies* | Ganlin Yang; Zhangzheng Tu; Yuqiang Yang; Sitong Mao; Junyi Dong; Tianxing Chen; Jiaqi Peng; Jing Xiong; Jiafei Cao; Jifeng Dai; Wengang Zhou; Yao Mu; Tai Wang | [arXiv:2606.20092v2](https://arxiv.org/abs/2606.20092v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20092) |
