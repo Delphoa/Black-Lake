@@ -2107,3 +2107,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM* | Lan, Jiayin; Li, Jiaqi; Wang, Baoxin; Liu, Ming; Wu, Dayong; Wang, Shijin; Qin, Bing | [arXiv:2502.14192](https://arxiv.org/abs/2502.14192) - [DOI](https://doi.org/10.48550/arXiv.2502.14192) |
+
+
+## [DEP-E-20260802-N-Grammer Augmenting](../DEP-E-20260802-N-Grammer%20Augmenting/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *N-Grammer: Augmenting Transformers with latent n-grams* | Roy, Aurko; Anil, Rohan; Lai, Guangda; Lee, Benjamin; Zhao, Jeffrey; Zhang, Shuyuan; Wang, Shibo; Zhang, Ye; Wu, Shen; Swavely, Rigel; Tao; Yu; Dao, Phuong; Fifty, Christopher; Chen, Zhifeng; Wu, Yonghui | [arXiv:2207.06366](https://arxiv.org/abs/2207.06366) - [DOI](https://doi.org/10.48550/arXiv.2207.06366) |

@@ -3898,6 +3898,29 @@
         "https://doi.org/10.48550/arXiv.2502.14192"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-N-Grammer Augmenting",
+        ".logs/20260802-Arxiv-N-Grammer-Augmenting-Transformers-with-latent-n-LOG.md",
+        ".reports/BL-Arxiv-N-Grammer-Augmenting-Transformers-with-latent-n-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2207.06366",
+      "arxiv_id": "2207.06366",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2207.06366",
+      "normalized_title": "N-Grammer: Augmenting Transformers with latent n-grams",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P05; draw 36955 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "N-Grammer-Augmenting-Transformers-with-latent-n",
+      "source_urls": [
+        "https://arxiv.org/abs/2207.06366",
+        "https://arxiv.org/html/2207.06366",
+        "https://arxiv.org/pdf/2207.06366",
+        "https://doi.org/10.48550/arXiv.2207.06366"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
