@@ -2142,3 +2142,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation* | Wang, Shujun; Yu, Lequan; Li, Kang; Yang, Xin; Fu, Chi-Wing; Heng, Pheng-Ann | [arXiv:1906.11143](https://arxiv.org/abs/1906.11143) - [DOI](https://doi.org/10.48550/arXiv.1906.11143) |
+
+
+## [DEP-E-20260802-MeDSLIP Medical](../DEP-E-20260802-MeDSLIP%20Medical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment* | Fan, Wenrui; Suvon, Mohammod N. I.; Zhou, Shuo; Liu, Xianyuan; Alabed, Samer; Osmani, Venet; Swift, Andrew J.; Chen, Chen; Lu, Haiping | [arXiv:2403.10635](https://arxiv.org/abs/2403.10635) - [DOI](https://doi.org/10.48550/arXiv.2403.10635) |

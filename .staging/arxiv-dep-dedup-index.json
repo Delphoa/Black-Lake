@@ -4013,6 +4013,29 @@
         "https://doi.org/10.48550/arXiv.1906.11143"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical",
+        ".logs/20260802-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-LOG.md",
+        ".reports/BL-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.10635",
+      "arxiv_id": "2403.10635",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2403.10635",
+      "normalized_title": "MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P10; draw 55507 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "MeDSLIP-Medical-Dual-Stream-Language-Image-Pre",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.10635",
+        "https://arxiv.org/html/2403.10635",
+        "https://arxiv.org/pdf/2403.10635",
+        "https://doi.org/10.48550/arXiv.2403.10635"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
