@@ -5426,3 +5426,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Greedy Volume Maximization of Gradient Embeddings for Long-Tailed Frame-Level Bioacoustic Active Learning* | Shiqi Zhang; Marius Faiß; Ariana Strandburg-Peshkin; Tuomas Virtanen | [arXiv:2607.13555v1](https://arxiv.org/abs/2607.13555v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13555) |
+
+
+## [DEP-A-20260803-3D Vocal Tract Sync](../DEP-A-20260803-3D%20Vocal%20Tract%20Sync/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.11772-whitepaper-review.md`](../DEP-A-20260803-3D%20Vocal%20Tract%20Sync/2607.11772-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Synchronized Three-Dimensional Vocal-Tract Motion for Speech Synchronization via Joint-Embedding Predictive Architecture Alignment* | Sheng Li; Takahiro Shinozaki | [arXiv:2607.11772v1](https://arxiv.org/abs/2607.11772v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11772) |
+
+
+## [DEP-A-20260803-TabPFN Multimodal](../DEP-A-20260803-TabPFN%20Multimodal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.11007-whitepaper-review.md`](../DEP-A-20260803-TabPFN%20Multimodal/2607.11007-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TabPFN beyond Tabular Data: Calibration and Accuracy on Multimodal Embeddings* | Jingxiang Zhang; Lujia Zhong; Zijie Zhu; Shuo Huang; Yuang Xu | [arXiv:2607.11007v1](https://arxiv.org/abs/2607.11007v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11007) |
+
+
+## [DEP-A-20260803-Anysynth Instrument](../DEP-A-20260803-Anysynth%20Instrument/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.11143-whitepaper-review.md`](../DEP-A-20260803-Anysynth%20Instrument/2607.11143-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Anysynth:Zero-Shot Instrument Cloning via In-Context Learning and Asymmetric Hierarchical Guidance* | Chong Jing; Junan Zhang; Jing Yang; Yulun Wu; Fan Fan; Zhizheng Wu | [arXiv:2607.11143v1](https://arxiv.org/abs/2607.11143v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11143) |
+
+
+## [DEP-A-20260803-CoSAG Compression](../DEP-A-20260803-CoSAG%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.10237-whitepaper-review.md`](../DEP-A-20260803-CoSAG%20Compression/2607.10237-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoSAG: Compact Semantic Anchor Gaussians via Training-Free Rate-Distortion Coding* | Yuang Jia; Jinlong Wang; Junhong Lin; Ruiting Dai; Wei Gao | [arXiv:2607.10237v1](https://arxiv.org/abs/2607.10237v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10237) |
+
+
+## [DEP-A-20260803-Workflow Semantic State](../DEP-A-20260803-Workflow%20Semantic%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.08740-whitepaper-review.md`](../DEP-A-20260803-Workflow%20Semantic%20State/2607.08740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows* | Emanuele Quinto; Carlo Andrea Rozzi; Francesco Zanitti | [arXiv:2607.08740v1](https://arxiv.org/abs/2607.08740v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08740) |
