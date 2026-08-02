@@ -2100,3 +2100,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient LLM-based Advertising via Model Compression and Parallel Verification* | Dong, Wenxin; Gao, Chang; Yu, Guanghui; Jiao, Xuewu; Hu, Mingqing; Fu, Qiang; Xu, Peng; Wei, Penghui; Xu, Hui; Xing, Yue; Li, Shuanglong; Liu, Lin | [arXiv:2605.11582](https://arxiv.org/abs/2605.11582) - [DOI](https://doi.org/10.48550/arXiv.2605.11582) |
+
+
+## [DEP-E-20260802-NLP-AKG Few-Shot](../DEP-E-20260802-NLP-AKG%20Few-Shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM* | Lan, Jiayin; Li, Jiaqi; Wang, Baoxin; Liu, Ming; Wu, Dayong; Wang, Shijin; Qin, Bing | [arXiv:2502.14192](https://arxiv.org/abs/2502.14192) - [DOI](https://doi.org/10.48550/arXiv.2502.14192) |

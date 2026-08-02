@@ -3875,6 +3875,29 @@
         "https://doi.org/10.48550/arXiv.2605.11582"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-NLP-AKG Few-Shot",
+        ".logs/20260802-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-LOG.md",
+        ".reports/BL-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.14192",
+      "arxiv_id": "2502.14192",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2502.14192",
+      "normalized_title": "NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P04; draw 30672 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "NLP-AKG-Few-Shot-Construction-of-NLP",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.14192",
+        "https://arxiv.org/html/2502.14192",
+        "https://arxiv.org/pdf/2502.14192",
+        "https://doi.org/10.48550/arXiv.2502.14192"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
