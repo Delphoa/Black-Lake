@@ -17,7 +17,7 @@
 | Bounded source repair | 15-30 minutes | under 1 minute | complete | Public arXiv metadata/full HTML repair succeeded; source package was unavailable; zero partials. |
 | Cache preflight, lookup, and extraction | 2-10 minutes | about 1.4 seconds | complete | `missing-only` extraction used local repaired sources; no extraction-network fetch. |
 | Source-first review and related-entry synthesis | 30-60 minutes | not separately instrumented | complete | Full cached PDF/HTML text, live arXiv pages, official repository, and three related DEP records inspected. |
-| Artifact validation and submission | 15-30 minutes | under 1 minute for local validation | complete | Public-safe scans, schema checks, and allowlist review passed; repository submission and Slack notification are the remaining handoff records. |
+| Artifact validation and submission | 15-30 minutes | under 1 minute for local validation | complete | Public-safe scans, schema, and allowlist review passed; commit 9495e8278aa6d0ca3ed61ee22cf4e896f4210f4b pushed to main; Slack notification follows. |
 
 ## Extraction Cache
 
@@ -34,7 +34,7 @@
 - Pre-write status: no matching public pointer entry, log, report, DEP-E artifact, automation-memory marker, or same-paper marker within 24 hours.
 - Reselection status: not required; first draw accepted.
 - Metadata-only matches: author-inventory rows in Black-Lake and Black-Lake-Data only; no research deposit marker.
-- Post-write status: one unique pointer entry is prepared for arXiv:2506.05831v4; repository reference is recorded after submission.
+- Post-write status: one unique deposited pointer entry for arXiv:2506.05831v4; commit reference: https://github.com/Delphoa/Black-Lake/commit/9495e8278aa6d0ca3ed61ee22cf4e896f4210f4b.
 
 ## Expected vs Observed Trajectory
 
