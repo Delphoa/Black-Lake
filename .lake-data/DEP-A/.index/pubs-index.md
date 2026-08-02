@@ -5336,3 +5336,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents* | Xing Fu; Yulin Hu; Mengtong Ji; Haozhen Li; Yixin Sun; Weixiang Zhao; Yanyan Zhao; Bing Qin | [arXiv:2605.27240v1](https://arxiv.org/abs/2605.27240v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27240) |
+
+
+## [DEP-A-20260803-MAGE Prompt Stability](../DEP-A-20260803-MAGE%20Prompt%20Stability/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.11944-whitepaper-review.md`](../DEP-A-20260803-MAGE%20Prompt%20Stability/2607.11944-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAGE: Understanding Stability-Performance Trade-offs in Multi-component Prompt Optimization* | Prateek Singh | [arXiv:2607.11944v1](https://arxiv.org/abs/2607.11944v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11944) |
+
+
+## [DEP-A-20260803-HiMe Embodied Memory](../DEP-A-20260803-HiMe%20Embodied%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.03449-whitepaper-review.md`](../DEP-A-20260803-HiMe%20Embodied%20Memory/2607.03449-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control* | Li Ji; Siyin Wang; Pengfang Qian; Xiaopeng Yu; Yihai Tian; Zhaoye Fei; Jingjing Gong; Xipeng Qiu | [arXiv:2607.03449v1](https://arxiv.org/abs/2607.03449v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03449) |
+
+
+## [DEP-A-20260803-Robot Memory Interference](../DEP-A-20260803-Robot%20Memory%20Interference/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2606.22338-whitepaper-review.md`](../DEP-A-20260803-Robot%20Memory%20Interference/2606.22338-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Benchmarking Robot Memory Under Interference* | Soumil Rathi | [arXiv:2606.22338v1](https://arxiv.org/abs/2606.22338v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22338) |
+
+
+## [DEP-A-20260803-Audio Negation Embedding](../DEP-A-20260803-Audio%20Negation%20Embedding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.12290-whitepaper-review.md`](../DEP-A-20260803-Audio%20Negation%20Embedding/2607.12290-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Sound of Absence: Audio-Language Embedding Models Struggle with Negation* | Chun-Yi Kuan; Hung-yi Lee | [arXiv:2607.12290v1](https://arxiv.org/abs/2607.12290v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12290) |
+
+
+## [DEP-A-20260803-MTEB PT Encoders](../DEP-A-20260803-MTEB%20PT%20Encoders/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-03. The owning review artifact is [`2607.04071-whitepaper-review.md`](../DEP-A-20260803-MTEB%20PT%20Encoders/2607.04071-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Multilingual Averages: MTEB-PT, a Benchmark for Portuguese Sentence Encoders* | Lucas Hideki Takeuchi Okamura; Alexandre Alcoforado; Anna Helena Reali Costa | [arXiv:2607.04071v1](https://arxiv.org/abs/2607.04071v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04071) |
