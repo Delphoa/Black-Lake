@@ -4177,6 +4177,29 @@
         "https://doi.org/10.48550/arXiv.2105.15078"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Empirical Study on",
+        ".logs/20260803-Arxiv-Empirical-Study-on-Robustness-and-Resilience-in-LOG.md",
+        ".reports/BL-Arxiv-Empirical-Study-on-Robustness-and-Resilience-in-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.11824",
+      "arxiv_id": "2510.11824",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2510.11824",
+      "normalized_title": "Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P06; draw 42226 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Empirical-Study-on-Robustness-and-Resilience-in",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.11824",
+        "https://arxiv.org/html/2510.11824",
+        "https://arxiv.org/pdf/2510.11824",
+        "https://doi.org/10.48550/arXiv.2510.11824"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

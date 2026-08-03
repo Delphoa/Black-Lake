@@ -2230,3 +2230,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can Attention Enable MLPs To Catch Up With CNNs?* | Guo, Meng-Hao; Liu, Zheng-Ning; Mu, Tai-Jiang; Liang, Dun; Martin, Ralph R.; Hu, Shi-Min | [arXiv:2105.15078](https://arxiv.org/abs/2105.15078) - [DOI](https://doi.org/10.48550/arXiv.2105.15078) |
+
+
+## [DEP-E-20260803-Empirical Study on](../DEP-E-20260803-Empirical%20Study%20on/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning* | Li, Simin; Mao, Zihao; Li, Hanxiao; Jing, Zonglei; bian, Zhuohang; Guo, Jun; Wang, Li; Han, Zhuoran; Xu, Ruixiao; Yu, Xin; Ma, Chengdong; Ma, Yuqing; An, Bo; Yang, Yaodong; Lv, Weifeng; Liu, Xianglong | [arXiv:2510.11824](https://arxiv.org/abs/2510.11824) - [DOI](https://doi.org/10.48550/arXiv.2510.11824) |
