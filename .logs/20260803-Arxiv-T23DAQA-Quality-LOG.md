@@ -59,7 +59,9 @@
 
 ## Final Status
 
-- Public-safe artifacts: ready for allowlist validation and repository submission.
+- Public-safe artifacts: committed and pushed to `Delphoa/Black-Lake` main.
 - Source files collected: retained locally only; no `.source/` directory created.
-- Slack: pending repository commit/PR link, then notification to `#black-lake-artifacts`.
+- Primary commit: https://github.com/Delphoa/Black-Lake/commit/79ec6c3fddc625dc7ec947d51402759ef194e127
+- Final dedup-pointer commit: https://github.com/Delphoa/Black-Lake/commit/c89617c520a937fa0a51347690951e5b47cca17c
+- Slack: notified `#black-lake-artifacts`; message https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1785737947967279 and correction https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1785737959945039.
 - Blockers: none at this stage; independent reproduction and source-package access remain research shortfalls.

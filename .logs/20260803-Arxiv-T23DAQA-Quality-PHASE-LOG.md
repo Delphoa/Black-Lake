@@ -8,7 +8,7 @@
 - Job type: recurring source-first Arxiv DEP with document extraction/cache acceleration.
 - Overall elapsed time: approximately `55 minutes` using rounded manual phase timing; exact local execution time withheld.
 - Whole-job expected range: `90-120 minutes` for one source-first paper review; this run completed below the range without truncating source inspection.
-- Result: source gate passed, cache became `cached`, public artifacts drafted, and submission validation pending.
+- Result: source gate passed, cache became `cached`, public artifacts were validated, committed, pushed, and announced in Slack.
 
 ## Phase Metrics
 
@@ -21,7 +21,7 @@
 | Source review | 45-70 min | ~18 min, rounded manual timing | PDF, full HTML, metadata, official repository README/license, and method/results sections reviewed. |
 | Related DEP exploration | 10-20 min | ~4 min, rounded manual timing | Exactly three concrete overlap entries inspected. |
 | Artifact drafting | 15-25 min | ~20 min, rounded manual timing | Log, phase log, Report-Mark, DEP README, and manuscript drafted. |
-| Validation and submission | 10-25 min | pending at phase-log creation | Public-safe scans, staged allowlist, commit/push, and Slack notification follow. |
+| Validation and submission | 10-25 min | ~8 min, rounded manual timing | Public-safe scan, six-file allowlist, two direct main commits, remote push, and Slack notification completed. |
 
 ## Extraction Cache
 
@@ -36,13 +36,13 @@
 ## Dedup Index Update
 
 - Index path: `.staging/arxiv-dep-dedup-index.json`
-- Entry status: pending final commit/PR reference; unique candidate accepted before synthesis.
+- Entry status: `deposited`; unique candidate accepted before synthesis and final commit reference recorded.
 - Matching keys checked: `arXiv:2502.16915v1`, base ID `2502.16915`, DOI `10.48550/arXiv.2502.16915`, normalized title, slug `T23DAQA-Quality`, public artifact paths, automation memory, and 24-hour markers.
 - Artifact paths recorded: `.logs/20260803-Arxiv-T23DAQA-Quality-LOG.md`; `.logs/20260803-Arxiv-T23DAQA-Quality-PHASE-LOG.md`; `.reports/BL-Arxiv-T23DAQA-Quality-20260803/Report-Mark.md`; `.lake-data/DEP-E-20260803-T23DAQA Quality`; `.lake-data/DEP-E-20260803-T23DAQA Quality/README.md`; `.lake-data/DEP-E-20260803-T23DAQA Quality/t23daqa_quality_manuscript.md`.
 
 ## Expected vs Observed Trajectory
 
-The run followed the required order: enumerate and draw, deduplicate, stop at the incomplete-source gate, repair locally with bounded transfer, verify the complete paper, extract to the central cache, inspect primary and related evidence, and draft only derived public-safe artifacts. The source repair and extraction phases were much faster than the whole-job guidance because a valid PDF already existed and official HTML retrieval succeeded in one bounded attempt. The source-first review was not shortened because the phase estimate was exceeded; its duration is rounded manual timing rather than an exact timestamp.
+The run followed the required order: enumerate and draw, deduplicate, stop at the incomplete-source gate, repair locally with bounded transfer, verify the complete paper, extract to the central cache, inspect primary and related evidence, and draft only derived public-safe artifacts. The source repair and extraction phases were much faster than the whole-job guidance because a valid PDF already existed and official HTML retrieval succeeded in one bounded attempt. The source-first review was not shortened because the phase estimate was exceeded; its duration is rounded manual timing rather than an exact timestamp. The six-file public allowlist passed, the primary artifact commit and final dedup-pointer commit were pushed to `main`, and the Slack notification plus correction were sent.
 
 ## Shortfalls and Follow-Up
 
