@@ -5534,3 +5534,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SPORT: Structure-Aware Prototype Disentanglement for Incomplete Multi-View Clustering* | Yaoyuan Guo; Zhibin Gu; Songhe Feng; Yuhui Zheng; Bing Li | [arXiv:2607.10413v1](https://arxiv.org/abs/2607.10413v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10413) |
+
+
+## [DEP-A-20260804-SESAD Video Anomaly](../DEP-A-20260804-SESAD%20Video%20Anomaly/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10298-whitepaper-review.md`](../DEP-A-20260804-SESAD%20Video%20Anomaly/2607.10298-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Evidence Selection for Weakly Supervised Video Anomaly Detection* | Chenglizhao Chen; Tianxiang Nan; Wen Li; Xinyu Liu; Guisheng Zhang; Mengke Song; Xiaomin Yu | [arXiv:2607.10298v1](https://arxiv.org/abs/2607.10298v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10298) |
+
+
+## [DEP-A-20260804-Teco CNN Pruning](../DEP-A-20260804-Teco%20CNN%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.11473-whitepaper-review.md`](../DEP-A-20260804-Teco%20CNN%20Pruning/2607.11473-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning* | Hao Kong; Di Liu; Xiangzhong Luo; Shuo Huai; Ravi Subramaniam; Christian Makaya; Qian Lin; Weichen Liu | [arXiv:2607.11473v1](https://arxiv.org/abs/2607.11473v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11473) |
+
+
+## [DEP-A-20260804-Associative LLM Memory](../DEP-A-20260804-Associative%20LLM%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.11614-whitepaper-review.md`](../DEP-A-20260804-Associative%20LLM%20Memory/2607.11614-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Extending LLM Context via Associative Recurrent Memory* | Gleb Kuzmin; Ivan Rodkin; Aydar Bulatov; Yuri Kuratov; Lyudmila Rvanova; Mikhail Katkov; Ilia Sochenkov; Misha Tsodyks; Timothy Baldwin; Mikhail Burtsev; Artem Shelmanov | [arXiv:2607.11614v1](https://arxiv.org/abs/2607.11614v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11614) |
+
+
+## [DEP-A-20260804-SynthDocBench](../DEP-A-20260804-SynthDocBench/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10400-whitepaper-review.md`](../DEP-A-20260804-SynthDocBench/2607.10400-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding* | Abhigya Verma; Khyati Mahajan; Amit Kumar Saha; Shruthan Radhakrishna; Sagar Davasam; Vikas Yadav; Sai Rajeswar Mudumba | [arXiv:2607.10400v1](https://arxiv.org/abs/2607.10400v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10400) |
+
+
+## [DEP-A-20260804-PACR Video Routing](../DEP-A-20260804-PACR%20Video%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.06481-whitepaper-review.md`](../DEP-A-20260804-PACR%20Video%20Routing/2607.06481-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation* | Anna Córdoba; Adam Puente Tercero; Nerea Angulo Hijo; Mar Linares Tercero; Julia Barrientos; Ainhoa Miranda; Jesús Olivera | [arXiv:2607.06481v1](https://arxiv.org/abs/2607.06481v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06481) |
