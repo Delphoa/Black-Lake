@@ -21,7 +21,7 @@
 | Source review | 45-70 min | ~18 min, rounded manual timing | PDF, full HTML, metadata, official repository README/license, and method/results sections reviewed. |
 | Related DEP exploration | 10-20 min | ~4 min, rounded manual timing | Exactly three concrete overlap entries inspected. |
 | Artifact drafting | 15-25 min | ~20 min, rounded manual timing | Log, phase log, Report-Mark, DEP README, and manuscript drafted. |
-| Validation and submission | 10-25 min | ~8 min, rounded manual timing | Public-safe scan, six-file allowlist, two direct main commits, remote push, and Slack notification completed. |
+| Validation and submission | 10-25 min | ~8 min, rounded manual timing | Public-safe scan, six-file allowlist, three direct main commits, remote push, and Slack notification completed. |
 
 ## Extraction Cache
 
