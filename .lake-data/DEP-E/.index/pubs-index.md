@@ -2202,3 +2202,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One-shot neural band selection for spectral recovery* | Hu, Hai-Miao; Xu, Zhenbo; Xu, Wenshuai; Song, You; Zhang, YiTao; Liu, Liu; Han, Zhilin; Meng, Ajin | [arXiv:2305.09236](https://arxiv.org/abs/2305.09236) - [DOI](https://doi.org/10.48550/arXiv.2305.09236) |
+
+
+## [DEP-E-20260803-Failure Cases Are Better](../DEP-E-20260803-Failure%20Cases%20Are%20Better/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training* | Wang, Yanyun; Liu, Li | [arXiv:2508.02186](https://arxiv.org/abs/2508.02186) - [DOI](https://doi.org/10.48550/arXiv.2508.02186) |
