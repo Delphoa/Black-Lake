@@ -2223,3 +2223,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Interaction Measures, Partition Lattices and Kernel Tests for High-Order Interactions* | Liu, Zhaolu; Peach, Robert L.; Mediano, Pedro A. M.; Barahona, Mauricio | [arXiv:2306.00904](https://arxiv.org/abs/2306.00904) - [DOI](https://doi.org/10.48550/arXiv.2306.00904) |
+
+
+## [DEP-E-20260803-Can Attention Enable MLPs](../DEP-E-20260803-Can%20Attention%20Enable%20MLPs/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Attention Enable MLPs To Catch Up With CNNs?* | Guo, Meng-Hao; Liu, Zheng-Ning; Mu, Tai-Jiang; Liang, Dun; Martin, Ralph R.; Hu, Shi-Min | [arXiv:2105.15078](https://arxiv.org/abs/2105.15078) - [DOI](https://doi.org/10.48550/arXiv.2105.15078) |
