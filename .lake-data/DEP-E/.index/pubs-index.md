@@ -2244,3 +2244,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Texturing and Deforming Meshes with Casual Images* | Shen, I-Chao; Wang, Yi-Hau; Chen, Yu-Mei; Chen, Bing-Yu | [arXiv:1809.03144](https://arxiv.org/abs/1809.03144) - [DOI](https://doi.org/10.48550/arXiv.1809.03144) |
+
+
+## [DEP-E-20260803-Extended to Reality](../DEP-E-20260803-Extended%20to%20Reality/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Extended to Reality: Prompt Injection in 3D Environments* | Li, Zhuoheng; Chen, Ying | [arXiv:2602.07104](https://arxiv.org/abs/2602.07104) - [DOI](https://doi.org/10.48550/arXiv.2602.07104) |
