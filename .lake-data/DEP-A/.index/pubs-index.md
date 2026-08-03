@@ -5651,3 +5651,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation* | Wuyang Luan; Junhui Li; Weiguang Zhao; Wenjian Zhang; Tieru Wu; Rui Ma | [arXiv:2604.05656v1](https://arxiv.org/abs/2604.05656v1) - [DOI](https://doi.org/10.48550/arXiv.2604.05656) |
+
+
+## [DEP-A-20260804-Q BridgeNet SLT](../DEP-A-20260804-Q%20BridgeNet%20SLT/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.11215-whitepaper-review.md`](../DEP-A-20260804-Q%20BridgeNet%20SLT/2607.11215-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Q-BridgeNet: A Quantization Network for Cross-Lingual Sign Language Translation* | Liqian Feng; Lintao Wang; Xiaochen Liu; Anusha Withana; Ken-Tye Yong; Dehui Kong; Zhiyong Wang; Kun Hu | [arXiv:2607.11215v1](https://arxiv.org/abs/2607.11215v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11215) |
+
+
+## [DEP-A-20260804-Modality Gap xNCE](../DEP-A-20260804-Modality%20Gap%20xNCE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10698-whitepaper-review.md`](../DEP-A-20260804-Modality%20Gap%20xNCE/2607.10698-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the modality gap and the contrastive loss in multi-modal representation learning* | Fabian Mager; Hiba Nassar; Lars Kai Hansen | [arXiv:2607.10698v1](https://arxiv.org/abs/2607.10698v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10698) |
+
+
+## [DEP-A-20260804-ARIMA Music Latents](../DEP-A-20260804-ARIMA%20Music%20Latents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10003-whitepaper-review.md`](../DEP-A-20260804-ARIMA%20Music%20Latents/2607.10003-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ARIMA: Reconstruction-Grounded Predictive Representation Learning for Symbolic Music* | Mingyang Yao; Zhaoxiang Feng | [arXiv:2607.10003v1](https://arxiv.org/abs/2607.10003v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10003) |
+
+
+## [DEP-A-20260804-Embedding Retrieval Scale](../DEP-A-20260804-Embedding%20Retrieval%20Scale/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10096-whitepaper-review.md`](../DEP-A-20260804-Embedding%20Retrieval%20Scale/2607.10096-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling and Stabilizing Large-Scale Embedding-Based Retrieval* | Zhen Yang; Juexin Lin; Hongwei Shang; Kaihao Li; Feng Liu; Satya Chembolu; Xunfan Cai; Xinyi Liu; Cun Mu; Tony Lee; Ciya Liao | [arXiv:2607.10096v1](https://arxiv.org/abs/2607.10096v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10096) |
+
+
+## [DEP-A-20260804-Heavy Tail Matrix](../DEP-A-20260804-Heavy%20Tail%20Matrix/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.08671-whitepaper-review.md`](../DEP-A-20260804-Heavy%20Tail%20Matrix/2607.08671-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-Rank Matrix Recovery via Heavy-Tailed Quadratic Sampling* | Gao Huang; Song Li | [arXiv:2607.08671v1](https://arxiv.org/abs/2607.08671v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08671) |
