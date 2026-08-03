@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **483 publication reviews across 248 DEP-E entries**.
+- Current coverage: **493 publication reviews across 249 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-03; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260804-Agent Systems](../DEP-E-20260804-Agent%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation* | Mohammad Allahbakhsh; Mohammad Hassan Bahari; Moslem Attar-Raouf | [arXiv:2607.14006v1](https://arxiv.org/abs/2607.14006v1); [DOI](https://doi.org/10.48550/arXiv.2607.14006) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *CAVA: Canonical Action Verification and Attestation for Runtime Governance of Agentic AI Systems* | Zexun Wang | [arXiv:2607.13716v1](https://arxiv.org/abs/2607.13716v1); [DOI](https://doi.org/10.48550/arXiv.2607.13716) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities* | Kai Chen; Zichen Ding; Jiaye Ge; *et al.* | [arXiv:2607.13705v1](https://arxiv.org/abs/2607.13705v1); [DOI](https://doi.org/10.48550/arXiv.2607.13705) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0* | Wenxiao Wang; Priyatham Kattakinda; Soheil Feizi | [arXiv:2607.14004v1](https://arxiv.org/abs/2607.14004v1); [DOI](https://doi.org/10.48550/arXiv.2607.14004) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Experience Memory Graph: One-Shot Error Correction for Agents* | Wenjun Wang; Yuchen Fang; Fengrui Liu; *et al.* | [arXiv:2607.13884v1](https://arxiv.org/abs/2607.13884v1); [DOI](https://doi.org/10.48550/arXiv.2607.13884) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *A Self-Evolving Agent for Longitudinal Personal Health Management* | Haoran Li; Jiebi Deng; Tong Jin; *et al.* | [arXiv:2607.13940v1](https://arxiv.org/abs/2607.13940v1); [DOI](https://doi.org/10.48550/arXiv.2607.13940) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System* | David Krongauz; Arad Zulti; Eran Segal; Teddy Lazebnik | [arXiv:2607.13608v1](https://arxiv.org/abs/2607.13608v1); [DOI](https://doi.org/10.48550/arXiv.2607.13608) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science* | Sutanay Choudhury; Jeffrey J. Czajka; Lummy M. O. Monteiro; *et al.* | [arXiv:2607.13220v1](https://arxiv.org/abs/2607.13220v1); [DOI](https://doi.org/10.48550/arXiv.2607.13220) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code* | Niels Mündler-Sasahara; Hristo Venev; Dawn Song; *et al.* | [arXiv:2607.13921v1](https://arxiv.org/abs/2607.13921v1); [DOI](https://doi.org/10.48550/arXiv.2607.13921) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
+| *Wireless millikelvin interconnects for superconducting quantum hardware* | Kristopher Barr; Mingyan Zhong; Euan Parry; *et al.* | [arXiv:2607.13834v1](https://arxiv.org/abs/2607.13834v1); [DOI](https://doi.org/10.48550/arXiv.2607.13834) | [DEP-E](../DEP-E-20260804-Agent%20Systems/README.md) |
 
 ## [DEP-E-20260803-SADD RNB](../DEP-E-20260803-SADD%20RNB/README.md)
 
