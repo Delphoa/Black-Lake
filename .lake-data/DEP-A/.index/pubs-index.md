@@ -5741,3 +5741,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation* | Shayan Talaei; Abhinav Chinta; Devvrit Khatri; Amin Karbasi; Azalia Mirhoseini; Amin Saberi | [arXiv:2607.01208v1](https://arxiv.org/abs/2607.01208v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01208) |
+
+
+## [DEP-A-20260804-FlashMorph Attention](../DEP-A-20260804-FlashMorph%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.30562-whitepaper-review.md`](../DEP-A-20260804-FlashMorph%20Attention/2606.30562-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Morphing into Hybrid Attention Models* | Disen Lan; Jianbin Zheng; Yuxi Ren; Xin Xia; Xuanda Wang; Xuefeng Xiao; Xipeng Qiu; Yu Cheng | [arXiv:2606.30562v1](https://arxiv.org/abs/2606.30562v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30562) |
+
+
+## [DEP-A-20260804-MATCH Long Context](../DEP-A-20260804-MATCH%20Long%20Context/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.29844-whitepaper-review.md`](../DEP-A-20260804-MATCH%20Long%20Context/2606.29844-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MATCH: Modulating Attention via In-Context Retrieval for Long-Context Transformers* | Linrui Ma; Chun Hei Lo; Xinyu Wang; Peng Lu; Xihao Yuan; Hanting Chen; Kai Han; Xinghao Chen; Chengjun Zhan; Hanlin Xu; Yichun Yin; Lifeng Shang; Feng Wen; Boxing Chen; Yufei Cui | [arXiv:2606.29844v1](https://arxiv.org/abs/2606.29844v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29844) |
+
+
+## [DEP-A-20260804-KernelFlume Serving](../DEP-A-20260804-KernelFlume%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.29207-whitepaper-review.md`](../DEP-A-20260804-KernelFlume%20Serving/2606.29207-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding* | Guangyu Xiang; Xueze Kang; Lin Zhang; Wenxiang Lin; Shaohuai Shi; Yuxin Wang; Xiaowen Chu | [arXiv:2606.29207v1](https://arxiv.org/abs/2606.29207v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29207) |
+
+
+## [DEP-A-20260804-Turn Averaged SAEs](../DEP-A-20260804-Turn%20Averaged%20SAEs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.28548-whitepaper-review.md`](../DEP-A-20260804-Turn%20Averaged%20SAEs/2606.28548-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Turn-Averaged SAEs for Feature Discovery and Long-Context Attribution* | Kevin Der; Harish Kamath; Ben Thompson | [arXiv:2606.28548v1](https://arxiv.org/abs/2606.28548v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28548) |
+
+
+## [DEP-A-20260804-Managed Context Memory](../DEP-A-20260804-Managed%20Context%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.28876-whitepaper-review.md`](../DEP-A-20260804-Managed%20Context%20Memory/2606.28876-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory-Managed Long-Context Attention: Bounded Editable Memory with a Hard Lifecycle and Calibrated Sparse Fallback* | Junyi Zou; Avrova Donz | [arXiv:2606.28876v2](https://arxiv.org/abs/2606.28876v2) - [DOI](https://doi.org/10.48550/arXiv.2606.28876) |
