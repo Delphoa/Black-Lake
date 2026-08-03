@@ -2,32 +2,6 @@
   "entries": [
     {
       "artifact_paths": [
-        ".lake-data/DEP-E-20260802-Heartcare ECG",
-        ".lake-data/DEP-E-20260802-Heartcare ECG/README.md",
-        ".lake-data/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md",
-        ".logs/20260802-Arxiv-HeartcareGPT-ECG-LOG.md",
-        ".logs/20260802-Arxiv-HeartcareGPT-ECG-PHASE-LOG.md",
-        ".reports/BL-Arxiv-HeartcareGPT-ECG-20260802/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2506.05831",
-      "arxiv_id": "2506.05831v4",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/9495e8278aa6d0ca3ed61ee22cf4e896f4210f4b",
-      "deposit_date": "20260802",
-      "doi": "10.48550/arXiv.2506.05831",
-      "normalized_title": "heartcaregpt: a unified multimodal ecg suite for dual signal-image modeling and understanding",
-      "notes": "Uniform draw index 19919 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
-      "slug": "HeartcareGPT-ECG",
-      "source_urls": [
-        "https://arxiv.org/abs/2506.05831",
-        "https://arxiv.org/html/2506.05831",
-        "https://arxiv.org/pdf/2506.05831",
-        "https://doi.org/10.48550/arXiv.2506.05831",
-        "https://github.com/ZJU4HealthCare/HeartcareGPT"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
         ".lake-data/DEP-E-20260708-ConMax Reasoning",
         ".logs/20260708-Arxiv-ConMax-LOG.md",
         ".reports/BL-Arxiv-ConMax-20260708/Report-Mark.md"
@@ -3554,49 +3528,24 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning",
-        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning/sd_search_reasoning_manuscript.md",
-        ".logs/20260801-Arxiv-SD-Search-LOG.md",
-        ".logs/20260801-Arxiv-SD-Search-PHASE-LOG.md",
-        ".reports/BL-Arxiv-SD-Search-20260801/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2605.18299",
-      "arxiv_id": "2605.18299v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/1b462206e4f1788215ea1c2de6ac2835559af797",
-      "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2605.18299",
-      "normalized_title": "SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning",
-      "notes": "Uniform first-draw acceptance; source unit repaired to complete before review; local missing-only cache is cached; source files withheld locally; commit reference added after remote submission.",
-      "slug": "SD-Search",
-      "source_urls": [
-        "https://arxiv.org/abs/2605.18299",
-        "https://arxiv.org/e-print/2605.18299",
-        "https://arxiv.org/html/2605.18299",
-        "https://arxiv.org/pdf/2605.18299",
-        "https://doi.org/10.48550/arXiv.2605.18299"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260801-RLET Reinforcement",
-        ".logs/20260801-Arxiv-RLET-A-Reinforcement-Learning-Based-Approach-for-Explainab-LOG.md",
-        ".reports/BL-Arxiv-RLET-A-Reinforcement-Learning-Based-Approach-for-Exp-20260801/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial",
+        ".logs/20260801-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to-LOG.md",
+        ".reports/BL-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learn-20260801/Report-Mark.md"
       ],
-      "arxiv_base_id": "2210.17095",
-      "arxiv_id": "2210.17095",
+      "arxiv_base_id": "2509.18521",
+      "arxiv_id": "2509.18521",
       "commit_or_pr": "",
       "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2210.17095",
-      "normalized_title": "RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees",
-      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P01; draw 13787 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "RLET-A-Reinforcement-Learning-Based-Approach-for-Explainab",
+      "doi": "10.48550/arXiv.2509.18521",
+      "normalized_title": "APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P10; draw 37526 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to",
       "source_urls": [
-        "https://arxiv.org/abs/2210.17095",
-        "https://ar5iv.labs.arxiv.org/html/2210.17095",
-        "https://arxiv.org/pdf/2210.17095",
-        "https://doi.org/10.48550/arXiv.2210.17095"
+        "https://arxiv.org/abs/2509.18521",
+        "https://arxiv.org/html/2509.18521",
+        "https://arxiv.org/pdf/2509.18521",
+        "https://doi.org/10.48550/arXiv.2509.18521"
       ],
       "status": "deposited"
     },
@@ -3626,52 +3575,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260801-Relational Contrastive",
-        ".logs/20260801-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Modeling-LOG.md",
-        ".reports/BL-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Mod-20260801/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2411.11219",
-      "arxiv_id": "2411.11219",
-      "commit_or_pr": "",
-      "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2411.11219",
-      "normalized_title": "Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition",
-      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P03; draw 24396 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Relational-Contrastive-Learning-and-Masked-Image-Modeling",
-      "source_urls": [
-        "https://arxiv.org/abs/2411.11219",
-        "https://arxiv.org/html/2411.11219",
-        "https://arxiv.org/pdf/2411.11219",
-        "https://doi.org/10.48550/arXiv.2411.11219"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260801-Large-Scale",
-        ".logs/20260801-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-Algor-LOG.md",
-        ".reports/BL-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-20260801/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2105.15076",
-      "arxiv_id": "2105.15076",
-      "commit_or_pr": "",
-      "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2105.15076",
-      "normalized_title": "Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark",
-      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P04; draw 8974 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Large-Scale-Spatio-Temporal-Person-Re-identification-Algor",
-      "source_urls": [
-        "https://arxiv.org/abs/2105.15076",
-        "https://ar5iv.labs.arxiv.org/html/2105.15076",
-        "https://arxiv.org/pdf/2105.15076",
-        "https://doi.org/10.48550/arXiv.2105.15076"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260801-GQA- mu P maximal",
         ".logs/20260801-Arxiv-GQA-mu-P-The-maximal-parameterization-update-for-grouped-q-LOG.md",
         ".reports/BL-Arxiv-GQA-mu-P-The-maximal-parameterization-update-for-gro-20260801/Report-Mark.md"
@@ -3689,29 +3592,6 @@
         "https://arxiv.org/html/2605.15290",
         "https://arxiv.org/pdf/2605.15290",
         "https://doi.org/10.48550/arXiv.2605.15290"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260801-On Mechanism Underlying",
-        ".logs/20260801-Arxiv-On-Mechanism-Underlying-Algorithmic-Collusion-LOG.md",
-        ".reports/BL-Arxiv-On-Mechanism-Underlying-Algorithmic-Collusion-20260801/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2409.01147",
-      "arxiv_id": "2409.01147",
-      "commit_or_pr": "",
-      "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2409.01147",
-      "normalized_title": "On Mechanism Underlying Algorithmic Collusion",
-      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P06; draw 63706 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "On-Mechanism-Underlying-Algorithmic-Collusion",
-      "source_urls": [
-        "https://arxiv.org/abs/2409.01147",
-        "https://arxiv.org/html/2409.01147",
-        "https://arxiv.org/pdf/2409.01147",
-        "https://doi.org/10.48550/arXiv.2409.01147"
       ],
       "status": "deposited"
     },
@@ -3741,6 +3621,52 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Large-Scale",
+        ".logs/20260801-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-Algor-LOG.md",
+        ".reports/BL-Arxiv-Large-Scale-Spatio-Temporal-Person-Re-identification-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2105.15076",
+      "arxiv_id": "2105.15076",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2105.15076",
+      "normalized_title": "Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P04; draw 8974 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Large-Scale-Spatio-Temporal-Person-Re-identification-Algor",
+      "source_urls": [
+        "https://arxiv.org/abs/2105.15076",
+        "https://ar5iv.labs.arxiv.org/html/2105.15076",
+        "https://arxiv.org/pdf/2105.15076",
+        "https://doi.org/10.48550/arXiv.2105.15076"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-On Mechanism Underlying",
+        ".logs/20260801-Arxiv-On-Mechanism-Underlying-Algorithmic-Collusion-LOG.md",
+        ".reports/BL-Arxiv-On-Mechanism-Underlying-Algorithmic-Collusion-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.01147",
+      "arxiv_id": "2409.01147",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2409.01147",
+      "normalized_title": "On Mechanism Underlying Algorithmic Collusion",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P06; draw 63706 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "On-Mechanism-Underlying-Algorithmic-Collusion",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.01147",
+        "https://arxiv.org/html/2409.01147",
+        "https://arxiv.org/pdf/2409.01147",
+        "https://doi.org/10.48550/arXiv.2409.01147"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260801-PFGM Unlocking Potential",
         ".logs/20260801-Arxiv-PFGM-Unlocking-the-Potential-of-Physics-Inspired-Generativ-LOG.md",
         ".reports/BL-Arxiv-PFGM-Unlocking-the-Potential-of-Physics-Inspired-Gen-20260801/Report-Mark.md"
@@ -3758,6 +3684,77 @@
         "https://ar5iv.labs.arxiv.org/html/2302.04265",
         "https://arxiv.org/pdf/2302.04265",
         "https://doi.org/10.48550/arXiv.2302.04265"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-RLET Reinforcement",
+        ".logs/20260801-Arxiv-RLET-A-Reinforcement-Learning-Based-Approach-for-Explainab-LOG.md",
+        ".reports/BL-Arxiv-RLET-A-Reinforcement-Learning-Based-Approach-for-Exp-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2210.17095",
+      "arxiv_id": "2210.17095",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2210.17095",
+      "normalized_title": "RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P01; draw 13787 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RLET-A-Reinforcement-Learning-Based-Approach-for-Explainab",
+      "source_urls": [
+        "https://arxiv.org/abs/2210.17095",
+        "https://ar5iv.labs.arxiv.org/html/2210.17095",
+        "https://arxiv.org/pdf/2210.17095",
+        "https://doi.org/10.48550/arXiv.2210.17095"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260801-Relational Contrastive",
+        ".logs/20260801-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Modeling-LOG.md",
+        ".reports/BL-Arxiv-Relational-Contrastive-Learning-and-Masked-Image-Mod-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.11219",
+      "arxiv_id": "2411.11219",
+      "commit_or_pr": "",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2411.11219",
+      "normalized_title": "Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition",
+      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P03; draw 24396 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Relational-Contrastive-Learning-and-Masked-Image-Modeling",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.11219",
+        "https://arxiv.org/html/2411.11219",
+        "https://arxiv.org/pdf/2411.11219",
+        "https://doi.org/10.48550/arXiv.2411.11219"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning",
+        ".lake-data/DEP-E/DEP-E-20260801-SD Search Reasoning/sd_search_reasoning_manuscript.md",
+        ".logs/20260801-Arxiv-SD-Search-LOG.md",
+        ".logs/20260801-Arxiv-SD-Search-PHASE-LOG.md",
+        ".reports/BL-Arxiv-SD-Search-20260801/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.18299",
+      "arxiv_id": "2605.18299v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/1b462206e4f1788215ea1c2de6ac2835559af797",
+      "deposit_date": "20260801",
+      "doi": "10.48550/arXiv.2605.18299",
+      "normalized_title": "SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning",
+      "notes": "Uniform first-draw acceptance; source unit repaired to complete before review; local missing-only cache is cached; source files withheld locally; commit reference added after remote submission.",
+      "slug": "SD-Search",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.18299",
+        "https://arxiv.org/e-print/2605.18299",
+        "https://arxiv.org/html/2605.18299",
+        "https://arxiv.org/pdf/2605.18299",
+        "https://doi.org/10.48550/arXiv.2605.18299"
       ],
       "status": "deposited"
     },
@@ -3787,29 +3784,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial",
-        ".logs/20260801-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to-LOG.md",
-        ".reports/BL-Arxiv-APRIL-Active-Partial-Rollouts-in-Reinforcement-Learn-20260801/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2509.18521",
-      "arxiv_id": "2509.18521",
-      "commit_or_pr": "",
-      "deposit_date": "20260801",
-      "doi": "10.48550/arXiv.2509.18521",
-      "normalized_title": "APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation",
-      "notes": "Job BLAD-2200-20260801-A1ED7FC9 item BLAD-2200-20260801-A1ED7FC9-P10; draw 37526 of 75957 units; duplicate exclusions 0; source-gate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "APRIL-Active-Partial-Rollouts-in-Reinforcement-Learning-to",
-      "source_urls": [
-        "https://arxiv.org/abs/2509.18521",
-        "https://arxiv.org/html/2509.18521",
-        "https://arxiv.org/pdf/2509.18521",
-        "https://doi.org/10.48550/arXiv.2509.18521"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy",
         ".logs/20260802-Arxiv-A-Survey-on-Trustworthy-LLM-Agents-Threats-LOG.md",
         ".reports/BL-Arxiv-A-Survey-on-Trustworthy-LLM-Agents-Threats-20260802/Report-Mark.md"
@@ -3827,6 +3801,29 @@
         "https://arxiv.org/html/2503.09648",
         "https://arxiv.org/pdf/2503.09648",
         "https://doi.org/10.48550/arXiv.2503.09648"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-Boundary and",
+        ".logs/20260802-Arxiv-Boundary-and-Entropy-driven-Adversarial-Learning-LOG.md",
+        ".reports/BL-Arxiv-Boundary-and-Entropy-driven-Adversarial-Learning-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1906.11143",
+      "arxiv_id": "1906.11143",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.1906.11143",
+      "normalized_title": "Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P09; draw 12514 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Boundary-and-Entropy-driven-Adversarial-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/1906.11143",
+        "https://arxiv.org/html/1906.11143",
+        "https://arxiv.org/pdf/1906.11143",
+        "https://doi.org/10.48550/arXiv.1906.11143"
       ],
       "status": "deposited"
     },
@@ -3879,23 +3876,72 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260802-NLP-AKG Few-Shot",
-        ".logs/20260802-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-LOG.md",
-        ".reports/BL-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-20260802/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260802-Fantastic Semantics and",
+        ".logs/20260802-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-LOG.md",
+        ".reports/BL-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-20260802/Report-Mark.md"
       ],
-      "arxiv_base_id": "2502.14192",
-      "arxiv_id": "2502.14192",
+      "arxiv_base_id": "2403.01509",
+      "arxiv_id": "2403.01509",
       "commit_or_pr": "",
       "deposit_date": "20260802",
-      "doi": "10.48550/arXiv.2502.14192",
-      "normalized_title": "NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM",
-      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P04; draw 30672 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "NLP-AKG-Few-Shot-Construction-of-NLP",
+      "doi": "10.48550/arXiv.2403.01509",
+      "normalized_title": "Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P08; draw 34789 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Fantastic-Semantics-and-Where-to-Find-Them",
       "source_urls": [
-        "https://arxiv.org/abs/2502.14192",
-        "https://arxiv.org/html/2502.14192",
-        "https://arxiv.org/pdf/2502.14192",
-        "https://doi.org/10.48550/arXiv.2502.14192"
+        "https://arxiv.org/abs/2403.01509",
+        "https://arxiv.org/html/2403.01509",
+        "https://arxiv.org/pdf/2403.01509",
+        "https://doi.org/10.48550/arXiv.2403.01509"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260802-Heartcare ECG",
+        ".lake-data/DEP-E-20260802-Heartcare ECG/README.md",
+        ".lake-data/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md",
+        ".logs/20260802-Arxiv-HeartcareGPT-ECG-LOG.md",
+        ".logs/20260802-Arxiv-HeartcareGPT-ECG-PHASE-LOG.md",
+        ".reports/BL-Arxiv-HeartcareGPT-ECG-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.05831",
+      "arxiv_id": "2506.05831v4",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/9495e8278aa6d0ca3ed61ee22cf4e896f4210f4b",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2506.05831",
+      "normalized_title": "heartcaregpt: a unified multimodal ecg suite for dual signal-image modeling and understanding",
+      "notes": "Uniform draw index 19919 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
+      "slug": "HeartcareGPT-ECG",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.05831",
+        "https://arxiv.org/html/2506.05831",
+        "https://arxiv.org/pdf/2506.05831",
+        "https://doi.org/10.48550/arXiv.2506.05831",
+        "https://github.com/ZJU4HealthCare/HeartcareGPT"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical",
+        ".logs/20260802-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-LOG.md",
+        ".reports/BL-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.10635",
+      "arxiv_id": "2403.10635",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2403.10635",
+      "normalized_title": "MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P10; draw 55507 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "MeDSLIP-Medical-Dual-Stream-Language-Image-Pre",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.10635",
+        "https://arxiv.org/html/2403.10635",
+        "https://arxiv.org/pdf/2403.10635",
+        "https://doi.org/10.48550/arXiv.2403.10635"
       ],
       "status": "deposited"
     },
@@ -3919,6 +3965,29 @@
         "https://arxiv.org/html/2207.06366",
         "https://arxiv.org/pdf/2207.06366",
         "https://doi.org/10.48550/arXiv.2207.06366"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260802-NLP-AKG Few-Shot",
+        ".logs/20260802-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-LOG.md",
+        ".reports/BL-Arxiv-NLP-AKG-Few-Shot-Construction-of-NLP-20260802/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.14192",
+      "arxiv_id": "2502.14192",
+      "commit_or_pr": "",
+      "deposit_date": "20260802",
+      "doi": "10.48550/arXiv.2502.14192",
+      "normalized_title": "NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM",
+      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P04; draw 30672 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "NLP-AKG-Few-Shot-Construction-of-NLP",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.14192",
+        "https://arxiv.org/html/2502.14192",
+        "https://arxiv.org/pdf/2502.14192",
+        "https://doi.org/10.48550/arXiv.2502.14192"
       ],
       "status": "deposited"
     },
@@ -3970,72 +4039,29 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260802-Fantastic Semantics and",
-        ".logs/20260802-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-LOG.md",
-        ".reports/BL-Arxiv-Fantastic-Semantics-and-Where-to-Find-Them-20260802/Report-Mark.md"
+        ".lake-data/DEP-E-20260803-T23DAQA Quality",
+        ".lake-data/DEP-E-20260803-T23DAQA Quality/README.md",
+        ".lake-data/DEP-E-20260803-T23DAQA Quality/t23daqa_quality_manuscript.md",
+        ".logs/20260803-Arxiv-T23DAQA-Quality-LOG.md",
+        ".logs/20260803-Arxiv-T23DAQA-Quality-PHASE-LOG.md",
+        ".reports/BL-Arxiv-T23DAQA-Quality-20260803/Report-Mark.md"
       ],
-      "arxiv_base_id": "2403.01509",
-      "arxiv_id": "2403.01509",
+      "arxiv_base_id": "2502.16915",
+      "arxiv_id": "2502.16915v1",
       "commit_or_pr": "",
-      "deposit_date": "20260802",
-      "doi": "10.48550/arXiv.2403.01509",
-      "normalized_title": "Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics",
-      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P08; draw 34789 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Fantastic-Semantics-and-Where-to-Find-Them",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2502.16915",
+      "normalized_title": "Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model",
+      "notes": "Uniform draw index 30907 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
+      "slug": "T23DAQA-Quality",
       "source_urls": [
-        "https://arxiv.org/abs/2403.01509",
-        "https://arxiv.org/html/2403.01509",
-        "https://arxiv.org/pdf/2403.01509",
-        "https://doi.org/10.48550/arXiv.2403.01509"
+        "https://arxiv.org/abs/2502.16915",
+        "https://arxiv.org/html/2502.16915",
+        "https://arxiv.org/pdf/2502.16915",
+        "https://doi.org/10.48550/arXiv.2502.16915",
+        "https://github.com/ZedFu/T23DAQA"
       ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260802-Boundary and",
-        ".logs/20260802-Arxiv-Boundary-and-Entropy-driven-Adversarial-Learning-LOG.md",
-        ".reports/BL-Arxiv-Boundary-and-Entropy-driven-Adversarial-Learning-20260802/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1906.11143",
-      "arxiv_id": "1906.11143",
-      "commit_or_pr": "",
-      "deposit_date": "20260802",
-      "doi": "10.48550/arXiv.1906.11143",
-      "normalized_title": "Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation",
-      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P09; draw 12514 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Boundary-and-Entropy-driven-Adversarial-Learning",
-      "source_urls": [
-        "https://arxiv.org/abs/1906.11143",
-        "https://arxiv.org/html/1906.11143",
-        "https://arxiv.org/pdf/1906.11143",
-        "https://doi.org/10.48550/arXiv.1906.11143"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical",
-        ".logs/20260802-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-LOG.md",
-        ".reports/BL-Arxiv-MeDSLIP-Medical-Dual-Stream-Language-Image-Pre-20260802/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2403.10635",
-      "arxiv_id": "2403.10635",
-      "commit_or_pr": "",
-      "deposit_date": "20260802",
-      "doi": "10.48550/arXiv.2403.10635",
-      "normalized_title": "MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment",
-      "notes": "Job BLAD-2200-20260802-0D11B2FA item BLAD-2200-20260802-0D11B2FA-P10; draw 55507 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "MeDSLIP-Medical-Dual-Stream-Language-Image-Pre",
-      "source_urls": [
-        "https://arxiv.org/abs/2403.10635",
-        "https://arxiv.org/html/2403.10635",
-        "https://arxiv.org/pdf/2403.10635",
-        "https://doi.org/10.48550/arXiv.2403.10635"
-      ],
-      "status": "deposited"
+      "status": "prepared"
     }
   ],
   "papers": [
@@ -4806,5 +4832,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-02"
+  "updated_date": "2026-08-03"
 }
