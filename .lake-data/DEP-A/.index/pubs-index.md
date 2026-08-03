@@ -5696,3 +5696,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Low-Rank Matrix Recovery via Heavy-Tailed Quadratic Sampling* | Gao Huang; Song Li | [arXiv:2607.08671v1](https://arxiv.org/abs/2607.08671v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08671) |
+
+
+## [DEP-A-20260804-OPSD Video Distill](../DEP-A-20260804-OPSD%20Video%20Distill/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.08766-whitepaper-review.md`](../DEP-A-20260804-OPSD%20Video%20Distill/2607.08766-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators* | Hongyu Liu; Chun Wang; Feng Gao; Xuanhua He; Yue Ma; Ziyu Wan; Yong Zhang; Xiaoming Wei; Qifeng Chen | [arXiv:2607.08766v1](https://arxiv.org/abs/2607.08766v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08766) |
+
+
+## [DEP-A-20260804-ResonatorLM](../DEP-A-20260804-ResonatorLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.05583-whitepaper-review.md`](../DEP-A-20260804-ResonatorLM/2607.05583-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ResonatorLM: Causal Resonant Field Mixing for Efficient Long-Context Language Modeling* | Archie Chaudhury | [arXiv:2607.05583v2](https://arxiv.org/abs/2607.05583v2) - [DOI](https://doi.org/10.48550/arXiv.2607.05583) |
+
+
+## [DEP-A-20260804-Quantized DFlash](../DEP-A-20260804-Quantized%20DFlash/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.04244-whitepaper-review.md`](../DEP-A-20260804-Quantized%20DFlash/2607.04244-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B* | Jaeyeon Kim; Jewon Lee; Bo-Kyeong Kim | [arXiv:2607.04244v2](https://arxiv.org/abs/2607.04244v2) - [DOI](https://doi.org/10.48550/arXiv.2607.04244) |
+
+
+## [DEP-A-20260804-Uncertainty Sparse Attn](../DEP-A-20260804-Uncertainty%20Sparse%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.07724-whitepaper-review.md`](../DEP-A-20260804-Uncertainty%20Sparse%20Attn/2607.07724-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Uncertainty-gated selection for block-sparse attention* | Thomas Rossi | [arXiv:2607.07724v1](https://arxiv.org/abs/2607.07724v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07724) |
+
+
+## [DEP-A-20260804-Distill Bias Detection](../DEP-A-20260804-Distill%20Bias%20Detection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.01208-whitepaper-review.md`](../DEP-A-20260804-Distill%20Bias%20Detection/2607.01208-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation* | Shayan Talaei; Abhinav Chinta; Devvrit Khatri; Amin Karbasi; Azalia Mirhoseini; Amin Saberi | [arXiv:2607.01208v1](https://arxiv.org/abs/2607.01208v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01208) |
