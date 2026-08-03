@@ -2195,3 +2195,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources* | Li, Zhikai; Liu, Xiaoxuan; Zhu, Banghua; Dong, Zhen; Gu, Qingyi; Keutzer, Kurt | [arXiv:2310.07147](https://arxiv.org/abs/2310.07147) - [DOI](https://doi.org/10.48550/arXiv.2310.07147) |
+
+
+## [DEP-E-20260803-One-shot neural band](../DEP-E-20260803-One-shot%20neural%20band/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One-shot neural band selection for spectral recovery* | Hu, Hai-Miao; Xu, Zhenbo; Xu, Wenshuai; Song, You; Zhang, YiTao; Liu, Liu; Han, Zhilin; Meng, Ajin | [arXiv:2305.09236](https://arxiv.org/abs/2305.09236) - [DOI](https://doi.org/10.48550/arXiv.2305.09236) |

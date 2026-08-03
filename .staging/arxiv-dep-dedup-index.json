@@ -4062,6 +4062,29 @@
         "https://github.com/ZedFu/T23DAQA"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-One-shot neural band",
+        ".logs/20260803-Arxiv-One-shot-neural-band-selection-for-spectral-LOG.md",
+        ".reports/BL-Arxiv-One-shot-neural-band-selection-for-spectral-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2305.09236",
+      "arxiv_id": "2305.09236",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2305.09236",
+      "normalized_title": "One-shot neural band selection for spectral recovery",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P01; draw 75793 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "One-shot-neural-band-selection-for-spectral",
+      "source_urls": [
+        "https://arxiv.org/abs/2305.09236",
+        "https://arxiv.org/html/2305.09236",
+        "https://arxiv.org/pdf/2305.09236",
+        "https://doi.org/10.48550/arXiv.2305.09236"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
