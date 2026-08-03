@@ -2216,3 +2216,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory* | Liu, Mingwen; Huo, Junbang; Wu, Yulin; Wu, Jinge | [arXiv:2104.09700](https://arxiv.org/abs/2104.09700) - [DOI](https://doi.org/10.48550/arXiv.2104.09700) |
+
+
+## [DEP-E-20260803-Interaction Measures](../DEP-E-20260803-Interaction%20Measures/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interaction Measures, Partition Lattices and Kernel Tests for High-Order Interactions* | Liu, Zhaolu; Peach, Robert L.; Mediano, Pedro A. M.; Barahona, Mauricio | [arXiv:2306.00904](https://arxiv.org/abs/2306.00904) - [DOI](https://doi.org/10.48550/arXiv.2306.00904) |
