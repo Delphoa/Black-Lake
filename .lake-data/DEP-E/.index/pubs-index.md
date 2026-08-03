@@ -2280,3 +2280,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning* | Cheng, Mingfei; Xie, Xiaofei; Wang, Renzhi; Zhou, Yuan; Hu, Ming | [arXiv:2506.23960](https://arxiv.org/abs/2506.23960) - [DOI](https://doi.org/10.48550/arXiv.2506.23960) |
+
+
+## [DEP-E-20260804-Conceptual Compression](../DEP-E-20260804-Conceptual%20Compression/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Conceptual Compression via Deep Structure and Texture Synthesis* | Chang, Jianhui; Zhao, Zhenghui; Jia, Chuanmin; Wang, Shiqi; Yang, Lingbo; Mao, Qi; Zhang, Jian; Ma, Siwei | [arXiv:2011.04976](https://arxiv.org/abs/2011.04976) - [DOI](https://doi.org/10.48550/arXiv.2011.04976) |

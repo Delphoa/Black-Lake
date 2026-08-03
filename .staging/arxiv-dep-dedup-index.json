@@ -5059,8 +5059,31 @@
         "https://doi.org/10.1145/3746059.3747774"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Conceptual Compression",
+        ".logs/20260804-Arxiv-Conceptual-Compression-LOG.md",
+        ".reports/BL-Arxiv-Conceptual-Compression-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2011.04976",
+      "arxiv_id": "2011.04976v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2011.04976",
+      "normalized_title": "Conceptual Compression via Deep Structure and Texture Synthesis",
+      "notes": "Uniform draw index 54714 of 75957 parent-directory units; duplicate exclusions 0; one bounded source repair produced verified complete PDF and full-paper HTML; source files withheld locally.",
+      "slug": "Conceptual-Compression",
+      "source_urls": [
+        "https://arxiv.org/abs/2011.04976",
+        "https://arxiv.org/html/2011.04976",
+        "https://ar5iv.labs.arxiv.org/html/2011.04976",
+        "https://doi.org/10.48550/arXiv.2011.04976"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-03"
+  "updated_date": "2026-08-04"
 }
