@@ -4108,6 +4108,29 @@
         "https://doi.org/10.48550/arXiv.2508.02186"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Stock Market Trend",
+        ".logs/20260803-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-LOG.md",
+        ".reports/BL-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2104.09700",
+      "arxiv_id": "2104.09700",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2104.09700",
+      "normalized_title": "Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P03; draw 16080 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stock-Market-Trend-Analysis-Using-Hidden-Markov",
+      "source_urls": [
+        "https://arxiv.org/abs/2104.09700",
+        "https://arxiv.org/html/2104.09700",
+        "https://arxiv.org/pdf/2104.09700",
+        "https://doi.org/10.48550/arXiv.2104.09700"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

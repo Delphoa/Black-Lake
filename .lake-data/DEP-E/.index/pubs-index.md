@@ -2209,3 +2209,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training* | Wang, Yanyun; Liu, Li | [arXiv:2508.02186](https://arxiv.org/abs/2508.02186) - [DOI](https://doi.org/10.48550/arXiv.2508.02186) |
+
+
+## [DEP-E-20260803-Stock Market Trend](../DEP-E-20260803-Stock%20Market%20Trend/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory* | Liu, Mingwen; Huo, Junbang; Wu, Yulin; Wu, Jinge | [arXiv:2104.09700](https://arxiv.org/abs/2104.09700) - [DOI](https://doi.org/10.48550/arXiv.2104.09700) |
