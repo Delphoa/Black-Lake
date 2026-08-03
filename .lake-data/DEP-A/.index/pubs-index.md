@@ -5489,3 +5489,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching* | Diego Gosmar; Deborah A. Dahl | [arXiv:2605.29055v1](https://arxiv.org/abs/2605.29055v1) - [DOI](https://doi.org/10.48550/arXiv.2605.29055) |
+
+
+## [DEP-A-20260804-Dual Process Skills](../DEP-A-20260804-Dual%20Process%20Skills/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10625-whitepaper-review.md`](../DEP-A-20260804-Dual%20Process%20Skills/2607.10625-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control* | Jun Chen; Erdent Bao; Wenlong Dong; Jierui Liu; Qi Cai; Hao Wan; Shaopeng Li; Weijun Qin; Jing Liang; Huiping Zhuang | [arXiv:2607.10625v1](https://arxiv.org/abs/2607.10625v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10625) |
+
+
+## [DEP-A-20260804-Sign Aware Negatives](../DEP-A-20260804-Sign%20Aware%20Negatives/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.09263-whitepaper-review.md`](../DEP-A-20260804-Sign%20Aware%20Negatives/2607.09263-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Hardness Is Not Visual Hardness: Sign-Aware Hard Negative Mining for Sign Language Retrieval* | Junmyeong Lee; Chan Hur; ChangSu Choi; Sukmin Cho; Fitsum Gaim; Eui Jun Hwang; Hoyun Song; KyungTae Lim | [arXiv:2607.09263v1](https://arxiv.org/abs/2607.09263v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09263) |
+
+
+## [DEP-A-20260804-Post Deterministic DS](../DEP-A-20260804-Post%20Deterministic%20DS/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.01722-whitepaper-review.md`](../DEP-A-20260804-Post%20Deterministic%20DS/2606.01722-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Post-Deterministic Distributed Systems: A New Foundation for Trustworthy Autonomous Infrastructure* | Jun He; Deying Yu | [arXiv:2606.01722v1](https://arxiv.org/abs/2606.01722v1) - [DOI](https://doi.org/10.48550/arXiv.2606.01722) |
+
+
+## [DEP-A-20260804-OKA CT Knowledge](../DEP-A-20260804-OKA%20CT%20Knowledge/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10953-whitepaper-review.md`](../DEP-A-20260804-OKA%20CT%20Knowledge/2607.10953-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Anatomy-Grounded CT Vision-Language Representations with Organ-Hierarchical Report Knowledge* | Guoliang You; Hongming Li; Yuanwang Zhang; Yong Fan | [arXiv:2607.10953v1](https://arxiv.org/abs/2607.10953v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10953) |
+
+
+## [DEP-A-20260804-SPORT Multi View](../DEP-A-20260804-SPORT%20Multi%20View/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.10413-whitepaper-review.md`](../DEP-A-20260804-SPORT%20Multi%20View/2607.10413-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SPORT: Structure-Aware Prototype Disentanglement for Incomplete Multi-View Clustering* | Yaoyuan Guo; Zhibin Gu; Songhe Feng; Yuhui Zheng; Bing Li | [arXiv:2607.10413v1](https://arxiv.org/abs/2607.10413v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10413) |
