@@ -5786,3 +5786,39 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory-Managed Long-Context Attention: Bounded Editable Memory with a Hard Lifecycle and Calibrated Sparse Fallback* | Junyi Zou; Avrova Donz | [arXiv:2606.28876v2](https://arxiv.org/abs/2606.28876v2) - [DOI](https://doi.org/10.48550/arXiv.2606.28876) |
+
+
+## [DEP-A-20260804-GridS VLA Pruning](../DEP-A-20260804-GridS%20VLA%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2605.11817-whitepaper-review.md`](../DEP-A-20260804-GridS%20VLA%20Pruning/2605.11817-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model* | Yixu Feng; Zinan Zhao; Yanxiang Ma; Chenghao Xia; Chengbin Du; Yunke Wang; Chang Xu | [arXiv:2605.11817v2](https://arxiv.org/abs/2605.11817v2) - [DOI](https://doi.org/10.48550/arXiv.2605.11817) |
+
+
+## [DEP-A-20260804-Filler Token Compute](../DEP-A-20260804-Filler%20Token%20Compute/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.03502-whitepaper-review.md`](../DEP-A-20260804-Filler%20Token%20Compute/2607.03502-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reading Between the Dots: Decoding Hidden Computation across Filler Tokens* | Kaley Brauer; Claudio Mayrink Verdun; Samuel Marks | [arXiv:2607.03502v1](https://arxiv.org/abs/2607.03502v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03502) |
+
+
+## [DEP-A-20260804-NPUsper Whisper](../DEP-A-20260804-NPUsper%20Whisper/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.01108-whitepaper-review.md`](../DEP-A-20260804-NPUsper%20Whisper/2607.01108-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NPUsper: Eliminating Redundant Computation for Real-Time Whisper on Mobile NPUs* | Sihyeon Lee; Hojeong Lee; Sungwon Woo; Chengpo Yan; Suman Banerjee; Seyeon Kim | [arXiv:2607.01108v1](https://arxiv.org/abs/2607.01108v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01108) |
+
+
+## [DEP-A-20260804-OmniPilot GPU Advisor](../DEP-A-20260804-OmniPilot%20GPU%20Advisor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.01579-whitepaper-review.md`](../DEP-A-20260804-OmniPilot%20GPU%20Advisor/2607.01579-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniPilot: An Uncertainty-Aware LLM Inference Advisor for Heterogeneous GPU Clusters* | D. Balamurugan; Thomas W. Bush | [arXiv:2607.01579v1](https://arxiv.org/abs/2607.01579v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01579) |
