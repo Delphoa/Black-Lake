@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **480 publication reviews across 245 DEP-E entries**.
+- Current coverage: **481 publication reviews across 246 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-03; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -18,6 +18,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors | Canonical source | Owning DEP |
 |---|---|---|---|
 | *An optimal control approach for neural network architecture adaptation with a posteriori error estimation* | C. G. Krishnanunni; Thomas Scott; Tan Bui-Thanh | [arXiv:2607.07637v1](https://arxiv.org/abs/2607.07637); [DOI](https://doi.org/10.48550/arXiv.2607.07637) | [DEP-E](../DEP-E-20260803-Error-Guided%20Depth/README.md) |
+
+## [DEP-E-20260803-Vid2Curve Reconstruction](../DEP-E-20260803-Vid2Curve%20Reconstruction/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Vid2Curve: Simultaneous Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video* | Wang, Peng; Liu, Lingjie; Chen, Nenglun; Chu, Hung-Kuo; Theobalt, Christian; Wang, Wenping | [arXiv:2005.03372v3](https://arxiv.org/abs/2005.03372); [DOI](https://doi.org/10.1145/3386569.3392476) | [DEP-E](../DEP-E-20260803-Vid2Curve%20Reconstruction/README.md) |
 
 ## [DEP-E-20260803-Reliability Boundaries](../DEP-E-20260803-Reliability%20Boundaries/README.md)
 
