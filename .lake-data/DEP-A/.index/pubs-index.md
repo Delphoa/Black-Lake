@@ -5579,3 +5579,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation* | Anna Córdoba; Adam Puente Tercero; Nerea Angulo Hijo; Mar Linares Tercero; Julia Barrientos; Ainhoa Miranda; Jesús Olivera | [arXiv:2607.06481v1](https://arxiv.org/abs/2607.06481v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06481) |
+
+
+## [DEP-A-20260804-Nemotron Puzzle MoE](../DEP-A-20260804-Nemotron%20Puzzle%20MoE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.04371-whitepaper-review.md`](../DEP-A-20260804-Nemotron%20Puzzle%20MoE/2607.04371-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs* | Akhiad Bercovich; Talor Abramovich; Daniel Afrimi; Shay Aharon; Nir Ailon; Vladimir Anisimov; Omer Ullman Argov; Maor Ashkenazi; Tomer Asida; Nave Assaf; Tomer Bar Natan; Alexander Bukharin; Grzegorz Chlebus; Marcin Chochowski; Eric Chung; Mohammad Dabbah; Carlo del Mundo; Ewa Dobrowolska; Ido Galil; Yaniv Galron; Amnon Geifman; Yonatan Geifman; Izik Golan; Alex Gronskiy; Tomasz Grzegorzek; Netanel Haber; Lior Kadoch; Grzegorz Karch; Tomer Keren; Abhinav Khattar; Amir Klein; Tugrul Konuk; Roi Koren; Daniel Korzekwa; Shaun Kotek; Konstantinos Krommydas; Itay Levy; Ofri Masad; Yoav Miron; Pavlo Molchanov; Shahar Mor; Zach Moshe; Saurav Muralidharan; Najeeb Nabwani; Besmira Nushi; Mostofa Patwary; Omri Puny; Johannes Rausch; Tomer Ronen; Sepehr Sameni; Itamar Schen; Elad Segal; Daniel Serebrenik; Ido Shahaf; Soumye Singhal; Daniil Sorokin; Sharath Turuvekere Sreenivas; Marta Stepniewska-Dziubinska; Ali Taghibakhshi; Nima Tajbakhsh; Oren Tropp; Dor Tzur; Anna Warno; Yi-Fu Wu; Michal Zawalski; Jiaqi Zeng; Yian Zhang; Ran Zilberstein; Amit Zuker; Ran El-Yaniv | [arXiv:2607.04371v2](https://arxiv.org/abs/2607.04371v2) - [DOI](https://doi.org/10.48550/arXiv.2607.04371) |
+
+
+## [DEP-A-20260804-Evidence State Rewards](../DEP-A-20260804-Evidence%20State%20Rewards/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2607.02073-whitepaper-review.md`](../DEP-A-20260804-Evidence%20State%20Rewards/2607.02073-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evidence-State Rewards for Long-Context Reasoning* | Ya Gao; Pekka Marttinen | [arXiv:2607.02073v1](https://arxiv.org/abs/2607.02073v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02073) |
+
+
+## [DEP-A-20260804-Randomized YaRN](../DEP-A-20260804-Randomized%20YaRN/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.23687-whitepaper-review.md`](../DEP-A-20260804-Randomized%20YaRN/2606.23687-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Randomized YaRN Improves Length Generalization for Long-Context Reasoning* | Manas Mehta; Fangcong Yin; Greg Durrett | [arXiv:2606.23687v1](https://arxiv.org/abs/2606.23687v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23687) |
+
+
+## [DEP-A-20260804-HydraHead Attention](../DEP-A-20260804-HydraHead%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.20097-whitepaper-review.md`](../DEP-A-20260804-HydraHead%20Attention/2606.20097-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization* | Zhentao Tan; Wei Chen; Jingyi Shen; Yao Liu; Xu Shen; Yue Wu; Jieping Ye | [arXiv:2606.20097v1](https://arxiv.org/abs/2606.20097v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20097) |
+
+
+## [DEP-A-20260804-Long Context RL Data](../DEP-A-20260804-Long%20Context%20RL%20Data/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.18831-whitepaper-review.md`](../DEP-A-20260804-Long%20Context%20RL%20Data/2606.18831-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning* | Xiaoyue Xu; Sikui Zhang; Xiaorong Wang; Xu Han; Chaojun Xiao | [arXiv:2606.18831v1](https://arxiv.org/abs/2606.18831v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18831) |
