@@ -4200,6 +4200,29 @@
         "https://doi.org/10.48550/arXiv.2510.11824"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Texturing and Deforming",
+        ".logs/20260803-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-LOG.md",
+        ".reports/BL-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1809.03144",
+      "arxiv_id": "1809.03144",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.1809.03144",
+      "normalized_title": "Texturing and Deforming Meshes with Casual Images",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P07; draw 11679 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Texturing-and-Deforming-Meshes-with-Casual",
+      "source_urls": [
+        "https://arxiv.org/abs/1809.03144",
+        "https://arxiv.org/html/1809.03144",
+        "https://arxiv.org/pdf/1809.03144",
+        "https://doi.org/10.48550/arXiv.1809.03144"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

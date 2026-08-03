@@ -2237,3 +2237,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Empirical Study on Robustness and Resilience in Cooperative Multi-Agent Reinforcement Learning* | Li, Simin; Mao, Zihao; Li, Hanxiao; Jing, Zonglei; bian, Zhuohang; Guo, Jun; Wang, Li; Han, Zhuoran; Xu, Ruixiao; Yu, Xin; Ma, Chengdong; Ma, Yuqing; An, Bo; Yang, Yaodong; Lv, Weifeng; Liu, Xianglong | [arXiv:2510.11824](https://arxiv.org/abs/2510.11824) - [DOI](https://doi.org/10.48550/arXiv.2510.11824) |
+
+
+## [DEP-E-20260803-Texturing and Deforming](../DEP-E-20260803-Texturing%20and%20Deforming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Texturing and Deforming Meshes with Casual Images* | Shen, I-Chao; Wang, Yi-Hau; Chen, Yu-Mei; Chen, Bing-Yu | [arXiv:1809.03144](https://arxiv.org/abs/1809.03144) - [DOI](https://doi.org/10.48550/arXiv.1809.03144) |
