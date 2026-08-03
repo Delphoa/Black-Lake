@@ -4048,7 +4048,7 @@
       ],
       "arxiv_base_id": "2502.16915",
       "arxiv_id": "2502.16915v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/79ec6c3fddc625dc7ec947d51402759ef194e127",
       "deposit_date": "20260803",
       "doi": "10.48550/arXiv.2502.16915",
       "normalized_title": "Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model",
@@ -4061,7 +4061,7 @@
         "https://doi.org/10.48550/arXiv.2502.16915",
         "https://github.com/ZedFu/T23DAQA"
       ],
-      "status": "prepared"
+      "status": "deposited"
     }
   ],
   "papers": [
