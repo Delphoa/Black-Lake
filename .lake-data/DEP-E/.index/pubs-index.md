@@ -2251,3 +2251,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Extended to Reality: Prompt Injection in 3D Environments* | Li, Zhuoheng; Chen, Ying | [arXiv:2602.07104](https://arxiv.org/abs/2602.07104) - [DOI](https://doi.org/10.48550/arXiv.2602.07104) |
+
+
+## [DEP-E-20260803-Latent-IMH Efficient](../DEP-E-20260803-Latent-IMH%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Latent-IMH: Efficient Bayesian Inference for Inverse Problems with Approximate Operators* | Chen, Youguang; Biros, George | [arXiv:2601.20888](https://arxiv.org/abs/2601.20888) - [DOI](https://doi.org/10.48550/arXiv.2601.20888) |

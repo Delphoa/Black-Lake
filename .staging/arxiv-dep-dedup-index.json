@@ -4246,6 +4246,29 @@
         "https://doi.org/10.48550/arXiv.2602.07104"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Latent-IMH Efficient",
+        ".logs/20260803-Arxiv-Latent-IMH-Efficient-Bayesian-Inference-for-LOG.md",
+        ".reports/BL-Arxiv-Latent-IMH-Efficient-Bayesian-Inference-for-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.20888",
+      "arxiv_id": "2601.20888",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2601.20888",
+      "normalized_title": "Latent-IMH: Efficient Bayesian Inference for Inverse Problems with Approximate Operators",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P09; draw 48412 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Latent-IMH-Efficient-Bayesian-Inference-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.20888",
+        "https://arxiv.org/html/2601.20888",
+        "https://arxiv.org/pdf/2601.20888",
+        "https://doi.org/10.48550/arXiv.2601.20888"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
