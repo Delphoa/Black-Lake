@@ -5624,3 +5624,30 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning* | Xiaoyue Xu; Sikui Zhang; Xiaorong Wang; Xu Han; Chaojun Xiao | [arXiv:2606.18831v1](https://arxiv.org/abs/2606.18831v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18831) |
+
+
+## [DEP-A-20260804-Taylor Calibrate](../DEP-A-20260804-Taylor%20Calibrate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.16429-whitepaper-review.md`](../DEP-A-20260804-Taylor%20Calibrate/2606.16429-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Taylor-Calibrate: Principled Initialization for Hybrid Linear Attention Distillation* | Zhongzhu Zhou; Qingyang Wu; Junxiong Wang; Mayank Mishra; Shuaiwen Leon Song; Ben Athiwaratkun; Chenfeng Xu | [arXiv:2606.16429v1](https://arxiv.org/abs/2606.16429v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16429) |
+
+
+## [DEP-A-20260804-ReQAT FP4 Reasoning](../DEP-A-20260804-ReQAT%20FP4%20Reasoning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2606.15682-whitepaper-review.md`](../DEP-A-20260804-ReQAT%20FP4%20Reasoning/2606.15682-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training* | Janghwan Lee; Sihwa Lee; Jinseok Kim; Yongjik Kim; Jieun Lim; Jinwook Oh; Jungwook Choi | [arXiv:2606.15682v1](https://arxiv.org/abs/2606.15682v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15682) |
+
+
+## [DEP-A-20260804-SnapFlow VLA](../DEP-A-20260804-SnapFlow%20VLA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-04. The owning review artifact is [`2604.05656-whitepaper-review.md`](../DEP-A-20260804-SnapFlow%20VLA/2604.05656-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation* | Wuyang Luan; Junhui Li; Weiguang Zhao; Wenjian Zhang; Tieru Wu; Rui Ma | [arXiv:2604.05656v1](https://arxiv.org/abs/2604.05656v1) - [DOI](https://doi.org/10.48550/arXiv.2604.05656) |
