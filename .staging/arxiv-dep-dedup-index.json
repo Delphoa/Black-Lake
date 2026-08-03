@@ -4269,6 +4269,29 @@
         "https://doi.org/10.48550/arXiv.2601.20888"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision",
+        ".logs/20260803-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-LOG.md",
+        ".reports/BL-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.23960",
+      "arxiv_id": "2506.23960",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2506.23960",
+      "normalized_title": "ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P10; draw 40072 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ADReFT-Adaptive-Decision-Repair-for-Safe",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.23960",
+        "https://arxiv.org/html/2506.23960",
+        "https://arxiv.org/pdf/2506.23960",
+        "https://doi.org/10.48550/arXiv.2506.23960"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

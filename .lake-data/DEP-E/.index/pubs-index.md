@@ -2258,3 +2258,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Latent-IMH: Efficient Bayesian Inference for Inverse Problems with Approximate Operators* | Chen, Youguang; Biros, George | [arXiv:2601.20888](https://arxiv.org/abs/2601.20888) - [DOI](https://doi.org/10.48550/arXiv.2601.20888) |
+
+
+## [DEP-E-20260803-ADReFT Adaptive Decision](../DEP-E-20260803-ADReFT%20Adaptive%20Decision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning* | Cheng, Mingfei; Xie, Xiaofei; Wang, Renzhi; Zhou, Yuan; Hu, Ming | [arXiv:2506.23960](https://arxiv.org/abs/2506.23960) - [DOI](https://doi.org/10.48550/arXiv.2506.23960) |
