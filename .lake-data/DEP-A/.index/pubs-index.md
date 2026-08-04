@@ -5957,3 +5957,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ADKO: Agentic Decentralized Knowledge Optimization* | Lucas Nerone Rillo; Zhanhong Jiang; Nastaran Saadati; Aditya Balu; Baskar Ganapathysubramanian; Chinmay Hegde; Soumik Sarkar | [arXiv:2605.07863v1](https://arxiv.org/abs/2605.07863v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07863) |
+
+
+## [DEP-A-20260805-SPECTRE Spec Serving](../DEP-A-20260805-SPECTRE%20Spec%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.08151-whitepaper-review.md`](../DEP-A-20260805-SPECTRE%20Spec%20Serving/2605.08151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference* | Jincheng Xie; Yawen Ling; Qi Xiao; Feiyu Zhang; Zhongyi Huang; Wen Hu; Yu Zheng | [arXiv:2605.08151v2](https://arxiv.org/abs/2605.08151v2) - [DOI](https://doi.org/10.48550/arXiv.2605.08151) |
+
+
+## [DEP-A-20260805-ViT Multi Axis Search](../DEP-A-20260805-ViT%20Multi%20Axis%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.01742-whitepaper-review.md`](../DEP-A-20260805-ViT%20Multi%20Axis%20Search/2605.01742-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging* | Phat Nguyen; Xue Geng; Kaixin Xu; Wang Zhe; Xulei Yang; Ngai-Man Cheung | [arXiv:2605.01742v1](https://arxiv.org/abs/2605.01742v1) - [DOI](https://doi.org/10.48550/arXiv.2605.01742) |
+
+
+## [DEP-A-20260805-Agent Capsules](../DEP-A-20260805-Agent%20Capsules/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.00410-whitepaper-review.md`](../DEP-A-20260805-Agent%20Capsules/2605.00410-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines* | Aninda Ray | [arXiv:2605.00410v1](https://arxiv.org/abs/2605.00410v1) - [DOI](https://doi.org/10.48550/arXiv.2605.00410) |
+
+
+## [DEP-A-20260805-RefEvo Verification](../DEP-A-20260805-RefEvo%20Verification/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2604.24218-whitepaper-review.md`](../DEP-A-20260805-RefEvo%20Verification/2604.24218-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RefEvo: Agentic Design with Co-Evolutionary Verification for Agile Reference Model Generation* | Yifan Zhang; Jianmin Ye; Jiahao Yang; Xi Wang | [arXiv:2604.24218v1](https://arxiv.org/abs/2604.24218v1) - [DOI](https://doi.org/10.48550/arXiv.2604.24218) |
+
+
+## [DEP-A-20260805-Mask World Model](../DEP-A-20260805-Mask%20World%20Model/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2604.19683-whitepaper-review.md`](../DEP-A-20260805-Mask%20World%20Model/2604.19683-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mask World Model: Predicting What Matters for Robust Robot Policy Learning* | Yunfan Lou; Xiaowei Chi; Xiaojie Zhang; Zezhong Qian; Chengxuan Li; Rongyu Zhang; Yaoxu Lyu; Guoyu Song; Chuyao Fu; Haoxuan Xu; Pengwei Wang; Shanghang Zhang | [arXiv:2604.19683v2](https://arxiv.org/abs/2604.19683v2) - [DOI](https://doi.org/10.48550/arXiv.2604.19683) |
