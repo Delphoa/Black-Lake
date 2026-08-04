@@ -4386,6 +4386,29 @@
         "https://doi.org/10.48550/arXiv.2503.20376"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak",
+        ".logs/20260804-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-LOG.md",
+        ".reports/BL-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.21083",
+      "arxiv_id": "2410.21083",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2410.21083",
+      "normalized_title": "Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P04; draw 49891 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stealthy-Jailbreak-Attacks-on-Large-Language",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.21083",
+        "https://arxiv.org/html/2410.21083",
+        "https://arxiv.org/pdf/2410.21083",
+        "https://doi.org/10.48550/arXiv.2410.21083"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

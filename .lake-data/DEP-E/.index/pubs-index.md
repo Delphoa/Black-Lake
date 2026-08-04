@@ -2341,3 +2341,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dewey Long Context Embedding Model: A Technical Report* | Zhang, Dun; Zou, Panxiang; Zhou, Yudong | [arXiv:2503.20376](https://arxiv.org/abs/2503.20376) - [DOI](https://doi.org/10.48550/arXiv.2503.20376) |
+
+
+## [DEP-E-20260804-Stealthy Jailbreak](../DEP-E-20260804-Stealthy%20Jailbreak/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring* | Mu, Honglin; He, Han; Zhou, Yuxin; Feng, Yunlong; Xu, Yang; Qin, Libo; Shi, Xiaoming; Liu, Zeming; Han, Xudong; Shi, Qi; Zhu, Qingfu; Che, Wanxiang | [arXiv:2410.21083](https://arxiv.org/abs/2410.21083) - [DOI](https://doi.org/10.48550/arXiv.2410.21083) |
