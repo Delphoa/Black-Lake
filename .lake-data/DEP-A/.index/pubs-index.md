@@ -5822,3 +5822,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OmniPilot: An Uncertainty-Aware LLM Inference Advisor for Heterogeneous GPU Clusters* | D. Balamurugan; Thomas W. Bush | [arXiv:2607.01579v1](https://arxiv.org/abs/2607.01579v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01579) |
+
+
+## [DEP-A-20260805-Prefill Deflection](../DEP-A-20260805-Prefill%20Deflection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.02043-whitepaper-review.md`](../DEP-A-20260805-Prefill%20Deflection/2607.02043-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Load-Aware Prefill Deflection for Disaggregated LLM Serving* | Shrikara Arun; Anjaly Parayil; Srikant Bharadwaj; Renee St. Amant; Victor Rühle | [arXiv:2607.02043v1](https://arxiv.org/abs/2607.02043v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02043) |
+
+
+## [DEP-A-20260805-TriAttention Offset](../DEP-A-20260805-TriAttention%20Offset/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.13051-whitepaper-review.md`](../DEP-A-20260805-TriAttention%20Offset/2607.13051-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Precomputing the Future-Offset Average in TriAttention* | Amarnath Mukherjee | [arXiv:2607.13051v1](https://arxiv.org/abs/2607.13051v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13051) |
+
+
+## [DEP-A-20260805-ELDR MoE Routing](../DEP-A-20260805-ELDR%20MoE%20Routing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.00466-whitepaper-review.md`](../DEP-A-20260805-ELDR%20MoE%20Routing/2607.00466-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving* | Sangjin Choi; Sukmin Cho; Yifan Xiong; Ziyue Yang; Youngjin Kwon; Peng Cheng | [arXiv:2607.00466v2](https://arxiv.org/abs/2607.00466v2) - [DOI](https://doi.org/10.48550/arXiv.2607.00466) |
+
+
+## [DEP-A-20260805-SpiralFovea Tokens](../DEP-A-20260805-SpiralFovea%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.00780-whitepaper-review.md`](../DEP-A-20260805-SpiralFovea%20Tokens/2607.00780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpiralFovea: Input-Adaptive Foveated Tokenization as a Third Lever of Resource-Adaptive Inference* | Kyan Mahajan; Mohammad Saqlain | [arXiv:2607.00780v2](https://arxiv.org/abs/2607.00780v2) - [DOI](https://doi.org/10.48550/arXiv.2607.00780) |
+
+
+## [DEP-A-20260805-Cost Aware Early Exit](../DEP-A-20260805-Cost%20Aware%20Early%20Exit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2606.30852-whitepaper-review.md`](../DEP-A-20260805-Cost%20Aware%20Early%20Exit/2606.30852-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models* | Zhe Dong; Fang Qin; Manish Shah | [arXiv:2606.30852v2](https://arxiv.org/abs/2606.30852v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30852) |
