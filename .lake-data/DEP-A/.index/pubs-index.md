@@ -6092,3 +6092,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records* | Paula Font Solà; Adrià Molina Rodríguez; Josep Lladós | [arXiv:2607.08459v1](https://arxiv.org/abs/2607.08459v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08459) |
+
+
+## [DEP-A-20260805-Context Access Divide](../DEP-A-20260805-Context%20Access%20Divide/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.08495-whitepaper-review.md`](../DEP-A-20260805-Context%20Access%20Divide/2607.08495-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality* | Masahiro Fujita | [arXiv:2607.08495v1](https://arxiv.org/abs/2607.08495v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08495) |
+
+
+## [DEP-A-20260805-PatchOptic Shared State](../DEP-A-20260805-PatchOptic%20Shared%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.05483-whitepaper-review.md`](../DEP-A-20260805-PatchOptic%20Shared%20State/2607.05483-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates* | Zhaoyu Bai; Jiaqi Cai | [arXiv:2607.05483v1](https://arxiv.org/abs/2607.05483v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05483) |
+
+
+## [DEP-A-20260805-LLM Practice Auditing](../DEP-A-20260805-LLM%20Practice%20Auditing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.01248-whitepaper-review.md`](../DEP-A-20260805-LLM%20Practice%20Auditing/2607.01248-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Practice Auditing Framework for Large Language Model Use: Collective Empiricism, Pseudo-Rational Cognition, and Governance of AI-Generated Content* | Yang Zhao; Yingshuo Li; Zeyu Zhang | [arXiv:2607.01248v1](https://arxiv.org/abs/2607.01248v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01248) |
+
+
+## [DEP-A-20260805-POLAR Embodied Memory](../DEP-A-20260805-POLAR%20Embodied%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.26256-whitepaper-review.md`](../DEP-A-20260805-POLAR%20Embodied%20Memory/2605.26256-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions* | Jeongeun Lee; Chanyoung Park; Dongha Lee | [arXiv:2605.26256v1](https://arxiv.org/abs/2605.26256v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26256) |
+
+
+## [DEP-A-20260805-MemMorph Hijacking](../DEP-A-20260805-MemMorph%20Hijacking/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.26154-whitepaper-review.md`](../DEP-A-20260805-MemMorph%20Hijacking/2605.26154-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning* | Xuanye Zhang; Yongsen Zheng; Zhuqin Xu; Kaiyu Zhou; Bowen Shen; Haoran Ou; Tianwei Zhang; Kwok-Yan Lam | [arXiv:2605.26154v1](https://arxiv.org/abs/2605.26154v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26154) |
