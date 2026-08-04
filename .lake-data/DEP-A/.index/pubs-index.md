@@ -5912,3 +5912,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reasoning Matters: Mitigate Hallucination in Multimodal Large Reasoning Models via Reasoning-Conditioned Preference Optimization* | Jiawei Kong; Hao Fang; Shunxiang Liao; Jinyu Li; Bin Chen; Hao Wu; Shu-Tao Xia; Min Zhang | [arXiv:2605.27906v1](https://arxiv.org/abs/2605.27906v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27906) |
+
+
+## [DEP-A-20260805-Persona Task Composition](../DEP-A-20260805-Persona%20Task%20Composition/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.23147-whitepaper-review.md`](../DEP-A-20260805-Persona%20Task%20Composition/2605.23147-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *As X, Do Y: How Persona and Task Combine in Instruction-Tuned LLMs* | Eric Xu | [arXiv:2605.23147v1](https://arxiv.org/abs/2605.23147v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23147) |
+
+
+## [DEP-A-20260805-TSFLora Split Tuning](../DEP-A-20260805-TSFLora%20Split%20Tuning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.23988-whitepaper-review.md`](../DEP-A-20260805-TSFLora%20Split%20Tuning/2605.23988-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TSFLora: Token-Compressed Split Fine-Tuning for Wireless Edge Networks* | Xianke Qiang; Zheng Chang; Li Wang; Ying-Chang Liang | [arXiv:2605.23988v1](https://arxiv.org/abs/2605.23988v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23988) |
+
+
+## [DEP-A-20260805-Maritime DETR Efficiency](../DEP-A-20260805-Maritime%20DETR%20Efficiency/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.10269-whitepaper-review.md`](../DEP-A-20260805-Maritime%20DETR%20Efficiency/2605.10269-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Increasing the Efficiency of DETR for Maritime High-Resolution Images* | Tinsae Yehuala; Hao Cheng; Ville Lehtola | [arXiv:2605.10269v1](https://arxiv.org/abs/2605.10269v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10269) |
+
+
+## [DEP-A-20260805-Character Modality Role](../DEP-A-20260805-Character%20Modality%20Role/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.09443-whitepaper-review.md`](../DEP-A-20260805-Character%20Modality%20Role/2605.09443-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Through the Lens of Character: Resolving Modality-Role Interference in Multimodal Role-Playing Agent* | Yihong Tang; Kehai Chen; Xuefeng Bai; Min Zhang | [arXiv:2605.09443v1](https://arxiv.org/abs/2605.09443v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09443) |
+
+
+## [DEP-A-20260805-ADKO Knowledge Agents](../DEP-A-20260805-ADKO%20Knowledge%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.07863-whitepaper-review.md`](../DEP-A-20260805-ADKO%20Knowledge%20Agents/2605.07863-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ADKO: Agentic Decentralized Knowledge Optimization* | Lucas Nerone Rillo; Zhanhong Jiang; Nastaran Saadati; Aditya Balu; Baskar Ganapathysubramanian; Chinmay Hegde; Soumik Sarkar | [arXiv:2605.07863v1](https://arxiv.org/abs/2605.07863v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07863) |
