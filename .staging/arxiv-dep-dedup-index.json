@@ -4039,119 +4039,24 @@
     },
     {
       "artifact_paths": [
-        ".lake-data/DEP-E-20260803-T23DAQA Quality",
-        ".lake-data/DEP-E-20260803-T23DAQA Quality/README.md",
-        ".lake-data/DEP-E-20260803-T23DAQA Quality/t23daqa_quality_manuscript.md",
-        ".logs/20260803-Arxiv-T23DAQA-Quality-LOG.md",
-        ".logs/20260803-Arxiv-T23DAQA-Quality-PHASE-LOG.md",
-        ".reports/BL-Arxiv-T23DAQA-Quality-20260803/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.16915",
-      "arxiv_id": "2502.16915v1",
-      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/79ec6c3fddc625dc7ec947d51402759ef194e127",
-      "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2502.16915",
-      "normalized_title": "Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model",
-      "notes": "Uniform draw index 30907 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
-      "slug": "T23DAQA-Quality",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.16915",
-        "https://arxiv.org/html/2502.16915",
-        "https://arxiv.org/pdf/2502.16915",
-        "https://doi.org/10.48550/arXiv.2502.16915",
-        "https://github.com/ZedFu/T23DAQA"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-One-shot neural band",
-        ".logs/20260803-Arxiv-One-shot-neural-band-selection-for-spectral-LOG.md",
-        ".reports/BL-Arxiv-One-shot-neural-band-selection-for-spectral-20260803/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision",
+        ".logs/20260803-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-LOG.md",
+        ".reports/BL-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-20260803/Report-Mark.md"
       ],
-      "arxiv_base_id": "2305.09236",
-      "arxiv_id": "2305.09236",
+      "arxiv_base_id": "2506.23960",
+      "arxiv_id": "2506.23960",
       "commit_or_pr": "",
       "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2305.09236",
-      "normalized_title": "One-shot neural band selection for spectral recovery",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P01; draw 75793 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "One-shot-neural-band-selection-for-spectral",
+      "doi": "10.48550/arXiv.2506.23960",
+      "normalized_title": "ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P10; draw 40072 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ADReFT-Adaptive-Decision-Repair-for-Safe",
       "source_urls": [
-        "https://arxiv.org/abs/2305.09236",
-        "https://arxiv.org/html/2305.09236",
-        "https://arxiv.org/pdf/2305.09236",
-        "https://doi.org/10.48550/arXiv.2305.09236"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better",
-        ".logs/20260803-Arxiv-Failure-Cases-Are-Better-Learned-But-Boundary-LOG.md",
-        ".reports/BL-Arxiv-Failure-Cases-Are-Better-Learned-But-Boundary-20260803/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2508.02186",
-      "arxiv_id": "2508.02186",
-      "commit_or_pr": "",
-      "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2508.02186",
-      "normalized_title": "Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P02; draw 40314 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Failure-Cases-Are-Better-Learned-But-Boundary",
-      "source_urls": [
-        "https://arxiv.org/abs/2508.02186",
-        "https://arxiv.org/html/2508.02186",
-        "https://arxiv.org/pdf/2508.02186",
-        "https://doi.org/10.48550/arXiv.2508.02186"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-Stock Market Trend",
-        ".logs/20260803-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-LOG.md",
-        ".reports/BL-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-20260803/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2104.09700",
-      "arxiv_id": "2104.09700",
-      "commit_or_pr": "",
-      "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2104.09700",
-      "normalized_title": "Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P03; draw 16080 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Stock-Market-Trend-Analysis-Using-Hidden-Markov",
-      "source_urls": [
-        "https://arxiv.org/abs/2104.09700",
-        "https://arxiv.org/html/2104.09700",
-        "https://arxiv.org/pdf/2104.09700",
-        "https://doi.org/10.48550/arXiv.2104.09700"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-Interaction Measures",
-        ".logs/20260803-Arxiv-Interaction-Measures-Partition-Lattices-and-LOG.md",
-        ".reports/BL-Arxiv-Interaction-Measures-Partition-Lattices-and-20260803/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2306.00904",
-      "arxiv_id": "2306.00904",
-      "commit_or_pr": "",
-      "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2306.00904",
-      "normalized_title": "Interaction Measures, Partition Lattices and Kernel Tests for High-Order Interactions",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P04; draw 75267 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Interaction-Measures-Partition-Lattices-and",
-      "source_urls": [
-        "https://arxiv.org/abs/2306.00904",
-        "https://arxiv.org/html/2306.00904",
-        "https://arxiv.org/pdf/2306.00904",
-        "https://doi.org/10.48550/arXiv.2306.00904"
+        "https://arxiv.org/abs/2506.23960",
+        "https://arxiv.org/html/2506.23960",
+        "https://arxiv.org/pdf/2506.23960",
+        "https://doi.org/10.48550/arXiv.2506.23960"
       ],
       "status": "deposited"
     },
@@ -4204,29 +4109,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-Texturing and Deforming",
-        ".logs/20260803-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-LOG.md",
-        ".reports/BL-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-20260803/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1809.03144",
-      "arxiv_id": "1809.03144",
-      "commit_or_pr": "",
-      "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.1809.03144",
-      "normalized_title": "Texturing and Deforming Meshes with Casual Images",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P07; draw 11679 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Texturing-and-Deforming-Meshes-with-Casual",
-      "source_urls": [
-        "https://arxiv.org/abs/1809.03144",
-        "https://arxiv.org/html/1809.03144",
-        "https://arxiv.org/pdf/1809.03144",
-        "https://doi.org/10.48550/arXiv.1809.03144"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260803-Extended to Reality",
         ".logs/20260803-Arxiv-Extended-to-Reality-Prompt-Injection-in-3D-LOG.md",
         ".reports/BL-Arxiv-Extended-to-Reality-Prompt-Injection-in-3D-20260803/Report-Mark.md"
@@ -4244,6 +4126,52 @@
         "https://arxiv.org/html/2602.07104",
         "https://arxiv.org/pdf/2602.07104",
         "https://doi.org/10.48550/arXiv.2602.07104"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better",
+        ".logs/20260803-Arxiv-Failure-Cases-Are-Better-Learned-But-Boundary-LOG.md",
+        ".reports/BL-Arxiv-Failure-Cases-Are-Better-Learned-But-Boundary-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.02186",
+      "arxiv_id": "2508.02186",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2508.02186",
+      "normalized_title": "Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P02; draw 40314 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Failure-Cases-Are-Better-Learned-But-Boundary",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.02186",
+        "https://arxiv.org/html/2508.02186",
+        "https://arxiv.org/pdf/2508.02186",
+        "https://doi.org/10.48550/arXiv.2508.02186"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Interaction Measures",
+        ".logs/20260803-Arxiv-Interaction-Measures-Partition-Lattices-and-LOG.md",
+        ".reports/BL-Arxiv-Interaction-Measures-Partition-Lattices-and-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.00904",
+      "arxiv_id": "2306.00904",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2306.00904",
+      "normalized_title": "Interaction Measures, Partition Lattices and Kernel Tests for High-Order Interactions",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P04; draw 75267 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Interaction-Measures-Partition-Lattices-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.00904",
+        "https://arxiv.org/html/2306.00904",
+        "https://arxiv.org/pdf/2306.00904",
+        "https://doi.org/10.48550/arXiv.2306.00904"
       ],
       "status": "deposited"
     },
@@ -4273,23 +4201,120 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision",
-        ".logs/20260803-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-LOG.md",
-        ".reports/BL-Arxiv-ADReFT-Adaptive-Decision-Repair-for-Safe-20260803/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260803-One-shot neural band",
+        ".logs/20260803-Arxiv-One-shot-neural-band-selection-for-spectral-LOG.md",
+        ".reports/BL-Arxiv-One-shot-neural-band-selection-for-spectral-20260803/Report-Mark.md"
       ],
-      "arxiv_base_id": "2506.23960",
-      "arxiv_id": "2506.23960",
+      "arxiv_base_id": "2305.09236",
+      "arxiv_id": "2305.09236",
       "commit_or_pr": "",
       "deposit_date": "20260803",
-      "doi": "10.48550/arXiv.2506.23960",
-      "normalized_title": "ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning",
-      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P10; draw 40072 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "ADReFT-Adaptive-Decision-Repair-for-Safe",
+      "doi": "10.48550/arXiv.2305.09236",
+      "normalized_title": "One-shot neural band selection for spectral recovery",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P01; draw 75793 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "One-shot-neural-band-selection-for-spectral",
       "source_urls": [
-        "https://arxiv.org/abs/2506.23960",
-        "https://arxiv.org/html/2506.23960",
-        "https://arxiv.org/pdf/2506.23960",
-        "https://doi.org/10.48550/arXiv.2506.23960"
+        "https://arxiv.org/abs/2305.09236",
+        "https://arxiv.org/html/2305.09236",
+        "https://arxiv.org/pdf/2305.09236",
+        "https://doi.org/10.48550/arXiv.2305.09236"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Stock Market Trend",
+        ".logs/20260803-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-LOG.md",
+        ".reports/BL-Arxiv-Stock-Market-Trend-Analysis-Using-Hidden-Markov-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2104.09700",
+      "arxiv_id": "2104.09700",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2104.09700",
+      "normalized_title": "Stock Market Trend Analysis Using Hidden Markov Model and Long Short Term Memory",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P03; draw 16080 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stock-Market-Trend-Analysis-Using-Hidden-Markov",
+      "source_urls": [
+        "https://arxiv.org/abs/2104.09700",
+        "https://arxiv.org/html/2104.09700",
+        "https://arxiv.org/pdf/2104.09700",
+        "https://doi.org/10.48550/arXiv.2104.09700"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260803-T23DAQA Quality",
+        ".lake-data/DEP-E-20260803-T23DAQA Quality/README.md",
+        ".lake-data/DEP-E-20260803-T23DAQA Quality/t23daqa_quality_manuscript.md",
+        ".logs/20260803-Arxiv-T23DAQA-Quality-LOG.md",
+        ".logs/20260803-Arxiv-T23DAQA-Quality-PHASE-LOG.md",
+        ".reports/BL-Arxiv-T23DAQA-Quality-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.16915",
+      "arxiv_id": "2502.16915v1",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/79ec6c3fddc625dc7ec947d51402759ef194e127",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.2502.16915",
+      "normalized_title": "Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model",
+      "notes": "Uniform draw index 30907 of 75957 units; duplicate exclusions 0; reselections 0; initial partial source repaired to verified complete PDF/full-paper HTML; cache miss became cached; source files withheld locally and no source files uploaded.",
+      "slug": "T23DAQA-Quality",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.16915",
+        "https://arxiv.org/html/2502.16915",
+        "https://arxiv.org/pdf/2502.16915",
+        "https://doi.org/10.48550/arXiv.2502.16915",
+        "https://github.com/ZedFu/T23DAQA"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260803-Texturing and Deforming",
+        ".logs/20260803-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-LOG.md",
+        ".reports/BL-Arxiv-Texturing-and-Deforming-Meshes-with-Casual-20260803/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1809.03144",
+      "arxiv_id": "1809.03144",
+      "commit_or_pr": "",
+      "deposit_date": "20260803",
+      "doi": "10.48550/arXiv.1809.03144",
+      "normalized_title": "Texturing and Deforming Meshes with Casual Images",
+      "notes": "Job BLAD-2200-20260803-11C1283E item BLAD-2200-20260803-11C1283E-P07; draw 11679 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Texturing-and-Deforming-Meshes-with-Casual",
+      "source_urls": [
+        "https://arxiv.org/abs/1809.03144",
+        "https://arxiv.org/html/1809.03144",
+        "https://arxiv.org/pdf/1809.03144",
+        "https://doi.org/10.48550/arXiv.1809.03144"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control",
+        ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/README.md",
+        ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md",
+        ".logs/20260804-Arxiv-CogPortrait-Eye-Control-LOG.md",
+        ".logs/20260804-Arxiv-CogPortrait-Eye-Control-PHASE-LOG.md",
+        ".reports/BL-Arxiv-CogPortrait-Eye-Control-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.28056",
+      "arxiv_id": "2605.28056v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2605.28056",
+      "normalized_title": "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning",
+      "notes": "Uniform draw index 43688 of 75957 parent-paper units; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache is cached with pypdf and html-regex; source package unavailable; no source files redistributed.",
+      "slug": "CogPortrait-Eye-Control",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.28056",
+        "https://arxiv.org/html/2605.28056",
+        "https://arxiv.org/pdf/2605.28056",
+        "https://doi.org/10.48550/arXiv.2605.28056"
       ],
       "status": "deposited"
     }
