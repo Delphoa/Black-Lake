@@ -2355,3 +2355,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Meta-Learning for Few-Shot Land Cover Classification* | Rußwurm, Marc; Wang, Sherrie; Körner, Marco; Lobell, David | [arXiv:2004.13390](https://arxiv.org/abs/2004.13390) - [DOI](https://doi.org/10.48550/arXiv.2004.13390) |
+
+
+## [DEP-E-20260804-In-Context World Modeling](../DEP-E-20260804-In-Context%20World%20Modeling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *In-Context World Modeling for Robotic Control* | Wang, Siyin; Shi, Junhao; Fei, Senyu; Fu, Zhaoyang; Ji, Li; Gong, Jingjing; Qiu, Xipeng | [arXiv:2606.26025](https://arxiv.org/abs/2606.26025) - [DOI](https://doi.org/10.48550/arXiv.2606.26025) |
