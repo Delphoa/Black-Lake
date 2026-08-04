@@ -2334,3 +2334,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sparse Vector Recovery: Bernoulli-Gaussian Message Passing* | Liu, Lei; Huang, Chongwen; Chi, Yuhao; Yuen, Chau; Guan, Yong Liang; Li, Ying | [arXiv:1707.09613](https://arxiv.org/abs/1707.09613) - [DOI](https://doi.org/10.48550/arXiv.1707.09613) |
+
+
+## [DEP-E-20260804-Dewey Long Context](../DEP-E-20260804-Dewey%20Long%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dewey Long Context Embedding Model: A Technical Report* | Zhang, Dun; Zou, Panxiang; Zhou, Yudong | [arXiv:2503.20376](https://arxiv.org/abs/2503.20376) - [DOI](https://doi.org/10.48550/arXiv.2503.20376) |
