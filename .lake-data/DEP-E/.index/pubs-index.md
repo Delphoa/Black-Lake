@@ -2369,3 +2369,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Watching Too Much Television is Good: Self-Supervised Audio-Visual Representation Learning from Movies and TV Shows* | Kalayeh, Mahdi M.; Kamath, Nagendra; Liu, Lingyi; Chandrashekar, Ashok | [arXiv:2106.08513](https://arxiv.org/abs/2106.08513) - [DOI](https://doi.org/10.48550/arXiv.2106.08513) |
+
+
+## [DEP-E-20260804-ELECRec Training](../DEP-E-20260804-ELECRec%20Training/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ELECRec: Training Sequential Recommenders as Discriminators* | Chen, Yongjun; Li, Jia; Xiong, Caiming | [arXiv:2204.02011](https://arxiv.org/abs/2204.02011) - [DOI](https://doi.org/10.48550/arXiv.2204.02011) |

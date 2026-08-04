@@ -4478,6 +4478,29 @@
         "https://doi.org/10.48550/arXiv.2106.08513"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-ELECRec Training",
+        ".logs/20260804-Arxiv-ELECRec-Training-Sequential-Recommenders-as-LOG.md",
+        ".reports/BL-Arxiv-ELECRec-Training-Sequential-Recommenders-as-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2204.02011",
+      "arxiv_id": "2204.02011",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2204.02011",
+      "normalized_title": "ELECRec: Training Sequential Recommenders as Discriminators",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P08; draw 49197 of 75957 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "ELECRec-Training-Sequential-Recommenders-as",
+      "source_urls": [
+        "https://arxiv.org/abs/2204.02011",
+        "https://arxiv.org/html/2204.02011",
+        "https://arxiv.org/pdf/2204.02011",
+        "https://doi.org/10.48550/arXiv.2204.02011"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
