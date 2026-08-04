@@ -4304,11 +4304,11 @@
       ],
       "arxiv_base_id": "2605.28056",
       "arxiv_id": "2605.28056v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/33702e75",
       "deposit_date": "20260804",
       "doi": "10.48550/arXiv.2605.28056",
       "normalized_title": "CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning",
-      "notes": "Uniform draw index 43688 of 75957 parent-paper units; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache is cached with pypdf and html-regex; source package unavailable; no source files redistributed.",
+      "notes": "Uniform draw index 43688 of 75957 parent-paper units; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache is cached with pypdf and html-regex; source package unavailable; no source files redistributed; primary artifact commit 33702e75.",
       "slug": "CogPortrait-Eye-Control",
       "source_urls": [
         "https://arxiv.org/abs/2605.28056",
