@@ -6047,3 +6047,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Boolean queries are all you need?* | Charles L. A. Clarke; Mark D. Smucker | [arXiv:2607.11362v1](https://arxiv.org/abs/2607.11362v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11362) |
+
+
+## [DEP-A-20260805-CAFE Factorial Eval](../DEP-A-20260805-CAFE%20Factorial%20Eval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.10380-whitepaper-review.md`](../DEP-A-20260805-CAFE%20Factorial%20Eval/2607.10380-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CAFE: A Compound-AI Factorial Evaluation Framework* | Fabian Lukassen; Christoph Weisser; Thomas Kneib; Alexander Silbersdorff | [arXiv:2607.10380v1](https://arxiv.org/abs/2607.10380v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10380) |
+
+
+## [DEP-A-20260805-Index SLM 1.9B](../DEP-A-20260805-Index%20SLM%201.9B/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.09885-whitepaper-review.md`](../DEP-A-20260805-Index%20SLM%201.9B/2607.09885-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Index SLM Technical Report* | Lusheng Zhang; Shien He; Tianxing Yan; Mengran Yu; Ziang Cui; Kai Zhao; Xiaojing Liu; Tianjiao Li | [arXiv:2607.09885v1](https://arxiv.org/abs/2607.09885v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09885) |
+
+
+## [DEP-A-20260805-TGMS BiTemporal Graph](../DEP-A-20260805-TGMS%20BiTemporal%20Graph/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.10265-whitepaper-review.md`](../DEP-A-20260805-TGMS%20BiTemporal%20Graph/2607.10265-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TGMS: An Agent-Native Bi-Temporal Graph Management System* | Xiaofei Zhang | [arXiv:2607.10265v1](https://arxiv.org/abs/2607.10265v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10265) |
+
+
+## [DEP-A-20260805-DaV Gen Retrieval](../DEP-A-20260805-DaV%20Gen%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.08365-whitepaper-review.md`](../DEP-A-20260805-DaV%20Gen%20Retrieval/2607.08365-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify* | Meng Zhao; Chunmei Liu; Qinyong Wang | [arXiv:2607.08365v1](https://arxiv.org/abs/2607.08365v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08365) |
+
+
+## [DEP-A-20260805-Penitentiary KG RAG](../DEP-A-20260805-Penitentiary%20KG%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.08459-whitepaper-review.md`](../DEP-A-20260805-Penitentiary%20KG%20RAG/2607.08459-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records* | Paula Font Solà; Adrià Molina Rodríguez; Josep Lladós | [arXiv:2607.08459v1](https://arxiv.org/abs/2607.08459v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08459) |
