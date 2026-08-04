@@ -2390,3 +2390,19 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering* | Yang, Xiaokang; Yan, Gongmin; Yang, Hao; Li, Sihai | [arXiv:2202.13700](https://arxiv.org/abs/2202.13700) - [DOI](https://doi.org/10.48550/arXiv.2202.13700) |
+
+
+## [DEP-E-20260805-Stateful AI Evaluation](../DEP-E-20260805-Stateful%20AI%20Evaluation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Attacks in Persistent-State AI Control* | Josh Hills; Ida Caspary; Asa Cooper Stickland | [arXiv:2607.02514v2](https://arxiv.org/abs/2607.02514v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02514) |
+| *Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification* | Yunhao Feng; Ruixiao Lin; Ming Wen; *et al.* | [arXiv:2607.01793v2](https://arxiv.org/abs/2607.01793v2) - [DOI](https://doi.org/10.48550/arXiv.2607.01793) |
+| *Cloak and Detonate: Scanner Evasion and Dynamic Detection of Agent Skill Malware* | Zimo Ji; Congying Xu; Zongjie Li; *et al.* | [arXiv:2607.02357v2](https://arxiv.org/abs/2607.02357v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02357) |
+| *DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models* | Xi Fang; Weijie Xu; Yingqiang Ge; *et al.* | [arXiv:2607.02374v2](https://arxiv.org/abs/2607.02374v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02374) |
+| *AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents* | Xiangchen Cheng; Yunwei Jiang; Jianwen Sun; *et al.* | [arXiv:2607.02255v1](https://arxiv.org/abs/2607.02255v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02255) |
+| *ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning* | Yanjun Zhao; Ruizhong Qiu; Tianxin Wei; *et al.* | [arXiv:2607.02509v1](https://arxiv.org/abs/2607.02509v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02509) |
+| *Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference* | Wenchen Han; Gingfung Matthew Yeung; Marco Barletta; *et al.* | [arXiv:2607.01831v1](https://arxiv.org/abs/2607.01831v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01831) |
+| *WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs* | Mauricio Fadel Argerich; Jonathan Fürst; Marta Patiño-Martínez | [arXiv:2607.02391v1](https://arxiv.org/abs/2607.02391v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02391) |
+| *A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks* | Samiha A. Ismail; Fan X. Chen; Ali Merali | [arXiv:2607.02175v1](https://arxiv.org/abs/2607.02175v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02175) |
+| *Optimal Stabilizer Testing and Learning with Limited Quantum Memory* | Srinivasan Arunachalam; Louis Schatzki | [arXiv:2607.02444v1](https://arxiv.org/abs/2607.02444v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02444) |
