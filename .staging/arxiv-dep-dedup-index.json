@@ -4501,6 +4501,29 @@
         "https://doi.org/10.48550/arXiv.2204.02011"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee",
+        ".logs/20260804-Arxiv-Reconstruction-Guarantee-Analysis-of-Binary-LOG.md",
+        ".reports/BL-Arxiv-Reconstruction-Guarantee-Analysis-of-Binary-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1301.4926",
+      "arxiv_id": "1301.4926",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.1301.4926",
+      "normalized_title": "Reconstruction Guarantee Analysis of Binary Measurement Matrices Based on Girth",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P09; draw 34340 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Reconstruction-Guarantee-Analysis-of-Binary",
+      "source_urls": [
+        "https://arxiv.org/abs/1301.4926",
+        "https://arxiv.org/html/1301.4926",
+        "https://arxiv.org/pdf/1301.4926",
+        "https://doi.org/10.48550/arXiv.1301.4926"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
