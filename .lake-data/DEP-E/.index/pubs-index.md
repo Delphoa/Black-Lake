@@ -2327,3 +2327,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution* | Xu, Chaoran; Lv, Chengkan; Chen, Qiyu; Cao, Yunkang; Zhang, Feng; Zhang, Zhengtao | [arXiv:2511.16920](https://arxiv.org/abs/2511.16920) - [DOI](https://doi.org/10.48550/arXiv.2511.16920) |
+
+
+## [DEP-E-20260804-Sparse Vector Recovery](../DEP-E-20260804-Sparse%20Vector%20Recovery/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparse Vector Recovery: Bernoulli-Gaussian Message Passing* | Liu, Lei; Huang, Chongwen; Chi, Yuhao; Yuen, Chau; Guan, Yong Liang; Li, Ying | [arXiv:1707.09613](https://arxiv.org/abs/1707.09613) - [DOI](https://doi.org/10.48550/arXiv.1707.09613) |

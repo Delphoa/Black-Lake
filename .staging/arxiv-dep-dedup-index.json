@@ -4340,6 +4340,29 @@
         "https://doi.org/10.48550/arXiv.2511.16920"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery",
+        ".logs/20260804-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-LOG.md",
+        ".reports/BL-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1707.09613",
+      "arxiv_id": "1707.09613",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.1707.09613",
+      "normalized_title": "Sparse Vector Recovery: Bernoulli-Gaussian Message Passing",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P02; draw 57276 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Sparse-Vector-Recovery-Bernoulli-Gaussian",
+      "source_urls": [
+        "https://arxiv.org/abs/1707.09613",
+        "https://arxiv.org/html/1707.09613",
+        "https://arxiv.org/pdf/1707.09613",
+        "https://doi.org/10.48550/arXiv.1707.09613"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
