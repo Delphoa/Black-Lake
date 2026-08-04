@@ -6002,3 +6002,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mask World Model: Predicting What Matters for Robust Robot Policy Learning* | Yunfan Lou; Xiaowei Chi; Xiaojie Zhang; Zezhong Qian; Chengxuan Li; Rongyu Zhang; Yaoxu Lyu; Guoyu Song; Chuyao Fu; Haoxuan Xu; Pengwei Wang; Shanghang Zhang | [arXiv:2604.19683v2](https://arxiv.org/abs/2604.19683v2) - [DOI](https://doi.org/10.48550/arXiv.2604.19683) |
+
+
+## [DEP-A-20260805-RAGthoven SemEval](../DEP-A-20260805-RAGthoven%20SemEval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.13189-whitepaper-review.md`](../DEP-A-20260805-RAGthoven%20SemEval/2607.13189-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGthoven at SemEval-2026 Task 1: A Multi-Stage Pipeline Walks Into a Benchmark and Barely Clears the Bar* | Marek Šuppa; Viktória Ondrejová; Lucia Ganajová; Gregor Karetka; Daniel Skala | [arXiv:2607.13189v1](https://arxiv.org/abs/2607.13189v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13189) |
+
+
+## [DEP-A-20260805-LEA Classroom Scale](../DEP-A-20260805-LEA%20Classroom%20Scale/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.13370-whitepaper-review.md`](../DEP-A-20260805-LEA%20Classroom%20Scale/2607.13370-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System* | Teri Rumble; Javad Zarrin; P. George Lovell; Ruth Falconer | [arXiv:2607.13370v1](https://arxiv.org/abs/2607.13370v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13370) |
+
+
+## [DEP-A-20260805-LakeQuest Data Lakes](../DEP-A-20260805-LakeQuest%20Data%20Lakes/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.12310-whitepaper-review.md`](../DEP-A-20260805-LakeQuest%20Data%20Lakes/2607.12310-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes* | Michael Solodko; Steven Gong; Guangwei Yu; Satya Krishna Gorti; Jesse C. Cresswell; Victor Zhong | [arXiv:2607.12310v1](https://arxiv.org/abs/2607.12310v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12310) |
+
+
+## [DEP-A-20260805-Z COPA ROM Planning](../DEP-A-20260805-Z%20COPA%20ROM%20Planning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.10994-whitepaper-review.md`](../DEP-A-20260805-Z%20COPA%20ROM%20Planning/2607.10994-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning* | Bingteng Sun; Hao Yin; Yiling Chen; Renjie Xiao; Lei Xie; Shanyou Wang; Ruonan Wang; Shubao Chen; Qingzong Xu; Lin Lu; Qiang Du; Junqiang Zhu | [arXiv:2607.10994v1](https://arxiv.org/abs/2607.10994v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10994) |
+
+
+## [DEP-A-20260805-Boolean Agent Search](../DEP-A-20260805-Boolean%20Agent%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.11362-whitepaper-review.md`](../DEP-A-20260805-Boolean%20Agent%20Search/2607.11362-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Boolean queries are all you need?* | Charles L. A. Clarke; Mark D. Smucker | [arXiv:2607.11362v1](https://arxiv.org/abs/2607.11362v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11362) |
