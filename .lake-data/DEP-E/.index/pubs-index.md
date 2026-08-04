@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **583 publication reviews across 321 DEP-E entries**.
+- Current coverage: **584 publication reviews across 322 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-04; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260804-RPDG Incremental Grad](../DEP-E-20260804-RPDG%20Incremental%20Grad/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *An optimal randomized incremental gradient method* | Guanghui Lan; Yi Zhou | [arXiv:1507.02000v3](https://arxiv.org/abs/1507.02000); [arXiv DOI](https://doi.org/10.48550/arXiv.1507.02000); [Springer DOI](https://doi.org/10.1007/s10107-017-1173-0) | [DEP-E](../DEP-E-20260804-RPDG%20Incremental%20Grad/README.md) |
 
 ## [DEP-E-20260804-Evidence-Bound Systems](../DEP-E-20260804-Evidence-Bound%20Systems/README.md)
 
