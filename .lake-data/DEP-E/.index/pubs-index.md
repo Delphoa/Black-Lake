@@ -2362,3 +2362,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *In-Context World Modeling for Robotic Control* | Wang, Siyin; Shi, Junhao; Fei, Senyu; Fu, Zhaoyang; Ji, Li; Gong, Jingjing; Qiu, Xipeng | [arXiv:2606.26025](https://arxiv.org/abs/2606.26025) - [DOI](https://doi.org/10.48550/arXiv.2606.26025) |
+
+
+## [DEP-E-20260804-Watching Too Much](../DEP-E-20260804-Watching%20Too%20Much/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Watching Too Much Television is Good: Self-Supervised Audio-Visual Representation Learning from Movies and TV Shows* | Kalayeh, Mahdi M.; Kamath, Nagendra; Liu, Lingyi; Chandrashekar, Ashok | [arXiv:2106.08513](https://arxiv.org/abs/2106.08513) - [DOI](https://doi.org/10.48550/arXiv.2106.08513) |

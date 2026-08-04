@@ -4455,6 +4455,29 @@
         "https://doi.org/10.48550/arXiv.2606.26025"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Watching Too Much",
+        ".logs/20260804-Arxiv-Watching-Too-Much-Television-is-Good-Self-LOG.md",
+        ".reports/BL-Arxiv-Watching-Too-Much-Television-is-Good-Self-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2106.08513",
+      "arxiv_id": "2106.08513",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2106.08513",
+      "normalized_title": "Watching Too Much Television is Good: Self-Supervised Audio-Visual Representation Learning from Movies and TV Shows",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P07; draw 67495 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Watching-Too-Much-Television-is-Good-Self",
+      "source_urls": [
+        "https://arxiv.org/abs/2106.08513",
+        "https://arxiv.org/html/2106.08513",
+        "https://arxiv.org/pdf/2106.08513",
+        "https://doi.org/10.48550/arXiv.2106.08513"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
