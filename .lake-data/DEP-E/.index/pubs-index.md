@@ -2320,3 +2320,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Conceptual Compression via Deep Structure and Texture Synthesis* | Chang, Jianhui; Zhao, Zhenghui; Jia, Chuanmin; Wang, Shiqi; Yang, Lingbo; Mao, Qi; Zhang, Jian; Ma, Siwei | [arXiv:2011.04976](https://arxiv.org/abs/2011.04976) - [DOI](https://doi.org/10.48550/arXiv.2011.04976) |
+
+
+## [DEP-E-20260804-DeltaDeno Zero-Shot](../DEP-E-20260804-DeltaDeno%20Zero-Shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution* | Xu, Chaoran; Lv, Chengkan; Chen, Qiyu; Cao, Yunkang; Zhang, Feng; Zhang, Zhengtao | [arXiv:2511.16920](https://arxiv.org/abs/2511.16920) - [DOI](https://doi.org/10.48550/arXiv.2511.16920) |
