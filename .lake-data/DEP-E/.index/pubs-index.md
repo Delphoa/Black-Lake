@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **493 publication reviews across 249 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-03; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **583 publication reviews across 321 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-04; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260804-Evidence-Bound Systems](../DEP-E-20260804-Evidence-Bound%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Proof-or-Stop: Don't Trust the Agent, Trust the Evidence -- Loop Engineering for Verifiable Evidence-Gated Lifecycle Control* | Jek Huang; Jeffery Hsia; Jiayi Sun; Freddie Shi; Wei Huang; Ian H. White | [arXiv:2607.14890v1](https://arxiv.org/abs/2607.14890v1); [DOI](https://doi.org/10.48550/arXiv.2607.14890) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *Transcoders for Investigating Deception in Language Models* | Darius Lim; Nathan Leow; Xin Wei Chia | [arXiv:2607.14791v1](https://arxiv.org/abs/2607.14791v1); [DOI](https://doi.org/10.48550/arXiv.2607.14791) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *SMC-ES: Automated synthesis of formally verified control policies* | Riccardo Curcio; Toni Mancini; Enrico Tronci | [arXiv:2607.15003v1](https://arxiv.org/abs/2607.15003v1); [DOI](https://doi.org/10.48550/arXiv.2607.15003) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *SmartRAG: Native Graph-Based RAG for Mobile Device* | Zhihan Jiang; Meng Li; Shenghao Liu; *et al.* | [arXiv:2607.14661v2](https://arxiv.org/abs/2607.14661v2); [DOI](https://doi.org/10.48550/arXiv.2607.14661) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *TopoAgent: A Self-Evolving Topological Agent for Multimodal Scientific Reasoning* | Mingze Xu; Yinghui Li; Jiayi Kuang; Zhanhui Kang; Di Yin; Ying Shen; Xing Sun; Yuxing Han | [arXiv:2607.14658v1](https://arxiv.org/abs/2607.14658v1); [DOI](https://doi.org/10.48550/arXiv.2607.14658) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *Alipay-PIBench: A Realistic Payment Integration Benchmark for Coding Agents* | Shiyu Ying; Xuejie Cao; Yingfan Ma; Yuanhao Dong; Wenyu Chen; Bowen Song; Lin Zhu | [arXiv:2607.14573v3](https://arxiv.org/abs/2607.14573v3); [DOI](https://doi.org/10.48550/arXiv.2607.14573) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *AutoSynthesis: An agentic system for automated meta-analysis* | Moein Taherinezhad; Sebastian Maier; Gerardo Vitagliano; Francesco Pierri; Stefan Feuerriegel | [arXiv:2607.15247v1](https://arxiv.org/abs/2607.15247v1); [DOI](https://doi.org/10.48550/arXiv.2607.15247) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *Demographically-Conditioned Synthetic Medical Images for Bias Mitigation and Bias Detection in Disease Classifiers* | Mahmoud Ibrahim; Bart Elen; Chang Sun; Gokhan Ertaylan; Michel Dumontier | [arXiv:2607.14984v1](https://arxiv.org/abs/2607.14984v1); [DOI](https://doi.org/10.48550/arXiv.2607.14984) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *Seeing the End at Step Zero: Accelerating Diffusion MLLMs via MLP Sparsity-Aware Truncation* | Qicheng Zhao; Qi Sun; Zheyu Yan | [arXiv:2607.14557v1](https://arxiv.org/abs/2607.14557v1); [DOI](https://doi.org/10.48550/arXiv.2607.14557) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
+| *Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions* | Yijiang Li; Huiqi Zou; Bingyang Wang; Ziang Xiao | [arXiv:2607.14499v1](https://arxiv.org/abs/2607.14499v1); [DOI](https://doi.org/10.48550/arXiv.2607.14499) | [DEP-E](../DEP-E-20260804-Evidence-Bound%20Systems/README.md) |
 
 ## [DEP-E-20260804-Agent Systems](../DEP-E-20260804-Agent%20Systems/README.md)
 
