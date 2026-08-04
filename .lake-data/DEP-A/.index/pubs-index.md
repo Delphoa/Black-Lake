@@ -5867,3 +5867,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models* | Zhe Dong; Fang Qin; Manish Shah | [arXiv:2606.30852v2](https://arxiv.org/abs/2606.30852v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30852) |
+
+
+## [DEP-A-20260805-S2S Capability Retain](../DEP-A-20260805-S2S%20Capability%20Retain/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2606.30944-whitepaper-review.md`](../DEP-A-20260805-S2S%20Capability%20Retain/2606.30944-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Preserving Speech-to-Text LLM Capabilities in Speech-to-Speech Generation* | Yuxuan Hu; Heng Lu; Ruchao Fan; Yao Qian; Xiaofei Wang; Jian Xue; Heming Wang; Shuohang Wang; Young Jin Kim; Yelong Shen; Jinyu Li | [arXiv:2606.30944v1](https://arxiv.org/abs/2606.30944v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30944) |
+
+
+## [DEP-A-20260805-Speculative PrePosition](../DEP-A-20260805-Speculative%20PrePosition/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2606.29565-whitepaper-review.md`](../DEP-A-20260805-Speculative%20PrePosition/2606.29565-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Speculative Pre-Positioning: Decoding Stateful Sessions to the Next Decision Point Off the Critical Path* | Victor Norgren | [arXiv:2606.29565v1](https://arxiv.org/abs/2606.29565v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29565) |
+
+
+## [DEP-A-20260805-ASAP Agent System HPO](../DEP-A-20260805-ASAP%20Agent%20System%20HPO/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2606.25207-whitepaper-review.md`](../DEP-A-20260805-ASAP%20Agent%20System%20HPO/2606.25207-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments* | Taicheng Guo; Haomin Zhuang; Kehan Guo; Yujun Zhou; Nitesh V. Chawla; Olaf Wiest; Xiangliang Zhang | [arXiv:2606.25207v1](https://arxiv.org/abs/2606.25207v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25207) |
+
+
+## [DEP-A-20260805-VisionPulse Sparsity](../DEP-A-20260805-VisionPulse%20Sparsity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.31457-whitepaper-review.md`](../DEP-A-20260805-VisionPulse%20Sparsity/2605.31457-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning* | Hengbo Xu; Shengjie Jin; Yanbiao Ma; Zhiwu Lu | [arXiv:2605.31457v1](https://arxiv.org/abs/2605.31457v1) - [DOI](https://doi.org/10.48550/arXiv.2605.31457) |
+
+
+## [DEP-A-20260805-RCDPO Hallucination](../DEP-A-20260805-RCDPO%20Hallucination/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2605.27906-whitepaper-review.md`](../DEP-A-20260805-RCDPO%20Hallucination/2605.27906-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reasoning Matters: Mitigate Hallucination in Multimodal Large Reasoning Models via Reasoning-Conditioned Preference Optimization* | Jiawei Kong; Hao Fang; Shunxiang Liao; Jinyu Li; Bin Chen; Hao Wu; Shu-Tao Xia; Min Zhang | [arXiv:2605.27906v1](https://arxiv.org/abs/2605.27906v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27906) |
