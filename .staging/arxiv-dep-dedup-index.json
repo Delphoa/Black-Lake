@@ -5337,8 +5337,31 @@
         "https://doi.org/10.48550/arXiv.2011.04976"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Rauzy Neighbors",
+        ".logs/20260805-Arxiv-Rauzy-Neighbors-LOG.md",
+        ".reports/BL-Arxiv-Neighbours-Rauzy-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.16442",
+      "arxiv_id": "2511.16442v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2511.16442",
+      "normalized_title": "Neighbors of self-affine tiles and Rauzy Fractals",
+      "notes": "Uniform draw index 68395 of 75957 parent-directory units; duplicate exclusions 0; reselections 0; initially partial source repaired through the bounded broker route; verified complete PDF and full-paper HTML; all source files withheld locally.",
+      "slug": "Rauzy-Neighbors",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.16442",
+        "https://arxiv.org/html/2511.16442",
+        "https://arxiv.org/pdf/2511.16442",
+        "https://doi.org/10.48550/arXiv.2511.16442"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-04"
+  "updated_date": "2026-08-05"
 }
