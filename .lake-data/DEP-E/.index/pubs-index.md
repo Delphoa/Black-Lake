@@ -2348,3 +2348,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring* | Mu, Honglin; He, Han; Zhou, Yuxin; Feng, Yunlong; Xu, Yang; Qin, Libo; Shi, Xiaoming; Liu, Zeming; Han, Xudong; Shi, Qi; Zhu, Qingfu; Che, Wanxiang | [arXiv:2410.21083](https://arxiv.org/abs/2410.21083) - [DOI](https://doi.org/10.48550/arXiv.2410.21083) |
+
+
+## [DEP-E-20260804-Meta-Learning for](../DEP-E-20260804-Meta-Learning%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Meta-Learning for Few-Shot Land Cover Classification* | Rußwurm, Marc; Wang, Sherrie; Körner, Marco; Lobell, David | [arXiv:2004.13390](https://arxiv.org/abs/2004.13390) - [DOI](https://doi.org/10.48550/arXiv.2004.13390) |
