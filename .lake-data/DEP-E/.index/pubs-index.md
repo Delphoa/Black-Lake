@@ -2383,3 +2383,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reconstruction Guarantee Analysis of Binary Measurement Matrices Based on Girth* | Liu, Xin-Ji; Xia, Shu-Tao | [arXiv:1301.4926](https://arxiv.org/abs/1301.4926) - [DOI](https://doi.org/10.48550/arXiv.1301.4926) |
+
+
+## [DEP-E-20260804-A GNSS Aided Initial](../DEP-E-20260804-A%20GNSS%20Aided%20Initial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering* | Yang, Xiaokang; Yan, Gongmin; Yang, Hao; Li, Sihai | [arXiv:2202.13700](https://arxiv.org/abs/2202.13700) - [DOI](https://doi.org/10.48550/arXiv.2202.13700) |
