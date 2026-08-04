@@ -19,6 +19,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 |---|---|---|---|
 | *An optimal randomized incremental gradient method* | Guanghui Lan; Yi Zhou | [arXiv:1507.02000v3](https://arxiv.org/abs/1507.02000); [arXiv DOI](https://doi.org/10.48550/arXiv.1507.02000); [Springer DOI](https://doi.org/10.1007/s10107-017-1173-0) | [DEP-E](../DEP-E-20260804-RPDG%20Incremental%20Grad/README.md) |
 
+## [DEP-E-20260804-Forget FOLTR](../DEP-E-20260804-Forget%20FOLTR/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *How to Forget Clients in Federated Online Learning to Rank?* | Shuyi Wang; Bing Liu; Guido Zuccon | [arXiv:2401.13410v1](https://arxiv.org/abs/2401.13410); [arXiv DOI](https://doi.org/10.48550/arXiv.2401.13410); [Springer DOI](https://doi.org/10.1007/978-3-031-56063-7_7) | [DEP-E](../DEP-E-20260804-Forget%20FOLTR/README.md) |
+
 ## [DEP-E-20260804-Evidence-Bound Systems](../DEP-E-20260804-Evidence-Bound%20Systems/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |
