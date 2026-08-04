@@ -6137,3 +6137,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning* | Xuanye Zhang; Yongsen Zheng; Zhuqin Xu; Kaiyu Zhou; Bowen Shen; Haoran Ou; Tianwei Zhang; Kwok-Yan Lam | [arXiv:2605.26154v1](https://arxiv.org/abs/2605.26154v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26154) |
+
+
+## [DEP-A-20260805-MemCon Adaptive Memory](../DEP-A-20260805-MemCon%20Adaptive%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.13591-whitepaper-review.md`](../DEP-A-20260805-MemCon%20Adaptive%20Memory/2607.13591-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents* | Eric Hanchen Jiang; Zhi Zhang; Yuchen Wu; Levina Li; Dong Liu; Xiao Liang; Rui Sun; Yubei Li; Edward Sun; Haozheng Luo; Zhaolu Kang; Aylin Caliskan; Kai-Wei Chang; Ying Nian Wu | [arXiv:2607.13591v1](https://arxiv.org/abs/2607.13591v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13591) |
+
+
+## [DEP-A-20260805-RCWT Coord Budget](../DEP-A-20260805-RCWT%20Coord%20Budget/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.12216-whitepaper-review.md`](../DEP-A-20260805-RCWT%20Coord%20Budget/2607.12216-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls* | Brenda Lelis; Rodrigo Cabral-Carvalho | [arXiv:2607.12216v1](https://arxiv.org/abs/2607.12216v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12216) |
+
+
+## [DEP-A-20260805-Long Memory Dengue](../DEP-A-20260805-Long%20Memory%20Dengue/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.11272-whitepaper-review.md`](../DEP-A-20260805-Long%20Memory%20Dengue/2607.11272-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting* | Rahul Goswami; Shinjini Paul; Palash Ghosh; Tanujit Chakraborty | [arXiv:2607.11272v1](https://arxiv.org/abs/2607.11272v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11272) |
+
+
+## [DEP-A-20260805-PHILIA Robot Gateway](../DEP-A-20260805-PHILIA%20Robot%20Gateway/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.11377-whitepaper-review.md`](../DEP-A-20260805-PHILIA%20Robot%20Gateway/2607.11377-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Glimpse into Long-term Physical Coexistence with Intelligent Robots* | Weiqi Jin; Peijun Tang; Kuncheng Luo; Baifu Huang; Binyan Sun; Haotian Yang; Shangjin Xie; Jianan Wang | [arXiv:2607.11377v1](https://arxiv.org/abs/2607.11377v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11377) |
+
+
+## [DEP-A-20260805-Compliance Trap Memory](../DEP-A-20260805-Compliance%20Trap%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-05. The owning review artifact is [`2607.10608-whitepaper-review.md`](../DEP-A-20260805-Compliance%20Trap%20Memory/2607.10608-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory* | Yixiong Chen; Xinyi Bai; Alan Yuille | [arXiv:2607.10608v1](https://arxiv.org/abs/2607.10608v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10608) |
