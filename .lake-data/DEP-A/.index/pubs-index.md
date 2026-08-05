@@ -6272,3 +6272,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks* | Sara Yakoubi; Ikram Khalfallah; Kenza Khelkhal; Dihia Lanasri | [arXiv:2607.11279v1](https://arxiv.org/abs/2607.11279v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11279) |
+
+
+## [DEP-A-20260806-Hyperbolic Graph Zip](../DEP-A-20260806-Hyperbolic%20Graph%20Zip/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11379-whitepaper-review.md`](../DEP-A-20260806-Hyperbolic%20Graph%20Zip/2607.11379-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hyperbolic embeddings for graph compression* | Dorota Celinska-Kopczynska; Eryk Kopczynski | [arXiv:2607.11379v1](https://arxiv.org/abs/2607.11379v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11379) |
+
+
+## [DEP-A-20260806-MSC OT Forecasting](../DEP-A-20260806-MSC%20OT%20Forecasting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.10740-whitepaper-review.md`](../DEP-A-20260806-MSC%20OT%20Forecasting/2607.10740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series* | HaoChong Fu; Jian Xu | [arXiv:2607.10740v1](https://arxiv.org/abs/2607.10740v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10740) |
+
+
+## [DEP-A-20260806-Hebbian Fact MLPs](../DEP-A-20260806-Hebbian%20Fact%20MLPs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.10034-whitepaper-review.md`](../DEP-A-20260806-Hebbian%20Fact%20MLPs/2607.10034-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers* | Roberto Garcia; Jerry Liu; Ronny Junkins; Sabri Eyuboglu; Atri Rudra; Christopher Ré | [arXiv:2607.10034v1](https://arxiv.org/abs/2607.10034v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10034) |
+
+
+## [DEP-A-20260806-GIST Taxonomy Update](../DEP-A-20260806-GIST%20Taxonomy%20Update/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.09149-whitepaper-review.md`](../DEP-A-20260806-GIST%20Taxonomy%20Update/2607.09149-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Taxonomy Maintenance In The Wild Over Evolving Scholarly Data: Reliability, Efficiency, and Cost-Effectiveness* | Daomin Ji; Hui Luo; Zhifeng Bao; Junhao Gan; Zi Huang | [arXiv:2607.09149v1](https://arxiv.org/abs/2607.09149v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09149) |
+
+
+## [DEP-A-20260806-Urban Evidence Agents](../DEP-A-20260806-Urban%20Evidence%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13558-whitepaper-review.md`](../DEP-A-20260806-Urban%20Evidence%20Agents/2607.13558-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling* | Xixuan Hao; Yutian Jiang; Jiabo Liu; Yihang Yang; Guangyin Jin; Song Gao; Yuxuan Liang | [arXiv:2607.13558v1](https://arxiv.org/abs/2607.13558v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13558) |
