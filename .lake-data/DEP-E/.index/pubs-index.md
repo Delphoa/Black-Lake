@@ -2425,3 +2425,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering* | Yang, Xiaokang; Yan, Gongmin; Yang, Hao; Li, Sihai | [arXiv:2202.13700](https://arxiv.org/abs/2202.13700) - [DOI](https://doi.org/10.48550/arXiv.2202.13700) |
+
+
+## [DEP-E-20260805-Graph Filter Banks](../DEP-E-20260805-Graph%20Filter%20Banks/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable $M$-Channel Critically Sampled Filter Banks for Graph Signals* | Li, Shuni; Jin, Yan; Shuman, David I. | [arXiv:1608.03171v5](https://arxiv.org/abs/1608.03171v5) - [arXiv DOI](https://doi.org/10.48550/arXiv.1608.03171) - [Journal DOI](https://doi.org/10.1109/TSP.2019.2923142) |
