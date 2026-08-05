@@ -6398,3 +6398,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding* | Peiran Wu; Yunze Liu; Chi-Hao Wu; Chen Chen; Junxiao Shen | [arXiv:2605.26584v1](https://arxiv.org/abs/2605.26584v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26584) |
+
+
+## [DEP-A-20260806-Ragged ViT Attention](../DEP-A-20260806-Ragged%20ViT%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2604.15408-whitepaper-review.md`](../DEP-A-20260806-Ragged%20ViT%20Attention/2604.15408-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dispatch-Aware Ragged Attention for Pruned Vision Transformers* | Seifeldin Abdellatif; Ahmad Almasri | [arXiv:2604.15408v2](https://arxiv.org/abs/2604.15408v2) - [DOI](https://doi.org/10.48550/arXiv.2604.15408) |
+
+
+## [DEP-A-20260806-Token Cost Reality](../DEP-A-20260806-Token%20Cost%20Reality/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.12161-whitepaper-review.md`](../DEP-A-20260806-Token%20Cost%20Reality/2607.12161-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Token Reduction Is Not Cost Reduction* | Sarel Weinberger; Amir Hozez | [arXiv:2607.12161v2](https://arxiv.org/abs/2607.12161v2) - [DOI](https://doi.org/10.48550/arXiv.2607.12161) |
+
+
+## [DEP-A-20260806-WILDTRACE Evidence](../DEP-A-20260806-WILDTRACE%20Evidence/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.09328-whitepaper-review.md`](../DEP-A-20260806-WILDTRACE%20Evidence/2607.09328-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning* | Zixin Chen; Peng Liu; Haobo Li; Rui Sheng; Jianhong Tu; Xiaodong Deng; Fei Huang; Kashun Shum; Dayiheng Liu; Huamin Qu | [arXiv:2607.09328v1](https://arxiv.org/abs/2607.09328v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09328) |
+
+
+## [DEP-A-20260806-RoPE Data Scale](../DEP-A-20260806-RoPE%20Data%20Scale/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.07678-whitepaper-review.md`](../DEP-A-20260806-RoPE%20Data%20Scale/2607.07678-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization* | Xinyi Wu; Siyuan Liu; Ali Jadbabaie | [arXiv:2607.07678v1](https://arxiv.org/abs/2607.07678v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07678) |
+
+
+## [DEP-A-20260806-Hybrid Block Diffusion](../DEP-A-20260806-Hybrid%20Block%20Diffusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.02805-whitepaper-review.md`](../DEP-A-20260806-Hybrid%20Block%20Diffusion/2607.02805-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Training Hybrid Block Diffusion Language Models with Partial Bidirectionality* | Pranshu Chaturvedi; Parth Shroff; Tarun Suresh; Hangoo Kang; Kaiyue Wen | [arXiv:2607.02805v1](https://arxiv.org/abs/2607.02805v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02805) |
