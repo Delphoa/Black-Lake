@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **609 publication reviews across 336 DEP-E entries**.
+- Current coverage: **610 publication reviews across 337 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-05; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260805-RetinaGAN Sim-to-Real](../DEP-E-20260805-RetinaGAN%20Sim-to-Real/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *RetinaGAN: An Object-aware Approach to Sim-to-Real Transfer* | Daniel Ho; Kanishka Rao; Zhuo Xu; Eric Jang; Mohi Khansari; Yunfei Bai | [arXiv:2011.03148v2](https://arxiv.org/abs/2011.03148); [arXiv DOI](https://doi.org/10.48550/arXiv.2011.03148); [ICRA DOI](https://doi.org/10.1109/ICRA48506.2021.9561157) | [DEP-E](../DEP-E-20260805-RetinaGAN%20Sim-to-Real/README.md) |
 
 ## [DEP-E-20260805-Auditable Boundaries](../DEP-E-20260805-Auditable%20Boundaries/README.md)
 
