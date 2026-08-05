@@ -2467,3 +2467,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UAV-Assisted Cooperative Edge Inference for Low-Altitude Economy via MoE-based Hierarchical Deep Reinforcement Learning* | Zhuang, Wenhao; Mao, Yuyi; Ho, Ivan Wang-Hei; Yu, Xianghao | [arXiv:2605.19290](https://arxiv.org/abs/2605.19290) - [DOI](https://doi.org/10.48550/arXiv.2605.19290) |
+
+
+## [DEP-E-20260805-Back to the Future](../DEP-E-20260805-Back%20to%20the%20Future/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization* | Rafi, Md Nakhla; Chen, An Ran; Chen, Tse-Hsun; Wang, Shaohua | [arXiv:2310.19139](https://arxiv.org/abs/2310.19139) - [DOI](https://doi.org/10.48550/arXiv.2310.19139) |
