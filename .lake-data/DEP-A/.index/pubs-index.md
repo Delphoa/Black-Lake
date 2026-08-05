@@ -6317,3 +6317,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling* | Xixuan Hao; Yutian Jiang; Jiabo Liu; Yihang Yang; Guangyin Jin; Song Gao; Yuxuan Liang | [arXiv:2607.13558v1](https://arxiv.org/abs/2607.13558v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13558) |
+
+
+## [DEP-A-20260806-PRecG Legal Retrieval](../DEP-A-20260806-PRecG%20Legal%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.09094-whitepaper-review.md`](../DEP-A-20260806-PRecG%20Legal%20Retrieval/2607.09094-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation* | Devanshu Verma; Vasudha Bhatnagar; Vikas Kumar; Balaji Ganesan | [arXiv:2607.09094v1](https://arxiv.org/abs/2607.09094v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09094) |
+
+
+## [DEP-A-20260806-Harness VLA Memory](../DEP-A-20260806-Harness%20VLA%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.08448-whitepaper-review.md`](../DEP-A-20260806-Harness%20VLA%20Memory/2607.08448-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents* | Yixian Zhang; Huanming Zhang; Feng Gao; Xiao Li; Zhihao Liu; Chunyang Zhu; Jiaxing Qiu; Yuchen Yan; Jiyuan Liu; Wenhao Tang; Zhengru Fang; Yi Nie; Changxu Wei; Yu Wang; Wenbo Ding; Chao Yu | [arXiv:2607.08448v3](https://arxiv.org/abs/2607.08448v3) - [DOI](https://doi.org/10.48550/arXiv.2607.08448) |
+
+
+## [DEP-A-20260806-Personalized Thumbnails](../DEP-A-20260806-Personalized%20Thumbnails/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.12882-whitepaper-review.md`](../DEP-A-20260806-Personalized%20Thumbnails/2607.12882-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Would You Click? Personalized Video Thumbnail Generation with Preference-aware Highlight Retrieval* | Zhiyu He; Zecheng Zhao; Tong Chen; Zi Huang; Yiqun Liu; Min Zhang | [arXiv:2607.12882v1](https://arxiv.org/abs/2607.12882v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12882) |
+
+
+## [DEP-A-20260806-ScanFocus Video Ground](../DEP-A-20260806-ScanFocus%20Video%20Ground/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13421-whitepaper-review.md`](../DEP-A-20260806-ScanFocus%20Video%20Ground/2607.13421-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding* | Kai Chen; Ming Dai; Wenxuan Cheng; Wankou Yang | [arXiv:2607.13421v1](https://arxiv.org/abs/2607.13421v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13421) |
