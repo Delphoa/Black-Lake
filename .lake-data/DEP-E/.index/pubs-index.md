@@ -2474,3 +2474,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization* | Rafi, Md Nakhla; Chen, An Ran; Chen, Tse-Hsun; Wang, Shaohua | [arXiv:2310.19139](https://arxiv.org/abs/2310.19139) - [DOI](https://doi.org/10.48550/arXiv.2310.19139) |
+
+
+## [DEP-E-20260805-AVGCN Trajectory](../DEP-E-20260805-AVGCN%20Trajectory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention* | Liu, Congcong; Chen, Yuying; Liu, Ming; Shi, Bertram E. | [arXiv:2101.05682](https://arxiv.org/abs/2101.05682) - [DOI](https://doi.org/10.48550/arXiv.2101.05682) |
