@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **586 publication reviews across 324 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-04; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **609 publication reviews across 336 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-05; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,23 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260805-Auditable Boundaries](../DEP-E-20260805-Auditable%20Boundaries/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Agora: Collective and Permissionless Internet-Scale Pretraining of Large Language Models* | Gil Avraham; Violetta Shevchenko; Hadi Mohaghegh Dolatabadi; *et al.* | [arXiv:2607.13332v1](https://arxiv.org/abs/2607.13332v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13332) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *GDM AI Control Roadmap* | Mary Phuong; Erik Jenner; Laurent Simon; Lewis Ho; Rohin Shah; Sebastian Farquhar; Scott Coull | [arXiv:2607.13087v1](https://arxiv.org/abs/2607.13087v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13087) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets* | Haolin Xue | [arXiv:2607.13037v1](https://arxiv.org/abs/2607.13037v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13037) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Composable Trust for Language Models: A proven boundary and a measured defense* | Yakov Pyotr Shkolnikov | [arXiv:2607.13149v1](https://arxiv.org/abs/2607.13149v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13149) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Phantom Guardrails: When Self-Improving Agent Harnesses Fix Failures That Never Happened* | Su Wang; Pin Qian; Yifan Lin; Jingzhou Xu; Yihang Chen; Xiaochong Jiang; Lifei Liu; Haoran Yu | [arXiv:2607.13083v1](https://arxiv.org/abs/2607.13083v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13083) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science* | Sutanay Choudhury; Jeffrey J. Czajka; Lummy M. O. Monteiro; *et al.* | [arXiv:2607.13220v3](https://arxiv.org/abs/2607.13220v3); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13220) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution* | Hironao Nakamura | [arXiv:2607.13069v1](https://arxiv.org/abs/2607.13069v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13069) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference* | Gregory Hyegang Jun; Wesley Pang; Eddie Richter; Mehdi Saeedi; Aporva Amarnath; Pallavi Ferrao; Deming Chen | [arXiv:2607.12839v4](https://arxiv.org/abs/2607.12839v4); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.12839) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Precision quantum simulation of magnon spectra and interactions* | Trond I. Andersen; Nikita Astrakhantsev; Jeronimo Martinez; *et al.* | [arXiv:2607.13301v1](https://arxiv.org/abs/2607.13301v1); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.13301) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *SenCat: Cataloging human cell senescence through multi-omic profiling of multiple senescent primary cell types* | Carlos Anerillas; Gisela Altés; Katarina Gresova; *et al.* | [Molecular Cell DOI](https://doi.org/10.1016/j.molcel.2026.05.017); [PubMed](https://pubmed.ncbi.nlm.nih.gov/42276073/) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Circulating cell type senescence signatures track distinct dimensions of health status and trajectories in human longitudinal cohorts* | Bradley Olinger; Carlos Anerillas; Allison B. Herman; *et al.* | [Cell Reports DOI](https://doi.org/10.1016/j.celrep.2026.117389); [PubMed](https://pubmed.ncbi.nlm.nih.gov/42276069/) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
+| *Human Lymph Node Cellular Senescence Atlas Reveals Age-Dependent Alteration in Germinal Center B Cell Function and Niches* | Negin Farzad; Archibald Enninful; Yao Lu; *et al.* | [Preprint DOI](https://doi.org/10.64898/2026.04.02.716161); [journal DOI](https://doi.org/10.1016/j.cpblue.2026.100053) | [DEP-E](../DEP-E-20260805-Auditable%20Boundaries/README.md) |
 
 ## [DEP-E-20260805-Rauzy Neighbors](../DEP-E-20260805-Rauzy%20Neighbors/README.md)
 
