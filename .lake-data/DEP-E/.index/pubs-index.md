@@ -2488,3 +2488,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Learning for Hyperspectral Image Classification: An Overview* | Li, Shutao; Song, Weiwei; Fang, Leyuan; Chen, Yushi; Ghamisi, Pedram; Benediktsson, Jón Atli | [arXiv:1910.12861](https://arxiv.org/abs/1910.12861) - [DOI](https://doi.org/10.1109/TGRS.2019.2907932) |
+
+
+## [DEP-E-20260805-Heterogeneous Similarity](../DEP-E-20260805-Heterogeneous%20Similarity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heterogeneous Similarity Graph Neural Network on Electronic Health Records* | Liu, Zheng; Li, Xiaohan; Peng, Hao; He, Lifang; Yu, Philip S. | [arXiv:2101.06800](https://arxiv.org/abs/2101.06800) - [DOI](https://doi.org/10.48550/arXiv.2101.06800) |
