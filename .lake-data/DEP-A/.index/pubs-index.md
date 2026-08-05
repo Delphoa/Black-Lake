@@ -6443,3 +6443,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Training Hybrid Block Diffusion Language Models with Partial Bidirectionality* | Pranshu Chaturvedi; Parth Shroff; Tarun Suresh; Hangoo Kang; Kaiyue Wen | [arXiv:2607.02805v1](https://arxiv.org/abs/2607.02805v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02805) |
+
+
+## [DEP-A-20260806-Multi Head Memory](../DEP-A-20260806-Multi%20Head%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.01523-whitepaper-review.md`](../DEP-A-20260806-Multi%20Head%20Memory/2607.01523-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Head Recurrent Memory Agents* | Jiatong Li; Samuel Yeh; Sharon Li | [arXiv:2607.01523v1](https://arxiv.org/abs/2607.01523v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01523) |
+
+
+## [DEP-A-20260806-Nonstationary ICRL](../DEP-A-20260806-Nonstationary%20ICRL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11906-whitepaper-review.md`](../DEP-A-20260806-Nonstationary%20ICRL/2607.11906-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *In-Context Reinforcement Learning under Non-Stationarity: A Survey* | A Run; Ziluo Ding | [arXiv:2607.11906v1](https://arxiv.org/abs/2607.11906v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11906) |
+
+
+## [DEP-A-20260806-HGA Global Attention](../DEP-A-20260806-HGA%20Global%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.30709-whitepaper-review.md`](../DEP-A-20260806-HGA%20Global%20Attention/2606.30709-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Global Attention (HGA)* | Woernle Frank; Fedosov Vladimir; Grinenko Artemiy | [arXiv:2606.30709v1](https://arxiv.org/abs/2606.30709v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30709) |
+
+
+## [DEP-A-20260806-ViToS Medical Tokens](../DEP-A-20260806-ViToS%20Medical%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.31599-whitepaper-review.md`](../DEP-A-20260806-ViToS%20Medical%20Tokens/2606.31599-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning* | Kaitao Chen; Weiqian Zhao; Jiamin Wu; Qihao Zheng; Shangquan Sun; Chunfeng Song; Xiaosong Wang; Mu Zhou; Mianxin Liu | [arXiv:2606.31599v1](https://arxiv.org/abs/2606.31599v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31599) |
+
+
+## [DEP-A-20260806-Edge LoRA Memory](../DEP-A-20260806-Edge%20LoRA%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.19528-whitepaper-review.md`](../DEP-A-20260806-Edge%20LoRA%20Memory/2606.19528-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Techniques for Peak Memory Reduction for LoRA Fine-tuning of LLMs on Edge Devices* | Hassan Dbouk; Matthias Reisser; Prathamesh Mandke; Likhita Arun Navali; Christos Louizos | [arXiv:2606.19528v1](https://arxiv.org/abs/2606.19528v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19528) |
