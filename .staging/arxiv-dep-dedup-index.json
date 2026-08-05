@@ -4618,6 +4618,29 @@
         "https://doi.org/10.4208/cicp.OA-2020-0179"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Light the Night A",
+        ".logs/20260805-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-LOG.md",
+        ".reports/BL-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.04804",
+      "arxiv_id": "2404.04804",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2404.04804",
+      "normalized_title": "Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P03; draw 64791 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Light-the-Night-A-Multi-Condition-Diffusion",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.04804",
+        "https://arxiv.org/html/2404.04804",
+        "https://arxiv.org/pdf/2404.04804",
+        "https://doi.org/10.48550/arXiv.2404.04804"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

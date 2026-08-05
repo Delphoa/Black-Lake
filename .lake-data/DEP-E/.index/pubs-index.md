@@ -2453,3 +2453,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-scale Deep Neural Network (MscaleDNN) for Solving Poisson-Boltzmann Equation in Complex Domains* | Liu, Ziqi; Cai, Wei; Xu, Zhi-Qin John | [arXiv:2007.11207](https://arxiv.org/abs/2007.11207) - [DOI](https://doi.org/10.4208/cicp.OA-2020-0179) |
+
+
+## [DEP-E-20260805-Light the Night A](../DEP-E-20260805-Light%20the%20Night%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving* | Li, Jinlong; Li, Baolu; Tu, Zhengzhong; Liu, Xinyu; Guo, Qing; Juefei-Xu, Felix; Xu, Runsheng; Yu, Hongkai | [arXiv:2404.04804](https://arxiv.org/abs/2404.04804) - [DOI](https://doi.org/10.48550/arXiv.2404.04804) |
