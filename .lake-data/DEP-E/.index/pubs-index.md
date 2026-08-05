@@ -2502,3 +2502,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FiberStars: Visual Comparison of Diffusion Tractography Data between Multiple Subjects* | Franke, Loraine; Weidele, Daniel Karl I.; Zhang, Fan; Cetin-Karayumak, Suheyla; Pieper, Steve; O'Donnell, Lauren J.; Rathi, Yogesh; Haehn, Daniel | [arXiv:2005.08090](https://arxiv.org/abs/2005.08090) - [DOI](https://doi.org/10.1109/PacificVis52677.2021.00023) |
+
+
+## [DEP-E-20260805-LawLLM Law Large Language](../DEP-E-20260805-LawLLM%20Law%20Large%20Language/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LawLLM: Law Large Language Model for the US Legal System* | Shu, Dong; Zhao, Haoran; Liu, Xukun; Demeter, David; Du, Mengnan; Zhang, Yongfeng | [arXiv:2407.21065](https://arxiv.org/abs/2407.21065) - [DOI](https://doi.org/10.1145/3627673.3680020) |
