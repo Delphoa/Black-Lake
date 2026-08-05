@@ -6488,3 +6488,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Techniques for Peak Memory Reduction for LoRA Fine-tuning of LLMs on Edge Devices* | Hassan Dbouk; Matthias Reisser; Prathamesh Mandke; Likhita Arun Navali; Christos Louizos | [arXiv:2606.19528v1](https://arxiv.org/abs/2606.19528v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19528) |
+
+
+## [DEP-A-20260806-Pruning Selection](../DEP-A-20260806-Pruning%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2605.09345-whitepaper-review.md`](../DEP-A-20260806-Pruning%20Selection/2605.09345-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selection Plateau and a Sparsity-Dependent Hierarchy of Pruning Features* | Guangqi Li; Yongxin Li | [arXiv:2605.09345v1](https://arxiv.org/abs/2605.09345v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09345) |
+
+
+## [DEP-A-20260806-Stepwise VLM Tokens](../DEP-A-20260806-Stepwise%20VLM%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.16067-whitepaper-review.md`](../DEP-A-20260806-Stepwise%20VLM%20Tokens/2606.16067-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stepwise Token Selection for Efficient Multimodal Large Language Models* | Landi He; Shawn Young; Lijian Xu | [arXiv:2606.16067v1](https://arxiv.org/abs/2606.16067v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16067) |
+
+
+## [DEP-A-20260806-Nexus Mesh Diffusion](../DEP-A-20260806-Nexus%20Mesh%20Diffusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13563-whitepaper-review.md`](../DEP-A-20260806-Nexus%20Mesh%20Diffusion/2607.13563-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nexus: Native Mesh Generation with Diffusion* | Hanxiao Wang; Ying-Tian Liu; Yuan-Chen Guo; Qi-Yuan Feng; Zi-Xin Zou; Ding Liang; Biao Zhang; Yan-Pei Cao | [arXiv:2607.13563v1](https://arxiv.org/abs/2607.13563v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13563) |
+
+
+## [DEP-A-20260806-DAGR Goal Attention](../DEP-A-20260806-DAGR%20Goal%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13731-whitepaper-review.md`](../DEP-A-20260806-DAGR%20Goal%20Attention/2607.13731-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DAGR: State-Conditioned Goal Representations via Difference-Aware Goal Cross-Attention* | Xing Lei; Wenyan Yang; Xuetao Zhang; Donglin Wang | [arXiv:2607.13731v1](https://arxiv.org/abs/2607.13731v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13731) |
+
+
+## [DEP-A-20260806-Feedback Transfer](../DEP-A-20260806-Feedback%20Transfer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11873-whitepaper-review.md`](../DEP-A-20260806-Feedback%20Transfer/2607.11873-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol* | Esteban U. Vega Barajas | [arXiv:2607.11873v1](https://arxiv.org/abs/2607.11873v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11873) |
