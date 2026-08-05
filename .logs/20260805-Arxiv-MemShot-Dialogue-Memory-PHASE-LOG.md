@@ -18,7 +18,7 @@
 | Extractor preflight and missing-only cache | 1-5 minutes | 0.9 seconds | Cache created as `cached`; no extractor network backfill |
 | Source-first paper review | 30-60 minutes | Not separately instrumented | Completed from PDF, full-paper HTML, metadata, cache outputs, public arXiv HTML, and official code README/scripts |
 | Related DEP exploration and synthesis | 10-20 minutes | Not separately instrumented | Three repository manuscripts inspected and used |
-| Artifact drafting, validation, and submission | 20-40 minutes | Completed; submission commit `4875db7a` | Public-safe validator returned 0 findings; seven-file allowlist passed; commit pushed directly to `main`; dedup pointer finalization and Slack notification follow |
+| Artifact drafting, validation, and submission | 20-40 minutes | Completed; submission commit `4875db7a` | Public-safe validator returned 0 findings; seven-file allowlist passed; commits pushed directly to `main`; Slack notification sent |
 
 ## Extraction Cache
 
@@ -44,6 +44,12 @@
 - Whole-job guidance: 90-120 minutes for a complete source-first review and public submission.
 - Machine-controlled phases completed below their expected envelopes because one bounded repair pass succeeded and local extraction was fast.
 - Review and synthesis phases were not separately timed, but no source, method, result, related-entry, or safety review was truncated solely because a phase estimate was exceeded.
+
+## Submission and Notification
+
+- Primary public commit: https://github.com/Delphoa/Black-Lake/commit/4875db7a03e1013f6e1e43345dfbd640f7e11bb0
+- Final dedup-pointer and phase-log commit: https://github.com/Delphoa/Black-Lake/commit/c8028bcb
+- Slack status: posted to `#black-lake-artifacts`; permalink: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1785911361970749
 
 ## Shortfalls and Follow-Up
 
