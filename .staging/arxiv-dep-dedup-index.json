@@ -4710,6 +4710,29 @@
         "https://doi.org/10.48550/arXiv.2101.05682"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Deep Learning for",
+        ".logs/20260805-Arxiv-Deep-Learning-for-Hyperspectral-Image-LOG.md",
+        ".reports/BL-Arxiv-Deep-Learning-for-Hyperspectral-Image-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1910.12861",
+      "arxiv_id": "1910.12861",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.1109/TGRS.2019.2907932",
+      "normalized_title": "Deep Learning for Hyperspectral Image Classification: An Overview",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P07; draw 51028 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Deep-Learning-for-Hyperspectral-Image",
+      "source_urls": [
+        "https://arxiv.org/abs/1910.12861",
+        "https://arxiv.org/html/1910.12861",
+        "https://arxiv.org/pdf/1910.12861",
+        "https://doi.org/10.1109/TGRS.2019.2907932"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -2481,3 +2481,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention* | Liu, Congcong; Chen, Yuying; Liu, Ming; Shi, Bertram E. | [arXiv:2101.05682](https://arxiv.org/abs/2101.05682) - [DOI](https://doi.org/10.48550/arXiv.2101.05682) |
+
+
+## [DEP-E-20260805-Deep Learning for](../DEP-E-20260805-Deep%20Learning%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Learning for Hyperspectral Image Classification: An Overview* | Li, Shutao; Song, Weiwei; Fang, Leyuan; Chen, Yushi; Ghamisi, Pedram; Benediktsson, Jón Atli | [arXiv:1910.12861](https://arxiv.org/abs/1910.12861) - [DOI](https://doi.org/10.1109/TGRS.2019.2907932) |
