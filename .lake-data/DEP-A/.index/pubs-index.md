@@ -6353,3 +6353,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding* | Kai Chen; Ming Dai; Wenxuan Cheng; Wankou Yang | [arXiv:2607.13421v1](https://arxiv.org/abs/2607.13421v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13421) |
+
+
+## [DEP-A-20260806-QwenPaw Data Agents](../DEP-A-20260806-QwenPaw%20Data%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11019-whitepaper-review.md`](../DEP-A-20260806-QwenPaw%20Data%20Agents/2607.11019-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QwenPaw-Data: Bridging Facts, Methodology, and Execution for Autonomous Enterprise Data Analytics* | Tianjing Zeng; Yuntao Hong; Zhongjun Ding; Dandan Liu; Yinan Mei; Yunxiang Su; Yiming Wang; Xiaojian Zhang; Jingyu Zhu; Junhao Zhu; Zhuowen Liang; Jiazhen Peng; Lianggui Weng; Zhihao Ding; Kerui Yi; Qifeng Wang; Rong Zhu; Bolin Ding; Liyu Mou; Jingren Zhou | [arXiv:2607.11019v2](https://arxiv.org/abs/2607.11019v2) - [DOI](https://doi.org/10.48550/arXiv.2607.11019) |
+
+
+## [DEP-A-20260806-Speech Token Redundancy](../DEP-A-20260806-Speech%20Token%20Redundancy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2604.06871-whitepaper-review.md`](../DEP-A-20260806-Speech%20Token%20Redundancy/2604.06871-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models* | Bajian Xiang; Tingwei Guo; Xuan Chen; Yang Han | [arXiv:2604.06871v1](https://arxiv.org/abs/2604.06871v1) - [DOI](https://doi.org/10.48550/arXiv.2604.06871) |
+
+
+## [DEP-A-20260806-OPD Agent Evolver](../DEP-A-20260806-OPD%20Agent%20Evolver/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.17628-whitepaper-review.md`](../DEP-A-20260806-OPD%20Agent%20Evolver/2606.17628-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation* | Guibin Zhang; Xun Xu; Yanwei Yue; Zikun Su; Wangchunshu Zhou; Xiaobin Hu; Shuicheng Yan | [arXiv:2606.17628v1](https://arxiv.org/abs/2606.17628v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17628) |
+
+
+## [DEP-A-20260806-RESTORE VLM Tokens](../DEP-A-20260806-RESTORE%20VLM%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2606.01711-whitepaper-review.md`](../DEP-A-20260806-RESTORE%20VLM%20Tokens/2606.01711-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference* | Hyeonwoo Cho; Donghyeon Baek; Yewon Kim; Bumsub Ham | [arXiv:2606.01711v2](https://arxiv.org/abs/2606.01711v2) - [DOI](https://doi.org/10.48550/arXiv.2606.01711) |
+
+
+## [DEP-A-20260806-OMARC Video Memory](../DEP-A-20260806-OMARC%20Video%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2605.26584-whitepaper-review.md`](../DEP-A-20260806-OMARC%20Video%20Memory/2605.26584-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding* | Peiran Wu; Yunze Liu; Chi-Hao Wu; Chen Chen; Junxiao Shen | [arXiv:2605.26584v1](https://arxiv.org/abs/2605.26584v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26584) |
