@@ -4295,6 +4295,29 @@
     },
     {
       "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial",
+        ".logs/20260804-Arxiv-A-GNSS-Aided-Initial-Alignment-Method-for-LOG.md",
+        ".reports/BL-Arxiv-A-GNSS-Aided-Initial-Alignment-Method-for-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2202.13700",
+      "arxiv_id": "2202.13700",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2202.13700",
+      "normalized_title": "A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P10; draw 33327 of 75957 units; duplicate exclusions 0; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-GNSS-Aided-Initial-Alignment-Method-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2202.13700",
+        "https://arxiv.org/html/2202.13700",
+        "https://arxiv.org/pdf/2202.13700",
+        "https://doi.org/10.48550/arXiv.2202.13700"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control",
         ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/README.md",
         ".lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md",
@@ -4344,29 +4367,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery",
-        ".logs/20260804-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-LOG.md",
-        ".reports/BL-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-20260804/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1707.09613",
-      "arxiv_id": "1707.09613",
-      "commit_or_pr": "",
-      "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.1707.09613",
-      "normalized_title": "Sparse Vector Recovery: Bernoulli-Gaussian Message Passing",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P02; draw 57276 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Sparse-Vector-Recovery-Bernoulli-Gaussian",
-      "source_urls": [
-        "https://arxiv.org/abs/1707.09613",
-        "https://arxiv.org/html/1707.09613",
-        "https://arxiv.org/pdf/1707.09613",
-        "https://doi.org/10.48550/arXiv.1707.09613"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260804-Dewey Long Context",
         ".logs/20260804-Arxiv-Dewey-Long-Context-Embedding-Model-A-Technical-LOG.md",
         ".reports/BL-Arxiv-Dewey-Long-Context-Embedding-Model-A-Technical-20260804/Report-Mark.md"
@@ -4384,98 +4384,6 @@
         "https://arxiv.org/html/2503.20376",
         "https://arxiv.org/pdf/2503.20376",
         "https://doi.org/10.48550/arXiv.2503.20376"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak",
-        ".logs/20260804-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-LOG.md",
-        ".reports/BL-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-20260804/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2410.21083",
-      "arxiv_id": "2410.21083",
-      "commit_or_pr": "",
-      "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.2410.21083",
-      "normalized_title": "Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P04; draw 49891 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Stealthy-Jailbreak-Attacks-on-Large-Language",
-      "source_urls": [
-        "https://arxiv.org/abs/2410.21083",
-        "https://arxiv.org/html/2410.21083",
-        "https://arxiv.org/pdf/2410.21083",
-        "https://doi.org/10.48550/arXiv.2410.21083"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-Meta-Learning for",
-        ".logs/20260804-Arxiv-Meta-Learning-for-Few-Shot-Land-Cover-LOG.md",
-        ".reports/BL-Arxiv-Meta-Learning-for-Few-Shot-Land-Cover-20260804/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2004.13390",
-      "arxiv_id": "2004.13390",
-      "commit_or_pr": "",
-      "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.2004.13390",
-      "normalized_title": "Meta-Learning for Few-Shot Land Cover Classification",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P05; draw 20939 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Meta-Learning-for-Few-Shot-Land-Cover",
-      "source_urls": [
-        "https://arxiv.org/abs/2004.13390",
-        "https://arxiv.org/html/2004.13390",
-        "https://arxiv.org/pdf/2004.13390",
-        "https://doi.org/10.48550/arXiv.2004.13390"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling",
-        ".logs/20260804-Arxiv-In-Context-World-Modeling-for-Robotic-Control-LOG.md",
-        ".reports/BL-Arxiv-In-Context-World-Modeling-for-Robotic-Control-20260804/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2606.26025",
-      "arxiv_id": "2606.26025",
-      "commit_or_pr": "",
-      "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.2606.26025",
-      "normalized_title": "In-Context World Modeling for Robotic Control",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P06; draw 59717 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "In-Context-World-Modeling-for-Robotic-Control",
-      "source_urls": [
-        "https://arxiv.org/abs/2606.26025",
-        "https://arxiv.org/html/2606.26025",
-        "https://arxiv.org/pdf/2606.26025",
-        "https://doi.org/10.48550/arXiv.2606.26025"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-Watching Too Much",
-        ".logs/20260804-Arxiv-Watching-Too-Much-Television-is-Good-Self-LOG.md",
-        ".reports/BL-Arxiv-Watching-Too-Much-Television-is-Good-Self-20260804/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2106.08513",
-      "arxiv_id": "2106.08513",
-      "commit_or_pr": "",
-      "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.2106.08513",
-      "normalized_title": "Watching Too Much Television is Good: Self-Supervised Audio-Visual Representation Learning from Movies and TV Shows",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P07; draw 67495 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Watching-Too-Much-Television-is-Good-Self",
-      "source_urls": [
-        "https://arxiv.org/abs/2106.08513",
-        "https://arxiv.org/html/2106.08513",
-        "https://arxiv.org/pdf/2106.08513",
-        "https://doi.org/10.48550/arXiv.2106.08513"
       ],
       "status": "deposited"
     },
@@ -4505,6 +4413,52 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling",
+        ".logs/20260804-Arxiv-In-Context-World-Modeling-for-Robotic-Control-LOG.md",
+        ".reports/BL-Arxiv-In-Context-World-Modeling-for-Robotic-Control-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.26025",
+      "arxiv_id": "2606.26025",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2606.26025",
+      "normalized_title": "In-Context World Modeling for Robotic Control",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P06; draw 59717 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "In-Context-World-Modeling-for-Robotic-Control",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.26025",
+        "https://arxiv.org/html/2606.26025",
+        "https://arxiv.org/pdf/2606.26025",
+        "https://doi.org/10.48550/arXiv.2606.26025"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Meta-Learning for",
+        ".logs/20260804-Arxiv-Meta-Learning-for-Few-Shot-Land-Cover-LOG.md",
+        ".reports/BL-Arxiv-Meta-Learning-for-Few-Shot-Land-Cover-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2004.13390",
+      "arxiv_id": "2004.13390",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2004.13390",
+      "normalized_title": "Meta-Learning for Few-Shot Land Cover Classification",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P05; draw 20939 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Meta-Learning-for-Few-Shot-Land-Cover",
+      "source_urls": [
+        "https://arxiv.org/abs/2004.13390",
+        "https://arxiv.org/html/2004.13390",
+        "https://arxiv.org/pdf/2004.13390",
+        "https://doi.org/10.48550/arXiv.2004.13390"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee",
         ".logs/20260804-Arxiv-Reconstruction-Guarantee-Analysis-of-Binary-LOG.md",
         ".reports/BL-Arxiv-Reconstruction-Guarantee-Analysis-of-Binary-20260804/Report-Mark.md"
@@ -4528,23 +4482,94 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial",
-        ".logs/20260804-Arxiv-A-GNSS-Aided-Initial-Alignment-Method-for-LOG.md",
-        ".reports/BL-Arxiv-A-GNSS-Aided-Initial-Alignment-Method-for-20260804/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery",
+        ".logs/20260804-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-LOG.md",
+        ".reports/BL-Arxiv-Sparse-Vector-Recovery-Bernoulli-Gaussian-20260804/Report-Mark.md"
       ],
-      "arxiv_base_id": "2202.13700",
-      "arxiv_id": "2202.13700",
+      "arxiv_base_id": "1707.09613",
+      "arxiv_id": "1707.09613",
       "commit_or_pr": "",
       "deposit_date": "20260804",
-      "doi": "10.48550/arXiv.2202.13700",
-      "normalized_title": "A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering",
-      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P10; draw 33327 of 75957 units; duplicate exclusions 0; reselections 2; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-GNSS-Aided-Initial-Alignment-Method-for",
+      "doi": "10.48550/arXiv.1707.09613",
+      "normalized_title": "Sparse Vector Recovery: Bernoulli-Gaussian Message Passing",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P02; draw 57276 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Sparse-Vector-Recovery-Bernoulli-Gaussian",
       "source_urls": [
-        "https://arxiv.org/abs/2202.13700",
-        "https://arxiv.org/html/2202.13700",
-        "https://arxiv.org/pdf/2202.13700",
-        "https://doi.org/10.48550/arXiv.2202.13700"
+        "https://arxiv.org/abs/1707.09613",
+        "https://arxiv.org/html/1707.09613",
+        "https://arxiv.org/pdf/1707.09613",
+        "https://doi.org/10.48550/arXiv.1707.09613"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak",
+        ".logs/20260804-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-LOG.md",
+        ".reports/BL-Arxiv-Stealthy-Jailbreak-Attacks-on-Large-Language-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.21083",
+      "arxiv_id": "2410.21083",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2410.21083",
+      "normalized_title": "Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P04; draw 49891 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stealthy-Jailbreak-Attacks-on-Large-Language",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.21083",
+        "https://arxiv.org/html/2410.21083",
+        "https://arxiv.org/pdf/2410.21083",
+        "https://doi.org/10.48550/arXiv.2410.21083"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260804-Watching Too Much",
+        ".logs/20260804-Arxiv-Watching-Too-Much-Television-is-Good-Self-LOG.md",
+        ".reports/BL-Arxiv-Watching-Too-Much-Television-is-Good-Self-20260804/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2106.08513",
+      "arxiv_id": "2106.08513",
+      "commit_or_pr": "",
+      "deposit_date": "20260804",
+      "doi": "10.48550/arXiv.2106.08513",
+      "normalized_title": "Watching Too Much Television is Good: Self-Supervised Audio-Visual Representation Learning from Movies and TV Shows",
+      "notes": "Job BLAD-2200-20260804-92EFB161 item BLAD-2200-20260804-92EFB161-P07; draw 67495 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Watching-Too-Much-Television-is-Good-Self",
+      "source_urls": [
+        "https://arxiv.org/abs/2106.08513",
+        "https://arxiv.org/html/2106.08513",
+        "https://arxiv.org/pdf/2106.08513",
+        "https://doi.org/10.48550/arXiv.2106.08513"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory",
+        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-LOG.md",
+        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-PHASE-LOG.md",
+        ".reports/BL-Arxiv-MemShot-Dialogue-Memory-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.28338",
+      "arxiv_id": "2606.28338v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2606.28338",
+      "normalized_title": "Memory Shot for Long-Term Dialogue",
+      "notes": "Uniform draw index 48270 of 75957 parent-paper units; first draw accepted; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache became cached with PDF and HTML text; source files withheld locally; commit reference to be recorded after submission.",
+      "slug": "MemShot-Dialogue-Memory",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.28338",
+        "https://arxiv.org/html/2606.28338",
+        "https://arxiv.org/pdf/2606.28338",
+        "https://doi.org/10.48550/arXiv.2606.28338",
+        "https://github.com/NEUIR/MemShot"
       ],
       "status": "deposited"
     }

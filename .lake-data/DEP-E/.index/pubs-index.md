@@ -2432,3 +2432,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalable $M$-Channel Critically Sampled Filter Banks for Graph Signals* | Li, Shuni; Jin, Yan; Shuman, David I. | [arXiv:1608.03171v5](https://arxiv.org/abs/1608.03171v5) - [arXiv DOI](https://doi.org/10.48550/arXiv.1608.03171) - [Journal DOI](https://doi.org/10.1109/TSP.2019.2923142) |
+
+
+## [DEP-E-20260805-MemShot Dialogue Memory](../DEP-E-20260805-MemShot%20Dialogue%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Shot for Long-Term Dialogue* | Peng, Chunyi; Xin, Haidong; Sheng, Xuanshuo; Dai, Xin; Liu, Zhenghao; Wang, Shuo; Yan, Yukun; Chen, Zulong; Gu, Yu; Yu, Ge | [arXiv:2606.28338v1](https://arxiv.org/abs/2606.28338v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28338) |
