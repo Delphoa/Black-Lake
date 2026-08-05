@@ -2495,3 +2495,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Heterogeneous Similarity Graph Neural Network on Electronic Health Records* | Liu, Zheng; Li, Xiaohan; Peng, Hao; He, Lifang; Yu, Philip S. | [arXiv:2101.06800](https://arxiv.org/abs/2101.06800) - [DOI](https://doi.org/10.48550/arXiv.2101.06800) |
+
+
+## [DEP-E-20260805-FiberStars Visual](../DEP-E-20260805-FiberStars%20Visual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FiberStars: Visual Comparison of Diffusion Tractography Data between Multiple Subjects* | Franke, Loraine; Weidele, Daniel Karl I.; Zhang, Fan; Cetin-Karayumak, Suheyla; Pieper, Steve; O'Donnell, Lauren J.; Rathi, Yogesh; Haehn, Daniel | [arXiv:2005.08090](https://arxiv.org/abs/2005.08090) - [DOI](https://doi.org/10.1109/PacificVis52677.2021.00023) |

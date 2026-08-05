@@ -4756,6 +4756,29 @@
         "https://doi.org/10.48550/arXiv.2101.06800"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-FiberStars Visual",
+        ".logs/20260805-Arxiv-FiberStars-Visual-Comparison-of-Diffusion-LOG.md",
+        ".reports/BL-Arxiv-FiberStars-Visual-Comparison-of-Diffusion-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2005.08090",
+      "arxiv_id": "2005.08090",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.1109/PacificVis52677.2021.00023",
+      "normalized_title": "FiberStars: Visual Comparison of Diffusion Tractography Data between Multiple Subjects",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P09; draw 43486 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "FiberStars-Visual-Comparison-of-Diffusion",
+      "source_urls": [
+        "https://arxiv.org/abs/2005.08090",
+        "https://arxiv.org/html/2005.08090",
+        "https://arxiv.org/pdf/2005.08090",
+        "https://doi.org/10.1109/PacificVis52677.2021.00023"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
