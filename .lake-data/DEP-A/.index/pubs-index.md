@@ -6227,3 +6227,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models* | Fabio Arnez; Alexandra Gomez-Villa | [arXiv:2607.13612v1](https://arxiv.org/abs/2607.13612v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13612) |
+
+
+## [DEP-A-20260806-Hierarchical Imbalance](../DEP-A-20260806-Hierarchical%20Imbalance/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11994-whitepaper-review.md`](../DEP-A-20260806-Hierarchical%20Imbalance/2607.11994-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mitigating The Effect of Class Imbalance in Data with Hierarchical and Dependable Structure* | Bipin Chhetri; Deepika Giri; Avishek Kadel; Rabin Kumar Karki; Akbar Siami Namin | [arXiv:2607.11994v1](https://arxiv.org/abs/2607.11994v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11994) |
+
+
+## [DEP-A-20260806-Humanoid Dribbling](../DEP-A-20260806-Humanoid%20Dribbling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.12702-whitepaper-review.md`](../DEP-A-20260806-Humanoid%20Dribbling/2607.12702-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning* | Flavio Maiorana; Valerio Spagnoli; Eugenio Bugli; Flavio Volpi; Daniele Affinita; Vincenzo Suriani; Daniele Nardi; Luca Iocchi | [arXiv:2607.12702v1](https://arxiv.org/abs/2607.12702v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12702) |
+
+
+## [DEP-A-20260806-Dairy Site Discovery](../DEP-A-20260806-Dairy%20Site%20Discovery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.12748-whitepaper-review.md`](../DEP-A-20260806-Dairy%20Site%20Discovery/2607.12748-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Weakly Supervised Spatio-Temporal Candidate Discovery of Dairy Farm Sites from Seasonal Satellite Imagery* | Usman Haider; Fatima Khalid; Karl Mason | [arXiv:2607.12748v1](https://arxiv.org/abs/2607.12748v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12748) |
+
+
+## [DEP-A-20260806-PAKE Loco Manipulation](../DEP-A-20260806-PAKE%20Loco%20Manipulation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11041-whitepaper-review.md`](../DEP-A-20260806-PAKE%20Loco%20Manipulation/2607.11041-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PAKE: Learning Whole-Body Loco-Manipulation with Partial Kinematic Embeddings* | Zhengmao He; Moonkyu Jung; Hyeongjun Kim; Jiseong Lee; Hui Zhang; Jemin Hwangbo; Jie Song | [arXiv:2607.11041v1](https://arxiv.org/abs/2607.11041v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11041) |
+
+
+## [DEP-A-20260806-Algerian Hate Speech](../DEP-A-20260806-Algerian%20Hate%20Speech/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.11279-whitepaper-review.md`](../DEP-A-20260806-Algerian%20Hate%20Speech/2607.11279-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAD-SA-GRU: Enhancing Hate Speech Detection in Algerian Dialect Through Feature-Augmented Self-Attention GRU Networks* | Sara Yakoubi; Ikram Khalfallah; Kenza Khelkhal; Dihia Lanasri | [arXiv:2607.11279v1](https://arxiv.org/abs/2607.11279v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11279) |
