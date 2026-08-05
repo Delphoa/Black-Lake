@@ -2439,3 +2439,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Shot for Long-Term Dialogue* | Peng, Chunyi; Xin, Haidong; Sheng, Xuanshuo; Dai, Xin; Liu, Zhenghao; Wang, Shuo; Yan, Yukun; Chen, Zulong; Gu, Yu; Yu, Ge | [arXiv:2606.28338v1](https://arxiv.org/abs/2606.28338v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28338) |
+
+
+## [DEP-E-20260805-Value-Guidance MeanFlow](../DEP-E-20260805-Value-Guidance%20MeanFlow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning* | Pang, Teng; Dong, Zhiqiang; Zhang, Yan; Xu, Rongjian; Wu, Guoqiang; Yin, Yilong | [arXiv:2604.08174](https://arxiv.org/abs/2604.08174) - [DOI](https://doi.org/10.48550/arXiv.2604.08174) |
