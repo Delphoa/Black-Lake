@@ -6182,3 +6182,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory* | Yixiong Chen; Xinyi Bai; Alan Yuille | [arXiv:2607.10608v1](https://arxiv.org/abs/2607.10608v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10608) |
+
+
+## [DEP-A-20260806-SAGEAgent Acquisition](../DEP-A-20260806-SAGEAgent%20Acquisition/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.09521-whitepaper-review.md`](../DEP-A-20260806-SAGEAgent%20Acquisition/2607.09521-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction* | Chongyu Qu; Can Cui; Zhengyi Lu; Junchao Zhu; Tianyuan Yao; Junlin Guo; Juming Xiong; Yanfan Zhu; Yuechen Yang; Bennett A. Landman; Yuankai Huo | [arXiv:2607.09521v1](https://arxiv.org/abs/2607.09521v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09521) |
+
+
+## [DEP-A-20260806-Akashic MemAttention](../DEP-A-20260806-Akashic%20MemAttention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.05708-whitepaper-review.md`](../DEP-A-20260806-Akashic%20MemAttention/2607.05708-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Akashic: A Low-Overhead LLM Inference Service with MemAttention* | Yang Liu; Zhaokai Luo; Huayi Jin; Ruozhou He; Chenchen Hong; Zhiyong Wang; Yifei Liu; Yunfei Gu; Chentao Wu; Junhao Hu | [arXiv:2607.05708v1](https://arxiv.org/abs/2607.05708v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05708) |
+
+
+## [DEP-A-20260806-MemPose Geometry](../DEP-A-20260806-MemPose%20Geometry/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.04930-whitepaper-review.md`](../DEP-A-20260806-MemPose%20Geometry/2607.04930-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemPose: Category-level Object Pose Estimation with Memory* | Xiao Lin; Minghao Zhu; Yun Peng; Liuyi Wang; Qiyi Wang; Chengju Liu; Qijun Chen | [arXiv:2607.04930v1](https://arxiv.org/abs/2607.04930v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04930) |
+
+
+## [DEP-A-20260806-Kepler Robot Encoder](../DEP-A-20260806-Kepler%20Robot%20Encoder/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13522-whitepaper-review.md`](../DEP-A-20260806-Kepler%20Robot%20Encoder/2607.13522-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kepler-Encoder-v0.1: Towards a Multimodal Embedding Model for Robots* | Ishneet Sukhvinder Singh; Dhanoosh Pooranakumaran; Alex Nguyen; Jia Qi Yip | [arXiv:2607.13522v1](https://arxiv.org/abs/2607.13522v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13522) |
+
+
+## [DEP-A-20260806-SIGReg Free Energy](../DEP-A-20260806-SIGReg%20Free%20Energy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-06. The owning review artifact is [`2607.13612-whitepaper-review.md`](../DEP-A-20260806-SIGReg%20Free%20Energy/2607.13612-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models* | Fabio Arnez; Alexandra Gomez-Villa | [arXiv:2607.13612v1](https://arxiv.org/abs/2607.13612v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13612) |
