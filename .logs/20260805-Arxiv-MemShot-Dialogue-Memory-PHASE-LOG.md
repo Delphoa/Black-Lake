@@ -18,7 +18,7 @@
 | Extractor preflight and missing-only cache | 1-5 minutes | 0.9 seconds | Cache created as `cached`; no extractor network backfill |
 | Source-first paper review | 30-60 minutes | Not separately instrumented | Completed from PDF, full-paper HTML, metadata, cache outputs, public arXiv HTML, and official code README/scripts |
 | Related DEP exploration and synthesis | 10-20 minutes | Not separately instrumented | Three repository manuscripts inspected and used |
-| Artifact drafting, validation, and submission | 20-40 minutes | Pending at phase-log creation | Public-safe allowlist, schema, index, commit, and notification checks follow |
+| Artifact drafting, validation, and submission | 20-40 minutes | Completed; submission commit `4875db7a` | Public-safe validator returned 0 findings; seven-file allowlist passed; commit pushed directly to `main`; dedup pointer finalization and Slack notification follow |
 
 ## Extraction Cache
 
