@@ -2460,3 +2460,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving* | Li, Jinlong; Li, Baolu; Tu, Zhengzhong; Liu, Xinyu; Guo, Qing; Juefei-Xu, Felix; Xu, Runsheng; Yu, Hongkai | [arXiv:2404.04804](https://arxiv.org/abs/2404.04804) - [DOI](https://doi.org/10.48550/arXiv.2404.04804) |
+
+
+## [DEP-E-20260805-UAV-Assisted Cooperative](../DEP-E-20260805-UAV-Assisted%20Cooperative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UAV-Assisted Cooperative Edge Inference for Low-Altitude Economy via MoE-based Hierarchical Deep Reinforcement Learning* | Zhuang, Wenhao; Mao, Yuyi; Ho, Ivan Wang-Hei; Yu, Xianghao | [arXiv:2605.19290](https://arxiv.org/abs/2605.19290) - [DOI](https://doi.org/10.48550/arXiv.2605.19290) |
