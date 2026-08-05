@@ -2446,3 +2446,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning* | Pang, Teng; Dong, Zhiqiang; Zhang, Yan; Xu, Rongjian; Wu, Guoqiang; Yin, Yilong | [arXiv:2604.08174](https://arxiv.org/abs/2604.08174) - [DOI](https://doi.org/10.48550/arXiv.2604.08174) |
+
+
+## [DEP-E-20260805-Multi-scale Deep Neural](../DEP-E-20260805-Multi-scale%20Deep%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-scale Deep Neural Network (MscaleDNN) for Solving Poisson-Boltzmann Equation in Complex Domains* | Liu, Ziqi; Cai, Wei; Xu, Zhi-Qin John | [arXiv:2007.11207](https://arxiv.org/abs/2007.11207) - [DOI](https://doi.org/10.4208/cicp.OA-2020-0179) |
