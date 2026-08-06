@@ -39,6 +39,7 @@
 - `.reports/BL-Arxiv-ClapperText-20260806/Report-Mark.md`
 - `.lake-data/DEP-E/DEP-E-20260806-ClapperText/README.md`
 - `.lake-data/DEP-E/DEP-E-20260806-ClapperText/clappertext_manuscript.md`
+- `.lake-data/DEP-E/.index/pubs-index.md` (required publication-index row).
 
 ## Next-Review Questions
 
