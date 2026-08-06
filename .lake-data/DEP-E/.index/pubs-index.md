@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **611 publication reviews across 338 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-05; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **633 publication reviews across 351 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-06; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260806-Evidence-Bound Agents](../DEP-E-20260806-Evidence-Bound%20Agents/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities* | Corban Villa; Sohee Kim; Austin Chu; Alon Shakevsky; Raluca Ada Popa | [arXiv:2606.26933v1](https://arxiv.org/abs/2606.26933); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26933) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP* | Liwei Liu; Tianzhu Han; Zijian Liu; Zishu Dong; Na Ruan | [arXiv:2606.27027v1](https://arxiv.org/abs/2606.27027); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.27027) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *A Deterministic Control Plane for LLM Coding Agents* | Padmaraj Madatha | [arXiv:2606.26924v1](https://arxiv.org/abs/2606.26924); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26924) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents* | Haoliang Han | [arXiv:2606.26806v1](https://arxiv.org/abs/2606.26806); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26806) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models* | Josef Chen | [arXiv:2606.27288v1](https://arxiv.org/abs/2606.27288); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.27288) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *OpenRCA 2.0: From Outcome Labels to Causal Process Supervision* | Aoyang Fang; Yifan Yang; Jin'ao Shang; *et al.* | [arXiv:2606.27154v2](https://arxiv.org/abs/2606.27154); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.27154) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation* | Zhixiang Lu; Xiwei Liu; Sifan Song; Changkai Ji; Anh Nguyen; Jionglong Su; Imran Razzak; Jinfeng Wang | [arXiv:2606.26874v1](https://arxiv.org/abs/2606.26874); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26874) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography* | Yuqi Jiang; Yumeng Liu; Zimu Li; *et al.* | [arXiv:2606.26713v1](https://arxiv.org/abs/2606.26713); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26713) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *EGG: An Expert-Guided Agent Framework for Kernel Generation* | Yaochen Han; Ke Fan; Hongxu Jiang; Wanqi Xu; Weiyu Xie; Runhua Zhang; Chenhui Zhu; Yixiang Zhang | [arXiv:2606.26758v1](https://arxiv.org/abs/2606.26758); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26758) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
+| *Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation* | Dongbin Na | [arXiv:2606.26686v1](https://arxiv.org/abs/2606.26686); [arXiv DOI](https://doi.org/10.48550/arXiv.2606.26686) | [DEP-E](../DEP-E-20260806-Evidence-Bound%20Agents/README.md) |
 
 ## [DEP-E-20260805-AgentEconomist](../DEP-E-20260805-AgentEconomist/README.md)
 
