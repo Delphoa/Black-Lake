@@ -4813,7 +4813,7 @@
       ],
       "arxiv_base_id": "2205.12956",
       "arxiv_id": "2205.12956v2",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/06b82801ab0b2858337f2f5a079b1651c62a7f12",
       "deposit_date": "20260806",
       "doi": "10.48550/arXiv.2205.12956",
       "normalized_title": "Inception Transformer",
