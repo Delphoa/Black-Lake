@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **633 publication reviews across 351 DEP-E entries**.
+- Current coverage: **634 publication reviews across 352 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-06; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -2524,3 +2524,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LawLLM: Law Large Language Model for the US Legal System* | Shu, Dong; Zhao, Haoran; Liu, Xukun; Demeter, David; Du, Mengnan; Zhang, Yongfeng | [arXiv:2407.21065](https://arxiv.org/abs/2407.21065) - [DOI](https://doi.org/10.1145/3627673.3680020) |
+
+
+## [DEP-E-20260806-Robust PDF Malware](../DEP-E-20260806-Robust%20PDF%20Malware/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *On Training Robust PDF Malware Classifiers* | Yizheng Chen; Shiqi Wang; Dongdong She; Suman Jana | [arXiv:1904.03542v2](https://arxiv.org/abs/1904.03542); [arXiv DOI](https://doi.org/10.48550/arXiv.1904.03542); [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-yizheng) | [DEP-E](../DEP-E-20260806-Robust%20PDF%20Malware/README.md) |
