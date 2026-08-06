@@ -2537,3 +2537,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors | Canonical source | Owning DEP |
 |---|---|---|---|
 | *On Training Robust PDF Malware Classifiers* | Yizheng Chen; Shiqi Wang; Dongdong She; Suman Jana | [arXiv:1904.03542v2](https://arxiv.org/abs/1904.03542); [arXiv DOI](https://doi.org/10.48550/arXiv.1904.03542); [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-yizheng) | [DEP-E](../DEP-E-20260806-Robust%20PDF%20Malware/README.md) |
+
+## [DEP-E-20260806-PreGenie Slides](../DEP-E-20260806-PreGenie%20Slides/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PreGenie: An Agentic Framework for High-quality Visual Presentation Generation* | Xu, Xiaojie; Xu, Xinli; Chen, Sirui; Chen, Haoyu; Zhang, Fan; Chen, Ying-Cong | [arXiv:2505.21660v2](https://arxiv.org/abs/2505.21660v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2505.21660) - [ACL DOI](https://doi.org/10.18653/v1/2025.findings-emnlp.165) |
