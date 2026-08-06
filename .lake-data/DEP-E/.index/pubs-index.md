@@ -2543,3 +2543,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PreGenie: An Agentic Framework for High-quality Visual Presentation Generation* | Xu, Xiaojie; Xu, Xinli; Chen, Sirui; Chen, Haoyu; Zhang, Fan; Chen, Ying-Cong | [arXiv:2505.21660v2](https://arxiv.org/abs/2505.21660v2) - [arXiv DOI](https://doi.org/10.48550/arXiv.2505.21660) - [ACL DOI](https://doi.org/10.18653/v1/2025.findings-emnlp.165) |
+
+## [DEP-E-20260806-Inception Transformer](../DEP-E-20260806-Inception%20Transformer/README.md)
+
+| Publication | Authors or credited organization | Canonical record | Owning DEP |
+|---|---|---|---|
+| *Inception Transformer* | Chenyang Si; Weihao Yu; Pan Zhou; Yichen Zhou; Xinchao Wang; Shuicheng Yan | [arXiv:2205.12956v2](https://arxiv.org/abs/2205.12956); [arXiv DOI](https://doi.org/10.48550/arXiv.2205.12956) | [DEP-E-20260806-Inception Transformer](../DEP-E-20260806-Inception%20Transformer/README.md) |

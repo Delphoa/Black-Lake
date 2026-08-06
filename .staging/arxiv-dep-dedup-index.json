@@ -4802,6 +4802,32 @@
         "https://doi.org/10.1145/3627673.3680020"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260806-Inception Transformer",
+        ".logs/20260806-Arxiv-Inception-Transformer-LOG.md",
+        ".logs/20260806-Arxiv-Inception-Transformer-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Inception-Transformer-20260806/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.12956",
+      "arxiv_id": "2205.12956v2",
+      "commit_or_pr": "",
+      "deposit_date": "20260806",
+      "doi": "10.48550/arXiv.2205.12956",
+      "normalized_title": "Inception Transformer",
+      "notes": "Uniform draw index 74770 of 75957 parent-directory units; duplicate exclusions 0; reselections 0; initially partial source repaired through the bounded broker route; verified complete PDF and full-paper HTML; cache miss to cached in missing-only mode; source files withheld locally.",
+      "slug": "Inception-Transformer",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.12956",
+        "https://arxiv.org/html/2205.12956",
+        "https://ar5iv.labs.arxiv.org/html/2205.12956",
+        "https://arxiv.org/pdf/2205.12956",
+        "https://doi.org/10.48550/arXiv.2205.12956",
+        "https://github.com/sail-sg/iFormer"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -5618,5 +5644,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-05"
+  "updated_date": "2026-08-06"
 }
