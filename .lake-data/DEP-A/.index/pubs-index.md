@@ -6668,3 +6668,30 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Simplified Sparse Attention via Gist Tokens* | Yuzhen Mao; Michael Y. Li; Emily B. Fox | [arXiv:2604.20920v2](https://arxiv.org/abs/2604.20920v2) - [DOI](https://doi.org/10.48550/arXiv.2604.20920) |
+
+
+## [DEP-A-20260809-FibQuant KV Cache](../DEP-A-20260809-FibQuant%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2605.11478-whitepaper-review.md`](../DEP-A-20260809-FibQuant%20KV%20Cache/2605.11478-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FibQuant: Universal Vector Quantization for Random-Access KV-Cache Compression* | Namyoon Lee; Yongjune Kim | [arXiv:2605.11478v1](https://arxiv.org/abs/2605.11478v1) - [DOI](https://doi.org/10.48550/arXiv.2605.11478) |
+
+
+## [DEP-A-20260809-AudioKV Eviction](../DEP-A-20260809-AudioKV%20Eviction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2604.06694-whitepaper-review.md`](../DEP-A-20260809-AudioKV%20Eviction/2604.06694-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AudioKV: KV Cache Eviction in Efficient Large Audio Language Models* | Yuxuan Wang; Peize He; Xiyan Gui; Xiaoqian Liu; Junhao He; Xuyang Liu; Zichen Wen; Xuming Hu; Linfeng Zhang | [arXiv:2604.06694v1](https://arxiv.org/abs/2604.06694v1) - [DOI](https://doi.org/10.48550/arXiv.2604.06694) |
+
+
+## [DEP-A-20260809-ScoutAttention Offload](../DEP-A-20260809-ScoutAttention%20Offload/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2603.27138-whitepaper-review.md`](../DEP-A-20260809-ScoutAttention%20Offload/2603.27138-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference* | Qiuyang Zhang; Kai Zhou; Ding Tang; Kai Lu; Cheng Li; Zhenyu Yang; Peng Xu; Jiguang Wan | [arXiv:2603.27138v1](https://arxiv.org/abs/2603.27138v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27138) |
