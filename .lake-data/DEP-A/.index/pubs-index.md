@@ -6623,3 +6623,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unified Audio Intelligence Without Regressing on Text Intelligence* | Zhifeng Kong; Sang-gil Lee; Jaehyeon Kim; Boxin Wang; Zihan Liu; Sungwon Kim; Yang Chen; Arushi Goel; Rajarshi Roy; Wenliang Dai; Zhuolin Yang; Yangyi Chen; Dongfu Jiang; Sreyan Ghosh; Tuomas Rintamaki; Andrew Tao; Jonathan Raiman; Mohammad Shoeybi; Bryan Catanzaro; Wei Ping | [arXiv:2607.05196v2](https://arxiv.org/abs/2607.05196v2) - [DOI](https://doi.org/10.48550/arXiv.2607.05196) |
+
+
+## [DEP-A-20260809-CompactionRL Agents](../DEP-A-20260809-CompactionRL%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.05378-whitepaper-review.md`](../DEP-A-20260809-CompactionRL%20Agents/2607.05378-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents* | Yujiang Li; Zhenyu Hou; Yi Jing; Jie Tang; Yuxiao Dong | [arXiv:2607.05378v1](https://arxiv.org/abs/2607.05378v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05378) |
+
+
+## [DEP-A-20260809-ELiTeFormer FPGA](../DEP-A-20260809-ELiTeFormer%20FPGA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.03652-whitepaper-review.md`](../DEP-A-20260809-ELiTeFormer%20FPGA/2607.03652-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ELiTeFormer: An Efficient Transformer for FPGAs* | Victor Agostinelli; Nicolas Bohm Agostini; Antonino Tumeo | [arXiv:2607.03652v1](https://arxiv.org/abs/2607.03652v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03652) |
+
+
+## [DEP-A-20260809-Context Ready Transformer](../DEP-A-20260809-Context%20Ready%20Transformer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2606.27538-whitepaper-review.md`](../DEP-A-20260809-Context%20Ready%20Transformer/2606.27538-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Context-Ready Transformer* | Mahesh Godavarti | [arXiv:2606.27538v1](https://arxiv.org/abs/2606.27538v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27538) |
+
+
+## [DEP-A-20260809-LLM Agent Privacy](../DEP-A-20260809-LLM%20Agent%20Privacy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2606.26627-whitepaper-review.md`](../DEP-A-20260809-LLM%20Agent%20Privacy/2606.26627-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents* | Nada Lahjouji; Ashwin Gerard Colaco | [arXiv:2606.26627v1](https://arxiv.org/abs/2606.26627v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26627) |
+
+
+## [DEP-A-20260809-Gist Token Attention](../DEP-A-20260809-Gist%20Token%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2604.20920-whitepaper-review.md`](../DEP-A-20260809-Gist%20Token%20Attention/2604.20920-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Simplified Sparse Attention via Gist Tokens* | Yuzhen Mao; Michael Y. Li; Emily B. Fox | [arXiv:2604.20920v2](https://arxiv.org/abs/2604.20920v2) - [DOI](https://doi.org/10.48550/arXiv.2604.20920) |
