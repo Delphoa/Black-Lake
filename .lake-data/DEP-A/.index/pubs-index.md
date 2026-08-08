@@ -6533,3 +6533,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol* | Esteban U. Vega Barajas | [arXiv:2607.11873v1](https://arxiv.org/abs/2607.11873v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11873) |
+
+
+## [DEP-A-20260809-Mystra Taint Analysis](../DEP-A-20260809-Mystra%20Taint%20Analysis/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.12308-whitepaper-review.md`](../DEP-A-20260809-Mystra%20Taint%20Analysis/2607.12308-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mystra: Declarative Dynamic Taint Analysis via Shadow Virtual Machine* | Zhuohao Zhang; Junkun Liu; Rui Yang; Yinzhi Cao; Ziyang Li | [arXiv:2607.12308v2](https://arxiv.org/abs/2607.12308v2) - [DOI](https://doi.org/10.48550/arXiv.2607.12308) |
+
+
+## [DEP-A-20260809-Contrastive Flow Match](../DEP-A-20260809-Contrastive%20Flow%20Match/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.12404-whitepaper-review.md`](../DEP-A-20260809-Contrastive%20Flow%20Match/2607.12404-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contrastive-Augmented Flow Matching for Style-Content Disentanglement* | Yusong Li; Pingchuan Ma; Ming Gui; Vincent Tao Hu; Björn Ommer | [arXiv:2607.12404v1](https://arxiv.org/abs/2607.12404v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12404) |
+
+
+## [DEP-A-20260809-Omnilingual Speech LLM](../DEP-A-20260809-Omnilingual%20Speech%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.12468-whitepaper-review.md`](../DEP-A-20260809-Omnilingual%20Speech%20LLM/2607.12468-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Omnilingual-ASR-Based Speech-LLM System for the 2nd MLC-SLM Challenge* | Shuming Fang; Shuifei Zeng | [arXiv:2607.12468v1](https://arxiv.org/abs/2607.12468v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12468) |
+
+
+## [DEP-A-20260809-DiTailed Consistency](../DEP-A-20260809-DiTailed%20Consistency/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.12539-whitepaper-review.md`](../DEP-A-20260809-DiTailed%20Consistency/2607.12539-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models* | Francesco Taioli; Daniel Coelho; Iaroslav Melekhov; Roberto Alcover-Couso; Jose Miguel Grande Saiz; Virginia Fernandez Arguedas; Artur Bekasov | [arXiv:2607.12539v1](https://arxiv.org/abs/2607.12539v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12539) |
+
+
+## [DEP-A-20260809-Positional GNN Policies](../DEP-A-20260809-Positional%20GNN%20Policies/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.12744-whitepaper-review.md`](../DEP-A-20260809-Positional%20GNN%20Policies/2607.12744-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Positional Attention-based Graph Neural Network for Learning Permutation Non-equivariant Wireless Policies* | Baichuan Zhao; Chenyang Yang; Jianyu Zhao; Di Zhang | [arXiv:2607.12744v1](https://arxiv.org/abs/2607.12744v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12744) |
