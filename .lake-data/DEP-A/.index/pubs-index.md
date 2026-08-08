@@ -6578,3 +6578,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Positional Attention-based Graph Neural Network for Learning Permutation Non-equivariant Wireless Policies* | Baichuan Zhao; Chenyang Yang; Jianyu Zhao; Di Zhang | [arXiv:2607.12744v1](https://arxiv.org/abs/2607.12744v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12744) |
+
+
+## [DEP-A-20260809-Sticky Jump Diffusion](../DEP-A-20260809-Sticky%20Jump%20Diffusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.10951-whitepaper-review.md`](../DEP-A-20260809-Sticky%20Jump%20Diffusion/2607.10951-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sticky Jump Diffusions: A Unifying View of Masked, Continuous, and Hybrid Diffusion* | Pascal Jutras-Dubé; Patrick Pynadath; Jeremy Lu; Yuan Gao; Ruqi Zhang | [arXiv:2607.10951v1](https://arxiv.org/abs/2607.10951v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10951) |
+
+
+## [DEP-A-20260809-Subtitle Translation](../DEP-A-20260809-Subtitle%20Translation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.09957-whitepaper-review.md`](../DEP-A-20260809-Subtitle%20Translation/2607.09957-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Workload-Driven Optimization for On-Device Real-Time Subtitle Translation* | Tsz-To Wong | [arXiv:2607.09957v1](https://arxiv.org/abs/2607.09957v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09957) |
+
+
+## [DEP-A-20260809-GAE Scientific Discovery](../DEP-A-20260809-GAE%20Scientific%20Discovery/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.10127-whitepaper-review.md`](../DEP-A-20260809-GAE%20Scientific%20Discovery/2607.10127-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GAE: Graph-Augmented Evolution for Scientific Discovery via Reinforcement Optimization* | Xuanzhou Chen; Taoli Cheng | [arXiv:2607.10127v1](https://arxiv.org/abs/2607.10127v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10127) |
+
+
+## [DEP-A-20260809-TextileNet Segmentation](../DEP-A-20260809-TextileNet%20Segmentation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.09299-whitepaper-review.md`](../DEP-A-20260809-TextileNet%20Segmentation/2607.09299-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TextileNet: Towards Zero-shot Text-style Segmentation of Manuscripts* | Anguelos Nicolaou; Antonella Ambrosio; Desiree Di Donato; Georg Vogeler | [arXiv:2607.09299v1](https://arxiv.org/abs/2607.09299v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09299) |
+
+
+## [DEP-A-20260809-Audex Audio Intelligence](../DEP-A-20260809-Audex%20Audio%20Intelligence/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-09. The owning review artifact is [`2607.05196-whitepaper-review.md`](../DEP-A-20260809-Audex%20Audio%20Intelligence/2607.05196-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unified Audio Intelligence Without Regressing on Text Intelligence* | Zhifeng Kong; Sang-gil Lee; Jaehyeon Kim; Boxin Wang; Zihan Liu; Sungwon Kim; Yang Chen; Arushi Goel; Rajarshi Roy; Wenliang Dai; Zhuolin Yang; Yangyi Chen; Dongfu Jiang; Sreyan Ghosh; Tuomas Rintamaki; Andrew Tao; Jonathan Raiman; Mohammad Shoeybi; Bryan Catanzaro; Wei Ping | [arXiv:2607.05196v2](https://arxiv.org/abs/2607.05196v2) - [DOI](https://doi.org/10.48550/arXiv.2607.05196) |
