@@ -6830,3 +6830,30 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference* | Di Liu; Ruitian Wang; Chen Chen; Mingliang Gong; Yongjie Yuan; Han Zhao; Yu Feng; Quan Chen; Minyi Guo | [arXiv:2605.12110v1](https://arxiv.org/abs/2605.12110v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12110) |
+
+
+## [DEP-A-20260810-Salca Accelerator](../DEP-A-20260810-Salca%20Accelerator/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2604.24820-whitepaper-review.md`](../DEP-A-20260810-Salca%20Accelerator/2604.24820-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Salca: A Sparsity-Aware Hardware Accelerator for Efficient Long-Context Attention Decoding* | Wang Fan; Wei Cao; Xi Zha; Kedi Ma; MingQian Sun; Jialin Chen; Fengzhe Zhang; Fan Zhang | [arXiv:2604.24820v1](https://arxiv.org/abs/2604.24820v1) - [DOI](https://doi.org/10.48550/arXiv.2604.24820) |
+
+
+## [DEP-A-20260810-AsyncTLS](../DEP-A-20260810-AsyncTLS/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2604.07815-whitepaper-review.md`](../DEP-A-20260810-AsyncTLS/2604.07815-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention* | Yuxuan Hu; Jianchao Tan; Jiaqi Zhang; Wen Zan; Pingwei Sun; Yifan Lu; Yerui Sun; Yuchen Xie; Xunliang Cai; Jing Zhang | [arXiv:2604.07815v1](https://arxiv.org/abs/2604.07815v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07815) |
+
+
+## [DEP-A-20260810-MomentKV](../DEP-A-20260810-MomentKV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2606.01563-whitepaper-review.md`](../DEP-A-20260810-MomentKV/2606.01563-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference* | Yu Li; Binxu Li; Tian Lan | [arXiv:2606.01563v1](https://arxiv.org/abs/2606.01563v1) - [DOI](https://doi.org/10.48550/arXiv.2606.01563) |
