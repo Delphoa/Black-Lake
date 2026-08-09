@@ -2577,3 +2577,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tensor Robust PCA with Nonconvex and Nonlocal Regularization* | Geng, Xiaoyu; Guo, Qiang; Hui, Shuaixiong; Yang, Ming; Zhang, Caiming | [arXiv:2211.02404](https://arxiv.org/abs/2211.02404) - [DOI](https://doi.org/10.48550/arXiv.2211.02404) |
+
+
+## [DEP-E-20260809-ECHO Prune to act trace](../DEP-E-20260809-ECHO%20Prune%20to%20act%20trace/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL* | Xie, Zijun; Zheng, Binbin; Gong, Enlei; Liu, Jihua; You, Yuyang; Liu, Lingfeng; Tang, Jiayao; Zhao, Guanqun; Hu, Aoqi; Chen, Zeyu | [arXiv:2606.31650](https://arxiv.org/abs/2606.31650) - [DOI](https://doi.org/10.48550/arXiv.2606.31650) |

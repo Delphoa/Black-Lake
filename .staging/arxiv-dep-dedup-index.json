@@ -4920,6 +4920,29 @@
         "https://doi.org/10.48550/arXiv.2211.02404"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace",
+        ".logs/20260809-Arxiv-ECHO-Prune-to-act-trace-to-learn-LOG.md",
+        ".reports/BL-Arxiv-ECHO-Prune-to-act-trace-to-learn-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.31650",
+      "arxiv_id": "2606.31650",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2606.31650",
+      "normalized_title": "ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P05; draw 47474 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ECHO-Prune-to-act-trace-to-learn",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.31650",
+        "https://arxiv.org/html/2606.31650",
+        "https://arxiv.org/pdf/2606.31650",
+        "https://doi.org/10.48550/arXiv.2606.31650"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
