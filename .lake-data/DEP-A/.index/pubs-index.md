@@ -6740,3 +6740,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale* | Siddharth Gollapudi; Nilesh Gupta; Prasann Singhal; Sewon Min | [arXiv:2607.01538v1](https://arxiv.org/abs/2607.01538v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01538) |
+
+
+## [DEP-A-20260810-ManimAgent](../DEP-A-20260810-ManimAgent/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2606.30296-whitepaper-review.md`](../DEP-A-20260810-ManimAgent/2606.30296-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ManimAgent: Self-Evolving Multimodal Agents for Visual Education* | Wenjia Jiang; Zongyuan Cai; Yuanhang Shao; Chenru Wang; Boyan Han; Zhixue Song; Keyu Chen; Shengwei An; Xu Yang; Zhou Yang | [arXiv:2606.30296v2](https://arxiv.org/abs/2606.30296v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30296) |
+
+
+## [DEP-A-20260810-CALMem Dual Memory](../DEP-A-20260810-CALMem%20Dual%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.20724-whitepaper-review.md`](../DEP-A-20260810-CALMem%20Dual%20Memory/2605.20724-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CALMem : Application-Layer Dual Memory for Conversational AI* | Rajendra Narayan Jena; Rajan Padmanabhan; Sankar Arumugam | [arXiv:2605.20724v1](https://arxiv.org/abs/2605.20724v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20724) |
+
+
+## [DEP-A-20260810-Hybrid CPU GPU Attn](../DEP-A-20260810-Hybrid%20CPU%20GPU%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.07719-whitepaper-review.md`](../DEP-A-20260810-Hybrid%20CPU%20GPU%20Attn/2605.07719-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Hybrid Sparse Attention with CPU-GPU Parallelism for Long-Context Inference* | Feiyu Yao; Zhixiong Niu; Xiaqing Li; Yongqiang Xiong; Juan Fang; Qian Wang | [arXiv:2605.07719v1](https://arxiv.org/abs/2605.07719v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07719) |
+
+
+## [DEP-A-20260810-UniPrefill](../DEP-A-20260810-UniPrefill/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.06221-whitepaper-review.md`](../DEP-A-20260810-UniPrefill/2605.06221-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification* | Qihang Fan; Huaibo Huang; Zhiying Wu; Bingning Wang; Ran He | [arXiv:2605.06221v1](https://arxiv.org/abs/2605.06221v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06221) |
+
+
+## [DEP-A-20260810-SCG Agent Memory](../DEP-A-20260810-SCG%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2604.20117-whitepaper-review.md`](../DEP-A-20260810-SCG%20Agent%20Memory/2604.20117-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *To Know is to Construct: Schema-Constrained Generation for Agent Memory* | Lei Zheng; Weinan Song; Daili Li; Yanming Yang | [arXiv:2604.20117v1](https://arxiv.org/abs/2604.20117v1) - [DOI](https://doi.org/10.48550/arXiv.2604.20117) |
