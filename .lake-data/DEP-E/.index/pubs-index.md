@@ -2612,3 +2612,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On $[[n,n-4,3]]_{q}$ Quantum MDS Codes for odd prime power $q$* | Li, Ruihu; Xu, Zongben | [arXiv:0906.2509](https://arxiv.org/abs/0906.2509) - [DOI](https://doi.org/10.1103/PhysRevA.82.052316) |
+
+
+## [DEP-E-20260809-CDGraph Dual Conditional](../DEP-E-20260809-CDGraph%20Dual%20Conditional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model* | Tsai, Jui-Yi; Teng, Ya-Wen; Yew, Ho Chiok; Yang, De-Nian; Chen, Lydia Y. | [arXiv:2311.01729](https://arxiv.org/abs/2311.01729) - [DOI](https://doi.org/10.48550/arXiv.2311.01729) |
