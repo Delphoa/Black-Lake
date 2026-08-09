@@ -2584,3 +2584,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL* | Xie, Zijun; Zheng, Binbin; Gong, Enlei; Liu, Jihua; You, Yuyang; Liu, Lingfeng; Tang, Jiayao; Zhao, Guanqun; Hu, Aoqi; Chen, Zeyu | [arXiv:2606.31650](https://arxiv.org/abs/2606.31650) - [DOI](https://doi.org/10.48550/arXiv.2606.31650) |
+
+
+## [DEP-E-20260809-Discriminative and](../DEP-E-20260809-Discriminative%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Discriminative and Semantic Feature Selection for Place Recognition towards Dynamic Environments* | Tian, Yuxin; MIao, Jinyu; Wu, Xingming; Yue, Haosong; Liu, Zhong; Chen, Weihai | [arXiv:2103.10023](https://arxiv.org/abs/2103.10023) - [DOI](https://doi.org/10.48550/arXiv.2103.10023) |

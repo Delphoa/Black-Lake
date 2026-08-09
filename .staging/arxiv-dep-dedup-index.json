@@ -4943,6 +4943,29 @@
         "https://doi.org/10.48550/arXiv.2606.31650"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-Discriminative and",
+        ".logs/20260809-Arxiv-Discriminative-and-Semantic-Feature-Selection-LOG.md",
+        ".reports/BL-Arxiv-Discriminative-and-Semantic-Feature-Selection-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2103.10023",
+      "arxiv_id": "2103.10023",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2103.10023",
+      "normalized_title": "Discriminative and Semantic Feature Selection for Place Recognition towards Dynamic Environments",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P06; draw 63827 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Discriminative-and-Semantic-Feature-Selection",
+      "source_urls": [
+        "https://arxiv.org/abs/2103.10023",
+        "https://arxiv.org/html/2103.10023",
+        "https://arxiv.org/pdf/2103.10023",
+        "https://doi.org/10.48550/arXiv.2103.10023"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
