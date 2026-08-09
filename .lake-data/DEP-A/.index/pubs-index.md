@@ -6695,3 +6695,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference* | Qiuyang Zhang; Kai Zhou; Ding Tang; Kai Lu; Cheng Li; Zhenyu Yang; Peng Xu; Jiguang Wan | [arXiv:2603.27138v1](https://arxiv.org/abs/2603.27138v1) - [DOI](https://doi.org/10.48550/arXiv.2603.27138) |
+
+
+## [DEP-A-20260810-UNIQUE Sparse Attn](../DEP-A-20260810-UNIQUE%20Sparse%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.27740-whitepaper-review.md`](../DEP-A-20260810-UNIQUE%20Sparse%20Attn/2605.27740-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training* | Keqi Deng; Shaoshi Ling; Ruchao Fan; Jinyu Li | [arXiv:2605.27740v1](https://arxiv.org/abs/2605.27740v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27740) |
+
+
+## [DEP-A-20260810-RTPurbo Sparse Attn](../DEP-A-20260810-RTPurbo%20Sparse%20Attn/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.16928-whitepaper-review.md`](../DEP-A-20260810-RTPurbo%20Sparse%20Attn/2605.16928-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps* | Yanke Zhou; Yiduo Li; Hanlin Tang; Maohua Li; Kan Liu; Tao Lan; Lin Qu; Yuan Yao; Xiaoxing Ma | [arXiv:2605.16928v2](https://arxiv.org/abs/2605.16928v2) - [DOI](https://doi.org/10.48550/arXiv.2605.16928) |
+
+
+## [DEP-A-20260810-PReM Context Memory](../DEP-A-20260810-PReM%20Context%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2607.14327-whitepaper-review.md`](../DEP-A-20260810-PReM%20Context%20Memory/2607.14327-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PReM: Learning What to Preserve and When to Refresh for Context Compression* | Bohan Yu; Lei Shen; Chenxi Zhou; Chen Han; Junlin Liu; Wenbo Su; Yu Cheng; Bo Zheng | [arXiv:2607.14327v1](https://arxiv.org/abs/2607.14327v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14327) |
+
+
+## [DEP-A-20260810-Thought Retriever](../DEP-A-20260810-Thought%20Retriever/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2604.12231-whitepaper-review.md`](../DEP-A-20260810-Thought%20Retriever/2604.12231-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Thought-Retriever: Don't Just Retrieve Raw Data, Retrieve Thoughts for Memory-Augmented Agentic Systems* | Tao Feng; Pengrui Han; Guanyu Lin; Ge Liu; Jiaxuan You | [arXiv:2604.12231v1](https://arxiv.org/abs/2604.12231v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12231) |
+
+
+## [DEP-A-20260810-Million Token Retrieval](../DEP-A-20260810-Million%20Token%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2607.01538-whitepaper-review.md`](../DEP-A-20260810-Million%20Token%20Retrieval/2607.01538-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale* | Siddharth Gollapudi; Nilesh Gupta; Prasann Singhal; Sewon Min | [arXiv:2607.01538v1](https://arxiv.org/abs/2607.01538v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01538) |
