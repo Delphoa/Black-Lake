@@ -2563,3 +2563,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory* | Wu, Chunyang; Wang, Yongqiang; Shi, Yangyang; Yeh, Ching-Feng; Zhang, Frank | [arXiv:2005.08042](https://arxiv.org/abs/2005.08042) - [DOI](https://doi.org/10.48550/arXiv.2005.08042) |
+
+
+## [DEP-E-20260809-NaLA A 3D Native LLM](../DEP-E-20260809-NaLA%20A%203D%20Native%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation* | Wan, Cheng; Mao, Yongsen; Wu, Wenzheng; Xie, Yuxuan; Xiang, Chucheng; Wang, Runze; Zhang, Xiang; Liu, Zhongyuan; Dai, Rushi; Liu, Yuan | [arXiv:2606.29395](https://arxiv.org/abs/2606.29395) - [DOI](https://doi.org/10.48550/arXiv.2606.29395) |
