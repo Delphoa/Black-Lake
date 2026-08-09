@@ -6785,3 +6785,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *To Know is to Construct: Schema-Constrained Generation for Agent Memory* | Lei Zheng; Weinan Song; Daili Li; Yanming Yang | [arXiv:2604.20117v1](https://arxiv.org/abs/2604.20117v1) - [DOI](https://doi.org/10.48550/arXiv.2604.20117) |
+
+
+## [DEP-A-20260810-Financial QA Memory](../DEP-A-20260810-Financial%20QA%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2604.17979-whitepaper-review.md`](../DEP-A-20260810-Financial%20QA%20Memory/2604.17979-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Architecture Matters More Than Scale: A Comparative Study of Retrieval and Memory Augmentation for Financial QA Under SME Compute Constraints* | Jianan Liu; Jing Yang; Xianyou Li; Weiran Yan; Yichao Wu; Penghao Liang; Mengwei Yuan | [arXiv:2604.17979v2](https://arxiv.org/abs/2604.17979v2) - [DOI](https://doi.org/10.48550/arXiv.2604.17979) |
+
+
+## [DEP-A-20260810-DREAM Embeddings](../DEP-A-20260810-DREAM%20Embeddings/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2606.24667-whitepaper-review.md`](../DEP-A-20260810-DREAM%20Embeddings/2606.24667-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DREAM: Dense Retrieval Embeddings via Autoregressive Modeling* | Yixuan Tang; Yi Yang | [arXiv:2606.24667v1](https://arxiv.org/abs/2606.24667v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24667) |
+
+
+## [DEP-A-20260810-VecAttention](../DEP-A-20260810-VecAttention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2603.29494-whitepaper-review.md`](../DEP-A-20260810-VecAttention/2603.29494-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference* | Anmin Liu; Ruixuan Yang; Huiqiang Jiang; Bin Lin; Minmin Sun; Yong Li; Chen Zhang; Tao Xie | [arXiv:2603.29494v1](https://arxiv.org/abs/2603.29494v1) - [DOI](https://doi.org/10.48550/arXiv.2603.29494) |
+
+
+## [DEP-A-20260810-OSGNet Ego4D](../DEP-A-20260810-OSGNet%20Ego4D/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.20818-whitepaper-review.md`](../DEP-A-20260810-OSGNet%20Ego4D/2605.20818-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OSGNet with MLLM Reranking @ Ego4D Episodic Memory Challenge 2026* | Yisen Feng; Leigang Qu; Haoyu Zhang; Qiaohui Chu; Meng Liu; Xuemeng Song; Weili Guan; Liqiang Nie | [arXiv:2605.20818v1](https://arxiv.org/abs/2605.20818v1) - [DOI](https://doi.org/10.48550/arXiv.2605.20818) |
+
+
+## [DEP-A-20260810-AB Sparse Attention](../DEP-A-20260810-AB%20Sparse%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-10. The owning review artifact is [`2605.12110-whitepaper-review.md`](../DEP-A-20260810-AB%20Sparse%20Attention/2605.12110-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference* | Di Liu; Ruitian Wang; Chen Chen; Mingliang Gong; Yongjie Yuan; Han Zhao; Yu Feng; Quan Chen; Minyi Guo | [arXiv:2605.12110v1](https://arxiv.org/abs/2605.12110v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12110) |
