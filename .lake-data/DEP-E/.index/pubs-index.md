@@ -2591,3 +2591,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Discriminative and Semantic Feature Selection for Place Recognition towards Dynamic Environments* | Tian, Yuxin; MIao, Jinyu; Wu, Xingming; Yue, Haosong; Liu, Zhong; Chen, Weihai | [arXiv:2103.10023](https://arxiv.org/abs/2103.10023) - [DOI](https://doi.org/10.48550/arXiv.2103.10023) |
+
+
+## [DEP-E-20260809-From Similarity to](../DEP-E-20260809-From%20Similarity%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching* | Zhang, Zhixiang; Liu, Zesen; Xie, Yuchong; Huang, Quanfeng; She, Dongdong | [arXiv:2601.23088](https://arxiv.org/abs/2601.23088) - [DOI](https://doi.org/10.48550/arXiv.2601.23088) |
