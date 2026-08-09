@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **635 publication reviews across 353 DEP-E entries**.
+- Current coverage: **645 publication reviews across 354 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-06; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -2619,3 +2619,19 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model* | Tsai, Jui-Yi; Teng, Ya-Wen; Yew, Ho Chiok; Yang, De-Nian; Chen, Lydia Y. | [arXiv:2311.01729](https://arxiv.org/abs/2311.01729) - [DOI](https://doi.org/10.48550/arXiv.2311.01729) |
+
+
+## [DEP-E-20260810-Agent Trust Systems](../DEP-E-20260810-Agent%20Trust%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Error Certificates for KV-Cache Eviction via Randomized Design* | Peng Xie | [arXiv:2607.21475v2](https://arxiv.org/abs/2607.21475); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21475) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry* | Natan Levy; Harel Berger | [arXiv:2607.21495v1](https://arxiv.org/abs/2607.21495); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21495) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Toward cryptographically verifiable authorization for autonomous AI agents* | M. Llambí-Morillas; D. Fernández-Fernández | [arXiv:2607.21325v1](https://arxiv.org/abs/2607.21325); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21325) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning* | Yipeng Shi; Zhipeng Ma; Yue Wang; *et al.* | [arXiv:2607.21419v2](https://arxiv.org/abs/2607.21419); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21419) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog* | Bartolomeo Bogliolo | [arXiv:2607.21412v1](https://arxiv.org/abs/2607.21412); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21412) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders* | Zhongyuan Peng; Dan Huang; Chuyu Zhang; *et al.* | [arXiv:2607.21217v1](https://arxiv.org/abs/2607.21217); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21217) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *A Diffusion-Model Subpopulation Digital Twin for Mobile Health Deployment* | Ziping Xu; Yuyi Chang; Chenshun Ni; *et al.* | [arXiv:2607.21403v1](https://arxiv.org/abs/2607.21403); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21403) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information* | Lei Zhang; Yusheng Zhao; Yimeng Cao; *et al.* | [arXiv:2607.21533v1](https://arxiv.org/abs/2607.21533); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21533) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Unconditional Unclonable Encryption* | Prabhanjan Ananth; Amit Sahai | [arXiv:2607.21551v1](https://arxiv.org/abs/2607.21551); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21551) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+| *Extended Single-Atom Tweezer Arrays in High-Cooperativity Cavity-QED* | Thomas Picot; Clément Raphin; Marcel Kern; *et al.* | [arXiv:2607.21515v1](https://arxiv.org/abs/2607.21515); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21515) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
