@@ -2556,3 +2556,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FairTP: A Prolonged Fairness Framework for Traffic Prediction* | Xia, Jiangnan; Yang, Yu; Shen, Jiaxing; Wang, Senzhang; Cao, Jiannong | [arXiv:2412.16214](https://arxiv.org/abs/2412.16214) - [DOI](https://doi.org/10.48550/arXiv.2412.16214) |
+
+
+## [DEP-E-20260809-Streaming](../DEP-E-20260809-Streaming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory* | Wu, Chunyang; Wang, Yongqiang; Shi, Yangyang; Yeh, Ching-Feng; Zhang, Frank | [arXiv:2005.08042](https://arxiv.org/abs/2005.08042) - [DOI](https://doi.org/10.48550/arXiv.2005.08042) |
