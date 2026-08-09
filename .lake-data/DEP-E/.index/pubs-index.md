@@ -2570,3 +2570,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation* | Wan, Cheng; Mao, Yongsen; Wu, Wenzheng; Xie, Yuxuan; Xiang, Chucheng; Wang, Runze; Zhang, Xiang; Liu, Zhongyuan; Dai, Rushi; Liu, Yuan | [arXiv:2606.29395](https://arxiv.org/abs/2606.29395) - [DOI](https://doi.org/10.48550/arXiv.2606.29395) |
+
+
+## [DEP-E-20260809-Tensor Robust PCA with](../DEP-E-20260809-Tensor%20Robust%20PCA%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tensor Robust PCA with Nonconvex and Nonlocal Regularization* | Geng, Xiaoyu; Guo, Qiang; Hui, Shuaixiong; Yang, Ming; Zhang, Caiming | [arXiv:2211.02404](https://arxiv.org/abs/2211.02404) - [DOI](https://doi.org/10.48550/arXiv.2211.02404) |
