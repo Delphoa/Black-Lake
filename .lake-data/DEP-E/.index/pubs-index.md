@@ -2549,3 +2549,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record | Owning DEP |
 |---|---|---|---|
 | *Inception Transformer* | Chenyang Si; Weihao Yu; Pan Zhou; Yichen Zhou; Xinchao Wang; Shuicheng Yan | [arXiv:2205.12956v2](https://arxiv.org/abs/2205.12956); [arXiv DOI](https://doi.org/10.48550/arXiv.2205.12956) | [DEP-E-20260806-Inception Transformer](../DEP-E-20260806-Inception%20Transformer/README.md) |
+
+
+## [DEP-E-20260809-FairTP A Prolonged](../DEP-E-20260809-FairTP%20A%20Prolonged/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FairTP: A Prolonged Fairness Framework for Traffic Prediction* | Xia, Jiangnan; Yang, Yu; Shen, Jiaxing; Wang, Senzhang; Cao, Jiannong | [arXiv:2412.16214](https://arxiv.org/abs/2412.16214) - [DOI](https://doi.org/10.48550/arXiv.2412.16214) |
