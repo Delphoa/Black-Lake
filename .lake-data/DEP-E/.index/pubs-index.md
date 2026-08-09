@@ -2598,3 +2598,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching* | Zhang, Zhixiang; Liu, Zesen; Xie, Yuchong; Huang, Quanfeng; She, Dongdong | [arXiv:2601.23088](https://arxiv.org/abs/2601.23088) - [DOI](https://doi.org/10.48550/arXiv.2601.23088) |
+
+
+## [DEP-E-20260809-Voice Evaluation of](../DEP-E-20260809-Voice%20Evaluation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap* | Lin, Yueqian; Hu, Zhengmian; Wang, Qinsi; Liu, Yudong; Zhang, Hengfan; Subramanian, Jayakumar; Vlassis, Nikos; Li, Hai Helen; Chen, Yiran | [arXiv:2509.26542](https://arxiv.org/abs/2509.26542) - [DOI](https://doi.org/10.48550/arXiv.2509.26542) |

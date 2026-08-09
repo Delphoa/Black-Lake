@@ -4989,6 +4989,29 @@
         "https://doi.org/10.48550/arXiv.2601.23088"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of",
+        ".logs/20260809-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-LOG.md",
+        ".reports/BL-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.26542",
+      "arxiv_id": "2509.26542",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2509.26542",
+      "normalized_title": "Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P08; draw 59691 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Voice-Evaluation-of-Reasoning-Ability-Diagnosing",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.26542",
+        "https://arxiv.org/html/2509.26542",
+        "https://arxiv.org/pdf/2509.26542",
+        "https://doi.org/10.48550/arXiv.2509.26542"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
