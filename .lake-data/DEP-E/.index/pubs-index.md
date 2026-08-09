@@ -2605,3 +2605,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap* | Lin, Yueqian; Hu, Zhengmian; Wang, Qinsi; Liu, Yudong; Zhang, Hengfan; Subramanian, Jayakumar; Vlassis, Nikos; Li, Hai Helen; Chen, Yiran | [arXiv:2509.26542](https://arxiv.org/abs/2509.26542) - [DOI](https://doi.org/10.48550/arXiv.2509.26542) |
+
+
+## [DEP-E-20260809-On n n-4 3 q Quantum MDS](../DEP-E-20260809-On%20n%20n-4%203%20q%20Quantum%20MDS/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On $[[n,n-4,3]]_{q}$ Quantum MDS Codes for odd prime power $q$* | Li, Ruihu; Xu, Zongben | [arXiv:0906.2509](https://arxiv.org/abs/0906.2509) - [DOI](https://doi.org/10.1103/PhysRevA.82.052316) |
