@@ -6992,3 +6992,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models* | Jing Xiong; Qi Han; Shansan Gong; Yunta Hsieh; Chengyue Wu; Chaofan Tao; Chenyang Zhao; Ngai Wong | [arXiv:2606.10537v1](https://arxiv.org/abs/2606.10537v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10537) |
+
+
+## [DEP-A-20260811-Adaptive Transform Code](../DEP-A-20260811-Adaptive%20Transform%20Code/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.26492-whitepaper-review.md`](../DEP-A-20260811-Adaptive%20Transform%20Code/2604.26492-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive Transform Coding for Semantic Compression* | Andriy Enttsel; Vincent Corlay | [arXiv:2604.26492v1](https://arxiv.org/abs/2604.26492v1) - [DOI](https://doi.org/10.48550/arXiv.2604.26492) |
+
+
+## [DEP-A-20260811-Apple MPS Regimes](../DEP-A-20260811-Apple%20MPS%20Regimes/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.08913-whitepaper-review.md`](../DEP-A-20260811-Apple%20MPS%20Regimes/2605.08913-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Non-Monotonic Latency in Apple MPS Decoding: KV Cache Interactions and Execution Regimes* | Willy Fitra Hendria | [arXiv:2605.08913v2](https://arxiv.org/abs/2605.08913v2) - [DOI](https://doi.org/10.48550/arXiv.2605.08913) |
+
+
+## [DEP-A-20260811-KV Grafting Flywheel](../DEP-A-20260811-KV%20Grafting%20Flywheel/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2607.14431-whitepaper-review.md`](../DEP-A-20260811-KV%20Grafting%20Flywheel/2607.14431-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel* | Sietse Schelpe | [arXiv:2607.14431v1](https://arxiv.org/abs/2607.14431v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14431) |
+
+
+## [DEP-A-20260811-BudgetDraft Sparse KV](../DEP-A-20260811-BudgetDraft%20Sparse%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2606.00144-whitepaper-review.md`](../DEP-A-20260811-BudgetDraft%20Sparse%20KV/2606.00144-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BudgetDraft: Acceptance-Aware Multi-View Training for Sparse-KV Speculative Decoding* | Liang He; Jingbo Wen; Qishi Zhan; Yixiong Chen; Kangning Cui; Qizhen Lan; Xilu Wang | [arXiv:2606.00144v1](https://arxiv.org/abs/2606.00144v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00144) |
