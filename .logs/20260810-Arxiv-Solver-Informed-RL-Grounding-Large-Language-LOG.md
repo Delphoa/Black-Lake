@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md` - Language-to-Space - DEP-E; overlap: grounding, language.
-2. `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md` - Heartcare ECG - DEP-E; overlap: modeling, optimization, language.
-3. `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md` - WKGM MRI Reconstruction - DEP-E; overlap: modeling, language.
+1. `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md` - Multi-step Problem - DEP-E; overlap: verifier feedback, process supervision, reasoning correctness.
+2. `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md` - Epsilon Prox Affine - DEP-E; overlap: optimization modeling, solver execution, disciplined programs.
+3. `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md` - COEVO Co-Evolutionary Fra - DEP-E; overlap: LLM-generated formal artifacts, correctness feedback, optimization objectives.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md` - Language-to-Space - DEP-E; overlap: grounding, language.
-2. `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md` - Heartcare ECG - DEP-E; overlap: modeling, optimization, language.
-3. `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md` - WKGM MRI Reconstruction - DEP-E; overlap: modeling, language.
+1. `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md` - Multi-step Problem - DEP-E; overlap: verifier feedback, process supervision, reasoning correctness.
+2. `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md` - Epsilon Prox Affine - DEP-E; overlap: optimization modeling, solver execution, disciplined programs.
+3. `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md` - COEVO Co-Evolutionary Fra - DEP-E; overlap: LLM-generated formal artifacts, correctness feedback, optimization objectives.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a authentic, grounding, language perspective. The three related DEPs overlap concretely through grounding, language, modeling, optimization. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a authentic, grounding, language perspective. The three related DEPs overlap concretely through LLM-generated formal artifacts, correctness feedback, disciplined programs, optimization modeling, optimization objectives. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a authentic, grounding, language perspective. The
 
 ### Deeper Relationship Observations
 
-1. Language-to-Space - DEP-E overlaps through grounding, language, clarifying a neighboring representation or evidence choice.
-2. Heartcare ECG - DEP-E overlaps through modeling, optimization, language, exposing a complementary evaluation or operating boundary.
-3. WKGM MRI Reconstruction - DEP-E overlaps through modeling, language, showing how implementation assumptions affect practical transfer.
+1. Multi-step Problem - DEP-E overlaps through verifier feedback, process supervision, reasoning correctness, clarifying a neighboring representation or evidence choice.
+2. Epsilon Prox Affine - DEP-E overlaps through optimization modeling, solver execution, disciplined programs, exposing a complementary evaluation or operating boundary.
+3. COEVO Co-Evolutionary Fra - DEP-E overlaps through LLM-generated formal artifacts, correctness feedback, optimization objectives, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a authentic, grounding, language perspective. The
 - https://arxiv.org/html/2505.11792 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.11792 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.11792 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Heartcare%20ECG - related DEP: Heartcare ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Fra - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

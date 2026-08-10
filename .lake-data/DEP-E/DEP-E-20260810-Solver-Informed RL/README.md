@@ -17,7 +17,7 @@ The paper addresses authentic, grounding, language. The full paper was inspected
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to Language-to-Space - DEP-E, Heartcare ECG - DEP-E, and WKGM MRI Reconstruction - DEP-E. Their concrete shared concepts include grounding, language, modeling, optimization. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to Multi-step Problem - DEP-E, Epsilon Prox Affine - DEP-E, and COEVO Co-Evolutionary Fra - DEP-E. Their concrete shared concepts include LLM-generated formal artifacts, correctness feedback, disciplined programs, optimization modeling, optimization objectives. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to Language-to-Space - DEP-E, H
 - https://arxiv.org/html/2505.11792 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2505.11792 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.11792 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Heartcare%20ECG - related DEP: Heartcare ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Fra - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

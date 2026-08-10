@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2505.11792 | https://arxiv.org/abs/2505.11792 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2505.11792 rendering | https://arxiv.org/html/2505.11792 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2505.11792 | https://arxiv.org/pdf/2505.11792 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | Language-to-Space - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | Heartcare ECG - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | WKGM MRI Reconstruction - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | Multi-step Problem - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | Epsilon Prox Affine - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | COEVO Co-Evolutionary Fra - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P09` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Chen, Yitian; Xia, Jingfan; Shao, Siyu; Ge, Dongdong; Ye, Yinyu. Submitted/source date: 2025/05/17. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P09`.
@@ -41,7 +41,7 @@ Authors: Chen, Yitian; Xia, Jingfan; Shao, Siyu; Ge, Dongdong; Ye, Yinyu. Submit
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “Optimization modeling is fundamental to decision-making in fields such as supply chain management, logistics, and financial engineering, but …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “Optimization modeling is fundamental to decision-making in fields such as supply chain management, logistics, and financial engineering, but …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: grounding, language, modeling, optimization | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: LLM-generated formal artifacts, correctness feedback, disciplined programs, optimization modeling, optimization objectives | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “Optimization modeling is fundamenta
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how grounding, language, modeling, optimization connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how LLM-generated formal artifacts, correctness feedback, disciplined programs, optimization modeling, optimization objectives connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: grounding, language, modeling, optimization.
+- Connects to three repository artifacts with concrete shared terms: LLM-generated formal artifacts, correctness feedback, disciplined programs, optimization modeling, optimization objectives.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| Language-to-Space - DEP-E | Related DEP | Overlap: grounding, language | `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md` |
-| Heartcare ECG - DEP-E | Related DEP | Overlap: modeling, optimization, language | `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md` |
-| WKGM MRI Reconstruction - DEP-E | Related DEP | Overlap: modeling, language | `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md` |
+| Multi-step Problem - DEP-E | Related DEP | Overlap: verifier feedback, process supervision, reasoning correctness | `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md` |
+| Epsilon Prox Affine - DEP-E | Related DEP | Overlap: optimization modeling, solver execution, disciplined programs | `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md` |
+| COEVO Co-Evolutionary Fra - DEP-E | Related DEP | Overlap: LLM-generated formal artifacts, correctness feedback, optimization objectives | `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2505.11792 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2505.11792 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2505.11792 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md` | Related synthesis: grounding, language | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md` | Related synthesis: modeling, optimization, language | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md` | Related synthesis: modeling, language | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md` | Related synthesis: verifier feedback, process supervision, reasoning correctness | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md` | Related synthesis: optimization modeling, solver execution, disciplined programs | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md` | Related synthesis: LLM-generated formal artifacts, correctness feedback, optimization objectives | 2026-08-10 | Repository-relative |
 
 ## Appendix
 
