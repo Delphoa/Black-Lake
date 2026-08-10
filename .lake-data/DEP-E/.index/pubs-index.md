@@ -2663,3 +2663,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models* | Li, Shicheng; Li, Lei; Ren, Shuhuai; Liu, Yuanxin; Liu, Yi; Gao, Rundong; Sun, Xu; Hou, Lu | [arXiv:2311.17404](https://arxiv.org/abs/2311.17404) - [DOI](https://doi.org/10.48550/arXiv.2311.17404) |
+
+
+## [DEP-E-20260810-Exploring Self-supervised](../DEP-E-20260810-Exploring%20Self-supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring Self-supervised Skeleton-based Action Recognition in Occluded Environments* | Chen, Yifei; Peng, Kunyu; Roitberg, Alina; Schneider, David; Zhang, Jiaming; Zheng, Junwei; Chen, Yufan; Liu, Ruiping; Yang, Kailun; Stiefelhagen, Rainer | [arXiv:2309.12029](https://arxiv.org/abs/2309.12029) - [DOI](https://doi.org/10.48550/arXiv.2309.12029) |
