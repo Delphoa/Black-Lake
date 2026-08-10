@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **645 publication reviews across 354 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-06; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **655 publication reviews across 355 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-10; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -2705,3 +2705,19 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Embodiment Robotic Retargeting via Guided Diffusion Model* | Cao, Zhefeng; Liu, Ben; Yang, Shunpeng; Li, Sen; Zhang, Wei; Chen, Hua | [arXiv:2505.20857](https://arxiv.org/abs/2505.20857) - [DOI](https://doi.org/10.48550/arXiv.2505.20857) |
+
+
+## [DEP-E-20260810-Agent Evidence Systems](../DEP-E-20260810-Agent%20Evidence%20Systems/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verify, Repair, Repeat, or Stop? Robust Stopping for Noisy Verify-Repair Loops in LLM Agents* | Wu, Yitao; Shen, Si; Yang, Rui; Peng, Hong; Hu, Bin | [arXiv:2607.17641v1](https://arxiv.org/abs/2607.17641) - [DOI](https://doi.org/10.48550/arXiv.2607.17641) |
+| *Mechanistic Attention Guidance for Agent Memory Refinement* | Hong, Yechao; Qiu, Haiquan; Wang, Yaqing; Yao, Quanming | [arXiv:2607.17621v1](https://arxiv.org/abs/2607.17621) - [DOI](https://doi.org/10.48550/arXiv.2607.17621) |
+| *The Autonomous Agency Scale: A Behavioral Framework for Measuring Self-Directed Behavior in AI Systems* | Presgraves, Samuel | [arXiv:2607.17947v1](https://arxiv.org/abs/2607.17947) - [DOI](https://doi.org/10.48550/arXiv.2607.17947) |
+| *Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?* | Chen, Yimeng; Denis, Nathanaël; Di Pietro, Roberto; Schmidhuber, Jürgen | [arXiv:2607.17986v1](https://arxiv.org/abs/2607.17986) - [DOI](https://doi.org/10.48550/arXiv.2607.17986) |
+| *Insecure Coding Preferences in Long-Term Memory: Security Risks for LLM-based Code Generation* | Chen, Yuchen; Cheng, Wei; Xiao, Yuan; *et al.* | [arXiv:2607.17619v1](https://arxiv.org/abs/2607.17619) - [DOI](https://doi.org/10.48550/arXiv.2607.17619) |
+| *Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs* | Afrasyab, Koyar | [arXiv:2607.18086v1](https://arxiv.org/abs/2607.18086) - [DOI](https://doi.org/10.48550/arXiv.2607.18086) |
+| *Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows* | Deng, Jinyuan; Chen, Zhengrui; Wei, Xufeng; *et al.* | [arXiv:2607.17528v3](https://arxiv.org/abs/2607.17528) - [DOI](https://doi.org/10.48550/arXiv.2607.17528) |
+| *FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications* | Agarwal, Krish; Chen, Zhuoming; Qin, Yanyuan; *et al.* | [arXiv:2607.18171v1](https://arxiv.org/abs/2607.18171) - [DOI](https://doi.org/10.48550/arXiv.2607.18171) |
+| *Harness Engineering for LLM-Driven GPU Kernel Generation* | Shui, Yue; Ma, Chenyu; Xu, Hangfei; *et al.* | [arXiv:2607.17979v1](https://arxiv.org/abs/2607.17979) - [DOI](https://doi.org/10.48550/arXiv.2607.17979) |
+| *SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs* | Kabakibo, Huzaifa Shaaban; Schniedermeyer, Eric; Burchanow, Artem; *et al.* | [arXiv:2607.18081v1](https://arxiv.org/abs/2607.18081) - [DOI](https://doi.org/10.48550/arXiv.2607.18081) |
