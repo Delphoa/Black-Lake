@@ -2698,3 +2698,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling* | Chen, Yitian; Xia, Jingfan; Shao, Siyu; Ge, Dongdong; Ye, Yinyu | [arXiv:2505.11792](https://arxiv.org/abs/2505.11792) - [DOI](https://doi.org/10.48550/arXiv.2505.11792) |
+
+
+## [DEP-E-20260810-Multi-Embodiment Robotic](../DEP-E-20260810-Multi-Embodiment%20Robotic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Embodiment Robotic Retargeting via Guided Diffusion Model* | Cao, Zhefeng; Liu, Ben; Yang, Shunpeng; Li, Sen; Zhang, Wei; Chen, Hua | [arXiv:2505.20857](https://arxiv.org/abs/2505.20857) - [DOI](https://doi.org/10.48550/arXiv.2505.20857) |

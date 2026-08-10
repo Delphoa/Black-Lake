@@ -5265,6 +5265,29 @@
         "https://doi.org/10.48550/arXiv.2505.11792"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-Multi-Embodiment Robotic",
+        ".logs/20260810-Arxiv-Multi-Embodiment-Robotic-Retargeting-via-Guided-LOG.md",
+        ".reports/BL-Arxiv-Multi-Embodiment-Robotic-Retargeting-via-Guided-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.20857",
+      "arxiv_id": "2505.20857",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2505.20857",
+      "normalized_title": "Multi-Embodiment Robotic Retargeting via Guided Diffusion Model",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P10; draw 38289 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-Embodiment-Robotic-Retargeting-via-Guided",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.20857",
+        "https://arxiv.org/html/2505.20857",
+        "https://arxiv.org/pdf/2505.20857",
+        "https://doi.org/10.48550/arXiv.2505.20857"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
