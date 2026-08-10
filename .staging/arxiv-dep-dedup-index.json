@@ -5173,6 +5173,29 @@
         "https://doi.org/10.48550/arXiv.2309.12029"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-Knowledge Distilled",
+        ".logs/20260810-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-LOG.md",
+        ".reports/BL-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.06533",
+      "arxiv_id": "2308.06533",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2308.06533",
+      "normalized_title": "Knowledge Distilled Ensemble Model for sEMG-based Silent Speech Interface",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P06; draw 13095 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Knowledge-Distilled-Ensemble-Model-for-sEMG",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.06533",
+        "https://arxiv.org/html/2308.06533",
+        "https://arxiv.org/pdf/2308.06533",
+        "https://doi.org/10.48550/arXiv.2308.06533"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

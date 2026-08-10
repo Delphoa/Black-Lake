@@ -2670,3 +2670,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploring Self-supervised Skeleton-based Action Recognition in Occluded Environments* | Chen, Yifei; Peng, Kunyu; Roitberg, Alina; Schneider, David; Zhang, Jiaming; Zheng, Junwei; Chen, Yufan; Liu, Ruiping; Yang, Kailun; Stiefelhagen, Rainer | [arXiv:2309.12029](https://arxiv.org/abs/2309.12029) - [DOI](https://doi.org/10.48550/arXiv.2309.12029) |
+
+
+## [DEP-E-20260810-Knowledge Distilled](../DEP-E-20260810-Knowledge%20Distilled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Knowledge Distilled Ensemble Model for sEMG-based Silent Speech Interface* | Lai, Wenqiang; Yang, Qihan; Mao, Ye; Sun, Endong; Ye, Jiangnan | [arXiv:2308.06533](https://arxiv.org/abs/2308.06533) - [DOI](https://doi.org/10.48550/arXiv.2308.06533) |
