@@ -2649,3 +2649,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prompt Tuning for Discriminative Pre-trained Language Models* | Yao, Yuan; Dong, Bowen; Zhang, Ao; Zhang, Zhengyan; Xie, Ruobing; Liu, Zhiyuan; Lin, Leyu; Sun, Maosong; Wang, Jianyong | [arXiv:2205.11166](https://arxiv.org/abs/2205.11166) - [DOI](https://doi.org/10.48550/arXiv.2205.11166) |
+
+
+## [DEP-E-20260810-DexMimicGen Automated](../DEP-E-20260810-DexMimicGen%20Automated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning* | Jiang, Zhenyu; Xie, Yuqi; Lin, Kevin; Xu, Zhenjia; Wan, Weikang; Mandlekar, Ajay; Fan, Linxi; Zhu, Yuke | [arXiv:2410.24185](https://arxiv.org/abs/2410.24185) - [DOI](https://doi.org/10.48550/arXiv.2410.24185) |
