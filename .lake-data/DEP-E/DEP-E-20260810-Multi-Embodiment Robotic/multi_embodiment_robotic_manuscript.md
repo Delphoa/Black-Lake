@@ -26,8 +26,8 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2505.20857 | https://arxiv.org/abs/2505.20857 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2505.20857 rendering | https://arxiv.org/html/2505.20857 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2505.20857 | https://arxiv.org/pdf/2505.20857 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | AVGCN Trajectory - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | Semantic Skill MoE Policies | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | TopoDiffuser A - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | ManipulationNet An - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S6 | FAVLA Fast-Slow - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P10` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
@@ -41,7 +41,7 @@ Authors: Cao, Zhefeng; Liu, Ben; Yang, Shunpeng; Li, Sen; Zhang, Wei; Chen, Hua.
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “The retargeting of diverse and kinematically feasible reference trajectories from human demonstrations facilitates the transfer of human skills …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “The retargeting of diverse and kinematically feasible reference trajectories from human demonstrations facilitates the transfer of human skills …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: diffusion, guided, robotic | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: adaptive action policy, conditional diffusion, contact-rich control, manipulation skills, multimodal guidance | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “The retargeting of diverse and kine
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how diffusion, guided, robotic connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how adaptive action policy, conditional diffusion, contact-rich control, manipulation skills, multimodal guidance connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: diffusion, guided, robotic.
+- Connects to three repository artifacts with concrete shared terms: adaptive action policy, conditional diffusion, contact-rich control, manipulation skills, multimodal guidance.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| AVGCN Trajectory - DEP-E | Related DEP | Overlap: guided | `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md` |
-| Semantic Skill MoE Policies | Related DEP | Overlap: robotic, diffusion | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` |
-| FAVLA Fast-Slow - DEP-E | Related DEP | Overlap: robotic | `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` |
+| TopoDiffuser A - DEP-E | Related DEP | Overlap: conditional diffusion, trajectory generation, multimodal guidance | `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md` |
+| ManipulationNet An - DEP-E | Related DEP | Overlap: robot embodiments, manipulation skills, real-world benchmarking | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` |
+| FAVLA Fast-Slow - DEP-E | Related DEP | Overlap: robotic manipulation, contact-rich control, adaptive action policy | `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2505.20857 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2505.20857 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2505.20857 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md` | Related synthesis: guided | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` | Related synthesis: robotic, diffusion | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` | Related synthesis: robotic | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md` | Related synthesis: conditional diffusion, trajectory generation, multimodal guidance | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` | Related synthesis: robot embodiments, manipulation skills, real-world benchmarking | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` | Related synthesis: robotic manipulation, contact-rich control, adaptive action policy | 2026-08-10 | Repository-relative |
 
 ## Appendix
 

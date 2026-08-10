@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md` - AVGCN Trajectory - DEP-E; overlap: guided.
-2. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` - Semantic Skill MoE Policies; overlap: robotic, diffusion.
-3. `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` - FAVLA Fast-Slow - DEP-E; overlap: robotic.
+1. `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md` - TopoDiffuser A - DEP-E; overlap: conditional diffusion, trajectory generation, multimodal guidance.
+2. `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` - ManipulationNet An - DEP-E; overlap: robot embodiments, manipulation skills, real-world benchmarking.
+3. `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md` - FAVLA Fast-Slow - DEP-E; overlap: robotic manipulation, contact-rich control, adaptive action policy.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a diffusion, guided, multi-embodiment perspective. The three related DEPs overlap concretely through diffusion, guided, robotic. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a diffusion, guided, multi-embodiment perspective. The three related DEPs overlap concretely through adaptive action policy, conditional diffusion, contact-rich control, manipulation skills, multimodal guidance. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a diffusion, guided, multi-embodiment perspective
 
 ### Deeper Relationship Observations
 
-1. AVGCN Trajectory - DEP-E overlaps through guided, clarifying a neighboring representation or evidence choice.
-2. Semantic Skill MoE Policies overlaps through robotic, diffusion, exposing a complementary evaluation or operating boundary.
-3. FAVLA Fast-Slow - DEP-E overlaps through robotic, showing how implementation assumptions affect practical transfer.
+1. TopoDiffuser A - DEP-E overlaps through conditional diffusion, trajectory generation, multimodal guidance, clarifying a neighboring representation or evidence choice.
+2. ManipulationNet An - DEP-E overlaps through robot embodiments, manipulation skills, real-world benchmarking, exposing a complementary evaluation or operating boundary.
+3. FAVLA Fast-Slow - DEP-E overlaps through robotic manipulation, contact-rich control, adaptive action policy, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a diffusion, guided, multi-embodiment perspective
 - https://arxiv.org/html/2505.20857 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.20857 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.20857 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
 - https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.
