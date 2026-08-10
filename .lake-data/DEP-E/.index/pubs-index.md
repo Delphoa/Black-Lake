@@ -2635,3 +2635,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information* | Lei Zhang; Yusheng Zhao; Yimeng Cao; *et al.* | [arXiv:2607.21533v1](https://arxiv.org/abs/2607.21533); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21533) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
 | *Unconditional Unclonable Encryption* | Prabhanjan Ananth; Amit Sahai | [arXiv:2607.21551v1](https://arxiv.org/abs/2607.21551); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21551) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
 | *Extended Single-Atom Tweezer Arrays in High-Cooperativity Cavity-QED* | Thomas Picot; Clément Raphin; Marcel Kern; *et al.* | [arXiv:2607.21515v1](https://arxiv.org/abs/2607.21515); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.21515) | [DEP-E](../DEP-E-20260810-Agent%20Trust%20Systems/README.md) |
+
+
+## [DEP-E-20260810-Avatar V Scaling](../DEP-E-20260810-Avatar%20V%20Scaling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Avatar V: Scaling Video-Reference Avatar Video Generation* | Liang, Benjamin; Chen, Ce; Lin, Desmond; Somov, Ivan; Zhao, Jiajun; Yuan, Jiewei; Zhang, Jingfeng; Huang, Junhao; Nolte, Nik; Haqiqi, Pedram; Wang, Penghan; Yan, Rong; Zhang, Rui; Prokopchuk, Sam; Wang, Sivan; Goriachko, Viktor; Ren, Yi; Li, Yuanming; Chen, Yutao; Ye, Zhenhui; Hong, Zhibin; Nie, Zilong; Guo, Zujin | [arXiv:2606.13872](https://arxiv.org/abs/2606.13872) - [DOI](https://doi.org/10.48550/arXiv.2606.13872) |
