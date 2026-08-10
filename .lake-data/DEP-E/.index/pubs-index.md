@@ -2677,3 +2677,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Knowledge Distilled Ensemble Model for sEMG-based Silent Speech Interface* | Lai, Wenqiang; Yang, Qihan; Mao, Ye; Sun, Endong; Ye, Jiangnan | [arXiv:2308.06533](https://arxiv.org/abs/2308.06533) - [DOI](https://doi.org/10.48550/arXiv.2308.06533) |
+
+
+## [DEP-E-20260810-Free Energy Surface](../DEP-E-20260810-Free%20Energy%20Surface/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FES-FM: Free Energy Surface Sampling via Reduced Flow Matching* | Liu, Zichen; Li, Tiejun | [arXiv:2605.00337](https://arxiv.org/abs/2605.00337) - [DOI](https://doi.org/10.48550/arXiv.2605.00337) |
