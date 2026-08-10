@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2410.24185 | https://arxiv.org/abs/2410.24185 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2410.24185 rendering | https://arxiv.org/html/2410.24185 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2410.24185 | https://arxiv.org/pdf/2410.24185 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | FLASH Efficient - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | ManipulationNet An - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S5 | Semantic Skill MoE Policies | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | DeltaDeno Zero-Shot - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | See Plan Rewind - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P03` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Jiang, Zhenyu; Xie, Yuqi; Lin, Kevin; Xu, Zhenjia; Wan, Weikang; Mandlekar, Ajay; Fan, Linxi; Zhu, Yuke. Submitted/source date: 2024/10/31. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P03`.
@@ -41,7 +41,7 @@ Authors: Jiang, Zhenyu; Xie, Yuqi; Lin, Kevin; Xu, Zhenjia; Wan, Weikang; Mandle
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “Imitation learning from human demonstrations is an effective means to teach robots manipulation skills [ 1 , 2 …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “Imitation learning from human demonstrations is an effective means to teach robots manipulation skills. But data acquisition is …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: bimanual, dexterous, generation, imitation, manipulation | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: benchmark data, compositional skills, physical skill coverage, policy routing, progress-aware correction | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “Nonetheless, data acquisition has b
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how bimanual, dexterous, generation, imitation, manipulation connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how benchmark data, compositional skills, physical skill coverage, policy routing, progress-aware correction connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: bimanual, dexterous, generation, imitation, manipulation.
+- Connects to three repository artifacts with concrete shared terms: benchmark data, compositional skills, physical skill coverage, policy routing, progress-aware correction.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| FLASH Efficient - DEP-E | Related DEP | Overlap: dexterous, imitation, manipulation, generation, schema | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` |
-| Semantic Skill MoE Policies | Related DEP | Overlap: bimanual, imitation, manipulation, schema | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` |
-| DeltaDeno Zero-Shot - DEP-E | Related DEP | Overlap: sql, text-to-sql, queries, query, generation | `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md` |
+| ManipulationNet An - DEP-E | Related DEP | Overlap: robot manipulation, benchmark data, physical skill coverage | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` |
+| Semantic Skill MoE Policies | Related DEP | Overlap: robotic manipulation, compositional skills, policy routing | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` |
+| See Plan Rewind - DEP-E | Related DEP | Overlap: vision-language-action, robust manipulation, progress-aware correction | `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2410.24185 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2410.24185 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2410.24185 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` | Related synthesis: dexterous, imitation, manipulation, generation, schema | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` | Related synthesis: bimanual, imitation, manipulation, schema | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md` | Related synthesis: sql, text-to-sql, queries, query, generation | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` | Related synthesis: robot manipulation, benchmark data, physical skill coverage | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` | Related synthesis: robotic manipulation, compositional skills, policy routing | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md` | Related synthesis: vision-language-action, robust manipulation, progress-aware correction | 2026-08-10 | Repository-relative |
 
 ## Appendix
 

@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` - FLASH Efficient - DEP-E; overlap: dexterous, imitation, manipulation, generation, schema.
-2. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` - Semantic Skill MoE Policies; overlap: bimanual, imitation, manipulation, schema.
-3. `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md` - DeltaDeno Zero-Shot - DEP-E; overlap: sql, text-to-sql, queries, query, generation.
+1. `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` - ManipulationNet An - DEP-E; overlap: robot manipulation, benchmark data, physical skill coverage.
+2. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` - Semantic Skill MoE Policies; overlap: robotic manipulation, compositional skills, policy routing.
+3. `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md` - See Plan Rewind - DEP-E; overlap: vision-language-action, robust manipulation, progress-aware correction.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

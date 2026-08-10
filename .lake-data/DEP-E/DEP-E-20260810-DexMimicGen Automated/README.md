@@ -17,7 +17,7 @@ The paper addresses automated, bimanual, dexmimicgen. The full paper was inspect
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to FLASH Efficient - DEP-E, Semantic Skill MoE Policies, and DeltaDeno Zero-Shot - DEP-E. Their concrete shared concepts include bimanual, dexterous, generation, imitation, manipulation. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to ManipulationNet An - DEP-E, Semantic Skill MoE Policies, and See Plan Rewind - DEP-E. Their concrete shared concepts include benchmark data, compositional skills, physical skill coverage, policy routing, progress-aware correction. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to FLASH Efficient - DEP-E, Sem
 - https://arxiv.org/html/2410.24185 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2410.24185 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.24185 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-FLASH%20Efficient - related DEP: FLASH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
 - https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-See%20Plan%20Rewind - related DEP: See Plan Rewind - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

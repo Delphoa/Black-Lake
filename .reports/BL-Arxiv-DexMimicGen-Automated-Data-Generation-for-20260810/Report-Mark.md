@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` - FLASH Efficient - DEP-E; overlap: dexterous, imitation, manipulation, generation, schema.
-2. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` - Semantic Skill MoE Policies; overlap: bimanual, imitation, manipulation, schema.
-3. `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md` - DeltaDeno Zero-Shot - DEP-E; overlap: sql, text-to-sql, queries, query, generation.
+1. `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md` - ManipulationNet An - DEP-E; overlap: robot manipulation, benchmark data, physical skill coverage.
+2. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md` - Semantic Skill MoE Policies; overlap: robotic manipulation, compositional skills, policy routing.
+3. `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md` - See Plan Rewind - DEP-E; overlap: vision-language-action, robust manipulation, progress-aware correction.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a automated, bimanual, dexmimicgen perspective. The three related DEPs overlap concretely through bimanual, dexterous, generation, imitation, manipulation. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a automated, bimanual, dexmimicgen perspective. The three related DEPs overlap concretely through benchmark data, compositional skills, physical skill coverage, policy routing, progress-aware correction. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a automated, bimanual, dexmimicgen perspective. T
 
 ### Deeper Relationship Observations
 
-1. FLASH Efficient - DEP-E overlaps through dexterous, imitation, manipulation, generation, schema, clarifying a neighboring representation or evidence choice.
-2. Semantic Skill MoE Policies overlaps through bimanual, imitation, manipulation, schema, exposing a complementary evaluation or operating boundary.
-3. DeltaDeno Zero-Shot - DEP-E overlaps through sql, text-to-sql, queries, query, generation, showing how implementation assumptions affect practical transfer.
+1. ManipulationNet An - DEP-E overlaps through robot manipulation, benchmark data, physical skill coverage, clarifying a neighboring representation or evidence choice.
+2. Semantic Skill MoE Policies overlaps through robotic manipulation, compositional skills, policy routing, exposing a complementary evaluation or operating boundary.
+3. See Plan Rewind - DEP-E overlaps through vision-language-action, robust manipulation, progress-aware correction, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a automated, bimanual, dexmimicgen perspective. T
 - https://arxiv.org/html/2410.24185 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.24185 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.24185 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-FLASH%20Efficient - related DEP: FLASH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
 - https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-See%20Plan%20Rewind - related DEP: See Plan Rewind - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.
