@@ -6947,3 +6947,48 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GAAMA: Graph Augmented Associative Memory for Agents* | Swarna Kamal Paul; Shubhendu Sharma; Nitin Sareen | [arXiv:2603.27910v2](https://arxiv.org/abs/2603.27910v2) - [DOI](https://doi.org/10.48550/arXiv.2603.27910) |
+
+
+## [DEP-A-20260811-Episodic Feedback](../DEP-A-20260811-Episodic%20Feedback/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.24893-whitepaper-review.md`](../DEP-A-20260811-Episodic%20Feedback/2604.24893-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interactive Episodic Memory with User Feedback* | Nikesh Subedi; Loris Bazzani; Ziad Al-Halah | [arXiv:2604.24893v1](https://arxiv.org/abs/2604.24893v1) - [DOI](https://doi.org/10.48550/arXiv.2604.24893) |
+
+
+## [DEP-A-20260811-MemCoT Search](../DEP-A-20260811-MemCoT%20Search/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.08216-whitepaper-review.md`](../DEP-A-20260811-MemCoT%20Search/2604.08216-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought* | Haodong Lei; Junming Liu; Yirong Chen; Ding Wang; Hongsong Wang | [arXiv:2604.08216v3](https://arxiv.org/abs/2604.08216v3) - [DOI](https://doi.org/10.48550/arXiv.2604.08216) |
+
+
+## [DEP-A-20260811-PYTHALAB MERA](../DEP-A-20260811-PYTHALAB%20MERA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.08468-whitepaper-review.md`](../DEP-A-20260811-PYTHALAB%20MERA/2605.08468-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PYTHALAB-MERA: Validation-Grounded Memory, Retrieval, and Acceptance Control for Frozen-LLM Coding Agents* | Mehmet Iscan | [arXiv:2605.08468v1](https://arxiv.org/abs/2605.08468v1) - [DOI](https://doi.org/10.48550/arXiv.2605.08468) |
+
+
+## [DEP-A-20260811-NLL Layer Selection](../DEP-A-20260811-NLL%20Layer%20Selection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2606.27791-whitepaper-review.md`](../DEP-A-20260811-NLL%20Layer%20Selection/2606.27791-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NLL-Guided Full-Attention Layer Selection for Training-Free Sliding-Window Adaptation* | Qiong Tang; Xiangkun Hu; Xiangyang Liu; Yiran Chen; Yunfan Shao | [arXiv:2606.27791v1](https://arxiv.org/abs/2606.27791v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27791) |
+
+
+## [DEP-A-20260811-Prefilling dLLM](../DEP-A-20260811-Prefilling%20dLLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2606.10537-whitepaper-review.md`](../DEP-A-20260811-Prefilling%20dLLM/2606.10537-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models* | Jing Xiong; Qi Han; Shansan Gong; Yunta Hsieh; Chengyue Wu; Chaofan Tao; Chenyang Zhao; Ngai Wong | [arXiv:2606.10537v1](https://arxiv.org/abs/2606.10537v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10537) |
