@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md` - No Free Charge Theorem a - DEP-E; overlap: free, matching.
-2. `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` - FLASH Efficient - DEP-E; overlap: sampling, free, flow, matching.
-3. `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md` - Provably Faster Algorithms for B - DEP-E; overlap: sampling, matching.
+1. `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md` - High-Order Langevin - DEP-E; overlap: distribution sampling, diffusion dynamics, accelerated MCMC.
+2. `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md` - SIGMA Chem Align - DEP-E; overlap: molecular structure, invariant representation, chemical systems.
+3. `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md` - FGBench Chemistry - DEP-E; overlap: molecular properties, chemical reasoning, benchmark evaluation.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

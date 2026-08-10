@@ -17,7 +17,7 @@ The paper addresses energy, flow, free. The full paper was inspected beyond its 
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to No Free Charge Theorem a - DEP-E, FLASH Efficient - DEP-E, and Provably Faster Algorithms for B - DEP-E. Their concrete shared concepts include flow, free, matching, sampling. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to High-Order Langevin - DEP-E, SIGMA Chem Align - DEP-E, and FGBench Chemistry - DEP-E. Their concrete shared concepts include accelerated MCMC, benchmark evaluation, chemical reasoning, chemical systems, diffusion dynamics. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to No Free Charge Theorem a - D
 - https://arxiv.org/html/2605.00337 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2605.00337 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.00337 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-No%20Free%20Charge%20Theorem%20a - related DEP: No Free Charge Theorem a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-FLASH%20Efficient - related DEP: FLASH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align - related DEP: SIGMA Chem Align - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

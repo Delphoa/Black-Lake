@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2605.00337 | https://arxiv.org/abs/2605.00337 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2605.00337 rendering | https://arxiv.org/html/2605.00337 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2605.00337 | https://arxiv.org/pdf/2605.00337 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | No Free Charge Theorem a - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | FLASH Efficient - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | Provably Faster Algorithms for B - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | High-Order Langevin - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | SIGMA Chem Align - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | FGBench Chemistry - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P07` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Liu, Zichen; Li, Tiejun. Submitted/source date: 2026/05/01. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P07`.
@@ -41,7 +41,7 @@ Authors: Liu, Zichen; Li, Tiejun. Submitted/source date: 2026/05/01. Job `BLAD-2
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “Sampling the distribution of collective variables (CVs) and estimating the associated free energy surface are crucial problems in …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “Sampling the distribution of collective variables (CVs) and estimating the associated free energy surface are crucial problems in …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: flow, free, matching, sampling | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: accelerated MCMC, benchmark evaluation, chemical reasoning, chemical systems, diffusion dynamics | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “We remark that the flow matching me
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how flow, free, matching, sampling connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how accelerated MCMC, benchmark evaluation, chemical reasoning, chemical systems, diffusion dynamics connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: flow, free, matching, sampling.
+- Connects to three repository artifacts with concrete shared terms: accelerated MCMC, benchmark evaluation, chemical reasoning, chemical systems, diffusion dynamics.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| No Free Charge Theorem a - DEP-E | Related DEP | Overlap: free, matching | `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md` |
-| FLASH Efficient - DEP-E | Related DEP | Overlap: sampling, free, flow, matching | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` |
-| Provably Faster Algorithms for B - DEP-E | Related DEP | Overlap: sampling, matching | `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md` |
+| High-Order Langevin - DEP-E | Related DEP | Overlap: distribution sampling, diffusion dynamics, accelerated MCMC | `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md` |
+| SIGMA Chem Align - DEP-E | Related DEP | Overlap: molecular structure, invariant representation, chemical systems | `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md` |
+| FGBench Chemistry - DEP-E | Related DEP | Overlap: molecular properties, chemical reasoning, benchmark evaluation | `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2605.00337 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2605.00337 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2605.00337 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md` | Related synthesis: free, matching | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md` | Related synthesis: sampling, free, flow, matching | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md` | Related synthesis: sampling, matching | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md` | Related synthesis: distribution sampling, diffusion dynamics, accelerated MCMC | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md` | Related synthesis: molecular structure, invariant representation, chemical systems | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md` | Related synthesis: molecular properties, chemical reasoning, benchmark evaluation | 2026-08-10 | Repository-relative |
 
 ## Appendix
 
