@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md` - Discriminative and - DEP-E; overlap: recognition, environments, action.
-2. `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` - LA-Pose Latent Action - DEP-E; overlap: self-supervised, action, environments.
-3. `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md` - LTRDetector Exploring Review - DEP-E; overlap: exploring, action.
+1. `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` - LA-Pose Latent Action - DEP-E; overlap: self-supervised representation, pose signals, latent actions.
+2. `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` - Spiking Pose Tracking - DEP-E; overlap: 3D human pose, spatiotemporal modeling, occlusion-sensitive tracking.
+3. `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md` - MI-Motion Review - DEP-E; overlap: skeleton motion, multi-person dynamics, temporal prediction.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

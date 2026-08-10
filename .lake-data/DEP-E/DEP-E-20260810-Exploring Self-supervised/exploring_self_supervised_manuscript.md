@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2309.12029 | https://arxiv.org/abs/2309.12029 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2309.12029 rendering | https://arxiv.org/html/2309.12029 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2309.12029 | https://arxiv.org/pdf/2309.12029 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | Discriminative and - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | LA-Pose Latent Action - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | LTRDetector Exploring Review - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | LA-Pose Latent Action - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | Spiking Pose Tracking - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | MI-Motion Review - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P05` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Chen, Yifei; Peng, Kunyu; Roitberg, Alina; Schneider, David; Zhang, Jiaming; Zheng, Junwei; Chen, Yufan; Liu, Ruiping; Yang, Kailun; Stiefelhagen, Rainer. Submitted/source date: 2023/09/21. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P05`.
@@ -41,7 +41,7 @@ Authors: Chen, Yifei; Peng, Kunyu; Roitberg, Alina; Schneider, David; Zhang, Jia
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “To integrate action recognition into autonomous robotic systems, it is essential to address challenges such as person occlusions—a …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “The majority of existing work on self-supervised skeleton-based action recognition [ 17 , 14 , 15 ] is …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: action, environments, exploring, recognition, self-supervised | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: 3D human pose, latent actions, multi-person dynamics, occlusion-sensitive tracking, pose signals | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “To integrate action recognition int
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how action, environments, exploring, recognition, self-supervised connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how 3D human pose, latent actions, multi-person dynamics, occlusion-sensitive tracking, pose signals connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: action, environments, exploring, recognition, self-supervised.
+- Connects to three repository artifacts with concrete shared terms: 3D human pose, latent actions, multi-person dynamics, occlusion-sensitive tracking, pose signals.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| Discriminative and - DEP-E | Related DEP | Overlap: recognition, environments, action | `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md` |
-| LA-Pose Latent Action - DEP-E | Related DEP | Overlap: self-supervised, action, environments | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` |
-| LTRDetector Exploring Review - DEP-E | Related DEP | Overlap: exploring, action | `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md` |
+| LA-Pose Latent Action - DEP-E | Related DEP | Overlap: self-supervised representation, pose signals, latent actions | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` |
+| Spiking Pose Tracking - DEP-E | Related DEP | Overlap: 3D human pose, spatiotemporal modeling, occlusion-sensitive tracking | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` |
+| MI-Motion Review - DEP-E | Related DEP | Overlap: skeleton motion, multi-person dynamics, temporal prediction | `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2309.12029 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2309.12029 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2309.12029 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md` | Related synthesis: recognition, environments, action | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` | Related synthesis: self-supervised, action, environments | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md` | Related synthesis: exploring, action | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` | Related synthesis: self-supervised representation, pose signals, latent actions | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` | Related synthesis: 3D human pose, spatiotemporal modeling, occlusion-sensitive tracking | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md` | Related synthesis: skeleton motion, multi-person dynamics, temporal prediction | 2026-08-10 | Repository-relative |
 
 ## Appendix
 

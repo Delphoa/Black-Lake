@@ -17,7 +17,7 @@ The paper addresses action, environments, exploring. The full paper was inspecte
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to Discriminative and - DEP-E, LA-Pose Latent Action - DEP-E, and LTRDetector Exploring Review - DEP-E. Their concrete shared concepts include action, environments, exploring, recognition, self-supervised. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to LA-Pose Latent Action - DEP-E, Spiking Pose Tracking - DEP-E, and MI-Motion Review - DEP-E. Their concrete shared concepts include 3D human pose, latent actions, multi-person dynamics, occlusion-sensitive tracking, pose signals. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to Discriminative and - DEP-E, 
 - https://arxiv.org/html/2309.12029 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2309.12029 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.12029 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
 - https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

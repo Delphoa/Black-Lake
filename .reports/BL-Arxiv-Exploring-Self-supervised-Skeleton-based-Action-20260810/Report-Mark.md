@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md` - Discriminative and - DEP-E; overlap: recognition, environments, action.
-2. `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` - LA-Pose Latent Action - DEP-E; overlap: self-supervised, action, environments.
-3. `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md` - LTRDetector Exploring Review - DEP-E; overlap: exploring, action.
+1. `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md` - LA-Pose Latent Action - DEP-E; overlap: self-supervised representation, pose signals, latent actions.
+2. `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` - Spiking Pose Tracking - DEP-E; overlap: 3D human pose, spatiotemporal modeling, occlusion-sensitive tracking.
+3. `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md` - MI-Motion Review - DEP-E; overlap: skeleton motion, multi-person dynamics, temporal prediction.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a action, environments, exploring perspective. The three related DEPs overlap concretely through action, environments, exploring, recognition, self-supervised. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a action, environments, exploring perspective. The three related DEPs overlap concretely through 3D human pose, latent actions, multi-person dynamics, occlusion-sensitive tracking, pose signals. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a action, environments, exploring perspective. Th
 
 ### Deeper Relationship Observations
 
-1. Discriminative and - DEP-E overlaps through recognition, environments, action, clarifying a neighboring representation or evidence choice.
-2. LA-Pose Latent Action - DEP-E overlaps through self-supervised, action, environments, exposing a complementary evaluation or operating boundary.
-3. LTRDetector Exploring Review - DEP-E overlaps through exploring, action, showing how implementation assumptions affect practical transfer.
+1. LA-Pose Latent Action - DEP-E overlaps through self-supervised representation, pose signals, latent actions, clarifying a neighboring representation or evidence choice.
+2. Spiking Pose Tracking - DEP-E overlaps through 3D human pose, spatiotemporal modeling, occlusion-sensitive tracking, exposing a complementary evaluation or operating boundary.
+3. MI-Motion Review - DEP-E overlaps through skeleton motion, multi-person dynamics, temporal prediction, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a action, environments, exploring perspective. Th
 - https://arxiv.org/html/2309.12029 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.12029 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.12029 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
 - https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.
