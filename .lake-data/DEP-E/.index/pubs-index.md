@@ -2691,3 +2691,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models* | Gould, Dewi; Ward, Francis Rhys; Woodruff, Anders Cairns; Arike, Rauno; Hills, Josh; Serrano, Alex; Caspary, Ida; Brown, Jason Ross; Jiao, Jo J.; Leask, Patrick; Stone, Twm; Potham, Ram; Stan, Ionut Gabriel; Mayne, Harry; Hellsten, Simeon; Biswas, Shubhorup; Azarbal, Ariana; Anderson, William L.; Najt, Elle; Greenblatt, Ryan; Stastny, Julian | [arXiv:2606.07157](https://arxiv.org/abs/2606.07157) - [DOI](https://doi.org/10.48550/arXiv.2606.07157) |
+
+
+## [DEP-E-20260810-Solver-Informed RL](../DEP-E-20260810-Solver-Informed%20RL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling* | Chen, Yitian; Xia, Jingfan; Shao, Siyu; Ge, Dongdong; Ye, Yinyu | [arXiv:2505.11792](https://arxiv.org/abs/2505.11792) - [DOI](https://doi.org/10.48550/arXiv.2505.11792) |
