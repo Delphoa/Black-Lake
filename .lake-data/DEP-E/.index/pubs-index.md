@@ -2684,3 +2684,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FES-FM: Free Energy Surface Sampling via Reduced Flow Matching* | Liu, Zichen; Li, Tiejun | [arXiv:2605.00337](https://arxiv.org/abs/2605.00337) - [DOI](https://doi.org/10.48550/arXiv.2605.00337) |
+
+
+## [DEP-E-20260810-Think Fast Estimating](../DEP-E-20260810-Think%20Fast%20Estimating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models* | Gould, Dewi; Ward, Francis Rhys; Woodruff, Anders Cairns; Arike, Rauno; Hills, Josh; Serrano, Alex; Caspary, Ida; Brown, Jason Ross; Jiao, Jo J.; Leask, Patrick; Stone, Twm; Potham, Ram; Stan, Ionut Gabriel; Mayne, Harry; Hellsten, Simeon; Biswas, Shubhorup; Azarbal, Ariana; Anderson, William L.; Najt, Elle; Greenblatt, Ryan; Stastny, Julian | [arXiv:2606.07157](https://arxiv.org/abs/2606.07157) - [DOI](https://doi.org/10.48550/arXiv.2606.07157) |

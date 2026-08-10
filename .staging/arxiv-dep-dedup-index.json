@@ -5219,6 +5219,29 @@
         "https://doi.org/10.48550/arXiv.2605.00337"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating",
+        ".logs/20260810-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-LOG.md",
+        ".reports/BL-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.07157",
+      "arxiv_id": "2606.07157",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2606.07157",
+      "normalized_title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P08; draw 17094 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Think-Fast-Estimating-No-CoT-Task-Completion",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.07157",
+        "https://arxiv.org/html/2606.07157",
+        "https://arxiv.org/pdf/2606.07157",
+        "https://doi.org/10.48550/arXiv.2606.07157"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
