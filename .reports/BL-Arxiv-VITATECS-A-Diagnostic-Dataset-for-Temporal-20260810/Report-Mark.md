@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md` - Reconstruction Guarantee - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
-2. `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md` - Heterogeneous Similarity - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
-3. `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md` - MeDSLIP Medical - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
+1. `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` - VLM Probing - DEP-E; overlap: vision-language models, diagnostic evaluation, model behavior.
+2. `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md` - SOC Semantic-Assisted - DEP-E; overlap: language-guided video understanding, temporal grounding, semantic object tracking.
+3. `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md` - CFE2 Search Explanations - DEP-E; overlap: counterfactual construction, factor isolation, diagnostic explanations.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a concept, diagnostic, temporal perspective. The three related DEPs overlap concretely through attenuation, patients, pediatric, pet, tomography. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a concept, diagnostic, temporal perspective. The three related DEPs overlap concretely through counterfactual construction, diagnostic evaluation, diagnostic explanations, factor isolation, language-guided video understanding. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a concept, diagnostic, temporal perspective. The 
 
 ### Deeper Relationship Observations
 
-1. Reconstruction Guarantee - DEP-E overlaps through pediatric, pet, tomography, patients, attenuation, clarifying a neighboring representation or evidence choice.
-2. Heterogeneous Similarity - DEP-E overlaps through pediatric, pet, tomography, patients, attenuation, exposing a complementary evaluation or operating boundary.
-3. MeDSLIP Medical - DEP-E overlaps through pediatric, pet, tomography, patients, attenuation, showing how implementation assumptions affect practical transfer.
+1. VLM Probing - DEP-E overlaps through vision-language models, diagnostic evaluation, model behavior, clarifying a neighboring representation or evidence choice.
+2. SOC Semantic-Assisted - DEP-E overlaps through language-guided video understanding, temporal grounding, semantic object tracking, exposing a complementary evaluation or operating boundary.
+3. CFE2 Search Explanations - DEP-E overlaps through counterfactual construction, factor isolation, diagnostic explanations, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a concept, diagnostic, temporal perspective. The 
 - https://arxiv.org/html/2311.17404 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.17404 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.17404 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Reconstruction%20Guarantee - related DEP: Reconstruction Guarantee - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-MeDSLIP%20Medical - related DEP: MeDSLIP Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

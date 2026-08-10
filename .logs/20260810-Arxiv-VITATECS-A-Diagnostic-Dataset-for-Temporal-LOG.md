@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md` - Reconstruction Guarantee - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
-2. `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md` - Heterogeneous Similarity - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
-3. `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md` - MeDSLIP Medical - DEP-E; overlap: pediatric, pet, tomography, patients, attenuation.
+1. `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` - VLM Probing - DEP-E; overlap: vision-language models, diagnostic evaluation, model behavior.
+2. `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md` - SOC Semantic-Assisted - DEP-E; overlap: language-guided video understanding, temporal grounding, semantic object tracking.
+3. `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md` - CFE2 Search Explanations - DEP-E; overlap: counterfactual construction, factor isolation, diagnostic explanations.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

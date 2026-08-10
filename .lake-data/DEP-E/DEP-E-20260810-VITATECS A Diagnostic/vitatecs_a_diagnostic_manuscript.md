@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2311.17404 | https://arxiv.org/abs/2311.17404 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2311.17404 rendering | https://arxiv.org/html/2311.17404 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2311.17404 | https://arxiv.org/pdf/2311.17404 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | Reconstruction Guarantee - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | Heterogeneous Similarity - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | MeDSLIP Medical - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | VLM Probing - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | SOC Semantic-Assisted - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | CFE2 Search Explanations - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P04` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Li, Shicheng; Li, Lei; Ren, Shuhuai; Liu, Yuanxin; Liu, Yi; Gao, Rundong; Sun, Xu; Hou, Lu. Submitted/source date: 2023/11/29. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P04`.
@@ -41,7 +41,7 @@ Authors: Li, Shicheng; Li, Lei; Ren, Shuhuai; Liu, Yuanxin; Liu, Yi; Gao, Rundon
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “The ability to perceive how objects change over time is a crucial ingredient in human intelligence. However, current …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “The ability to perceive how objects change over time is a crucial ingredient in human intelligence. However, current …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: attenuation, patients, pediatric, pet, tomography | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: counterfactual construction, diagnostic evaluation, diagnostic explanations, factor isolation, language-guided video understanding | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “The ability to perceive how objects
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how attenuation, patients, pediatric, pet, tomography connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how counterfactual construction, diagnostic evaluation, diagnostic explanations, factor isolation, language-guided video understanding connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: attenuation, patients, pediatric, pet, tomography.
+- Connects to three repository artifacts with concrete shared terms: counterfactual construction, diagnostic evaluation, diagnostic explanations, factor isolation, language-guided video understanding.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| Reconstruction Guarantee - DEP-E | Related DEP | Overlap: pediatric, pet, tomography, patients, attenuation | `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md` |
-| Heterogeneous Similarity - DEP-E | Related DEP | Overlap: pediatric, pet, tomography, patients, attenuation | `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md` |
-| MeDSLIP Medical - DEP-E | Related DEP | Overlap: pediatric, pet, tomography, patients, attenuation | `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md` |
+| VLM Probing - DEP-E | Related DEP | Overlap: vision-language models, diagnostic evaluation, model behavior | `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` |
+| SOC Semantic-Assisted - DEP-E | Related DEP | Overlap: language-guided video understanding, temporal grounding, semantic object tracking | `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md` |
+| CFE2 Search Explanations - DEP-E | Related DEP | Overlap: counterfactual construction, factor isolation, diagnostic explanations | `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2311.17404 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2311.17404 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2311.17404 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md` | Related synthesis: pediatric, pet, tomography, patients, attenuation | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md` | Related synthesis: pediatric, pet, tomography, patients, attenuation | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md` | Related synthesis: pediatric, pet, tomography, patients, attenuation | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md` | Related synthesis: vision-language models, diagnostic evaluation, model behavior | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md` | Related synthesis: language-guided video understanding, temporal grounding, semantic object tracking | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md` | Related synthesis: counterfactual construction, factor isolation, diagnostic explanations | 2026-08-10 | Repository-relative |
 
 ## Appendix
 

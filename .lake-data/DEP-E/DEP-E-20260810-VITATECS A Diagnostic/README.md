@@ -17,7 +17,7 @@ The paper addresses concept, diagnostic, temporal. The full paper was inspected 
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to Reconstruction Guarantee - DEP-E, Heterogeneous Similarity - DEP-E, and MeDSLIP Medical - DEP-E. Their concrete shared concepts include attenuation, patients, pediatric, pet, tomography. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to VLM Probing - DEP-E, SOC Semantic-Assisted - DEP-E, and CFE2 Search Explanations - DEP-E. Their concrete shared concepts include counterfactual construction, diagnostic evaluation, diagnostic explanations, factor isolation, language-guided video understanding. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to Reconstruction Guarantee - D
 - https://arxiv.org/html/2311.17404 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2311.17404 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.17404 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Reconstruction%20Guarantee - related DEP: Reconstruction Guarantee - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-MeDSLIP%20Medical - related DEP: MeDSLIP Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.
