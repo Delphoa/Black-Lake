@@ -17,7 +17,7 @@ The paper addresses avatar, generation, scaling. The full paper was inspected be
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to FiberStars Visual - DEP-E, Spiking Pose Tracking - DEP-E, and Deep Learning for - DEP-E. Their concrete shared concepts include algebraic, avatar, avatars, manifold, persistence. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to AR-Drag Motion Control - DEP-E, VideoWeave - DEP-E, and UnityShots Memory-Driven Multi-S - DEP-E. Their concrete shared concepts include autoregressive rollout, geometric consistency, memory-guided generation, motion alignment, multi-shot video generation. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to FiberStars Visual - DEP-E, S
 - https://arxiv.org/html/2606.13872 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2606.13872 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.13872 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-FiberStars%20Visual - related DEP: FiberStars Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-UnityShots%20Memory-Driven - related DEP: UnityShots Memory-Driven Multi-S - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

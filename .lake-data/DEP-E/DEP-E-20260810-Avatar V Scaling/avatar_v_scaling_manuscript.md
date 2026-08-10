@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2606.13872 | https://arxiv.org/abs/2606.13872 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2606.13872 rendering | https://arxiv.org/html/2606.13872 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2606.13872 | https://arxiv.org/pdf/2606.13872 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | FiberStars Visual - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | Spiking Pose Tracking - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | Deep Learning for - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | AR-Drag Motion Control - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | VideoWeave - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | UnityShots Memory-Driven Multi-S - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P01` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Liang, Benjamin; Chen, Ce; Lin, Desmond; Somov, Ivan; Zhao, Jiajun; Yuan, Jiewei; Zhang, Jingfeng; Huang, Junhao; Nolte, Nik; Haqiqi, Pedram; Wang, Penghan; Yan, Rong; Zhang, Rui; Prokopchuk, Sam; Wang, Sivan; Goriachko, Viktor; Ren, Yi; Li, Yuanming; Chen, Yutao; Ye, Zhenhui; Hong, Zhibin; Nie, Zilong; Guo, Zujin. Submitted/source date: 2026/06/11. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P01`.
@@ -41,7 +41,7 @@ Authors: Liang, Benjamin; Chen, Ce; Lin, Desmond; Somov, Ivan; Zhao, Jiajun; Yua
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “Generating avatar videos that are not merely visually similar to a target individual but behaviorally recognizable, faithfully reproducing …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “Generating avatar videos that are not merely visually similar to a target individual but behaviorally recognizable, faithfully reproducing …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: algebraic, avatar, avatars, manifold, persistence | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: autoregressive rollout, geometric consistency, memory-guided generation, motion alignment, multi-shot video generation | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “Generating avatar videos that are n
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how algebraic, avatar, avatars, manifold, persistence connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how autoregressive rollout, geometric consistency, memory-guided generation, motion alignment, multi-shot video generation connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: algebraic, avatar, avatars, manifold, persistence.
+- Connects to three repository artifacts with concrete shared terms: autoregressive rollout, geometric consistency, memory-guided generation, motion alignment, multi-shot video generation.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| FiberStars Visual - DEP-E | Related DEP | Overlap: avatars, topological, algebraic, persistence, manifold | `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md` |
-| Spiking Pose Tracking - DEP-E | Related DEP | Overlap: avatars, algebraic, avatar, video, queries | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` |
-| Deep Learning for - DEP-E | Related DEP | Overlap: avatars, topological, persistence, manifold, avatar | `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md` |
+| AR-Drag Motion Control - DEP-E | Related DEP | Overlap: video generation, motion alignment, autoregressive rollout | `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md` |
+| VideoWeave - DEP-E | Related DEP | Overlap: video generation, geometric consistency, post-training | `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` |
+| UnityShots Memory-Driven Multi-S - DEP-E | Related DEP | Overlap: multi-shot video generation, temporal continuity, memory-guided generation | `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2606.13872 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2606.13872 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2606.13872 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md` | Related synthesis: avatars, topological, algebraic, persistence, manifold | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` | Related synthesis: avatars, algebraic, avatar, video, queries | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md` | Related synthesis: avatars, topological, persistence, manifold, avatar | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md` | Related synthesis: video generation, motion alignment, autoregressive rollout | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` | Related synthesis: video generation, geometric consistency, post-training | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md` | Related synthesis: multi-shot video generation, temporal continuity, memory-guided generation | 2026-08-10 | Repository-relative |
 
 ## Appendix
 

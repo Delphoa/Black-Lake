@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md` - FiberStars Visual - DEP-E; overlap: avatars, topological, algebraic, persistence, manifold.
-2. `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` - Spiking Pose Tracking - DEP-E; overlap: avatars, algebraic, avatar, video, queries.
-3. `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md` - Deep Learning for - DEP-E; overlap: avatars, topological, persistence, manifold, avatar.
+1. `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md` - AR-Drag Motion Control - DEP-E; overlap: video generation, motion alignment, autoregressive rollout.
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - VideoWeave - DEP-E; overlap: video generation, geometric consistency, post-training.
+3. `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md` - UnityShots Memory-Driven Multi-S - DEP-E; overlap: multi-shot video generation, temporal continuity, memory-guided generation.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md` - FiberStars Visual - DEP-E; overlap: avatars, topological, algebraic, persistence, manifold.
-2. `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md` - Spiking Pose Tracking - DEP-E; overlap: avatars, algebraic, avatar, video, queries.
-3. `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md` - Deep Learning for - DEP-E; overlap: avatars, topological, persistence, manifold, avatar.
+1. `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md` - AR-Drag Motion Control - DEP-E; overlap: video generation, motion alignment, autoregressive rollout.
+2. `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md` - VideoWeave - DEP-E; overlap: video generation, geometric consistency, post-training.
+3. `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md` - UnityShots Memory-Driven Multi-S - DEP-E; overlap: multi-shot video generation, temporal continuity, memory-guided generation.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a avatar, generation, scaling perspective. The three related DEPs overlap concretely through algebraic, avatar, avatars, manifold, persistence. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a avatar, generation, scaling perspective. The three related DEPs overlap concretely through autoregressive rollout, geometric consistency, memory-guided generation, motion alignment, multi-shot video generation. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a avatar, generation, scaling perspective. The th
 
 ### Deeper Relationship Observations
 
-1. FiberStars Visual - DEP-E overlaps through avatars, topological, algebraic, persistence, manifold, clarifying a neighboring representation or evidence choice.
-2. Spiking Pose Tracking - DEP-E overlaps through avatars, algebraic, avatar, video, queries, exposing a complementary evaluation or operating boundary.
-3. Deep Learning for - DEP-E overlaps through avatars, topological, persistence, manifold, avatar, showing how implementation assumptions affect practical transfer.
+1. AR-Drag Motion Control - DEP-E overlaps through video generation, motion alignment, autoregressive rollout, clarifying a neighboring representation or evidence choice.
+2. VideoWeave - DEP-E overlaps through video generation, geometric consistency, post-training, exposing a complementary evaluation or operating boundary.
+3. UnityShots Memory-Driven Multi-S - DEP-E overlaps through multi-shot video generation, temporal continuity, memory-guided generation, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a avatar, generation, scaling perspective. The th
 - https://arxiv.org/html/2606.13872 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.13872 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.13872 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-FiberStars%20Visual - related DEP: FiberStars Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-UnityShots%20Memory-Driven - related DEP: UnityShots Memory-Driven Multi-S - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.
