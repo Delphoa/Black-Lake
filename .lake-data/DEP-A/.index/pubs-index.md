@@ -6857,3 +6857,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference* | Yu Li; Binxu Li; Tian Lan | [arXiv:2606.01563v1](https://arxiv.org/abs/2606.01563v1) - [DOI](https://doi.org/10.48550/arXiv.2606.01563) |
+
+
+## [DEP-A-20260811-IndexMem Latent KV](../DEP-A-20260811-IndexMem%20Latent%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.25475-whitepaper-review.md`](../DEP-A-20260811-IndexMem%20Latent%20KV/2605.25475-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference* | Xintong Yang; Hao Gu; Binxing Xu; Lujun Li; Bei Liu; Jiacheng Liu; Qiyuan Zhu; Yike Guo; Sirui Han | [arXiv:2605.25475v2](https://arxiv.org/abs/2605.25475v2) - [DOI](https://doi.org/10.48550/arXiv.2605.25475) |
+
+
+## [DEP-A-20260811-VECTOR KV Plug-in](../DEP-A-20260811-VECTOR%20KV%20Plug-in/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.23258-whitepaper-review.md`](../DEP-A-20260811-VECTOR%20KV%20Plug-in/2605.23258-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Simple Plug-in for Improving Eviction-Based KV Cache Compression* | Yuping Lin; Jiayuan Ding; Yue Xing; Pengfei He; Jiliang Tang; Subhabrata Mukherjee | [arXiv:2605.23258v1](https://arxiv.org/abs/2605.23258v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23258) |
+
+
+## [DEP-A-20260811-KVDrive Multi Tier](../DEP-A-20260811-KVDrive%20Multi%20Tier/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.18071-whitepaper-review.md`](../DEP-A-20260811-KVDrive%20Multi%20Tier/2605.18071-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVDrive: A Holistic Multi-Tier KV Cache Management System for Long-Context LLM Inference* | Jian Lin; Jiazhi Mi; Zicong Hong; Haodong Wang; Qianli Liu; Haodyue Zhang; Peng Li; Song Guo | [arXiv:2605.18071v1](https://arxiv.org/abs/2605.18071v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18071) |
+
+
+## [DEP-A-20260811-KV Fold Recurrence](../DEP-A-20260811-KV%20Fold%20Recurrence/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.12471-whitepaper-review.md`](../DEP-A-20260811-KV%20Fold%20Recurrence/2605.12471-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference* | Alireza Nadali; Patrick Cooper; Ashutosh Trivedi; Alvaro Velasquez | [arXiv:2605.12471v1](https://arxiv.org/abs/2605.12471v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12471) |
+
+
+## [DEP-A-20260811-Global KV Retention](../DEP-A-20260811-Global%20KV%20Retention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.09649-whitepaper-review.md`](../DEP-A-20260811-Global%20KV%20Retention/2605.09649-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction* | Ngoc Bui; Hieu Trung Nguyen; Arman Cohan; Rex Ying | [arXiv:2605.09649v1](https://arxiv.org/abs/2605.09649v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09649) |
