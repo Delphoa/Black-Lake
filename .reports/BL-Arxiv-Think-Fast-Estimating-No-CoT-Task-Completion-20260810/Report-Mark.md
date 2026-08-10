@@ -35,15 +35,15 @@ The source positions its named approach as a response to the problem encoded by 
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md` - Estimating the persistent - DEP-E; overlap: estimating, time.
-2. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` - PAC Confidence - DEP-E; overlap: fast, time.
-3. `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md` - Fast Safety Assessment - DEP-E; overlap: fast, time.
+1. `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md` - MCPWorld Benchmark - DEP-E; overlap: agent task completion, capability benchmarking, computer-use evaluation.
+2. `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md` - Proposer-Agent-Evaluator - DEP-E; overlap: autonomous agents, skill discovery, task capability.
+3. `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` - ConMax Reasoning - DEP-E; overlap: chain-of-thought boundary, reasoning traces, model efficiency.
 
 ## Synthesis Note
 
 ### Concept Bridge
 
-The selected paper contributes a estimating, fast, frontier perspective. The three related DEPs overlap concretely through estimating, fast, time. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
+The selected paper contributes a estimating, fast, frontier perspective. The three related DEPs overlap concretely through agent task completion, autonomous agents, capability benchmarking, chain-of-thought boundary, computer-use evaluation. Together they support a provenance-first workflow separating primary-source claims, reviewer interpretation, experimental validation, and deployment decisions.
 
 ### Potential Implementations
 
@@ -53,9 +53,9 @@ The selected paper contributes a estimating, fast, frontier perspective. The thr
 
 ### Deeper Relationship Observations
 
-1. Estimating the persistent - DEP-E overlaps through estimating, time, clarifying a neighboring representation or evidence choice.
-2. PAC Confidence - DEP-E overlaps through fast, time, exposing a complementary evaluation or operating boundary.
-3. Fast Safety Assessment - DEP-E overlaps through fast, time, showing how implementation assumptions affect practical transfer.
+1. MCPWorld Benchmark - DEP-E overlaps through agent task completion, capability benchmarking, computer-use evaluation, clarifying a neighboring representation or evidence choice.
+2. Proposer-Agent-Evaluator - DEP-E overlaps through autonomous agents, skill discovery, task capability, exposing a complementary evaluation or operating boundary.
+3. ConMax Reasoning - DEP-E overlaps through chain-of-thought boundary, reasoning traces, model efficiency, showing how implementation assumptions affect practical transfer.
 
 ### Conceptual Similarities
 
@@ -95,7 +95,7 @@ The selected paper contributes a estimating, fast, frontier perspective. The thr
 - https://arxiv.org/html/2606.07157 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.07157 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.07157 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Estimating%20the%20persistent - related DEP: Estimating the persistent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Fast%20Safety%20Assessment - related DEP: Fast Safety Assessment - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

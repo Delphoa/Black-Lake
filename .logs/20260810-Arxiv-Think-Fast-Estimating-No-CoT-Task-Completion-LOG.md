@@ -37,8 +37,8 @@
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md` - Estimating the persistent - DEP-E; overlap: estimating, time.
-2. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` - PAC Confidence - DEP-E; overlap: fast, time.
-3. `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md` - Fast Safety Assessment - DEP-E; overlap: fast, time.
+1. `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md` - MCPWorld Benchmark - DEP-E; overlap: agent task completion, capability benchmarking, computer-use evaluation.
+2. `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md` - Proposer-Agent-Evaluator - DEP-E; overlap: autonomous agents, skill discovery, task capability.
+3. `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` - ConMax Reasoning - DEP-E; overlap: chain-of-thought boundary, reasoning traces, model efficiency.
 
 Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

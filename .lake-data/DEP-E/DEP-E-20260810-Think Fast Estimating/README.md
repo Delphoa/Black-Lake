@@ -17,7 +17,7 @@ The paper addresses estimating, fast, frontier. The full paper was inspected bey
 
 ## Insights and Relevance
 
-The three related DEPs connect the selected work to Estimating the persistent - DEP-E, PAC Confidence - DEP-E, and Fast Safety Assessment - DEP-E. Their concrete shared concepts include estimating, fast, time. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
+The three related DEPs connect the selected work to MCPWorld Benchmark - DEP-E, Proposer-Agent-Evaluator - DEP-E, and ConMax Reasoning - DEP-E. Their concrete shared concepts include agent task completion, autonomous agents, capability benchmarking, chain-of-thought boundary, computer-use evaluation. The combined lesson is to preserve source provenance, compare against strong simple baselines, test shift and sensitivity, and use abstention plus human review when evidence is incomplete.
 
 ## Attribution Block
 
@@ -25,7 +25,7 @@ The three related DEPs connect the selected work to Estimating the persistent - 
 - https://arxiv.org/html/2606.07157 - verified full paper; local copy withheld.
 - https://arxiv.org/pdf/2606.07157 - verified PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.07157 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Estimating%20the%20persistent - related DEP: Estimating the persistent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Fast%20Safety%20Assessment - related DEP: Fast Safety Assessment - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
 - Source files: PDF, full-paper HTML, metadata HTML, archive source when available, and integrity companions; all withheld locally with zero source-document uploads.

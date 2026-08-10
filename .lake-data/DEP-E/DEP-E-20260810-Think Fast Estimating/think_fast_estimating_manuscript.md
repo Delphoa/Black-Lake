@@ -26,9 +26,9 @@ distribution_notes: "No source document, dataset, model artifact, cache, extract
 | S1 | arXiv record | Metadata | HTML | 2606.07157 | https://arxiv.org/abs/2606.07157 | Metadata only. | 2026-08-10 | Inspected |
 | S2 | Full paper | Primary | HTML | 2606.07157 rendering | https://arxiv.org/html/2606.07157 | Verified local copy withheld. | 2026-08-10 | Inspected in full |
 | S3 | PDF | Primary | PDF | 2606.07157 | https://arxiv.org/pdf/2606.07157 | Verified local copy withheld. | 2026-08-10 | Integrity checked and sampled |
-| S4 | Estimating the persistent - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S5 | PAC Confidence - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
-| S6 | Fast Safety Assessment - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S4 | MCPWorld Benchmark - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S5 | Proposer-Agent-Evaluator - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
+| S6 | ConMax Reasoning - DEP-E | Related | Markdown | DEP-E | `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` | Synthesis only. | 2026-08-10 | Inspected |
 | S7 | Workflow evidence | Process | Private | `BLAD-2200-20260810-B3B6846E-P08` | Local path withheld | Selection, dedup, repair, and integrity. | 2026-08-10 | Verified |
 
 Authors: Gould, Dewi; Ward, Francis Rhys; Woodruff, Anders Cairns; Arike, Rauno; Hills, Josh; Serrano, Alex; Caspary, Ida; Brown, Jason Ross; Jiao, Jo J.; Leask, Patrick; Stone, Twm; Potham, Ram; Stan, Ionut Gabriel; Mayne, Harry; Hellsten, Simeon; Biswas, Shubhorup; Azarbal, Ariana; Anderson, William L.; Najt, Elle; Greenblatt, Ryan; Stastny, Julian. Submitted/source date: 2026/06/05. Job `BLAD-2200-20260810-B3B6846E`; item `BLAD-2200-20260810-B3B6846E-P08`.
@@ -41,7 +41,7 @@ Authors: Gould, Dewi; Ward, Francis Rhys; Woodruff, Anders Cairns; Arike, Rauno;
 | E2 | S2/S3 | Primary paper | Problem framing and full-document structure | Research objective | High for transcription | Source framing is not independent validation |
 | E3 | S2/S3 | Primary paper | Method material represented by “To quantify latent reasoning capacity (Q1), we propose two methods. Following 38 we estimate models’ 50%-task-completion time horizons …” | Mechanism | Medium-high | Implementation was not rerun |
 | E4 | S2/S3 | Primary paper | Evaluation material represented by “However, frontier AI systems may be able to reason latently without explicit CoT tokens [ 74 ] . …” | Author-reported results | Medium | Measurements were not reproduced |
-| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: estimating, fast, time | Cross-DEP synthesis | Medium | No joint experiment exists |
+| E5 | S4, S5, S6 | Related DEP manuscripts | Shared concepts: agent task completion, autonomous agents, capability benchmarking, chain-of-thought boundary, computer-use evaluation | Cross-DEP synthesis | Medium | No joint experiment exists |
 
 ## Executive Summary
 
@@ -105,7 +105,7 @@ The limitation evidence is represented by “However, frontier AI systems may be
 - Representation and preprocessing choices can dominate outcomes while remaining underdocumented.
 - Baseline strength, split design, and version pinning are essential to distinguish gains from evaluation artifacts.
 - Source integrity proves that the paper was available for review, not that its claims were reproduced.
-- The related DEPs show how estimating, fast, time connect the source to neighboring evidence and implementation choices.
+- The related DEPs show how agent task completion, autonomous agents, capability benchmarking, chain-of-thought boundary, computer-use evaluation connect the source to neighboring evidence and implementation choices.
 
 ## Considerations
 
@@ -116,7 +116,7 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 - States a concrete research problem and an identifiable mechanism.
 - Supplies a complete paper with method, evaluation, limitation, conclusion, and reference evidence.
 - Permits cross-checking between structured full-paper HTML and PDF integrity.
-- Connects to three repository artifacts with concrete shared terms: estimating, fast, time.
+- Connects to three repository artifacts with concrete shared terms: agent task completion, autonomous agents, capability benchmarking, chain-of-thought boundary, computer-use evaluation.
 
 ## Weaknesses
 
@@ -166,9 +166,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 
 | Item | Type | Relevance | URL / DOI / Identifier |
 |---|---|---|---|
-| Estimating the persistent - DEP-E | Related DEP | Overlap: estimating, time | `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md` |
-| PAC Confidence - DEP-E | Related DEP | Overlap: fast, time | `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` |
-| Fast Safety Assessment - DEP-E | Related DEP | Overlap: fast, time | `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md` |
+| MCPWorld Benchmark - DEP-E | Related DEP | Overlap: agent task completion, capability benchmarking, computer-use evaluation | `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md` |
+| Proposer-Agent-Evaluator - DEP-E | Related DEP | Overlap: autonomous agents, skill discovery, task capability | `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md` |
+| ConMax Reasoning - DEP-E | Related DEP | Overlap: chain-of-thought boundary, reasoning traces, model efficiency | `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` |
 
 ## Source References
 
@@ -177,9 +177,9 @@ A responsible derivative needs purpose-limited inputs, provenance, access contro
 | R1 | https://arxiv.org/abs/2606.07157 | Metadata and abstract | 2026-08-10 | Metadata only |
 | R2 | https://arxiv.org/html/2606.07157 | Full-paper method, evaluation, limitations, and conclusion | 2026-08-10 | Verified local copy withheld |
 | R3 | https://arxiv.org/pdf/2606.07157 | Primary paper integrity | 2026-08-10 | Verified local copy withheld |
-| R4 | `.lake-data/DEP-E/DEP-E-20260731-Estimating the persistent/estimating_the_persistent_manuscript.md` | Related synthesis: estimating, time | 2026-08-10 | Repository-relative |
-| R5 | `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` | Related synthesis: fast, time | 2026-08-10 | Repository-relative |
-| R6 | `.lake-data/DEP-E/DEP-E-20260725-Fast Safety Assessment/fast_safety_assessment_manuscript.md` | Related synthesis: fast, time | 2026-08-10 | Repository-relative |
+| R4 | `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md` | Related synthesis: agent task completion, capability benchmarking, computer-use evaluation | 2026-08-10 | Repository-relative |
+| R5 | `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md` | Related synthesis: autonomous agents, skill discovery, task capability | 2026-08-10 | Repository-relative |
+| R6 | `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` | Related synthesis: chain-of-thought boundary, reasoning traces, model efficiency | 2026-08-10 | Repository-relative |
 
 ## Appendix
 
