@@ -2656,3 +2656,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning* | Jiang, Zhenyu; Xie, Yuqi; Lin, Kevin; Xu, Zhenjia; Wan, Weikang; Mandlekar, Ajay; Fan, Linxi; Zhu, Yuke | [arXiv:2410.24185](https://arxiv.org/abs/2410.24185) - [DOI](https://doi.org/10.48550/arXiv.2410.24185) |
+
+
+## [DEP-E-20260810-VITATECS A Diagnostic](../DEP-E-20260810-VITATECS%20A%20Diagnostic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models* | Li, Shicheng; Li, Lei; Ren, Shuhuai; Liu, Yuanxin; Liu, Yi; Gao, Rundong; Sun, Xu; Hou, Lu | [arXiv:2311.17404](https://arxiv.org/abs/2311.17404) - [DOI](https://doi.org/10.48550/arXiv.2311.17404) |
