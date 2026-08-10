@@ -6902,3 +6902,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction* | Ngoc Bui; Hieu Trung Nguyen; Arman Cohan; Rex Ying | [arXiv:2605.09649v1](https://arxiv.org/abs/2605.09649v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09649) |
+
+
+## [DEP-A-20260811-LaProx KV Eviction](../DEP-A-20260811-LaProx%20KV%20Eviction/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2605.07234-whitepaper-review.md`](../DEP-A-20260811-LaProx%20KV%20Eviction/2605.07234-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reformulating KV Cache Eviction Problem for Long-Context LLM Inference* | Tho Mai; Joo-Young Kim | [arXiv:2605.07234v1](https://arxiv.org/abs/2605.07234v1) - [DOI](https://doi.org/10.48550/arXiv.2605.07234) |
+
+
+## [DEP-A-20260811-DASH KV Hashing](../DEP-A-20260811-DASH%20KV%20Hashing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v4 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.19351-whitepaper-review.md`](../DEP-A-20260811-DASH%20KV%20Hashing/2604.19351-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DASH-KV: Accelerating Long-Context LLM Inference via Asymmetric KV Cache Hashing* | Jinyu Guo; Zhihan Zhang; Jiehui Xie; Md. Tamim Iqbal; Dongshen Han; Lik-Hang Lee; Sung-Ho Bae; Jie Zou; Yang Yang; Chaoning Zhang | [arXiv:2604.19351v4](https://arxiv.org/abs/2604.19351v4) - [DOI](https://doi.org/10.48550/arXiv.2604.19351) |
+
+
+## [DEP-A-20260811-Mstar Memory Harness](../DEP-A-20260811-Mstar%20Memory%20Harness/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.11811-whitepaper-review.md`](../DEP-A-20260811-Mstar%20Memory%20Harness/2604.11811-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M$^\star$: Every Task Deserves Its Own Memory Harness* | Wenbo Pan; Shujie Liu; Xiangyang Zhou; Shiwei Zhang; Wanlu Shi; Mirror Xu; Xiaohua Jia | [arXiv:2604.11811v2](https://arxiv.org/abs/2604.11811v2) - [DOI](https://doi.org/10.48550/arXiv.2604.11811) |
+
+
+## [DEP-A-20260811-MemMachine Ground Truth](../DEP-A-20260811-MemMachine%20Ground%20Truth/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2604.04853-whitepaper-review.md`](../DEP-A-20260811-MemMachine%20Ground%20Truth/2604.04853-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents* | Shu Wang; Edwin Yu; Oscar Love; Tom Zhang; Tom Wong; Steve Scargall; Charles Fan | [arXiv:2604.04853v1](https://arxiv.org/abs/2604.04853v1) - [DOI](https://doi.org/10.48550/arXiv.2604.04853) |
+
+
+## [DEP-A-20260811-GAAMA Graph Memory](../DEP-A-20260811-GAAMA%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-11. The owning review artifact is [`2603.27910-whitepaper-review.md`](../DEP-A-20260811-GAAMA%20Graph%20Memory/2603.27910-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GAAMA: Graph Augmented Associative Memory for Agents* | Swarna Kamal Paul; Shubhendu Sharma; Nitin Sareen | [arXiv:2603.27910v2](https://arxiv.org/abs/2603.27910v2) - [DOI](https://doi.org/10.48550/arXiv.2603.27910) |
