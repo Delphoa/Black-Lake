@@ -5357,6 +5357,29 @@
         "https://doi.org/10.48550/arXiv.2508.04750"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-Optimal 3D Directional",
+        ".logs/20260811-Arxiv-Optimal-3D-Directional-WPT-Charging-via-UAV-LOG.md",
+        ".reports/BL-Arxiv-Optimal-3D-Directional-WPT-Charging-via-UAV-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.19075",
+      "arxiv_id": "2512.19075",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.48550/arXiv.2512.19075",
+      "normalized_title": "Optimal 3D Directional WPT Charging via UAV for 3D Wireless Rechargeable Sensor Networks",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P04; draw 56622 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Optimal-3D-Directional-WPT-Charging-via-UAV",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.19075",
+        "https://arxiv.org/html/2512.19075",
+        "https://arxiv.org/pdf/2512.19075",
+        "https://doi.org/10.48550/arXiv.2512.19075"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
