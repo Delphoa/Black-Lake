@@ -5449,6 +5449,29 @@
         "https://doi.org/10.48550/arXiv.2310.04801"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-Graph-based data",
+        ".logs/20260811-Arxiv-Graph-based-data-clustering-via-multiscale-LOG.md",
+        ".reports/BL-Arxiv-Graph-based-data-clustering-via-multiscale-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.04491",
+      "arxiv_id": "1909.04491",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.1007/s41109-019-0248-7",
+      "normalized_title": "Graph-based data clustering via multiscale community detection",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P08; draw 21826 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Graph-based-data-clustering-via-multiscale",
+      "source_urls": [
+        "https://arxiv.org/abs/1909.04491",
+        "https://arxiv.org/html/1909.04491",
+        "https://arxiv.org/pdf/1909.04491",
+        "https://doi.org/10.1007/s41109-019-0248-7"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
