@@ -2735,3 +2735,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment* | Kang, Li; Fan, Yutao; Li, Rui; Zhou, Heng; Qin, Yiran; Zhang, Zhemeng; Huang, Songtao; Song, Xiufeng; Zhang, Zaibin; Chen, Bruno N. Y.; Yin, Zhenfei; Zhou, Dongzhan; Zuo, Wangmeng; Bai, Lei | [arXiv:2604.05484](https://arxiv.org/abs/2604.05484) - [DOI](https://doi.org/10.48550/arXiv.2604.05484) |
+
+
+## [DEP-E-20260811-PA-RNet](../DEP-E-20260811-PA-RNet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PA-RNet: Perturbation-Aware Residual Network for Robust Multimodal Time Series Forecasting* | Zhu, Enqiang; Deng, Zhenbin; Wang, Shengzhi; Tang, Yi-Kun; Liu, Chanjuan | [arXiv:2508.04750](https://arxiv.org/abs/2508.04750) - [DOI](https://doi.org/10.48550/arXiv.2508.04750) |
