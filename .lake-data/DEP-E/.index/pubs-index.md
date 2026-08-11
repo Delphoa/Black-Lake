@@ -2721,3 +2721,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications* | Agarwal, Krish; Chen, Zhuoming; Qin, Yanyuan; *et al.* | [arXiv:2607.18171v1](https://arxiv.org/abs/2607.18171) - [DOI](https://doi.org/10.48550/arXiv.2607.18171) |
 | *Harness Engineering for LLM-Driven GPU Kernel Generation* | Shui, Yue; Ma, Chenyu; Xu, Hangfei; *et al.* | [arXiv:2607.17979v1](https://arxiv.org/abs/2607.17979) - [DOI](https://doi.org/10.48550/arXiv.2607.17979) |
 | *SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs* | Kabakibo, Huzaifa Shaaban; Schniedermeyer, Eric; Burchanow, Artem; *et al.* | [arXiv:2607.18081v1](https://arxiv.org/abs/2607.18081) - [DOI](https://doi.org/10.48550/arXiv.2607.18081) |
+
+
+## [DEP-E-20260811-MTAVG-Bench 2 0](../DEP-E-20260811-MTAVG-Bench%202%200/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MTAVG-Bench 2.0: Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation* | Li, Haitian; Zhou, Yanghao; Huang, Heyan; Chen, Liangji; Cheng, YiMing; Liu, Xu; Jin, Dian; Xu, Jiajun; Liao, Jingyun; Lan, Tian; Zhou, Ziqin; Liu, Yueying; Bai, Yu; Yuan, Changsen; Zhou, Jinxing; Mao, Xian-Ling; Chen, Xuefeng; Feng, Yousheng | [arXiv:2605.28035](https://arxiv.org/abs/2605.28035) - [DOI](https://doi.org/10.48550/arXiv.2605.28035) |
