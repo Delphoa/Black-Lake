@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **655 publication reviews across 355 DEP-E entries**.
+- Current coverage: **665 publication reviews across 356 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-10; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260812-Boundary Systems](../DEP-E-20260812-Boundary%20Systems/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems* | Elias Hossain; Md Mehedi Hasan Nipu; Fatema Tuj Johora Faria; Tasfia Nuzhat Ornee; Maleeha Sheikh | [arXiv:2607.19430v2](https://arxiv.org/abs/2607.19430); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19430) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads* | Tiancheng Zhang; Shaoyuan Huang; Mingyuan Wang; Yunfeng Zhao; Xiaofei Wang; Wenyu Wang | [arXiv:2607.19349v1](https://arxiv.org/abs/2607.19349); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19349) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *Information Discernment in Large Language Models* | Joshua Ashkinaze; Laura Kurek; Alina Faisal; Tongyuan Miao; Mariam Joseph; Ceren Budak; Eric Gilbert | [arXiv:2607.19355v1](https://arxiv.org/abs/2607.19355); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19355) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles* | Shengtong Zhu | [arXiv:2607.19359v1](https://arxiv.org/abs/2607.19359); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19359) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning* | Yu Zhao; Zekun Zhang; Fan Jiang; *et al.* | [arXiv:2607.19358v1](https://arxiv.org/abs/2607.19358); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19358) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning* | Jiayuan Ding; Jianhui Lin; Ziyang Miao; *et al.* | [arXiv:2607.19400v1](https://arxiv.org/abs/2607.19400); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19400) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *NMR Elucidation as an Agentic Search Problem, Not a Modeling Problem* | Irina Espejo Morales; Damon Hinz; Marvin Alberts; Geraud Krawezik; Haewon Jeong; Shirley Ho | [arXiv:2607.19406v1](https://arxiv.org/abs/2607.19406); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19406) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models* | Qingjia Huang; Jingyu Zhang; Jianguo Wu; *et al.* | [arXiv:2607.19424v1](https://arxiv.org/abs/2607.19424); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19424) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX* | Wei Wang; Abdul Hyee Waqas; Burns Smith | [arXiv:2607.19353v1](https://arxiv.org/abs/2607.19353); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19353) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
+| *Machine-learned syndrome post-selection for reliable quantum error correction* | Tobias Haug; Askery Canabarro; Leandro Aolita | [arXiv:2607.19563v1](https://arxiv.org/abs/2607.19563); [arXiv DOI](https://doi.org/10.48550/arXiv.2607.19563) | [DEP-E](../DEP-E-20260812-Boundary%20Systems/README.md) |
 
 ## [DEP-E-20260806-ClapperText](../DEP-E-20260806-ClapperText/README.md)
 
