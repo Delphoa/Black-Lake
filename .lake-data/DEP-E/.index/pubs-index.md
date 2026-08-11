@@ -2728,3 +2728,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MTAVG-Bench 2.0: Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation* | Li, Haitian; Zhou, Yanghao; Huang, Heyan; Chen, Liangji; Cheng, YiMing; Liu, Xu; Jin, Dian; Xu, Jiajun; Liao, Jingyun; Lan, Tian; Zhou, Ziqin; Liu, Yueying; Bai, Yu; Yuan, Changsen; Zhou, Jinxing; Mao, Xian-Ling; Chen, Xuefeng; Feng, Yousheng | [arXiv:2605.28035](https://arxiv.org/abs/2605.28035) - [DOI](https://doi.org/10.48550/arXiv.2605.28035) |
+
+
+## [DEP-E-20260811-CoEnv Driving Embodied](../DEP-E-20260811-CoEnv%20Driving%20Embodied/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment* | Kang, Li; Fan, Yutao; Li, Rui; Zhou, Heng; Qin, Yiran; Zhang, Zhemeng; Huang, Songtao; Song, Xiufeng; Zhang, Zaibin; Chen, Bruno N. Y.; Yin, Zhenfei; Zhou, Dongzhan; Zuo, Wangmeng; Bai, Lei | [arXiv:2604.05484](https://arxiv.org/abs/2604.05484) - [DOI](https://doi.org/10.48550/arXiv.2604.05484) |
