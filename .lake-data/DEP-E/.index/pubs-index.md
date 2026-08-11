@@ -2749,3 +2749,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimal 3D Directional WPT Charging via UAV for 3D Wireless Rechargeable Sensor Networks* | Gao, Zhenguo; Li, Hui; Chen, Yiqin; Gao, Qingyu; Kuang, Zhufang; Fang, Shih-Hau; Wu, Hsiao-Chun | [arXiv:2512.19075](https://arxiv.org/abs/2512.19075) - [DOI](https://doi.org/10.48550/arXiv.2512.19075) |
+
+
+## [DEP-E-20260811-Periodic Vibration](../DEP-E-20260811-Periodic%20Vibration/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering* | Chen, Yurui; Gu, Chun; Jiang, Junzhe; Zhu, Xiatian; Zhang, Li | [arXiv:2311.18561](https://arxiv.org/abs/2311.18561) - [DOI](https://doi.org/10.48550/arXiv.2311.18561) |
