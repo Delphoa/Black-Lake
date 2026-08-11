@@ -2784,3 +2784,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A novel metric for community detection* | Shang, Ke-ke; Small, Michael; Wang, Yan; Yin, Di; Li, Shu | [arXiv:1909.12467](https://arxiv.org/abs/1909.12467) - [DOI](https://doi.org/10.1209/0295-5075/129/68002) |
+
+
+## [DEP-E-20260811-Constrained Deep Metric](../DEP-E-20260811-Constrained%20Deep%20Metric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constrained Deep Metric Learning for Person Re-identification* | Shi, Hailin; Zhu, Xiangyu; Liao, Shengcai; Lei, Zhen; Yang, Yang; Li, Stan Z. | [arXiv:1511.07545](https://arxiv.org/abs/1511.07545) - [DOI](https://doi.org/10.48550/arXiv.1511.07545) |
