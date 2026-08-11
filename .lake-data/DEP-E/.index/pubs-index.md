@@ -2777,3 +2777,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Graph-based data clustering via multiscale community detection* | Liu, Zijing; Barahona, Mauricio | [arXiv:1909.04491](https://arxiv.org/abs/1909.04491) - [DOI](https://doi.org/10.1007/s41109-019-0248-7) |
+
+
+## [DEP-E-20260811-A novel metric for](../DEP-E-20260811-A%20novel%20metric%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A novel metric for community detection* | Shang, Ke-ke; Small, Michael; Wang, Yan; Yin, Di; Li, Shu | [arXiv:1909.12467](https://arxiv.org/abs/1909.12467) - [DOI](https://doi.org/10.1209/0295-5075/129/68002) |

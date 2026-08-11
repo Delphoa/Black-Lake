@@ -5472,6 +5472,29 @@
         "https://doi.org/10.1007/s41109-019-0248-7"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-A novel metric for",
+        ".logs/20260811-Arxiv-A-novel-metric-for-community-detection-LOG.md",
+        ".reports/BL-Arxiv-A-novel-metric-for-community-detection-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.12467",
+      "arxiv_id": "1909.12467",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.1209/0295-5075/129/68002",
+      "normalized_title": "A novel metric for community detection",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P09; draw 7607 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-novel-metric-for-community-detection",
+      "source_urls": [
+        "https://arxiv.org/abs/1909.12467",
+        "https://arxiv.org/html/1909.12467",
+        "https://arxiv.org/pdf/1909.12467",
+        "https://doi.org/10.1209/0295-5075/129/68002"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
