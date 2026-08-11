@@ -7163,3 +7163,39 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation* | Xuan-Thong Truong; Trung-Kien Le; Tung Kieu; Thi-Thu Nguyen; Nhat-Hai Nguyen | [arXiv:2607.07640v1](https://arxiv.org/abs/2607.07640v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07640) |
+
+
+## [DEP-A-20260812-VarRate KV Compression](../DEP-A-20260812-VarRate%20KV%20Compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.15498-whitepaper-review.md`](../DEP-A-20260812-VarRate%20KV%20Compression/2607.15498-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs* | Shahrzad Esmat; Dhawal Shah; Ali Jannesari | [arXiv:2607.15498v1](https://arxiv.org/abs/2607.15498v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15498) |
+
+
+## [DEP-A-20260812-Cache Aware Prompts](../DEP-A-20260812-Cache%20Aware%20Prompts/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.15516-whitepaper-review.md`](../DEP-A-20260812-Cache%20Aware%20Prompts/2607.15516-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching* | Yan Song | [arXiv:2607.15516v1](https://arxiv.org/abs/2607.15516v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15516) |
+
+
+## [DEP-A-20260812-Lucid False Memories](../DEP-A-20260812-Lucid%20False%20Memories/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.15657-whitepaper-review.md`](../DEP-A-20260812-Lucid%20False%20Memories/2607.15657-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents* | Halima Bouzidi; Mboutidem Ekemini Mkpong; Mohammad Abdullah Al Faruque | [arXiv:2607.15657v1](https://arxiv.org/abs/2607.15657v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15657) |
+
+
+## [DEP-A-20260812-Token Reduction VPR](../DEP-A-20260812-Token%20Reduction%20VPR/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.15563-whitepaper-review.md`](../DEP-A-20260812-Token%20Reduction%20VPR/2607.15563-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference* | Tong Jin; Yunpeng Liu; Shuyu Hu; Qinghua Zhang; Ruize Han; Song Wang; Feng Lu | [arXiv:2607.15563v1](https://arxiv.org/abs/2607.15563v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15563) |
