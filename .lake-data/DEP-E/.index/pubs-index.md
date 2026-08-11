@@ -2756,3 +2756,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering* | Chen, Yurui; Gu, Chun; Jiang, Junzhe; Zhu, Xiatian; Zhang, Li | [arXiv:2311.18561](https://arxiv.org/abs/2311.18561) - [DOI](https://doi.org/10.48550/arXiv.2311.18561) |
+
+
+## [DEP-E-20260811-RGB-T Semantic](../DEP-E-20260811-RGB-T%20Semantic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RGB-T Semantic Segmentation with Location, Activation, and Sharpening* | Li, Gongyang; Wang, Yike; Liu, Zhi; Zhang, Xinpeng; Zeng, Dan | [arXiv:2210.14530](https://arxiv.org/abs/2210.14530) - [DOI](https://doi.org/10.1109/TCSVT.2022.3208833) |
