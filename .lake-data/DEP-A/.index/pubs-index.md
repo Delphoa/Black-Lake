@@ -7073,3 +7073,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying* | Xingyu Lyu; Jianfeng He; Ning Wang; Yidan Hu; Tao Li; Danjue Chen; Shixiong Li; Yimin Chen | [arXiv:2604.09747v1](https://arxiv.org/abs/2604.09747v1) - [DOI](https://doi.org/10.48550/arXiv.2604.09747) |
+
+
+## [DEP-A-20260812-PERMA Memory Agents](../DEP-A-20260812-PERMA%20Memory%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2603.23231-whitepaper-review.md`](../DEP-A-20260812-PERMA%20Memory%20Agents/2603.23231-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments* | Shuochen Liu; Junyi Zhu; Long Shu; Junda Lin; Yuhao Chen; Haotian Zhang; Chao Zhang; Derong Xu; Jia Li; Bo Tang; Zhiyu Li; Feiyu Xiong; Enhong Chen; Tong Xu | [arXiv:2603.23231v2](https://arxiv.org/abs/2603.23231v2) - [DOI](https://doi.org/10.48550/arXiv.2603.23231) |
+
+
+## [DEP-A-20260812-PASK Proactive Memory](../DEP-A-20260812-PASK%20Proactive%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2604.08000-whitepaper-review.md`](../DEP-A-20260812-PASK%20Proactive%20Memory/2604.08000-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory* | Zhifei Xie; Zongzheng Hu; Fangda Ye; Xin Zhang; Haobo Chai; Zihang Liu; Pengcheng Wu; Guibin Zhang; Yue Liao; Xiaobin Hu; Deheng Ye; Chunyan Miao; Shuicheng Yan | [arXiv:2604.08000v1](https://arxiv.org/abs/2604.08000v1) - [DOI](https://doi.org/10.48550/arXiv.2604.08000) |
+
+
+## [DEP-A-20260812-MemGround Evaluation](../DEP-A-20260812-MemGround%20Evaluation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2604.14158-whitepaper-review.md`](../DEP-A-20260812-MemGround%20Evaluation/2604.14158-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemGround: Long-Term Memory Evaluation Kit for Large Language Models in Gamified Scenarios* | Yihang Ding; Wanke Xia; Yiting Zhao; Jinbo Su; Jialiang Yang; Zhengbo Zhang; Ke Wang; Wenming Yang | [arXiv:2604.14158v1](https://arxiv.org/abs/2604.14158v1) - [DOI](https://doi.org/10.48550/arXiv.2604.14158) |
+
+
+## [DEP-A-20260812-TF Engram SSD](../DEP-A-20260812-TF%20Engram%20SSD/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.07388-whitepaper-review.md`](../DEP-A-20260812-TF%20Engram%20SSD/2607.07388-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TF-Engram: A Train-Free Engram with SSD-Backed Memory for Large Language Models* | Yutang Ma; Kecheng Huang; Xikun Jiang; Zili Shao | [arXiv:2607.07388v1](https://arxiv.org/abs/2607.07388v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07388) |
+
+
+## [DEP-A-20260812-Latent Personal Memory](../DEP-A-20260812-Latent%20Personal%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2606.20911-whitepaper-review.md`](../DEP-A-20260812-Latent%20Personal%20Memory/2606.20911-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Latent Personal Memory: Represent personal memory as dynamic soft prompts* | Debrup Das; Avinash Amballa; Yashas Malur Saidutta; Vijay Srinivasan; Vivek Kulkarni; Srinivas Chappidi | [arXiv:2606.20911v1](https://arxiv.org/abs/2606.20911v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20911) |
