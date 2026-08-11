@@ -7028,3 +7028,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BudgetDraft: Acceptance-Aware Multi-View Training for Sparse-KV Speculative Decoding* | Liang He; Jingbo Wen; Qishi Zhan; Yixiong Chen; Kangning Cui; Qizhen Lan; Xilu Wang | [arXiv:2606.00144v1](https://arxiv.org/abs/2606.00144v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00144) |
+
+
+## [DEP-A-20260812-SPEED KV Visibility](../DEP-A-20260812-SPEED%20KV%20Visibility/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2605.06105-whitepaper-review.md`](../DEP-A-20260812-SPEED%20KV%20Visibility/2605.06105-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility* | Jungsuk Oh; Hyeseo Jeon; Hyunjune Ji; Kyongmin Kong; Jay-Yoon Lee | [arXiv:2605.06105v1](https://arxiv.org/abs/2605.06105v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06105) |
+
+
+## [DEP-A-20260812-StructKV Skeleton](../DEP-A-20260812-StructKV%20Skeleton/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2604.06746-whitepaper-review.md`](../DEP-A-20260812-StructKV%20Skeleton/2604.06746-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *StructKV: Preserving the Structural Skeleton for Scalable Long-Context Inference* | Zhirui Chen; Peiyang Liu; Ling Shao | [arXiv:2604.06746v1](https://arxiv.org/abs/2604.06746v1) - [DOI](https://doi.org/10.48550/arXiv.2604.06746) |
+
+
+## [DEP-A-20260812-MAC Attention](../DEP-A-20260812-MAC%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2604.00235-whitepaper-review.md`](../DEP-A-20260812-MAC%20Attention/2604.00235-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAC-Attention: a Match-Amend-Complete Scheme for Fast and Accurate Attention Computation* | Jinghan Yao; Sam Adé Jacobs; Walid Krichene; Masahiro Tanaka; Dhabaleswar K Panda | [arXiv:2604.00235v1](https://arxiv.org/abs/2604.00235v1) - [DOI](https://doi.org/10.48550/arXiv.2604.00235) |
+
+
+## [DEP-A-20260812-KVBuffer Serving](../DEP-A-20260812-KVBuffer%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2605.19049-whitepaper-review.md`](../DEP-A-20260812-KVBuffer%20Serving/2605.19049-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVBuffer: IO-aware Serving for Linear Attention* | Longwei Zou; Lin Zhong | [arXiv:2605.19049v1](https://arxiv.org/abs/2605.19049v1) - [DOI](https://doi.org/10.48550/arXiv.2605.19049) |
+
+
+## [DEP-A-20260812-ADAM Memory Attack](../DEP-A-20260812-ADAM%20Memory%20Attack/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2604.09747-whitepaper-review.md`](../DEP-A-20260812-ADAM%20Memory%20Attack/2604.09747-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying* | Xingyu Lyu; Jianfeng He; Ning Wang; Yidan Hu; Tao Li; Danjue Chen; Shixiong Li; Yimin Chen | [arXiv:2604.09747v1](https://arxiv.org/abs/2604.09747v1) - [DOI](https://doi.org/10.48550/arXiv.2604.09747) |
