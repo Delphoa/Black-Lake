@@ -2763,3 +2763,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RGB-T Semantic Segmentation with Location, Activation, and Sharpening* | Li, Gongyang; Wang, Yike; Liu, Zhi; Zhang, Xinpeng; Zeng, Dan | [arXiv:2210.14530](https://arxiv.org/abs/2210.14530) - [DOI](https://doi.org/10.1109/TCSVT.2022.3208833) |
+
+
+## [DEP-E-20260811-Parameterizing Context](../DEP-E-20260811-Parameterizing%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing* | Chen, Yongrui; Zhang, Shenyu; Qi, Guilin; Guo, Xinnan | [arXiv:2310.04801](https://arxiv.org/abs/2310.04801) - [DOI](https://doi.org/10.48550/arXiv.2310.04801) |

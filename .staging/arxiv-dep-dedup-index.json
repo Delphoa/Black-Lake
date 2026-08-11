@@ -5426,6 +5426,29 @@
         "https://doi.org/10.1109/TCSVT.2022.3208833"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-Parameterizing Context",
+        ".logs/20260811-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-LOG.md",
+        ".reports/BL-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.04801",
+      "arxiv_id": "2310.04801",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.48550/arXiv.2310.04801",
+      "normalized_title": "Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P07; draw 54111 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Parameterizing-Context-Unleashing-the-Power-of",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.04801",
+        "https://arxiv.org/html/2310.04801",
+        "https://arxiv.org/pdf/2310.04801",
+        "https://doi.org/10.48550/arXiv.2310.04801"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
