@@ -7118,3 +7118,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Latent Personal Memory: Represent personal memory as dynamic soft prompts* | Debrup Das; Avinash Amballa; Yashas Malur Saidutta; Vijay Srinivasan; Vivek Kulkarni; Srinivas Chappidi | [arXiv:2606.20911v1](https://arxiv.org/abs/2606.20911v1) - [DOI](https://doi.org/10.48550/arXiv.2606.20911) |
+
+
+## [DEP-A-20260812-EchoPrune Video](../DEP-A-20260812-EchoPrune%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2605.10050-whitepaper-review.md`](../DEP-A-20260812-EchoPrune%20Video/2605.10050-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs* | Jiameng Li; Minye Wu; Jiezhang Cao; Aleksei Tiulpin; Matthew B. Blaschko | [arXiv:2605.10050v1](https://arxiv.org/abs/2605.10050v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10050) |
+
+
+## [DEP-A-20260812-SWARR Math Reasoning](../DEP-A-20260812-SWARR%20Math%20Reasoning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2606.11634-whitepaper-review.md`](../DEP-A-20260812-SWARR%20Math%20Reasoning/2606.11634-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning* | Kai Liu; Peijie Dong; Xinchen Xie; Jianfei Gao; Qipeng Guo; Xiaowen Chu; Shaoting Zhang; Kai Chen | [arXiv:2606.11634v1](https://arxiv.org/abs/2606.11634v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11634) |
+
+
+## [DEP-A-20260812-Soft NBCE Fusion](../DEP-A-20260812-Soft%20NBCE%20Fusion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2606.01101-whitepaper-review.md`](../DEP-A-20260812-Soft%20NBCE%20Fusion/2606.01101-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Soft-NBCE: Entropy-Weighted Chunk Fusion for Long-Context* | Shihao Ji; Mingyu Li; Zihui Song | [arXiv:2606.01101v1](https://arxiv.org/abs/2606.01101v1) - [DOI](https://doi.org/10.48550/arXiv.2606.01101) |
+
+
+## [DEP-A-20260812-RAGU GraphRAG](../DEP-A-20260812-RAGU%20GraphRAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.11683-whitepaper-review.md`](../DEP-A-20260812-RAGU%20GraphRAG/2607.11683-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM* | Mikhail Komarov; Ivan Bondarenko; Stanislav Shtuka; Oleg Sedukhin; Roman Shuvalov; Yana Dementyeva; Matvey Solovyov; Nikolay O. Nikitin | [arXiv:2607.11683v1](https://arxiv.org/abs/2607.11683v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11683) |
+
+
+## [DEP-A-20260812-ALER TI Imputation](../DEP-A-20260812-ALER%20TI%20Imputation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-12. The owning review artifact is [`2607.07640-whitepaper-review.md`](../DEP-A-20260812-ALER%20TI%20Imputation/2607.07640-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation* | Xuan-Thong Truong; Trung-Kien Le; Tung Kieu; Thi-Thu Nguyen; Nhat-Hai Nguyen | [arXiv:2607.07640v1](https://arxiv.org/abs/2607.07640v1) - [DOI](https://doi.org/10.48550/arXiv.2607.07640) |
