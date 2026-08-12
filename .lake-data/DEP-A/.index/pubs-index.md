@@ -7247,3 +7247,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees* | Yongtao Wu; Luca Viano; Yihang Chen; Zhenyu Zhu; Kimon Antonakopoulos; Quanquan Gu; Volkan Cevher | [arXiv:2502.12678](https://arxiv.org/abs/2502.12678) - [DOI](https://doi.org/10.48550/arXiv.2502.12678) |
+
+## [DEP-A-20260812-Open Set Relation Intake](../DEP-A-20260812-Open%20Set%20Relation%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Open%20Set%20Relation%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Open Set Relation Extraction via Unknown-Aware Training* | Jun Zhao; Xin Zhao; Wenyu Zhan; Qi Zhang; Tao Gui; Zhongyu Wei; Yunwen Chen; Xiang Gao; Xuanjing Huang | [arXiv:2306.04950](https://arxiv.org/abs/2306.04950) - [DOI](https://doi.org/10.48550/arXiv.2306.04950) |
