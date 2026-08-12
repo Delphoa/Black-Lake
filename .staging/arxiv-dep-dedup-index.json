@@ -5656,6 +5656,29 @@
         "https://doi.org/10.48550/arXiv.2510.23639"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-RSMLP A light Sampled MLP",
+        ".logs/20260812-Arxiv-RSMLP-A-light-Sampled-MLP-Structure-for-LOG.md",
+        ".reports/BL-Arxiv-RSMLP-A-light-Sampled-MLP-Structure-for-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.12587",
+      "arxiv_id": "2502.12587",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2502.12587",
+      "normalized_title": "RSMLP: A light Sampled MLP Structure for Incomplete Utterance Rewrite",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P07; draw 21857 of 75964 units; duplicate exclusions 0; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "RSMLP-A-light-Sampled-MLP-Structure-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.12587",
+        "https://arxiv.org/html/2502.12587",
+        "https://arxiv.org/pdf/2502.12587",
+        "https://doi.org/10.48550/arXiv.2502.12587"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

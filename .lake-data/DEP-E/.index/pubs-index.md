@@ -2848,3 +2848,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Integrating Genomics into Multimodal EHR Foundation Models* | Amar, Jonathan; Liu, Edward; Breschi, Alessandra; Zhang, Liangliang; Kheradpour, Pouya; Li, Sylvia; Lehmann, Lisa Soleymani; Giulianelli, Alessandro; Edwards, Matt; Jia, Yugang; Nola, David; Mani, Raghav; Vats, Pankaj; Tetreault, Jesse; Chen, T. J.; McLean, Cory Y. | [arXiv:2510.23639](https://arxiv.org/abs/2510.23639) - [DOI](https://doi.org/10.48550/arXiv.2510.23639) |
+
+
+## [DEP-E-20260812-RSMLP A light Sampled MLP](../DEP-E-20260812-RSMLP%20A%20light%20Sampled%20MLP/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RSMLP: A light Sampled MLP Structure for Incomplete Utterance Rewrite* | Liu, Lunjun; Jiang, Weilai; Wang, Yaonan | [arXiv:2502.12587](https://arxiv.org/abs/2502.12587) - [DOI](https://doi.org/10.48550/arXiv.2502.12587) |
