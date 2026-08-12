@@ -7223,3 +7223,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dissimilar Nodes Improve Graph Active Learning* | Zhicheng Ren; Yifu Yuan; Yuxin Wu; Xiaxuan Gao; Yewen Wang; Yizhou Sun | [arXiv:2212.01968](https://arxiv.org/abs/2212.01968) - [DOI](https://doi.org/10.48550/arXiv.2212.01968) |
+
+## [DEP-A-20260812-Integrating Intake](../DEP-A-20260812-Integrating%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Integrating%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Integrating Genomics into Multimodal EHR Foundation Models* | Jonathan Amar; Edward Liu; Alessandra Breschi; Liangliang Zhang; Pouya Kheradpour; Sylvia Li; Lisa Soleymani Lehmann; Alessandro Giulianelli; Matt Edwards; Yugang Jia; David Nola; Raghav Mani; Pankaj Vats; Jesse Tetreault; T. J. Chen; Cory Y. McLean | [arXiv:2510.23639](https://arxiv.org/abs/2510.23639) - [DOI](https://doi.org/10.48550/arXiv.2510.23639) |
