@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **665 publication reviews across 356 DEP-E entries**.
+- Current coverage: **675 publication reviews across 357 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-10; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260813-Evaluator Systems](../DEP-E-20260813-Evaluator%20Systems/README.md)
+
+| Publication | Authors or credited organization | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Ten advances in mathematics and theoretical computer science* | OpenAI | [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Automated Weak-to-Strong Researcher* | Jiaxin Wen; Liang Qiu; Joe Benton; Jan Hendrik Kirchner; Jan Leike | [Anthropic Alignment Science](https://alignment.anthropic.com/2026/automated-w2s-researcher/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *GPT-Red: Unlocking Self-Improvement for Robustness* | OpenAI | [OpenAI](https://openai.com/index/unlocking-self-improvement-gpt-red/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Separating signal from noise in coding evaluations* | OpenAI | [OpenAI](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Scientific computing in the age of agentic AI* | OpenAI | [OpenAI](https://openai.com/index/scientific-computing-agentic-ai/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Solve harder problems with AlphaEvolve, now available on Google Cloud* | Anant Nawalgaria; Laurynas Tamulevičius | [Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Our approach to bioresilience* | Google DeepMind; Isomorphic Labs | [Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Hyperloss from coherent spatial-mode mixing in quantum-correlated networks* | Stephan Grebien; Julian Gurs; Roman Schnabel; *et al.* | [Nature Communications](https://www.nature.com/articles/s41467-026-75899-5) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Universal transcriptomic hallmarks of mammalian ageing and mortality* | Alexander Tyshkovskiy; Daria Kholdina; Maria Davitadze; *et al.* | [Nature](https://www.nature.com/articles/s41586-026-10542-3) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
+| *Amazon SageMaker AI inference now supports G7 instances* | Amazon Web Services | [AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/) | [DEP-E](../DEP-E-20260813-Evaluator%20Systems/README.md) |
 
 ## [DEP-E-20260812-Boundary Systems](../DEP-E-20260812-Boundary%20Systems/README.md)
 
