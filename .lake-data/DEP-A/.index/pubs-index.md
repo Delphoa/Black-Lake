@@ -7263,3 +7263,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RSMLP: A light Sampled MLP Structure for Incomplete Utterance Rewrite* | Lunjun Liu; Weilai Jiang; Yaonan Wang | [arXiv:2502.12587](https://arxiv.org/abs/2502.12587) - [DOI](https://doi.org/10.48550/arXiv.2502.12587) |
+
+## [DEP-A-20260812-Self Supervised Intake](../DEP-A-20260812-Self%20Supervised%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Self%20Supervised%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection* | Yinchi Zhou; Peiyu Duan; Yuexi Du; Nicha C. Dvornek | [arXiv:2409.12304](https://arxiv.org/abs/2409.12304) - [DOI](https://doi.org/10.48550/arXiv.2409.12304) |
