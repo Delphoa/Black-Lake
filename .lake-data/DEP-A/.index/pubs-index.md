@@ -7414,3 +7414,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents* | Seyed Moein Abtahi; Rasa Rahnema; Hetkumar Patel; Neel Patel; Majid Fekri; Tara Khani | [arXiv:2604.22085v1](https://arxiv.org/abs/2604.22085v1) - [DOI](https://doi.org/10.48550/arXiv.2604.22085) |
+
+
+## [DEP-A-20260813-ProxyKV Pruning](../DEP-A-20260813-ProxyKV%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2605.16360-whitepaper-review.md`](../DEP-A-20260813-ProxyKV%20Pruning/2605.16360-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ProxyKV: Cross-Model Proxy Pruning for Efficient Long-Context LLM Inference* | Junjie Li; Jiong Lou; Jie Li | [arXiv:2605.16360v1](https://arxiv.org/abs/2605.16360v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16360) |
+
+
+## [DEP-A-20260813-SALT Context Trie](../DEP-A-20260813-SALT%20Context%20Trie/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.17486-whitepaper-review.md`](../DEP-A-20260813-SALT%20Context%20Trie/2607.17486-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SALT: Salience-Aware Lexical Trie for Long-Context Compression* | Oteo Mamo; Hyunjin Yi; Joydhriti Choudhury; Shangqian Gao; Weikuan Yu | [arXiv:2607.17486v1](https://arxiv.org/abs/2607.17486v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17486) |
+
+
+## [DEP-A-20260813-C2KV Cache Reuse](../DEP-A-20260813-C2KV%20Cache%20Reuse/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.17715-whitepaper-review.md`](../DEP-A-20260813-C2KV%20Cache%20Reuse/2607.17715-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference* | Chuheng Du; Junyi Chen; Hanlin Tang; Kan Liu; Tao Lan; Lin Qu; Chaoyue Niu; Shengzhong Liu; Guihai Chen; Fan Wu | [arXiv:2607.17715v1](https://arxiv.org/abs/2607.17715v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17715) |
+
+
+## [DEP-A-20260813-KV Geometry Quant](../DEP-A-20260813-KV%20Geometry%20Quant/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.17019-whitepaper-review.md`](../DEP-A-20260813-KV%20Geometry%20Quant/2607.17019-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Regularize or Localize: When Training-Time KV-Cache Geometry Pays Under Quantization* | Libo Sun; Po-Wei Harn; Zewei Zhang; Peixiong He; Xiao Qin | [arXiv:2607.17019v1](https://arxiv.org/abs/2607.17019v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17019) |
+
+
+## [DEP-A-20260813-HyMCache CXL Serving](../DEP-A-20260813-HyMCache%20CXL%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.18141-whitepaper-review.md`](../DEP-A-20260813-HyMCache%20CXL%20Serving/2607.18141-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory* | Hakbeom Jang; Inho Song; Sam H. Noh; Jongryool Kim | [arXiv:2607.18141v1](https://arxiv.org/abs/2607.18141v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18141) |
