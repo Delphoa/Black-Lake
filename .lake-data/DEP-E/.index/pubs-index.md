@@ -2827,3 +2827,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Open Set Relation Extraction via Unknown-Aware Training* | Zhao, Jun; Zhao, Xin; Zhan, Wenyu; Zhang, Qi; Gui, Tao; Wei, Zhongyu; Chen, Yunwen; Gao, Xiang; Huang, Xuanjing | [arXiv:2306.04950](https://arxiv.org/abs/2306.04950) - [DOI](https://doi.org/10.48550/arXiv.2306.04950) |
+
+
+## [DEP-E-20260812-Unsupervised Adaptation](../DEP-E-20260812-Unsupervised%20Adaptation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift* | Liu, Xiaofeng; Xia, Menghua; Chemli, Yanis; Fakhri, Georges El; Liu, Chi; Ouyang, Jinsong | [arXiv:2603.13666](https://arxiv.org/abs/2603.13666) - [DOI](https://doi.org/10.48550/arXiv.2603.13666) |
