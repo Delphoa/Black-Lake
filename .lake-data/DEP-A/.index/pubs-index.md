@@ -7271,3 +7271,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection* | Yinchi Zhou; Peiyu Duan; Yuexi Du; Nicha C. Dvornek | [arXiv:2409.12304](https://arxiv.org/abs/2409.12304) - [DOI](https://doi.org/10.48550/arXiv.2409.12304) |
+
+## [DEP-A-20260812-Unsupervised Intake](../DEP-A-20260812-Unsupervised%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Unsupervised%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift* | Xiaofeng Liu; Menghua Xia; Yanis Chemli; Georges El Fakhri; Chi Liu; Jinsong Ouyang | [arXiv:2603.13666](https://arxiv.org/abs/2603.13666) - [DOI](https://doi.org/10.48550/arXiv.2603.13666) |
