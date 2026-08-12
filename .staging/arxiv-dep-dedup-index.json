@@ -5679,6 +5679,29 @@
         "https://doi.org/10.48550/arXiv.2502.12587"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image",
+        ".logs/20260812-Arxiv-CMamba-Learned-Image-Compression-with-State-LOG.md",
+        ".reports/BL-Arxiv-CMamba-Learned-Image-Compression-with-State-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.04988",
+      "arxiv_id": "2502.04988",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2502.04988",
+      "normalized_title": "CMamba: Learned Image Compression with State Space Models",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P08; draw 10701 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "CMamba-Learned-Image-Compression-with-State",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.04988",
+        "https://arxiv.org/html/2502.04988",
+        "https://arxiv.org/pdf/2502.04988",
+        "https://doi.org/10.48550/arXiv.2502.04988"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

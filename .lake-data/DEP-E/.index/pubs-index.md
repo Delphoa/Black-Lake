@@ -2855,3 +2855,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RSMLP: A light Sampled MLP Structure for Incomplete Utterance Rewrite* | Liu, Lunjun; Jiang, Weilai; Wang, Yaonan | [arXiv:2502.12587](https://arxiv.org/abs/2502.12587) - [DOI](https://doi.org/10.48550/arXiv.2502.12587) |
+
+
+## [DEP-E-20260812-CMamba Learned Image](../DEP-E-20260812-CMamba%20Learned%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CMamba: Learned Image Compression with State Space Models* | Wu, Zhuojie; Du, Heming; Wang, Shuyun; Lu, Ming; Sun, Haiyang; Guo, Yandong; Yu, Xin | [arXiv:2502.04988](https://arxiv.org/abs/2502.04988) - [DOI](https://doi.org/10.48550/arXiv.2502.04988) |
