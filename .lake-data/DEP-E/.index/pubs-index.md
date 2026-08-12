@@ -2841,3 +2841,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization* | Wu, Mengyuan; Li, Ke; Kwong, Sam; Zhou, Yu; Zhang, Qingfu | [arXiv:1608.08607](https://arxiv.org/abs/1608.08607) - [DOI](https://doi.org/10.48550/arXiv.1608.08607) |
+
+
+## [DEP-E-20260812-Integrating Genomics into](../DEP-E-20260812-Integrating%20Genomics%20into/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Integrating Genomics into Multimodal EHR Foundation Models* | Amar, Jonathan; Liu, Edward; Breschi, Alessandra; Zhang, Liangliang; Kheradpour, Pouya; Li, Sylvia; Lehmann, Lisa Soleymani; Giulianelli, Alessandro; Edwards, Matt; Jia, Yugang; Nola, David; Mani, Raghav; Vats, Pankaj; Tetreault, Jesse; Chen, T. J.; McLean, Cory Y. | [arXiv:2510.23639](https://arxiv.org/abs/2510.23639) - [DOI](https://doi.org/10.48550/arXiv.2510.23639) |
