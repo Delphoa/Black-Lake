@@ -5541,6 +5541,29 @@
         "https://doi.org/10.48550/arXiv.2601.15595"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Dissimilar Nodes Improve",
+        ".logs/20260812-Arxiv-Dissimilar-Nodes-Improve-Graph-Active-Learning-LOG.md",
+        ".reports/BL-Arxiv-Dissimilar-Nodes-Improve-Graph-Active-Learning-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2212.01968",
+      "arxiv_id": "2212.01968",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2212.01968",
+      "normalized_title": "Dissimilar Nodes Improve Graph Active Learning",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P02; draw 22835 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Dissimilar-Nodes-Improve-Graph-Active-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2212.01968",
+        "https://arxiv.org/html/2212.01968",
+        "https://arxiv.org/pdf/2212.01968",
+        "https://doi.org/10.48550/arXiv.2212.01968"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

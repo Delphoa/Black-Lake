@@ -2813,3 +2813,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning* | Zhou, Xinjie; Yang, Zhihui; Cheng, Lechao; Wu, Sai; Chen, Gang | [arXiv:2601.15595](https://arxiv.org/abs/2601.15595) - [DOI](https://doi.org/10.48550/arXiv.2601.15595) |
+
+
+## [DEP-E-20260812-Dissimilar Nodes Improve](../DEP-E-20260812-Dissimilar%20Nodes%20Improve/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dissimilar Nodes Improve Graph Active Learning* | Ren, Zhicheng; Yuan, Yifu; Wu, Yuxin; Gao, Xiaxuan; Wang, Yewen; Sun, Yizhou | [arXiv:2212.01968](https://arxiv.org/abs/2212.01968) - [DOI](https://doi.org/10.48550/arXiv.2212.01968) |
