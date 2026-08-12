@@ -7369,3 +7369,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG* | Inderjeet Singh; Andrés Murillo; Motoyoshi Sekiya; Yuki Unno; Junichi Suga | [arXiv:2606.26793v1](https://arxiv.org/abs/2606.26793v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26793) |
+
+
+## [DEP-A-20260813-Bottleneck Retrieval](../DEP-A-20260813-Bottleneck%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2604.11095-whitepaper-review.md`](../DEP-A-20260813-Bottleneck%20Retrieval/2604.11095-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bottleneck Tokens for Unified Multimodal Retrieval* | Siyu Sun; Jing Ren; Zhaohe Liao; Dongxiao Mao; Xiangyuan Ren; Yiyi Zhang; Haohua Zhao; Weixiong Lin; Jiang Shaohua; Liqing Zhang; Yuchao Zheng | [arXiv:2604.11095v1](https://arxiv.org/abs/2604.11095v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11095) |
+
+
+## [DEP-A-20260813-DySCo Forecasting](../DEP-A-20260813-DySCo%20Forecasting/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2604.01261-whitepaper-review.md`](../DEP-A-20260813-DySCo%20Forecasting/2604.01261-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting* | Xiang Ao; Yinyu Tan; Mengru Chen | [arXiv:2604.01261v1](https://arxiv.org/abs/2604.01261v1) - [DOI](https://doi.org/10.48550/arXiv.2604.01261) |
+
+
+## [DEP-A-20260813-AdaMem Personal Agents](../DEP-A-20260813-AdaMem%20Personal%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.21144-whitepaper-review.md`](../DEP-A-20260813-AdaMem%20Personal%20Agents/2606.21144-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaMem: Learning What to Remember for Personalized Long-Horizon LLM Agents* | Xingyu Chen; Rui Wang; Zhaopeng Tu; Liefeng Bo | [arXiv:2606.21144v1](https://arxiv.org/abs/2606.21144v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21144) |
+
+
+## [DEP-A-20260813-Risk Sensitive Memory](../DEP-A-20260813-Risk%20Sensitive%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2604.27283-whitepaper-review.md`](../DEP-A-20260813-Risk%20Sensitive%20Memory/2604.27283-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning When to Remember: Risk-Sensitive Contextual Bandits for Abstention-Aware Memory Retrieval in LLM-Based Coding Agents* | Mehmet Iscan | [arXiv:2604.27283v1](https://arxiv.org/abs/2604.27283v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27283) |
+
+
+## [DEP-A-20260813-Memanto Typed Memory](../DEP-A-20260813-Memanto%20Typed%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2604.22085-whitepaper-review.md`](../DEP-A-20260813-Memanto%20Typed%20Memory/2604.22085-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents* | Seyed Moein Abtahi; Rasa Rahnema; Hetkumar Patel; Neel Patel; Majid Fekri; Tara Khani | [arXiv:2604.22085v1](https://arxiv.org/abs/2604.22085v1) - [DOI](https://doi.org/10.48550/arXiv.2604.22085) |
