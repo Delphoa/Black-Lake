@@ -7199,3 +7199,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference* | Tong Jin; Yunpeng Liu; Shuyu Hu; Qinghua Zhang; Ruize Han; Song Wang; Feng Lu | [arXiv:2607.15563v1](https://arxiv.org/abs/2607.15563v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15563) |
+
+## [DEP-A-20260812-CMamba Learned Intake](../DEP-A-20260812-CMamba%20Learned%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-CMamba%20Learned%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CMamba: Learned Image Compression with State Space Models* | Zhuojie Wu; Heming Du; Shuyun Wang; Ming Lu; Haiyang Sun; Yandong Guo; Xin Yu | [arXiv:2502.04988](https://arxiv.org/abs/2502.04988) - [DOI](https://doi.org/10.48550/arXiv.2502.04988) |
