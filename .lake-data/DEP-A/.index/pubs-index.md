@@ -7324,3 +7324,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Regime-Aware Peer Specialization for Robust RAG under Heterogeneous Knowledge Conflicts* | Bo Wang; Heyan Huang; Yaolin Li; Yanghao Zhou; Jiahao Teng; Ziyi Yang; Ge Shi; Chong Feng | [arXiv:2606.30518v1](https://arxiv.org/abs/2606.30518v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30518) |
+
+
+## [DEP-A-20260813-CORTEX RAG Detection](../DEP-A-20260813-CORTEX%20RAG%20Detection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.31033-whitepaper-review.md`](../DEP-A-20260813-CORTEX%20RAG%20Detection/2606.31033-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations* | Kazuaki Furumai; Shuichiro Haruta; Kazunori Matsumoto; Daisuke Kamisaka | [arXiv:2606.31033v1](https://arxiv.org/abs/2606.31033v1) - [DOI](https://doi.org/10.48550/arXiv.2606.31033) |
+
+
+## [DEP-A-20260813-RAG Context Decompose](../DEP-A-20260813-RAG%20Context%20Decompose/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.29645-whitepaper-review.md`](../DEP-A-20260813-RAG%20Context%20Decompose/2606.29645-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Metadata, Structure, or Strategy? A Decomposition of RAG Context Enrichment* | Saber Zerhoudi; Michael Granitzer; Jelena Mitrovic | [arXiv:2606.29645v1](https://arxiv.org/abs/2606.29645v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29645) |
+
+
+## [DEP-A-20260813-LLM Token Codec](../DEP-A-20260813-LLM%20Token%20Codec/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2603.25340-whitepaper-review.md`](../DEP-A-20260813-LLM%20Token%20Codec/2603.25340-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large Language Model as Token Compressor and Decompressor* | Wenbing Li; Yiran Wang; Zikai Song; Jielei Zhang; Tianhao Zhao; Junkai Lin; Wei Yang | [arXiv:2603.25340v2](https://arxiv.org/abs/2603.25340v2) - [DOI](https://doi.org/10.48550/arXiv.2603.25340) |
+
+
+## [DEP-A-20260813-Agent Bits Measure](../DEP-A-20260813-Agent%20Bits%20Measure/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.25960-whitepaper-review.md`](../DEP-A-20260813-Agent%20Bits%20Measure/2606.25960-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic System as Compressor: Quantifying System Intelligence in Bits* | Zihan Qin; Hongrui Zhang | [arXiv:2606.25960v1](https://arxiv.org/abs/2606.25960v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25960) |
+
+
+## [DEP-A-20260813-MIRROR RAG Red Team](../DEP-A-20260813-MIRROR%20RAG%20Red%20Team/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.26793-whitepaper-review.md`](../DEP-A-20260813-MIRROR%20RAG%20Red%20Team/2606.26793-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG* | Inderjeet Singh; Andrés Murillo; Motoyoshi Sekiya; Yuki Unno; Junichi Suga | [arXiv:2606.26793v1](https://arxiv.org/abs/2606.26793v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26793) |
