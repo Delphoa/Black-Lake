@@ -7207,3 +7207,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CMamba: Learned Image Compression with State Space Models* | Zhuojie Wu; Heming Du; Shuyun Wang; Ming Lu; Haiyang Sun; Yandong Guo; Xin Yu | [arXiv:2502.04988](https://arxiv.org/abs/2502.04988) - [DOI](https://doi.org/10.48550/arXiv.2502.04988) |
+
+## [DEP-A-20260812-Data Free Intake](../DEP-A-20260812-Data%20Free%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Data%20Free%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning* | Xinjie Zhou; Zhihui Yang; Lechao Cheng; Sai Wu; Gang Chen | [arXiv:2601.15595](https://arxiv.org/abs/2601.15595) - [DOI](https://doi.org/10.48550/arXiv.2601.15595) |
