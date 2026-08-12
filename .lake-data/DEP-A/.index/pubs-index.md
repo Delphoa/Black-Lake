@@ -7239,3 +7239,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization* | Mengyuan Wu; Ke Li; Sam Kwong; Yu Zhou; Qingfu Zhang | [arXiv:1608.08607](https://arxiv.org/abs/1608.08607) - [DOI](https://doi.org/10.48550/arXiv.1608.08607) |
+
+## [DEP-A-20260812-Multi Step Intake](../DEP-A-20260812-Multi%20Step%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-12. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260812-Multi%20Step%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees* | Yongtao Wu; Luca Viano; Yihang Chen; Zhenyu Zhu; Kimon Antonakopoulos; Quanquan Gu; Volkan Cevher | [arXiv:2502.12678](https://arxiv.org/abs/2502.12678) - [DOI](https://doi.org/10.48550/arXiv.2502.12678) |
