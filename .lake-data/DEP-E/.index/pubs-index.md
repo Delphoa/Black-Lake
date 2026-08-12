@@ -2869,3 +2869,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees* | Wu, Yongtao; Viano, Luca; Chen, Yihang; Zhu, Zhenyu; Antonakopoulos, Kimon; Gu, Quanquan; Cevher, Volkan | [arXiv:2502.12678](https://arxiv.org/abs/2502.12678) - [DOI](https://doi.org/10.48550/arXiv.2502.12678) |
+
+
+## [DEP-E-20260812-Self-Supervised](../DEP-E-20260812-Self-Supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection* | Zhou, Yinchi; Duan, Peiyu; Du, Yuexi; Dvornek, Nicha C. | [arXiv:2409.12304](https://arxiv.org/abs/2409.12304) - [DOI](https://doi.org/10.48550/arXiv.2409.12304) |

@@ -5725,6 +5725,29 @@
         "https://doi.org/10.48550/arXiv.2502.12678"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Self-Supervised",
+        ".logs/20260812-Arxiv-Self-Supervised-Pre-training-Tasks-for-an-LOG.md",
+        ".reports/BL-Arxiv-Self-Supervised-Pre-training-Tasks-for-an-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.12304",
+      "arxiv_id": "2409.12304",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2409.12304",
+      "normalized_title": "Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P10; draw 31543 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Self-Supervised-Pre-training-Tasks-for-an",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.12304",
+        "https://arxiv.org/html/2409.12304",
+        "https://arxiv.org/pdf/2409.12304",
+        "https://doi.org/10.48550/arXiv.2409.12304"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
