@@ -7279,3 +7279,48 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift* | Xiaofeng Liu; Menghua Xia; Yanis Chemli; Georges El Fakhri; Chi Liu; Jinsong Ouyang | [arXiv:2603.13666](https://arxiv.org/abs/2603.13666) - [DOI](https://doi.org/10.48550/arXiv.2603.13666) |
+
+
+## [DEP-A-20260813-Extremum Stack Memory](../DEP-A-20260813-Extremum%20Stack%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.05245-whitepaper-review.md`](../DEP-A-20260813-Extremum%20Stack%20Memory/2606.05245-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Extremum Stack as Optimal Memory for Rate-Independent Sequence Models: Information-Theoretic Foundations and Online Complexity* | Piotr Frydrych | [arXiv:2606.05245v2](https://arxiv.org/abs/2606.05245v2) - [DOI](https://doi.org/10.48550/arXiv.2606.05245) |
+
+
+## [DEP-A-20260813-ChemBot VLA Memory](../DEP-A-20260813-ChemBot%20VLA%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2604.15671-whitepaper-review.md`](../DEP-A-20260813-ChemBot%20VLA%20Memory/2604.15671-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long-Term Memory for VLA-based Agents in Open-World Task Execution* | Xu Huang; Weixin Mao; Yinhao Li; Hua Chen; Jiabao Zhao | [arXiv:2604.15671v1](https://arxiv.org/abs/2604.15671v1) - [DOI](https://doi.org/10.48550/arXiv.2604.15671) |
+
+
+## [DEP-A-20260813-S EMBER Benchmark](../DEP-A-20260813-S%20EMBER%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.02689-whitepaper-review.md`](../DEP-A-20260813-S%20EMBER%20Benchmark/2607.02689-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval* | Xiaodong Wang; Xuanyi Zhao; Pedro Rodriguez; Devendra Singh Sachan; Barlas Oguz; Seungwhan Moon; Shang-Wen Li; Gargi Ghosh; Xin Dong; Wen-Tau Yih | [arXiv:2607.02689v1](https://arxiv.org/abs/2607.02689v1) - [DOI](https://doi.org/10.48550/arXiv.2607.02689) |
+
+
+## [DEP-A-20260813-Embedding Inference](../DEP-A-20260813-Embedding%20Inference/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2607.01276-whitepaper-review.md`](../DEP-A-20260813-Embedding%20Inference/2607.01276-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Embedding Inference Attack* | Cedric Fitiavana Raelijohn; Sébastien Gambs; Jean-Francois Rajotte | [arXiv:2607.01276v1](https://arxiv.org/abs/2607.01276v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01276) |
+
+
+## [DEP-A-20260813-RAPS DA Conflict RAG](../DEP-A-20260813-RAPS%20DA%20Conflict%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-13. The owning review artifact is [`2606.30518-whitepaper-review.md`](../DEP-A-20260813-RAPS%20DA%20Conflict%20RAG/2606.30518-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Regime-Aware Peer Specialization for Robust RAG under Heterogeneous Knowledge Conflicts* | Bo Wang; Heyan Huang; Yaolin Li; Yanghao Zhou; Jiahao Teng; Ziyi Yang; Ge Shi; Chong Feng | [arXiv:2606.30518v1](https://arxiv.org/abs/2606.30518v1) - [DOI](https://doi.org/10.48550/arXiv.2606.30518) |
