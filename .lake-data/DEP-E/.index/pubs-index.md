@@ -2834,3 +2834,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift* | Liu, Xiaofeng; Xia, Menghua; Chemli, Yanis; Fakhri, Georges El; Liu, Chi; Ouyang, Jinsong | [arXiv:2603.13666](https://arxiv.org/abs/2603.13666) - [DOI](https://doi.org/10.48550/arXiv.2603.13666) |
+
+
+## [DEP-E-20260812-Matching-Based Selection](../DEP-E-20260812-Matching-Based%20Selection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization* | Wu, Mengyuan; Li, Ke; Kwong, Sam; Zhou, Yu; Zhang, Qingfu | [arXiv:1608.08607](https://arxiv.org/abs/1608.08607) - [DOI](https://doi.org/10.48550/arXiv.1608.08607) |

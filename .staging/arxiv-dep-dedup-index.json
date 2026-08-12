@@ -5610,6 +5610,29 @@
         "https://doi.org/10.48550/arXiv.2603.13666"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection",
+        ".logs/20260812-Arxiv-Matching-Based-Selection-with-Incomplete-Lists-LOG.md",
+        ".reports/BL-Arxiv-Matching-Based-Selection-with-Incomplete-Lists-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1608.08607",
+      "arxiv_id": "1608.08607",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.1608.08607",
+      "normalized_title": "Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P05; draw 3688 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Matching-Based-Selection-with-Incomplete-Lists",
+      "source_urls": [
+        "https://arxiv.org/abs/1608.08607",
+        "https://arxiv.org/html/1608.08607",
+        "https://arxiv.org/pdf/1608.08607",
+        "https://doi.org/10.48550/arXiv.1608.08607"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
