@@ -5702,6 +5702,29 @@
         "https://doi.org/10.48550/arXiv.2502.04988"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as",
+        ".logs/20260812-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-LOG.md",
+        ".reports/BL-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.12678",
+      "arxiv_id": "2502.12678",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2502.12678",
+      "normalized_title": "Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P09; draw 44907 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-Step-Alignment-as-Markov-Games-An",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.12678",
+        "https://arxiv.org/html/2502.12678",
+        "https://arxiv.org/pdf/2502.12678",
+        "https://doi.org/10.48550/arXiv.2502.12678"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

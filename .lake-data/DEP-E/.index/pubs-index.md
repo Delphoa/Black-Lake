@@ -2862,3 +2862,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CMamba: Learned Image Compression with State Space Models* | Wu, Zhuojie; Du, Heming; Wang, Shuyun; Lu, Ming; Sun, Haiyang; Guo, Yandong; Yu, Xin | [arXiv:2502.04988](https://arxiv.org/abs/2502.04988) - [DOI](https://doi.org/10.48550/arXiv.2502.04988) |
+
+
+## [DEP-E-20260812-Multi-Step Alignment as](../DEP-E-20260812-Multi-Step%20Alignment%20as/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees* | Wu, Yongtao; Viano, Luca; Chen, Yihang; Zhu, Zhenyu; Antonakopoulos, Kimon; Gu, Quanquan; Cevher, Volkan | [arXiv:2502.12678](https://arxiv.org/abs/2502.12678) - [DOI](https://doi.org/10.48550/arXiv.2502.12678) |
