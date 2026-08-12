@@ -5518,6 +5518,29 @@
         "https://doi.org/10.48550/arXiv.1511.07545"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Data-Free",
+        ".logs/20260812-Arxiv-Data-Free-Privacy-Preserving-for-LLMs-via-LOG.md",
+        ".reports/BL-Arxiv-Data-Free-Privacy-Preserving-for-LLMs-via-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.15595",
+      "arxiv_id": "2601.15595",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2601.15595",
+      "normalized_title": "Data-Free Privacy-Preserving for LLMs via Model Inversion and Selective Unlearning",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P01; draw 28123 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Data-Free-Privacy-Preserving-for-LLMs-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.15595",
+        "https://arxiv.org/html/2601.15595",
+        "https://arxiv.org/pdf/2601.15595",
+        "https://doi.org/10.48550/arXiv.2601.15595"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -6334,5 +6357,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-11"
+  "updated_date": "2026-08-12"
 }
