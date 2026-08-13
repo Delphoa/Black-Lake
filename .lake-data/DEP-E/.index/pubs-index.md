@@ -2940,3 +2940,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An End-to-End Network for Upright Adjustment of Panoramic Images* | Chen, Heyu; Li, Jianfeng; Li, Shigang | [arXiv:2304.05556](https://arxiv.org/abs/2304.05556) - [DOI](https://doi.org/10.48550/arXiv.2304.05556) |
+
+
+## [DEP-E-20260813-Adapt as You Say Online](../DEP-E-20260813-Adapt%20as%20You%20Say%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adapt as You Say: Online Interactive Bimanual Skill Adaptation via Human Language Feedback* | Li, Zhuo; Li, Dianxi; Teng, Tao; Rouxel, Quentin; Dong, Zhipeng; Hong, Dennis; Caldwell, Darwin; Chen, Fei | [arXiv:2603.26466](https://arxiv.org/abs/2603.26466) - [DOI](https://doi.org/10.48550/arXiv.2603.26466) |

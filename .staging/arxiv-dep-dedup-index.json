@@ -5909,6 +5909,29 @@
         "https://doi.org/10.48550/arXiv.2304.05556"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online",
+        ".logs/20260813-Arxiv-Adapt-as-You-Say-Online-Interactive-Bimanual-LOG.md",
+        ".reports/BL-Arxiv-Adapt-as-You-Say-Online-Interactive-Bimanual-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.26466",
+      "arxiv_id": "2603.26466",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2603.26466",
+      "normalized_title": "Adapt as You Say: Online Interactive Bimanual Skill Adaptation via Human Language Feedback",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P08; draw 22148 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adapt-as-You-Say-Online-Interactive-Bimanual",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.26466",
+        "https://arxiv.org/html/2603.26466",
+        "https://arxiv.org/pdf/2603.26466",
+        "https://doi.org/10.48550/arXiv.2603.26466"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
