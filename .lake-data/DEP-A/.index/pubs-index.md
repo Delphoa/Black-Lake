@@ -7718,3 +7718,48 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent* | Zhentao Xu; Shangjin Zhang; Emir Poyraz; Yvonne Li; Ye Jin; Xie Lu; Xiaoyang Gu; Karthik Ramgopal; Praveen Kumar Bodigutla; Xiaofeng Wang | [arXiv:2604.26197v3](https://arxiv.org/abs/2604.26197v3) - [DOI](https://doi.org/10.48550/arXiv.2604.26197) |
+
+
+## [DEP-A-20260814-Mem Pi Adaptive](../DEP-A-20260814-Mem%20Pi%20Adaptive/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2605.21463-whitepaper-review.md`](../DEP-A-20260814-Mem%20Pi%20Adaptive/2605.21463-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mem-$\pi$: Adaptive Memory through Learning When and What to Generate* | Xiaoqiang Wang; Chao Wang; Hadi Nekoei; Christopher Pal; Alexandre Lacoste; Spandana Gella; Bang Liu; Perouz Taslakian | [arXiv:2605.21463v1](https://arxiv.org/abs/2605.21463v1) - [DOI](https://doi.org/10.48550/arXiv.2605.21463) |
+
+
+## [DEP-A-20260814-HyGRAG Framework](../DEP-A-20260814-HyGRAG%20Framework/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2606.18075-whitepaper-review.md`](../DEP-A-20260814-HyGRAG%20Framework/2606.18075-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation* | Haoyang Zhong; Yifei Sun; Antong Zhang; Chunping Wang; Lei Chen; Yang Yang | [arXiv:2606.18075v1](https://arxiv.org/abs/2606.18075v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18075) |
+
+
+## [DEP-A-20260814-TurboVec Private RAG](../DEP-A-20260814-TurboVec%20Private%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16973-whitepaper-review.md`](../DEP-A-20260814-TurboVec%20Private%20RAG/2607.16973-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization* | Navnit Shukla; Kamal Pandey; Omsankar Tiwari | [arXiv:2607.16973v1](https://arxiv.org/abs/2607.16973v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16973) |
+
+
+## [DEP-A-20260814-D NOVA In Storage](../DEP-A-20260814-D%20NOVA%20In%20Storage/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.17538-whitepaper-review.md`](../DEP-A-20260814-D%20NOVA%20In%20Storage/2607.17538-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *D-NOVA: In-Storage Retrieval Accelerator via Dual-Bound 3D NAND-Optimized Similarity Search with Vector Adaptation* | Chang Eun Song; Sumukh Pinge; Tianqi Zhang; Sung Eun Kim; Tajana S. Rosing; Mingu Kang | [arXiv:2607.17538v1](https://arxiv.org/abs/2607.17538v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17538) |
+
+
+## [DEP-A-20260814-RAG Chunk Coverage](../DEP-A-20260814-RAG%20Chunk%20Coverage/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.18155-whitepaper-review.md`](../DEP-A-20260814-RAG%20Chunk%20Coverage/2607.18155-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Testing Retrieval-Augmented Generation Systems with Chunk Coverage* | Jinhan Kim; Samuele Pasini; Paolo Tonella | [arXiv:2607.18155v1](https://arxiv.org/abs/2607.18155v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18155) |
