@@ -2912,3 +2912,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Digital and Physical Face Attacks: Reviewing and One Step Further* | Kong, Chenqi; Wang, Shiqi; Li, Haoliang | [arXiv:2209.14692](https://arxiv.org/abs/2209.14692) - [DOI](https://doi.org/10.48550/arXiv.2209.14692) |
+
+
+## [DEP-E-20260813-A Novel K-Repetition](../DEP-E-20260813-A%20Novel%20K-Repetition/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel K-Repetition Design for SCMA* | Lai, Ke; Liu, Zilong; Lei, Jing; Wen, Lei; Chen, Gaojie; Xiao, Pei | [arXiv:2205.08149](https://arxiv.org/abs/2205.08149) - [DOI](https://doi.org/10.48550/arXiv.2205.08149) |
