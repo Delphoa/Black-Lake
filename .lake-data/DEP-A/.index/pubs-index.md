@@ -7673,3 +7673,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BFLA: Block-Filtered Long-Context Attention Mechanism* | Chong Wu; Zhenan Feng; Renjie Xu; Houwang Zhang; Jiawang Cao; Maolin Che; Wenbo Zhu; Hong Yan | [arXiv:2605.12193v1](https://arxiv.org/abs/2605.12193v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12193) |
+
+
+## [DEP-A-20260814-Variable Width Models](../DEP-A-20260814-Variable%20Width%20Models/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2606.18246-whitepaper-review.md`](../DEP-A-20260814-Variable%20Width%20Models/2606.18246-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Variable-Width Transformers* | Zhaofeng Wu; Oliver Sieberling; Shawn Tan; Rameswar Panda; Yury Polyanskiy; Yoon Kim | [arXiv:2606.18246v1](https://arxiv.org/abs/2606.18246v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18246) |
+
+
+## [DEP-A-20260814-Budget Memory Ops](../DEP-A-20260814-Budget%20Memory%20Ops/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.17545-whitepaper-review.md`](../DEP-A-20260814-Budget%20Memory%20Ops/2607.17545-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory* | Qingcan Kang; Mingyang Liu; Shixiong Kai; Kaichao Liang; Zhentao Tang; Yuqi Cui; Tao Zhong; Mingxuan Yuan | [arXiv:2607.17545v1](https://arxiv.org/abs/2607.17545v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17545) |
+
+
+## [DEP-A-20260814-RECON Agent Memory](../DEP-A-20260814-RECON%20Agent%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16716-whitepaper-review.md`](../DEP-A-20260814-RECON%20Agent%20Memory/2607.16716-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RECON: Benchmarking Agent Memory for Compositional Reasoning over Long Contexts* | Mihir Shriniwas Arya | [arXiv:2607.16716v1](https://arxiv.org/abs/2607.16716v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16716) |
+
+
+## [DEP-A-20260814-LightMem SLM Memory](../DEP-A-20260814-LightMem%20SLM%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2604.07798-whitepaper-review.md`](../DEP-A-20260814-LightMem%20SLM%20Memory/2604.07798-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lightweight LLM Agent Memory with Small Language Models* | Jiaquan Zhang; Chaoning Zhang; Shuxu Chen; Zhenzhen Huang; Pengcheng Zheng; Zhicheng Wang; Ping Guo; Fan Mo; Sung-Ho Bae; Jie Zou; Jiwei Wei; Yang Yang | [arXiv:2604.07798v3](https://arxiv.org/abs/2604.07798v3) - [DOI](https://doi.org/10.48550/arXiv.2604.07798) |
+
+
+## [DEP-A-20260814-LinkedIn Semantic Mem](../DEP-A-20260814-LinkedIn%20Semantic%20Mem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2604.26197-whitepaper-review.md`](../DEP-A-20260814-LinkedIn%20Semantic%20Mem/2604.26197-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent* | Zhentao Xu; Shangjin Zhang; Emir Poyraz; Yvonne Li; Ye Jin; Xie Lu; Xiaoyang Gu; Karthik Ramgopal; Praveen Kumar Bodigutla; Xiaofeng Wang | [arXiv:2604.26197v3](https://arxiv.org/abs/2604.26197v3) - [DOI](https://doi.org/10.48550/arXiv.2604.26197) |
