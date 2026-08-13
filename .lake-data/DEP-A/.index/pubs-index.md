@@ -7872,3 +7872,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Digital and Physical Face Attacks: Reviewing and One Step Further* | Kong, Chenqi; Wang, Shiqi; Li, Haoliang | [arXiv:2209.14692](https://arxiv.org/abs/2209.14692) - [DOI](https://doi.org/10.48550/arXiv.2209.14692) |
+
+## [DEP-A-20260814-How Far Are We to Intake](../DEP-A-20260814-How%20Far%20Are%20We%20to%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-How%20Far%20Are%20We%20to%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites* | Chen, Zhe; Wang, Weiyun; Tian, Hao; Ye, Shenglong; Gao, Zhangwei; Cui, Erfei; Tong, Wenwen; Hu, Kongzhi; Luo, Jiapeng; Ma, Zheng; Ma, Ji; Wang, Jiaqi; Dong, Xiaoyi; Yan, Hang; Guo, Hewei; He, Conghui; Shi, Botian; Jin, Zhenjiang; Xu, Chao; Wang, Bin; Wei, Xingjian; Li, Wei; Zhang, Wenjian; Zhang, Bo; Cai, Pinlong; Wen, Licheng; Yan, Xiangchao; Dou, Min; Lu, Lewei; Zhu, Xizhou; Lu, Tong; Lin, Dahua; Qiao, Yu; Dai, Jifeng; Wang, Wenhai | [arXiv:2404.16821](https://arxiv.org/abs/2404.16821) - [DOI](https://doi.org/10.48550/arXiv.2404.16821) |
