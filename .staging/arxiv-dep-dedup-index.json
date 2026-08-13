@@ -5771,6 +5771,29 @@
         "https://doi.org/10.48550/arXiv.2309.11009"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-A Unified",
+        ".logs/20260813-Arxiv-A-Unified-Contrastive-Generative-Framework-for-LOG.md",
+        ".reports/BL-Arxiv-A-Unified-Contrastive-Generative-Framework-for-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.09451",
+      "arxiv_id": "2508.09451",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2508.09451",
+      "normalized_title": "A Unified Contrastive-Generative Framework for Time Series Classification",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P02; draw 62873 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Unified-Contrastive-Generative-Framework-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.09451",
+        "https://arxiv.org/html/2508.09451",
+        "https://arxiv.org/pdf/2508.09451",
+        "https://doi.org/10.48550/arXiv.2508.09451"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

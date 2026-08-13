@@ -2898,3 +2898,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Controllable Dynamic Appearance for Neural 3D Portraits* | Athar, ShahRukh; Shu, Zhixin; Xu, Zexiang; Luan, Fujun; Bi, Sai; Sunkavalli, Kalyan; Samaras, Dimitris | [arXiv:2309.11009](https://arxiv.org/abs/2309.11009) - [DOI](https://doi.org/10.48550/arXiv.2309.11009) |
+
+
+## [DEP-E-20260813-A Unified](../DEP-E-20260813-A%20Unified/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Unified Contrastive-Generative Framework for Time Series Classification* | Liu, Ziyu; Alavi, Azadeh; Li, Minyi; Zhang, Xiang | [arXiv:2508.09451](https://arxiv.org/abs/2508.09451) - [DOI](https://doi.org/10.48550/arXiv.2508.09451) |
