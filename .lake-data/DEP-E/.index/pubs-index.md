@@ -2905,3 +2905,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Unified Contrastive-Generative Framework for Time Series Classification* | Liu, Ziyu; Alavi, Azadeh; Li, Minyi; Zhang, Xiang | [arXiv:2508.09451](https://arxiv.org/abs/2508.09451) - [DOI](https://doi.org/10.48550/arXiv.2508.09451) |
+
+
+## [DEP-E-20260813-Digital and Physical Face](../DEP-E-20260813-Digital%20and%20Physical%20Face/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Digital and Physical Face Attacks: Reviewing and One Step Further* | Kong, Chenqi; Wang, Shiqi; Li, Haoliang | [arXiv:2209.14692](https://arxiv.org/abs/2209.14692) - [DOI](https://doi.org/10.48550/arXiv.2209.14692) |
