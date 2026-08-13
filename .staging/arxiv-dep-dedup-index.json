@@ -5863,6 +5863,29 @@
         "https://doi.org/10.48550/arXiv.2012.01480"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Ultra3D Efficient and",
+        ".logs/20260813-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-LOG.md",
+        ".reports/BL-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.17745",
+      "arxiv_id": "2507.17745",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2507.17745",
+      "normalized_title": "Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P06; draw 42740 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Ultra3D-Efficient-and-High-Fidelity-3D",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.17745",
+        "https://arxiv.org/html/2507.17745",
+        "https://arxiv.org/pdf/2507.17745",
+        "https://doi.org/10.48550/arXiv.2507.17745"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
