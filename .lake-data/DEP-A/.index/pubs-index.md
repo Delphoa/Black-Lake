@@ -7824,3 +7824,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Unified Contrastive-Generative Framework for Time Series Classification* | Liu, Ziyu; Alavi, Azadeh; Li, Minyi; Zhang, Xiang | [arXiv:2508.09451](https://arxiv.org/abs/2508.09451) - [DOI](https://doi.org/10.48550/arXiv.2508.09451) |
+
+## [DEP-A-20260814-Adapt as You Say Intake](../DEP-A-20260814-Adapt%20as%20You%20Say%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-Adapt%20as%20You%20Say%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adapt as You Say: Online Interactive Bimanual Skill Adaptation via Human Language Feedback* | Li, Zhuo; Li, Dianxi; Teng, Tao; Rouxel, Quentin; Dong, Zhipeng; Hong, Dennis; Caldwell, Darwin; Chen, Fei | [arXiv:2603.26466](https://arxiv.org/abs/2603.26466) - [DOI](https://doi.org/10.48550/arXiv.2603.26466) |
