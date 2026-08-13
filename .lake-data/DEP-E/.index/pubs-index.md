@@ -2919,3 +2919,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel K-Repetition Design for SCMA* | Lai, Ke; Liu, Zilong; Lei, Jing; Wen, Lei; Chen, Gaojie; Xiao, Pei | [arXiv:2205.08149](https://arxiv.org/abs/2205.08149) - [DOI](https://doi.org/10.48550/arXiv.2205.08149) |
+
+
+## [DEP-E-20260813-Contour Transformer](../DEP-E-20260813-Contour%20Transformer/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contour Transformer Network for One-shot Segmentation of Anatomical Structures* | Lu, Yuhang; Zheng, Kang; Li, Weijian; Wang, Yirui; Harrison, Adam P.; Lin, Chihung; Wang, Song; Xiao, Jing; Lu, Le; Kuo, Chang-Fu; Miao, Shun | [arXiv:2012.01480](https://arxiv.org/abs/2012.01480) - [DOI](https://doi.org/10.48550/arXiv.2012.01480) |
