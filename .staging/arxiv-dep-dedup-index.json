@@ -5955,6 +5955,29 @@
         "https://doi.org/10.48550/arXiv.2507.20772"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-How Far Are We to GPT-4V",
+        ".logs/20260813-Arxiv-How-Far-Are-We-to-GPT-4V-LOG.md",
+        ".reports/BL-Arxiv-How-Far-Are-We-to-GPT-4V-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.16821",
+      "arxiv_id": "2404.16821",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2404.16821",
+      "normalized_title": "How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P10; draw 1009 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "How-Far-Are-We-to-GPT-4V",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.16821",
+        "https://arxiv.org/html/2404.16821",
+        "https://arxiv.org/pdf/2404.16821",
+        "https://doi.org/10.48550/arXiv.2404.16821"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

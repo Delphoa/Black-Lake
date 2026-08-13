@@ -2954,3 +2954,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Line-of-Sight: Cooperative Localization Using Vision and V2X Communication* | Wong, Annika; Tang, Zhiqi; Jiang, Frank J.; Johansson, Karl H.; Mårtensson, Jonas | [arXiv:2507.20772](https://arxiv.org/abs/2507.20772) - [DOI](https://doi.org/10.48550/arXiv.2507.20772) |
+
+
+## [DEP-E-20260813-How Far Are We to GPT-4V](../DEP-E-20260813-How%20Far%20Are%20We%20to%20GPT-4V/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites* | Chen, Zhe; Wang, Weiyun; Tian, Hao; Ye, Shenglong; Gao, Zhangwei; Cui, Erfei; Tong, Wenwen; Hu, Kongzhi; Luo, Jiapeng; Ma, Zheng; Ma, Ji; Wang, Jiaqi; Dong, Xiaoyi; Yan, Hang; Guo, Hewei; He, Conghui; Shi, Botian; Jin, Zhenjiang; Xu, Chao; Wang, Bin; Wei, Xingjian; Li, Wei; Zhang, Wenjian; Zhang, Bo; Cai, Pinlong; Wen, Licheng; Yan, Xiangchao; Dou, Min; Lu, Lewei; Zhu, Xizhou; Lu, Tong; Lin, Dahua; Qiao, Yu; Dai, Jifeng; Wang, Wenhai | [arXiv:2404.16821](https://arxiv.org/abs/2404.16821) - [DOI](https://doi.org/10.48550/arXiv.2404.16821) |
