@@ -7848,3 +7848,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Line-of-Sight: Cooperative Localization Using Vision and V2X Communication* | Wong, Annika; Tang, Zhiqi; Jiang, Frank J.; Johansson, Karl H.; Mårtensson, Jonas | [arXiv:2507.20772](https://arxiv.org/abs/2507.20772) - [DOI](https://doi.org/10.48550/arXiv.2507.20772) |
+
+## [DEP-A-20260814-Contour Intake](../DEP-A-20260814-Contour%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-Contour%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contour Transformer Network for One-shot Segmentation of Anatomical Structures* | Lu, Yuhang; Zheng, Kang; Li, Weijian; Wang, Yirui; Harrison, Adam P.; Lin, Chihung; Wang, Song; Xiao, Jing; Lu, Le; Kuo, Chang-Fu; Miao, Shun | [arXiv:2012.01480](https://arxiv.org/abs/2012.01480) - [DOI](https://doi.org/10.48550/arXiv.2012.01480) |
