@@ -7864,3 +7864,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Controllable Dynamic Appearance for Neural 3D Portraits* | Athar, ShahRukh; Shu, Zhixin; Xu, Zexiang; Luan, Fujun; Bi, Sai; Sunkavalli, Kalyan; Samaras, Dimitris | [arXiv:2309.11009](https://arxiv.org/abs/2309.11009) - [DOI](https://doi.org/10.48550/arXiv.2309.11009) |
+
+## [DEP-A-20260814-Digital and Intake](../DEP-A-20260814-Digital%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-Digital%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Digital and Physical Face Attacks: Reviewing and One Step Further* | Kong, Chenqi; Wang, Shiqi; Li, Haoliang | [arXiv:2209.14692](https://arxiv.org/abs/2209.14692) - [DOI](https://doi.org/10.48550/arXiv.2209.14692) |
