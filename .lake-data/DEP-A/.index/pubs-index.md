@@ -7816,3 +7816,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel K-Repetition Design for SCMA* | Lai, Ke; Liu, Zilong; Lei, Jing; Wen, Lei; Chen, Gaojie; Xiao, Pei | [arXiv:2205.08149](https://arxiv.org/abs/2205.08149) - [DOI](https://doi.org/10.48550/arXiv.2205.08149) |
+
+## [DEP-A-20260814-A Unified Intake](../DEP-A-20260814-A%20Unified%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-A%20Unified%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Unified Contrastive-Generative Framework for Time Series Classification* | Liu, Ziyu; Alavi, Azadeh; Li, Minyi; Zhang, Xiang | [arXiv:2508.09451](https://arxiv.org/abs/2508.09451) - [DOI](https://doi.org/10.48550/arXiv.2508.09451) |
