@@ -2891,3 +2891,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection* | Zhou, Yinchi; Duan, Peiyu; Du, Yuexi; Dvornek, Nicha C. | [arXiv:2409.12304](https://arxiv.org/abs/2409.12304) - [DOI](https://doi.org/10.48550/arXiv.2409.12304) |
+
+
+## [DEP-E-20260813-Controllable Dynamic](../DEP-E-20260813-Controllable%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Controllable Dynamic Appearance for Neural 3D Portraits* | Athar, ShahRukh; Shu, Zhixin; Xu, Zexiang; Luan, Fujun; Bi, Sai; Sunkavalli, Kalyan; Samaras, Dimitris | [arXiv:2309.11009](https://arxiv.org/abs/2309.11009) - [DOI](https://doi.org/10.48550/arXiv.2309.11009) |
