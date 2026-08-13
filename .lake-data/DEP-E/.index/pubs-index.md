@@ -2933,3 +2933,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention* | Chen, Yiwen; Li, Zhihao; Wang, Yikai; Zhang, Hu; Li, Qin; Zhang, Chi; Lin, Guosheng | [arXiv:2507.17745](https://arxiv.org/abs/2507.17745) - [DOI](https://doi.org/10.48550/arXiv.2507.17745) |
+
+
+## [DEP-E-20260813-An End-to-End Network for](../DEP-E-20260813-An%20End-to-End%20Network%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An End-to-End Network for Upright Adjustment of Panoramic Images* | Chen, Heyu; Li, Jianfeng; Li, Shigang | [arXiv:2304.05556](https://arxiv.org/abs/2304.05556) - [DOI](https://doi.org/10.48550/arXiv.2304.05556) |
