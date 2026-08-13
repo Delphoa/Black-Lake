@@ -7763,3 +7763,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Testing Retrieval-Augmented Generation Systems with Chunk Coverage* | Jinhan Kim; Samuele Pasini; Paolo Tonella | [arXiv:2607.18155v1](https://arxiv.org/abs/2607.18155v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18155) |
+
+
+## [DEP-A-20260814-Ricci RAG Rerank](../DEP-A-20260814-Ricci%20RAG%20Rerank/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2606.15482-whitepaper-review.md`](../DEP-A-20260814-Ricci%20RAG%20Rerank/2606.15482-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ricci-Filtration: Boosting Retrieval-Augmented Generation Reranker to Query-Answer Tasks by Discrete Ricci Flow* | Tian Qin; Wei-Min Huang | [arXiv:2606.15482v1](https://arxiv.org/abs/2606.15482v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15482) |
+
+
+## [DEP-A-20260814-KATA Linear Attention](../DEP-A-20260814-KATA%20Linear%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.17419-whitepaper-review.md`](../DEP-A-20260814-KATA%20Linear%20Attention/2607.17419-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kernelized Linear Attention: Breaking the Capacity Wall with Symmetric Cones* | Ayoub Ghriss; Sourav Chakraborty | [arXiv:2607.17419v1](https://arxiv.org/abs/2607.17419v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17419) |
+
+
+## [DEP-A-20260814-SpecLA Decoding](../DEP-A-20260814-SpecLA%20Decoding/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16673-whitepaper-review.md`](../DEP-A-20260814-SpecLA%20Decoding/2607.16673-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpecLA: Efficient Speculative Decoding for Linear-Attention Models* | Zhibin Wang; Xuying Han; Zhaohua Yang; Fuliang Liu; Xue Li; Rong Gu; Sheng Zhong; Chen Tian | [arXiv:2607.16673v1](https://arxiv.org/abs/2607.16673v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16673) |
+
+
+## [DEP-A-20260814-PagedWeight MoE](../DEP-A-20260814-PagedWeight%20MoE/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16184-whitepaper-review.md`](../DEP-A-20260814-PagedWeight%20MoE/2607.16184-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization* | Yuchen Yang; Yifan Zhao; Anisha Dasgupta; Sasa Misailovic | [arXiv:2607.16184v1](https://arxiv.org/abs/2607.16184v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16184) |
+
+
+## [DEP-A-20260814-SWE Pruner Pro](../DEP-A-20260814-SWE%20Pruner%20Pro/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.18213-whitepaper-review.md`](../DEP-A-20260814-SWE%20Pruner%20Pro/2607.18213-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SWE-Pruner Pro: The Coder LLM Already Knows What to Prune* | Yuhang Wang; Yuling Shi; Shaoqiu Zhang; Jialiang Liang; Shilin He; Siyu Ye; Yuting Chen; Kai Cai; Xiaodong Gu | [arXiv:2607.18213v1](https://arxiv.org/abs/2607.18213v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18213) |
