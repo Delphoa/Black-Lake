@@ -5932,6 +5932,29 @@
         "https://doi.org/10.48550/arXiv.2603.26466"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Beyond Line-of-Sight",
+        ".logs/20260813-Arxiv-Beyond-Line-of-Sight-Cooperative-Localization-LOG.md",
+        ".reports/BL-Arxiv-Beyond-Line-of-Sight-Cooperative-Localization-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.20772",
+      "arxiv_id": "2507.20772",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2507.20772",
+      "normalized_title": "Beyond Line-of-Sight: Cooperative Localization Using Vision and V2X Communication",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P09; draw 4164 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Beyond-Line-of-Sight-Cooperative-Localization",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.20772",
+        "https://arxiv.org/html/2507.20772",
+        "https://arxiv.org/pdf/2507.20772",
+        "https://doi.org/10.48550/arXiv.2507.20772"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

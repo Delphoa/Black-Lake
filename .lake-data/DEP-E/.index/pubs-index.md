@@ -2947,3 +2947,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adapt as You Say: Online Interactive Bimanual Skill Adaptation via Human Language Feedback* | Li, Zhuo; Li, Dianxi; Teng, Tao; Rouxel, Quentin; Dong, Zhipeng; Hong, Dennis; Caldwell, Darwin; Chen, Fei | [arXiv:2603.26466](https://arxiv.org/abs/2603.26466) - [DOI](https://doi.org/10.48550/arXiv.2603.26466) |
+
+
+## [DEP-E-20260813-Beyond Line-of-Sight](../DEP-E-20260813-Beyond%20Line-of-Sight/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Line-of-Sight: Cooperative Localization Using Vision and V2X Communication* | Wong, Annika; Tang, Zhiqi; Jiang, Frank J.; Johansson, Karl H.; Mårtensson, Jonas | [arXiv:2507.20772](https://arxiv.org/abs/2507.20772) - [DOI](https://doi.org/10.48550/arXiv.2507.20772) |
