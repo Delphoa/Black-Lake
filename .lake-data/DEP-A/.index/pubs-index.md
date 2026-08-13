@@ -3992,6 +3992,175 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | *Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents* | Wang, Chunxiao | [arXiv:2605.09863v1](https://arxiv.org/abs/2605.09863v1) · [DOI](https://doi.org/10.48550/arXiv.2605.09863) |
 
 
+## [DEP-A-20260729-Executable GUI Memory](../DEP-A-20260729-Executable%20GUI%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.12294-whitepaper-review.md`](../DEP-A-20260729-Executable%20GUI%20Memory/2605.12294-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Executable Agentic Memory for GUI Agent* | Zerui Qin; Sheng Yue; Xingyuan Hua; Yongjian Fu; Ju Ren | [arXiv:2605.12294v1](https://arxiv.org/abs/2605.12294v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12294) |
+
+
+## [DEP-A-20260729-SAGE Memory Gate](../DEP-A-20260729-SAGE%20Memory%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.30711-whitepaper-review.md`](../DEP-A-20260729-SAGE%20Memory%20Gate/2605.30711-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGE: A Novelty Gate for Efficient Memory Evolution in Agentic LLMs* | Sijia Wang; Dhanajit Brahma; Ricardo Henao | [arXiv:2605.30711v2](https://arxiv.org/abs/2605.30711v2) - [DOI](https://doi.org/10.48550/arXiv.2605.30711) |
+
+
+## [DEP-A-20260729-Hubness Admission Gate](../DEP-A-20260729-Hubness%20Admission%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.19692-whitepaper-review.md`](../DEP-A-20260729-Hubness%20Admission%20Gate/2606.19692-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Global Gating Is Enough: Admission-Time Hubness Control in Anisotropic Vector Retrieval Systems* | Prashant Kumar Pathak; Tarun Kumar Sharma | [arXiv:2606.19692v1](https://arxiv.org/abs/2606.19692v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19692) |
+
+
+## [DEP-A-20260729-ARReST WSI Index](../DEP-A-20260729-ARReST%20WSI%20Index/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26157-whitepaper-review.md`](../DEP-A-20260729-ARReST%20WSI%20Index/2606.26157-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval* | Jialiang Geng; Ghazal Alabtah; Saghir Alfasly; Wataru Uegami; H.R.Tizhoosh | [arXiv:2606.26157v1](https://arxiv.org/abs/2606.26157v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26157) |
+
+
+## [DEP-A-20260729-RAG Compression Scaling](../DEP-A-20260729-RAG%20Compression%20Scaling/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.21807-whitepaper-review.md`](../DEP-A-20260729-RAG%20Compression%20Scaling/2606.21807-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fixed RAG Compression Collapses Measured Reader Scaling* | Sugam Panthi; Rabab Abdelfattah | [arXiv:2606.21807v1](https://arxiv.org/abs/2606.21807v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21807) |
+
+
+## [DEP-A-20260729-Ghost Vector Deletion](../DEP-A-20260729-Ghost%20Vector%20Deletion/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.18497-whitepaper-review.md`](../DEP-A-20260729-Ghost%20Vector%20Deletion/2606.18497-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ghost Vectors: Soft-Deleted Embeddings Remain Reconstructible in HNSW Vector Databases* | Chandranil Chakraborttii; Jackeline García Alvarado; Sitora Abdulofizova; Shivanshu Dwivedi | [arXiv:2606.18497v1](https://arxiv.org/abs/2606.18497v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18497) |
+
+
+## [DEP-A-20260729-Error Aware ASR RAG](../DEP-A-20260729-Error%20Aware%20ASR%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.24915-whitepaper-review.md`](../DEP-A-20260729-Error%20Aware%20ASR%20RAG/2606.24915-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction* | Mohammad Aref Jafari-Raddani | [arXiv:2606.24915v1](https://arxiv.org/abs/2606.24915v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24915) |
+
+
+## [DEP-A-20260729-Hybrid IR Medical QA](../DEP-A-20260729-Hybrid%20IR%20Medical%20QA/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25338-whitepaper-review.md`](../DEP-A-20260729-Hybrid%20IR%20Medical%20QA/2606.25338-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering* | Sheng Wan; Jiahui Zhang; Zicheng Zhao; Shougang Ren | [arXiv:2606.25338v1](https://arxiv.org/abs/2606.25338v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25338) |
+
+
+## [DEP-A-20260729-EMA Filtered ANN](../DEP-A-20260729-EMA%20Filtered%20ANN/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.00734-whitepaper-review.md`](../DEP-A-20260729-EMA%20Filtered%20ANN/2606.00734-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EMA: Approximate Nearest Neighbor Search with General Attribute Filtering and Dynamic Updates* | Mocheng Li; Baotong Lu; James Cheng; Chenhao Ma | [arXiv:2606.00734v1](https://arxiv.org/abs/2606.00734v1) - [DOI](https://doi.org/10.48550/arXiv.2606.00734) |
+
+
+## [DEP-A-20260729-MKG RAG Benchmark](../DEP-A-20260729-MKG%20RAG%20Benchmark/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26458-whitepaper-review.md`](../DEP-A-20260729-MKG%20RAG%20Benchmark/2606.26458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation* | Xiaochen Wang; Bao Hoang; Han Liu; Ting Wang; Fenglong Ma | [arXiv:2606.26458v1](https://arxiv.org/abs/2606.26458v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26458) |
+
+
+## [DEP-A-20260729-TRACE Poison Detection](../DEP-A-20260729-TRACE%20Poison%20Detection/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25721-whitepaper-review.md`](../DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution* | Yan-Lun Chen; Pin-Yu Chen; Chia-Mu Yu; Ying-Dar Lin; Yu-Sung Wu; Wei-Bin Lee | [arXiv:2606.25721v1](https://arxiv.org/abs/2606.25721v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25721) |
+
+
+## [DEP-A-20260729-PhysRAG Video](../DEP-A-20260729-PhysRAG%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26916-whitepaper-review.md`](../DEP-A-20260729-PhysRAG%20Video/2606.26916-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation* | Kexu Cheng; Zicheng Liu; Mingju Gao; Chunhe Song; Hao Tang | [arXiv:2606.26916v1](https://arxiv.org/abs/2606.26916v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26916) |
+
+
+## [DEP-A-20260729-SHIFT Conflict Gate](../DEP-A-20260729-SHIFT%20Conflict%20Gate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.27786-whitepaper-review.md`](../DEP-A-20260729-SHIFT%20Conflict%20Gate/2606.27786-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation* | Ruochang Li; Pengcheng Huang; Zhenghao Liu; Yukun Yan; Huiyuan Xie; Yu Gu; Ge Yu; Maosong Sun | [arXiv:2606.27786v1](https://arxiv.org/abs/2606.27786v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27786) |
+
+
+## [DEP-A-20260729-LCAi Perspective RAG](../DEP-A-20260729-LCAi%20Perspective%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.26857-whitepaper-review.md`](../DEP-A-20260729-LCAi%20Perspective%20RAG/2606.26857-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation* | Georgios Tsironis; Juan D. Medrano-Garcia; Gonzalo Guillen-Gosalbez | [arXiv:2606.26857v1](https://arxiv.org/abs/2606.26857v1) - [DOI](https://doi.org/10.48550/arXiv.2606.26857) |
+
+
+## [DEP-A-20260729-AB RAG Budget Control](../DEP-A-20260729-AB%20RAG%20Budget%20Control/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.29090-whitepaper-review.md`](../DEP-A-20260729-AB%20RAG%20Budget%20Control/2606.29090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering* | Ansh Kamthan | [arXiv:2606.29090v1](https://arxiv.org/abs/2606.29090v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29090) |
+
+
+## [DEP-A-20260729-Streaming Tool Intent](../DEP-A-20260729-Streaming%20Tool%20Intent/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.20113-whitepaper-review.md`](../DEP-A-20260729-Streaming%20Tool%20Intent/2606.20113-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Streaming Tool Use Help? Characterizing Tool-Intent Stabilization in Streaming Retrieval-Augmented Generation* | Elroy Galbraith | [arXiv:2606.20113v2](https://arxiv.org/abs/2606.20113v2) - [DOI](https://doi.org/10.48550/arXiv.2606.20113) |
+
+
+## [DEP-A-20260729-Policy Aware Vectors](../DEP-A-20260729-Policy%20Aware%20Vectors/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.19803-whitepaper-review.md`](../DEP-A-20260729-Policy%20Aware%20Vectors/2606.19803-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Policy-aware Vector Search: A Vision for Fine Grained Access Control in Vector Databases* | Lakshmi Sahithi Yalamarthi; Primal Pappachan | [arXiv:2606.19803v1](https://arxiv.org/abs/2606.19803v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19803) |
+
+
+## [DEP-A-20260729-WAG Wearable Retrieval](../DEP-A-20260729-WAG%20Wearable%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2605.18763-whitepaper-review.md`](../DEP-A-20260729-WAG%20Wearable%20Retrieval/2605.18763-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Query-Conditioned Graph Retrieval for Contextualized LLM Reasoning in Personalized Wearable Data* | Zhenyu Lu; Mahyar Abbasian; Amir M. Rahmani | [arXiv:2605.18763v1](https://arxiv.org/abs/2605.18763v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18763) |
+
+
+## [DEP-A-20260729-RAG Security Survey](../DEP-A-20260729-RAG%20Security%20Survey/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-29. The owning review artifact is [`2606.25533-whitepaper-review.md`](../DEP-A-20260729-RAG%20Security%20Survey/2606.25533-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems* | Balamurugan Palanisamy; G S S Chalapathi; Vikas Hassija; Rajkumar Buyya | [arXiv:2606.25533v1](https://arxiv.org/abs/2606.25533v1) - [DOI](https://doi.org/10.48550/arXiv.2606.25533) |
 ## [DEP-A-20260730-ACZ Visual Safety](../DEP-A-20260730-ACZ%20Visual%20Safety/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-07-30. The owning review artifact is [`2605.07250-whitepaper-review.md`](../DEP-A-20260730-ACZ%20Visual%20Safety/2605.07250-whitepaper-review.md).
