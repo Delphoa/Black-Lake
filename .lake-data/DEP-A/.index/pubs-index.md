@@ -7808,3 +7808,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SWE-Pruner Pro: The Coder LLM Already Knows What to Prune* | Yuhang Wang; Yuling Shi; Shaoqiu Zhang; Jialiang Liang; Shilin He; Siyu Ye; Yuting Chen; Kai Cai; Xiaodong Gu | [arXiv:2607.18213v1](https://arxiv.org/abs/2607.18213v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18213) |
+
+## [DEP-A-20260814-A Novel K Intake](../DEP-A-20260814-A%20Novel%20K%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-A%20Novel%20K%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel K-Repetition Design for SCMA* | Lai, Ke; Liu, Zilong; Lei, Jing; Wen, Lei; Chen, Gaojie; Xiao, Pei | [arXiv:2205.08149](https://arxiv.org/abs/2205.08149) - [DOI](https://doi.org/10.48550/arXiv.2205.08149) |
