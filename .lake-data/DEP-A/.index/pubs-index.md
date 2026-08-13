@@ -7880,3 +7880,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites* | Chen, Zhe; Wang, Weiyun; Tian, Hao; Ye, Shenglong; Gao, Zhangwei; Cui, Erfei; Tong, Wenwen; Hu, Kongzhi; Luo, Jiapeng; Ma, Zheng; Ma, Ji; Wang, Jiaqi; Dong, Xiaoyi; Yan, Hang; Guo, Hewei; He, Conghui; Shi, Botian; Jin, Zhenjiang; Xu, Chao; Wang, Bin; Wei, Xingjian; Li, Wei; Zhang, Wenjian; Zhang, Bo; Cai, Pinlong; Wen, Licheng; Yan, Xiangchao; Dou, Min; Lu, Lewei; Zhu, Xizhou; Lu, Tong; Lin, Dahua; Qiao, Yu; Dai, Jifeng; Wang, Wenhai | [arXiv:2404.16821](https://arxiv.org/abs/2404.16821) - [DOI](https://doi.org/10.48550/arXiv.2404.16821) |
+
+## [DEP-A-20260814-Ultra3D Efficient Intake](../DEP-A-20260814-Ultra3D%20Efficient%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-Ultra3D%20Efficient%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention* | Chen, Yiwen; Li, Zhihao; Wang, Yikai; Zhang, Hu; Li, Qin; Zhang, Chi; Lin, Guosheng | [arXiv:2507.17745](https://arxiv.org/abs/2507.17745) - [DOI](https://doi.org/10.48550/arXiv.2507.17745) |
