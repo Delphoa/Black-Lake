@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **675 publication reviews across 357 DEP-E entries**.
+- Current coverage: **685 publication reviews across 358 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-10; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260814-Agentic Evaluation](../DEP-E-20260814-Agentic%20Evaluation/README.md)
+
+| Publication | Authors or credited organization | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions* | Kaicheng Shen; Lingyu Li; Wen Wu; Yan Teng; Liang He; Yingchun Wang | [arXiv:2606.25396v1](https://arxiv.org/abs/2606.25396) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases* | Qi Chen; Wenxuan Li; Pedro R. A. S. Bassi; *et al.* | [arXiv:2606.24883v1](https://arxiv.org/abs/2606.24883) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *Agentic Symbolic Search: Characterizing PDEs Beyond Hand-crafted Expressions, Meshes, and Neural Networks* | Zongmin Yu; Liu Yang | [arXiv:2606.20467v1](https://arxiv.org/abs/2606.20467) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety* | Linghao Feng; Yinqian Sun; Dongqi Liang; *et al.* | [arXiv:2606.18936v2](https://arxiv.org/abs/2606.18936) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *SoK: Security and Privacy of Foundation-Model-Powered Robots* | Xueluan Gong; Chen Chen; Jinxin Liu; Qian Wang; Kwok-Yan Lam | [arXiv:2606.16788v1](https://arxiv.org/abs/2606.16788) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs* | Rahul Khedar; Eshita; Sneha Teja Sree Reddy Thondapu; *et al.* | [arXiv:2606.16307v1](https://arxiv.org/abs/2606.16307) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks* | Po-Nien Kung; Linfeng Song; Dawsen Hwang; *et al.* | [arXiv:2606.03303v2](https://arxiv.org/abs/2606.03303) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *AutoMedBench: Towards Medical AutoResearch with Agentic AI Models* | Junqi Liu; Selena Song; Yuhan Wang; *et al.* | [arXiv:2606.01961v2](https://arxiv.org/abs/2606.01961) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *Adapting AlphaEvolve to Optimize Fully Homomorphic Encryption on TPUs* | Shruthi Gorantala; Jianming Tong; Asra Ali; *et al.* | [arXiv:2605.14718v1](https://arxiv.org/abs/2605.14718) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
+| *MPEX AI Digital Twins Milestone Report* | Gary Staebler; Rhea Barnett; Mark Cianciosa; *et al.* | [arXiv:2605.12116v1](https://arxiv.org/abs/2605.12116) | [DEP-E](../DEP-E-20260814-Agentic%20Evaluation/README.md) |
 
 ## [DEP-E-20260813-Evaluator Systems](../DEP-E-20260813-Evaluator%20Systems/README.md)
 
