@@ -7628,3 +7628,48 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory* | Hakbeom Jang; Inho Song; Sam H. Noh; Jongryool Kim | [arXiv:2607.18141v1](https://arxiv.org/abs/2607.18141v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18141) |
+
+
+## [DEP-A-20260814-DGAP KV Restoration](../DEP-A-20260814-DGAP%20KV%20Restoration/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16248-whitepaper-review.md`](../DEP-A-20260814-DGAP%20KV%20Restoration/2607.16248-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *High-accuracy Low-Bit KV-Cache Quantization via Local Distribution Restoration* | Gradwell Dzikanyanga; Yanqi Pan; Weihao Yang; Donglei Wu; Wen Xia; Hao Huang | [arXiv:2607.16248v1](https://arxiv.org/abs/2607.16248v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16248) |
+
+
+## [DEP-A-20260814-Robust KV Reservation](../DEP-A-20260814-Robust%20KV%20Reservation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16892-whitepaper-review.md`](../DEP-A-20260814-Robust%20KV%20Reservation/2607.16892-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust KV Cache Management for LLM Serving under Output Token Length Uncertainty* | Jiaming Cheng; Duong The Do; Duong Tung Nguyen | [arXiv:2607.16892v1](https://arxiv.org/abs/2607.16892v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16892) |
+
+
+## [DEP-A-20260814-KARA Sliding KV](../DEP-A-20260814-KARA%20Sliding%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.01237-whitepaper-review.md`](../DEP-A-20260814-KARA%20Sliding%20KV/2607.01237-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KARA: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression* | Shen Han; Yuyang Wu; Junpu Yu; Olexandr Isayev | [arXiv:2607.01237v2](https://arxiv.org/abs/2607.01237v2) - [DOI](https://doi.org/10.48550/arXiv.2607.01237) |
+
+
+## [DEP-A-20260814-CRISP Visual Pruning](../DEP-A-20260814-CRISP%20Visual%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2607.16326-whitepaper-review.md`](../DEP-A-20260814-CRISP%20Visual%20Pruning/2607.16326-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CRISP: Pre-LLM Yet Text-Driven Visual Token Pruning for Efficient LVLM Inference* | Xu Li; Yi Zheng; Mengyang Zhao; Yuxuan Liang; Zhe Liu; Rui Zhu; Xiaolei Chen; Wei Zhou; Baoquan Zhao; Juncen Guo | [arXiv:2607.16326v1](https://arxiv.org/abs/2607.16326v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16326) |
+
+
+## [DEP-A-20260814-BFLA Sparse Prefill](../DEP-A-20260814-BFLA%20Sparse%20Prefill/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`2605.12193-whitepaper-review.md`](../DEP-A-20260814-BFLA%20Sparse%20Prefill/2605.12193-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BFLA: Block-Filtered Long-Context Attention Mechanism* | Chong Wu; Zhenan Feng; Renjie Xu; Houwang Zhang; Jiawang Cao; Maolin Che; Wenbo Zhu; Hong Yan | [arXiv:2605.12193v1](https://arxiv.org/abs/2605.12193v1) - [DOI](https://doi.org/10.48550/arXiv.2605.12193) |
