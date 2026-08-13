@@ -7840,3 +7840,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An End-to-End Network for Upright Adjustment of Panoramic Images* | Chen, Heyu; Li, Jianfeng; Li, Shigang | [arXiv:2304.05556](https://arxiv.org/abs/2304.05556) - [DOI](https://doi.org/10.48550/arXiv.2304.05556) |
+
+## [DEP-A-20260814-Beyond Line of Intake](../DEP-A-20260814-Beyond%20Line%20of%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-14. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260814-Beyond%20Line%20of%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Line-of-Sight: Cooperative Localization Using Vision and V2X Communication* | Wong, Annika; Tang, Zhiqi; Jiang, Frank J.; Johansson, Karl H.; Mårtensson, Jonas | [arXiv:2507.20772](https://arxiv.org/abs/2507.20772) - [DOI](https://doi.org/10.48550/arXiv.2507.20772) |
