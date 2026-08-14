@@ -2990,3 +2990,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Open-vocabulary Panoptic Segmentation with Embedding Modulation* | Chen, Xi; Li, Shuang; Lim, Ser-Nam; Torralba, Antonio; Zhao, Hengshuang | [arXiv:2303.11324](https://arxiv.org/abs/2303.11324) - [DOI](https://doi.org/10.48550/arXiv.2303.11324) |
+
+
+## [DEP-E-20260814-RealCamo Boosting Real](../DEP-E-20260814-RealCamo%20Boosting%20Real/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance* | Chen, Chunyuan; Cai, Yunuo; Li, Shujuan; Liang, Weiyun; Wang, Bin; Xu, Jing | [arXiv:2512.22974](https://arxiv.org/abs/2512.22974) - [DOI](https://doi.org/10.48550/arXiv.2512.22974) |
