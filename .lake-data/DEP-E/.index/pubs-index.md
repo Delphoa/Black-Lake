@@ -3011,3 +3011,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving* | Yang, Huitong; Bai, Xuyang; Zhu, Xinge; Ma, Yuexin | [arXiv:2304.00525](https://arxiv.org/abs/2304.00525) - [DOI](https://doi.org/10.48550/arXiv.2304.00525) |
+
+
+## [DEP-E-20260814-Privacy-Preserving](../DEP-E-20260814-Privacy-Preserving/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Privacy-Preserving Federated Unlearning with Certified Client Removal* | Liu, Ziyao; Ye, Huanyi; Jiang, Yu; Shen, Jiyuan; Guo, Jiale; Tjuawinata, Ivan; Lam, Kwok-Yan | [arXiv:2404.09724](https://arxiv.org/abs/2404.09724) - [DOI](https://doi.org/10.48550/arXiv.2404.09724) |

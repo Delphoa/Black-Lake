@@ -6093,6 +6093,29 @@
         "https://doi.org/10.48550/arXiv.2304.00525"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving",
+        ".logs/20260814-Arxiv-Privacy-Preserving-Federated-Unlearning-with-LOG.md",
+        ".reports/BL-Arxiv-Privacy-Preserving-Federated-Unlearning-with-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.09724",
+      "arxiv_id": "2404.09724",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2404.09724",
+      "normalized_title": "Privacy-Preserving Federated Unlearning with Certified Client Removal",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P06; draw 60666 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Privacy-Preserving-Federated-Unlearning-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.09724",
+        "https://arxiv.org/html/2404.09724",
+        "https://arxiv.org/pdf/2404.09724",
+        "https://doi.org/10.48550/arXiv.2404.09724"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
