@@ -2997,3 +2997,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance* | Chen, Chunyuan; Cai, Yunuo; Li, Shujuan; Liang, Weiyun; Wang, Bin; Xu, Jing | [arXiv:2512.22974](https://arxiv.org/abs/2512.22974) - [DOI](https://doi.org/10.48550/arXiv.2512.22974) |
+
+
+## [DEP-E-20260814-Nonconvex Optimization](../DEP-E-20260814-Nonconvex%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview* | Chi, Yuejie; Lu, Yue M.; Chen, Yuxin | [arXiv:1809.09573](https://arxiv.org/abs/1809.09573) - [DOI](https://doi.org/10.1109/TSP.2019.2937282) |

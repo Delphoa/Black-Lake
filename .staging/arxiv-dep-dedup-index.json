@@ -6047,6 +6047,29 @@
         "https://doi.org/10.48550/arXiv.2512.22974"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization",
+        ".logs/20260814-Arxiv-Nonconvex-Optimization-Meets-Low-Rank-Matrix-LOG.md",
+        ".reports/BL-Arxiv-Nonconvex-Optimization-Meets-Low-Rank-Matrix-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1809.09573",
+      "arxiv_id": "1809.09573",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.1109/TSP.2019.2937282",
+      "normalized_title": "Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P04; draw 11546 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Nonconvex-Optimization-Meets-Low-Rank-Matrix",
+      "source_urls": [
+        "https://arxiv.org/abs/1809.09573",
+        "https://arxiv.org/html/1809.09573",
+        "https://arxiv.org/pdf/1809.09573",
+        "https://doi.org/10.1109/TSP.2019.2937282"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
