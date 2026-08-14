@@ -7996,3 +7996,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ARMOR: Adaptive Retriever Optimization for Low-Resource Telecom Question Answering* | Heshan Fernando; Quan Xiao; Yan Xin; Tianyi Chen | [arXiv:2606.29706v1](https://arxiv.org/abs/2606.29706v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29706) |
+
+
+## [DEP-A-20260815-PathRouter Graph RAG](../DEP-A-20260815-PathRouter%20Graph%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2606.16409-whitepaper-review.md`](../DEP-A-20260815-PathRouter%20Graph%20RAG/2606.16409-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation* | Bo Wang; Heyan Huang; Yaolin Li; Wei Tang; Yuan Zhang; Wenbo Li; Mingze Gao; Ge Shi; Chong Feng | [arXiv:2606.16409v1](https://arxiv.org/abs/2606.16409v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16409) |
