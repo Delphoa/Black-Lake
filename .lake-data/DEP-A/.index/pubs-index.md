@@ -8084,3 +8084,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bias Behind the Wheel: Fairness Testing of Autonomous Driving Systems* | Li, Xinyue; Chen, Zhenpeng; Zhang, Jie M.; Sarro, Federica; Zhang, Ying; Liu, Xuanzhe | [arXiv:2308.02935](https://arxiv.org/abs/2308.02935) - [DOI](https://doi.org/10.48550/arXiv.2308.02935) |
+
+## [DEP-A-20260815-Exploiting Intake](../DEP-A-20260815-Exploiting%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-Exploiting%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploiting contextual information to improve stance detection in informal political discourse with LLMs* | Sucu, Arman Engin; Zhou, Yixiang; Nascimento, Mario A.; Mullen, Tony | [arXiv:2602.04750](https://arxiv.org/abs/2602.04750) - [DOI](https://doi.org/10.18653/v1/2025.acl-srw.86) |
