@@ -7987,3 +7987,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation* | Pei Tian; Zihan Dong; Tianci Liu; Linjun Zhang; Haoyu Wang | [arXiv:2607.16431v1](https://arxiv.org/abs/2607.16431v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16431) |
+
+
+## [DEP-A-20260815-ARMOR Telecom RAG](../DEP-A-20260815-ARMOR%20Telecom%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2606.29706-whitepaper-review.md`](../DEP-A-20260815-ARMOR%20Telecom%20RAG/2606.29706-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ARMOR: Adaptive Retriever Optimization for Low-Resource Telecom Question Answering* | Heshan Fernando; Quan Xiao; Yan Xin; Tianyi Chen | [arXiv:2606.29706v1](https://arxiv.org/abs/2606.29706v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29706) |
