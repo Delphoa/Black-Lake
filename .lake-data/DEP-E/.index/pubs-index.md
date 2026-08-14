@@ -2983,3 +2983,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bias Behind the Wheel: Fairness Testing of Autonomous Driving Systems* | Li, Xinyue; Chen, Zhenpeng; Zhang, Jie M.; Sarro, Federica; Zhang, Ying; Liu, Xuanzhe | [arXiv:2308.02935](https://arxiv.org/abs/2308.02935) - [DOI](https://doi.org/10.48550/arXiv.2308.02935) |
+
+
+## [DEP-E-20260814-Open-vocabulary Panoptic](../DEP-E-20260814-Open-vocabulary%20Panoptic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Open-vocabulary Panoptic Segmentation with Embedding Modulation* | Chen, Xi; Li, Shuang; Lim, Ser-Nam; Torralba, Antonio; Zhao, Hengshuang | [arXiv:2303.11324](https://arxiv.org/abs/2303.11324) - [DOI](https://doi.org/10.48550/arXiv.2303.11324) |
