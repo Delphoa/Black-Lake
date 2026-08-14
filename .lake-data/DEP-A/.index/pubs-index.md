@@ -8041,3 +8041,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HijackKV: New Threat in Position-Independent KV Cache Reuse* | Yichi Zhang; Zhiqi Wang; Huan Zhang; Yuchen Yang | [arXiv:2607.19957v1](https://arxiv.org/abs/2607.19957v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19957) |
+
+
+## [DEP-A-20260815-MoA Decode Kernel](../DEP-A-20260815-MoA%20Decode%20Kernel/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2607.19456-whitepaper-review.md`](../DEP-A-20260815-MoA%20Decode%20Kernel/2607.19456-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoA-Structured Decode Attention DNF Derivation, KV-Cache Accumulation, GQA/MQA, and OpenACC Kernel* | Lenore Mulin; Gaetan Hains | [arXiv:2607.19456v1](https://arxiv.org/abs/2607.19456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19456) |
