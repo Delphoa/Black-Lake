@@ -7951,3 +7951,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents* | Jinchang Zhu; Jindong Li; Cheng Zhang; Jiahong Liu; Menglin Yang | [arXiv:2604.16839v1](https://arxiv.org/abs/2604.16839v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16839) |
+
+
+## [DEP-A-20260815-Rashomon Memory](../DEP-A-20260815-Rashomon%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2604.03588-whitepaper-review.md`](../DEP-A-20260815-Rashomon%20Memory/2604.03588-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory* | Albert Sadowski; Jarosław A. Chudziak | [arXiv:2604.03588v3](https://arxiv.org/abs/2604.03588v3) - [DOI](https://doi.org/10.48550/arXiv.2604.03588) |
