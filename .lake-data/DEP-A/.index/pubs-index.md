@@ -7969,3 +7969,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory* | Jiaqi Liu; Zipeng Ling; Shi Qiu; Yanqing Liu; Siwei Han; Peng Xia; Haoqin Tu; Zeyu Zheng; Cihang Xie; Charles Fleming; Mingyu Ding; Huaxiu Yao | [arXiv:2604.01007v2](https://arxiv.org/abs/2604.01007v2) - [DOI](https://doi.org/10.48550/arXiv.2604.01007) |
+
+
+## [DEP-A-20260815-MemFactory](../DEP-A-20260815-MemFactory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v4 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2603.29493-whitepaper-review.md`](../DEP-A-20260815-MemFactory/2603.29493-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemFactory: Unified Inference & Training Framework for Agent Memory* | Ziliang Guo; Ziheng Li; Bo Tang; Feiyu Xiong; Zhiyu Li | [arXiv:2603.29493v4](https://arxiv.org/abs/2603.29493v4) - [DOI](https://doi.org/10.48550/arXiv.2603.29493) |
