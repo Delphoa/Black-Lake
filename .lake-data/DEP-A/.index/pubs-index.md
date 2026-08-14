@@ -8132,3 +8132,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Open-vocabulary Panoptic Segmentation with Embedding Modulation* | Chen, Xi; Li, Shuang; Lim, Ser-Nam; Torralba, Antonio; Zhao, Hengshuang | [arXiv:2303.11324](https://arxiv.org/abs/2303.11324) - [DOI](https://doi.org/10.48550/arXiv.2303.11324) |
+
+## [DEP-A-20260815-Privacy Preserving Intake](../DEP-A-20260815-Privacy%20Preserving%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-Privacy%20Preserving%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Privacy-Preserving Federated Unlearning with Certified Client Removal* | Liu, Ziyao; Ye, Huanyi; Jiang, Yu; Shen, Jiyuan; Guo, Jiale; Tjuawinata, Ivan; Lam, Kwok-Yan | [arXiv:2404.09724](https://arxiv.org/abs/2404.09724) - [DOI](https://doi.org/10.48550/arXiv.2404.09724) |
