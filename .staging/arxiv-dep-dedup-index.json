@@ -6139,6 +6139,29 @@
         "https://doi.org/10.48550/arXiv.2312.11018"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Federated Learning with",
+        ".logs/20260814-Arxiv-Federated-Learning-with-Flexible-Control-LOG.md",
+        ".reports/BL-Arxiv-Federated-Learning-with-Flexible-Control-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2212.08496",
+      "arxiv_id": "2212.08496",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2212.08496",
+      "normalized_title": "Federated Learning with Flexible Control",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P08; draw 37689 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Federated-Learning-with-Flexible-Control",
+      "source_urls": [
+        "https://arxiv.org/abs/2212.08496",
+        "https://arxiv.org/html/2212.08496",
+        "https://arxiv.org/pdf/2212.08496",
+        "https://doi.org/10.48550/arXiv.2212.08496"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

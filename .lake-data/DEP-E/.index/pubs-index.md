@@ -3025,3 +3025,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation* | Li, Yang; Liu, Kangbo; Wu, Yaoxin; Wang, Zhaoxuan; Cambria, Erik; Wang, Xiaoxu | [arXiv:2312.11018](https://arxiv.org/abs/2312.11018) - [DOI](https://doi.org/10.48550/arXiv.2312.11018) |
+
+
+## [DEP-E-20260814-Federated Learning with](../DEP-E-20260814-Federated%20Learning%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Learning with Flexible Control* | Wang, Shiqiang; Perazzone, Jake; Ji, Mingyue; Chan, Kevin S. | [arXiv:2212.08496](https://arxiv.org/abs/2212.08496) - [DOI](https://doi.org/10.48550/arXiv.2212.08496) |
