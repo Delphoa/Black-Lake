@@ -7933,3 +7933,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TOIB: Task-Oriented Orthogonalised Information Bottleneck for Distributed Semantic Communication* | Jiaxiang Wang; Zhaohui Yang; Yahao Ding; Ye Hu; Mohammad Shikh-Bahaei | [arXiv:2604.11053v1](https://arxiv.org/abs/2604.11053v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11053) |
+
+
+## [DEP-A-20260815-Agent Memory Evolution](../DEP-A-20260815-Agent%20Memory%20Evolution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2605.06716-whitepaper-review.md`](../DEP-A-20260815-Agent%20Memory%20Evolution/2605.06716-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms* | Jinghao Luo; Yuchen Tian; Chuxue Cao; Ziyang Luo; Hongzhan Lin; Kaixin Li; Chuyi Kong; Ruichao Yang; Jing Ma | [arXiv:2605.06716v1](https://arxiv.org/abs/2605.06716v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06716) |
