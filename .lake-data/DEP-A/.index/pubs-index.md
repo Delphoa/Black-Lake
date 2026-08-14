@@ -8050,3 +8050,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoA-Structured Decode Attention DNF Derivation, KV-Cache Accumulation, GQA/MQA, and OpenACC Kernel* | Lenore Mulin; Gaetan Hains | [arXiv:2607.19456v1](https://arxiv.org/abs/2607.19456v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19456) |
+
+
+## [DEP-A-20260815-HeadCast Video KV](../DEP-A-20260815-HeadCast%20Video%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2607.20125-whitepaper-review.md`](../DEP-A-20260815-HeadCast%20Video%20KV/2607.20125-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HeadCast: Casting Attention Heads for Efficient Autoregressive Video Generation* | Jinliang Shen; Lianghao Su; Zheming Li; Kang He; ZiLiang Lai; Yanbing Jiang; Chengru Song | [arXiv:2607.20125v1](https://arxiv.org/abs/2607.20125v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20125) |
