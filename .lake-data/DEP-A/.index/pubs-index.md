@@ -7906,3 +7906,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Uncertainty-Aware Token Importance Estimation in Spiking Transformers* | Wenxuan Liu; Zecheng Hao; Tong Bu; Yuran Wang; Zhaofei Yu | [arXiv:2605.09276v1](https://arxiv.org/abs/2605.09276v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09276) |
+
+
+## [DEP-A-20260815-RCP Visual Pruning](../DEP-A-20260815-RCP%20Visual%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2604.04972-whitepaper-review.md`](../DEP-A-20260815-RCP%20Visual%20Pruning/2604.04972-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models* | Jianwei Zhang; Chaoning Zhang; Sihan Cao; Wang Liu; Pengcheng Zheng; Jiaxin Huang; Caiyan Qin; Yalan Ye; Wei Dong; Yang Yang | [arXiv:2604.04972v1](https://arxiv.org/abs/2604.04972v1) - [DOI](https://doi.org/10.48550/arXiv.2604.04972) |
