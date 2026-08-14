@@ -6116,6 +6116,29 @@
         "https://doi.org/10.48550/arXiv.2404.09724"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual",
+        ".logs/20260814-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-LOG.md",
+        ".reports/BL-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.11018",
+      "arxiv_id": "2312.11018",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2312.11018",
+      "normalized_title": "Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P07; draw 74370 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hypergrah-Enhanced-Dual-Convolutional-Network",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.11018",
+        "https://arxiv.org/html/2312.11018",
+        "https://arxiv.org/pdf/2312.11018",
+        "https://doi.org/10.48550/arXiv.2312.11018"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

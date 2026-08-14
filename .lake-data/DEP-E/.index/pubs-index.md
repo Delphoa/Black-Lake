@@ -3018,3 +3018,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Privacy-Preserving Federated Unlearning with Certified Client Removal* | Liu, Ziyao; Ye, Huanyi; Jiang, Yu; Shen, Jiyuan; Guo, Jiale; Tjuawinata, Ivan; Lam, Kwok-Yan | [arXiv:2404.09724](https://arxiv.org/abs/2404.09724) - [DOI](https://doi.org/10.48550/arXiv.2404.09724) |
+
+
+## [DEP-E-20260814-Hypergrah-Enhanced Dual](../DEP-E-20260814-Hypergrah-Enhanced%20Dual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation* | Li, Yang; Liu, Kangbo; Wu, Yaoxin; Wang, Zhaoxuan; Cambria, Erik; Wang, Xiaoxu | [arXiv:2312.11018](https://arxiv.org/abs/2312.11018) - [DOI](https://doi.org/10.48550/arXiv.2312.11018) |
