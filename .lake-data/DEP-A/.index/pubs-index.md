@@ -7897,3 +7897,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Shapley Context Pruning: A Cooperative Game Perspective for Context Reranking and Pruning* | Yanqiao Chen; Dongsheng Hou; Yuhan Rui; Zhen Cao; Yepang Liu | [arXiv:2607.16209v1](https://arxiv.org/abs/2607.16209v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16209) |
+
+
+## [DEP-A-20260815-Uncert Spiking Tokens](../DEP-A-20260815-Uncert%20Spiking%20Tokens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2605.09276-whitepaper-review.md`](../DEP-A-20260815-Uncert%20Spiking%20Tokens/2605.09276-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Uncertainty-Aware Token Importance Estimation in Spiking Transformers* | Wenxuan Liu; Zecheng Hao; Tong Bu; Yuran Wang; Zhaofei Yu | [arXiv:2605.09276v1](https://arxiv.org/abs/2605.09276v1) - [DOI](https://doi.org/10.48550/arXiv.2605.09276) |
