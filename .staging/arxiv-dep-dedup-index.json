@@ -6162,6 +6162,29 @@
         "https://doi.org/10.48550/arXiv.2212.08496"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy",
+        ".logs/20260814-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-LOG.md",
+        ".reports/BL-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.10014",
+      "arxiv_id": "2205.10014",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2205.10014",
+      "normalized_title": "A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P09; draw 22470 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Survey-of-Trustworthy-Graph-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.10014",
+        "https://arxiv.org/html/2205.10014",
+        "https://arxiv.org/pdf/2205.10014",
+        "https://doi.org/10.48550/arXiv.2205.10014"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

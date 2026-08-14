@@ -3032,3 +3032,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Federated Learning with Flexible Control* | Wang, Shiqiang; Perazzone, Jake; Ji, Mingyue; Chan, Kevin S. | [arXiv:2212.08496](https://arxiv.org/abs/2212.08496) - [DOI](https://doi.org/10.48550/arXiv.2212.08496) |
+
+
+## [DEP-E-20260814-A Survey of Trustworthy](../DEP-E-20260814-A%20Survey%20of%20Trustworthy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* | Wu, Bingzhe; Li, Jintang; Yu, Junchi; Bian, Yatao; Zhang, Hengtong; Chen, CHaochao; Hou, Chengbin; Fu, Guoji; Chen, Liang; Xu, Tingyang; Rong, Yu; Zheng, Xiaolin; Huang, Junzhou; He, Ran; Wu, Baoyuan; Sun, GUangyu; Cui, Peng; Zheng, Zibin; Liu, Zhe; Zhao, Peilin | [arXiv:2205.10014](https://arxiv.org/abs/2205.10014) - [DOI](https://doi.org/10.48550/arXiv.2205.10014) |
