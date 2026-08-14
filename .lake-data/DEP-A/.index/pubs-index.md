@@ -7960,3 +7960,12 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory* | Albert Sadowski; Jarosław A. Chudziak | [arXiv:2604.03588v3](https://arxiv.org/abs/2604.03588v3) - [DOI](https://doi.org/10.48550/arXiv.2604.03588) |
+
+
+## [DEP-A-20260815-Omni SimpleMem](../DEP-A-20260815-Omni%20SimpleMem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2604.01007-whitepaper-review.md`](../DEP-A-20260815-Omni%20SimpleMem/2604.01007-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory* | Jiaqi Liu; Zipeng Ling; Shi Qiu; Yanqing Liu; Siwei Han; Peng Xia; Haoqin Tu; Zeyu Zheng; Cihang Xie; Charles Fleming; Mingyu Ding; Huaxiu Yao | [arXiv:2604.01007v2](https://arxiv.org/abs/2604.01007v2) - [DOI](https://doi.org/10.48550/arXiv.2604.01007) |
