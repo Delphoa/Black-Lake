@@ -7978,3 +7978,12 @@ Review status: substantively reviewed from the complete arXiv v4 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemFactory: Unified Inference & Training Framework for Agent Memory* | Ziliang Guo; Ziheng Li; Bo Tang; Feiyu Xiong; Zhiyu Li | [arXiv:2603.29493v4](https://arxiv.org/abs/2603.29493v4) - [DOI](https://doi.org/10.48550/arXiv.2603.29493) |
+
+
+## [DEP-A-20260815-RIMS Small RAG](../DEP-A-20260815-RIMS%20Small%20RAG/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2607.16431-whitepaper-review.md`](../DEP-A-20260815-RIMS%20Small%20RAG/2607.16431-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation* | Pei Tian; Zihan Dong; Tianci Liu; Linjun Zhang; Haoyu Wang | [arXiv:2607.16431v1](https://arxiv.org/abs/2607.16431v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16431) |
