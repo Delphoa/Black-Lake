@@ -8076,3 +8076,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* | Wu, Bingzhe; Li, Jintang; Yu, Junchi; Bian, Yatao; Zhang, Hengtong; Chen, CHaochao; Hou, Chengbin; Fu, Guoji; Chen, Liang; Xu, Tingyang; Rong, Yu; Zheng, Xiaolin; Huang, Junzhou; He, Ran; Wu, Baoyuan; Sun, GUangyu; Cui, Peng; Zheng, Zibin; Liu, Zhe; Zhao, Peilin | [arXiv:2205.10014](https://arxiv.org/abs/2205.10014) - [DOI](https://doi.org/10.48550/arXiv.2205.10014) |
+
+## [DEP-A-20260815-Bias Behind the Intake](../DEP-A-20260815-Bias%20Behind%20the%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-Bias%20Behind%20the%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bias Behind the Wheel: Fairness Testing of Autonomous Driving Systems* | Li, Xinyue; Chen, Zhenpeng; Zhang, Jie M.; Sarro, Federica; Zhang, Ying; Liu, Xuanzhe | [arXiv:2308.02935](https://arxiv.org/abs/2308.02935) - [DOI](https://doi.org/10.48550/arXiv.2308.02935) |
