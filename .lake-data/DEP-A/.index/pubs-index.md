@@ -8124,3 +8124,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving* | Yang, Huitong; Bai, Xuyang; Zhu, Xinge; Ma, Yuexin | [arXiv:2304.00525](https://arxiv.org/abs/2304.00525) - [DOI](https://doi.org/10.48550/arXiv.2304.00525) |
+
+## [DEP-A-20260815-Open vocabulary Intake](../DEP-A-20260815-Open%20vocabulary%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-Open%20vocabulary%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Open-vocabulary Panoptic Segmentation with Embedding Modulation* | Chen, Xi; Li, Shuang; Lim, Ser-Nam; Torralba, Antonio; Zhao, Hengshuang | [arXiv:2303.11324](https://arxiv.org/abs/2303.11324) - [DOI](https://doi.org/10.48550/arXiv.2303.11324) |
