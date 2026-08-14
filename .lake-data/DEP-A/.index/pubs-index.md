@@ -8140,3 +8140,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Privacy-Preserving Federated Unlearning with Certified Client Removal* | Liu, Ziyao; Ye, Huanyi; Jiang, Yu; Shen, Jiyuan; Guo, Jiale; Tjuawinata, Ivan; Lam, Kwok-Yan | [arXiv:2404.09724](https://arxiv.org/abs/2404.09724) - [DOI](https://doi.org/10.48550/arXiv.2404.09724) |
+
+## [DEP-A-20260815-RealCamo Boosting Intake](../DEP-A-20260815-RealCamo%20Boosting%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-RealCamo%20Boosting%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance* | Chen, Chunyuan; Cai, Yunuo; Li, Shujuan; Liang, Weiyun; Wang, Bin; Xu, Jing | [arXiv:2512.22974](https://arxiv.org/abs/2512.22974) - [DOI](https://doi.org/10.48550/arXiv.2512.22974) |
