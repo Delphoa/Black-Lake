@@ -7888,3 +7888,12 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention* | Chen, Yiwen; Li, Zhihao; Wang, Yikai; Zhang, Hu; Li, Qin; Zhang, Chi; Lin, Guosheng | [arXiv:2507.17745](https://arxiv.org/abs/2507.17745) - [DOI](https://doi.org/10.48550/arXiv.2507.17745) |
+
+
+## [DEP-A-20260815-Shapley Context Prune](../DEP-A-20260815-Shapley%20Context%20Prune/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2607.16209-whitepaper-review.md`](../DEP-A-20260815-Shapley%20Context%20Prune/2607.16209-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Shapley Context Pruning: A Cooperative Game Perspective for Context Reranking and Pruning* | Yanqiao Chen; Dongsheng Hou; Yuhan Rui; Zhen Cao; Yepang Liu | [arXiv:2607.16209v1](https://arxiv.org/abs/2607.16209v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16209) |
