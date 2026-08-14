@@ -7942,3 +7942,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms* | Jinghao Luo; Yuchen Tian; Chuxue Cao; Ziyang Luo; Hongzhan Lin; Kaixin Li; Chuyi Kong; Ruichao Yang; Jing Ma | [arXiv:2605.06716v1](https://arxiv.org/abs/2605.06716v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06716) |
+
+
+## [DEP-A-20260815-HeLa Mem](../DEP-A-20260815-HeLa%20Mem/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2604.16839-whitepaper-review.md`](../DEP-A-20260815-HeLa%20Mem/2604.16839-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents* | Jinchang Zhu; Jindong Li; Cheng Zhang; Jiahong Liu; Menglin Yang | [arXiv:2604.16839v1](https://arxiv.org/abs/2604.16839v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16839) |
