@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **685 publication reviews across 358 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-10; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **695 publication reviews across 359 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-14; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260815-Agent Context Systems](../DEP-E-20260815-Agent%20Context%20Systems/README.md)
+
+| Publication | Authors or credited organization | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Introducing Gemini 3.5 Flash Cyber* | Raluca Ada Popa; Four Flynn | [Google DeepMind](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Kimi K3: Open Frontier Intelligence* | Tongtong Bai; Yifan Bai; Yiping Bao; *et al.* | [arXiv:2607.24653v2](https://arxiv.org/abs/2607.24653) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding* | Hangjie Yuan; Yichen Qian; Zhiwei Tang; *et al.* | [arXiv:2607.24743v2](https://arxiv.org/abs/2607.24743) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents* | Arseny Kravchenko; Vadim Liventsev; Innokentii Konstantinov; *et al.* | [arXiv:2607.24625v1](https://arxiv.org/abs/2607.24625) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *KAP: Bridging the Knowledge Selection–Runtime Consumption Gap in LLM Systems* | Shuo Wang; Fang Xi; Wenyuan Huang; *et al.* | [arXiv:2607.24260v1](https://arxiv.org/abs/2607.24260) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory* | Ruizhe Li; Mingxuan Du; Benfeng Xu; Zhendong Mao | [arXiv:2607.24368v1](https://arxiv.org/abs/2607.24368) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents* | Diandian Guo; Cong Cao; Fangfang Yuan; Yingqi Wang; Yueshan Wang; Dakui Wang | [arXiv:2607.24300v1](https://arxiv.org/abs/2607.24300) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation* | Tan T. Nguyen; Quan V. Dang | [arXiv:2607.24331v1](https://arxiv.org/abs/2607.24331) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Data Pyramid for Embodied Manipulation: A Survey* | Yifan Ye; Yankai Fu; Yaoxu Lv; *et al.* | [arXiv:2607.24744v2](https://arxiv.org/abs/2607.24744) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
+| *Experimental Protocol Fingerprinting in Quantum Networks via Physical Layer Side Channel Analysis* | Lance Young; Contessa Wilburn; Carrie Houston; *et al.* | [arXiv:2607.24624](https://arxiv.org/abs/2607.24624) | [DEP-E](../DEP-E-20260815-Agent%20Context%20Systems/README.md) |
 
 ## [DEP-E-20260814-Agentic Evaluation](../DEP-E-20260814-Agentic%20Evaluation/README.md)
 
