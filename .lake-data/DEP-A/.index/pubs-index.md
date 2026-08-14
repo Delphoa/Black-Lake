@@ -8032,3 +8032,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ToolChain-CRC: Conformal Risk Control for Agentic AI Under Retrieval and Tool-Use Drift* | Jeffery Opoku; David Banahene | [arXiv:2606.18467v1](https://arxiv.org/abs/2606.18467v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18467) |
+
+
+## [DEP-A-20260815-HijackKV Cache Threat](../DEP-A-20260815-HijackKV%20Cache%20Threat/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2607.19957-whitepaper-review.md`](../DEP-A-20260815-HijackKV%20Cache%20Threat/2607.19957-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HijackKV: New Threat in Position-Independent KV Cache Reuse* | Yichi Zhang; Zhiqi Wang; Huan Zhang; Yuchen Yang | [arXiv:2607.19957v1](https://arxiv.org/abs/2607.19957v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19957) |
