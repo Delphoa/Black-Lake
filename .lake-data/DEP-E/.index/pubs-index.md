@@ -2976,3 +2976,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites* | Chen, Zhe; Wang, Weiyun; Tian, Hao; Ye, Shenglong; Gao, Zhangwei; Cui, Erfei; Tong, Wenwen; Hu, Kongzhi; Luo, Jiapeng; Ma, Zheng; Ma, Ji; Wang, Jiaqi; Dong, Xiaoyi; Yan, Hang; Guo, Hewei; He, Conghui; Shi, Botian; Jin, Zhenjiang; Xu, Chao; Wang, Bin; Wei, Xingjian; Li, Wei; Zhang, Wenjian; Zhang, Bo; Cai, Pinlong; Wen, Licheng; Yan, Xiangchao; Dou, Min; Lu, Lewei; Zhu, Xizhou; Lu, Tong; Lin, Dahua; Qiao, Yu; Dai, Jifeng; Wang, Wenhai | [arXiv:2404.16821](https://arxiv.org/abs/2404.16821) - [DOI](https://doi.org/10.48550/arXiv.2404.16821) |
+
+
+## [DEP-E-20260814-Bias Behind the Wheel](../DEP-E-20260814-Bias%20Behind%20the%20Wheel/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bias Behind the Wheel: Fairness Testing of Autonomous Driving Systems* | Li, Xinyue; Chen, Zhenpeng; Zhang, Jie M.; Sarro, Federica; Zhang, Ying; Liu, Xuanzhe | [arXiv:2308.02935](https://arxiv.org/abs/2308.02935) - [DOI](https://doi.org/10.48550/arXiv.2308.02935) |
