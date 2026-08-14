@@ -3039,3 +3039,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* | Wu, Bingzhe; Li, Jintang; Yu, Junchi; Bian, Yatao; Zhang, Hengtong; Chen, CHaochao; Hou, Chengbin; Fu, Guoji; Chen, Liang; Xu, Tingyang; Rong, Yu; Zheng, Xiaolin; Huang, Junzhou; He, Ran; Wu, Baoyuan; Sun, GUangyu; Cui, Peng; Zheng, Zibin; Liu, Zhe; Zhao, Peilin | [arXiv:2205.10014](https://arxiv.org/abs/2205.10014) - [DOI](https://doi.org/10.48550/arXiv.2205.10014) |
+
+
+## [DEP-E-20260814-Exploiting contextual](../DEP-E-20260814-Exploiting%20contextual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploiting contextual information to improve stance detection in informal political discourse with LLMs* | Sucu, Arman Engin; Zhou, Yixiang; Nascimento, Mario A.; Mullen, Tony | [arXiv:2602.04750](https://arxiv.org/abs/2602.04750) - [DOI](https://doi.org/10.18653/v1/2025.acl-srw.86) |
