@@ -7924,3 +7924,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Game-Theoretic Latent Space Alignment for Multi-user Semantic MIMO Communications* | Giuseppe Di Poce; Mattia Merluzzi; Emilio Calvanese Strinati; Paolo Di Lorenzo | [arXiv:2606.12005v1](https://arxiv.org/abs/2606.12005v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12005) |
+
+
+## [DEP-A-20260815-TOIB Semantic Comms](../DEP-A-20260815-TOIB%20Semantic%20Comms/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2604.11053-whitepaper-review.md`](../DEP-A-20260815-TOIB%20Semantic%20Comms/2604.11053-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TOIB: Task-Oriented Orthogonalised Information Bottleneck for Distributed Semantic Communication* | Jiaxiang Wang; Zhaohui Yang; Yahao Ding; Ye Hu; Mohammad Shikh-Bahaei | [arXiv:2604.11053v1](https://arxiv.org/abs/2604.11053v1) - [DOI](https://doi.org/10.48550/arXiv.2604.11053) |
