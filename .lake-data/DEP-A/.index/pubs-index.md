@@ -8108,3 +8108,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation* | Li, Yang; Liu, Kangbo; Wu, Yaoxin; Wang, Zhaoxuan; Cambria, Erik; Wang, Xiaoxu | [arXiv:2312.11018](https://arxiv.org/abs/2312.11018) - [DOI](https://doi.org/10.48550/arXiv.2312.11018) |
+
+## [DEP-A-20260815-Nonconvex Intake](../DEP-A-20260815-Nonconvex%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-Nonconvex%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview* | Chi, Yuejie; Lu, Yue M.; Chen, Yuxin | [arXiv:1809.09573](https://arxiv.org/abs/1809.09573) - [DOI](https://doi.org/10.1109/TSP.2019.2937282) |
