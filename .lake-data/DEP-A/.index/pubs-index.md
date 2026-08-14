@@ -7915,3 +7915,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models* | Jianwei Zhang; Chaoning Zhang; Sihan Cao; Wang Liu; Pengcheng Zheng; Jiaxin Huang; Caiyan Qin; Yalan Ye; Wei Dong; Yang Yang | [arXiv:2604.04972v1](https://arxiv.org/abs/2604.04972v1) - [DOI](https://doi.org/10.48550/arXiv.2604.04972) |
+
+
+## [DEP-A-20260815-Semantic MIMO Game](../DEP-A-20260815-Semantic%20MIMO%20Game/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2606.12005-whitepaper-review.md`](../DEP-A-20260815-Semantic%20MIMO%20Game/2606.12005-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Game-Theoretic Latent Space Alignment for Multi-user Semantic MIMO Communications* | Giuseppe Di Poce; Mattia Merluzzi; Emilio Calvanese Strinati; Paolo Di Lorenzo | [arXiv:2606.12005v1](https://arxiv.org/abs/2606.12005v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12005) |
