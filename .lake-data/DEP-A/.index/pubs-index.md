@@ -8116,3 +8116,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview* | Chi, Yuejie; Lu, Yue M.; Chen, Yuxin | [arXiv:1809.09573](https://arxiv.org/abs/1809.09573) - [DOI](https://doi.org/10.1109/TSP.2019.2937282) |
+
+## [DEP-A-20260815-One Training for Intake](../DEP-A-20260815-One%20Training%20for%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260815-One%20Training%20for%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving* | Yang, Huitong; Bai, Xuyang; Zhu, Xinge; Ma, Yuexin | [arXiv:2304.00525](https://arxiv.org/abs/2304.00525) - [DOI](https://doi.org/10.48550/arXiv.2304.00525) |
