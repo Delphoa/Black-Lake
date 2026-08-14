@@ -8014,3 +8014,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges* | Yuchao Wu; Junqin Li; XingCheng Liang; Yongjie Chen; Yinghao Liang; Linyuan Mo; Guanxian Li | [arXiv:2606.15971v1](https://arxiv.org/abs/2606.15971v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15971) |
+
+
+## [DEP-A-20260815-MODE RAG Evaluation](../DEP-A-20260815-MODE%20RAG%20Evaluation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-15. The owning review artifact is [`2606.17449-whitepaper-review.md`](../DEP-A-20260815-MODE%20RAG%20Evaluation/2606.17449-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation* | Zehang Wei; Jiaxin Dai; Jiamin Yan; Xiang Xiang | [arXiv:2606.17449v1](https://arxiv.org/abs/2606.17449v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17449) |
