@@ -6070,6 +6070,29 @@
         "https://doi.org/10.1109/TSP.2019.2937282"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-One Training for Multiple",
+        ".logs/20260814-Arxiv-One-Training-for-Multiple-Deployments-Polar-LOG.md",
+        ".reports/BL-Arxiv-One-Training-for-Multiple-Deployments-Polar-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2304.00525",
+      "arxiv_id": "2304.00525",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2304.00525",
+      "normalized_title": "One Training for Multiple Deployments: Polar-based Adaptive BEV Perception for Autonomous Driving",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P05; draw 15866 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "One-Training-for-Multiple-Deployments-Polar",
+      "source_urls": [
+        "https://arxiv.org/abs/2304.00525",
+        "https://arxiv.org/html/2304.00525",
+        "https://arxiv.org/pdf/2304.00525",
+        "https://doi.org/10.48550/arXiv.2304.00525"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
