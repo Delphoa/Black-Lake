@@ -8283,3 +8283,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GAM: Hierarchical Graph-based Agentic Memory for LLM Agents* | Zhaofen Wu; Hanrong Zhang; Fulin Lin; Wujiang Xu; Xinran Xu; Yankai Chen; Henry Peng Zou; Shaowen Chen; Weizhi Zhang; Xue Liu; Philip S. Yu; Hongwei Wang | [arXiv:2604.12285v1](https://arxiv.org/abs/2604.12285v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12285) |
+
+
+## [DEP-A-20260816-Retrievable Gradients](../DEP-A-20260816-Retrievable%20Gradients/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2606.15734-whitepaper-review.md`](../DEP-A-20260816-Retrievable%20Gradients/2606.15734-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift* | Weihang Su; Jiacheng Kang; Jingyan Xu; Qingyao Ai; Jianming Long; Hanwen Zhang; Bangde Du; Xinyuan Cao; Min Zhang; Yiqun Liu | [arXiv:2606.15734v1](https://arxiv.org/abs/2606.15734v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15734) |
