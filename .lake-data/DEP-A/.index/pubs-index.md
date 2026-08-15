@@ -8238,3 +8238,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Is External Database Protection Static in Retrieval-Augmented Generation? Rethinking Privacy Preservation under Dynamic Queries* | Gang Zhang; Mingyu Tian; Xukun Luan; Yuanchi Ma; Jinyan Liu | [arXiv:2607.14811v1](https://arxiv.org/abs/2607.14811v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14811) |
+
+
+## [DEP-A-20260816-PIER Env Retrieval](../DEP-A-20260816-PIER%20Env%20Retrieval/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.20230-whitepaper-review.md`](../DEP-A-20260816-PIER%20Env%20Retrieval/2607.20230-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling* | Shiyuan Luo; Runlong Yu; Chonghao Qiu; Yue Qin; Rahul Ghosh; Robert Ladwig; Paul C. Hanson; Yiqun Xie; Xiaowei Jia | [arXiv:2607.20230v1](https://arxiv.org/abs/2607.20230v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20230) |
