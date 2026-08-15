@@ -8229,3 +8229,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAGAL: A Frugal, Fully Local Retrieval-Augmented Assistant for Technical Support at a Government Agency* | Dan Musetoiu | [arXiv:2607.18756v1](https://arxiv.org/abs/2607.18756v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18756) |
+
+
+## [DEP-A-20260816-Dynamic RAG Privacy](../DEP-A-20260816-Dynamic%20RAG%20Privacy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.14811-whitepaper-review.md`](../DEP-A-20260816-Dynamic%20RAG%20Privacy/2607.14811-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is External Database Protection Static in Retrieval-Augmented Generation? Rethinking Privacy Preservation under Dynamic Queries* | Gang Zhang; Mingyu Tian; Xukun Luan; Yuanchi Ma; Jinyan Liu | [arXiv:2607.14811v1](https://arxiv.org/abs/2607.14811v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14811) |
