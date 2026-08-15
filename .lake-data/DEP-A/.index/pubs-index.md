@@ -8157,3 +8157,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prune, Update and Trim: Robust Structured Pruning for Large Language Models* | Diego Coello de Portugal Mecke; Tom Hanika; Lars Schmidt-Thieme | [arXiv:2605.18331v2](https://arxiv.org/abs/2605.18331v2) - [DOI](https://doi.org/10.48550/arXiv.2605.18331) |
+
+
+## [DEP-A-20260816-Signed FFN Writes](../DEP-A-20260816-Signed%20FFN%20Writes/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.16254-whitepaper-review.md`](../DEP-A-20260816-Signed%20FFN%20Writes/2607.16254-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *More Than Memory: Task-Conditioned Signed FFN Writes in Long-Context Retrieval* | Zhibo Yang | [arXiv:2607.16254v1](https://arxiv.org/abs/2607.16254v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16254) |
