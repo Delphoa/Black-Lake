@@ -8274,3 +8274,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Contextual Agentic Memory is a Memo, Not True Memory* | Binyan Xu; Xilin Dai; Kehuan Zhang | [arXiv:2604.27707v1](https://arxiv.org/abs/2604.27707v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27707) |
+
+
+## [DEP-A-20260816-GAM Graph Memory](../DEP-A-20260816-GAM%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2604.12285-whitepaper-review.md`](../DEP-A-20260816-GAM%20Graph%20Memory/2604.12285-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GAM: Hierarchical Graph-based Agentic Memory for LLM Agents* | Zhaofen Wu; Hanrong Zhang; Fulin Lin; Wujiang Xu; Xinran Xu; Yankai Chen; Henry Peng Zou; Shaowen Chen; Weizhi Zhang; Xue Liu; Philip S. Yu; Hongwei Wang | [arXiv:2604.12285v1](https://arxiv.org/abs/2604.12285v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12285) |
