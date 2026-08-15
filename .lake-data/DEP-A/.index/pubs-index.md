@@ -8184,3 +8184,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results* | Yanyu Chen; Yue Li; Yongyi Cui; Dongsheng Shi; Lichang Dai | [arXiv:2607.20090v1](https://arxiv.org/abs/2607.20090v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20090) |
+
+
+## [DEP-A-20260816-Causal Vector Policy](../DEP-A-20260816-Causal%20Vector%20Policy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.18225-whitepaper-review.md`](../DEP-A-20260816-Causal%20Vector%20Policy/2607.18225-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference* | Masahiro Kato; Taka Kato | [arXiv:2607.18225v1](https://arxiv.org/abs/2607.18225v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18225) |
