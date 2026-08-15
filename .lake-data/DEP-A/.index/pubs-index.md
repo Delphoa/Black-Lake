@@ -8148,3 +8148,12 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance* | Chen, Chunyuan; Cai, Yunuo; Li, Shujuan; Liang, Weiyun; Wang, Bin; Xu, Jing | [arXiv:2512.22974](https://arxiv.org/abs/2512.22974) - [DOI](https://doi.org/10.48550/arXiv.2512.22974) |
+
+
+## [DEP-A-20260816-Putri LLM Pruning](../DEP-A-20260816-Putri%20LLM%20Pruning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2605.18331-whitepaper-review.md`](../DEP-A-20260816-Putri%20LLM%20Pruning/2605.18331-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prune, Update and Trim: Robust Structured Pruning for Large Language Models* | Diego Coello de Portugal Mecke; Tom Hanika; Lars Schmidt-Thieme | [arXiv:2605.18331v2](https://arxiv.org/abs/2605.18331v2) - [DOI](https://doi.org/10.48550/arXiv.2605.18331) |
