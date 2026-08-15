@@ -8336,3 +8336,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agentic Design of Compositional Machines* | Zhang, Wenqian; Liu, Weiyang; Liu, Zhen | [arXiv:2510.14980](https://arxiv.org/abs/2510.14980) - [DOI](https://doi.org/10.48550/arXiv.2510.14980) |
+
+## [DEP-A-20260816-Disentangled Intake](../DEP-A-20260816-Disentangled%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-Disentangled%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Disentangled Knowledge Tracing for Alleviating Cognitive Bias* | Zhou, Yiyun; Lv, Zheqi; Zhang, Shengyu; Chen, Jingyuan | [arXiv:2503.02539](https://arxiv.org/abs/2503.02539) - [DOI](https://doi.org/10.48550/arXiv.2503.02539) |
