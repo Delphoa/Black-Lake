@@ -3075,3 +3075,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design* | Wu, Yuchao; Yu, Xiaofei; Chen, Hao; Luo, Yang; Tong, Yeyu; Ma, Yuzhe | [arXiv:2502.03159](https://arxiv.org/abs/2502.03159) - [DOI](https://doi.org/10.48550/arXiv.2502.03159) |
+
+
+## [DEP-E-20260815-The Clock and the Pizza](../DEP-E-20260815-The%20Clock%20and%20the%20Pizza/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks* | Zhong, Ziqian; Liu, Ziming; Tegmark, Max; Andreas, Jacob | [arXiv:2306.17844](https://arxiv.org/abs/2306.17844) - [DOI](https://doi.org/10.48550/arXiv.2306.17844) |
