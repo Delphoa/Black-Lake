@@ -8292,3 +8292,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift* | Weihang Su; Jiacheng Kang; Jingyan Xu; Qingyao Ai; Jianming Long; Hanwen Zhang; Bangde Du; Xinyuan Cao; Min Zhang; Yiqun Liu | [arXiv:2606.15734v1](https://arxiv.org/abs/2606.15734v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15734) |
+
+
+## [DEP-A-20260816-Codec Gauge KV](../DEP-A-20260816-Codec%20Gauge%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.20538-whitepaper-review.md`](../DEP-A-20260816-Codec%20Gauge%20KV/2607.20538-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Codec-Gauge: Learning Compression-Friendly Gauges for Transformer KV Caches* | Yitao Jiang; Yaoqing Yang; Luyang Zhao; Muhao Chen; Devin Balkcom | [arXiv:2607.20538v1](https://arxiv.org/abs/2607.20538v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20538) |
