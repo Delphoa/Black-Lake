@@ -8175,3 +8175,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OTRO: Oblivious Tokenization Path with Square-Root ORAM* | Jonghyun Lee; Yongqin Wang; Rachit Rajat; Daniel Wong; Mengyuan Li; Murali Annavaram | [arXiv:2606.17358v2](https://arxiv.org/abs/2606.17358v2) - [DOI](https://doi.org/10.48550/arXiv.2606.17358) |
+
+
+## [DEP-A-20260816-Selective Evidence RL](../DEP-A-20260816-Selective%20Evidence%20RL/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.20090-whitepaper-review.md`](../DEP-A-20260816-Selective%20Evidence%20RL/2607.20090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results* | Yanyu Chen; Yue Li; Yongyi Cui; Dongsheng Shi; Lichang Dai | [arXiv:2607.20090v1](https://arxiv.org/abs/2607.20090v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20090) |
