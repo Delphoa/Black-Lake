@@ -8202,3 +8202,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Diagnosing and Repairing Factual Errors in RAG under Budget Constraints* | Soroush Hashemifar; Havva Alizadeh Noughabi; Fattane Zarrinkalam; Ali Dehghantanha | [arXiv:2606.29377v1](https://arxiv.org/abs/2606.29377v1) - [DOI](https://doi.org/10.48550/arXiv.2606.29377) |
+
+
+## [DEP-A-20260816-Agentic RAG Ablation](../DEP-A-20260816-Agentic%20RAG%20Ablation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2606.21553-whitepaper-review.md`](../DEP-A-20260816-Agentic%20RAG%20Ablation/2606.21553-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model* | Sheroz Shaikh | [arXiv:2606.21553v1](https://arxiv.org/abs/2606.21553v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21553) |
