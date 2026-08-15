@@ -3082,3 +3082,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks* | Zhong, Ziqian; Liu, Ziming; Tegmark, Max; Andreas, Jacob | [arXiv:2306.17844](https://arxiv.org/abs/2306.17844) - [DOI](https://doi.org/10.48550/arXiv.2306.17844) |
+
+
+## [DEP-E-20260815-Over-the-Air](../DEP-E-20260815-Over-the-Air/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Over-the-Air Decentralized Federated Learning* | Shi, Yandong; Zhou, Yong; Shi, Yuanming | [arXiv:2106.08011](https://arxiv.org/abs/2106.08011) - [DOI](https://doi.org/10.48550/arXiv.2106.08011) |
