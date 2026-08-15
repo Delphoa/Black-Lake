@@ -3103,3 +3103,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Disentangled Knowledge Tracing for Alleviating Cognitive Bias* | Zhou, Yiyun; Lv, Zheqi; Zhang, Shengyu; Chen, Jingyuan | [arXiv:2503.02539](https://arxiv.org/abs/2503.02539) - [DOI](https://doi.org/10.48550/arXiv.2503.02539) |
+
+
+## [DEP-E-20260815-Hierarchical Perceptual](../DEP-E-20260815-Hierarchical%20Perceptual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Perceptual Noise Injection for Social Media Fingerprint Privacy Protection* | Li, Simin; Xu, Huangxinxin; Wang, Jiakai; Liu, Aishan; He, Fazhi; Liu, Xianglong; Tao, Dacheng | [arXiv:2208.10688](https://arxiv.org/abs/2208.10688) - [DOI](https://doi.org/10.48550/arXiv.2208.10688) |
