@@ -8211,3 +8211,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model* | Sheroz Shaikh | [arXiv:2606.21553v1](https://arxiv.org/abs/2606.21553v1) - [DOI](https://doi.org/10.48550/arXiv.2606.21553) |
+
+
+## [DEP-A-20260816-Modality Escalation](../DEP-A-20260816-Modality%20Escalation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.05438-whitepaper-review.md`](../DEP-A-20260816-Modality%20Escalation/2607.05438-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG* | Xue Li; Yiming Gai | [arXiv:2607.05438v1](https://arxiv.org/abs/2607.05438v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05438) |
