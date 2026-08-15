@@ -8392,3 +8392,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Residual Distribution in Locate-then-Edit Model Editing* | Li, Xiaopeng; Wang, Shanwen; Li, Shasha; Song, Shezheng; Ji, Bin; Ma, Jun; Yu, Jie | [arXiv:2502.03748](https://arxiv.org/abs/2502.03748) - [DOI](https://doi.org/10.48550/arXiv.2502.03748) |
+
+## [DEP-A-20260816-RoboHanger Intake](../DEP-A-20260816-RoboHanger%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-RoboHanger%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments* | Chen, Yuxing; Wei, Songlin; Xiao, Bowen; Lyu, Jiangran; Chen, Jiayi; Zhu, Feng; Wang, He | [arXiv:2412.01083](https://arxiv.org/abs/2412.01083) - [DOI](https://doi.org/10.48550/arXiv.2412.01083) |
