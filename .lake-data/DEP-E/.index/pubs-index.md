@@ -3117,3 +3117,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Residual Distribution in Locate-then-Edit Model Editing* | Li, Xiaopeng; Wang, Shanwen; Li, Shasha; Song, Shezheng; Ji, Bin; Ma, Jun; Yu, Jie | [arXiv:2502.03748](https://arxiv.org/abs/2502.03748) - [DOI](https://doi.org/10.48550/arXiv.2502.03748) |
+
+
+## [DEP-E-20260815-Does Travel Stage Matter](../DEP-E-20260815-Does%20Travel%20Stage%20Matter/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Does Travel Stage Matter? How Leisure Travellers Perceive Their Privacy Attitudes Towards Personal Data Sharing Before, During, and After Travel* | Yuan, Haiyue; Li, Shujun; Gillani, Fatima; Ma, Xiao | [arXiv:2603.01992](https://arxiv.org/abs/2603.01992) - [DOI](https://doi.org/10.48550/arXiv.2603.01992) |
