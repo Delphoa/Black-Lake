@@ -8220,3 +8220,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG* | Xue Li; Yiming Gai | [arXiv:2607.05438v1](https://arxiv.org/abs/2607.05438v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05438) |
+
+
+## [DEP-A-20260816-RAGAL Local Support](../DEP-A-20260816-RAGAL%20Local%20Support/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.18756-whitepaper-review.md`](../DEP-A-20260816-RAGAL%20Local%20Support/2607.18756-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGAL: A Frugal, Fully Local Retrieval-Augmented Assistant for Technical Support at a Government Agency* | Dan Musetoiu | [arXiv:2607.18756v1](https://arxiv.org/abs/2607.18756v1) - [DOI](https://doi.org/10.48550/arXiv.2607.18756) |
