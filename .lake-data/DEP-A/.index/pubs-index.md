@@ -8265,3 +8265,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture* | Samuel L Pugh; Eric Yang; Alexander Muir Sutherland; Alessandra Breschi | [arXiv:2604.27045v1](https://arxiv.org/abs/2604.27045v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27045) |
+
+
+## [DEP-A-20260816-Memo Not Memory](../DEP-A-20260816-Memo%20Not%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2604.27707-whitepaper-review.md`](../DEP-A-20260816-Memo%20Not%20Memory/2604.27707-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contextual Agentic Memory is a Memo, Not True Memory* | Binyan Xu; Xilin Dai; Kehuan Zhang | [arXiv:2604.27707v1](https://arxiv.org/abs/2604.27707v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27707) |
