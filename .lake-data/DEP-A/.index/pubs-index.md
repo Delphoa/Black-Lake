@@ -8310,3 +8310,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Error Certificates for KV-Cache Eviction via Randomized Design* | Peng Xie | [arXiv:2607.21475v1](https://arxiv.org/abs/2607.21475v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21475) |
+
+
+## [DEP-A-20260816-Windowed MTP](../DEP-A-20260816-Windowed%20MTP/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.21535-whitepaper-review.md`](../DEP-A-20260816-Windowed%20MTP/2607.21535-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context* | Alagappan Valliappan | [arXiv:2607.21535v1](https://arxiv.org/abs/2607.21535v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21535) |
