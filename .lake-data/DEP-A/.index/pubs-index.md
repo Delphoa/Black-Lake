@@ -8400,3 +8400,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments* | Chen, Yuxing; Wei, Songlin; Xiao, Bowen; Lyu, Jiangran; Chen, Jiayi; Zhu, Feng; Wang, He | [arXiv:2412.01083](https://arxiv.org/abs/2412.01083) - [DOI](https://doi.org/10.48550/arXiv.2412.01083) |
+
+## [DEP-A-20260816-The Clock and the Intake](../DEP-A-20260816-The%20Clock%20and%20the%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-The%20Clock%20and%20the%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks* | Zhong, Ziqian; Liu, Ziming; Tegmark, Max; Andreas, Jacob | [arXiv:2306.17844](https://arxiv.org/abs/2306.17844) - [DOI](https://doi.org/10.48550/arXiv.2306.17844) |
