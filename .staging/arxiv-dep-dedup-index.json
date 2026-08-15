@@ -6300,6 +6300,29 @@
         "https://doi.org/10.48550/arXiv.2106.08011"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-Agentic Design of",
+        ".logs/20260815-Arxiv-Agentic-Design-of-Compositional-Machines-LOG.md",
+        ".reports/BL-Arxiv-Agentic-Design-of-Compositional-Machines-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.14980",
+      "arxiv_id": "2510.14980",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2510.14980",
+      "normalized_title": "Agentic Design of Compositional Machines",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P05; draw 71933 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Agentic-Design-of-Compositional-Machines",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.14980",
+        "https://arxiv.org/html/2510.14980",
+        "https://arxiv.org/pdf/2510.14980",
+        "https://doi.org/10.48550/arXiv.2510.14980"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

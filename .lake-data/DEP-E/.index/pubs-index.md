@@ -3089,3 +3089,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Over-the-Air Decentralized Federated Learning* | Shi, Yandong; Zhou, Yong; Shi, Yuanming | [arXiv:2106.08011](https://arxiv.org/abs/2106.08011) - [DOI](https://doi.org/10.48550/arXiv.2106.08011) |
+
+
+## [DEP-E-20260815-Agentic Design of](../DEP-E-20260815-Agentic%20Design%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic Design of Compositional Machines* | Zhang, Wenqian; Liu, Weiyang; Liu, Zhen | [arXiv:2510.14980](https://arxiv.org/abs/2510.14980) - [DOI](https://doi.org/10.48550/arXiv.2510.14980) |
