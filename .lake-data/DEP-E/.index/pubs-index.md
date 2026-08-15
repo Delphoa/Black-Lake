@@ -3068,3 +3068,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments* | Chen, Yuxing; Wei, Songlin; Xiao, Bowen; Lyu, Jiangran; Chen, Jiayi; Zhu, Feng; Wang, He | [arXiv:2412.01083](https://arxiv.org/abs/2412.01083) - [DOI](https://doi.org/10.48550/arXiv.2412.01083) |
+
+
+## [DEP-E-20260815-PICBench Benchmarking](../DEP-E-20260815-PICBench%20Benchmarking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design* | Wu, Yuchao; Yu, Xiaofei; Chen, Hao; Luo, Yang; Tong, Yeyu; Ma, Yuzhe | [arXiv:2502.03159](https://arxiv.org/abs/2502.03159) - [DOI](https://doi.org/10.48550/arXiv.2502.03159) |

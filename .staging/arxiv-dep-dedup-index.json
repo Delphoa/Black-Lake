@@ -6231,6 +6231,29 @@
         "https://doi.org/10.48550/arXiv.2412.01083"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking",
+        ".logs/20260815-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-LOG.md",
+        ".reports/BL-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.03159",
+      "arxiv_id": "2502.03159",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2502.03159",
+      "normalized_title": "PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P02; draw 10755 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "PICBench-Benchmarking-LLMs-for-Photonic",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.03159",
+        "https://arxiv.org/html/2502.03159",
+        "https://arxiv.org/pdf/2502.03159",
+        "https://doi.org/10.48550/arXiv.2502.03159"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
