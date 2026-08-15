@@ -8408,3 +8408,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks* | Zhong, Ziqian; Liu, Ziming; Tegmark, Max; Andreas, Jacob | [arXiv:2306.17844](https://arxiv.org/abs/2306.17844) - [DOI](https://doi.org/10.48550/arXiv.2306.17844) |
+
+## [DEP-A-20260816-Prompt Compression Intake](../DEP-A-20260816-Prompt%20Compression%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-Prompt%20Compression%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models* | Huiqiang Jiang; Qianhui Wu; Chin-Yew Lin; Yuqing Yang; Lili Qiu | [arXiv:2310.05736v2](https://arxiv.org/abs/2310.05736); [DOI](https://doi.org/10.48550/arXiv.2310.05736) |
