@@ -8256,3 +8256,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning* | Wenyuan Wang; Lianyu Hu; Hao Wang; Yang Liu | [arXiv:2607.10190v1](https://arxiv.org/abs/2607.10190v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10190) |
+
+
+## [DEP-A-20260816-Clinical Memory Reconcile](../DEP-A-20260816-Clinical%20Memory%20Reconcile/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2604.27045-whitepaper-review.md`](../DEP-A-20260816-Clinical%20Memory%20Reconcile/2604.27045-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture* | Samuel L Pugh; Eric Yang; Alexander Muir Sutherland; Alessandra Breschi | [arXiv:2604.27045v1](https://arxiv.org/abs/2604.27045v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27045) |
