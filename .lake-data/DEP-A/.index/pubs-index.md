@@ -8328,3 +8328,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Independent Optimization: Compression, MoE Routing, and Quantization Interactions in Multimodal Edge Intelligence* | Jay Gor; Karm Dave; Akshita Abrol; Rajesh Gupta; Sudeep Tanwar; Zhengkui Wang | [arXiv:2607.20981v1](https://arxiv.org/abs/2607.20981v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20981) |
+
+## [DEP-A-20260816-Agentic Design of Intake](../DEP-A-20260816-Agentic%20Design%20of%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-Agentic%20Design%20of%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic Design of Compositional Machines* | Zhang, Wenqian; Liu, Weiyang; Liu, Zhen | [arXiv:2510.14980](https://arxiv.org/abs/2510.14980) - [DOI](https://doi.org/10.48550/arXiv.2510.14980) |
