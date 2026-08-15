@@ -8360,3 +8360,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Perceptual Noise Injection for Social Media Fingerprint Privacy Protection* | Li, Simin; Xu, Huangxinxin; Wang, Jiakai; Liu, Aishan; He, Fazhi; Liu, Xianglong; Tao, Dacheng | [arXiv:2208.10688](https://arxiv.org/abs/2208.10688) - [DOI](https://doi.org/10.48550/arXiv.2208.10688) |
+
+## [DEP-A-20260816-Know You First and Intake](../DEP-A-20260816-Know%20You%20First%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-Know%20You%20First%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles* | Wang, Kuang; Li, Xianfei; Yang, Shenghao; Zhou, Li; Jiang, Feng; Li, Haizhou | [arXiv:2502.18968](https://arxiv.org/abs/2502.18968) - [DOI](https://doi.org/10.48550/arXiv.2502.18968) |
