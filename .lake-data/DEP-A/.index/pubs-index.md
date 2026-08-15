@@ -8376,3 +8376,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Over-the-Air Decentralized Federated Learning* | Shi, Yandong; Zhou, Yong; Shi, Yuanming | [arXiv:2106.08011](https://arxiv.org/abs/2106.08011) - [DOI](https://doi.org/10.48550/arXiv.2106.08011) |
+
+## [DEP-A-20260816-PICBench Intake](../DEP-A-20260816-PICBench%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260816-PICBench%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design* | Wu, Yuchao; Yu, Xiaofei; Chen, Hao; Luo, Yang; Tong, Yeyu; Ma, Yuzhe | [arXiv:2502.03159](https://arxiv.org/abs/2502.03159) - [DOI](https://doi.org/10.48550/arXiv.2502.03159) |
