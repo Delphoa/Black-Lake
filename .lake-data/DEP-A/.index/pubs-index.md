@@ -8247,3 +8247,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling* | Shiyuan Luo; Runlong Yu; Chonghao Qiu; Yue Qin; Rahul Ghosh; Robert Ladwig; Paul C. Hanson; Yiqun Xie; Xiaowei Jia | [arXiv:2607.20230v1](https://arxiv.org/abs/2607.20230v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20230) |
+
+
+## [DEP-A-20260816-PhysMRV Verification](../DEP-A-20260816-PhysMRV%20Verification/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.10190-whitepaper-review.md`](../DEP-A-20260816-PhysMRV%20Verification/2607.10190-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning* | Wenyuan Wang; Lianyu Hu; Hao Wang; Yang Liu | [arXiv:2607.10190v1](https://arxiv.org/abs/2607.10190v1) - [DOI](https://doi.org/10.48550/arXiv.2607.10190) |
