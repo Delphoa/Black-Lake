@@ -8319,3 +8319,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context* | Alagappan Valliappan | [arXiv:2607.21535v1](https://arxiv.org/abs/2607.21535v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21535) |
+
+
+## [DEP-A-20260816-Edge Optimization Survey](../DEP-A-20260816-Edge%20Optimization%20Survey/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-16. The owning review artifact is [`2607.20981-whitepaper-review.md`](../DEP-A-20260816-Edge%20Optimization%20Survey/2607.20981-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Independent Optimization: Compression, MoE Routing, and Quantization Interactions in Multimodal Edge Intelligence* | Jay Gor; Karm Dave; Akshita Abrol; Rajesh Gupta; Sudeep Tanwar; Zhengkui Wang | [arXiv:2607.20981v1](https://arxiv.org/abs/2607.20981v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20981) |
