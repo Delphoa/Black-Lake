@@ -6323,6 +6323,29 @@
         "https://doi.org/10.48550/arXiv.2510.14980"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge",
+        ".logs/20260815-Arxiv-Disentangled-Knowledge-Tracing-for-Alleviating-LOG.md",
+        ".reports/BL-Arxiv-Disentangled-Knowledge-Tracing-for-Alleviating-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.02539",
+      "arxiv_id": "2503.02539",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2503.02539",
+      "normalized_title": "Disentangled Knowledge Tracing for Alleviating Cognitive Bias",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P06; draw 38443 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Disentangled-Knowledge-Tracing-for-Alleviating",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.02539",
+        "https://arxiv.org/html/2503.02539",
+        "https://arxiv.org/pdf/2503.02539",
+        "https://doi.org/10.48550/arXiv.2503.02539"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

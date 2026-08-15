@@ -3096,3 +3096,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agentic Design of Compositional Machines* | Zhang, Wenqian; Liu, Weiyang; Liu, Zhen | [arXiv:2510.14980](https://arxiv.org/abs/2510.14980) - [DOI](https://doi.org/10.48550/arXiv.2510.14980) |
+
+
+## [DEP-E-20260815-Disentangled Knowledge](../DEP-E-20260815-Disentangled%20Knowledge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Disentangled Knowledge Tracing for Alleviating Cognitive Bias* | Zhou, Yiyun; Lv, Zheqi; Zhang, Shengyu; Chen, Jingyuan | [arXiv:2503.02539](https://arxiv.org/abs/2503.02539) - [DOI](https://doi.org/10.48550/arXiv.2503.02539) |
