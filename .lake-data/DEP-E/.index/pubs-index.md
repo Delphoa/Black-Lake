@@ -3124,3 +3124,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Does Travel Stage Matter? How Leisure Travellers Perceive Their Privacy Attitudes Towards Personal Data Sharing Before, During, and After Travel* | Yuan, Haiyue; Li, Shujun; Gillani, Fatima; Ma, Xiao | [arXiv:2603.01992](https://arxiv.org/abs/2603.01992) - [DOI](https://doi.org/10.48550/arXiv.2603.01992) |
+
+
+## [DEP-E-20260815-Know You First and Be You](../DEP-E-20260815-Know%20You%20First%20and%20Be%20You/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles* | Wang, Kuang; Li, Xianfei; Yang, Shenghao; Zhou, Li; Jiang, Feng; Li, Haizhou | [arXiv:2502.18968](https://arxiv.org/abs/2502.18968) - [DOI](https://doi.org/10.48550/arXiv.2502.18968) |
