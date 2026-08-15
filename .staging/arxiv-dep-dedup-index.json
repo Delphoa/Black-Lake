@@ -6208,6 +6208,29 @@
         "https://doi.org/10.18653/v1/2025.acl-srw.86"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning",
+        ".logs/20260815-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-LOG.md",
+        ".reports/BL-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.01083",
+      "arxiv_id": "2412.01083",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2412.01083",
+      "normalized_title": "RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P01; draw 55965 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RoboHanger-Learning-Generalizable-Robotic-Hanger",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.01083",
+        "https://arxiv.org/html/2412.01083",
+        "https://arxiv.org/pdf/2412.01083",
+        "https://doi.org/10.48550/arXiv.2412.01083"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -7024,5 +7047,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-14"
+  "updated_date": "2026-08-15"
 }

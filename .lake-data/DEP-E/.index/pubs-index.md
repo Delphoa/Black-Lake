@@ -3061,3 +3061,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploiting contextual information to improve stance detection in informal political discourse with LLMs* | Sucu, Arman Engin; Zhou, Yixiang; Nascimento, Mario A.; Mullen, Tony | [arXiv:2602.04750](https://arxiv.org/abs/2602.04750) - [DOI](https://doi.org/10.18653/v1/2025.acl-srw.86) |
+
+
+## [DEP-E-20260815-RoboHanger Learning](../DEP-E-20260815-RoboHanger%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments* | Chen, Yuxing; Wei, Songlin; Xiao, Bowen; Lyu, Jiangran; Chen, Jiayi; Zhu, Feng; Wang, He | [arXiv:2412.01083](https://arxiv.org/abs/2412.01083) - [DOI](https://doi.org/10.48550/arXiv.2412.01083) |
