@@ -8480,3 +8480,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models* | Shi, Yubin; Chen, Yixuan; Dong, Mingzhi; Yang, Xiaochen; Li, Dongsheng; Wang, Yujiang; Dick, Robert P.; Lv, Qin; Zhao, Yingying; Yang, Fan; Lu, Tun; Gu, Ning; Shang, Li | [arXiv:2405.07527](https://arxiv.org/abs/2405.07527) - [DOI](https://doi.org/10.48550/arXiv.2405.07527) |
+
+## [DEP-A-20260817-Contrastive Vision Intake](../DEP-A-20260817-Contrastive%20Vision%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-Contrastive%20Vision%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention* | Song, Shezheng; Li, Shasha; Yu, Jie | [arXiv:2601.08151](https://arxiv.org/abs/2601.08151) - [DOI](https://doi.org/10.48550/arXiv.2601.08151) |
