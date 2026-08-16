@@ -3179,3 +3179,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model* | Chen, Yuqi; Ren, Kan; Song, Kaitao; Wang, Yansen; Wang, Yifan; Li, Dongsheng; Qiu, Lili | [arXiv:2401.10278](https://arxiv.org/abs/2401.10278) - [DOI](https://doi.org/10.48550/arXiv.2401.10278) |
+
+
+## [DEP-E-20260816-parallelcbf A composable](../DEP-E-20260816-parallelcbf%20A%20composable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning* | Lu, Yijun; Yang, Zilei; Ma, Yuyin | [arXiv:2605.15509](https://arxiv.org/abs/2605.15509) - [DOI](https://doi.org/10.48550/arXiv.2605.15509) |

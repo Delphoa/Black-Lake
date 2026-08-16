@@ -6576,6 +6576,29 @@
         "https://doi.org/10.48550/arXiv.2401.10278"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-parallelcbf A composable",
+        ".logs/20260816-Arxiv-parallelcbf-A-composable-safety-filter-and-LOG.md",
+        ".reports/BL-Arxiv-parallelcbf-A-composable-safety-filter-and-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.15509",
+      "arxiv_id": "2605.15509",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2605.15509",
+      "normalized_title": "parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P07; draw 36065 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "parallelcbf-A-composable-safety-filter-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.15509",
+        "https://arxiv.org/html/2605.15509",
+        "https://arxiv.org/pdf/2605.15509",
+        "https://doi.org/10.48550/arXiv.2605.15509"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
