@@ -6484,6 +6484,29 @@
         "https://doi.org/10.48550/arXiv.2003.00052"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series",
+        ".logs/20260816-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-LOG.md",
+        ".reports/BL-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.19255",
+      "arxiv_id": "2606.19255",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2606.19255",
+      "normalized_title": "SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P03; draw 60194 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SCAN-Enhance-Time-Series-Anomaly-Detection-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.19255",
+        "https://arxiv.org/html/2606.19255",
+        "https://arxiv.org/pdf/2606.19255",
+        "https://doi.org/10.48550/arXiv.2606.19255"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

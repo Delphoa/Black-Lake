@@ -3151,3 +3151,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes* | Lin, Kevin; Wang, Lijuan; Jin, Ying; Liu, Zicheng; Sun, Ming-Ting | [arXiv:2003.00052](https://arxiv.org/abs/2003.00052) - [DOI](https://doi.org/10.48550/arXiv.2003.00052) |
+
+
+## [DEP-E-20260816-SCAN Enhance Time Series](../DEP-E-20260816-SCAN%20Enhance%20Time%20Series/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering* | Zheng, Xingze; Cheng, Hanyin; Wang, Siyuan; Hao, Yiting; Chen, Peng; Jun, Yuan; Shu, Yang | [arXiv:2606.19255](https://arxiv.org/abs/2606.19255) - [DOI](https://doi.org/10.48550/arXiv.2606.19255) |
