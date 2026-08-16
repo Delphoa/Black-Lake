@@ -6507,6 +6507,29 @@
         "https://doi.org/10.48550/arXiv.2606.19255"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet",
+        ".logs/20260816-Arxiv-Where-Does-Vision-Meet-Language-Understanding-LOG.md",
+        ".reports/BL-Arxiv-Where-Does-Vision-Meet-Language-Understanding-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.08151",
+      "arxiv_id": "2601.08151",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2601.08151",
+      "normalized_title": "Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P04; draw 17351 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Where-Does-Vision-Meet-Language-Understanding",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.08151",
+        "https://arxiv.org/html/2601.08151",
+        "https://arxiv.org/pdf/2601.08151",
+        "https://doi.org/10.48550/arXiv.2601.08151"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -3158,3 +3158,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering* | Zheng, Xingze; Cheng, Hanyin; Wang, Siyuan; Hao, Yiting; Chen, Peng; Jun, Yuan; Shu, Yang | [arXiv:2606.19255](https://arxiv.org/abs/2606.19255) - [DOI](https://doi.org/10.48550/arXiv.2606.19255) |
+
+
+## [DEP-E-20260816-Where Does Vision Meet](../DEP-E-20260816-Where%20Does%20Vision%20Meet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention* | Song, Shezheng; Li, Shasha; Yu, Jie | [arXiv:2601.08151](https://arxiv.org/abs/2601.08151) - [DOI](https://doi.org/10.48550/arXiv.2601.08151) |
