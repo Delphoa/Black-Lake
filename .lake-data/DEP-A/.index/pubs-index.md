@@ -8440,3 +8440,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring* | Li, Sizhuo; Gominski, Dimitri; Brandt, Martin; Tong, Xiaoye; Ciais, Philippe | [arXiv:2405.00514](https://arxiv.org/abs/2405.00514) - [DOI](https://doi.org/10.48550/arXiv.2405.00514) |
+
+## [DEP-A-20260817-Human Mesh Intake](../DEP-A-20260817-Human%20Mesh%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-Human%20Mesh%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes* | Lin, Kevin; Wang, Lijuan; Jin, Ying; Liu, Zicheng; Sun, Ming-Ting | [arXiv:2003.00052](https://arxiv.org/abs/2003.00052) - [DOI](https://doi.org/10.48550/arXiv.2003.00052) |
