@@ -8416,3 +8416,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models* | Huiqiang Jiang; Qianhui Wu; Chin-Yew Lin; Yuqing Yang; Lili Qiu | [arXiv:2310.05736v2](https://arxiv.org/abs/2310.05736); [DOI](https://doi.org/10.48550/arXiv.2310.05736) |
+
+## [DEP-A-20260817-DreamGaussian Intake](../DEP-A-20260817-DreamGaussian%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-DreamGaussian%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation* | Tang, Jiaxiang; Ren, Jiawei; Zhou, Hang; Liu, Ziwei; Zeng, Gang | [arXiv:2309.16653](https://arxiv.org/abs/2309.16653) - [DOI](https://doi.org/10.48550/arXiv.2309.16653) |
