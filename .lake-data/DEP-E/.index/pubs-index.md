@@ -3172,3 +3172,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation* | Tang, Jiaxiang; Ren, Jiawei; Zhou, Hang; Liu, Ziwei; Zeng, Gang | [arXiv:2309.16653](https://arxiv.org/abs/2309.16653) - [DOI](https://doi.org/10.48550/arXiv.2309.16653) |
+
+
+## [DEP-E-20260816-EEGFormer Towards](../DEP-E-20260816-EEGFormer%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model* | Chen, Yuqi; Ren, Kan; Song, Kaitao; Wang, Yansen; Wang, Yifan; Li, Dongsheng; Qiu, Lili | [arXiv:2401.10278](https://arxiv.org/abs/2401.10278) - [DOI](https://doi.org/10.48550/arXiv.2401.10278) |
