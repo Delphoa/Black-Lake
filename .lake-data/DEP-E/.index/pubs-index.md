@@ -3186,3 +3186,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning* | Lu, Yijun; Yang, Zilei; Ma, Yuyin | [arXiv:2605.15509](https://arxiv.org/abs/2605.15509) - [DOI](https://doi.org/10.48550/arXiv.2605.15509) |
+
+
+## [DEP-E-20260816-SCAFFOLD-CEGIS Preventing](../DEP-E-20260816-SCAFFOLD-CEGIS%20Preventing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement* | Chen, Yi; Bian, Yun; Wang, Haiquan; Li, Shihao; Cui, Zhe | [arXiv:2603.08520](https://arxiv.org/abs/2603.08520) - [DOI](https://doi.org/10.48550/arXiv.2603.08520) |

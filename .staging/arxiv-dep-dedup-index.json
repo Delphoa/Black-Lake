@@ -6599,6 +6599,29 @@
         "https://doi.org/10.48550/arXiv.2605.15509"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS Preventing",
+        ".logs/20260816-Arxiv-SCAFFOLD-CEGIS-Preventing-Latent-Security-LOG.md",
+        ".reports/BL-Arxiv-SCAFFOLD-CEGIS-Preventing-Latent-Security-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.08520",
+      "arxiv_id": "2603.08520",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2603.08520",
+      "normalized_title": "SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P08; draw 36590 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SCAFFOLD-CEGIS-Preventing-Latent-Security",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.08520",
+        "https://arxiv.org/html/2603.08520",
+        "https://arxiv.org/pdf/2603.08520",
+        "https://doi.org/10.48550/arXiv.2603.08520"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
