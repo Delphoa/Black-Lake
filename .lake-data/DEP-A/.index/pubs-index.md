@@ -8448,3 +8448,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes* | Lin, Kevin; Wang, Lijuan; Jin, Ying; Liu, Zicheng; Sun, Ming-Ting | [arXiv:2003.00052](https://arxiv.org/abs/2003.00052) - [DOI](https://doi.org/10.48550/arXiv.2003.00052) |
+
+## [DEP-A-20260817-Long Term Fair Intake](../DEP-A-20260817-Long%20Term%20Fair%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-Long%20Term%20Fair%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long-Term Fair Decision Making through Deep Generative Models* | Hu, Yaowei; Wu, Yongkai; Zhang, Lu | [arXiv:2401.11288](https://arxiv.org/abs/2401.11288) - [DOI](https://doi.org/10.48550/arXiv.2401.11288) |
