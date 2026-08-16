@@ -3200,3 +3200,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring* | Li, Sizhuo; Gominski, Dimitri; Brandt, Martin; Tong, Xiaoye; Ciais, Philippe | [arXiv:2405.00514](https://arxiv.org/abs/2405.00514) - [DOI](https://doi.org/10.48550/arXiv.2405.00514) |
+
+
+## [DEP-E-20260816-Train Faster Perform](../DEP-E-20260816-Train%20Faster%20Perform/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models* | Shi, Yubin; Chen, Yixuan; Dong, Mingzhi; Yang, Xiaochen; Li, Dongsheng; Wang, Yujiang; Dick, Robert P.; Lv, Qin; Zhao, Yingying; Yang, Fan; Lu, Tun; Gu, Ning; Shang, Li | [arXiv:2405.07527](https://arxiv.org/abs/2405.07527) - [DOI](https://doi.org/10.48550/arXiv.2405.07527) |

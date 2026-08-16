@@ -6645,6 +6645,29 @@
         "https://doi.org/10.48550/arXiv.2405.00514"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Train Faster Perform",
+        ".logs/20260816-Arxiv-Train-Faster-Perform-Better-Modular-Adaptive-LOG.md",
+        ".reports/BL-Arxiv-Train-Faster-Perform-Better-Modular-Adaptive-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.07527",
+      "arxiv_id": "2405.07527",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2405.07527",
+      "normalized_title": "Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P10; draw 60316 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Train-Faster-Perform-Better-Modular-Adaptive",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.07527",
+        "https://arxiv.org/html/2405.07527",
+        "https://arxiv.org/pdf/2405.07527",
+        "https://doi.org/10.48550/arXiv.2405.07527"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
