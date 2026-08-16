@@ -3165,3 +3165,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention* | Song, Shezheng; Li, Shasha; Yu, Jie | [arXiv:2601.08151](https://arxiv.org/abs/2601.08151) - [DOI](https://doi.org/10.48550/arXiv.2601.08151) |
+
+
+## [DEP-E-20260816-DreamGaussian Generative](../DEP-E-20260816-DreamGaussian%20Generative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation* | Tang, Jiaxiang; Ren, Jiawei; Zhou, Hang; Liu, Ziwei; Zeng, Gang | [arXiv:2309.16653](https://arxiv.org/abs/2309.16653) - [DOI](https://doi.org/10.48550/arXiv.2309.16653) |
