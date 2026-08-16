@@ -8424,3 +8424,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation* | Tang, Jiaxiang; Ren, Jiawei; Zhou, Hang; Liu, Ziwei; Zeng, Gang | [arXiv:2309.16653](https://arxiv.org/abs/2309.16653) - [DOI](https://doi.org/10.48550/arXiv.2309.16653) |
+
+## [DEP-A-20260817-EEGFormer Intake](../DEP-A-20260817-EEGFormer%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-EEGFormer%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model* | Chen, Yuqi; Ren, Kan; Song, Kaitao; Wang, Yansen; Wang, Yifan; Li, Dongsheng; Qiu, Lili | [arXiv:2401.10278](https://arxiv.org/abs/2401.10278) - [DOI](https://doi.org/10.48550/arXiv.2401.10278) |
