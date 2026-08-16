@@ -6461,6 +6461,29 @@
         "https://doi.org/10.48550/arXiv.2401.11288"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric",
+        ".logs/20260816-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-LOG.md",
+        ".reports/BL-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.00052",
+      "arxiv_id": "2003.00052",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2003.00052",
+      "normalized_title": "Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P02; draw 48002 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Nonparametric-Human-Mesh-Reconstruction",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.00052",
+        "https://arxiv.org/html/2003.00052",
+        "https://arxiv.org/pdf/2003.00052",
+        "https://doi.org/10.48550/arXiv.2003.00052"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
