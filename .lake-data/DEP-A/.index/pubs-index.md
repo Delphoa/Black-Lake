@@ -8464,3 +8464,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement* | Chen, Yi; Bian, Yun; Wang, Haiquan; Li, Shihao; Cui, Zhe | [arXiv:2603.08520](https://arxiv.org/abs/2603.08520) - [DOI](https://doi.org/10.48550/arXiv.2603.08520) |
+
+## [DEP-A-20260817-SCAN Anomaly Intake](../DEP-A-20260817-SCAN%20Anomaly%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-SCAN%20Anomaly%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering* | Zheng, Xingze; Cheng, Hanyin; Wang, Siyuan; Hao, Yiting; Chen, Peng; Jun, Yuan; Shu, Yang | [arXiv:2606.19255](https://arxiv.org/abs/2606.19255) - [DOI](https://doi.org/10.48550/arXiv.2606.19255) |
