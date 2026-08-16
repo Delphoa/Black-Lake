@@ -8472,3 +8472,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering* | Zheng, Xingze; Cheng, Hanyin; Wang, Siyuan; Hao, Yiting; Chen, Peng; Jun, Yuan; Shu, Yang | [arXiv:2606.19255](https://arxiv.org/abs/2606.19255) - [DOI](https://doi.org/10.48550/arXiv.2606.19255) |
+
+## [DEP-A-20260817-Modular Training Intake](../DEP-A-20260817-Modular%20Training%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-17. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260817-Modular%20Training%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models* | Shi, Yubin; Chen, Yixuan; Dong, Mingzhi; Yang, Xiaochen; Li, Dongsheng; Wang, Yujiang; Dick, Robert P.; Lv, Qin; Zhao, Yingying; Yang, Fan; Lu, Tun; Gu, Ning; Shang, Li | [arXiv:2405.07527](https://arxiv.org/abs/2405.07527) - [DOI](https://doi.org/10.48550/arXiv.2405.07527) |
