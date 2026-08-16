@@ -6622,6 +6622,29 @@
         "https://doi.org/10.48550/arXiv.2603.08520"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space",
+        ".logs/20260816-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-LOG.md",
+        ".reports/BL-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.00514",
+      "arxiv_id": "2405.00514",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2405.00514",
+      "normalized_title": "Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P09; draw 41665 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Get-Your-Embedding-Space-in-Order-Domain",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.00514",
+        "https://arxiv.org/html/2405.00514",
+        "https://arxiv.org/pdf/2405.00514",
+        "https://doi.org/10.48550/arXiv.2405.00514"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

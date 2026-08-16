@@ -3193,3 +3193,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement* | Chen, Yi; Bian, Yun; Wang, Haiquan; Li, Shihao; Cui, Zhe | [arXiv:2603.08520](https://arxiv.org/abs/2603.08520) - [DOI](https://doi.org/10.48550/arXiv.2603.08520) |
+
+
+## [DEP-E-20260816-Get Your Embedding Space](../DEP-E-20260816-Get%20Your%20Embedding%20Space/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring* | Li, Sizhuo; Gominski, Dimitri; Brandt, Martin; Tong, Xiaoye; Ciais, Philippe | [arXiv:2405.00514](https://arxiv.org/abs/2405.00514) - [DOI](https://doi.org/10.48550/arXiv.2405.00514) |
