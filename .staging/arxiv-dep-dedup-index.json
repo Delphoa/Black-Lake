@@ -6438,6 +6438,29 @@
         "https://doi.org/10.48550/arXiv.2502.18968"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Long-Term Fair Decision",
+        ".logs/20260816-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-LOG.md",
+        ".reports/BL-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2401.11288",
+      "arxiv_id": "2401.11288",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2401.11288",
+      "normalized_title": "Long-Term Fair Decision Making through Deep Generative Models",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P01; draw 32046 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Long-Term-Fair-Decision-Making-through-Deep",
+      "source_urls": [
+        "https://arxiv.org/abs/2401.11288",
+        "https://arxiv.org/html/2401.11288",
+        "https://arxiv.org/pdf/2401.11288",
+        "https://doi.org/10.48550/arXiv.2401.11288"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -7254,5 +7277,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-15"
+  "updated_date": "2026-08-16"
 }

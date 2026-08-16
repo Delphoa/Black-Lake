@@ -3137,3 +3137,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles* | Wang, Kuang; Li, Xianfei; Yang, Shenghao; Zhou, Li; Jiang, Feng; Li, Haizhou | [arXiv:2502.18968](https://arxiv.org/abs/2502.18968) - [DOI](https://doi.org/10.48550/arXiv.2502.18968) |
+
+
+## [DEP-E-20260816-Long-Term Fair Decision](../DEP-E-20260816-Long-Term%20Fair%20Decision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long-Term Fair Decision Making through Deep Generative Models* | Hu, Yaowei; Wu, Yongkai; Zhang, Lu | [arXiv:2401.11288](https://arxiv.org/abs/2401.11288) - [DOI](https://doi.org/10.48550/arXiv.2401.11288) |
