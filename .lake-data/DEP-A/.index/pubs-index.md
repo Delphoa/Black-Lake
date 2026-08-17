@@ -8685,3 +8685,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented Multimodal Learning for Enzyme-Substrate Interaction Prediction Under Low-Homology Shift* | Chen Liu; Bingxin Zhou; Xinyuan Wang; Ming Li; Guisheng Fan; Liang Hong | [arXiv:2606.22823v1](https://arxiv.org/abs/2606.22823v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22823) |
+
+
+## [DEP-A-20260818-Spectral Retrieval Augmen](../DEP-A-20260818-Spectral%20Retrieval%20Augmen/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.19412-whitepaper-review.md`](../DEP-A-20260818-Spectral%20Retrieval%20Augmen/2606.19412-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Retrieval-Augmented Time-Series Forecasting* | Huu Hiep Nguyen; Minh Hoang Nguyen; Dung Nguyen; Hung Le | [arXiv:2606.19412v1](https://arxiv.org/abs/2606.19412v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19412) |
