@@ -8694,3 +8694,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spectral Retrieval-Augmented Time-Series Forecasting* | Huu Hiep Nguyen; Minh Hoang Nguyen; Dung Nguyen; Hung Le | [arXiv:2606.19412v1](https://arxiv.org/abs/2606.19412v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19412) |
+
+
+## [DEP-A-20260818-Mitigating Visual Halluci](../DEP-A-20260818-Mitigating%20Visual%20Halluci/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.15782-whitepaper-review.md`](../DEP-A-20260818-Mitigating%20Visual%20Halluci/2606.15782-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mitigating Visual Hallucinations in Multimodal Systems through Retrieval-Augmented Reliability-Aware Inference* | Pratheswaran Hariharan; Haiping Xu; Donghui Yan | [arXiv:2606.15782v1](https://arxiv.org/abs/2606.15782v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15782) |
