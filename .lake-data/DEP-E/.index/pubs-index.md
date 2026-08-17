@@ -3242,3 +3242,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal* | Zhang, Haonan; Wang, Dongxia; Liu, Yi; Chen, Kexin; Wang, Jiashui; Ying, Xinlei; Liu, Long; Wang, Wenhai | [arXiv:2508.11222](https://arxiv.org/abs/2508.11222) - [DOI](https://doi.org/10.1109/ASE63991.2025.00156) |
+
+
+## [DEP-E-20260817-On the Transformer Growth](../DEP-E-20260817-On%20the%20Transformer%20Growth/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the Transformer Growth for Progressive BERT Training* | Gu, Xiaotao; Liu, Liyuan; Yu, Hongkun; Li, Jing; Chen, Chen; Han, Jiawei | [arXiv:2010.12562](https://arxiv.org/abs/2010.12562) - [DOI](https://doi.org/10.48550/arXiv.2010.12562) |
