@@ -3256,3 +3256,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ADiP: Adaptive-Precision Systolic Array for Matrix Multiplication Acceleration* | Abdelmaksoud, Ahmed J.; Sestito, Cristian; Wang, Shiwei; Prodromakis, Themis | [arXiv:2510.10623](https://arxiv.org/abs/2510.10623) - [DOI](https://doi.org/10.48550/arXiv.2510.10623) |
+
+
+## [DEP-E-20260817-DWRSeg Rethinking](../DEP-E-20260817-DWRSeg%20Rethinking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DWRSeg: Rethinking Efficient Acquisition of Multi-scale Contextual Information for Real-time Semantic Segmentation* | Wei, Haoran; Liu, Xu; Xu, Shouchun; Dai, Zhongjian; Dai, Yaping; Xu, Xiangyang | [arXiv:2212.01173](https://arxiv.org/abs/2212.01173) - [DOI](https://doi.org/10.48550/arXiv.2212.01173) |
