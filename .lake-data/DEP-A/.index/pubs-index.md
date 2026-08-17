@@ -8640,3 +8640,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented Interpretable Learning: Towards Task-Specific Zero-Shot Models in Healthcare* | Sazan Mahbub; Caleb Ellington; Zhiyuan Li; Yixin Yang; Souvik Kundu; Ben Lengerich; Eric P. Xing | [arXiv:2607.17508v1](https://arxiv.org/abs/2607.17508v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17508) |
+
+
+## [DEP-A-20260818-Auditing Retrieval Augmen](../DEP-A-20260818-Auditing%20Retrieval%20Augmen/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.19415-whitepaper-review.md`](../DEP-A-20260818-Auditing%20Retrieval%20Augmen/2607.19415-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Auditing Retrieval-Augmented LLM Hypotheses for Longitudinal Cell Painting Morphology* | Gilchan Park; Guang Zhao; Byung-Jun Yoon; Shinjae Yoo | [arXiv:2607.19415v1](https://arxiv.org/abs/2607.19415v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19415) |
