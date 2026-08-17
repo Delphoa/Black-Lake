@@ -8862,3 +8862,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DWRSeg: Rethinking Efficient Acquisition of Multi-scale Contextual Information for Real-time Semantic Segmentation* | Wei, Haoran; Liu, Xu; Xu, Shouchun; Dai, Zhongjian; Dai, Yaping; Xu, Xiangyang | [arXiv:2212.01173](https://arxiv.org/abs/2212.01173) - [DOI](https://doi.org/10.48550/arXiv.2212.01173) |
+
+## [DEP-A-20260818-HiKonv Intake](../DEP-A-20260818-HiKonv%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-HiKonv%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation* | Chen, Yao; Pan, Junhao; Liu, Xinheng; Xiong, Jinjun; Chen, Deming | [arXiv:2208.00763](https://arxiv.org/abs/2208.00763) - [DOI](https://doi.org/10.48550/arXiv.2208.00763) |
