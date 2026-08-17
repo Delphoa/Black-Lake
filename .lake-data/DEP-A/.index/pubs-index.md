@@ -8766,3 +8766,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BUDDY: BUdget-Driven DYnamic Depth Routing for Adaptive Large Language Model Inference* | Yuhua Zhou; Shaoqi Yu; Shichao Weng; Changhai Zhou; Mingze Yin; Fei Yang; Aimin Pan | [arXiv:2606.09514v1](https://arxiv.org/abs/2606.09514v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09514) |
+
+
+## [DEP-A-20260818-CASCADE Case Based Contin](../DEP-A-20260818-CASCADE%20Case%20Based%20Contin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2605.06702-whitepaper-review.md`](../DEP-A-20260818-CASCADE%20Case%20Based%20Contin/2605.06702-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment* | Siyuan Guo; Yali Du; Hechang Chen; Yi Chang; Jun Wang | [arXiv:2605.06702v1](https://arxiv.org/abs/2605.06702v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06702) |
