@@ -8878,3 +8878,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal* | Zhang, Haonan; Wang, Dongxia; Liu, Yi; Chen, Kexin; Wang, Jiashui; Ying, Xinlei; Liu, Long; Wang, Wenhai | [arXiv:2508.11222](https://arxiv.org/abs/2508.11222) - [DOI](https://doi.org/10.1109/ASE63991.2025.00156) |
+
+## [DEP-A-20260818-Hierarchical Align Intake](../DEP-A-20260818-Hierarchical%20Align%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-Hierarchical%20Align%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning* | Zhang, Zihan; Hong, Jie; Fan, Siyuan; Zhou, Yanghao; Fang, Pengfei | [arXiv:2606.11602](https://arxiv.org/abs/2606.11602) - [DOI](https://doi.org/10.48550/arXiv.2606.11602) |
