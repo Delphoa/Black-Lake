@@ -8586,3 +8586,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization* | Yanbin Wei; Yang Chen; Renling Gan; Ziru Liu; Xinyu Fu; Chun Kang; Ning Lu; Rui Liu; Yu Zhang; James Kwok | [arXiv:2607.19830v1](https://arxiv.org/abs/2607.19830v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19830) |
+
+
+## [DEP-A-20260818-Verifiable Knowledge Expa](../DEP-A-20260818-Verifiable%20Knowledge%20Expa/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.01773-whitepaper-review.md`](../DEP-A-20260818-Verifiable%20Knowledge%20Expa/2607.01773-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verifiable Knowledge Expansion through Retrieval-Grounded Formal Concept Analysis* | Yujin Yang; Heejung Lee | [arXiv:2607.01773v1](https://arxiv.org/abs/2607.01773v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01773) |
