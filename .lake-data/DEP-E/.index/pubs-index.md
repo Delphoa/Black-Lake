@@ -3263,3 +3263,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DWRSeg: Rethinking Efficient Acquisition of Multi-scale Contextual Information for Real-time Semantic Segmentation* | Wei, Haoran; Liu, Xu; Xu, Shouchun; Dai, Zhongjian; Dai, Yaping; Xu, Xiangyang | [arXiv:2212.01173](https://arxiv.org/abs/2212.01173) - [DOI](https://doi.org/10.48550/arXiv.2212.01173) |
+
+
+## [DEP-E-20260817-Predicting missing links](../DEP-E-20260817-Predicting%20missing%20links/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predicting missing links via significant paths* | Zhu, Xuzhen; Tian, Hui; Cai, Shimin; Zhou, Tao | [arXiv:1402.6225](https://arxiv.org/abs/1402.6225) - [DOI](https://doi.org/10.1209/0295-5075/106/18008) |

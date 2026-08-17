@@ -6852,6 +6852,29 @@
         "https://doi.org/10.48550/arXiv.2212.01173"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-Predicting missing links",
+        ".logs/20260817-Arxiv-Predicting-missing-links-via-significant-paths-LOG.md",
+        ".reports/BL-Arxiv-Predicting-missing-links-via-significant-paths-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1402.6225",
+      "arxiv_id": "1402.6225",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.1209/0295-5075/106/18008",
+      "normalized_title": "Predicting missing links via significant paths",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P09; draw 6846 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Predicting-missing-links-via-significant-paths",
+      "source_urls": [
+        "https://arxiv.org/abs/1402.6225",
+        "https://arxiv.org/html/1402.6225",
+        "https://arxiv.org/pdf/1402.6225",
+        "https://doi.org/10.1209/0295-5075/106/18008"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
