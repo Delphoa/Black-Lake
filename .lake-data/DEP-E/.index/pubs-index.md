@@ -3207,3 +3207,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models* | Shi, Yubin; Chen, Yixuan; Dong, Mingzhi; Yang, Xiaochen; Li, Dongsheng; Wang, Yujiang; Dick, Robert P.; Lv, Qin; Zhao, Yingying; Yang, Fan; Lu, Tun; Gu, Ning; Shang, Li | [arXiv:2405.07527](https://arxiv.org/abs/2405.07527) - [DOI](https://doi.org/10.48550/arXiv.2405.07527) |
+
+
+## [DEP-E-20260817-STRUCTSENSE A](../DEP-E-20260817-STRUCTSENSE%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking* | Chhetri, Tek Raj; Chen, Yibei; Trivedi, Puja; Jarecka, Dorota; Haobsh, Saif; Ray, Patrick; Ng, Lydia; Ghosh, Satrajit S. | [arXiv:2507.03674](https://arxiv.org/abs/2507.03674) - [DOI](https://doi.org/10.48550/arXiv.2507.03674) |
