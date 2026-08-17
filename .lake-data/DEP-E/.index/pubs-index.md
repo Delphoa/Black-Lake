@@ -3228,3 +3228,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation* | Chen, Yao; Pan, Junhao; Liu, Xinheng; Xiong, Jinjun; Chen, Deming | [arXiv:2208.00763](https://arxiv.org/abs/2208.00763) - [DOI](https://doi.org/10.48550/arXiv.2208.00763) |
+
+
+## [DEP-E-20260817-An Item is Worth a Prompt](../DEP-E-20260817-An%20Item%20is%20Worth%20a%20Prompt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control* | Feng, Aosong; Qiu, Weikang; Bai, Jinbin; Zhang, Xiao; Dong, Zhen; Zhou, Kaicheng; Ying, Rex; Tassiulas, Leandros | [arXiv:2403.04880](https://arxiv.org/abs/2403.04880) - [DOI](https://doi.org/10.48550/arXiv.2403.04880) |

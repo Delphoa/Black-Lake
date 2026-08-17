@@ -6737,6 +6737,29 @@
         "https://doi.org/10.48550/arXiv.2208.00763"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt",
+        ".logs/20260817-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-LOG.md",
+        ".reports/BL-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.04880",
+      "arxiv_id": "2403.04880",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2403.04880",
+      "normalized_title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P04; draw 1930 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-Item-is-Worth-a-Prompt-Versatile",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.04880",
+        "https://arxiv.org/html/2403.04880",
+        "https://arxiv.org/pdf/2403.04880",
+        "https://doi.org/10.48550/arXiv.2403.04880"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
