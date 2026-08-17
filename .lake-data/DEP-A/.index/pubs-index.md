@@ -8820,3 +8820,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression* | Yuantian Shao; Peisong Wang; Zhilei Liu; Chuangyi Li; Yuanteng Chen; Pengcheng Xie; Yiwu Yao; Zhihui Wei; Jian Cheng | [arXiv:2607.08643v1](https://arxiv.org/abs/2607.08643v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08643) |
+
+
+## [DEP-A-20260818-C PTQ Fisher weighted](../DEP-A-20260818-C%20PTQ%20Fisher%20weighted/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.21076-whitepaper-review.md`](../DEP-A-20260818-C%20PTQ%20Fisher%20weighted/2607.21076-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs* | Jiameng Li; Han Zhou; Matthew B. Blaschko | [arXiv:2607.21076v1](https://arxiv.org/abs/2607.21076v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21076) |
