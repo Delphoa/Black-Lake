@@ -8541,3 +8541,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EinSort: Sorting is All We Need for Tensorizing LLM* | Toshiaki Koike-Akino; Jing Liu; Ye Wang | [arXiv:2606.08565v1](https://arxiv.org/abs/2606.08565v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08565) |
+
+
+## [DEP-A-20260818-MechMem RTL Reusing Verif](../DEP-A-20260818-MechMem%20RTL%20Reusing%20Verif/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.17053-whitepaper-review.md`](../DEP-A-20260818-MechMem%20RTL%20Reusing%20Verif/2607.17053-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MechMem-RTL: Reusing Verified Mechanism Memories for LLM-Based RTL Repair* | Mingyu Cheng; Junjie Gao; Jinhua Cui; Kuncai Zhong | [arXiv:2607.17053v1](https://arxiv.org/abs/2607.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17053) |
