@@ -8523,3 +8523,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Price of Anarchy in Disaggregated Inference* | Athos Georgiou | [arXiv:2606.17081v1](https://arxiv.org/abs/2606.17081v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17081) |
+
+
+## [DEP-A-20260818-FlashDecoder Real Time La](../DEP-A-20260818-FlashDecoder%20Real%20Time%20La/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.14898-whitepaper-review.md`](../DEP-A-20260818-FlashDecoder%20Real%20Time%20La/2607.14898-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers* | Minguk Kang; Suha Kwak | [arXiv:2607.14898v1](https://arxiv.org/abs/2607.14898v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14898) |
