@@ -3214,3 +3214,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking* | Chhetri, Tek Raj; Chen, Yibei; Trivedi, Puja; Jarecka, Dorota; Haobsh, Saif; Ray, Patrick; Ng, Lydia; Ghosh, Satrajit S. | [arXiv:2507.03674](https://arxiv.org/abs/2507.03674) - [DOI](https://doi.org/10.48550/arXiv.2507.03674) |
+
+
+## [DEP-E-20260817-On Aligning Hierarchical](../DEP-E-20260817-On%20Aligning%20Hierarchical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning* | Zhang, Zihan; Hong, Jie; Fan, Siyuan; Zhou, Yanghao; Fang, Pengfei | [arXiv:2606.11602](https://arxiv.org/abs/2606.11602) - [DOI](https://doi.org/10.48550/arXiv.2606.11602) |
