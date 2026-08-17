@@ -8730,3 +8730,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAVEN: Agentic RAG for Automated Vulnerability Repair* | Varun Gadey; Zijie Liu; Alexandra Dmitrienko | [arXiv:2606.22647v1](https://arxiv.org/abs/2606.22647v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22647) |
+
+
+## [DEP-A-20260818-Layered Security Framewor](../DEP-A-20260818-Layered%20Security%20Framewor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.19660-whitepaper-review.md`](../DEP-A-20260818-Layered%20Security%20Framewor/2606.19660-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots* | Gulshan Saleem; Nisar Ahmed; Muhammad Imran Zaman; Ali Hassan | [arXiv:2606.19660v1](https://arxiv.org/abs/2606.19660v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19660) |
