@@ -8802,3 +8802,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration* | Jiaqi Shi; Yuechan Li; Xulong Zhang; Xiaoyang Qu; Jianzong Wang | [arXiv:2604.16462v1](https://arxiv.org/abs/2604.16462v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16462) |
+
+
+## [DEP-A-20260818-HiKV Hierarchical Importa](../DEP-A-20260818-HiKV%20Hierarchical%20Importa/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.22389-whitepaper-review.md`](../DEP-A-20260818-HiKV%20Hierarchical%20Importa/2607.22389-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding* | Chao Fang; Jun Yin; Man Shi; Marian Verhelst | [arXiv:2607.22389v1](https://arxiv.org/abs/2607.22389v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22389) |
