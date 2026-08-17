@@ -8793,3 +8793,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Semantic Early-Stopping for Iterative LLM Agent Loops* | Sahil Shrivastava | [arXiv:2606.27009v1](https://arxiv.org/abs/2606.27009v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27009) |
+
+
+## [DEP-A-20260818-Inheritance Saturation Di](../DEP-A-20260818-Inheritance%20Saturation%20Di/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2604.16462-whitepaper-review.md`](../DEP-A-20260818-Inheritance%20Saturation%20Di/2604.16462-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration* | Jiaqi Shi; Yuechan Li; Xulong Zhang; Xiaoyang Qu; Jianzong Wang | [arXiv:2604.16462v1](https://arxiv.org/abs/2604.16462v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16462) |
