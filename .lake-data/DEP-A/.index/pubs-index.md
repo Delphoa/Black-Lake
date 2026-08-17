@@ -8595,3 +8595,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Verifiable Knowledge Expansion through Retrieval-Grounded Formal Concept Analysis* | Yujin Yang; Heejung Lee | [arXiv:2607.01773v1](https://arxiv.org/abs/2607.01773v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01773) |
+
+
+## [DEP-A-20260818-HyGRL Adaptive Hybrid Gra](../DEP-A-20260818-HyGRL%20Adaptive%20Hybrid%20Gra/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.19398-whitepaper-review.md`](../DEP-A-20260818-HyGRL%20Adaptive%20Hybrid%20Gra/2607.19398-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions* | Junyi Wang | [arXiv:2607.19398v1](https://arxiv.org/abs/2607.19398v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19398) |
