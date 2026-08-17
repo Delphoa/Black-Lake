@@ -6714,6 +6714,29 @@
         "https://doi.org/10.48550/arXiv.2606.11602"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-HiKonv Maximizing the",
+        ".logs/20260817-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-LOG.md",
+        ".reports/BL-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2208.00763",
+      "arxiv_id": "2208.00763",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2208.00763",
+      "normalized_title": "HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P03; draw 75216 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "HiKonv-Maximizing-the-Throughput-of-Quantized",
+      "source_urls": [
+        "https://arxiv.org/abs/2208.00763",
+        "https://arxiv.org/html/2208.00763",
+        "https://arxiv.org/pdf/2208.00763",
+        "https://doi.org/10.48550/arXiv.2208.00763"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

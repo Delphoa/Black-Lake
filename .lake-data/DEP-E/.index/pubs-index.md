@@ -3221,3 +3221,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning* | Zhang, Zihan; Hong, Jie; Fan, Siyuan; Zhou, Yanghao; Fang, Pengfei | [arXiv:2606.11602](https://arxiv.org/abs/2606.11602) - [DOI](https://doi.org/10.48550/arXiv.2606.11602) |
+
+
+## [DEP-E-20260817-HiKonv Maximizing the](../DEP-E-20260817-HiKonv%20Maximizing%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation* | Chen, Yao; Pan, Junhao; Liu, Xinheng; Xiong, Jinjun; Chen, Deming | [arXiv:2208.00763](https://arxiv.org/abs/2208.00763) - [DOI](https://doi.org/10.48550/arXiv.2208.00763) |
