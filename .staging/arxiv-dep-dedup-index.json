@@ -6760,6 +6760,29 @@
         "https://doi.org/10.48550/arXiv.2403.04880"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-ORFuzz Fuzzing the Other",
+        ".logs/20260817-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-LOG.md",
+        ".reports/BL-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.11222",
+      "arxiv_id": "2508.11222",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.1109/ASE63991.2025.00156",
+      "normalized_title": "ORFuzz: Fuzzing the \"Other Side\" of LLM Safety -- Testing Over-Refusal",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P05; draw 61904 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ORFuzz-Fuzzing-the-Other-Side-of-LLM",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.11222",
+        "https://arxiv.org/html/2508.11222",
+        "https://arxiv.org/pdf/2508.11222",
+        "https://doi.org/10.1109/ASE63991.2025.00156"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

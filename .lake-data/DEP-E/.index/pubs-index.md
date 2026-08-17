@@ -3235,3 +3235,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control* | Feng, Aosong; Qiu, Weikang; Bai, Jinbin; Zhang, Xiao; Dong, Zhen; Zhou, Kaicheng; Ying, Rex; Tassiulas, Leandros | [arXiv:2403.04880](https://arxiv.org/abs/2403.04880) - [DOI](https://doi.org/10.48550/arXiv.2403.04880) |
+
+
+## [DEP-E-20260817-ORFuzz Fuzzing the Other](../DEP-E-20260817-ORFuzz%20Fuzzing%20the%20Other/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal* | Zhang, Haonan; Wang, Dongxia; Liu, Yi; Chen, Kexin; Wang, Jiashui; Ying, Xinlei; Liu, Long; Wang, Wenhai | [arXiv:2508.11222](https://arxiv.org/abs/2508.11222) - [DOI](https://doi.org/10.1109/ASE63991.2025.00156) |
