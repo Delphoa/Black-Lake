@@ -8532,3 +8532,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers* | Minguk Kang; Suha Kwak | [arXiv:2607.14898v1](https://arxiv.org/abs/2607.14898v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14898) |
+
+
+## [DEP-A-20260818-EinSort Sorting is All](../DEP-A-20260818-EinSort%20Sorting%20is%20All/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.08565-whitepaper-review.md`](../DEP-A-20260818-EinSort%20Sorting%20is%20All/2606.08565-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EinSort: Sorting is All We Need for Tensorizing LLM* | Toshiaki Koike-Akino; Jing Liu; Ye Wang | [arXiv:2606.08565v1](https://arxiv.org/abs/2606.08565v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08565) |
