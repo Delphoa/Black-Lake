@@ -8854,3 +8854,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control* | Feng, Aosong; Qiu, Weikang; Bai, Jinbin; Zhang, Xiao; Dong, Zhen; Zhou, Kaicheng; Ying, Rex; Tassiulas, Leandros | [arXiv:2403.04880](https://arxiv.org/abs/2403.04880) - [DOI](https://doi.org/10.48550/arXiv.2403.04880) |
+
+## [DEP-A-20260818-DWRSeg Intake](../DEP-A-20260818-DWRSeg%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-DWRSeg%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DWRSeg: Rethinking Efficient Acquisition of Multi-scale Contextual Information for Real-time Semantic Segmentation* | Wei, Haoran; Liu, Xu; Xu, Shouchun; Dai, Zhongjian; Dai, Yaping; Xu, Xiangyang | [arXiv:2212.01173](https://arxiv.org/abs/2212.01173) - [DOI](https://doi.org/10.48550/arXiv.2212.01173) |
