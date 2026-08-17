@@ -8496,3 +8496,12 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning* | Lu, Yijun; Yang, Zilei; Ma, Yuyin | [arXiv:2605.15509](https://arxiv.org/abs/2605.15509) - [DOI](https://doi.org/10.48550/arXiv.2605.15509) |
+
+
+## [DEP-A-20260818-Serialized Bridge Underst](../DEP-A-20260818-Serialized%20Bridge%20Underst/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.23969-whitepaper-review.md`](../DEP-A-20260818-Serialized%20Bridge%20Underst/2606.23969-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing* | Hang Yin; Kevin Wang | [arXiv:2606.23969v2](https://arxiv.org/abs/2606.23969v2) - [DOI](https://doi.org/10.48550/arXiv.2606.23969) |
