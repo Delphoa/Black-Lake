@@ -8703,3 +8703,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mitigating Visual Hallucinations in Multimodal Systems through Retrieval-Augmented Reliability-Aware Inference* | Pratheswaran Hariharan; Haiping Xu; Donghui Yan | [arXiv:2606.15782v1](https://arxiv.org/abs/2606.15782v1) - [DOI](https://doi.org/10.48550/arXiv.2606.15782) |
+
+
+## [DEP-A-20260818-Illusion Agentic Complexi](../DEP-A-20260818-Illusion%20Agentic%20Complexi/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.30524-whitepaper-review.md`](../DEP-A-20260818-Illusion%20Agentic%20Complexi/2606.30524-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Illusion of Agentic Complexity in README.md Generation: Evaluating Single-Agent vs. Multi-Agent RAG Systems* | Abu Saleh; Tesfay Welegebreal Tesfay; Phuong T. Nguyen; Juri Di Rocco; Muhammad Umar Zeshan; Davide Di Ruscio | [arXiv:2606.30524v2](https://arxiv.org/abs/2606.30524v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30524) |
