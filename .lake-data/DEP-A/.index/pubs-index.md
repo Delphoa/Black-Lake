@@ -8846,3 +8846,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ADiP: Adaptive-Precision Systolic Array for Matrix Multiplication Acceleration* | Abdelmaksoud, Ahmed J.; Sestito, Cristian; Wang, Shiwei; Prodromakis, Themis | [arXiv:2510.10623](https://arxiv.org/abs/2510.10623) - [DOI](https://doi.org/10.48550/arXiv.2510.10623) |
+
+## [DEP-A-20260818-Item Prompting Intake](../DEP-A-20260818-Item%20Prompting%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-Item%20Prompting%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control* | Feng, Aosong; Qiu, Weikang; Bai, Jinbin; Zhang, Xiao; Dong, Zhen; Zhou, Kaicheng; Ying, Rex; Tassiulas, Leandros | [arXiv:2403.04880](https://arxiv.org/abs/2403.04880) - [DOI](https://doi.org/10.48550/arXiv.2403.04880) |
