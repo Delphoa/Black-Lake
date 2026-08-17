@@ -8739,3 +8739,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots* | Gulshan Saleem; Nisar Ahmed; Muhammad Imran Zaman; Ali Hassan | [arXiv:2606.19660v1](https://arxiv.org/abs/2606.19660v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19660) |
+
+
+## [DEP-A-20260818-Agent Skill Security Thre](../DEP-A-20260818-Agent%20Skill%20Security%20Thre/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.13987-whitepaper-review.md`](../DEP-A-20260818-Agent%20Skill%20Security%20Thre/2607.13987-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation* | Sanket Badhe; Priyanka Tiwari | [arXiv:2607.13987v1](https://arxiv.org/abs/2607.13987v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13987) |
