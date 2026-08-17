@@ -8667,3 +8667,12 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Reproducible Benchmark and Evidence-Retrieval Software Framework for Silicon Detector R&D Literature* | Tianqi Gao; Ruobing Jiang; Dawei Fu; Qiang Li; Matthew Kenzie | [arXiv:2606.24725v3](https://arxiv.org/abs/2606.24725v3) - [DOI](https://doi.org/10.48550/arXiv.2606.24725) |
+
+
+## [DEP-A-20260818-Retrieval Augmented Perso](../DEP-A-20260818-Retrieval%20Augmented%20Perso/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.24985-whitepaper-review.md`](../DEP-A-20260818-Retrieval%20Augmented%20Perso/2606.24985-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented Personalization with Foundation Models for Wearable Stress Detection* | Louis Simon; Mohamed Chetouani | [arXiv:2606.24985v1](https://arxiv.org/abs/2606.24985v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24985) |
