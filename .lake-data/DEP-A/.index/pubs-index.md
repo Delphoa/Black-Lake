@@ -8811,3 +8811,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding* | Chao Fang; Jun Yin; Man Shi; Marian Verhelst | [arXiv:2607.22389v1](https://arxiv.org/abs/2607.22389v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22389) |
+
+
+## [DEP-A-20260818-BiSCo LLM Lookup Free](../DEP-A-20260818-BiSCo%20LLM%20Lookup%20Free/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.08643-whitepaper-review.md`](../DEP-A-20260818-BiSCo%20LLM%20Lookup%20Free/2607.08643-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression* | Yuantian Shao; Peisong Wang; Zhilei Liu; Chuangyi Li; Yuanteng Chen; Pengcheng Xie; Yiwu Yao; Zhihui Wei; Jian Cheng | [arXiv:2607.08643v1](https://arxiv.org/abs/2607.08643v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08643) |
