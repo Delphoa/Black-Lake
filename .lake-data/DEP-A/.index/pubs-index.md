@@ -8721,3 +8721,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RASC+: Retrieval-Constrained LLM Adjudication for Clinical Value Set Authoring* | Sumit Mukherjee | [arXiv:2606.23992v1](https://arxiv.org/abs/2606.23992v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23992) |
+
+
+## [DEP-A-20260818-RAVEN Agentic RAG Automat](../DEP-A-20260818-RAVEN%20Agentic%20RAG%20Automat/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.22647-whitepaper-review.md`](../DEP-A-20260818-RAVEN%20Agentic%20RAG%20Automat/2606.22647-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAVEN: Agentic RAG for Automated Vulnerability Repair* | Varun Gadey; Zijie Liu; Alexandra Dmitrienko | [arXiv:2606.22647v1](https://arxiv.org/abs/2606.22647v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22647) |
