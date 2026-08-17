@@ -8712,3 +8712,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Illusion of Agentic Complexity in README.md Generation: Evaluating Single-Agent vs. Multi-Agent RAG Systems* | Abu Saleh; Tesfay Welegebreal Tesfay; Phuong T. Nguyen; Juri Di Rocco; Muhammad Umar Zeshan; Davide Di Ruscio | [arXiv:2606.30524v2](https://arxiv.org/abs/2606.30524v2) - [DOI](https://doi.org/10.48550/arXiv.2606.30524) |
+
+
+## [DEP-A-20260818-RASC Retrieval Constraine](../DEP-A-20260818-RASC%20Retrieval%20Constraine/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.23992-whitepaper-review.md`](../DEP-A-20260818-RASC%20Retrieval%20Constraine/2606.23992-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RASC+: Retrieval-Constrained LLM Adjudication for Clinical Value Set Authoring* | Sumit Mukherjee | [arXiv:2606.23992v1](https://arxiv.org/abs/2606.23992v1) - [DOI](https://doi.org/10.48550/arXiv.2606.23992) |
