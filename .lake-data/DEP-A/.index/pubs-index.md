@@ -8784,3 +8784,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs* | Manoj Madushanka Perera; Adnan Mahmood; Kasun Eranda Wijethilake; Quan Z. Sheng | [arXiv:2604.12179v1](https://arxiv.org/abs/2604.12179v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12179) |
+
+
+## [DEP-A-20260818-Semantic Early Stopping I](../DEP-A-20260818-Semantic%20Early%20Stopping%20I/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.27009-whitepaper-review.md`](../DEP-A-20260818-Semantic%20Early%20Stopping%20I/2606.27009-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Early-Stopping for Iterative LLM Agent Loops* | Sahil Shrivastava | [arXiv:2606.27009v1](https://arxiv.org/abs/2606.27009v1) - [DOI](https://doi.org/10.48550/arXiv.2606.27009) |
