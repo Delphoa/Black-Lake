@@ -8894,3 +8894,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On the Transformer Growth for Progressive BERT Training* | Gu, Xiaotao; Liu, Liyuan; Yu, Hongkun; Li, Jing; Chen, Chen; Han, Jiawei | [arXiv:2010.12562](https://arxiv.org/abs/2010.12562) - [DOI](https://doi.org/10.48550/arXiv.2010.12562) |
+
+## [DEP-A-20260818-Link Prediction Intake](../DEP-A-20260818-Link%20Prediction%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-Link%20Prediction%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predicting missing links via significant paths* | Zhu, Xuzhen; Tian, Hui; Cai, Shimin; Zhou, Tao | [arXiv:1402.6225](https://arxiv.org/abs/1402.6225) - [DOI](https://doi.org/10.1209/0295-5075/106/18008) |
