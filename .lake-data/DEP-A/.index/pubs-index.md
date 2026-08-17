@@ -8505,3 +8505,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing* | Hang Yin; Kevin Wang | [arXiv:2606.23969v2](https://arxiv.org/abs/2606.23969v2) - [DOI](https://doi.org/10.48550/arXiv.2606.23969) |
+
+
+## [DEP-A-20260818-SMEPilot Characterizing O](../DEP-A-20260818-SMEPilot%20Characterizing%20O/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.16332-whitepaper-review.md`](../DEP-A-20260818-SMEPilot%20Characterizing%20O/2606.16332-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SMEPilot: Characterizing and Optimizing LLM Inference with Scalable Matrix Extensions* | Feiyang Chen; Haibo Chen | [arXiv:2606.16332v1](https://arxiv.org/abs/2606.16332v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16332) |
