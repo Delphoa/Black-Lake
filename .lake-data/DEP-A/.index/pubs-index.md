@@ -8838,3 +8838,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast and Efficient Approximate Nearest Neighbor Search for High-Dimensional LLM Embeddings* | Nico Hezel; Kai Uwe Barthel; Bruno Schilling; Konstantin Schall; Andre Moelle; Klaus Jung | [arXiv:2607.20957v1](https://arxiv.org/abs/2607.20957v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20957) |
+
+## [DEP-A-20260818-ADiP Precision Intake](../DEP-A-20260818-ADiP%20Precision%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-ADiP%20Precision%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ADiP: Adaptive-Precision Systolic Array for Matrix Multiplication Acceleration* | Abdelmaksoud, Ahmed J.; Sestito, Cristian; Wang, Shiwei; Prodromakis, Themis | [arXiv:2510.10623](https://arxiv.org/abs/2510.10623) - [DOI](https://doi.org/10.48550/arXiv.2510.10623) |
