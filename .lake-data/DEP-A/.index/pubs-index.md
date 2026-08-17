@@ -8604,3 +8604,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions* | Junyi Wang | [arXiv:2607.19398v1](https://arxiv.org/abs/2607.19398v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19398) |
+
+
+## [DEP-A-20260818-BioHarness Substrate Awar](../DEP-A-20260818-BioHarness%20Substrate%20Awar/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.19396-whitepaper-review.md`](../DEP-A-20260818-BioHarness%20Substrate%20Awar/2606.19396-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BioHarness: Substrate-Aware Evidence Assembly for Biomedical Question Answering across Literature, Knowledge Bases, and Biological Atlases* | Meng Xiao; Chuan Qin; Jinmiao Chen; Yihang Cheng; Yuanchun Zhou; Hengshu Zhu | [arXiv:2606.19396v1](https://arxiv.org/abs/2606.19396v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19396) |
