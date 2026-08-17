@@ -8870,3 +8870,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation* | Chen, Yao; Pan, Junhao; Liu, Xinheng; Xiong, Jinjun; Chen, Deming | [arXiv:2208.00763](https://arxiv.org/abs/2208.00763) - [DOI](https://doi.org/10.48550/arXiv.2208.00763) |
+
+## [DEP-A-20260818-ORFuzz Intake](../DEP-A-20260818-ORFuzz%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-ORFuzz%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal* | Zhang, Haonan; Wang, Dongxia; Liu, Yi; Chen, Kexin; Wang, Jiashui; Ying, Xinlei; Liu, Long; Wang, Wenhai | [arXiv:2508.11222](https://arxiv.org/abs/2508.11222) - [DOI](https://doi.org/10.1109/ASE63991.2025.00156) |
