@@ -8550,3 +8550,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MechMem-RTL: Reusing Verified Mechanism Memories for LLM-Based RTL Repair* | Mingyu Cheng; Junjie Gao; Jinhua Cui; Kuncai Zhong | [arXiv:2607.17053v1](https://arxiv.org/abs/2607.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17053) |
+
+
+## [DEP-A-20260818-M2Note Continual Evolutio](../DEP-A-20260818-M2Note%20Continual%20Evolutio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.00685-whitepaper-review.md`](../DEP-A-20260818-M2Note%20Continual%20Evolutio/2607.00685-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning* | Haiwen Li; Jing Tang; Rui Chen; Lei Sun; Xiangxiang Chu | [arXiv:2607.00685v1](https://arxiv.org/abs/2607.00685v1) - [DOI](https://doi.org/10.48550/arXiv.2607.00685) |
