@@ -8622,3 +8622,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Language-Guided Abstraction for Visual Reasoning* | Xu-Jing Ye; Yuan-Gen Wang; Ruping Wang | [arXiv:2606.12847v1](https://arxiv.org/abs/2606.12847v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12847) |
+
+
+## [DEP-A-20260818-IteraSim RAG Multi Stage](../DEP-A-20260818-IteraSim%20RAG%20Multi%20Stage/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.20346-whitepaper-review.md`](../DEP-A-20260818-IteraSim%20RAG%20Multi%20Stage/2607.20346-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IteraSim RAG: A Multi-Stage Retrieval-Augmented Agentic Back-End for OpenFOAM-Based Computational Fluid Dynamics* | Pratyush Kumar | [arXiv:2607.20346v1](https://arxiv.org/abs/2607.20346v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20346) |
