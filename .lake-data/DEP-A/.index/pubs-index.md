@@ -8613,3 +8613,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BioHarness: Substrate-Aware Evidence Assembly for Biomedical Question Answering across Literature, Knowledge Bases, and Biological Atlases* | Meng Xiao; Chuan Qin; Jinmiao Chen; Yihang Cheng; Yuanchun Zhou; Hengshu Zhu | [arXiv:2606.19396v1](https://arxiv.org/abs/2606.19396v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19396) |
+
+
+## [DEP-A-20260818-Language Guided Abstracti](../DEP-A-20260818-Language%20Guided%20Abstracti/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.12847-whitepaper-review.md`](../DEP-A-20260818-Language%20Guided%20Abstracti/2606.12847-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Language-Guided Abstraction for Visual Reasoning* | Xu-Jing Ye; Yuan-Gen Wang; Ruping Wang | [arXiv:2606.12847v1](https://arxiv.org/abs/2606.12847v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12847) |
