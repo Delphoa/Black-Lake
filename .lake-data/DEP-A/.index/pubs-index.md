@@ -8757,3 +8757,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling* | Jian Yang; Shawn Guo; Wei Zhang; Tianyu Zheng; Yaxin Du; Haau-Sing Li; Jiajun Wu; Yue Song; Yan Xing; Qingsong Cai; Zelong Huang; Chuan Hao; Ran Tao; Xianglong Liu; Wayne Xin Zhao; Mingjie Tang; Weifeng Lv; Ming Zhou; Bryan Dai | [arXiv:2606.18023v1](https://arxiv.org/abs/2606.18023v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18023) |
+
+
+## [DEP-A-20260818-BUDDY BUdget Driven DYnam](../DEP-A-20260818-BUDDY%20BUdget%20Driven%20DYnam/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.09514-whitepaper-review.md`](../DEP-A-20260818-BUDDY%20BUdget%20Driven%20DYnam/2606.09514-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BUDDY: BUdget-Driven DYnamic Depth Routing for Adaptive Large Language Model Inference* | Yuhua Zhou; Shaoqi Yu; Shichao Weng; Changhai Zhou; Mingze Yin; Fei Yang; Aimin Pan | [arXiv:2606.09514v1](https://arxiv.org/abs/2606.09514v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09514) |
