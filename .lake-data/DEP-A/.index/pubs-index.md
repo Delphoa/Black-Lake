@@ -8886,3 +8886,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning* | Zhang, Zihan; Hong, Jie; Fan, Siyuan; Zhou, Yanghao; Fang, Pengfei | [arXiv:2606.11602](https://arxiv.org/abs/2606.11602) - [DOI](https://doi.org/10.48550/arXiv.2606.11602) |
+
+## [DEP-A-20260818-Transformer Growth Intake](../DEP-A-20260818-Transformer%20Growth%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-Transformer%20Growth%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the Transformer Growth for Progressive BERT Training* | Gu, Xiaotao; Liu, Liyuan; Yu, Hongkun; Li, Jing; Chen, Chen; Han, Jiawei | [arXiv:2010.12562](https://arxiv.org/abs/2010.12562) - [DOI](https://doi.org/10.48550/arXiv.2010.12562) |
