@@ -8829,3 +8829,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs* | Jiameng Li; Han Zhou; Matthew B. Blaschko | [arXiv:2607.21076v1](https://arxiv.org/abs/2607.21076v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21076) |
+
+
+## [DEP-A-20260818-Fast Efficient Approximat](../DEP-A-20260818-Fast%20Efficient%20Approximat/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.20957-whitepaper-review.md`](../DEP-A-20260818-Fast%20Efficient%20Approximat/2607.20957-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast and Efficient Approximate Nearest Neighbor Search for High-Dimensional LLM Embeddings* | Nico Hezel; Kai Uwe Barthel; Bruno Schilling; Konstantin Schall; Andre Moelle; Klaus Jung | [arXiv:2607.20957v1](https://arxiv.org/abs/2607.20957v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20957) |
