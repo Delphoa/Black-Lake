@@ -3249,3 +3249,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On the Transformer Growth for Progressive BERT Training* | Gu, Xiaotao; Liu, Liyuan; Yu, Hongkun; Li, Jing; Chen, Chen; Han, Jiawei | [arXiv:2010.12562](https://arxiv.org/abs/2010.12562) - [DOI](https://doi.org/10.48550/arXiv.2010.12562) |
+
+
+## [DEP-E-20260817-ADiP Adaptive-Precision](../DEP-E-20260817-ADiP%20Adaptive-Precision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ADiP: Adaptive-Precision Systolic Array for Matrix Multiplication Acceleration* | Abdelmaksoud, Ahmed J.; Sestito, Cristian; Wang, Shiwei; Prodromakis, Themis | [arXiv:2510.10623](https://arxiv.org/abs/2510.10623) - [DOI](https://doi.org/10.48550/arXiv.2510.10623) |
