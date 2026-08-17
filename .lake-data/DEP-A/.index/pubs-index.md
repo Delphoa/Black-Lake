@@ -8775,3 +8775,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment* | Siyuan Guo; Yali Du; Hechang Chen; Yi Chang; Jun Wang | [arXiv:2605.06702v1](https://arxiv.org/abs/2605.06702v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06702) |
+
+
+## [DEP-A-20260818-AgenticAI DialogGen Topic](../DEP-A-20260818-AgenticAI%20DialogGen%20Topic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2604.12179-whitepaper-review.md`](../DEP-A-20260818-AgenticAI%20DialogGen%20Topic/2604.12179-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs* | Manoj Madushanka Perera; Adnan Mahmood; Kasun Eranda Wijethilake; Quan Z. Sheng | [arXiv:2604.12179v1](https://arxiv.org/abs/2604.12179v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12179) |
