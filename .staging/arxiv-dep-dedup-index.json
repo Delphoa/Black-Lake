@@ -6875,6 +6875,29 @@
         "https://doi.org/10.1209/0295-5075/106/18008"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-RandoMix A mixed sample",
+        ".logs/20260817-Arxiv-RandoMix-A-mixed-sample-data-augmentation-method-LOG.md",
+        ".reports/BL-Arxiv-RandoMix-A-mixed-sample-data-augmentation-method-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.08728",
+      "arxiv_id": "2205.08728",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2205.08728",
+      "normalized_title": "RandoMix: A mixed sample data augmentation method with multiple mixed modes",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P10; draw 73701 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RandoMix-A-mixed-sample-data-augmentation-method",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.08728",
+        "https://arxiv.org/html/2205.08728",
+        "https://arxiv.org/pdf/2205.08728",
+        "https://doi.org/10.48550/arXiv.2205.08728"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
