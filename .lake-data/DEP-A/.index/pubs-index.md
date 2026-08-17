@@ -8649,3 +8649,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Auditing Retrieval-Augmented LLM Hypotheses for Longitudinal Cell Painting Morphology* | Gilchan Park; Guang Zhao; Byung-Jun Yoon; Shinjae Yoo | [arXiv:2607.19415v1](https://arxiv.org/abs/2607.19415v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19415) |
+
+
+## [DEP-A-20260818-NeuroGRIP Retrieval Augme](../DEP-A-20260818-NeuroGRIP%20Retrieval%20Augme/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.14314-whitepaper-review.md`](../DEP-A-20260818-NeuroGRIP%20Retrieval%20Augme/2607.14314-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis* | Lincan Li; Zheng Chen; Yushun Dong | [arXiv:2607.14314v1](https://arxiv.org/abs/2607.14314v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14314) |
