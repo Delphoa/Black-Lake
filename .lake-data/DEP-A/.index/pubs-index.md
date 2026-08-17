@@ -8568,3 +8568,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture* | Robin Dey; Panyanon Viradecha | [arXiv:2604.21284v1](https://arxiv.org/abs/2604.21284v1) - [DOI](https://doi.org/10.48550/arXiv.2604.21284) |
+
+
+## [DEP-A-20260818-MAGE Multi Agent Self](../DEP-A-20260818-MAGE%20Multi%20Agent%20Self/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2605.10064-whitepaper-review.md`](../DEP-A-20260818-MAGE%20Multi%20Agent%20Self/2605.10064-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs* | Ruiyi Yang; Zechen Li; Hao Xue; Imran Razzak; Flora D. Salim | [arXiv:2605.10064v1](https://arxiv.org/abs/2605.10064v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10064) |
