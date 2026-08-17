@@ -8910,3 +8910,11 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RandoMix: A mixed sample data augmentation method with multiple mixed modes* | Liu, Xiaoliang; Shen, Furao; Zhao, Jian; Nie, Changhai | [arXiv:2205.08728](https://arxiv.org/abs/2205.08728) - [DOI](https://doi.org/10.48550/arXiv.2205.08728) |
+
+## [DEP-A-20260818-StructSense Intake](../DEP-A-20260818-StructSense%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260818-StructSense%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking* | Chhetri, Tek Raj; Chen, Yibei; Trivedi, Puja; Jarecka, Dorota; Haobsh, Saif; Ray, Patrick; Ng, Lydia; Ghosh, Satrajit S. | [arXiv:2507.03674](https://arxiv.org/abs/2507.03674) - [DOI](https://doi.org/10.48550/arXiv.2507.03674) |
