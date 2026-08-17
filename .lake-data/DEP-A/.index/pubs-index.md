@@ -8577,3 +8577,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs* | Ruiyi Yang; Zechen Li; Hao Xue; Imran Razzak; Flora D. Salim | [arXiv:2605.10064v1](https://arxiv.org/abs/2605.10064v1) - [DOI](https://doi.org/10.48550/arXiv.2605.10064) |
+
+
+## [DEP-A-20260818-VizRAG Enhancing Retrieva](../DEP-A-20260818-VizRAG%20Enhancing%20Retrieva/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.19830-whitepaper-review.md`](../DEP-A-20260818-VizRAG%20Enhancing%20Retrieva/2607.19830-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization* | Yanbin Wei; Yang Chen; Renling Gan; Ziru Liu; Xinyu Fu; Chun Kang; Ning Lu; Rui Liu; Yu Zhang; James Kwok | [arXiv:2607.19830v1](https://arxiv.org/abs/2607.19830v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19830) |
