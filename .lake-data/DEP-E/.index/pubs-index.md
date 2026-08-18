@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **815 publication reviews across 470 DEP-E entries**.
+- Current coverage: **816 publication reviews across 471 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4248,3 +4248,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training* | Not available from inspected sources | [arXiv:2603.12246](https://arxiv.org/abs/2603.12246) |
+
+## [DEP-E-20260819-Arxiv 2410.21066](../DEP-E-20260819-Arxiv%202410.21066/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning to Handle Complex Constraints for Vehicle Routing Problems* | Not available from inspected sources | [arXiv:2410.21066](https://arxiv.org/abs/2410.21066) |
