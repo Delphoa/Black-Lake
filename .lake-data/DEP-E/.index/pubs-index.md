@@ -3618,3 +3618,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hamming Attention Distillation: Binarizing Keys and Queries for Efficient Long-Context Transformers* | Horton, Mark; Molom-Ochir, Tergel; Liu, Peter; Gopal, Bhavna; Wei, Chiyue; Guo, Cong; Taylor, Brady; Fan, Deliang; Wang, Shan X.; Li, Hai; Chen, Yiran | [arXiv:2502.01770](https://arxiv.org/abs/2502.01770) - [DOI](https://doi.org/10.48550/arXiv.2502.01770) |
+
+
+## [DEP-E-20260818-Low-Complexity](../DEP-E-20260818-Low-Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-Complexity Pareto-Optimal 3D Beamforming for the Full-Dimensional Multi-User Massive MIMO Downlink* | Zhu, W.; Tuan, H. D.; Dutkiewicz, E.; Fang, Y.; Hanzo, L. | [arXiv:2302.09274](https://arxiv.org/abs/2302.09274) - [DOI](https://doi.org/10.1109/TVT.2023.3245539) |
