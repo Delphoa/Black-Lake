@@ -3674,3 +3674,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Swimba: Switch Mamba Model Scales State Space Models* | Du, Zhixu; Chitty-Venkata, Krishna Teja; Emani, Murali; Vishwanath, Venkatram; Li, Hai Helen; Chen, Yiran | [arXiv:2603.06938](https://arxiv.org/abs/2603.06938) - [DOI](https://doi.org/10.48550/arXiv.2603.06938) |
+
+
+## [DEP-E-20260818-LAGO Few-shot](../DEP-E-20260818-LAGO%20Few-shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LAGO: Few-shot Crosslingual Embedding Inversion Attacks via Language Similarity-Aware Graph Optimization* | Yu, Wenrui; Chen, Yiyi; Bjerva, Johannes; Kosta, Sokol; Li, Qiongxiu | [arXiv:2505.16008](https://arxiv.org/abs/2505.16008) - [DOI](https://doi.org/10.48550/arXiv.2505.16008) |
