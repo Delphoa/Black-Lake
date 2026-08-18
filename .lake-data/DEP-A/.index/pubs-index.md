@@ -10448,3 +10448,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse* | Taekyung Heo; Rasoul Shafipour; Ritchie Zhao; Maximilian Golub; Mohammad Mahdi Kamani; Ritika Borkar; Makesh Tarun Chandran; Pantea Zardoshti; Bita Darvish Rouhani | [arXiv:2608.03893v1](https://arxiv.org/abs/2608.03893v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03893) |
+
+
+## [DEP-A-20260819-TARL Transaction Aware Re](../DEP-A-20260819-TARL%20Transaction%20Aware%20Re/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03699-whitepaper-review.md`](../DEP-A-20260819-TARL%20Transaction%20Aware%20Re/2608.03699-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TARL: Transaction-Aware Reliable Ledgers for Executable Memory Management in Long-Term Agents* | Han Xiao; Hongjun Xu; Xin Zhang; Yidong Chen; Xiaodong Shi | [arXiv:2608.03699v1](https://arxiv.org/abs/2608.03699v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03699) |
