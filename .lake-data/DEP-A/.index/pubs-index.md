@@ -10007,3 +10007,12 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering* | Jieyuan Liu; Jianyang Gu; Shijie Chen; Jefferson Chen; Zhen Wang | [arXiv:2606.16494v3](https://arxiv.org/abs/2606.16494v3) - [DOI](https://doi.org/10.48550/arXiv.2606.16494) |
+
+
+## [DEP-A-20260819-DispatchRAG Grounding Eme](../DEP-A-20260819-DispatchRAG%20Grounding%20Eme/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23132-whitepaper-review.md`](../DEP-A-20260819-DispatchRAG%20Grounding%20Eme/2607.23132-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DispatchRAG: Grounding Emergency Dispatch Decisions in Real-World Protocols from Traffic Accident Video* | Muhammad Sulthan Adhipradhana; Ehsan Javanmardi; Naren Bao; Manabu Tsukada | [arXiv:2607.23132v1](https://arxiv.org/abs/2607.23132v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23132) |
