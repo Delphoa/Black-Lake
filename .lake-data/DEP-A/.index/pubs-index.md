@@ -8945,3 +8945,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models* | Ryona Noda | [arXiv:2607.14630v1](https://arxiv.org/abs/2607.14630v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14630) |
+
+
+## [DEP-A-20260818-EvoSQL Memory Augmented C](../DEP-A-20260818-EvoSQL%20Memory%20Augmented%20C/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.20489-whitepaper-review.md`](../DEP-A-20260818-EvoSQL%20Memory%20Augmented%20C/2607.20489-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL* | Jiawei Zhou; Jianwei Wang; Chenyu Zhou; Chaojian Shi; Ming Dong; Kai Wang | [arXiv:2607.20489v1](https://arxiv.org/abs/2607.20489v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20489) |
