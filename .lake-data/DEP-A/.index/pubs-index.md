@@ -10619,3 +10619,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse* | Jialuo Chen; Minghe Wang; Lingqi Jiang; Jianan Ma; Xinhao Deng; Xiaohu Du; Ruixiao Lin; Yunhao Feng; Linkang Du; Jingyi Wang | [arXiv:2608.05204v1](https://arxiv.org/abs/2608.05204v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05204) |
+
+
+## [DEP-A-20260819-SearchAuditor Auditing At](../DEP-A-20260819-SearchAuditor%20Auditing%20At/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05212-whitepaper-review.md`](../DEP-A-20260819-SearchAuditor%20Auditing%20At/2608.05212-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents* | Zhixiang Liang; Yifei Liu; Yidan Huang; Haozhe Zhao; Beichen Huang; Jiaqi Wang; Nan Duan; Qiong Cao | [arXiv:2608.05212v1](https://arxiv.org/abs/2608.05212v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05212) |
