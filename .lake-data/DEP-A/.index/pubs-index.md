@@ -9557,3 +9557,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ReToken: One Token to Improve Vision-Language Models for Visual Retrieval* | Yao Xiao; Reuben Tan; Zhen Zhu; Yuqun Wu; Jianfeng Gao; Derek Hoiem | [arXiv:2607.28627v1](https://arxiv.org/abs/2607.28627v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28627) |
+
+
+## [DEP-A-20260819-Understanding Is Done Ear](../DEP-A-20260819-Understanding%20Is%20Done%20Ear/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28263-whitepaper-review.md`](../DEP-A-20260819-Understanding%20Is%20Done%20Ear/2607.28263-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding Is Done Early: A Depth Division of Labor in Large Language Models and Its Use for Unbounded-Context Memory* | Hanzuo Liu; Xuan Qi; Chunyu Liu; Haotian Zhong; Yulong Wang; Rayying; Alex Lamb; Mingyu Gao | [arXiv:2607.28263v1](https://arxiv.org/abs/2607.28263v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28263) |
