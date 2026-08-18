@@ -4425,3 +4425,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization* | Ying Chang; Jiahang Xu; Xuan Feng; Chenyuan Yang; Peng Cheng; Yuqing Yang | [arXiv:2607.07702](https://arxiv.org/abs/2607.07702) - [DOI](https://doi.org/10.48550/arXiv.2607.07702) |
+
+
+## [DEP-E-20260819-OLEDLM A Unified Language](../DEP-E-20260819-OLEDLM%20A%20Unified%20Language/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`oledlm-a-unified-language.md`](../DEP-E-20260819-OLEDLM%20A%20Unified%20Language/oledlm-a-unified-language.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OLEDLM: A Unified Language Model for OLED Molecular Design* | Fukang Wen; Yuchong Tang; Jingyuan Li; Beichen Wang; Yixuan Jiang; Xiaoyi Jiang; Yaxuan Liu; Shunyu Wang; Zuoqiang Shi; Yi Zhu; Yanan Zhu; Pipi Hu | [arXiv:2607.20194](https://arxiv.org/abs/2607.20194) - [DOI](https://doi.org/10.48550/arXiv.2607.20194) |
