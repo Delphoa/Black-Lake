@@ -10340,3 +10340,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bole: Efficient Tree Speculation for Hybrid-Attention Language Models* | Li Wang; Yi Su; Xiabao Wu; Chiran You; Yongchao Liu; Zhan Qiu; Juelu Zhang; Jiajun Zheng; Fangxin Liu; Jie Zhang; Chen Tian; Chengying Huan | [arXiv:2608.01651v1](https://arxiv.org/abs/2608.01651v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01651) |
+
+
+## [DEP-A-20260819-Does Accuracy Equal Evide](../DEP-A-20260819-Does%20Accuracy%20Equal%20Evide/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01631-whitepaper-review.md`](../DEP-A-20260819-Does%20Accuracy%20Equal%20Evide/2608.01631-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression* | Mengting Ai; Jingrui He; Yue Guo | [arXiv:2608.01631v1](https://arxiv.org/abs/2608.01631v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01631) |
