@@ -9944,3 +9944,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG* | Haotian Zhou; Weiran Huang; Siqi Liu; Xiting Wang; Xin Zhang; Zhihao Wen | [arXiv:2607.02966v2](https://arxiv.org/abs/2607.02966v2) - [DOI](https://doi.org/10.48550/arXiv.2607.02966) |
+
+
+## [DEP-A-20260819-Towards Developing Multim](../DEP-A-20260819-Towards%20Developing%20Multim/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.01115-whitepaper-review.md`](../DEP-A-20260819-Towards%20Developing%20Multim/2607.01115-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach* | Md Abu Hanif Shaikh; Abdullah Al Shafi | [arXiv:2607.01115v1](https://arxiv.org/abs/2607.01115v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01115) |
