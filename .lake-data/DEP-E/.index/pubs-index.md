@@ -4143,3 +4143,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Aerial RIS-Enhanced Communications: Joint UAV Trajectory, Altitude Control, and Phase Shift Design* | Li, Bin; Yang, Dongdong; Liu, Lei; Niyato, Dusit | [arXiv:2510.24731](https://arxiv.org/abs/2510.24731) - [DOI](https://doi.org/10.48550/arXiv.2510.24731) |
+
+
+## [DEP-E-20260818-RLCoder Reinforcement](../DEP-E-20260818-RLCoder%20Reinforcement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RLCoder: Reinforcement Learning for Repository-Level Code Completion* | Wang, Yanlin; Wang, Yanli; Guo, Daya; Chen, Jiachi; Zhang, Ruikai; Ma, Yuchi; Zheng, Zibin | [arXiv:2407.19487](https://arxiv.org/abs/2407.19487) - [DOI](https://doi.org/10.48550/arXiv.2407.19487) |
