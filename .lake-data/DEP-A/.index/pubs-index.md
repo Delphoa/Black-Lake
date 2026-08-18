@@ -10439,3 +10439,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents* | Shuhan Xue; Zixin Ding; Yichen Shen; Yinjie Wang; Zhenfei Yin; Yingcheng Wu; Yuxin Chen; Mengdi Wang; Ling Yang | [arXiv:2608.04003v1](https://arxiv.org/abs/2608.04003v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04003) |
+
+
+## [DEP-A-20260819-Cross Model KV Cache](../DEP-A-20260819-Cross%20Model%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03893-whitepaper-review.md`](../DEP-A-20260819-Cross%20Model%20KV%20Cache/2608.03893-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse* | Taekyung Heo; Rasoul Shafipour; Ritchie Zhao; Maximilian Golub; Mohammad Mahdi Kamani; Ritika Borkar; Makesh Tarun Chandran; Pantea Zardoshti; Bita Darvish Rouhani | [arXiv:2608.03893v1](https://arxiv.org/abs/2608.03893v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03893) |
