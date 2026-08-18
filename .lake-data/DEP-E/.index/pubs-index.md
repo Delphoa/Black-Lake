@@ -3961,3 +3961,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control* | Rigo, Alberto; Chen, Yiyu; Gupta, Satyandra K.; Nguyen, Quan | [arXiv:2210.03442](https://arxiv.org/abs/2210.03442) - [DOI](https://doi.org/10.48550/arXiv.2210.03442) |
+
+
+## [DEP-E-20260818-Neural Ensemble Search](../DEP-E-20260818-Neural%20Ensemble%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Ensemble Search via Bayesian Sampling* | Shu, Yao; Chen, Yizhou; Dai, Zhongxiang; Low, Bryan Kian Hsiang | [arXiv:2109.02533](https://arxiv.org/abs/2109.02533) - [DOI](https://doi.org/10.48550/arXiv.2109.02533) |

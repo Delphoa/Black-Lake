@@ -9040,6 +9040,29 @@
         "https://doi.org/10.48550/arXiv.2210.03442"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search",
+        ".logs/20260818-Arxiv-Neural-Ensemble-Search-via-Bayesian-Sampling-LOG.md",
+        ".reports/BL-Arxiv-Neural-Ensemble-Search-via-Bayesian-Sampling-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2109.02533",
+      "arxiv_id": "2109.02533",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2109.02533",
+      "normalized_title": "Neural Ensemble Search via Bayesian Sampling",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P48; draw 75945 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 40; reselections 40; complete-source gate passed; all source files withheld locally.",
+      "slug": "Neural-Ensemble-Search-via-Bayesian-Sampling",
+      "source_urls": [
+        "https://arxiv.org/abs/2109.02533",
+        "https://arxiv.org/html/2109.02533",
+        "https://arxiv.org/pdf/2109.02533",
+        "https://doi.org/10.48550/arXiv.2109.02533"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
