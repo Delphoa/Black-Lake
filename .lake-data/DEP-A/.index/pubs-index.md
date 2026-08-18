@@ -10610,3 +10610,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents* | Linfang Shang; Ming Xu; Yiding Sun; Tianle Xia; Lingxiang Hu; Lan Xu; Ning Zheng | [arXiv:2608.05810v1](https://arxiv.org/abs/2608.05810v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05810) |
+
+
+## [DEP-A-20260819-SkillTrace Multi Trace Pr](../DEP-A-20260819-SkillTrace%20Multi%20Trace%20Pr/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05204-whitepaper-review.md`](../DEP-A-20260819-SkillTrace%20Multi%20Trace%20Pr/2608.05204-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse* | Jialuo Chen; Minghe Wang; Lingqi Jiang; Jianan Ma; Xinhao Deng; Xiaohu Du; Ruixiao Lin; Yunhao Feng; Linkang Du; Jingyi Wang | [arXiv:2608.05204v1](https://arxiv.org/abs/2608.05204v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05204) |
