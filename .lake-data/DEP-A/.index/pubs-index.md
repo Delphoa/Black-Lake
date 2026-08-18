@@ -10556,3 +10556,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Causal Episodic Memory for Feedback-Driven Agent Repair* | Khang Nhat Hoang Vo; Tam Minh Chu; Anh Trac Duc Dinh; Thuyen Vinh Ha Bui; Tho Quan | [arXiv:2608.05906v1](https://arxiv.org/abs/2608.05906v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05906) |
+
+
+## [DEP-A-20260819-NeSy RAG Neuro Symbolic](../DEP-A-20260819-NeSy%20RAG%20Neuro%20Symbolic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06292-whitepaper-review.md`](../DEP-A-20260819-NeSy%20RAG%20Neuro%20Symbolic/2608.06292-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering* | Jonas Gann; Michael Gertz | [arXiv:2608.06292v1](https://arxiv.org/abs/2608.06292v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06292) |
