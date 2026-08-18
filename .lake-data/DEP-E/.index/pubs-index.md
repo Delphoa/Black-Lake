@@ -3926,3 +3926,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters* | Liu, Xiao; Clark, Geoffrey; Campbell, Joseph; Zhou, Yifan; Amor, Heni Ben | [arXiv:2308.09870](https://arxiv.org/abs/2308.09870) - [DOI](https://doi.org/10.48550/arXiv.2308.09870) |
+
+
+## [DEP-E-20260818-Learning Retrieval](../DEP-E-20260818-Learning%20Retrieval/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Retrieval Augmentation for Personalized Dialogue Generation* | Huang, Qiushi; Fu, Shuai; Liu, Xubo; Wang, Wenwu; Ko, Tom; Zhang, Yu; Tang, Lilian | [arXiv:2406.18847](https://arxiv.org/abs/2406.18847) - [DOI](https://doi.org/10.18653/v1/2023.emnlp-main.154) |
