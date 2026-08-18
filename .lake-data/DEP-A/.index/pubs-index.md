@@ -8936,3 +8936,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data* | Shikai Qiu; Marc Finzi; Yujia Zheng; Kun Zhang; Andrew Gordon Wilson | [arXiv:2607.11883v1](https://arxiv.org/abs/2607.11883v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11883) |
+
+
+## [DEP-A-20260818-Cross Layer Error Compens](../DEP-A-20260818-Cross%20Layer%20Error%20Compens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.14630-whitepaper-review.md`](../DEP-A-20260818-Cross%20Layer%20Error%20Compens/2607.14630-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models* | Ryona Noda | [arXiv:2607.14630v1](https://arxiv.org/abs/2607.14630v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14630) |
