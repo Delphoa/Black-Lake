@@ -9899,3 +9899,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MedLatentDx: Latent Multi-Agent Communication for Cross-Hospital Rare-Disease Diagnosis* | Ziqing Wang; Lili Zhao; Kaize Ding | [arXiv:2606.13945v1](https://arxiv.org/abs/2606.13945v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13945) |
+
+
+## [DEP-A-20260819-DIRECT Direct Decoding Ef](../DEP-A-20260819-DIRECT%20Direct%20Decoding%20Ef/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26891-whitepaper-review.md`](../DEP-A-20260819-DIRECT%20Direct%20Decoding%20Ef/2607.26891-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models* | Yilei Wang; Jiaxin Gan; Kexuan Zhang; Ling Li; Wentao Zhang; Peichao Lai | [arXiv:2607.26891v1](https://arxiv.org/abs/2607.26891v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26891) |
