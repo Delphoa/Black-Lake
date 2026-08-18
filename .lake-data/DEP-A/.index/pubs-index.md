@@ -10385,3 +10385,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *S$^4$R: Selective Sampling, Subspaces, and Sparse Reconstruction for Compressed Long-Context KV Caching* | Jialong Han; You Wu; Kewei Tu | [arXiv:2608.00528v1](https://arxiv.org/abs/2608.00528v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00528) |
+
+
+## [DEP-A-20260819-Diagnose Before You Compr](../DEP-A-20260819-Diagnose%20Before%20You%20Compr/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.00423-whitepaper-review.md`](../DEP-A-20260819-Diagnose%20Before%20You%20Compr/2608.00423-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces* | Liming Liu; Chao Hu; Mingfei Lu; Cong Tan; Yiwei Ge; Chijin Zhou; Yongjun Xie; Runzhe Wang; Xiaohai Shi; Heyuan Shi | [arXiv:2608.00423v1](https://arxiv.org/abs/2608.00423v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00423) |
