@@ -9107,3 +9107,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-Attention Calibrated Deduplication for Retrieval-Augmented Generation System* | Phuong Le Huy; Nam H. Nguyen; Quan V. Dang | [arXiv:2607.24332v1](https://arxiv.org/abs/2607.24332v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24332) |
+
+
+## [DEP-A-20260819-VecTree RAG Agentic Retri](../DEP-A-20260819-VecTree%20RAG%20Agentic%20Retri/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23006-whitepaper-review.md`](../DEP-A-20260819-VecTree%20RAG%20Agentic%20Retri/2607.23006-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VecTree-RAG: An Agentic Retrieval-Augmented Generation Framework Combining Vector and Tree Retrieval for Efficiency and Accuracy* | Xinyan Zhong; Yuwei Shi; Yuqi Wei; Chen Shen; Tianhang Zhou; Zhenghao Wu | [arXiv:2607.23006v1](https://arxiv.org/abs/2607.23006v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23006) |
