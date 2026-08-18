@@ -9008,3 +9008,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Uncertainty-Aware Hybrid Retrieval for Long-Document RAG* | Hoin Jung; Xiaoqian Wang | [arXiv:2606.13550v1](https://arxiv.org/abs/2606.13550v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13550) |
+
+
+## [DEP-A-20260818-uva irlab conv at](../DEP-A-20260818-uva%20irlab%20conv%20at/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.11945-whitepaper-review.md`](../DEP-A-20260818-uva%20irlab%20conv%20at/2606.11945-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking* | Simon Lupart; Kidist Amde Mekonnen; Zahra Abbasiantaeb; Mohammad Aliannejadi | [arXiv:2606.11945v1](https://arxiv.org/abs/2606.11945v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11945) |
