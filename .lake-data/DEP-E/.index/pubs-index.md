@@ -3590,3 +3590,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unveiling the Bandwidth Nightmare: CDN Compression Format Conversion Attacks* | Lin, Ziyu; Lin, Zhiwei; Liu, Ximeng; Ying, Zuobing; Chen, Cheng | [arXiv:2409.00712](https://arxiv.org/abs/2409.00712) - [DOI](https://doi.org/10.48550/arXiv.2409.00712) |
+
+
+## [DEP-E-20260818-How to Understand Named](../DEP-E-20260818-How%20to%20Understand%20Named/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How to Understand Named Entities: Using Common Sense for News Captioning* | Xu, Ning; Wang, Yanhui; Zhang, Tingting; Tian, Hongshuo; Kankanhalli, Mohan; Liu, An-An | [arXiv:2403.06520](https://arxiv.org/abs/2403.06520) - [DOI](https://doi.org/10.48550/arXiv.2403.06520) |
