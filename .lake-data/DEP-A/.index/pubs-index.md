@@ -9053,3 +9053,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation* | Tan T. Nguyen; Quan V. Dang | [arXiv:2607.24331v1](https://arxiv.org/abs/2607.24331v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24331) |
+
+
+## [DEP-A-20260818-AgentKVShift Efficient KV](../DEP-A-20260818-AgentKVShift%20Efficient%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.21604-whitepaper-review.md`](../DEP-A-20260818-AgentKVShift%20Efficient%20KV/2607.21604-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems* | Nilesh Prasad Pandey; Jason Kong; Lanxiang Hu; Quanling Zhao; Yujie Zhao; Onat Gungor; Hao Zhang; Tajana Rosing | [arXiv:2607.21604v1](https://arxiv.org/abs/2607.21604v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21604) |
