@@ -10592,3 +10592,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs* | Jiahao Zhang; Yongzhi Tong; Zelin Fu; Pengde Zhao; Yanmei Jiang; Jiang Feng; Min Yang | [arXiv:2608.05246v1](https://arxiv.org/abs/2608.05246v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05246) |
+
+
+## [DEP-A-20260819-Personalized Deep Researc](../DEP-A-20260819-Personalized%20Deep%20Researc/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05876-whitepaper-review.md`](../DEP-A-20260819-Personalized%20Deep%20Researc/2608.05876-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Personalized Deep Research Query Refinement with Graph-Scaffolded Evidence Grounding* | Soojin Yoon; Dongha Lee | [arXiv:2608.05876v1](https://arxiv.org/abs/2608.05876v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05876) |
