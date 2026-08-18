@@ -9710,3 +9710,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bekko Embedding: Parameter-Efficient Multilingual Retrieval with Ultra-Compact Encoders* | Yuichi Tateno | [arXiv:2607.25180v1](https://arxiv.org/abs/2607.25180v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25180) |
+
+
+## [DEP-A-20260819-ACM Agentic Context Manag](../DEP-A-20260819-ACM%20Agentic%20Context%20Manag/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23809-whitepaper-review.md`](../DEP-A-20260819-ACM%20Agentic%20Context%20Manag/2607.23809-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ACM: Agentic Context Management for Long Horizon Tasks* | Xiaochuan Li; Ryan Ming; Meng Chu; Shuai Shao; Rong Jin; Chenyan Xiong | [arXiv:2607.23809v1](https://arxiv.org/abs/2607.23809v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23809) |
