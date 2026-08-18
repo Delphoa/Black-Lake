@@ -3793,3 +3793,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Lower Quantity, Higher Quality: Auditing News Content and User Perceptions on Twitter/X Algorithmic versus Chronological Timelines* | Wang, Stephanie; Huang, Shengchun; Zhou, Alvin; Metaxa, Danaë | [arXiv:2406.17097](https://arxiv.org/abs/2406.17097) - [DOI](https://doi.org/10.1145/3687046) |
+
+
+## [DEP-E-20260818-Learning Adversarial](../DEP-E-20260818-Learning%20Adversarial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Adversarial Low-rank Markov Decision Processes with Unknown Transition and Full-information Feedback* | Zhao, Canzhe; Yang, Ruofeng; Wang, Baoxiang; Zhang, Xuezhou; Li, Shuai | [arXiv:2311.07876](https://arxiv.org/abs/2311.07876) - [DOI](https://doi.org/10.48550/arXiv.2311.07876) |
