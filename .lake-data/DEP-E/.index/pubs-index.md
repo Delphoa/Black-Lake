@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **817 publication reviews across 472 DEP-E entries**.
+- Current coverage: **818 publication reviews across 473 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4260,3 +4260,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *0.21176 0.3098 0.71765A0.17647 0.2549 0.63529n0.1451 0.20392 0.55686c0.1098 0.14902 0.47451h0.07451 0.09412 0.39608o0.03922 0.03922 0.31373r\__color_backend_reset:\__color_backend_reset:\__color_backend_reset:\__color_backend_reset:\__color_backend_reset:\__color_backend_reset:: Branch-Point Data Generation for GUI Agents* | Not available from inspected sources | [arXiv:2602.07153](https://arxiv.org/abs/2602.07153) |
+
+## [DEP-E-20260819-Arxiv 2109.06355](../DEP-E-20260819-Arxiv%202109.06355/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2109.06355] Optimizing FPGA-based Accelerator Design for Large-Scale Molecular Similarity Search (Special Session Paper)* | Not available from inspected sources | [arXiv:2109.06355](https://arxiv.org/abs/2109.06355) |
