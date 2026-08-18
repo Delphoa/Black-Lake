@@ -9989,3 +9989,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Kwai Keye-VL-2.0 Technical Report* | Kwai Keye Team; Bin Wen; Changyi Liu; Chengru Song; Chongling Rao; Guowang Zhang; Han Li; Haonan Fan; Hengrui Ju; Jiankang Chen; Jiapeng Chen; Jiawei Yuan; Kaixuan Yang; Kaiyu Jiang; Kun Gai; Lingzhi Zhou; Na Nie; Sen Na; Tianke Zhang; Tingting Gao; Xuanyu Zheng; Yulong Chen; Fan Yang; Haixuan Gao; Lele Yang; Mingqiao Liu; Muxi Diao; Qi Zhang; Qile Su; Wei Chen; Wentao Hong; Xingyu Lu; Yancheng Long; Yankai Yang; Yingxin Li; Yiyang Fan; Yu Xia; Yuzhe Chen; Ziliang Lai; Chuan Yi; Haonan Jia; Tianming Liang; Weixin Xu; Xiaoxiao Ma; Yang Tian; Yufei Han; Feng Han; Hang Li; Jing Wang; Jinghui Jia; Junmin Chen; Junyu Shi; Ruilin Zhang | [arXiv:2606.10651v1](https://arxiv.org/abs/2606.10651v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10651) |
+
+
+## [DEP-A-20260819-SepPrune Separator based](../DEP-A-20260819-SepPrune%20Separator%20based/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25818-whitepaper-review.md`](../DEP-A-20260819-SepPrune%20Separator%20based/2607.25818-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SepPrune:A Separator-based Pruning Framework for Efficient Multimodal Large Language Models* | Yuchen Wang; Qihui Zhu; Yang Liu; Xiaoyan Sun; Siying Wu | [arXiv:2607.25818v1](https://arxiv.org/abs/2607.25818v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25818) |
