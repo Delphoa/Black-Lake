@@ -10160,3 +10160,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MEMRES: A Memory-Augmented Resolver with Confidence Cascade for Agentic Python Dependency Resolution* | Dao Sy Duy Minh; Tran Chi Nguyen; Trung Kiet Huynh; Pham Phu Hoa; Nguyen Lam Phu Quy; Vu Nguyen | [arXiv:2604.16941v1](https://arxiv.org/abs/2604.16941v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16941) |
+
+
+## [DEP-A-20260819-Magnifying What Matters A](../DEP-A-20260819-Magnifying%20What%20Matters%20A/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.12898-whitepaper-review.md`](../DEP-A-20260819-Magnifying%20What%20Matters%20A/2606.12898-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension* | Shenglai Zeng; Qirui Wang; Kai Guo; Xinnan Dai; Xianxuan Long; Hui Liu | [arXiv:2606.12898v1](https://arxiv.org/abs/2606.12898v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12898) |
