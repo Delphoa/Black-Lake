@@ -10511,3 +10511,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph* | Zhihao Xiao; Mengting Li; Xintao Wang; Linfeng Li; Limin Shui; Mengqi Ji; Borui Cai | [arXiv:2608.05170v1](https://arxiv.org/abs/2608.05170v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05170) |
+
+
+## [DEP-A-20260819-QEvict Recoverable Quanti](../DEP-A-20260819-QEvict%20Recoverable%20Quanti/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05326-whitepaper-review.md`](../DEP-A-20260819-QEvict%20Recoverable%20Quanti/2608.05326-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding* | Ayushman Garg; Akshita Gupta; Shaswata Bhattacharya; Abhishek Gupta; Sandeep Kumar; Manoj Kumar | [arXiv:2608.05326v1](https://arxiv.org/abs/2608.05326v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05326) |
