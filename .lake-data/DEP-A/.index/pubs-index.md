@@ -10151,3 +10151,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data* | Fengxian Dong; Zhi Zheng; Xiao Han; Wei Chen; Jingqing Ruan; Tong Xu; Yong Chen; Enhong Chen | [arXiv:2604.20261v1](https://arxiv.org/abs/2604.20261v1) - [DOI](https://doi.org/10.48550/arXiv.2604.20261) |
+
+
+## [DEP-A-20260819-MEMRES Memory Augmented R](../DEP-A-20260819-MEMRES%20Memory%20Augmented%20R/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.16941-whitepaper-review.md`](../DEP-A-20260819-MEMRES%20Memory%20Augmented%20R/2604.16941-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MEMRES: A Memory-Augmented Resolver with Confidence Cascade for Agentic Python Dependency Resolution* | Dao Sy Duy Minh; Tran Chi Nguyen; Trung Kiet Huynh; Pham Phu Hoa; Nguyen Lam Phu Quy; Vu Nguyen | [arXiv:2604.16941v1](https://arxiv.org/abs/2604.16941v1) - [DOI](https://doi.org/10.48550/arXiv.2604.16941) |
