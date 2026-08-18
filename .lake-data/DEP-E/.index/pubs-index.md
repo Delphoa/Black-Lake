@@ -3541,3 +3541,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ReAD: Reinforcement-Guided Capability Distillation for Large Language Models* | Cheng, Xueqi; Zhou, Xugui; Derr, Tyler; Dong, Yushun | [arXiv:2605.11290](https://arxiv.org/abs/2605.11290) - [DOI](https://doi.org/10.48550/arXiv.2605.11290) |
+
+
+## [DEP-E-20260818-Learning-Augmented](../DEP-E-20260818-Learning-Augmented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning-Augmented Streaming Algorithms for Correlation Clustering* | Dong, Yinhao; Jiang, Shan; Li, Shi; Peng, Pan | [arXiv:2510.10705](https://arxiv.org/abs/2510.10705) - [DOI](https://doi.org/10.48550/arXiv.2510.10705) |

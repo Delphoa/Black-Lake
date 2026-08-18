@@ -7660,6 +7660,29 @@
         "https://doi.org/10.48550/arXiv.2605.11290"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Learning-Augmented",
+        ".logs/20260818-Arxiv-Learning-Augmented-Streaming-Algorithms-for-LOG.md",
+        ".reports/BL-Arxiv-Learning-Augmented-Streaming-Algorithms-for-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.10705",
+      "arxiv_id": "2510.10705",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2510.10705",
+      "normalized_title": "Learning-Augmented Streaming Algorithms for Correlation Clustering",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P23; draw 54008 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Augmented-Streaming-Algorithms-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.10705",
+        "https://arxiv.org/html/2510.10705",
+        "https://arxiv.org/pdf/2510.10705",
+        "https://doi.org/10.48550/arXiv.2510.10705"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
