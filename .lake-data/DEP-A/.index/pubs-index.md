@@ -10016,3 +10016,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DispatchRAG: Grounding Emergency Dispatch Decisions in Real-World Protocols from Traffic Accident Video* | Muhammad Sulthan Adhipradhana; Ehsan Javanmardi; Naren Bao; Manabu Tsukada | [arXiv:2607.23132v1](https://arxiv.org/abs/2607.23132v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23132) |
+
+
+## [DEP-A-20260819-Visual Saliency Steering](../DEP-A-20260819-Visual%20Saliency%20Steering/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22013-whitepaper-review.md`](../DEP-A-20260819-Visual%20Saliency%20Steering/2607.22013-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning* | Hao Yang; Jin Wang; Xuejie Zhang | [arXiv:2607.22013v1](https://arxiv.org/abs/2607.22013v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22013) |
