@@ -9413,3 +9413,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy* | Zeyu Wang | [arXiv:2607.26648v1](https://arxiv.org/abs/2607.26648v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26648) |
+
+
+## [DEP-A-20260819-ImageWAM Do World Action](../DEP-A-20260819-ImageWAM%20Do%20World%20Action/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.19531-whitepaper-review.md`](../DEP-A-20260819-ImageWAM%20Do%20World%20Action/2606.19531-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?* | Yuyang Zhang; Wenyao Zhang; Zekun Qi; He Zhang; Haitao Lin; Jingbo Zhang; Yao Mu; Xiaokang Yang; Wenjun Zeng; Xin Jin | [arXiv:2606.19531v1](https://arxiv.org/abs/2606.19531v1) - [DOI](https://doi.org/10.48550/arXiv.2606.19531) |
