@@ -4182,3 +4182,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond the Performance Illusion: Structure-Aware Stratified Partitioning and Curriculum Distributionally Robust Optimization for Spatially Correlated Domains* | Prathamesh Patil; Arpit Jain; Aswanth Krishnan | [arXiv:2607.02055](https://arxiv.org/abs/2607.02055) - [DOI](https://doi.org/10.48550/arXiv.2607.02055) |
+
+
+## [DEP-E-20260819-MemoryLake on MemoryArena](../DEP-E-20260819-MemoryLake%20on%20MemoryArena/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`memorylake-on-memoryarena.md`](../DEP-E-20260819-MemoryLake%20on%20MemoryArena/memorylake-on-memoryarena.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends* | Chaoqun Zhan; Qiang Zhou; Guannan Li; Zhenqiang Huang; Qianjin Wang | [arXiv:2608.13883](https://arxiv.org/abs/2608.13883) - [DOI](https://doi.org/10.48550/arXiv.2608.13883) |
