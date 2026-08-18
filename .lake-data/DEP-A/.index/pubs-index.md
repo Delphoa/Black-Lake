@@ -9809,3 +9809,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents* | Sikuan Yan; Ahmed Bahloul; Ercong Nie; Susanna Schwarzmann; Riccardo Trivisonno; Volker Tresp; Yunpu Ma | [arXiv:2605.21768v1](https://arxiv.org/abs/2605.21768v1) - [DOI](https://doi.org/10.48550/arXiv.2605.21768) |
+
+
+## [DEP-A-20260819-GyRot Leveraging Hidden S](../DEP-A-20260819-GyRot%20Leveraging%20Hidden%20S/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27694-whitepaper-review.md`](../DEP-A-20260819-GyRot%20Leveraging%20Hidden%20S/2607.27694-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference* | Sangjin Kim; Yuseon Choi; Byeongcheol Kim; Jungjun Oh; Hoi-jun Yoo | [arXiv:2607.27694v1](https://arxiv.org/abs/2607.27694v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27694) |
