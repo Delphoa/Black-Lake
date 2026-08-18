@@ -4059,3 +4059,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimization Techniques for a Physical Model of Human Vocalisation* | Cámara, Mateo; Xu, Zhiyuan; Zong, Yisu; Blanco, José Luis; Reiss, Joshua D. | [arXiv:2309.14761](https://arxiv.org/abs/2309.14761) - [DOI](https://doi.org/10.48550/arXiv.2309.14761) |
+
+
+## [DEP-E-20260818-Few-shot](../DEP-E-20260818-Few-shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation* | Jiang, Chengjia; Wang, Tao; Li, Sien; Wang, Jinyang; Wang, Shirui; Antoniou, Antonios | [arXiv:2308.02790](https://arxiv.org/abs/2308.02790) - [DOI](https://doi.org/10.48550/arXiv.2308.02790) |
