@@ -3429,3 +3429,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment* | Chen, Zhihao; Zhou, Yang; Tran, Anh; Zhao, Junting; Wan, Liang; Ooi, Gideon; Cheng, Lionel; Thng, Choon Hua; Xu, Xinxing; Liu, Yong; Fu, Huazhu | [arXiv:2303.07618](https://arxiv.org/abs/2303.07618) - [DOI](https://doi.org/10.48550/arXiv.2303.07618) |
+
+
+## [DEP-E-20260818-Mask Proposal Voting](../DEP-E-20260818-Mask%20Proposal%20Voting/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mask Proposal Voting Based on Geodesic Framework for Robust Image Segmentation* | Liu, Li; Wang, Mingzhu; Li, Zhenjiang; Chen, Da; Cohen, Laurent D. | [arXiv:2606.14912](https://arxiv.org/abs/2606.14912) - [DOI](https://doi.org/10.48550/arXiv.2606.14912) |
