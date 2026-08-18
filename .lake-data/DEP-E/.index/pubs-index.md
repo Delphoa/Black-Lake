@@ -3835,3 +3835,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAIR: Retrieval-Augmented Iterative Refinement for Chinese Spelling Correction* | Liang, Junhong; Zhou, Yu | [arXiv:2504.18938](https://arxiv.org/abs/2504.18938) - [DOI](https://doi.org/10.48550/arXiv.2504.18938) |
+
+
+## [DEP-E-20260818-Coalesced TLB to Exploit](../DEP-E-20260818-Coalesced%20TLB%20to%20Exploit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Coalesced TLB to Exploit Diverse Contiguity of Memory Mapping* | Ban, Yikun; Zhou, Yuchen; Cheng, Xu; Yi, Jiangfang | [arXiv:1908.08774](https://arxiv.org/abs/1908.08774) - [DOI](https://doi.org/10.48550/arXiv.1908.08774) |

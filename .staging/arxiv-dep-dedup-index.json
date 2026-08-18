@@ -8626,6 +8626,29 @@
         "https://doi.org/10.48550/arXiv.2504.18938"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Coalesced TLB to Exploit",
+        ".logs/20260818-Arxiv-Coalesced-TLB-to-Exploit-Diverse-Contiguity-of-LOG.md",
+        ".reports/BL-Arxiv-Coalesced-TLB-to-Exploit-Diverse-Contiguity-of-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1908.08774",
+      "arxiv_id": "1908.08774",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.1908.08774",
+      "normalized_title": "Coalesced TLB to Exploit Diverse Contiguity of Memory Mapping",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P30; draw 5398 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 13; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "Coalesced-TLB-to-Exploit-Diverse-Contiguity-of",
+      "source_urls": [
+        "https://arxiv.org/abs/1908.08774",
+        "https://arxiv.org/html/1908.08774",
+        "https://arxiv.org/pdf/1908.08774",
+        "https://doi.org/10.48550/arXiv.1908.08774"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
