@@ -9962,3 +9962,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-lingual Retrieval-Augmented Classification for Dysarthria Severity Assessment* | Taeyoung Jeong; Insung Lee; Du-Seong Chang; Myoung-Wan Koo | [arXiv:2606.22910v1](https://arxiv.org/abs/2606.22910v1) - [DOI](https://doi.org/10.48550/arXiv.2606.22910) |
+
+
+## [DEP-A-20260819-SE GA Memory Augmented](../DEP-A-20260819-SE%20GA%20Memory%20Augmented/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.16883-whitepaper-review.md`](../DEP-A-20260819-SE%20GA%20Memory%20Augmented/2605.16883-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SE-GA: Memory-Augmented Self-Evolution for GUI Agents* | Shilong Jin; Lanjun Wang; Zhuosheng Zhang | [arXiv:2605.16883v1](https://arxiv.org/abs/2605.16883v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16883) |
