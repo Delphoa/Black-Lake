@@ -10475,3 +10475,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SeDeM: Selective Decompression of Hidden-State Memories for Long-Context Question Answering* | Maryam Haghifam; Jason Cong; Yizhou Sun | [arXiv:2608.00311v1](https://arxiv.org/abs/2608.00311v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00311) |
+
+
+## [DEP-A-20260819-MM ShiftKV Decode Aware](../DEP-A-20260819-MM%20ShiftKV%20Decode%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22586-whitepaper-review.md`](../DEP-A-20260819-MM%20ShiftKV%20Decode%20Aware/2607.22586-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MM-ShiftKV: Decode-Aware Prefill-Stage KV Selection for Multimodal Large Language Models* | Jinsong Shu; Chenyang Wu; Zhongle Xie; Baokun Wang; Lidan Shou | [arXiv:2607.22586v1](https://arxiv.org/abs/2607.22586v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22586) |
