@@ -4515,3 +4515,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Leaky Language Models: Stealing Architecture and Inference Optimizations via Per-Token Timing* | Sadegh Majidi; Niloofar Mireshghallah; Kazem Taram | [arXiv:2607.20723](https://arxiv.org/abs/2607.20723) - [DOI](https://doi.org/10.48550/arXiv.2607.20723) |
+
+
+## [DEP-E-20260819-Deceptive Grounding](../DEP-E-20260819-Deceptive%20Grounding/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`deceptive-grounding.md`](../DEP-E-20260819-Deceptive%20Grounding/deceptive-grounding.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation* | Cedric Caruzzo; Donggeun Yoo; Tae Soo Kim | [arXiv:2607.09349](https://arxiv.org/abs/2607.09349) - [DOI](https://doi.org/10.48550/arXiv.2607.09349) |
