@@ -9386,3 +9386,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering* | Xiaopeng Yuan; Zebin Wang; Suwen Wang; Zongxin Yang; Haohan Wang; Yushun Dong | [arXiv:2606.06906v1](https://arxiv.org/abs/2606.06906v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06906) |
+
+
+## [DEP-A-20260819-Libra Taming Attention Wo](../DEP-A-20260819-Libra%20Taming%20Attention%20Wo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23250-whitepaper-review.md`](../DEP-A-20260819-Libra%20Taming%20Attention%20Wo/2607.23250-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Libra: Taming Attention Workload Skew in Long-Context LLM Training with Bounded Sequence Pool* | Yan Wang; Xiulong Yuan; Kaiming Yang; Jiaxuan Peng; Pengju Lu; Mingzhen Li; Zhipeng Zhang; Chang Si; Zhixiang Ruan; Hongqing Chen; Linlang Jiang; Siyu Wang; Langshi Chen; Rui Men; Man Yuan; Guangming Tan; Yong Li; Weile Jia; Jingren Zhou | [arXiv:2607.23250v1](https://arxiv.org/abs/2607.23250v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23250) |
