@@ -9854,3 +9854,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluating RAG for French immigration law: a benchmark and baseline study* | Annia Abtout; Julien Delaunay; Monika Ewa Rakoczy | [arXiv:2607.24449v1](https://arxiv.org/abs/2607.24449v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24449) |
+
+
+## [DEP-A-20260819-Through Bottleneck How Mu](../DEP-A-20260819-Through%20Bottleneck%20How%20Mu/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23054-whitepaper-review.md`](../DEP-A-20260819-Through%20Bottleneck%20How%20Mu/2607.23054-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Through the Bottleneck: How Multi-head Latent Attention Separates Content from Position in Language Models* | Dhruvil S; Fenil Sojitra; Ravirajsinh Chauhan | [arXiv:2607.23054v1](https://arxiv.org/abs/2607.23054v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23054) |
