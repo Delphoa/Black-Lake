@@ -3478,3 +3478,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking* | Lan, Tian; Zhu, Bin; Jia, Qianghuai; Ren, Junyang; Li, Haijun; Wang, Longyue; Xu, Zhao; Luo, Weihua; Zhang, Kaifu | [arXiv:2510.20168](https://arxiv.org/abs/2510.20168) - [DOI](https://doi.org/10.48550/arXiv.2510.20168) |
+
+
+## [DEP-E-20260818-Minimalist Concept](../DEP-E-20260818-Minimalist%20Concept/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Minimalist Concept Erasure in Generative Models* | Zhang, Yang; Jin, Er; Dong, Yanfei; Wu, Yixuan; Torr, Philip; Khakzar, Ashkan; Stegmaier, Johannes; Kawaguchi, Kenji | [arXiv:2507.13386](https://arxiv.org/abs/2507.13386) - [DOI](https://doi.org/10.48550/arXiv.2507.13386) |

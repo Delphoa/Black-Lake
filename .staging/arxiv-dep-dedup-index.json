@@ -7453,6 +7453,29 @@
         "https://doi.org/10.48550/arXiv.2510.20168"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Minimalist Concept",
+        ".logs/20260818-Arxiv-Minimalist-Concept-Erasure-in-Generative-Models-LOG.md",
+        ".reports/BL-Arxiv-Minimalist-Concept-Erasure-in-Generative-Models-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.13386",
+      "arxiv_id": "2507.13386",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2507.13386",
+      "normalized_title": "Minimalist Concept Erasure in Generative Models",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P14; draw 44674 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Minimalist-Concept-Erasure-in-Generative-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.13386",
+        "https://arxiv.org/html/2507.13386",
+        "https://arxiv.org/pdf/2507.13386",
+        "https://doi.org/10.48550/arXiv.2507.13386"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
