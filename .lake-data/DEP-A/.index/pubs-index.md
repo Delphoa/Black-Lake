@@ -9026,3 +9026,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *5ting at SemEval-2026 Task 8: Strong End-to-End Multi-Turn RAG via LLM-Based Reranking and Faithfulness Control* | Thien-Qua-T-Nguyen; Chi Hoang; Nguyen Tran; Tri Le; Khanh Truong; Chinh Trong Nguyen | [arXiv:2606.28737v1](https://arxiv.org/abs/2606.28737v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28737) |
+
+
+## [DEP-A-20260818-RAGe Retrieval Augmented](../DEP-A-20260818-RAGe%20Retrieval%20Augmented/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2605.27445-whitepaper-review.md`](../DEP-A-20260818-RAGe%20Retrieval%20Augmented/2605.27445-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGe: A Retrieval-Augmented Generation Evaluation Framework* | Larissa Guder; João Pedro de Moura; Arthur Accorsi; Gustavo Losch do Amaral; Maurício Cecílio Magnaguagno; Felipe Meneguzzi; Marcio Sorraglia Pinho; Dalvan Griebler | [arXiv:2605.27445v1](https://arxiv.org/abs/2605.27445v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27445) |
