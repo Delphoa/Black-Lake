@@ -4497,3 +4497,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *(Towards) Scalable Reliable Automated Evaluation with Large Language Models* | Bertil Braun; Martin Forell | [arXiv:2607.28282](https://arxiv.org/abs/2607.28282) - [DOI](https://doi.org/10.48550/arXiv.2607.28282) |
+
+
+## [DEP-E-20260819-RTLCurator Label](../DEP-E-20260819-RTLCurator%20Label/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`rtlcurator-label.md`](../DEP-E-20260819-RTLCurator%20Label/rtlcurator-label.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RTLCurator: Label-Efficient Data Curation for RTL Generation* | Siyang Cai; Cangyuan Li; Wenjing Chang; Kun Wang; Haoyu Gao; Yinhe Han; Ying Wang | [arXiv:2607.29283](https://arxiv.org/abs/2607.29283) - [DOI](https://doi.org/10.48550/arXiv.2607.29283) |
