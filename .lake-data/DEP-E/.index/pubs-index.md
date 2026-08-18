@@ -4443,3 +4443,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams* | Weihao Bo; Shan Zhang; Yanpeng Sun; Jie Liu; Yongke Yao; Jinhao Du; Wei He; Kai Zou; Zechao Li; Jingdong Wang | [arXiv:2608.12262](https://arxiv.org/abs/2608.12262) - [DOI](https://doi.org/10.48550/arXiv.2608.12262) |
+
+
+## [DEP-E-20260819-The Honest Quorum Problem](../DEP-E-20260819-The%20Honest%20Quorum%20Problem/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`the-honest-quorum-problem.md`](../DEP-E-20260819-The%20Honest%20Quorum%20Problem/the-honest-quorum-problem.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure* | Jun He; Deying Yu | [arXiv:2607.16109](https://arxiv.org/abs/2607.16109) - [DOI](https://doi.org/10.48550/arXiv.2607.16109) |
