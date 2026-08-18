@@ -9440,3 +9440,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Addressable Recall Compaction for Long Context-Window Control in AI Agents* | Thang Dang; Yuma Ichikawa; Sakina Fatima; Koichi Shirahata | [arXiv:2607.25066v1](https://arxiv.org/abs/2607.25066v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25066) |
+
+
+## [DEP-A-20260819-RAGuard Layered Defense F](../DEP-A-20260819-RAGuard%20Layered%20Defense%20F/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26339-whitepaper-review.md`](../DEP-A-20260819-RAGuard%20Layered%20Defense%20F/2607.26339-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning* | Pushkal Kumar; Tucker Nielson; Tanish Kolhe; Shubham Zala; Vincent Li | [arXiv:2607.26339v1](https://arxiv.org/abs/2607.26339v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26339) |
