@@ -4380,3 +4380,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces* | Jinwei Hu; Yi Dong; Youcheng Sun; Xiaowei Huang | [arXiv:2607.02345](https://arxiv.org/abs/2607.02345) - [DOI](https://doi.org/10.48550/arXiv.2607.02345) |
+
+
+## [DEP-E-20260819-EvoPINN Agentic Discovery](../DEP-E-20260819-EvoPINN%20Agentic%20Discovery/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`evopinn-agentic-discovery.md`](../DEP-E-20260819-EvoPINN%20Agentic%20Discovery/evopinn-agentic-discovery.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks* | Peng Yin; Kai Li; Yifan Zhang; Jian Cheng | [arXiv:2607.26490](https://arxiv.org/abs/2607.26490) - [DOI](https://doi.org/10.48550/arXiv.2607.26490) |
