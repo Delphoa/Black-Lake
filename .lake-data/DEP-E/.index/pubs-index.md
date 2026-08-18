@@ -3492,3 +3492,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving* | Tian, Xiaoyu; Jiang, Tao; Yun, Longfei; Mao, Yucheng; Yang, Huitong; Wang, Yue; Wang, Yilun; Zhao, Hang | [arXiv:2304.14365](https://arxiv.org/abs/2304.14365) - [DOI](https://doi.org/10.48550/arXiv.2304.14365) |
+
+
+## [DEP-E-20260818-Last-Iterate Convergence](../DEP-E-20260818-Last-Iterate%20Convergence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Last-Iterate Convergence of Adaptive Riemannian Gradient Descent for Equilibrium Computation* | Cai, Yang; Jordan, Michael I.; Lin, Tianyi; Oikonomou, Argyris; Vlatakis-Gkaragkounis, Emmanouil-Vasileios | [arXiv:2306.16617](https://arxiv.org/abs/2306.16617) - [DOI](https://doi.org/10.48550/arXiv.2306.16617) |
