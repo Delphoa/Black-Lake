@@ -9044,3 +9044,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CHOP: Chunkwise Context-Preserving Framework for RAG on Multi Documents* | Hyunseok Park; Jihyeon Kim; Jongeun Kim; Dongsik Yoon | [arXiv:2604.15802v1](https://arxiv.org/abs/2604.15802v1) - [DOI](https://doi.org/10.48550/arXiv.2604.15802) |
+
+
+## [DEP-A-20260818-DynaCalKV Key Value Cache](../DEP-A-20260818-DynaCalKV%20Key%20Value%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.24331-whitepaper-review.md`](../DEP-A-20260818-DynaCalKV%20Key%20Value%20Cache/2607.24331-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation* | Tan T. Nguyen; Quan V. Dang | [arXiv:2607.24331v1](https://arxiv.org/abs/2607.24331v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24331) |
