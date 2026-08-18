@@ -4560,3 +4560,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models* | Hyunjae Kim et al. | [arXiv:2607.07673](https://arxiv.org/abs/2607.07673) - [DOI](https://doi.org/10.48550/arXiv.2607.07673) |
+
+
+## [DEP-E-20260819-Quantum advantage through](../DEP-E-20260819-Quantum%20advantage%20through/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`quantum-advantage-through.md`](../DEP-E-20260819-Quantum%20advantage%20through/quantum-advantage-through.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum advantage through trusted quantum computation \| IBM Quantum Computing Blog* | IBM | [Canonical source](https://www.ibm.com/quantum/blog/quantum-advantage) |
