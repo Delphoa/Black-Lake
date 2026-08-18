@@ -8580,6 +8580,29 @@
         "https://doi.org/10.48550/arXiv.2508.17330"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Code Driven Planning with",
+        ".logs/20260818-Arxiv-Code-Driven-Planning-with-Domain-Adaptive-Critic-LOG.md",
+        ".reports/BL-Arxiv-Code-Driven-Planning-with-Domain-Adaptive-Critic-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.19077",
+      "arxiv_id": "2509.19077",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2509.19077",
+      "normalized_title": "Code Driven Planning with Domain-Adaptive Critic",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P28; draw 50559 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "Code-Driven-Planning-with-Domain-Adaptive-Critic",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.19077",
+        "https://arxiv.org/html/2509.19077",
+        "https://arxiv.org/pdf/2509.19077",
+        "https://doi.org/10.48550/arXiv.2509.19077"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

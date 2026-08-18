@@ -3821,3 +3821,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering* | Liu, Boyuan; Ji, Feng; Nan, Jiayan; Zhao, Han; Chen, Weiling; Xu, Shihao; Zhou, Xing | [arXiv:2508.17330](https://arxiv.org/abs/2508.17330) - [DOI](https://doi.org/10.48550/arXiv.2508.17330) |
+
+
+## [DEP-E-20260818-Code Driven Planning with](../DEP-E-20260818-Code%20Driven%20Planning%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Code Driven Planning with Domain-Adaptive Critic* | Tian, Zikang; Peng, Shaohui; Huang, Du; Guo, Jiaming; Chen, Ruizhi; Zhang, Rui; Zhang, Xishan; Guo, Yuxuan; Du, Zidong; Guo, Qi; Li, Ling; Pu, Yewen; Hu, Xing; Chen, Yunji | [arXiv:2509.19077](https://arxiv.org/abs/2509.19077) - [DOI](https://doi.org/10.48550/arXiv.2509.19077) |
