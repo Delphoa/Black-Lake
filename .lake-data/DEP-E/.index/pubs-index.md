@@ -3758,3 +3758,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *S3MOT: Monocular 3D Object Tracking with Selective State Space Model* | Yan, Zhuohao; Feng, Shaoquan; Li, Xingxing; Zhou, Yuxuan; Xia, Chunxi; Li, Shengyu | [arXiv:2504.18068](https://arxiv.org/abs/2504.18068) - [DOI](https://doi.org/10.48550/arXiv.2504.18068) |
+
+
+## [DEP-E-20260818-Learning adaptive](../DEP-E-20260818-Learning%20adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning adaptive differential evolution algorithm from optimization experiences by policy gradient* | Sun, Jianyong; Liu, Xin; Bäck, Thomas; Xu, Zongben | [arXiv:2102.03572](https://arxiv.org/abs/2102.03572) - [DOI](https://doi.org/10.48550/arXiv.2102.03572) |
