@@ -10133,3 +10133,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes* | Zekai Wu; Jiabao Jin; Peng Cheng; Wangze Ni; Haoyang Li; Lei Chen; Junjie Yao; Jingkuan Song; Heng Tao Shen | [arXiv:2607.29173v1](https://arxiv.org/abs/2607.29173v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29173) |
+
+
+## [DEP-A-20260819-Task Decomposition Guided](../DEP-A-20260819-Task%20Decomposition%20Guided/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.06283-whitepaper-review.md`](../DEP-A-20260819-Task%20Decomposition%20Guided/2607.06283-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval* | Yanping Chen; Weijie Shi; Wen Yang; Jiajie Xu | [arXiv:2607.06283v1](https://arxiv.org/abs/2607.06283v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06283) |
