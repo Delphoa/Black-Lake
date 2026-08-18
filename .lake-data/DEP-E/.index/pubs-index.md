@@ -4200,3 +4200,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgenticECO: An Agentic Framework for ECO on 3D Integrated Circuits* | Shuo Ren; Yaohui Han; Libo Shen; Zhiqiang Jia; Rongliang Fu; Bei Yu; Tsung-Yi Ho | [arXiv:2608.03738](https://arxiv.org/abs/2608.03738) - [DOI](https://doi.org/10.48550/arXiv.2608.03738) |
+
+
+## [DEP-E-20260819-Agent Hacks Agent](../DEP-E-20260819-Agent%20Hacks%20Agent/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`agent-hacks-agent.md`](../DEP-E-20260819-Agent%20Hacks%20Agent/agent-hacks-agent.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming* | Xutao Mao; Xiang Zheng; Cong Wang | [arXiv:2607.11698](https://arxiv.org/abs/2607.11698) - [DOI](https://doi.org/10.48550/arXiv.2607.11698) |
