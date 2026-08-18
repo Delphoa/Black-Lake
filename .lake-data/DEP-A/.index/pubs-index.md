@@ -9737,3 +9737,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *S-CEReBrO: Breaking the Memory Barrier in Continuous EEG Monitoring* | Glenn Anta Bucagu; Thorir Mar Ingolfsson; Yawei Li; Luca Benini | [arXiv:2607.27913v1](https://arxiv.org/abs/2607.27913v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27913) |
+
+
+## [DEP-A-20260819-Sparse Glimpse Whole Trai](../DEP-A-20260819-Sparse%20Glimpse%20Whole%20Trai/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27735-whitepaper-review.md`](../DEP-A-20260819-Sparse%20Glimpse%20Whole%20Trai/2607.27735-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Sparse Glimpse of the Whole: Train-Free Self-Speculative Decoding* | Yuesong Liu; Yuan Zeng; Min Lyu; Ruilin Liu; Yu Guo; Yinlong Xu | [arXiv:2607.27735v1](https://arxiv.org/abs/2607.27735v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27735) |
