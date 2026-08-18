@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **980 publication reviews across 635 DEP-E entries**.
+- Current coverage: **981 publication reviews across 636 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5238,3 +5238,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stochastic First-Order Methods with Non-smooth and Non-Euclidean Proximal Terms for Nonconvex High-Dimensional Stochastic Optimization Research is supported from HKU-IDS start-up fund; and Guangdong Province Fundamental and Applied Fundamental Research Regional Joint Fund, 2022B1515130009.* | Not available from inspected sources | [arXiv:2406.19475](https://arxiv.org/abs/2406.19475) |
+
+## [DEP-E-20260819-Arxiv 2009.06562](../DEP-E-20260819-Arxiv%202009.06562/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2009.06562] Effective Proximal Methods for Non-convex Non-smooth Regularized Learning* | Not available from inspected sources | [arXiv:2009.06562](https://arxiv.org/abs/2009.06562) |
