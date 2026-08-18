@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **931 publication reviews across 586 DEP-E entries**.
+- Current coverage: **932 publication reviews across 587 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4944,3 +4944,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials* | Not available from inspected sources | [arXiv:2606.15892](https://arxiv.org/abs/2606.15892) |
+
+## [DEP-E-20260819-Arxiv 2407.12687](../DEP-E-20260819-Arxiv%202407.12687/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach1footnote 11footnote 1Parts of this paper were modified on 2025-11-28 in response to the peer feedback provided by J. Roschelle, E. McLaughlin and K. Koedinger [roschelle2025beyond].* | Not available from inspected sources | [arXiv:2407.12687](https://arxiv.org/abs/2407.12687) |
