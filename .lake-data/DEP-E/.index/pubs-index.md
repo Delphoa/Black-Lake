@@ -3786,3 +3786,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces* | Du, Mingxuan; Xu, Benfeng; Zhu, Chiwei; Wang, Shaohan; Wang, Pengyu; Wang, Xiaorui; Mao, Zhendong | [arXiv:2602.03442](https://arxiv.org/abs/2602.03442) - [DOI](https://doi.org/10.48550/arXiv.2602.03442) |
+
+
+## [DEP-E-20260818-Lower Quantity Higher](../DEP-E-20260818-Lower%20Quantity%20Higher/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lower Quantity, Higher Quality: Auditing News Content and User Perceptions on Twitter/X Algorithmic versus Chronological Timelines* | Wang, Stephanie; Huang, Shengchun; Zhou, Alvin; Metaxa, Danaë | [arXiv:2406.17097](https://arxiv.org/abs/2406.17097) - [DOI](https://doi.org/10.1145/3687046) |
