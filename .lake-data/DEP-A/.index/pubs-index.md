@@ -9494,3 +9494,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Softmax Throws Away: Mass-Aware Attention for Evidence Accumulation* | Minwoo Yu; Young-guk Ha | [arXiv:2607.22781v1](https://arxiv.org/abs/2607.22781v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22781) |
+
+
+## [DEP-A-20260819-Sparrow Sparse Rollout St](../DEP-A-20260819-Sparrow%20Sparse%20Rollout%20St/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.08446-whitepaper-review.md`](../DEP-A-20260819-Sparrow%20Sparse%20Rollout%20St/2606.08446-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparrow: Sparse Rollout for Stable and Efficient Long-context RL of Large Language Models* | Yang Zhou; Ranajoy Sadhukhan; Zhaofeng Sun; Zhuoming Chen; Souvik Kundu; Saket Dingliwal; Sai Muralidhar Jayanthi; Aram Galstyan; Haizhong Zheng; Beidi Chen | [arXiv:2606.08446v1](https://arxiv.org/abs/2606.08446v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08446) |
