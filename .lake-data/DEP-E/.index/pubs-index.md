@@ -3324,3 +3324,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning* | Hao, Qianyue; Li, Sibo; Yuan, Jian; Li, Yong | [arXiv:2505.14140](https://arxiv.org/abs/2505.14140) - [DOI](https://doi.org/10.48550/arXiv.2505.14140) |
+
+
+## [DEP-E-20260818-Inner-Probe Discovering](../DEP-E-20260818-Inner-Probe%20Discovering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inner-Probe: Discovering Copyright-related Data Generation in LLM Architecture* | Ma, Qichao; Zhu, Rui-Jie; Liu, Peiye; Yan, Renye; Zhang, Fahong; Liang, Ling; Li, Meng; Yu, Zhaofei; Wang, Zongwei; Cai, Yimao; Huang, Tiejun | [arXiv:2410.04454](https://arxiv.org/abs/2410.04454) - [DOI](https://doi.org/10.1109/TAI.2025.3645710) |

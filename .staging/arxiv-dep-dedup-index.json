@@ -6947,6 +6947,29 @@
         "https://doi.org/10.48550/arXiv.2505.14140"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Inner-Probe Discovering",
+        ".logs/20260818-Arxiv-Inner-Probe-Discovering-Copyright-related-Data-LOG.md",
+        ".reports/BL-Arxiv-Inner-Probe-Discovering-Copyright-related-Data-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.04454",
+      "arxiv_id": "2410.04454",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.1109/TAI.2025.3645710",
+      "normalized_title": "Inner-Probe: Discovering Copyright-related Data Generation in LLM Architecture",
+      "notes": "Job BLAD-2200-20260818-50A35360 item BLAD-2200-20260818-50A35360-P02; draw 9053 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Inner-Probe-Discovering-Copyright-related-Data",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.04454",
+        "https://arxiv.org/html/2410.04454",
+        "https://arxiv.org/pdf/2410.04454",
+        "https://doi.org/10.1109/TAI.2025.3645710"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
