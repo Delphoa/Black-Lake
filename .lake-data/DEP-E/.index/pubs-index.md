@@ -3989,3 +3989,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics* | Wang, Junhui; Huo, Dongjie; Xu, Zehui; Shi, Yongliang; Yan, Yimin; Wang, Yuanxin; Gao, Chao; Qiao, Yan; Zhou, Guyue | [arXiv:2502.09238](https://arxiv.org/abs/2502.09238) - [DOI](https://doi.org/10.48550/arXiv.2502.09238) |
+
+
+## [DEP-E-20260818-A parallel structured](../DEP-E-20260818-A%20parallel%20structured/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A parallel structured divide-and-conquer algorithm for symmetric tridiagonal eigenvalue problems* | Liao, Xia; Li, Shengguo; Lu, Yutong; Roman, Jose E. | [arXiv:2008.01990](https://arxiv.org/abs/2008.01990) - [DOI](https://doi.org/10.1109/TPDS.2020.3019471) |

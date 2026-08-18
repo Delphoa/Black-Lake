@@ -9132,6 +9132,29 @@
         "https://doi.org/10.48550/arXiv.2502.09238"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-A parallel structured",
+        ".logs/20260818-Arxiv-A-parallel-structured-divide-and-conquer-LOG.md",
+        ".reports/BL-Arxiv-A-parallel-structured-divide-and-conquer-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2008.01990",
+      "arxiv_id": "2008.01990",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.1109/TPDS.2020.3019471",
+      "normalized_title": "A parallel structured divide-and-conquer algorithm for symmetric tridiagonal eigenvalue problems",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P37; draw 18032 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-parallel-structured-divide-and-conquer",
+      "source_urls": [
+        "https://arxiv.org/abs/2008.01990",
+        "https://arxiv.org/html/2008.01990",
+        "https://arxiv.org/pdf/2008.01990",
+        "https://doi.org/10.1109/TPDS.2020.3019471"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
