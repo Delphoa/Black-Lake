@@ -9683,3 +9683,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability* | Sizhe Zhou; Sheldon Yu; Hui Wei; Junda Wu; Siru Ouyang; Yizhu Jiao; Shijia Pan; Julian McAuley; Yu Zhang; Tong Yu; Jiawei Han | [arXiv:2607.26637v1](https://arxiv.org/abs/2607.26637v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26637) |
+
+
+## [DEP-A-20260819-Graph Native Bitemporal M](../DEP-A-20260819-Graph%20Native%20Bitemporal%20M/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26520-whitepaper-review.md`](../DEP-A-20260819-Graph%20Native%20Bitemporal%20M/2607.26520-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Graph-Native Bitemporal Memory Store for Conversational AI Agents* | Alp Niksarli; Gopesh Baheti | [arXiv:2607.26520v1](https://arxiv.org/abs/2607.26520v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26520) |
