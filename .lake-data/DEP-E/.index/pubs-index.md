@@ -3317,3 +3317,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation* | Lu, Yunfan; Messikommer, Nico; Xu, Xiaogang; Chen, Liming; Chen, Yuhan; Zubić, Nikola; Scaramuzza, Davide; Xiong, Hui | [arXiv:2511.18037v2](https://arxiv.org/abs/2511.18037) - [DOI](https://doi.org/10.48550/arXiv.2511.18037) |
+
+
+## [DEP-E-20260818-RL of Thoughts Navigating](../DEP-E-20260818-RL%20of%20Thoughts%20Navigating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning* | Hao, Qianyue; Li, Sibo; Yuan, Jian; Li, Yong | [arXiv:2505.14140](https://arxiv.org/abs/2505.14140) - [DOI](https://doi.org/10.48550/arXiv.2505.14140) |
