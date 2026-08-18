@@ -4461,3 +4461,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs* | Tianyu Wang; Gourav Rattihalli; Aditya Dhakal; Longfei Shangguan; Dejan Milojicic | [arXiv:2606.30391](https://arxiv.org/abs/2606.30391) - [DOI](https://doi.org/10.48550/arXiv.2606.30391) |
+
+
+## [DEP-E-20260819-SeerGuard A Safety](../DEP-E-20260819-SeerGuard%20A%20Safety/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`seerguard-a-safety.md`](../DEP-E-20260819-SeerGuard%20A%20Safety/seerguard-a-safety.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction* | Xue Yu; Bo Yuan; Pengshuai Yang; Kailin Zhao; Hong Hu; Junlan Feng | [arXiv:2607.15550](https://arxiv.org/abs/2607.15550) - [DOI](https://doi.org/10.48550/arXiv.2607.15550) |
