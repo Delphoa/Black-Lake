@@ -4045,3 +4045,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Rigid Instance Scene Flow* | Ma, Wei-Chiu; Wang, Shenlong; Hu, Rui; Xiong, Yuwen; Urtasun, Raquel | [arXiv:1904.08913](https://arxiv.org/abs/1904.08913) - [DOI](https://doi.org/10.48550/arXiv.1904.08913) |
+
+
+## [DEP-E-20260818-OffSeeker Online](../DEP-E-20260818-OffSeeker%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents* | Zhou, Yuhang; Zheng, Kai; Chen, Qiguang; Hu, Mengkang; Sun, Qingfeng; Xu, Can; Chen, Jingjing | [arXiv:2601.18467](https://arxiv.org/abs/2601.18467) - [DOI](https://doi.org/10.48550/arXiv.2601.18467) |
