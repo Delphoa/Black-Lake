@@ -4407,3 +4407,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenRad: a Curated Repository of Open-access AI models for Radiology* | Konstantinos Vrettos; Galini Papadaki; Emmanouil Brilakis; Matthaios Triantafyllou; Dimitrios Leventis; Despina Staraki; Maria Mavroforou; Eleftherios Tzanis; Konstantina Giouroukou; Michail E. Klontzas | [arXiv:2603.02062](https://arxiv.org/abs/2603.02062) - [DOI](https://doi.org/10.48550/arXiv.2603.02062) |
+
+
+## [DEP-E-20260819-What LLM Agents Say When](../DEP-E-20260819-What%20LLM%20Agents%20Say%20When/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`what-llm-agents-say-when.md`](../DEP-E-20260819-What%20LLM%20Agents%20Say%20When/what-llm-agents-say-when.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates* | Arman Ghaffarizadeh; Danyal Mohaddes; Aliakbar Izadkhah; Shahriar Noroozizadeh | [arXiv:2607.02507](https://arxiv.org/abs/2607.02507) - [DOI](https://doi.org/10.48550/arXiv.2607.02507) |
