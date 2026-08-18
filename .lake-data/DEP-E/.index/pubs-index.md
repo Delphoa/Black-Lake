@@ -4479,3 +4479,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Google DeepMind and partners announce multi-agent safety research funding call. â Google DeepMind* | Google DeepMind | [Canonical source](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) |
+
+
+## [DEP-E-20260819-Agent vs Parametric World](../DEP-E-20260819-Agent%20vs%20Parametric%20World/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`agent-vs-parametric-world.md`](../DEP-E-20260819-Agent%20vs%20Parametric%20World/agent-vs-parametric-world.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents* | Xinyuan Song; Zekun Cai | [arXiv:2606.27806](https://arxiv.org/abs/2606.27806) - [DOI](https://doi.org/10.48550/arXiv.2606.27806) |
