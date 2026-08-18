@@ -4164,3 +4164,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities* | Chen, Kai; Ding, Zichen; Ge, Jiaye; Jiang, Shufan; Li, Mo; Li, Qingqiu; Li, Zehao; Li, Zonglin; Liang, Tianhao; Liu, Shudong; Ma, Zerun; Shang, Zixin; Tian, Wenhui; Wang, Zun; Wu, Liwei; Wu, Zhenyu; Xu, Jun; Yang, Bowen; Yuan, Dingbo; Zhang, Qi; Zhang, Songyang; Zhou, Peiheng; Zhu, Dongsheng | [arXiv:2607.13705](https://arxiv.org/abs/2607.13705) - [DOI](https://doi.org/10.48550/arXiv.2607.13705) |
+
+
+## [DEP-E-20260819-Can AI Agents Really](../DEP-E-20260819-Can%20AI%20Agents%20Really/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`can-ai-agents-really.md`](../DEP-E-20260819-Can%20AI%20Agents%20Really/can-ai-agents-really.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows* | Jinyuan Deng; Zhengrui Chen; Xufeng Wei; Tianyu Xing; Chenyi Wen; Qi Sun; Cheng Zhuo | [arXiv:2607.17528](https://arxiv.org/abs/2607.17528) - [DOI](https://doi.org/10.48550/arXiv.2607.17528) |
