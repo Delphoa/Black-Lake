@@ -3527,3 +3527,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers* | Sun, Yasheng; Xu, Zhiliang; Zhou, Hang; Guan, Jiazhi; Yang, Quanwei; Wang, Kaisiyuan; Liang, Borong; Li, Yingying; Feng, Haocheng; Wang, Jingdong; Liu, Ziwei; Hideki, Koike | [arXiv:2503.09942](https://arxiv.org/abs/2503.09942) - [DOI](https://doi.org/10.48550/arXiv.2503.09942) |
+
+
+## [DEP-E-20260818-VFM-Loc Zero-Shot](../DEP-E-20260818-VFM-Loc%20Zero-Shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VFM-Loc: Training-Free Cross-View Geo-Localization via Aligning Discriminative Visual Hierarchies* | Lu, Jun; Sang, Zehao; Wei, Haoqi; Liu, Xiangyun; Zhu, Kun; Guo, Haitao; Gong, Zhihui; Ding, Lei | [arXiv:2603.13855](https://arxiv.org/abs/2603.13855) - [DOI](https://doi.org/10.48550/arXiv.2603.13855) |
