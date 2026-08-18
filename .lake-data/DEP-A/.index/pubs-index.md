@@ -10709,3 +10709,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Mechanistic Analysis of Gender Sensitivity in Dense Retrieval Models* | Catherine Chen; Maarten de Rijke; Carsten Eickhoff | [arXiv:2608.05467v1](https://arxiv.org/abs/2608.05467v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05467) |
+
+
+## [DEP-A-20260819-Align RAG Alignment Is](../DEP-A-20260819-Align%20RAG%20Alignment%20Is/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05571-whitepaper-review.md`](../DEP-A-20260819-Align%20RAG%20Alignment%20Is/2608.05571-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Align-RAG: Alignment Is All You Need for TSFM In-Context Learning* | Mohammad Asadi; Soheil Hor; Bardiya Akhbari; Jack W. O'Sullivan; Tahoura Nedaee; Layne C. Price; Raviteja Anantha; Euan Ashley; Ehsan Adeli | [arXiv:2608.05571v1](https://arxiv.org/abs/2608.05571v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05571) |
