@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **933 publication reviews across 588 DEP-E entries**.
+- Current coverage: **934 publication reviews across 589 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4956,3 +4956,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[1204.1113] Sub-Linear Root Detection, and New Hardness Results, for Sparse Polynomials Over Finite Fields* | Not available from inspected sources | [arXiv:1204.1113](https://arxiv.org/abs/1204.1113) |
+
+## [DEP-E-20260819-Arxiv 2204.12130](../DEP-E-20260819-Arxiv%202204.12130/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2204.12130] LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models* | Not available from inspected sources | [arXiv:2204.12130](https://arxiv.org/abs/2204.12130) |
