@@ -9611,3 +9611,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemTxn: A Transaction Boundary for Source-Supported Updates and Complete-State Recovery in Agent Memory* | Hanshuai Cui; Zhiqing Tang; Zhi Yao; Fanshuai Meng; Qianli Ma; Weijia Jia | [arXiv:2607.27834v1](https://arxiv.org/abs/2607.27834v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27834) |
+
+
+## [DEP-A-20260819-ChronoMem Version Control](../DEP-A-20260819-ChronoMem%20Version%20Control/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27773-whitepaper-review.md`](../DEP-A-20260819-ChronoMem%20Version%20Control/2607.27773-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory* | Yongye Su; Wujiang Xu; Chaoji Zuo; Elisa Bertino | [arXiv:2607.27773v1](https://arxiv.org/abs/2607.27773v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27773) |
