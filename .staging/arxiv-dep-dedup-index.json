@@ -8534,6 +8534,29 @@
         "https://doi.org/10.48550/arXiv.2309.07518"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Payload trajectory",
+        ".logs/20260818-Arxiv-Payload-trajectory-tracking-control-for-aerial-LOG.md",
+        ".reports/BL-Arxiv-Payload-trajectory-tracking-control-for-aerial-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.23296",
+      "arxiv_id": "2510.23296",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2510.23296",
+      "normalized_title": "Payload trajectory tracking control for aerial transportation systems with cable length online optimization",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P26; draw 26075 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 12; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "Payload-trajectory-tracking-control-for-aerial",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.23296",
+        "https://arxiv.org/html/2510.23296",
+        "https://arxiv.org/pdf/2510.23296",
+        "https://doi.org/10.48550/arXiv.2510.23296"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
