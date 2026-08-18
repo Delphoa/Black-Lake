@@ -9161,3 +9161,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TriShieldRAG: A Three-Ring Defense-in-Depth Framework Against Knowledge Corruption in Retrieval-Augmented Generation* | Susil Kumar Mohanty; Rohit Patel; Kosuru Yuvaraj; Jeenal Chaudhary; Disha Singhania | [arXiv:2607.23838v1](https://arxiv.org/abs/2607.23838v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23838) |
+
+
+## [DEP-A-20260819-MADRAG Multi Agent Debate](../DEP-A-20260819-MADRAG%20Multi%20Agent%20Debate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.06754-whitepaper-review.md`](../DEP-A-20260819-MADRAG%20Multi%20Agent%20Debate/2606.06754-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MADRAG: Multi-Agent Debate with Retrieval-Augmented Generation for Training-Free Analytic Essay Scoring* | Ali Keramati; Shiyuan Zhou; Sharad Mehrotra; Mark Warschauer | [arXiv:2606.06754v1](https://arxiv.org/abs/2606.06754v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06754) |
