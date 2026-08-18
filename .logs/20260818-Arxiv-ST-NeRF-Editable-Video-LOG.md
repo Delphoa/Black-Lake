@@ -28,6 +28,14 @@
 - `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`
 - `.staging/arxiv-dep-dedup-index.json`
 
+## Submission Status
+
+- Public artifact commit: https://github.com/Delphoa/Black-Lake/commit/0d655980
+- Dedup-pointer commit: https://github.com/Delphoa/Black-Lake/commit/f6514838
+- Slack notification: https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1787034788938619
+- Submission result: direct commits pushed to the default branch and remote files verified.
+- Source files remain local; no PDF, HTML, cache, extracted text, source package, or verification record was uploaded or attached.
+
 ## Next-Review Questions
 
 1. Can the official ST-NeRF repository reproduce the paper’s edited free-viewpoint results with the released walking or taekwondo artifacts under a pinned environment?

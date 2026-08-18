@@ -5,7 +5,7 @@
 - Paper: arXiv:2104.14786v1, “Editable Free-Viewpoint Video using a Layered Neural Representation.”
 - Run date: 2026-08-18. Exact local execution time and timezone are withheld.
 - Whole-job trajectory: approximately 22 minutes of active tool work before artifact drafting; below the 90–120 minute guidance because the first random draw was eligible, the single repair completed in one bounded attempt, and extraction was local and fast. Source-first review was not truncated because a phase estimate was exceeded.
-- Final state: source gate passed, cache status `cached`, dedup pointer pending final commit reference, public artifacts generated locally, no source files uploaded.
+- Final state: source gate passed, cache status `cached`, dedup pointer deposited, public artifacts pushed and remotely verified, no source files uploaded.
 
 ## Phase Metrics
 
@@ -18,7 +18,7 @@
 | Cache preflight and missing-only extraction | 1–5 min | about 1 sec of process time | complete | HTML and PDF text cached; source text absent. |
 | Source-first paper review | 20–45 min | about 8 min active review | complete | Full PDF text, full-paper HTML text, metadata, project page, official repository README/config/demo, and visual Table 1 inspection reviewed. |
 | Related DEP exploration | 10–20 min | about 3 min active review | complete | Exactly three concrete-overlap entries selected. |
-| Artifact drafting and validation | 20–40 min | pending final repository validation | in progress | Public-safe logs, report, manuscript, README, and dedup pointer are being prepared. |
+| Artifact drafting and validation | 20–40 min | complete | complete | Public-safe logs, report, manuscript, README, and dedup pointer passed validation and remote verification. |
 
 ## Extraction Cache
 
@@ -38,7 +38,9 @@
 - Relevant Black-Lake-Data repository searches for the arXiv ID and normalized title: no results.
 - Same-paper marker within the preceding 24 hours: none observed.
 - Reselection status: no reselection required.
-- Final pointer status: a new `deposited` entry will be added with repository-relative artifact paths and public source URLs; the final commit/PR reference will be filled after submission.
+- Final pointer status: the new `deposited` entry contains repository-relative artifact paths, public source URLs, and the artifact commit reference.
+- Submission status: direct commits `0d655980` and `f6514838` were pushed to the default branch and verified through the GitHub connector.
+- Slack status: notification posted and read back in `#black-lake-artifacts` at https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1787034788938619.
 
 ## Expected vs Observed Trajectory
 
