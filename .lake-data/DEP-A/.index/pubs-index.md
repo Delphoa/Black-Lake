@@ -10646,3 +10646,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Ignition Index: Measuring Global Workspace Dynamics in Language Models* | Saman Rahbar | [arXiv:2608.05160v1](https://arxiv.org/abs/2608.05160v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05160) |
+
+
+## [DEP-A-20260819-TriQua Reconciling Granul](../DEP-A-20260819-TriQua%20Reconciling%20Granul/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05228-whitepaper-review.md`](../DEP-A-20260819-TriQua%20Reconciling%20Granul/2608.05228-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TriQua: Reconciling Granularity and Context in Factuality Evaluation* | Jin Liu; Steffen Thoma; Achim Rettinger | [arXiv:2608.05228v1](https://arxiv.org/abs/2608.05228v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05228) |
