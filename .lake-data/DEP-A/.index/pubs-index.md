@@ -8981,3 +8981,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries* | Miguel P. Bento; João F. Seabra | [arXiv:2607.20757v2](https://arxiv.org/abs/2607.20757v2) - [DOI](https://doi.org/10.48550/arXiv.2607.20757) |
+
+
+## [DEP-A-20260818-MXSens Sensitivity Aware](../DEP-A-20260818-MXSens%20Sensitivity%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.17733-whitepaper-review.md`](../DEP-A-20260818-MXSens%20Sensitivity%20Aware/2607.17733-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference* | Simla Burcu Harma; Danila Mishin; Zhengyuan Su; Ayan Chakraborty; Elizaveta Kostenok; Dongho Ha; Babak Falsafi; Martin Jaggi; Yunho Oh; Amir Yazdanbakhsh | [arXiv:2607.17733v1](https://arxiv.org/abs/2607.17733v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17733) |
