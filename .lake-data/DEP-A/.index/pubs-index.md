@@ -10223,3 +10223,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WitCert: Sound Runtime Risk Observability and Gating for KV-Cache Quantization* | Fanzhe Wei; Li Liu | [arXiv:2607.28699v1](https://arxiv.org/abs/2607.28699v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28699) |
+
+
+## [DEP-A-20260819-Every Picture Tells Dange](../DEP-A-20260819-Every%20Picture%20Tells%20Dange/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.12616-whitepaper-review.md`](../DEP-A-20260819-Every%20Picture%20Tells%20Dange/2604.12616-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs* | Jianhao Chen; Haoyang Chen; Hanjie Zhao; Haozhe Liang; Tieyun Qian | [arXiv:2604.12616v1](https://arxiv.org/abs/2604.12616v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12616) |
