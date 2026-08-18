@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **969 publication reviews across 624 DEP-E entries**.
+- Current coverage: **970 publication reviews across 625 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5172,3 +5172,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations* | Not available from inspected sources | [arXiv:2607.08025](https://arxiv.org/abs/2607.08025) |
+
+## [DEP-E-20260819-Arxiv 2403.15246](../DEP-E-20260819-Arxiv%202403.15246/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions* | Not available from inspected sources | [arXiv:2403.15246](https://arxiv.org/abs/2403.15246) |
