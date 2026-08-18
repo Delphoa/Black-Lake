@@ -10358,3 +10358,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age* | Siddhant Ray; Nick Feamster; Junchen Jiang | [arXiv:2608.01526v1](https://arxiv.org/abs/2608.01526v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01526) |
+
+
+## [DEP-A-20260819-RestoreKV Recovering Full](../DEP-A-20260819-RestoreKV%20Recovering%20Full/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01247-whitepaper-review.md`](../DEP-A-20260819-RestoreKV%20Recovering%20Full/2608.01247-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction* | Changwoo Baek; Seungjun Shin; Kyeongbo Kong | [arXiv:2608.01247v1](https://arxiv.org/abs/2608.01247v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01247) |
