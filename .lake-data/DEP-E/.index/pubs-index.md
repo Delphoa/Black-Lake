@@ -4551,3 +4551,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiTMS: A High-Throughput Multi-Stream Linguistic Steganography Framework* | Ruiyi Yan; Zhongliang Yang; Yugo Murawaki | [arXiv:2607.23597](https://arxiv.org/abs/2607.23597) - [DOI](https://doi.org/10.48550/arXiv.2607.23597) |
+
+
+## [DEP-E-20260819-MedPMC A Systematic](../DEP-E-20260819-MedPMC%20A%20Systematic/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`medpmc-a-systematic.md`](../DEP-E-20260819-MedPMC%20A%20Systematic/medpmc-a-systematic.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models* | Hyunjae Kim et al. | [arXiv:2607.07673](https://arxiv.org/abs/2607.07673) - [DOI](https://doi.org/10.48550/arXiv.2607.07673) |
