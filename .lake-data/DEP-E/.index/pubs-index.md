@@ -3779,3 +3779,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented Multimodal Depression Detection* | Hou, Ruibo; Teng, Shiyu; Liu, Jiaqing; Chai, Shurong; Li, Yinhao; Lin, Lanfen; Chen, Yen-Wei | [arXiv:2511.01892](https://arxiv.org/abs/2511.01892) - [DOI](https://doi.org/10.48550/arXiv.2511.01892) |
+
+
+## [DEP-E-20260818-A-RAG Scaling Agentic](../DEP-E-20260818-A-RAG%20Scaling%20Agentic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces* | Du, Mingxuan; Xu, Benfeng; Zhu, Chiwei; Wang, Shaohan; Wang, Pengyu; Wang, Xiaorui; Mao, Zhendong | [arXiv:2602.03442](https://arxiv.org/abs/2602.03442) - [DOI](https://doi.org/10.48550/arXiv.2602.03442) |

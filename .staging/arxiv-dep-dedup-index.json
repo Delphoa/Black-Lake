@@ -8442,6 +8442,29 @@
         "https://doi.org/10.48550/arXiv.2511.01892"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic",
+        ".logs/20260818-Arxiv-A-RAG-Scaling-Agentic-Retrieval-Augmented-LOG.md",
+        ".reports/BL-Arxiv-A-RAG-Scaling-Agentic-Retrieval-Augmented-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.03442",
+      "arxiv_id": "2602.03442",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2602.03442",
+      "normalized_title": "A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P22; draw 65613 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-RAG-Scaling-Agentic-Retrieval-Augmented",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.03442",
+        "https://arxiv.org/html/2602.03442",
+        "https://arxiv.org/pdf/2602.03442",
+        "https://doi.org/10.48550/arXiv.2602.03442"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
