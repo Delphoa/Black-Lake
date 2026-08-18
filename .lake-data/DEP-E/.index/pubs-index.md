@@ -3940,3 +3940,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering* | Xie, Zhongwei; Liu, Ling; Wu, Yanzhao; Zhong, Luo; Li, Lin | [arXiv:2110.11592](https://arxiv.org/abs/2110.11592) - [DOI](https://doi.org/10.1145/3490519) |
+
+
+## [DEP-E-20260818-Understanding the](../DEP-E-20260818-Understanding%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding the Complexity Gains of Single-Task RL with a Curriculum* | Li, Qiyang; Zhai, Yuexiang; Ma, Yi; Levine, Sergey | [arXiv:2212.12809](https://arxiv.org/abs/2212.12809) - [DOI](https://doi.org/10.48550/arXiv.2212.12809) |
