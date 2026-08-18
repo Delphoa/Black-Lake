@@ -9251,3 +9251,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering* | Wenchao Ma; Changran Liu; Sharon X. Huang; Haomiao Jiang | [arXiv:2607.21848v2](https://arxiv.org/abs/2607.21848v2) - [DOI](https://doi.org/10.48550/arXiv.2607.21848) |
+
+
+## [DEP-A-20260819-Copy Less Ground More](../DEP-A-20260819-Copy%20Less%20Ground%20More/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.19345-whitepaper-review.md`](../DEP-A-20260819-Copy%20Less%20Ground%20More/2607.19345-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning* | Lizhe Fang; Weizhou Shen; Tianyi Tang; Yisen Wang | [arXiv:2607.19345v1](https://arxiv.org/abs/2607.19345v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19345) |
