@@ -9881,3 +9881,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization* | Yuyang Ye; Che-Kuan Shen; Xiangfei Hu; Yuchen Liu; Shuo Yin; Xufeng Yao; Bei Yu; Tsung-Yi Ho | [arXiv:2606.08944v1](https://arxiv.org/abs/2606.08944v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08944) |
+
+
+## [DEP-A-20260819-Customer Agent Overcoming](../DEP-A-20260819-Customer%20Agent%20Overcoming/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.07995-whitepaper-review.md`](../DEP-A-20260819-Customer%20Agent%20Overcoming/2606.07995-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Customer-Agent: Overcoming Context Limitations in Ultra-Long Shopping Trajectories via Tool-Augmented Agents and RLVR* | Hongye Liu; Rongmei Lin; Anurag Kashyap; Hejie Cui; Ricardo Henao; Besnik Fetahu; Bing Yin | [arXiv:2606.07995v1](https://arxiv.org/abs/2606.07995v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07995) |
