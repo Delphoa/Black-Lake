@@ -4470,3 +4470,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction* | Xue Yu; Bo Yuan; Pengshuai Yang; Kailin Zhao; Hong Hu; Junlan Feng | [arXiv:2607.15550](https://arxiv.org/abs/2607.15550) - [DOI](https://doi.org/10.48550/arXiv.2607.15550) |
+
+
+## [DEP-E-20260819-Google DeepMind and](../DEP-E-20260819-Google%20DeepMind%20and/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`google-deepmind-and.md`](../DEP-E-20260819-Google%20DeepMind%20and/google-deepmind-and.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Google DeepMind and partners announce multi-agent safety research funding call. â Google DeepMind* | Google DeepMind | [Canonical source](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) |
