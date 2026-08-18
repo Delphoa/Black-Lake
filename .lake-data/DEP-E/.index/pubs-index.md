@@ -3611,3 +3611,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data* | Liu, Xiao; Wu, Zirui; Wu, Xueqing; Lu, Pan; Chang, Kai-Wei; Feng, Yansong | [arXiv:2402.17644](https://arxiv.org/abs/2402.17644) - [DOI](https://doi.org/10.48550/arXiv.2402.17644) |
+
+
+## [DEP-E-20260818-Hamming Attention](../DEP-E-20260818-Hamming%20Attention/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hamming Attention Distillation: Binarizing Keys and Queries for Efficient Long-Context Transformers* | Horton, Mark; Molom-Ochir, Tergel; Liu, Peter; Gopal, Bhavna; Wei, Chiyue; Guo, Cong; Taylor, Brady; Fan, Deliang; Wang, Shan X.; Li, Hai; Chen, Yiran | [arXiv:2502.01770](https://arxiv.org/abs/2502.01770) - [DOI](https://doi.org/10.48550/arXiv.2502.01770) |
