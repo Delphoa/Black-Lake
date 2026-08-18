@@ -3898,3 +3898,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization* | Ding, Ziyang; Meng, Linjian; Wu, Yiming; Li, Yuhan; Liu, Yuhao; Zhao, Zhen | [arXiv:2605.08802](https://arxiv.org/abs/2605.08802) - [DOI](https://doi.org/10.48550/arXiv.2605.08802) |
+
+
+## [DEP-E-20260818-DeepPlanner Scaling](../DEP-E-20260818-DeepPlanner%20Scaling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping* | Fan, Wei; Yao, Wenlin; Li, Zheng; Yao, Feng; Liu, Xin; Qiu, Liang; Yin, Qingyu; Song, Yangqiu; Yin, Bing | [arXiv:2510.12979](https://arxiv.org/abs/2510.12979) - [DOI](https://doi.org/10.48550/arXiv.2510.12979) |
