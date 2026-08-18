@@ -9647,3 +9647,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models* | Shreyas Subramanian; Mecit Gungor; Vikram Elango | [arXiv:2607.27506v1](https://arxiv.org/abs/2607.27506v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27506) |
+
+
+## [DEP-A-20260819-DenseOn LateOn Fully Open](../DEP-A-20260819-DenseOn%20LateOn%20Fully%20Open/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27178-whitepaper-review.md`](../DEP-A-20260819-DenseOn%20LateOn%20Fully%20Open/2607.27178-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search* | Raphaël Sourty; Antoine Chaffin; Paulo Roberto Moura Junior; Amélie Chatelain | [arXiv:2607.27178v1](https://arxiv.org/abs/2607.27178v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27178) |
