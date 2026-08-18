@@ -4578,3 +4578,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MatBind: A Shared Embedding Space for Multimodal Materials Characterization* | Le Yang; Anoop K. Chandran; Jona Östreicher; Evgenii Sovetkin; Adrian Mirza; Sebastien Bompas; Bashir Kazimi; Pascal Friederich; Stefan Kesselheim; Kevin Maik Jablonka; Stefan Sandfeld | [arXiv:2607.08470](https://arxiv.org/abs/2607.08470) - [DOI](https://doi.org/10.48550/arXiv.2607.08470) |
+
+
+## [DEP-E-20260819-Steering Robustness into](../DEP-E-20260819-Steering%20Robustness%20into/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`steering-robustness-into.md`](../DEP-E-20260819-Steering%20Robustness%20into/steering-robustness-into.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control* | Jihoon Hong; Julian Skifstad; Qiyue Dai; Alice Chan; Glen Chou | [arXiv:2607.14943](https://arxiv.org/abs/2607.14943) - [DOI](https://doi.org/10.48550/arXiv.2607.14943) |
