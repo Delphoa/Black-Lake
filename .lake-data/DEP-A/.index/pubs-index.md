@@ -10547,3 +10547,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mapping Similarity Spaces across Embedding Models with Synthetic Query Probing* | Marcin Rozmus; Peter van der Putten | [arXiv:2608.05857v1](https://arxiv.org/abs/2608.05857v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05857) |
+
+
+## [DEP-A-20260819-Causal Episodic Memory Fe](../DEP-A-20260819-Causal%20Episodic%20Memory%20Fe/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05906-whitepaper-review.md`](../DEP-A-20260819-Causal%20Episodic%20Memory%20Fe/2608.05906-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Causal Episodic Memory for Feedback-Driven Agent Repair* | Khang Nhat Hoang Vo; Tam Minh Chu; Anh Trac Duc Dinh; Thuyen Vinh Ha Bui; Tho Quan | [arXiv:2608.05906v1](https://arxiv.org/abs/2608.05906v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05906) |
