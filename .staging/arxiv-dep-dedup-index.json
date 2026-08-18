@@ -8327,6 +8327,29 @@
         "https://doi.org/10.48550/arXiv.2601.14896"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-A Policy Optimization",
+        ".logs/20260818-Arxiv-A-Policy-Optimization-Method-Towards-Optimal-LOG.md",
+        ".reports/BL-Arxiv-A-Policy-Optimization-Method-Towards-Optimal-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2301.00521",
+      "arxiv_id": "2301.00521",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2301.00521",
+      "normalized_title": "A Policy Optimization Method Towards Optimal-time Stability",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P17; draw 31354 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 12; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Policy-Optimization-Method-Towards-Optimal",
+      "source_urls": [
+        "https://arxiv.org/abs/2301.00521",
+        "https://arxiv.org/html/2301.00521",
+        "https://arxiv.org/pdf/2301.00521",
+        "https://doi.org/10.48550/arXiv.2301.00521"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

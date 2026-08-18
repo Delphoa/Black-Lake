@@ -3744,3 +3744,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation* | Qi, Rui; Mo, Fengran; Chen, Yufeng; Zhang, Xue; Wang, Shuo; Li, Hongliang; Xu, Jinan; Nie, Jian-Yun; Huang, Kaiyu | [arXiv:2601.14896](https://arxiv.org/abs/2601.14896) - [DOI](https://doi.org/10.48550/arXiv.2601.14896) |
+
+
+## [DEP-E-20260818-A Policy Optimization](../DEP-E-20260818-A%20Policy%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Policy Optimization Method Towards Optimal-time Stability* | Wang, Shengjie; Lan, Fengbo; Zheng, Xiang; Cao, Yuxue; Oseni, Oluwatosin; Xu, Haotian; Zhang, Tao; Gao, Yang | [arXiv:2301.00521](https://arxiv.org/abs/2301.00521) - [DOI](https://doi.org/10.48550/arXiv.2301.00521) |
