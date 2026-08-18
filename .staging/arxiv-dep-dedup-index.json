@@ -7016,6 +7016,29 @@
         "https://doi.org/10.48550/arXiv.2505.13444"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-BigIssue A Realistic Bug",
+        ".logs/20260818-Arxiv-BigIssue-A-Realistic-Bug-Localization-Benchmark-LOG.md",
+        ".reports/BL-Arxiv-BigIssue-A-Realistic-Bug-Localization-Benchmark-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2207.10739",
+      "arxiv_id": "2207.10739",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2207.10739",
+      "normalized_title": "BigIssue: A Realistic Bug Localization Benchmark",
+      "notes": "Job BLAD-2200-20260818-50A35360 item BLAD-2200-20260818-50A35360-P05; draw 15679 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "BigIssue-A-Realistic-Bug-Localization-Benchmark",
+      "source_urls": [
+        "https://arxiv.org/abs/2207.10739",
+        "https://arxiv.org/html/2207.10739",
+        "https://arxiv.org/pdf/2207.10739",
+        "https://doi.org/10.48550/arXiv.2207.10739"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

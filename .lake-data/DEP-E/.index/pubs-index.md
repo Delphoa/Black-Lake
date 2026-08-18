@@ -3345,3 +3345,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models* | Tang, Liyan; Kim, Grace; Zhao, Xinyu; Lake, Thom; Ding, Wenxuan; Yin, Fangcong; Singhal, Prasann; Wadhwa, Manya; Liu, Zeyu Leo; Sprague, Zayne; Namuduri, Ramya; Hu, Bodun; Rodriguez, Juan Diego; Peng, Puyuan; Durrett, Greg | [arXiv:2505.13444](https://arxiv.org/abs/2505.13444) - [DOI](https://doi.org/10.48550/arXiv.2505.13444) |
+
+
+## [DEP-E-20260818-BigIssue A Realistic Bug](../DEP-E-20260818-BigIssue%20A%20Realistic%20Bug/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BigIssue: A Realistic Bug Localization Benchmark* | Kassianik, Paul; Nijkamp, Erik; Pang, Bo; Zhou, Yingbo; Xiong, Caiming | [arXiv:2207.10739](https://arxiv.org/abs/2207.10739) - [DOI](https://doi.org/10.48550/arXiv.2207.10739) |
