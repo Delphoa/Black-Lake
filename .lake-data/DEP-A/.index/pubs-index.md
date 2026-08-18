@@ -9224,3 +9224,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding* | Junsung Hwang | [arXiv:2607.24555v1](https://arxiv.org/abs/2607.24555v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24555) |
+
+
+## [DEP-A-20260819-Quantizing Randomized Had](../DEP-A-20260819-Quantizing%20Randomized%20Had/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.06014-whitepaper-review.md`](../DEP-A-20260819-Quantizing%20Randomized%20Had/2605.06014-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven* | Ran Ben-Basat; William Kuszmaul; Michael Mitzenmacher; Amit Portnoy; Shay Vargaftik | [arXiv:2605.06014v1](https://arxiv.org/abs/2605.06014v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06014) |
