@@ -10394,3 +10394,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces* | Liming Liu; Chao Hu; Mingfei Lu; Cong Tan; Yiwei Ge; Chijin Zhou; Yongjun Xie; Runzhe Wang; Xiaohai Shi; Heyuan Shi | [arXiv:2608.00423v1](https://arxiv.org/abs/2608.00423v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00423) |
+
+
+## [DEP-A-20260819-Opt Gear Technical Report](../DEP-A-20260819-Opt%20Gear%20Technical%20Report/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01034-whitepaper-review.md`](../DEP-A-20260819-Opt%20Gear%20Technical%20Report/2608.01034-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Opt.Gear Technical Report* | Juneyoung Park; Youngwook Kwon | [arXiv:2608.01034v1](https://arxiv.org/abs/2608.01034v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01034) |
