@@ -4024,3 +4024,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure* | Ma, Jie; He, Ningyu; Xi, Jinwen; Xing, Mingzhe; Liu, Liangxin; Luo, Jiushenzi; Fu, Xiaopeng; Wu, Chiachih; Wang, Haoyu; Gao, Ying; Yue, Yinliang | [arXiv:2603.06029](https://arxiv.org/abs/2603.06029) - [DOI](https://doi.org/10.1145/3798219) |
+
+
+## [DEP-E-20260818-SWE-RL Advancing LLM](../DEP-E-20260818-SWE-RL%20Advancing%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution* | Wei, Yuxiang; Duchenne, Olivier; Copet, Jade; Carbonneaux, Quentin; Zhang, Lingming; Fried, Daniel; Synnaeve, Gabriel; Singh, Rishabh; Wang, Sida I. | [arXiv:2502.18449](https://arxiv.org/abs/2502.18449) - [DOI](https://doi.org/10.48550/arXiv.2502.18449) |
