@@ -4129,3 +4129,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Scale Simulation of Complex Systems: A Perspective of Integrating Knowledge and Data* | Wang, Huandong; Yan, Huan; Rong, Can; Yuan, Yuan; Jiang, Fenyu; Han, Zhenyu; Sui, Hongjie; Jin, Depeng; Li, Yong | [arXiv:2306.10275](https://arxiv.org/abs/2306.10275) - [DOI](https://doi.org/10.48550/arXiv.2306.10275) |
+
+
+## [DEP-E-20260818-Breaking the Sample](../DEP-E-20260818-Breaking%20the%20Sample/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Breaking the Sample Complexity Barrier to Regret-Optimal Model-Free Reinforcement Learning* | Li, Gen; Shi, Laixi; Chen, Yuxin; Chi, Yuejie | [arXiv:2110.04645](https://arxiv.org/abs/2110.04645) - [DOI](https://doi.org/10.48550/arXiv.2110.04645) |
