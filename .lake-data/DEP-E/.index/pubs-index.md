@@ -3716,3 +3716,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Query Complexity of the Metric Steiner Tree Problem* | Chen, Yu; Khanna, Sanjeev; Tan, Zihan | [arXiv:2211.03893](https://arxiv.org/abs/2211.03893) - [DOI](https://doi.org/10.48550/arXiv.2211.03893) |
+
+
+## [DEP-E-20260818-From Patchwork to Network](../DEP-E-20260818-From%20Patchwork%20to%20Network/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility* | Jiang, Xuan; Zhou, Xuanyu; Zhao, Yibo; Cao, Shangqing; He, Haoze; Zhao, Jinhua; Hansen, Mark; Sengupta, Raja | [arXiv:2510.04186](https://arxiv.org/abs/2510.04186) - [DOI](https://doi.org/10.48550/arXiv.2510.04186) |

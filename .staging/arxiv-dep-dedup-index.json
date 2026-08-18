@@ -8235,6 +8235,29 @@
         "https://doi.org/10.48550/arXiv.2211.03893"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-From Patchwork to Network",
+        ".logs/20260818-Arxiv-From-Patchwork-to-Network-A-Comprehensive-LOG.md",
+        ".reports/BL-Arxiv-From-Patchwork-to-Network-A-Comprehensive-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.04186",
+      "arxiv_id": "2510.04186",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2510.04186",
+      "normalized_title": "From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P13; draw 15675 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "From-Patchwork-to-Network-A-Comprehensive",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.04186",
+        "https://arxiv.org/html/2510.04186",
+        "https://arxiv.org/pdf/2510.04186",
+        "https://doi.org/10.48550/arXiv.2510.04186"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
