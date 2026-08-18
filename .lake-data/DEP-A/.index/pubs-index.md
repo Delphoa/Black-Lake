@@ -10079,3 +10079,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression* | Yuhang Zhan; Lisi Chen; Shuo Shang | [arXiv:2607.29591v1](https://arxiv.org/abs/2607.29591v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29591) |
+
+
+## [DEP-A-20260819-Mixture Translators Trans](../DEP-A-20260819-Mixture%20Translators%20Trans/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28979-whitepaper-review.md`](../DEP-A-20260819-Mixture%20Translators%20Trans/2607.28979-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models* | Jin-woo Lee; Minkyung Song; Junghyun Oh; Seunghoon Han; Soyoung Park; Gwangseon Jang; Sungsu Lim | [arXiv:2607.28979v1](https://arxiv.org/abs/2607.28979v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28979) |
