@@ -4335,3 +4335,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Robust Critics: Defending LLMs Against Multi-Turn Attacks* | Roman Belaire; Arunesh Sinha; Pradeep Varakantham | [arXiv:2607.20472](https://arxiv.org/abs/2607.20472) - [DOI](https://doi.org/10.48550/arXiv.2607.20472) |
+
+
+## [DEP-E-20260819-Remember When It Matters](../DEP-E-20260819-Remember%20When%20It%20Matters/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`remember-when-it-matters.md`](../DEP-E-20260819-Remember%20When%20It%20Matters/remember-when-it-matters.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents* | Yifan Wu; Lizhu Zhang; Yuhang Zhou; Mingyi Wang; Bo Peng; Serena Li; Xiangjun Fan; Zhuokai Zhao | [arXiv:2607.08716](https://arxiv.org/abs/2607.08716) - [DOI](https://doi.org/10.48550/arXiv.2607.08716) |
