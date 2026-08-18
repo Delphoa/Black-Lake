@@ -9201,6 +9201,29 @@
         "https://doi.org/10.48550/arXiv.2410.02677"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-RANP Resource Aware",
+        ".logs/20260818-Arxiv-RANP-Resource-Aware-Neuron-Pruning-at-LOG.md",
+        ".reports/BL-Arxiv-RANP-Resource-Aware-Neuron-Pruning-at-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.02488",
+      "arxiv_id": "2010.02488",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2010.02488",
+      "normalized_title": "RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P40; draw 42144 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RANP-Resource-Aware-Neuron-Pruning-at",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.02488",
+        "https://arxiv.org/html/2010.02488",
+        "https://arxiv.org/pdf/2010.02488",
+        "https://doi.org/10.48550/arXiv.2010.02488"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

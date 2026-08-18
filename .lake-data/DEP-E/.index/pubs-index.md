@@ -4010,3 +4010,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CulturalBench: A Robust, Diverse, and Challenging Cultural Benchmark by Human-AI CulturalTeaming* | Chiu, Yu Ying; Jiang, Liwei; Lin, Bill Yuchen; Park, Chan Young; Li, Shuyue Stella; Ravi, Sahithya; Bhatia, Mehar; Antoniak, Maria; Tsvetkov, Yulia; Shwartz, Vered; Choi, Yejin | [arXiv:2410.02677](https://arxiv.org/abs/2410.02677) - [DOI](https://doi.org/10.48550/arXiv.2410.02677) |
+
+
+## [DEP-E-20260818-RANP Resource Aware](../DEP-E-20260818-RANP%20Resource%20Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs* | Xu, Zhiwei; Ajanthan, Thalaiyasingam; Vineet, Vibhav; Hartley, Richard | [arXiv:2010.02488](https://arxiv.org/abs/2010.02488) - [DOI](https://doi.org/10.48550/arXiv.2010.02488) |
