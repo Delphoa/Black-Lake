@@ -9404,3 +9404,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding* | Linghao Meng; Qiankun Li; Junyuan Mao; Pujin Liao; Zhicheng He; Enbo Zhang; Kun Wang; Yang Liu; Huazhu Fu; Yueming Jin | [arXiv:2607.24794v1](https://arxiv.org/abs/2607.24794v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24794) |
+
+
+## [DEP-A-20260819-Sparsity Ceiling Where Sp](../DEP-A-20260819-Sparsity%20Ceiling%20Where%20Sp/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26648-whitepaper-review.md`](../DEP-A-20260819-Sparsity%20Ceiling%20Where%20Sp/2607.26648-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy* | Zeyu Wang | [arXiv:2607.26648v1](https://arxiv.org/abs/2607.26648v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26648) |
