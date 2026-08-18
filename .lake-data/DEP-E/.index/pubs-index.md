@@ -3842,3 +3842,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Coalesced TLB to Exploit Diverse Contiguity of Memory Mapping* | Ban, Yikun; Zhou, Yuchen; Cheng, Xu; Yi, Jiangfang | [arXiv:1908.08774](https://arxiv.org/abs/1908.08774) - [DOI](https://doi.org/10.48550/arXiv.1908.08774) |
+
+
+## [DEP-E-20260818-A Framework for](../DEP-E-20260818-A%20Framework%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Framework for Evaluating Snippet Generation for Dataset Search* | Wang, Xiaxia; Chen, Jinchi; Li, Shuxin; Cheng, Gong; Pan, Jeff Z.; Kharlamov, Evgeny; Qu, Yuzhong | [arXiv:1907.01183](https://arxiv.org/abs/1907.01183) - [DOI](https://doi.org/10.48550/arXiv.1907.01183) |

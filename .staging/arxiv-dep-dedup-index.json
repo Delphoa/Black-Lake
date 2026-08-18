@@ -8649,6 +8649,29 @@
         "https://doi.org/10.48550/arXiv.1908.08774"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-A Framework for",
+        ".logs/20260818-Arxiv-A-Framework-for-Evaluating-Snippet-Generation-LOG.md",
+        ".reports/BL-Arxiv-A-Framework-for-Evaluating-Snippet-Generation-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1907.01183",
+      "arxiv_id": "1907.01183",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.1907.01183",
+      "normalized_title": "A Framework for Evaluating Snippet Generation for Dataset Search",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P31; draw 24383 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 11; reselections 11; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Framework-for-Evaluating-Snippet-Generation",
+      "source_urls": [
+        "https://arxiv.org/abs/1907.01183",
+        "https://arxiv.org/html/1907.01183",
+        "https://arxiv.org/pdf/1907.01183",
+        "https://doi.org/10.48550/arXiv.1907.01183"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
