@@ -9359,3 +9359,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning What Matters: Supervising Sparse Attention Routing with Causal Evidence Sets* | Jim Allchin | [arXiv:2607.21692v1](https://arxiv.org/abs/2607.21692v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21692) |
+
+
+## [DEP-A-20260819-MiniMax Sparse Attention](../DEP-A-20260819-MiniMax%20Sparse%20Attention/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.13392-whitepaper-review.md`](../DEP-A-20260819-MiniMax%20Sparse%20Attention/2606.13392-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MiniMax Sparse Attention* | Xunhao Lai; Weiqi Xu; Yufeng Yang; Qiaorui Chen; Yang Xu; Lunbin Zeng; Xiaolong Li; Haohai Sun; Haichao Zhu; Vito Zhang; Jinkai Hu; Jiayao Li; Rui Gao; Zekun Li; Songquan Zhu; Jingkai Zhou; Pengyu Zhao | [arXiv:2606.13392v2](https://arxiv.org/abs/2606.13392v2) - [DOI](https://doi.org/10.48550/arXiv.2606.13392) |
