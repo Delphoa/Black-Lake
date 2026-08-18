@@ -9215,3 +9215,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Diagnosing Evidence Utilization in Long-Context and Retrieval-Augmented Language Models under Matched Evidence Conditions* | Haizhou Xia | [arXiv:2606.06758v2](https://arxiv.org/abs/2606.06758v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06758) |
+
+
+## [DEP-A-20260819-LOCKS Page Local Compact](../DEP-A-20260819-LOCKS%20Page%20Local%20Compact/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24555-whitepaper-review.md`](../DEP-A-20260819-LOCKS%20Page%20Local%20Compact/2607.24555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding* | Junsung Hwang | [arXiv:2607.24555v1](https://arxiv.org/abs/2607.24555v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24555) |
