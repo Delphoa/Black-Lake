@@ -9071,3 +9071,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs* | Andy Zeyi Liu; Michael Zhang; Ilana Greenberg; Adam Alnasser; Lucas Baker; John Sous | [arXiv:2605.06225v2](https://arxiv.org/abs/2605.06225v2) - [DOI](https://doi.org/10.48550/arXiv.2605.06225) |
+
+
+## [DEP-A-20260818-Structured Redundancy Mod](../DEP-A-20260818-Structured%20Redundancy%20Mod/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.23046-whitepaper-review.md`](../DEP-A-20260818-Structured%20Redundancy%20Mod/2607.23046-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs* | Jouwon Song; Woohyeong Kim; Kyeongbo Kong | [arXiv:2607.23046v1](https://arxiv.org/abs/2607.23046v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23046) |
