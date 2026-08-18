@@ -4371,3 +4371,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Uncertainty-gated selection for block-sparse attention* | Thomas Rossi | [arXiv:2607.07724](https://arxiv.org/abs/2607.07724) - [DOI](https://doi.org/10.48550/arXiv.2607.07724) |
+
+
+## [DEP-E-20260819-SkillFuzz Fuzzing Skill](../DEP-E-20260819-SkillFuzz%20Fuzzing%20Skill/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`skillfuzz-fuzzing-skill.md`](../DEP-E-20260819-SkillFuzz%20Fuzzing%20Skill/skillfuzz-fuzzing-skill.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces* | Jinwei Hu; Yi Dong; Youcheng Sun; Xiaowei Huang | [arXiv:2607.02345](https://arxiv.org/abs/2607.02345) - [DOI](https://doi.org/10.48550/arXiv.2607.02345) |
