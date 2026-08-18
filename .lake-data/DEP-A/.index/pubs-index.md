@@ -9206,3 +9206,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Belief Memory: Agent Memory Under Partial Observability* | Junfeng Liao; Qizhou Wang; Jianing Zhu; Bo Du; Rui Yan; Xiuying Chen | [arXiv:2605.05583v2](https://arxiv.org/abs/2605.05583v2) - [DOI](https://doi.org/10.48550/arXiv.2605.05583) |
+
+
+## [DEP-A-20260819-Diagnosing Evidence Utili](../DEP-A-20260819-Diagnosing%20Evidence%20Utili/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.06758-whitepaper-review.md`](../DEP-A-20260819-Diagnosing%20Evidence%20Utili/2606.06758-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diagnosing Evidence Utilization in Long-Context and Retrieval-Augmented Language Models under Matched Evidence Conditions* | Haizhou Xia | [arXiv:2606.06758v2](https://arxiv.org/abs/2606.06758v2) - [DOI](https://doi.org/10.48550/arXiv.2606.06758) |
