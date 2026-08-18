@@ -4389,3 +4389,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks* | Peng Yin; Kai Li; Yifan Zhang; Jian Cheng | [arXiv:2607.26490](https://arxiv.org/abs/2607.26490) - [DOI](https://doi.org/10.48550/arXiv.2607.26490) |
+
+
+## [DEP-E-20260819-AgenticSTS A Bounded](../DEP-E-20260819-AgenticSTS%20A%20Bounded/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`agenticsts-a-bounded.md`](../DEP-E-20260819-AgenticSTS%20A%20Bounded/agenticsts-a-bounded.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents* | Xiangchen Cheng; Yunwei Jiang; Jianwen Sun; Zizhen Li; Chuanhao Li; Xiangcheng Cao; Yihao Liu; Fanrui Zhang; Li Jin; Kaipeng Zhang | [arXiv:2607.02255](https://arxiv.org/abs/2607.02255) - [DOI](https://doi.org/10.48550/arXiv.2607.02255) |
