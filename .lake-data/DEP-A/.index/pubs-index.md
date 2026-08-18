@@ -9845,3 +9845,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility* | Rajat Sainju; Dariusz Jarosz; Hairong Shang; Michael Prince; Ryan M. Aydelott; Mathew J. Cherukara; Yine Sun; Michael D. Borland | [arXiv:2607.24663v1](https://arxiv.org/abs/2607.24663v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24663) |
+
+
+## [DEP-A-20260819-Evaluating RAG French imm](../DEP-A-20260819-Evaluating%20RAG%20French%20imm/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24449-whitepaper-review.md`](../DEP-A-20260819-Evaluating%20RAG%20French%20imm/2607.24449-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating RAG for French immigration law: a benchmark and baseline study* | Annia Abtout; Julien Delaunay; Monika Ewa Rakoczy | [arXiv:2607.24449v1](https://arxiv.org/abs/2607.24449v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24449) |
