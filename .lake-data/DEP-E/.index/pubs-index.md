@@ -4094,3 +4094,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SciFig: Towards Automating Editable Figure Generation for Scientific Papers* | Huang, Siyuan; Zhou, Yifan; Gao, Yutong; Yin, Zi; Bai, Juyang; Liu, Xinxin; Chellappa, Rama; Lau, Chun Pong; Peng, Cheng; Nag, Sayan; Pramanick, Shraman | [arXiv:2601.04390](https://arxiv.org/abs/2601.04390) - [DOI](https://doi.org/10.48550/arXiv.2601.04390) |
+
+
+## [DEP-E-20260818-CT-UIO Continuous-Time](../DEP-E-20260818-CT-UIO%20Continuous-Time/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors* | Sun, Jian; Sun, Wei; Zhang, Genwei; Yang, Kailun; Li, Song; Meng, Xiangqi; Deng, Na; Tan, Chongbin | [arXiv:2502.06287](https://arxiv.org/abs/2502.06287) - [DOI](https://doi.org/10.48550/arXiv.2502.06287) |
