@@ -3394,3 +3394,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Real-Time Human Frontal View Synthesis from a Single Image* | Lin, Fangyu; Hu, Yingdong; Zhu, Lunjie; Liu, Zhening; Huang, Yushi; Lin, Zehong; Zhang, Jun | [arXiv:2603.15433](https://arxiv.org/abs/2603.15433) - [DOI](https://doi.org/10.48550/arXiv.2603.15433) |
+
+
+## [DEP-E-20260818-MASt3R-Fusion Integrating](../DEP-E-20260818-MASt3R-Fusion%20Integrating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM* | Zhou, Yuxuan; Li, Xingxing; Li, Shengyu; Yan, Zhuohao; Xia, Chunxi; Feng, Shaoquan | [arXiv:2509.20757](https://arxiv.org/abs/2509.20757) - [DOI](https://doi.org/10.48550/arXiv.2509.20757) |
