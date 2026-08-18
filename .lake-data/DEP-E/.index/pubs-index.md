@@ -4596,3 +4596,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A 98-qubit trapped-ion quantum computer with all-to-all connectivity \| Nature* | Nature | [Canonical source](https://www.nature.com/articles/s41586-026-10676-4) |
+
+
+## [DEP-E-20260819-GraphDx A Cost Aware](../DEP-E-20260819-GraphDx%20A%20Cost%20Aware/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`graphdx-a-cost-aware.md`](../DEP-E-20260819-GraphDx%20A%20Cost%20Aware/graphdx-a-cost-aware.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis* | Shaoting Tan; Ning Liu; Yuntao Du; Shuyue Wei; Wu Shuai; Qian Li; Yanyu Xu; Wei Zhang; Lizhen Cui; Haitao Yuan | [arXiv:2607.15280](https://arxiv.org/abs/2607.15280) - [DOI](https://doi.org/10.48550/arXiv.2607.15280) |
