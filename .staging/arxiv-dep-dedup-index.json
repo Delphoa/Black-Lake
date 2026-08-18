@@ -7131,6 +7131,29 @@
         "https://doi.org/10.48550/arXiv.2307.03393"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Deep Convolutional",
+        ".logs/20260818-Arxiv-Deep-Convolutional-Networks-on-Graph-Structured-LOG.md",
+        ".reports/BL-Arxiv-Deep-Convolutional-Networks-on-Graph-Structured-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1506.05163",
+      "arxiv_id": "1506.05163",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.1506.05163",
+      "normalized_title": "Deep Convolutional Networks on Graph-Structured Data",
+      "notes": "Job BLAD-2200-20260818-50A35360 item BLAD-2200-20260818-50A35360-P10; draw 32823 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Deep-Convolutional-Networks-on-Graph-Structured",
+      "source_urls": [
+        "https://arxiv.org/abs/1506.05163",
+        "https://arxiv.org/html/1506.05163",
+        "https://arxiv.org/pdf/1506.05163",
+        "https://doi.org/10.48550/arXiv.1506.05163"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
