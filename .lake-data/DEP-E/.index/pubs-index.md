@@ -3359,3 +3359,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal* | Qian, Xiaolong; Jiang, Qi; Sun, Lei; Yu, Zongxi; Yang, Kailun; Wu, Peixuan; Zhou, Jiacheng; Gao, Yao; Ma, Yaoguang; Yang, Ming-Hsuan; Wang, Kaiwei | [arXiv:2511.17353](https://arxiv.org/abs/2511.17353) - [DOI](https://doi.org/10.48550/arXiv.2511.17353) |
+
+
+## [DEP-E-20260818-Feast Your Eyes](../DEP-E-20260818-Feast%20Your%20Eyes/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models* | Luo, Gen; Zhou, Yiyi; Zhang, Yuxin; Zheng, Xiawu; Sun, Xiaoshuai; Ji, Rongrong | [arXiv:2403.03003](https://arxiv.org/abs/2403.03003) - [DOI](https://doi.org/10.48550/arXiv.2403.03003) |
