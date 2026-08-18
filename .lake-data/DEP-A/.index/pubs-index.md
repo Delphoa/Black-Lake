@@ -10466,3 +10466,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents* | Xiaolong Sun; Qichao Wang; Hangyu Li; Liang Chen | [arXiv:2608.03137v1](https://arxiv.org/abs/2608.03137v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03137) |
+
+
+## [DEP-A-20260819-SeDeM Selective Decompres](../DEP-A-20260819-SeDeM%20Selective%20Decompres/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.00311-whitepaper-review.md`](../DEP-A-20260819-SeDeM%20Selective%20Decompres/2608.00311-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SeDeM: Selective Decompression of Hidden-State Memories for Long-Context Question Answering* | Maryam Haghifam; Jason Cong; Yizhou Sun | [arXiv:2608.00311v1](https://arxiv.org/abs/2608.00311v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00311) |
