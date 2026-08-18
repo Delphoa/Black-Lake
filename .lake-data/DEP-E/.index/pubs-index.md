@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **935 publication reviews across 590 DEP-E entries**.
+- Current coverage: **936 publication reviews across 591 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4968,3 +4968,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *𝐼²⁢𝐺: Generating Instructional Illustrations via Text-Conditioned Diffusion* | Not available from inspected sources | [arXiv:2505.16425](https://arxiv.org/abs/2505.16425) |
+
+## [DEP-E-20260819-Arxiv 1910.04214](../DEP-E-20260819-Arxiv%201910.04214/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[1910.04214] Who’s responsible? Jointly quantifying the contribution of the learning algorithm and data* | Not available from inspected sources | [arXiv:1910.04214](https://arxiv.org/abs/1910.04214) |
