@@ -9629,3 +9629,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention* | Wenshuai Yao; Wenyong Zhou; Hanyong Shao; Yizhe Chen; Zhiyuan Ning; Yuannuo Feng; Ru Huang; Kechao Tang | [arXiv:2607.27692v1](https://arxiv.org/abs/2607.27692v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27692) |
+
+
+## [DEP-A-20260819-Hierarchical Reranking Sc](../DEP-A-20260819-Hierarchical%20Reranking%20Sc/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27523-whitepaper-review.md`](../DEP-A-20260819-Hierarchical%20Reranking%20Sc/2607.27523-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Reranking for Scalable Financial RAG System* | Joohyun Lee; Sungwoo Hong | [arXiv:2607.27523v1](https://arxiv.org/abs/2607.27523v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27523) |
