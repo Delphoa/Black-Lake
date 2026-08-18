@@ -10457,3 +10457,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TARL: Transaction-Aware Reliable Ledgers for Executable Memory Management in Long-Term Agents* | Han Xiao; Hongjun Xu; Xin Zhang; Yidong Chen; Xiaodong Shi | [arXiv:2608.03699v1](https://arxiv.org/abs/2608.03699v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03699) |
+
+
+## [DEP-A-20260819-Verifiable Memory Learnin](../DEP-A-20260819-Verifiable%20Memory%20Learnin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03137-whitepaper-review.md`](../DEP-A-20260819-Verifiable%20Memory%20Learnin/2608.03137-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents* | Xiaolong Sun; Qichao Wang; Hangyu Li; Liang Chen | [arXiv:2608.03137v1](https://arxiv.org/abs/2608.03137v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03137) |
