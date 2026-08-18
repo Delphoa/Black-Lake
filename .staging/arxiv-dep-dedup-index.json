@@ -7729,6 +7729,29 @@
         "https://doi.org/10.48550/arXiv.2606.06959"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-One-shot Adaptation of",
+        ".logs/20260818-Arxiv-One-shot-Adaptation-of-Humanoid-Whole-body-LOG.md",
+        ".reports/BL-Arxiv-One-shot-Adaptation-of-Humanoid-Whole-body-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.25241",
+      "arxiv_id": "2510.25241",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2510.25241",
+      "normalized_title": "One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P26; draw 11245 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "One-shot-Adaptation-of-Humanoid-Whole-body",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.25241",
+        "https://arxiv.org/html/2510.25241",
+        "https://arxiv.org/pdf/2510.25241",
+        "https://doi.org/10.48550/arXiv.2510.25241"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

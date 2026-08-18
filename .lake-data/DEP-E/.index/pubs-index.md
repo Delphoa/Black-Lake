@@ -3562,3 +3562,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios* | Li, Xinyi; Fang, Zhen; Deng, Yongxin; Luo, Jinyuan; Ma, Hongnan; Oh, Changdae; Shi, Zijing; Ye, Shanshan; Wang, Hanchen; Chen, Shu-Lin; Luo, Yadan; Yang, Mengyue; Du, Sean; Li, Sharon; Chen, Ling | [arXiv:2606.06959](https://arxiv.org/abs/2606.06959) - [DOI](https://doi.org/10.48550/arXiv.2606.06959) |
+
+
+## [DEP-E-20260818-One-shot Adaptation of](../DEP-E-20260818-One-shot%20Adaptation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors* | Huang, Hao; Bethala, Geeta Chandra Raju; Yuan, Shuaihang; Wen, Congcong; Wang, Mengyu; Tzes, Anthony; Fang, Yi | [arXiv:2510.25241](https://arxiv.org/abs/2510.25241) - [DOI](https://doi.org/10.48550/arXiv.2510.25241) |
