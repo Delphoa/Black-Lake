@@ -3947,3 +3947,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Understanding the Complexity Gains of Single-Task RL with a Curriculum* | Li, Qiyang; Zhai, Yuexiang; Ma, Yi; Levine, Sergey | [arXiv:2212.12809](https://arxiv.org/abs/2212.12809) - [DOI](https://doi.org/10.48550/arXiv.2212.12809) |
+
+
+## [DEP-E-20260818-Pushing Forward Pareto](../DEP-E-20260818-Pushing%20Forward%20Pareto/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization* | Yao, Yihang; Cen, Zhepeng; Lin, Haohong; Liu, Shiqi; Liu, Zuxin; Zhu, Jiacheng; Hong, Zhang-Wei; Shi, Laixi; Zhao, Ding | [arXiv:2602.11351](https://arxiv.org/abs/2602.11351) - [DOI](https://doi.org/10.48550/arXiv.2602.11351) |
