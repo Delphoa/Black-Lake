@@ -10493,3 +10493,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory for Large Language Models* | Sining Zhoubian; Dan Zhang; Evgeny Kharlamov; Jie Tang | [arXiv:2607.25380v1](https://arxiv.org/abs/2607.25380v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25380) |
+
+
+## [DEP-A-20260819-ConWriter Transition Cons](../DEP-A-20260819-ConWriter%20Transition%20Cons/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05169-whitepaper-review.md`](../DEP-A-20260819-ConWriter%20Transition%20Cons/2608.05169-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control* | Jindong Li; Yang Yang; Zihao Liu; Yutao Yue; Menglin Yang | [arXiv:2608.05169v1](https://arxiv.org/abs/2608.05169v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05169) |
