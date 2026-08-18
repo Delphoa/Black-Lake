@@ -3499,3 +3499,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Last-Iterate Convergence of Adaptive Riemannian Gradient Descent for Equilibrium Computation* | Cai, Yang; Jordan, Michael I.; Lin, Tianyi; Oikonomou, Argyris; Vlatakis-Gkaragkounis, Emmanouil-Vasileios | [arXiv:2306.16617](https://arxiv.org/abs/2306.16617) - [DOI](https://doi.org/10.48550/arXiv.2306.16617) |
+
+
+## [DEP-E-20260818-MelShield Robust](../DEP-E-20260818-MelShield%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech* | Jin, Yutong; Li, Qi; Liu, Lingshuang; Ni, Jianbing | [arXiv:2605.01515](https://arxiv.org/abs/2605.01515) - [DOI](https://doi.org/10.48550/arXiv.2605.01515) |
