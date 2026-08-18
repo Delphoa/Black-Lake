@@ -4317,3 +4317,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference* | Xiaolong Liang; Juanjuan Li; Rui Qin; Yisheng Lv | [arXiv:2607.21162](https://arxiv.org/abs/2607.21162) - [DOI](https://doi.org/10.48550/arXiv.2607.21162) |
+
+
+## [DEP-E-20260819-ALICE Learning a General](../DEP-E-20260819-ALICE%20Learning%20a%20General/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`alice-learning-a-general.md`](../DEP-E-20260819-ALICE%20Learning%20a%20General/alice-learning-a-general.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts* | Jiawen Li; Tian Guan; Huijuan Shi; Xitong Ling; Mingxi Fu; Anjia Han; Chao He; Yonghong He | [arXiv:2607.09526](https://arxiv.org/abs/2607.09526) - [DOI](https://doi.org/10.48550/arXiv.2607.09526) |
