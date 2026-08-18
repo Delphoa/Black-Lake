@@ -9233,3 +9233,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven* | Ran Ben-Basat; William Kuszmaul; Michael Mitzenmacher; Amit Portnoy; Shay Vargaftik | [arXiv:2605.06014v1](https://arxiv.org/abs/2605.06014v1) - [DOI](https://doi.org/10.48550/arXiv.2605.06014) |
+
+
+## [DEP-A-20260819-Speculate While You Reaso](../DEP-A-20260819-Speculate%20While%20You%20Reaso/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25816-whitepaper-review.md`](../DEP-A-20260819-Speculate%20While%20You%20Reaso/2607.25816-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL* | Jiabao Ji; Yujian Liu; Li An; Rohit Jain; Gungor Polatkan; Siyu Zhu; Shiyu Chang | [arXiv:2607.25816v1](https://arxiv.org/abs/2607.25816v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25816) |
