@@ -3863,3 +3863,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)* | Li, Qifeng; Jia, Xiaosong; Wang, Shaobo; Yan, Junchi | [arXiv:2402.16720](https://arxiv.org/abs/2402.16720) - [DOI](https://doi.org/10.48550/arXiv.2402.16720) |
+
+
+## [DEP-E-20260818-RL4RLA Teaching ML to](../DEP-E-20260818-RL4RLA%20Teaching%20ML%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RL4RLA: Teaching ML to Discover Randomized Linear Algebra Algorithms Through Curriculum Design and Graph-Based Search* | Xiong, Jinglong; Liu, Xiaotian; Wang, Ruoxin; Liu, Zihang; Zhou, Yefan; Yan, Yujun; Yang, Yaoqing | [arXiv:2605.18004](https://arxiv.org/abs/2605.18004) - [DOI](https://doi.org/10.48550/arXiv.2605.18004) |
