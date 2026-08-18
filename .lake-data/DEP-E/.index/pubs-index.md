@@ -4173,3 +4173,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows* | Jinyuan Deng; Zhengrui Chen; Xufeng Wei; Tianyu Xing; Chenyi Wen; Qi Sun; Cheng Zhuo | [arXiv:2607.17528](https://arxiv.org/abs/2607.17528) - [DOI](https://doi.org/10.48550/arXiv.2607.17528) |
+
+
+## [DEP-E-20260819-Beyond the Performance](../DEP-E-20260819-Beyond%20the%20Performance/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`beyond-the-performance.md`](../DEP-E-20260819-Beyond%20the%20Performance/beyond-the-performance.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond the Performance Illusion: Structure-Aware Stratified Partitioning and Curriculum Distributionally Robust Optimization for Spatially Correlated Domains* | Prathamesh Patil; Arpit Jain; Aswanth Krishnan | [arXiv:2607.02055](https://arxiv.org/abs/2607.02055) - [DOI](https://doi.org/10.48550/arXiv.2607.02055) |
