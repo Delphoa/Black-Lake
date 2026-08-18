@@ -9395,3 +9395,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Libra: Taming Attention Workload Skew in Long-Context LLM Training with Bounded Sequence Pool* | Yan Wang; Xiulong Yuan; Kaiming Yang; Jiaxuan Peng; Pengju Lu; Mingzhen Li; Zhipeng Zhang; Chang Si; Zhixiang Ruan; Hongqing Chen; Linlang Jiang; Siyu Wang; Langshi Chen; Rui Men; Man Yuan; Guangming Tan; Yong Li; Weile Jia; Jingren Zhou | [arXiv:2607.23250v1](https://arxiv.org/abs/2607.23250v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23250) |
+
+
+## [DEP-A-20260819-Reasoning Memory Temporal](../DEP-A-20260819-Reasoning%20Memory%20Temporal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24794-whitepaper-review.md`](../DEP-A-20260819-Reasoning%20Memory%20Temporal/2607.24794-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding* | Linghao Meng; Qiankun Li; Junyuan Mao; Pujin Liao; Zhicheng He; Enbo Zhang; Kun Wang; Yang Liu; Huazhu Fu; Yueming Jin | [arXiv:2607.24794v1](https://arxiv.org/abs/2607.24794v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24794) |
