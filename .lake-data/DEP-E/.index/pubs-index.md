@@ -4506,3 +4506,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RTLCurator: Label-Efficient Data Curation for RTL Generation* | Siyang Cai; Cangyuan Li; Wenjing Chang; Kun Wang; Haoyu Gao; Yinhe Han; Ying Wang | [arXiv:2607.29283](https://arxiv.org/abs/2607.29283) - [DOI](https://doi.org/10.48550/arXiv.2607.29283) |
+
+
+## [DEP-E-20260819-Leaky Language Models](../DEP-E-20260819-Leaky%20Language%20Models/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`leaky-language-models.md`](../DEP-E-20260819-Leaky%20Language%20Models/leaky-language-models.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Leaky Language Models: Stealing Architecture and Inference Optimizations via Per-Token Timing* | Sadegh Majidi; Niloofar Mireshghallah; Kazem Taram | [arXiv:2607.20723](https://arxiv.org/abs/2607.20723) - [DOI](https://doi.org/10.48550/arXiv.2607.20723) |
