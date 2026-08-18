@@ -10169,3 +10169,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension* | Shenglai Zeng; Qirui Wang; Kai Guo; Xinnan Dai; Xianxuan Long; Hui Liu | [arXiv:2606.12898v1](https://arxiv.org/abs/2606.12898v1) - [DOI](https://doi.org/10.48550/arXiv.2606.12898) |
+
+
+## [DEP-A-20260819-What Limits Does Quantiza](../DEP-A-20260819-What%20Limits%20Does%20Quantiza/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.11780-whitepaper-review.md`](../DEP-A-20260819-What%20Limits%20Does%20Quantiza/2606.11780-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study* | Koki Okajima; Tsukasa Yoshida | [arXiv:2606.11780v1](https://arxiv.org/abs/2606.11780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11780) |
