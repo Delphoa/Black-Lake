@@ -4533,3 +4533,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hardware-efficient erasure-error detection with an integer fluxonium* | Junyoung An et al. | [arXiv:2607.27123](https://arxiv.org/abs/2607.27123) - [DOI](https://doi.org/10.48550/arXiv.2607.27123) |
+
+
+## [DEP-E-20260819-Harnessing Textual](../DEP-E-20260819-Harnessing%20Textual/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`harnessing-textual.md`](../DEP-E-20260819-Harnessing%20Textual/harnessing-textual.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Harnessing Textual Refusal Directions for Multimodal Safety* | Moreno D'Incà; Nicu Sebe; Massimiliano Mancini | [arXiv:2606.31876](https://arxiv.org/abs/2606.31876) - [DOI](https://doi.org/10.48550/arXiv.2606.31876) |
