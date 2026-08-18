@@ -7476,6 +7476,29 @@
         "https://doi.org/10.48550/arXiv.2507.13386"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D",
+        ".logs/20260818-Arxiv-Occ3D-A-Large-Scale-3D-Occupancy-Prediction-LOG.md",
+        ".reports/BL-Arxiv-Occ3D-A-Large-Scale-3D-Occupancy-Prediction-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2304.14365",
+      "arxiv_id": "2304.14365",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2304.14365",
+      "normalized_title": "Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P15; draw 12700 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Occ3D-A-Large-Scale-3D-Occupancy-Prediction",
+      "source_urls": [
+        "https://arxiv.org/abs/2304.14365",
+        "https://arxiv.org/html/2304.14365",
+        "https://arxiv.org/pdf/2304.14365",
+        "https://doi.org/10.48550/arXiv.2304.14365"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

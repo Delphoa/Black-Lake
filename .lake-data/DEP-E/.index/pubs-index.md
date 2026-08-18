@@ -3485,3 +3485,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Minimalist Concept Erasure in Generative Models* | Zhang, Yang; Jin, Er; Dong, Yanfei; Wu, Yixuan; Torr, Philip; Khakzar, Ashkan; Stegmaier, Johannes; Kawaguchi, Kenji | [arXiv:2507.13386](https://arxiv.org/abs/2507.13386) - [DOI](https://doi.org/10.48550/arXiv.2507.13386) |
+
+
+## [DEP-E-20260818-Occ3D A Large-Scale 3D](../DEP-E-20260818-Occ3D%20A%20Large-Scale%203D/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving* | Tian, Xiaoyu; Jiang, Tao; Yun, Longfei; Mao, Yucheng; Yang, Huitong; Wang, Yue; Wang, Yilun; Zhao, Hang | [arXiv:2304.14365](https://arxiv.org/abs/2304.14365) - [DOI](https://doi.org/10.48550/arXiv.2304.14365) |
