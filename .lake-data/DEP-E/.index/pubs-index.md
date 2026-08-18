@@ -3653,3 +3653,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data Drift Monitoring for Log Anomaly Detection Pipelines* | Wani, Dipak; Ackerman, Samuel; Farchi, Eitan; Liu, Xiaotong; Chang, Hau-wen; Lalithsena, Sarasi | [arXiv:2310.14893](https://arxiv.org/abs/2310.14893) - [DOI](https://doi.org/10.48550/arXiv.2310.14893) |
+
+
+## [DEP-E-20260818-Relieving the](../DEP-E-20260818-Relieving%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Relieving the Over-Aggregating Effect in Graph Transformers* | Sun, Junshu; Chang, Wanxing; Yang, Chenxue; Huang, Qingming; Wang, Shuhui | [arXiv:2510.21267](https://arxiv.org/abs/2510.21267) - [DOI](https://doi.org/10.48550/arXiv.2510.21267) |
