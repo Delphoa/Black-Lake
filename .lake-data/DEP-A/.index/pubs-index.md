@@ -9341,3 +9341,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models* | Gabeen Kim; Kyeongpil Kang | [arXiv:2607.21936v1](https://arxiv.org/abs/2607.21936v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21936) |
+
+
+## [DEP-A-20260819-Improving Access Historic](../DEP-A-20260819-Improving%20Access%20Historic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.03440-whitepaper-review.md`](../DEP-A-20260819-Improving%20Access%20Historic/2607.03440-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Access to Historical Archives with Real-time RAG-based Systems* | Stergios Konstantinidis; Hayman Lotfy; Alexis Erne; Faruk Zahiragic; Min-Yen Kan; Michalis Vlachos | [arXiv:2607.03440v1](https://arxiv.org/abs/2607.03440v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03440) |
