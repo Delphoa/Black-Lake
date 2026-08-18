@@ -9188,3 +9188,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RIS-Kernel: A Model-Agnostic Architecture for Long-Context LLM Inference via Sparse Attention* | Anderson R. Santos | [arXiv:2607.21927v1](https://arxiv.org/abs/2607.21927v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21927) |
+
+
+## [DEP-A-20260819-Omni Prune Query Aware](../DEP-A-20260819-Omni%20Prune%20Query%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23445-whitepaper-review.md`](../DEP-A-20260819-Omni%20Prune%20Query%20Aware/2607.23445-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models* | Yiming Zhong; Chang Nie; Caifeng Shan | [arXiv:2607.23445v1](https://arxiv.org/abs/2607.23445v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23445) |
