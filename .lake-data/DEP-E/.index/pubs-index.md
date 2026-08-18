@@ -3954,3 +3954,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization* | Yao, Yihang; Cen, Zhepeng; Lin, Haohong; Liu, Shiqi; Liu, Zuxin; Zhu, Jiacheng; Hong, Zhang-Wei; Shi, Laixi; Zhao, Ding | [arXiv:2602.11351](https://arxiv.org/abs/2602.11351) - [DOI](https://doi.org/10.48550/arXiv.2602.11351) |
+
+
+## [DEP-E-20260818-Contact Optimization for](../DEP-E-20260818-Contact%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control* | Rigo, Alberto; Chen, Yiyu; Gupta, Satyandra K.; Nguyen, Quan | [arXiv:2210.03442](https://arxiv.org/abs/2210.03442) - [DOI](https://doi.org/10.48550/arXiv.2210.03442) |
