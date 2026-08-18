@@ -3506,3 +3506,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech* | Jin, Yutong; Li, Qi; Liu, Lingshuang; Ni, Jianbing | [arXiv:2605.01515](https://arxiv.org/abs/2605.01515) - [DOI](https://doi.org/10.48550/arXiv.2605.01515) |
+
+
+## [DEP-E-20260818-Stacked BNAS Rethinking](../DEP-E-20260818-Stacked%20BNAS%20Rethinking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stacked BNAS: Rethinking Broad Convolutional Neural Network for Neural Architecture Search* | Ding, Zixiang; Chen, Yaran; Li, Nannan; Zhao, Dongbin; Chen, C. L. Philip | [arXiv:2111.07722](https://arxiv.org/abs/2111.07722) - [DOI](https://doi.org/10.48550/arXiv.2111.07722) |
