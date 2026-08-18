@@ -3982,3 +3982,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models* | Lin, Tianyi; Sun, Chuanyu; Zhang, Jingyi; Wei, Changxu; Yao, Huanjin; Liu, Shunyu; Zhang, Xikun; Liu, Liu; Huang, Jiaxing | [arXiv:2606.16774](https://arxiv.org/abs/2606.16774) - [DOI](https://doi.org/10.48550/arXiv.2606.16774) |
+
+
+## [DEP-E-20260818-OpenBench A New Benchmark](../DEP-E-20260818-OpenBench%20A%20New%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics* | Wang, Junhui; Huo, Dongjie; Xu, Zehui; Shi, Yongliang; Yan, Yimin; Wang, Yuanxin; Gao, Chao; Qiao, Yan; Zhou, Guyue | [arXiv:2502.09238](https://arxiv.org/abs/2502.09238) - [DOI](https://doi.org/10.48550/arXiv.2502.09238) |
