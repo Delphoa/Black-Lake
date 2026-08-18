@@ -9152,3 +9152,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference* | Vimal William; Ravi Tandon; Jyotikrishna Dass | [arXiv:2607.24788v1](https://arxiv.org/abs/2607.24788v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24788) |
+
+
+## [DEP-A-20260819-TriShieldRAG Three Ring D](../DEP-A-20260819-TriShieldRAG%20Three%20Ring%20D/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23838-whitepaper-review.md`](../DEP-A-20260819-TriShieldRAG%20Three%20Ring%20D/2607.23838-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TriShieldRAG: A Three-Ring Defense-in-Depth Framework Against Knowledge Corruption in Retrieval-Augmented Generation* | Susil Kumar Mohanty; Rohit Patel; Kosuru Yuvaraj; Jeenal Chaudhary; Disha Singhania | [arXiv:2607.23838v1](https://arxiv.org/abs/2607.23838v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23838) |
