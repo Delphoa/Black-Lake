@@ -9818,3 +9818,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference* | Sangjin Kim; Yuseon Choi; Byeongcheol Kim; Jungjun Oh; Hoi-jun Yoo | [arXiv:2607.27694v1](https://arxiv.org/abs/2607.27694v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27694) |
+
+
+## [DEP-A-20260819-Capturing Token Tendencie](../DEP-A-20260819-Capturing%20Token%20Tendencie/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28341-whitepaper-review.md`](../DEP-A-20260819-Capturing%20Token%20Tendencie/2607.28341-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models* | Jie Ma; Zhike Qiu; Jie Gao; Jiayi Ji; Qian Chen; Xiaoshuai Sun; Rongrong Ji | [arXiv:2607.28341v1](https://arxiv.org/abs/2607.28341v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28341) |
