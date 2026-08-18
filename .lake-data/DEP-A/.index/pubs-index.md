@@ -9827,3 +9827,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models* | Jie Ma; Zhike Qiu; Jie Gao; Jiayi Ji; Qian Chen; Xiaoshuai Sun; Rongrong Ji | [arXiv:2607.28341v1](https://arxiv.org/abs/2607.28341v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28341) |
+
+
+## [DEP-A-20260819-LAST Last Query Token](../DEP-A-20260819-LAST%20Last%20Query%20Token/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27952-whitepaper-review.md`](../DEP-A-20260819-LAST%20Last%20Query%20Token/2607.27952-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference* | Feng Yang; Xinrui Ju; Keyang Zhang; Xiandong Meng; Rongqun Lin; Howard Leung; Shiqi Wang; Haoliang Li; Chris Xing Tian | [arXiv:2607.27952v1](https://arxiv.org/abs/2607.27952v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27952) |
