@@ -3366,3 +3366,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models* | Luo, Gen; Zhou, Yiyi; Zhang, Yuxin; Zheng, Xiawu; Sun, Xiaoshuai; Ji, Rongrong | [arXiv:2403.03003](https://arxiv.org/abs/2403.03003) - [DOI](https://doi.org/10.48550/arXiv.2403.03003) |
+
+
+## [DEP-E-20260818-A Self-Supervised Gait](../DEP-E-20260818-A%20Self-Supervised%20Gait/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification* | Rao, Haocong; Wang, Siqi; Hu, Xiping; Tan, Mingkui; Guo, Yi; Cheng, Jun; Liu, Xinwang; Hu, Bin | [arXiv:2009.03671](https://arxiv.org/abs/2009.03671) - [DOI](https://doi.org/10.1109/TPAMI.2021.3092833) |
