@@ -10205,3 +10205,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It* | Xinyu Zhou; Boyu Zhu; Yi Xu; Zhiwei Li; Yingfa Chen; Huiming Wang; Zhijiang Guo | [arXiv:2606.11052v1](https://arxiv.org/abs/2606.11052v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11052) |
+
+
+## [DEP-A-20260819-Attention Expansion Enhan](../DEP-A-20260819-Attention%20Expansion%20Enhan/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.10716-whitepaper-review.md`](../DEP-A-20260819-Attention%20Expansion%20Enhan/2606.10716-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Attention Expansion: Enhancing Keyphrase Extraction from Long Documents with Attention-Augmented Contextualized Embeddings* | Roberto Martínez-Cruz; Alvaro J. López-López; José Portela | [arXiv:2606.10716v2](https://arxiv.org/abs/2606.10716v2) - [DOI](https://doi.org/10.48550/arXiv.2606.10716) |
