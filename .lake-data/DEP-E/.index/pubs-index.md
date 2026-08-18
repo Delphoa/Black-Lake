@@ -3660,3 +3660,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Relieving the Over-Aggregating Effect in Graph Transformers* | Sun, Junshu; Chang, Wanxing; Yang, Chenxue; Huang, Qingming; Wang, Shuhui | [arXiv:2510.21267](https://arxiv.org/abs/2510.21267) - [DOI](https://doi.org/10.48550/arXiv.2510.21267) |
+
+
+## [DEP-E-20260818-When Traffic Flow](../DEP-E-20260818-When%20Traffic%20Flow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Traffic Flow Prediction Meets Wireless Big Data Analytics* | Chen, Yuanfang; Guizani, Mohsen; Zhang, Yan; Wang, Lei; Crespi, Noel; Lee, Gyu Myoung | [arXiv:1709.08024](https://arxiv.org/abs/1709.08024) - [DOI](https://doi.org/10.48550/arXiv.1709.08024) |
