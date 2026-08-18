@@ -3604,3 +3604,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QDCNN: Quantum Dilated Convolutional Neural Network* | Chen, Yixiong | [arXiv:2110.15667](https://arxiv.org/abs/2110.15667) - [DOI](https://doi.org/10.48550/arXiv.2110.15667) |
+
+
+## [DEP-E-20260818-Are LLMs Capable of](../DEP-E-20260818-Are%20LLMs%20Capable%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data* | Liu, Xiao; Wu, Zirui; Wu, Xueqing; Lu, Pan; Chang, Kai-Wei; Feng, Yansong | [arXiv:2402.17644](https://arxiv.org/abs/2402.17644) - [DOI](https://doi.org/10.48550/arXiv.2402.17644) |
