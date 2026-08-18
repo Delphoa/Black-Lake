@@ -10376,3 +10376,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Practical Online KV Cache Compaction for LLM Agents: An Empirical Study* | Yujian Liu; Jiabao Ji; Li An; Rohit Jain; Gungor Polatkan; Siyu Zhu; Shiyu Chang | [arXiv:2608.00902v1](https://arxiv.org/abs/2608.00902v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00902) |
+
+
+## [DEP-A-20260819-S 4 R Selective](../DEP-A-20260819-S%204%20R%20Selective/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.00528-whitepaper-review.md`](../DEP-A-20260819-S%204%20R%20Selective/2608.00528-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *S$^4$R: Selective Sampling, Subspaces, and Sparse Reconstruction for Compressed Long-Context KV Caching* | Jialong Han; You Wu; Kewei Tu | [arXiv:2608.00528v1](https://arxiv.org/abs/2608.00528v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00528) |
