@@ -3548,3 +3548,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning-Augmented Streaming Algorithms for Correlation Clustering* | Dong, Yinhao; Jiang, Shan; Li, Shi; Peng, Pan | [arXiv:2510.10705](https://arxiv.org/abs/2510.10705) - [DOI](https://doi.org/10.48550/arXiv.2510.10705) |
+
+
+## [DEP-E-20260818-SMTFL Secure Model](../DEP-E-20260818-SMTFL%20Secure%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SMTFL: Secure Model Training to Untrusted Participants in Federated Learning* | Zhao, Zhihui; Dong, Xiaorong; Ren, Yimo; Wang, Jianhua; Yu, Dan; Zhu, Hongsong; Chen, Yongle | [arXiv:2502.02038](https://arxiv.org/abs/2502.02038) - [DOI](https://doi.org/10.48550/arXiv.2502.02038) |
