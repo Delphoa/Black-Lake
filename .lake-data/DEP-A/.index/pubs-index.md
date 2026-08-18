@@ -10583,3 +10583,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning* | Muyang Ye; Tian Lan; Feihu Jiang; Yongshi Ye; Wuyunsiqin; Bin Zhu; Qianghuai Jia; Zhao Xu; Weihua Luo; Ye Wang; Jinyang Zhang; Longyue Wang; Lingfeng Bao | [arXiv:2608.05245v1](https://arxiv.org/abs/2608.05245v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05245) |
+
+
+## [DEP-A-20260819-LUNAR Benchmarking Person](../DEP-A-20260819-LUNAR%20Benchmarking%20Person/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05246-whitepaper-review.md`](../DEP-A-20260819-LUNAR%20Benchmarking%20Person/2608.05246-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs* | Jiahao Zhang; Yongzhi Tong; Zelin Fu; Pengde Zhao; Yanmei Jiang; Jiang Feng; Min Yang | [arXiv:2608.05246v1](https://arxiv.org/abs/2608.05246v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05246) |
