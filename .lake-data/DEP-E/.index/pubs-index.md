@@ -3443,3 +3443,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Role of Model Confidence on Bias Effects in Measured Uncertainties for Vision-Language Models* | Liu, Xinyi; Wang, Weiguang; He, Hangfeng | [arXiv:2506.16724](https://arxiv.org/abs/2506.16724) - [DOI](https://doi.org/10.48550/arXiv.2506.16724) |
+
+
+## [DEP-E-20260818-ChatABL Abductive](../DEP-E-20260818-ChatABL%20Abductive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ChatABL: Abductive Learning via Natural Language Interaction with ChatGPT* | Zhong, Tianyang; Wei, Yaonai; Yang, Li; Wu, Zihao; Liu, Zhengliang; Wei, Xiaozheng; Li, Wenjun; Yao, Junjie; Ma, Chong; Li, Xiang; Zhu, Dajiang; Jiang, Xi; Han, Junwei; Shen, Dinggang; Liu, Tianming; Zhang, Tuo | [arXiv:2304.11107](https://arxiv.org/abs/2304.11107) - [DOI](https://doi.org/10.48550/arXiv.2304.11107) |
