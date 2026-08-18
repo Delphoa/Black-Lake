@@ -3450,3 +3450,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ChatABL: Abductive Learning via Natural Language Interaction with ChatGPT* | Zhong, Tianyang; Wei, Yaonai; Yang, Li; Wu, Zihao; Liu, Zhengliang; Wei, Xiaozheng; Li, Wenjun; Yao, Junjie; Ma, Chong; Li, Xiang; Zhu, Dajiang; Jiang, Xi; Han, Junwei; Shen, Dinggang; Liu, Tianming; Zhang, Tuo | [arXiv:2304.11107](https://arxiv.org/abs/2304.11107) - [DOI](https://doi.org/10.48550/arXiv.2304.11107) |
+
+
+## [DEP-E-20260818-MMEvalPro Calibrating](../DEP-E-20260818-MMEvalPro%20Calibrating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* | Huang, Jinsheng; Chen, Liang; Guo, Taian; Zeng, Fu; Zhao, Yusheng; Wu, Bohan; Yuan, Ye; Zhao, Haozhe; Guo, Zhihui; Zhang, Yichi; Yuan, Jingyang; Ju, Wei; Liu, Luchen; Liu, Tianyu; Chang, Baobao; Zhang, Ming | [arXiv:2407.00468](https://arxiv.org/abs/2407.00468) - [DOI](https://doi.org/10.48550/arXiv.2407.00468) |
