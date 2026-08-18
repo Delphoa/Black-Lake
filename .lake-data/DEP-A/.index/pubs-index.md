@@ -10574,3 +10574,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations* | Sagar Tamang; Ayush Vyas; Tabarakul Hazarika | [arXiv:2608.06305v1](https://arxiv.org/abs/2608.06305v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06305) |
+
+
+## [DEP-A-20260819-Search2Skill Skill Distil](../DEP-A-20260819-Search2Skill%20Skill%20Distil/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05245-whitepaper-review.md`](../DEP-A-20260819-Search2Skill%20Skill%20Distil/2608.05245-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning* | Muyang Ye; Tian Lan; Feihu Jiang; Yongshi Ye; Wuyunsiqin; Bin Zhu; Qianghuai Jia; Zhao Xu; Weihua Luo; Ye Wang; Jinyang Zhang; Longyue Wang; Lingfeng Bao | [arXiv:2608.05245v1](https://arxiv.org/abs/2608.05245v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05245) |
