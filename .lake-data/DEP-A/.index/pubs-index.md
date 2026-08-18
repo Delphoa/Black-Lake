@@ -9431,3 +9431,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DualDecoder: Accelerate Long Context LLM Inference by Predictive Prefetch* | Zuning Liang; Zhiyi Yao; Qi Chen; Yuedong Xu; Hao Dai; Zhiqiang Ding; Tongkai Yang; Jinlong Hou; Yuan Cheng | [arXiv:2607.26475v1](https://arxiv.org/abs/2607.26475v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26475) |
+
+
+## [DEP-A-20260819-Addressable Recall Compac](../DEP-A-20260819-Addressable%20Recall%20Compac/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25066-whitepaper-review.md`](../DEP-A-20260819-Addressable%20Recall%20Compac/2607.25066-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Addressable Recall Compaction for Long Context-Window Control in AI Agents* | Thang Dang; Yuma Ichikawa; Sakina Fatima; Koichi Shirahata | [arXiv:2607.25066v1](https://arxiv.org/abs/2607.25066v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25066) |
