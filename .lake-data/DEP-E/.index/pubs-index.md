@@ -4066,3 +4066,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Few-shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation* | Jiang, Chengjia; Wang, Tao; Li, Sien; Wang, Jinyang; Wang, Shirui; Antoniou, Antonios | [arXiv:2308.02790](https://arxiv.org/abs/2308.02790) - [DOI](https://doi.org/10.48550/arXiv.2308.02790) |
+
+
+## [DEP-E-20260818-SemanticSLAM Learning](../DEP-E-20260818-SemanticSLAM%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization* | Li, Mingyang; Ma, Yue; Qiu, Qinru | [arXiv:2401.13076](https://arxiv.org/abs/2401.13076) - [DOI](https://doi.org/10.48550/arXiv.2401.13076) |
