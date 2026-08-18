@@ -10502,3 +10502,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control* | Jindong Li; Yang Yang; Zihao Liu; Yutao Yue; Menglin Yang | [arXiv:2608.05169v1](https://arxiv.org/abs/2608.05169v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05169) |
+
+
+## [DEP-A-20260819-DREAM LLM based Dynamic](../DEP-A-20260819-DREAM%20LLM%20based%20Dynamic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05170-whitepaper-review.md`](../DEP-A-20260819-DREAM%20LLM%20based%20Dynamic/2608.05170-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph* | Zhihao Xiao; Mengting Li; Xintao Wang; Linfeng Li; Limin Shui; Mengqi Ji; Borui Cai | [arXiv:2608.05170v1](https://arxiv.org/abs/2608.05170v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05170) |
