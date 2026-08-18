@@ -9485,3 +9485,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data* | Lingyang Zeng; Guangze Chen; Kaichen Yu; Zhicheng Pan; Siyang Weng; Zirui Hu; Xiangyun Du; Hailin He; Rong Zhang; Chengcheng Yang; Kai Huang; Xuan Zhou | [arXiv:2607.27056v1](https://arxiv.org/abs/2607.27056v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27056) |
+
+
+## [DEP-A-20260819-What Softmax Throws Away](../DEP-A-20260819-What%20Softmax%20Throws%20Away/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22781-whitepaper-review.md`](../DEP-A-20260819-What%20Softmax%20Throws%20Away/2607.22781-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Softmax Throws Away: Mass-Aware Attention for Evidence Accumulation* | Minwoo Yu; Young-guk Ha | [arXiv:2607.22781v1](https://arxiv.org/abs/2607.22781v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22781) |
