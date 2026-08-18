@@ -8212,6 +8212,29 @@
         "https://doi.org/10.48550/arXiv.1705.07551"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Query Complexity of the",
+        ".logs/20260818-Arxiv-Query-Complexity-of-the-Metric-Steiner-Tree-LOG.md",
+        ".reports/BL-Arxiv-Query-Complexity-of-the-Metric-Steiner-Tree-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2211.03893",
+      "arxiv_id": "2211.03893",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2211.03893",
+      "normalized_title": "Query Complexity of the Metric Steiner Tree Problem",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P12; draw 74198 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Query-Complexity-of-the-Metric-Steiner-Tree",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.03893",
+        "https://arxiv.org/html/2211.03893",
+        "https://arxiv.org/pdf/2211.03893",
+        "https://doi.org/10.48550/arXiv.2211.03893"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -3709,3 +3709,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Parameterized Complexity of the List Coloring Reconfiguration Problem with Graph Parameters* | Hatanaka, Tatsuhiko; Ito, Takehiro; Zhou, Xiao | [arXiv:1705.07551](https://arxiv.org/abs/1705.07551) - [DOI](https://doi.org/10.48550/arXiv.1705.07551) |
+
+
+## [DEP-E-20260818-Query Complexity of the](../DEP-E-20260818-Query%20Complexity%20of%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Query Complexity of the Metric Steiner Tree Problem* | Chen, Yu; Khanna, Sanjeev; Tan, Zihan | [arXiv:2211.03893](https://arxiv.org/abs/2211.03893) - [DOI](https://doi.org/10.48550/arXiv.2211.03893) |
