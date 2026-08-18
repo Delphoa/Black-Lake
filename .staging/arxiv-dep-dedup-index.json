@@ -6993,6 +6993,29 @@
         "https://doi.org/10.48550/arXiv.2305.15217"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-ChartMuseum Testing",
+        ".logs/20260818-Arxiv-ChartMuseum-Testing-Visual-Reasoning-LOG.md",
+        ".reports/BL-Arxiv-ChartMuseum-Testing-Visual-Reasoning-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.13444",
+      "arxiv_id": "2505.13444",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2505.13444",
+      "normalized_title": "ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models",
+      "notes": "Job BLAD-2200-20260818-50A35360 item BLAD-2200-20260818-50A35360-P04; draw 11241 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ChartMuseum-Testing-Visual-Reasoning",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.13444",
+        "https://arxiv.org/html/2505.13444",
+        "https://arxiv.org/pdf/2505.13444",
+        "https://doi.org/10.48550/arXiv.2505.13444"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
