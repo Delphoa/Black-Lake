@@ -10070,3 +10070,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs* | Tao Feng; Haozhen Zhang; Zijie Lei; Peixuan Han; Jiaxuan You | [arXiv:2604.23626v1](https://arxiv.org/abs/2604.23626v1) - [DOI](https://doi.org/10.48550/arXiv.2604.23626) |
+
+
+## [DEP-A-20260819-ResKV Reconstructing Omit](../DEP-A-20260819-ResKV%20Reconstructing%20Omit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29591-whitepaper-review.md`](../DEP-A-20260819-ResKV%20Reconstructing%20Omit/2607.29591-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression* | Yuhang Zhan; Lisi Chen; Shuo Shang | [arXiv:2607.29591v1](https://arxiv.org/abs/2607.29591v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29591) |
