@@ -10421,3 +10421,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TopoGuard: Graph Theory Based Defenses Against Split-Knowledge Attacks on RAG* | Chahana Dahal; Zuobin Xiong | [arXiv:2607.20437v1](https://arxiv.org/abs/2607.20437v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20437) |
+
+
+## [DEP-A-20260819-Skill Contracted Agents E](../DEP-A-20260819-Skill%20Contracted%20Agents%20E/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.20431-whitepaper-review.md`](../DEP-A-20260819-Skill%20Contracted%20Agents%20E/2607.20431-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Skill-Contracted Agents for Evidence-Aware Materials Literature Analysis* | Bixuan Li; Yu Liu; Shuo Shi; Xiaoya Huang; Peng Kang; Lei Zheng | [arXiv:2607.20431v1](https://arxiv.org/abs/2607.20431v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20431) |
