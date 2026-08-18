@@ -10520,3 +10520,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding* | Ayushman Garg; Akshita Gupta; Shaswata Bhattacharya; Abhishek Gupta; Sandeep Kumar; Manoj Kumar | [arXiv:2608.05326v1](https://arxiv.org/abs/2608.05326v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05326) |
+
+
+## [DEP-A-20260819-SkillZip Contract Preserv](../DEP-A-20260819-SkillZip%20Contract%20Preserv/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05604-whitepaper-review.md`](../DEP-A-20260819-SkillZip%20Contract%20Preserv/2608.05604-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries* | Xingyu Tan; Xiaoyang Wang; Qing Liu; Xiwei Xu; Xin Yuan; Liming Zhu; Wenjie Zhang | [arXiv:2608.05604v1](https://arxiv.org/abs/2608.05604v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05604) |
