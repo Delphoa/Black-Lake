@@ -10295,3 +10295,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemArbiter: Decision-Time Memory Arbitration for Long-Horizon LLM Agents* | Jiajun Dong; Yutao Hu; Fengrui Fan; Shihan Dou; Yueming Wu; Deqing Zou | [arXiv:2608.02113v1](https://arxiv.org/abs/2608.02113v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02113) |
+
+
+## [DEP-A-20260819-CoEvoKG Co Evolving Knowl](../DEP-A-20260819-CoEvoKG%20Co%20Evolving%20Knowl/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01904-whitepaper-review.md`](../DEP-A-20260819-CoEvoKG%20Co%20Evolving%20Knowl/2608.01904-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents* | Zhaoyang Li; Zenghuang Fu; Qiuyuan Ai; Ping Jiang; Haoyu Wu; Minghui Wu; Chenxu Zhao; Jie Song; Guannan He | [arXiv:2608.01904v1](https://arxiv.org/abs/2608.01904v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01904) |
