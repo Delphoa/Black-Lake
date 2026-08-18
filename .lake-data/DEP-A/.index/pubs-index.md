@@ -10124,3 +10124,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG* | Yang Gao; Gang Quan; Scott Piersall; Qian Lou; Dongdong Wang; Liqiang Wang | [arXiv:2607.29019v1](https://arxiv.org/abs/2607.29019v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29019) |
+
+
+## [DEP-A-20260819-MERIT Efficient Place Del](../DEP-A-20260819-MERIT%20Efficient%20Place%20Del/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29173-whitepaper-review.md`](../DEP-A-20260819-MERIT%20Efficient%20Place%20Del/2607.29173-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes* | Zekai Wu; Jiabao Jin; Peng Cheng; Wangze Ni; Haoyang Li; Lei Chen; Junjie Yao; Jingkuan Song; Heng Tao Shen | [arXiv:2607.29173v1](https://arxiv.org/abs/2607.29173v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29173) |
