@@ -3877,3 +3877,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |
+
+
+## [DEP-E-20260818-Multi-Objective](../DEP-E-20260818-Multi-Objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Objective Trajectory Planning with Dual-Encoder* | Zhang, Beibei; Xiang, Tian; Mao, Chentao; Zheng, Yuhua; Li, Shuai; Niu, Haoyi; Xi, Xiangming; Bai, Wenyuan; Gao, Feng | [arXiv:2403.17353](https://arxiv.org/abs/2403.17353) - [DOI](https://doi.org/10.48550/arXiv.2403.17353) |
