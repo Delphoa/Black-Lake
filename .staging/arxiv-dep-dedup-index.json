@@ -6902,17 +6902,19 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video",
+        ".lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/README.md",
+        ".lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md",
         ".logs/20260818-Arxiv-ST-NeRF-Editable-Video-LOG.md",
         ".logs/20260818-Arxiv-ST-NeRF-Editable-Video-PHASE-LOG.md",
         ".reports/BL-Arxiv-ST-NeRF-Editable-Video-20260818/Report-Mark.md"
       ],
       "arxiv_base_id": "2104.14786",
       "arxiv_id": "2104.14786v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/0d655980",
       "deposit_date": "20260818",
       "doi": "10.1145/3450626.3459756",
       "normalized_title": "Editable Free-Viewpoint Video using a Layered Neural Representation",
-      "notes": "Uniform draw index 34230 of 75964 parent units; duplicate exclusions 0; source gate repaired one partial unit to verified complete; cache miss became cached; source files withheld locally; final commit reference pending.",
+      "notes": "Uniform draw index 34230 of 75964 parent units; duplicate exclusions 0; source gate repaired one partial unit to verified complete; cache miss became cached; source files withheld locally; public artifacts committed directly to main.",
       "slug": "ST-NeRF-Editable-Video",
       "source_urls": [
         "https://arxiv.org/abs/2104.14786",
@@ -6921,7 +6923,7 @@
         "https://doi.org/10.1145/3450626.3459756",
         "https://github.com/DarlingHang/st-nerf"
       ],
-      "status": "submission_pending"
+      "status": "deposited"
     }
   ],
   "papers": [
