@@ -4353,3 +4353,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SPL: Orchestrating Workflows with Declarative Deterministic-Probabilistic Composition* | Wen G. Gong | [arXiv:2607.07727](https://arxiv.org/abs/2607.07727) - [DOI](https://doi.org/10.48550/arXiv.2607.07727) |
+
+
+## [DEP-E-20260819-TRACE ROUTER Task](../DEP-E-20260819-TRACE%20ROUTER%20Task/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`trace-router-task.md`](../DEP-E-20260819-TRACE%20ROUTER%20Task/trace-router-task.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI* | Ritik Raj; Souvik Kundu; Sarbartha Banerjee; Dheemanth Joshi; Ishita Vohra; Tushar Krishna | [arXiv:2607.22465](https://arxiv.org/abs/2607.22465) - [DOI](https://doi.org/10.48550/arXiv.2607.22465) |

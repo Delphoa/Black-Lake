@@ -1,0 +1,34 @@
+# DEP-E-20260819-TRACE ROUTER Task
+
+#dep-e #research #agentic-ai #agent-skills #agent-evals #verification #context-systems
+
+This DEP-E entry is a source-grounded research artifact expanding DEP-20260727-Tech Intel 1301 through TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI. It preserves repository provenance and canonical public metadata without depositing original source payloads.
+
+## Contents
+
+- **README.md**
+  - DEP inventory, review scope, insights, and attribution.
+- **trace-router-task.md**
+  - Schema-complete manuscript research document with source metadata, evidence ledger, claims, constraints, implementation paths, related reading, and source references.
+
+No .source/ directory is included because no original source files were collected or authorized for redistribution.
+
+## Summary of Items
+
+The manuscript separates source-package claims, canonical metadata, and reviewer interpretation. It records the cryptographic selection lineage, supporting-source expansion, evidence limits, replication needs, and bounded implementation ideas.
+
+## Insights and Relevance
+
+Skill systems are now common in coding and office agents, but aggregate success rates can hide newly introduced failures. This gives a concrete evaluation frame for deciding whether added procedures improve reliability or simply shift errors. The durable value of this entry is its provenance-preserving decision surface: future reviewers can locate the selected DEP, canonical source, claim boundary, and next validation steps without inferring that the reported work was independently reproduced.
+
+## Attribution Block
+
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260727-Tech%20Intel%201301/README.md
+  - Applies to: README.md, trace-router-task.md
+  - Notes: Selected source DEP boundary, inventory, and attribution context.
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260727-Tech%20Intel%201301/daily_research_findings_2026-07-27_1301.md
+  - Applies to: trace-router-task.md
+  - Notes: Deposited source synthesis used for the selected-thread context.
+- Source URL: https://arxiv.org/abs/2607.22465v2
+  - Applies to: trace-router-task.md
+  - Notes: Canonical selected supporting-source metadata and public locator.
