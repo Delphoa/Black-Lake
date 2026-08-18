@@ -4569,3 +4569,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum advantage through trusted quantum computation \| IBM Quantum Computing Blog* | IBM | [Canonical source](https://www.ibm.com/quantum/blog/quantum-advantage) |
+
+
+## [DEP-E-20260819-MatBind A Shared](../DEP-E-20260819-MatBind%20A%20Shared/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`matbind-a-shared.md`](../DEP-E-20260819-MatBind%20A%20Shared/matbind-a-shared.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MatBind: A Shared Embedding Space for Multimodal Materials Characterization* | Le Yang; Anoop K. Chandran; Jona Östreicher; Evgenii Sovetkin; Adrian Mirza; Sebastien Bompas; Bashir Kazimi; Pascal Friederich; Stefan Kesselheim; Kevin Maik Jablonka; Stefan Sandfeld | [arXiv:2607.08470](https://arxiv.org/abs/2607.08470) - [DOI](https://doi.org/10.48550/arXiv.2607.08470) |
