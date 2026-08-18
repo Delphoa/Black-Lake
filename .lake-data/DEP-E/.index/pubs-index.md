@@ -4227,3 +4227,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory* | Jiayi Tian et al. | [arXiv:2607.10350](https://arxiv.org/abs/2607.10350) - [DOI](https://doi.org/10.48550/arXiv.2607.10350) |
+
+
+## [DEP-E-20260819-Security of World Model](../DEP-E-20260819-Security%20of%20World%20Model/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`security-of-world-model.md`](../DEP-E-20260819-Security%20of%20World%20Model/security-of-world-model.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation* | Fazhong Liu; Zhuoyan Chen; Haozhen Tan; Yan Meng; Guoxing Chen; Haojin Zhu | [arXiv:2607.28226](https://arxiv.org/abs/2607.28226) - [DOI](https://doi.org/10.48550/arXiv.2607.28226) |
