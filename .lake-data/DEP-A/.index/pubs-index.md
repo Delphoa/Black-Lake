@@ -9098,3 +9098,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs* | Alexandru-Andrei Saucă; Ana-Luiza Rusnac | [arXiv:2607.24799v1](https://arxiv.org/abs/2607.24799v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24799) |
+
+
+## [DEP-A-20260819-Cross Attention Calibrate](../DEP-A-20260819-Cross%20Attention%20Calibrate/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24332-whitepaper-review.md`](../DEP-A-20260819-Cross%20Attention%20Calibrate/2607.24332-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Attention Calibrated Deduplication for Retrieval-Augmented Generation System* | Phuong Le Huy; Nam H. Nguyen; Quan V. Dang | [arXiv:2607.24332v1](https://arxiv.org/abs/2607.24332v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24332) |
