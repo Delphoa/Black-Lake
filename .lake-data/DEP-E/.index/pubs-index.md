@@ -4272,3 +4272,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimizing Teacher-Student Partitioning for Scalable Knowledge Distillation on HPC Systems* | Adrian P. Dieguez; Victor Conchello Vendrell; Alex Batlle; Vinnam Kim; Jordi Ros-Giralt; Harris Teague | [arXiv:2606.27797](https://arxiv.org/abs/2606.27797) - [DOI](https://doi.org/10.48550/arXiv.2606.27797) |
+
+
+## [DEP-E-20260819-Consensus gated Multi](../DEP-E-20260819-Consensus%20gated%20Multi/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`consensus-gated-multi.md`](../DEP-E-20260819-Consensus%20gated%20Multi/consensus-gated-multi.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation* | Shehram Baig; Ahmad Mustafa | [arXiv:2608.13889](https://arxiv.org/abs/2608.13889) - [DOI](https://doi.org/10.48550/arXiv.2608.13889) |
