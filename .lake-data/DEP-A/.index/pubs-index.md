@@ -9872,3 +9872,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond KV Reconstruction: Functional Reconstruction for MLA Draft Models in Speculative Decoding* | Weiye Shi; Fanxu Meng; Muhan Zhang | [arXiv:2607.27269v1](https://arxiv.org/abs/2607.27269v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27269) |
+
+
+## [DEP-A-20260819-LongRTL Graph Similarity](../DEP-A-20260819-LongRTL%20Graph%20Similarity/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.08944-whitepaper-review.md`](../DEP-A-20260819-LongRTL%20Graph%20Similarity/2606.08944-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization* | Yuyang Ye; Che-Kuan Shen; Xiangfei Hu; Yuchen Liu; Shuo Yin; Xufeng Yao; Bei Yu; Tsung-Yi Ho | [arXiv:2606.08944v1](https://arxiv.org/abs/2606.08944v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08944) |
