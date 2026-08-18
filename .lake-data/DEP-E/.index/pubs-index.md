@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **697 publication reviews across 361 DEP-E entries**.
+- Current coverage: **799 publication reviews across 454 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-14; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,21 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260818-Evidence-Governed Agents](../DEP-E-20260818-Evidence-Governed%20Agents/README.md)
+
+| Publication | Authors or credited organization | Canonical source | Owning DEP |
+|---|---|---|---|
+| *OpenForge RL: Train Harness-native Agents in Any Environment* | Xiao Yu; Baolin Peng; Ruize Xu; *et al.* | [arXiv:2607.21557v3](https://arxiv.org/abs/2607.21557) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems* | Gaurav Dadhich | [arXiv:2607.21503v1](https://arxiv.org/abs/2607.21503) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *AREX: Towards a Recursively Self-Improving Agent for Deep Research* | AREX Team | [arXiv:2607.21461v2](https://arxiv.org/abs/2607.21461) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *GuardianAgentBench: Where Agents Fail and How to Guard Them* | Vishal Ishwar Naik; Chenyu Xu; Donna Dong; *et al.* | [arXiv:2607.20982v1](https://arxiv.org/abs/2607.20982) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests* | Ankur Singh; Jinqiu Yang; Tse-Hsun (Peter) Chen | [arXiv:2607.20759v1](https://arxiv.org/abs/2607.20759) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *Test-Time Scaling via Error Localization* | Rajiv Shailesh Chitale; Rahul Madhavan; Taneesh Gupta; Deepanway Ghosal; Aravindan Raghuveer | [arXiv:2607.21453v2](https://arxiv.org/abs/2607.21453) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context* | Alagappan Valliappan | [arXiv:2607.21535v1](https://arxiv.org/abs/2607.21535) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators* | Fabian Waschkowski; Prabod Rathnayaka; Lukas Wesemann | [arXiv:2607.19438v1](https://arxiv.org/abs/2607.19438) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design* | Xiaoliang Shi; Zichen Wang; Runze Ma; Zhongyue Zhang; Shuangjia Zheng | [arXiv:2607.20057v1](https://arxiv.org/abs/2607.20057) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+| *DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems* | Seongmin Kim; Abhinav Rijal; Yuri Alexeev; *et al.* | [arXiv:2607.20225v1](https://arxiv.org/abs/2607.20225) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
 
 ## [DEP-E-20260818-Invisible Backdoor](../DEP-E-20260818-Invisible%20Backdoor/README.md)
 
