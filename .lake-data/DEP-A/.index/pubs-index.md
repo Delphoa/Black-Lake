@@ -9242,3 +9242,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL* | Jiabao Ji; Yujian Liu; Li An; Rohit Jain; Gungor Polatkan; Siyu Zhu; Shiyu Chang | [arXiv:2607.25816v1](https://arxiv.org/abs/2607.25816v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25816) |
+
+
+## [DEP-A-20260819-Closing Loop Training Fre](../DEP-A-20260819-Closing%20Loop%20Training%20Fre/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.21848-whitepaper-review.md`](../DEP-A-20260819-Closing%20Loop%20Training%20Fre/2607.21848-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering* | Wenchao Ma; Changran Liu; Sharon X. Huang; Haomiao Jiang | [arXiv:2607.21848v2](https://arxiv.org/abs/2607.21848v2) - [DOI](https://doi.org/10.48550/arXiv.2607.21848) |
