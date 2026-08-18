@@ -7384,6 +7384,29 @@
         "https://doi.org/10.48550/arXiv.2407.00468"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-A Simple and Efficient",
+        ".logs/20260818-Arxiv-A-Simple-and-Efficient-Multi-task-Network-LOG.md",
+        ".reports/BL-Arxiv-A-Simple-and-Efficient-Multi-task-Network-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2103.04056",
+      "arxiv_id": "2103.04056",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2103.04056",
+      "normalized_title": "A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P11; draw 10178 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Simple-and-Efficient-Multi-task-Network",
+      "source_urls": [
+        "https://arxiv.org/abs/2103.04056",
+        "https://arxiv.org/html/2103.04056",
+        "https://arxiv.org/pdf/2103.04056",
+        "https://doi.org/10.48550/arXiv.2103.04056"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

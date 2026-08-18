@@ -3457,3 +3457,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation* | Huang, Jinsheng; Chen, Liang; Guo, Taian; Zeng, Fu; Zhao, Yusheng; Wu, Bohan; Yuan, Ye; Zhao, Haozhe; Guo, Zhihui; Zhang, Yichi; Yuan, Jingyang; Ju, Wei; Liu, Luchen; Liu, Tianyu; Chang, Baobao; Zhang, Ming | [arXiv:2407.00468](https://arxiv.org/abs/2407.00468) - [DOI](https://doi.org/10.48550/arXiv.2407.00468) |
+
+
+## [DEP-E-20260818-A Simple and Efficient](../DEP-E-20260818-A%20Simple%20and%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding* | Feng, Di; Zhou, Yiyang; Xu, Chenfeng; Tomizuka, Masayoshi; Zhan, Wei | [arXiv:2103.04056](https://arxiv.org/abs/2103.04056) - [DOI](https://doi.org/10.48550/arXiv.2103.04056) |
