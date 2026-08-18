@@ -3681,3 +3681,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LAGO: Few-shot Crosslingual Embedding Inversion Attacks via Language Similarity-Aware Graph Optimization* | Yu, Wenrui; Chen, Yiyi; Bjerva, Johannes; Kosta, Sokol; Li, Qiongxiu | [arXiv:2505.16008](https://arxiv.org/abs/2505.16008) - [DOI](https://doi.org/10.48550/arXiv.2505.16008) |
+
+
+## [DEP-E-20260818-Neural Architecture](../DEP-E-20260818-Neural%20Architecture/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Architecture Search for Joint Optimization of Predictive Power and Biological Knowledge* | Zhang, Zijun; Zhou, Linqi; Gou, Liangke; Wu, Ying Nian | [arXiv:1909.00337](https://arxiv.org/abs/1909.00337) - [DOI](https://doi.org/10.48550/arXiv.1909.00337) |
