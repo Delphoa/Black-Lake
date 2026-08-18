@@ -10178,3 +10178,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study* | Koki Okajima; Tsukasa Yoshida | [arXiv:2606.11780v1](https://arxiv.org/abs/2606.11780v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11780) |
+
+
+## [DEP-A-20260819-SciClaimSeekers at CheckT](../DEP-A-20260819-SciClaimSeekers%20at%20CheckT/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24803-whitepaper-review.md`](../DEP-A-20260819-SciClaimSeekers%20at%20CheckT/2607.24803-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SciClaimSeekers at CheckThat! 2026: Retrieving Scientific Sources for Social Media Claims with LLM Reranking* | Mohotarema Rashid; Nansu Baniya; Anirban Saha Anik; Xiaoying Song; Lingzi Hong | [arXiv:2607.24803v1](https://arxiv.org/abs/2607.24803v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24803) |
