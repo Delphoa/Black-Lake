@@ -9179,3 +9179,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention* | Yufei Xue; Lin Niu; Hong Liu; Siran Liu; Hanyong Shao; Wei Liu; Guanghua Yu; Jianchen Zhu; Jun Zhang | [arXiv:2607.25291v1](https://arxiv.org/abs/2607.25291v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25291) |
+
+
+## [DEP-A-20260819-RIS Kernel Model Agnostic](../DEP-A-20260819-RIS%20Kernel%20Model%20Agnostic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.21927-whitepaper-review.md`](../DEP-A-20260819-RIS%20Kernel%20Model%20Agnostic/2607.21927-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RIS-Kernel: A Model-Agnostic Architecture for Long-Context LLM Inference via Sparse Attention* | Anderson R. Santos | [arXiv:2607.21927v1](https://arxiv.org/abs/2607.21927v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21927) |
