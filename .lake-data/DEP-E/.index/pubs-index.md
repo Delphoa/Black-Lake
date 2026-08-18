@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **951 publication reviews across 606 DEP-E entries**.
+- Current coverage: **952 publication reviews across 607 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5064,3 +5064,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Step-back Profiling: Distilling User History for Personalized Scientific Writing* | Not available from inspected sources | [arXiv:2406.14275](https://arxiv.org/abs/2406.14275) |
+
+## [DEP-E-20260819-Arxiv 2505.22657](../DEP-E-20260819-Arxiv%202505.22657/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model* | Not available from inspected sources | [arXiv:2505.22657](https://arxiv.org/abs/2505.22657) |
