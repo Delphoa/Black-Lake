@@ -4003,3 +4003,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps* | Li, Shuqing; Gao, Cuiyun; Zhang, Jianping; Zhang, Yujia; Liu, Yepang; Gu, Jiazhen; Peng, Yun; Lyu, Michael R. | [arXiv:2406.09313](https://arxiv.org/abs/2406.09313) - [DOI](https://doi.org/10.1145/3660803) |
+
+
+## [DEP-E-20260818-CulturalBench A Robust](../DEP-E-20260818-CulturalBench%20A%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CulturalBench: A Robust, Diverse, and Challenging Cultural Benchmark by Human-AI CulturalTeaming* | Chiu, Yu Ying; Jiang, Liwei; Lin, Bill Yuchen; Park, Chan Young; Li, Shuyue Stella; Ravi, Sahithya; Bhatia, Mehar; Antoniak, Maria; Tsvetkov, Yulia; Shwartz, Vered; Choi, Yejin | [arXiv:2410.02677](https://arxiv.org/abs/2410.02677) - [DOI](https://doi.org/10.48550/arXiv.2410.02677) |
