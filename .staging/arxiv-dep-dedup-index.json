@@ -8143,6 +8143,29 @@
         "https://doi.org/10.48550/arXiv.1909.00337"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Learning Latent Action",
+        ".logs/20260818-Arxiv-Learning-Latent-Action-World-Models-In-The-LOG.md",
+        ".reports/BL-Arxiv-Learning-Latent-Action-World-Models-In-The-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.05230",
+      "arxiv_id": "2601.05230",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2601.05230",
+      "normalized_title": "Learning Latent Action World Models In The Wild",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P09; draw 45254 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 29; reselections 30; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Latent-Action-World-Models-In-The",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.05230",
+        "https://arxiv.org/html/2601.05230",
+        "https://arxiv.org/pdf/2601.05230",
+        "https://doi.org/10.48550/arXiv.2601.05230"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -3688,3 +3688,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Architecture Search for Joint Optimization of Predictive Power and Biological Knowledge* | Zhang, Zijun; Zhou, Linqi; Gou, Liangke; Wu, Ying Nian | [arXiv:1909.00337](https://arxiv.org/abs/1909.00337) - [DOI](https://doi.org/10.48550/arXiv.1909.00337) |
+
+
+## [DEP-E-20260818-Learning Latent Action](../DEP-E-20260818-Learning%20Latent%20Action/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Latent Action World Models In The Wild* | Garrido, Quentin; Nagarajan, Tushar; Terver, Basile; Ballas, Nicolas; LeCun, Yann; Rabbat, Michael | [arXiv:2601.05230](https://arxiv.org/abs/2601.05230) - [DOI](https://doi.org/10.48550/arXiv.2601.05230) |
