@@ -10214,3 +10214,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Attention Expansion: Enhancing Keyphrase Extraction from Long Documents with Attention-Augmented Contextualized Embeddings* | Roberto Martínez-Cruz; Alvaro J. López-López; José Portela | [arXiv:2606.10716v2](https://arxiv.org/abs/2606.10716v2) - [DOI](https://doi.org/10.48550/arXiv.2606.10716) |
+
+
+## [DEP-A-20260819-WitCert Sound Runtime Ris](../DEP-A-20260819-WitCert%20Sound%20Runtime%20Ris/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28699-whitepaper-review.md`](../DEP-A-20260819-WitCert%20Sound%20Runtime%20Ris/2607.28699-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WitCert: Sound Runtime Risk Observability and Gating for KV-Cache Quantization* | Fanzhe Wei; Li Liu | [arXiv:2607.28699v1](https://arxiv.org/abs/2607.28699v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28699) |
