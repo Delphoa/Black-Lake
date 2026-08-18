@@ -3401,3 +3401,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM* | Zhou, Yuxuan; Li, Xingxing; Li, Shengyu; Yan, Zhuohao; Xia, Chunxi; Feng, Shaoquan | [arXiv:2509.20757](https://arxiv.org/abs/2509.20757) - [DOI](https://doi.org/10.48550/arXiv.2509.20757) |
+
+
+## [DEP-E-20260818-Generative AI-enabled](../DEP-E-20260818-Generative%20AI-enabled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Generative AI-enabled Mobile Tactical Multimedia Networks: Distribution, Generation, and Perception* | Xu, Minrui; Niyato, Dusit; Kang, Jiawen; Xiong, Zehui; Guo, Song; Fang, Yuguang; Kim, Dong In | [arXiv:2401.06386](https://arxiv.org/abs/2401.06386) - [DOI](https://doi.org/10.48550/arXiv.2401.06386) |
