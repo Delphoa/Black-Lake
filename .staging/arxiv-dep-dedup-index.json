@@ -7154,6 +7154,29 @@
         "https://doi.org/10.48550/arXiv.1506.05163"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Real-Time Human Frontal",
+        ".logs/20260818-Arxiv-Real-Time-Human-Frontal-View-Synthesis-from-LOG.md",
+        ".reports/BL-Arxiv-Real-Time-Human-Frontal-View-Synthesis-from-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.15433",
+      "arxiv_id": "2603.15433",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2603.15433",
+      "normalized_title": "Real-Time Human Frontal View Synthesis from a Single Image",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P01; draw 12112 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Real-Time-Human-Frontal-View-Synthesis-from",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.15433",
+        "https://arxiv.org/html/2603.15433",
+        "https://arxiv.org/pdf/2603.15433",
+        "https://doi.org/10.48550/arXiv.2603.15433"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

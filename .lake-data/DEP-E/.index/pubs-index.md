@@ -3387,3 +3387,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Convolutional Networks on Graph-Structured Data* | Henaff, Mikael; Bruna, Joan; LeCun, Yann | [arXiv:1506.05163](https://arxiv.org/abs/1506.05163) - [DOI](https://doi.org/10.48550/arXiv.1506.05163) |
+
+
+## [DEP-E-20260818-Real-Time Human Frontal](../DEP-E-20260818-Real-Time%20Human%20Frontal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Real-Time Human Frontal View Synthesis from a Single Image* | Lin, Fangyu; Hu, Yingdong; Zhu, Lunjie; Liu, Zhening; Huang, Yushi; Lin, Zehong; Zhang, Jun | [arXiv:2603.15433](https://arxiv.org/abs/2603.15433) - [DOI](https://doi.org/10.48550/arXiv.2603.15433) |
