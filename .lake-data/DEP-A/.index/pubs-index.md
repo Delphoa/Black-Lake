@@ -9836,3 +9836,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference* | Feng Yang; Xinrui Ju; Keyang Zhang; Xiandong Meng; Rongqun Lin; Howard Leung; Shiqi Wang; Haoliang Li; Chris Xing Tian | [arXiv:2607.27952v1](https://arxiv.org/abs/2607.27952v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27952) |
+
+
+## [DEP-A-20260819-corrective agentic hybrid](../DEP-A-20260819-corrective%20agentic%20hybrid/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24663-whitepaper-review.md`](../DEP-A-20260819-corrective%20agentic%20hybrid/2607.24663-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility* | Rajat Sainju; Dariusz Jarosz; Hairong Shang; Michael Prince; Ryan M. Aydelott; Mathew J. Cherukara; Yine Sun; Michael D. Borland | [arXiv:2607.24663v1](https://arxiv.org/abs/2607.24663v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24663) |
