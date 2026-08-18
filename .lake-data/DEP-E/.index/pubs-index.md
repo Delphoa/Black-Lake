@@ -3373,3 +3373,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification* | Rao, Haocong; Wang, Siqi; Hu, Xiping; Tan, Mingkui; Guo, Yi; Cheng, Jun; Liu, Xinwang; Hu, Bin | [arXiv:2009.03671](https://arxiv.org/abs/2009.03671) - [DOI](https://doi.org/10.1109/TPAMI.2021.3092833) |
+
+
+## [DEP-E-20260818-Exploring the Potential](../DEP-E-20260818-Exploring%20the%20Potential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs* | Chen, Zhikai; Mao, Haitao; Li, Hang; Jin, Wei; Wen, Hongzhi; Wei, Xiaochi; Wang, Shuaiqiang; Yin, Dawei; Fan, Wenqi; Liu, Hui; Tang, Jiliang | [arXiv:2307.03393](https://arxiv.org/abs/2307.03393) - [DOI](https://doi.org/10.48550/arXiv.2307.03393) |
