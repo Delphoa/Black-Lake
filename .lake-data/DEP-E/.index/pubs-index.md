@@ -3891,3 +3891,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RePO: Replay-Enhanced Policy Optimization* | Li, Siheng; Zhou, Zhanhui; Lam, Wai; Yang, Chao; Lu, Chaochao | [arXiv:2506.09340](https://arxiv.org/abs/2506.09340) - [DOI](https://doi.org/10.48550/arXiv.2506.09340) |
+
+
+## [DEP-E-20260818-CoLVR Enhancing](../DEP-E-20260818-CoLVR%20Enhancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization* | Ding, Ziyang; Meng, Linjian; Wu, Yiming; Li, Yuhan; Liu, Yuhao; Zhao, Zhen | [arXiv:2605.08802](https://arxiv.org/abs/2605.08802) - [DOI](https://doi.org/10.48550/arXiv.2605.08802) |
