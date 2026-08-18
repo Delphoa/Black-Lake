@@ -9089,3 +9089,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MedLoCoMo: A Long-Context Multi-Session Medical Dialogue Benchmark for Large Language Models* | Zeyu Zhang; Ziqing Wang; Kaize Ding | [arXiv:2607.22566v1](https://arxiv.org/abs/2607.22566v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22566) |
+
+
+## [DEP-A-20260819-Multimodal Hybrid Retriev](../DEP-A-20260819-Multimodal%20Hybrid%20Retriev/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24799-whitepaper-review.md`](../DEP-A-20260819-Multimodal%20Hybrid%20Retriev/2607.24799-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs* | Alexandru-Andrei Saucă; Ana-Luiza Rusnac | [arXiv:2607.24799v1](https://arxiv.org/abs/2607.24799v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24799) |
