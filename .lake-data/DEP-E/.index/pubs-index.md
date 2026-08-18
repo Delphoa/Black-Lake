@@ -3996,3 +3996,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A parallel structured divide-and-conquer algorithm for symmetric tridiagonal eigenvalue problems* | Liao, Xia; Li, Shengguo; Lu, Yutong; Roman, Jose E. | [arXiv:2008.01990](https://arxiv.org/abs/2008.01990) - [DOI](https://doi.org/10.1109/TPDS.2020.3019471) |
+
+
+## [DEP-E-20260818-Less Cybersickness Please](../DEP-E-20260818-Less%20Cybersickness%20Please/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps* | Li, Shuqing; Gao, Cuiyun; Zhang, Jianping; Zhang, Yujia; Liu, Yepang; Gu, Jiazhen; Peng, Yun; Lyu, Michael R. | [arXiv:2406.09313](https://arxiv.org/abs/2406.09313) - [DOI](https://doi.org/10.1145/3660803) |
