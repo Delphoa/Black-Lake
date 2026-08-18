@@ -4398,3 +4398,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents* | Xiangchen Cheng; Yunwei Jiang; Jianwen Sun; Zizhen Li; Chuanhao Li; Xiangcheng Cao; Yihao Liu; Fanrui Zhang; Li Jin; Kaipeng Zhang | [arXiv:2607.02255](https://arxiv.org/abs/2607.02255) - [DOI](https://doi.org/10.48550/arXiv.2607.02255) |
+
+
+## [DEP-E-20260819-OpenRad a Curated](../DEP-E-20260819-OpenRad%20a%20Curated/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`openrad-a-curated.md`](../DEP-E-20260819-OpenRad%20a%20Curated/openrad-a-curated.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenRad: a Curated Repository of Open-access AI models for Radiology* | Konstantinos Vrettos; Galini Papadaki; Emmanouil Brilakis; Matthaios Triantafyllou; Dimitrios Leventis; Despina Staraki; Maria Mavroforou; Eleftherios Tzanis; Konstantina Giouroukou; Michail E. Klontzas | [arXiv:2603.02062](https://arxiv.org/abs/2603.02062) - [DOI](https://doi.org/10.48550/arXiv.2603.02062) |
