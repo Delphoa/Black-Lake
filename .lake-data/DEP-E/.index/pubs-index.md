@@ -4452,3 +4452,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure* | Jun He; Deying Yu | [arXiv:2607.16109](https://arxiv.org/abs/2607.16109) - [DOI](https://doi.org/10.48550/arXiv.2607.16109) |
+
+
+## [DEP-E-20260819-Energy Aware Scheduling](../DEP-E-20260819-Energy%20Aware%20Scheduling/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`energy-aware-scheduling.md`](../DEP-E-20260819-Energy%20Aware%20Scheduling/energy-aware-scheduling.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs* | Tianyu Wang; Gourav Rattihalli; Aditya Dhakal; Longfei Shangguan; Dejan Milojicic | [arXiv:2606.30391](https://arxiv.org/abs/2606.30391) - [DOI](https://doi.org/10.48550/arXiv.2606.30391) |
