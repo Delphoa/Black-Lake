@@ -9602,3 +9602,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory* | Rubin Wei; Jiaqi Cao; Jiarui Wang; Junming Zhang; Qipeng Guo; Bowen Zhou; Zhouhan Lin | [arXiv:2607.27919v1](https://arxiv.org/abs/2607.27919v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27919) |
+
+
+## [DEP-A-20260819-MemTxn Transaction Bounda](../DEP-A-20260819-MemTxn%20Transaction%20Bounda/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27834-whitepaper-review.md`](../DEP-A-20260819-MemTxn%20Transaction%20Bounda/2607.27834-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemTxn: A Transaction Boundary for Source-Supported Updates and Complete-State Recovery in Agent Memory* | Hanshuai Cui; Zhiqing Tang; Zhi Yao; Fanshuai Meng; Qianli Ma; Weijia Jia | [arXiv:2607.27834v1](https://arxiv.org/abs/2607.27834v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27834) |
