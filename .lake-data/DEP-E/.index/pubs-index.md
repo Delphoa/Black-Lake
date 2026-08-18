@@ -4245,3 +4245,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SymptomAI: Toward a Conversational AI Agent for Everyday Symptom Assessment* | Joseph Breda et al. | [arXiv:2605.04012](https://arxiv.org/abs/2605.04012) - [DOI](https://doi.org/10.48550/arXiv.2605.04012) |
+
+
+## [DEP-E-20260819-Adapting AlphaEvolve to](../DEP-E-20260819-Adapting%20AlphaEvolve%20to/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`adapting-alphaevolve-to.md`](../DEP-E-20260819-Adapting%20AlphaEvolve%20to/adapting-alphaevolve-to.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adapting AlphaEvolve to Optimize Fully Homomorphic Encryption on TPUs* | Shruthi Gorantala; Jianming Tong; Asra Ali; Baiyu Li; Jonathan Katz; Jeremy Kun; Thomas Steinke; Abhradeep Thakurta; Julian Walker; Amir Yazdanbakhsh | [arXiv:2605.14718](https://arxiv.org/abs/2605.14718) - [DOI](https://doi.org/10.48550/arXiv.2605.14718) |
