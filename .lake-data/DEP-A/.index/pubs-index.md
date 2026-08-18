@@ -9080,3 +9080,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs* | Jouwon Song; Woohyeong Kim; Kyeongbo Kong | [arXiv:2607.23046v1](https://arxiv.org/abs/2607.23046v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23046) |
+
+
+## [DEP-A-20260819-MedLoCoMo Long Context Mu](../DEP-A-20260819-MedLoCoMo%20Long%20Context%20Mu/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22566-whitepaper-review.md`](../DEP-A-20260819-MedLoCoMo%20Long%20Context%20Mu/2607.22566-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedLoCoMo: A Long-Context Multi-Session Medical Dialogue Benchmark for Large Language Models* | Zeyu Zhang; Ziqing Wang; Kaize Ding | [arXiv:2607.22566v1](https://arxiv.org/abs/2607.22566v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22566) |
