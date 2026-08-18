@@ -10268,3 +10268,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference* | Zhichen Liu; Ruihan Sun; Hengjie Yang; Zipeng Wu; Zhaohan Chen; Xiaofan Zhang; Yang Xu | [arXiv:2608.02515v1](https://arxiv.org/abs/2608.02515v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02515) |
+
+
+## [DEP-A-20260819-RoMeRL Balancing Feedback](../DEP-A-20260819-RoMeRL%20Balancing%20Feedback/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02508-whitepaper-review.md`](../DEP-A-20260819-RoMeRL%20Balancing%20Feedback/2608.02508-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States* | Yi Yang; Zhennan Chen; Yihong Zhuang; Tiehan Fan; Yinan Chen; Jian Li; Jian Yang; Ying Tai | [arXiv:2608.02508v1](https://arxiv.org/abs/2608.02508v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02508) |
