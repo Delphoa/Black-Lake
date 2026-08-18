@@ -9791,3 +9791,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Development of a Retrieval-Augmented Generation Virtual Assistant for Enhanced Information Discovery at Rubin Observatory* | Leanne P. Guy; Connor Yablonski; Aaron M. Meisner; Guillem Megias Homar; Merlin Fisher-Levine; Eman E. Ali; Tiger J. Hu; Christopher W. Stubbs | [arXiv:2607.01659v1](https://arxiv.org/abs/2607.01659v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01659) |
+
+
+## [DEP-A-20260819-Bridging Inference Time S](../DEP-A-20260819-Bridging%20Inference%20Time%20S/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27415-whitepaper-review.md`](../DEP-A-20260819-Bridging%20Inference%20Time%20S/2607.27415-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bridging Inference-Time Scaling and Episodic Memory with Action-Centric Graphs* | Xu Zheng; Chaohao Lin; Zhuomin Chen; Weijieying Ren; Haifeng Chen; Wei Cheng; Dongsheng Luo | [arXiv:2607.27415v1](https://arxiv.org/abs/2607.27415v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27415) |
