@@ -9575,3 +9575,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RRM: Experience-Driven Reflective Retrieval Memory for Long-Horizon Multimodal Reasoning* | Jingxiang Fan; Junbao Zhuo; Bochao Zou | [arXiv:2607.28156v1](https://arxiv.org/abs/2607.28156v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28156) |
+
+
+## [DEP-A-20260819-SmartGen Seamless Disaggr](../DEP-A-20260819-SmartGen%20Seamless%20Disaggr/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28150-whitepaper-review.md`](../DEP-A-20260819-SmartGen%20Seamless%20Disaggr/2607.28150-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer* | Xuchuan Luo; Jiacheng Shen; Xin Wang; Yangfan Zhou | [arXiv:2607.28150v1](https://arxiv.org/abs/2607.28150v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28150) |
