@@ -9908,3 +9908,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models* | Yilei Wang; Jiaxin Gan; Kexuan Zhang; Ling Li; Wentao Zhang; Peichao Lai | [arXiv:2607.26891v1](https://arxiv.org/abs/2607.26891v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26891) |
+
+
+## [DEP-A-20260819-Compute Globally Material](../DEP-A-20260819-Compute%20Globally%20Material/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23693-whitepaper-review.md`](../DEP-A-20260819-Compute%20Globally%20Material/2607.23693-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV* | Zefeng Cai; Zerui Cai | [arXiv:2607.23693v1](https://arxiv.org/abs/2607.23693v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23693) |
