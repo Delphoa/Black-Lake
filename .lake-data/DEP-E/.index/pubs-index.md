@@ -4236,3 +4236,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation* | Fazhong Liu; Zhuoyan Chen; Haozhen Tan; Yan Meng; Guoxing Chen; Haojin Zhu | [arXiv:2607.28226](https://arxiv.org/abs/2607.28226) - [DOI](https://doi.org/10.48550/arXiv.2607.28226) |
+
+
+## [DEP-E-20260819-SymptomAI Toward a](../DEP-E-20260819-SymptomAI%20Toward%20a/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`symptomai-toward-a.md`](../DEP-E-20260819-SymptomAI%20Toward%20a/symptomai-toward-a.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SymptomAI: Toward a Conversational AI Agent for Everyday Symptom Assessment* | Joseph Breda et al. | [arXiv:2605.04012](https://arxiv.org/abs/2605.04012) - [DOI](https://doi.org/10.48550/arXiv.2605.04012) |
