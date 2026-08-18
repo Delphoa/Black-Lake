@@ -4052,3 +4052,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents* | Zhou, Yuhang; Zheng, Kai; Chen, Qiguang; Hu, Mengkang; Sun, Qingfeng; Xu, Can; Chen, Jingjing | [arXiv:2601.18467](https://arxiv.org/abs/2601.18467) - [DOI](https://doi.org/10.48550/arXiv.2601.18467) |
+
+
+## [DEP-E-20260818-Optimization Techniques](../DEP-E-20260818-Optimization%20Techniques/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization Techniques for a Physical Model of Human Vocalisation* | Cámara, Mateo; Xu, Zhiyuan; Zong, Yisu; Blanco, José Luis; Reiss, Joshua D. | [arXiv:2309.14761](https://arxiv.org/abs/2309.14761) - [DOI](https://doi.org/10.48550/arXiv.2309.14761) |
