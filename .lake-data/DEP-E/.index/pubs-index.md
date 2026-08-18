@@ -3436,3 +3436,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mask Proposal Voting Based on Geodesic Framework for Robust Image Segmentation* | Liu, Li; Wang, Mingzhu; Li, Zhenjiang; Chen, Da; Cohen, Laurent D. | [arXiv:2606.14912](https://arxiv.org/abs/2606.14912) - [DOI](https://doi.org/10.48550/arXiv.2606.14912) |
+
+
+## [DEP-E-20260818-The Role of Model](../DEP-E-20260818-The%20Role%20of%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Role of Model Confidence on Bias Effects in Measured Uncertainties for Vision-Language Models* | Liu, Xinyi; Wang, Weiguang; He, Hangfeng | [arXiv:2506.16724](https://arxiv.org/abs/2506.16724) - [DOI](https://doi.org/10.48550/arXiv.2506.16724) |
