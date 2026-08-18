@@ -3576,3 +3576,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing* | Xu, Pengcheng; Jiang, Boyuan; Hu, Xiaobin; Luo, Donghao; He, Qingdong; Zhang, Jiangning; Wang, Chengjie; Wu, Yunsheng; Ling, Charles; Wang, Boyu | [arXiv:2411.15843](https://arxiv.org/abs/2411.15843) - [DOI](https://doi.org/10.48550/arXiv.2411.15843) |
+
+
+## [DEP-E-20260818-Shadow Generation with](../DEP-E-20260818-Shadow%20Generation%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Shadow Generation with Decomposed Mask Prediction and Attentive Shadow Filling* | Tao, Xinhao; Cao, Junyan; Hong, Yan; Niu, Li | [arXiv:2306.17358](https://arxiv.org/abs/2306.17358) - [DOI](https://doi.org/10.48550/arXiv.2306.17358) |
