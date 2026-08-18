@@ -9503,3 +9503,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sparrow: Sparse Rollout for Stable and Efficient Long-context RL of Large Language Models* | Yang Zhou; Ranajoy Sadhukhan; Zhaofeng Sun; Zhuoming Chen; Souvik Kundu; Saket Dingliwal; Sai Muralidhar Jayanthi; Aram Galstyan; Haizhong Zheng; Beidi Chen | [arXiv:2606.08446v1](https://arxiv.org/abs/2606.08446v1) - [DOI](https://doi.org/10.48550/arXiv.2606.08446) |
+
+
+## [DEP-A-20260819-TSUBASA Improving Long Ho](../DEP-A-20260819-TSUBASA%20Improving%20Long%20Ho/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.07894-whitepaper-review.md`](../DEP-A-20260819-TSUBASA%20Improving%20Long%20Ho/2604.07894-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TSUBASA: Improving Long-Horizon Personalization via Evolving Memory and Self-Learning with Context Distillation* | Xinliang Frederick Zhang; Lu Wang | [arXiv:2604.07894v1](https://arxiv.org/abs/2604.07894v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07894) |
