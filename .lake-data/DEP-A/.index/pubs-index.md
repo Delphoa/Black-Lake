@@ -10115,3 +10115,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ParaASR: Multi-Token Prediction for Fast and Long-Context LLM-Based Speech Recognition* | Qingjian Lin; Yuxin Li; Haoyang Zhang; Jun Chen; Yechang Huang; Feng Tian; Xie Li; Xiangyu Tony Zhang; Daijiao Liu; Yuxin Zhang; Jinglan Gong; Bo Zhao; Fei Tian; Xuerui Yang; Gang Yu; Xiangyu Zhang; Daxin Jiang | [arXiv:2607.29279v1](https://arxiv.org/abs/2607.29279v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29279) |
+
+
+## [DEP-A-20260819-GoldenRetriever Non Inter](../DEP-A-20260819-GoldenRetriever%20Non%20Inter/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29019-whitepaper-review.md`](../DEP-A-20260819-GoldenRetriever%20Non%20Inter/2607.29019-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG* | Yang Gao; Gang Quan; Scott Piersall; Qian Lou; Dongdong Wang; Liqiang Wang | [arXiv:2607.29019v1](https://arxiv.org/abs/2607.29019v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29019) |
