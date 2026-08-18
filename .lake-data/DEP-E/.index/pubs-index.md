@@ -3702,3 +3702,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Path Feedback Recurrent Neural Network for Scene Parsing* | Jin, Xiaojie; Chen, Yunpeng; Feng, Jiashi; Jie, Zequn; Yan, Shuicheng | [arXiv:1608.07706](https://arxiv.org/abs/1608.07706) - [DOI](https://doi.org/10.48550/arXiv.1608.07706) |
+
+
+## [DEP-E-20260818-Parameterized Complexity](../DEP-E-20260818-Parameterized%20Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parameterized Complexity of the List Coloring Reconfiguration Problem with Graph Parameters* | Hatanaka, Tatsuhiko; Ito, Takehiro; Zhou, Xiao | [arXiv:1705.07551](https://arxiv.org/abs/1705.07551) - [DOI](https://doi.org/10.48550/arXiv.1705.07551) |
