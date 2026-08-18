@@ -3352,3 +3352,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BigIssue: A Realistic Bug Localization Benchmark* | Kassianik, Paul; Nijkamp, Erik; Pang, Bo; Zhou, Yingbo; Xiong, Caiming | [arXiv:2207.10739](https://arxiv.org/abs/2207.10739) - [DOI](https://doi.org/10.48550/arXiv.2207.10739) |
+
+
+## [DEP-E-20260818-Learning Latent](../DEP-E-20260818-Learning%20Latent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal* | Qian, Xiaolong; Jiang, Qi; Sun, Lei; Yu, Zongxi; Yang, Kailun; Wu, Peixuan; Zhou, Jiacheng; Gao, Yao; Ma, Yaoguang; Yang, Ming-Hsuan; Wang, Kaiwei | [arXiv:2511.17353](https://arxiv.org/abs/2511.17353) - [DOI](https://doi.org/10.48550/arXiv.2511.17353) |
