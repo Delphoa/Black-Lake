@@ -10196,3 +10196,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search* | Yitong Song; Shuhang Lu; Pengcheng Zhang; Jianliang Xu | [arXiv:2606.29968v2](https://arxiv.org/abs/2606.29968v2) - [DOI](https://doi.org/10.48550/arXiv.2606.29968) |
+
+
+## [DEP-A-20260819-Attention Amnesia Hybrid](../DEP-A-20260819-Attention%20Amnesia%20Hybrid/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.11052-whitepaper-review.md`](../DEP-A-20260819-Attention%20Amnesia%20Hybrid/2606.11052-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It* | Xinyu Zhou; Boyu Zhu; Yi Xu; Zhiwei Li; Yingfa Chen; Huiming Wang; Zhijiang Guo | [arXiv:2606.11052v1](https://arxiv.org/abs/2606.11052v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11052) |
