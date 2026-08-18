@@ -4122,3 +4122,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection* | Gao, Yipeng; Yang, Lingxiao; Huang, Yunmu; Xie, Song; Li, Shiyong; Zheng, Wei-shi | [arXiv:2209.10904](https://arxiv.org/abs/2209.10904) - [DOI](https://doi.org/10.48550/arXiv.2209.10904) |
+
+
+## [DEP-E-20260818-Multi-Scale Simulation of](../DEP-E-20260818-Multi-Scale%20Simulation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Scale Simulation of Complex Systems: A Perspective of Integrating Knowledge and Data* | Wang, Huandong; Yan, Huan; Rong, Can; Yuan, Yuan; Jiang, Fenyu; Han, Zhenyu; Sui, Hongjie; Jin, Depeng; Li, Yong | [arXiv:2306.10275](https://arxiv.org/abs/2306.10275) - [DOI](https://doi.org/10.48550/arXiv.2306.10275) |

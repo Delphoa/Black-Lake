@@ -9569,6 +9569,29 @@
         "https://doi.org/10.48550/arXiv.2209.10904"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Multi-Scale Simulation of",
+        ".logs/20260818-Arxiv-Multi-Scale-Simulation-of-Complex-Systems-A-LOG.md",
+        ".reports/BL-Arxiv-Multi-Scale-Simulation-of-Complex-Systems-A-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.10275",
+      "arxiv_id": "2306.10275",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2306.10275",
+      "normalized_title": "Multi-Scale Simulation of Complex Systems: A Perspective of Integrating Knowledge and Data",
+      "notes": "Job BLAD-2200-20260818-A4DB6AFC item BLAD-2200-20260818-A4DB6AFC-P06; draw 50981 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-Scale-Simulation-of-Complex-Systems-A",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.10275",
+        "https://arxiv.org/html/2306.10275",
+        "https://arxiv.org/pdf/2306.10275",
+        "https://doi.org/10.48550/arXiv.2306.10275"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
