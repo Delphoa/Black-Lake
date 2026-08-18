@@ -3520,3 +3520,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Protecting Neural Networks with Hierarchical Random Switching: Towards Better Robustness-Accuracy Trade-off for Stochastic Defenses* | Wang, Xiao; Wang, Siyue; Chen, Pin-Yu; Wang, Yanzhi; Kulis, Brian; Lin, Xue; Chin, Peter | [arXiv:1908.07116](https://arxiv.org/abs/1908.07116) - [DOI](https://doi.org/10.48550/arXiv.1908.07116) |
+
+
+## [DEP-E-20260818-Cosh-DiT Co-Speech](../DEP-E-20260818-Cosh-DiT%20Co-Speech/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers* | Sun, Yasheng; Xu, Zhiliang; Zhou, Hang; Guan, Jiazhi; Yang, Quanwei; Wang, Kaisiyuan; Liang, Borong; Li, Yingying; Feng, Haocheng; Wang, Jingdong; Liu, Ziwei; Hideki, Koike | [arXiv:2503.09942](https://arxiv.org/abs/2503.09942) - [DOI](https://doi.org/10.48550/arXiv.2503.09942) |
