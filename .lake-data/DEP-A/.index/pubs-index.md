@@ -10403,3 +10403,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Opt.Gear Technical Report* | Juneyoung Park; Youngwook Kwon | [arXiv:2608.01034v1](https://arxiv.org/abs/2608.01034v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01034) |
+
+
+## [DEP-A-20260819-GRACE Generative Recommen](../DEP-A-20260819-GRACE%20Generative%20Recommen/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.00938-whitepaper-review.md`](../DEP-A-20260819-GRACE%20Generative%20Recommen/2608.00938-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval* | Zhou Fang; Yuhang Huang; Ang Zhang; Yihan He; Ruichao Xiao; Chao Li; Yavuz Yetim; Sibyl Yang; Xiaohan Wei; Fei Tian; Liang Wang; Liyuan Li; Nathan Yan; Gaoxiang Liu | [arXiv:2608.00938v1](https://arxiv.org/abs/2608.00938v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00938) |
