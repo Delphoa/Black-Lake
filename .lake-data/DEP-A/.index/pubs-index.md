@@ -9350,3 +9350,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Access to Historical Archives with Real-time RAG-based Systems* | Stergios Konstantinidis; Hayman Lotfy; Alexis Erne; Faruk Zahiragic; Min-Yen Kan; Michalis Vlachos | [arXiv:2607.03440v1](https://arxiv.org/abs/2607.03440v1) - [DOI](https://doi.org/10.48550/arXiv.2607.03440) |
+
+
+## [DEP-A-20260819-Learning What Matters Sup](../DEP-A-20260819-Learning%20What%20Matters%20Sup/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.21692-whitepaper-review.md`](../DEP-A-20260819-Learning%20What%20Matters%20Sup/2607.21692-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning What Matters: Supervising Sparse Attention Routing with Causal Evidence Sets* | Jim Allchin | [arXiv:2607.21692v1](https://arxiv.org/abs/2607.21692v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21692) |
