@@ -3905,3 +3905,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping* | Fan, Wei; Yao, Wenlin; Li, Zheng; Yao, Feng; Liu, Xin; Qiu, Liang; Yin, Qingyu; Song, Yangqiu; Yin, Bing | [arXiv:2510.12979](https://arxiv.org/abs/2510.12979) - [DOI](https://doi.org/10.48550/arXiv.2510.12979) |
+
+
+## [DEP-E-20260818-Neural Algorithmic](../DEP-E-20260818-Neural%20Algorithmic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding* | Feng, Pu; Wang, Size; Cao, Yuhong; Liang, Junkang; Shi, Rongye; Wu, Wenjun | [arXiv:2508.17971](https://arxiv.org/abs/2508.17971) - [DOI](https://doi.org/10.48550/arXiv.2508.17971) |
