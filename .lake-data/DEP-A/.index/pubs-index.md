@@ -10232,3 +10232,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs* | Jianhao Chen; Haoyang Chen; Hanjie Zhao; Haozhe Liang; Tieyun Qian | [arXiv:2604.12616v1](https://arxiv.org/abs/2604.12616v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12616) |
+
+
+## [DEP-A-20260819-Zero Mem Zero Token](../DEP-A-20260819-Zero%20Mem%20Zero%20Token/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29377-whitepaper-review.md`](../DEP-A-20260819-Zero%20Mem%20Zero%20Token/2607.29377-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Zero-Mem: Zero-Token Memory Operations for LLM Agents* | Yilin Xiao; Zhehan Zhu; Yujing Zhang; Jin Chen; Zijin Hong; Luyao Zhuang; Qinggang Zhang; Shengyuan Chen; Xiaocao Ouyang; Lingfei Ren; Xiao Huang | [arXiv:2607.29377v1](https://arxiv.org/abs/2607.29377v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29377) |
