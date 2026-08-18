@@ -4263,3 +4263,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structured Outputs* | dottxt-ai | [Canonical source](https://github.com/dottxt-ai/outlines) |
+
+
+## [DEP-E-20260819-Optimizing Teacher](../DEP-E-20260819-Optimizing%20Teacher/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`optimizing-teacher.md`](../DEP-E-20260819-Optimizing%20Teacher/optimizing-teacher.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Teacher-Student Partitioning for Scalable Knowledge Distillation on HPC Systems* | Adrian P. Dieguez; Victor Conchello Vendrell; Alex Batlle; Vinnam Kim; Jordi Ros-Giralt; Harris Teague | [arXiv:2606.27797](https://arxiv.org/abs/2606.27797) - [DOI](https://doi.org/10.48550/arXiv.2606.27797) |
