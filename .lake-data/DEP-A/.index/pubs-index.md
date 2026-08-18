@@ -9467,3 +9467,12 @@ Review status: substantively reviewed from the complete arXiv v3 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QuIVer: Rethinking ANN Graph Topology via Training-Free Binary Quantization* | Wenxuan Xiao; Zhiyou Wang; Chengcheng Li | [arXiv:2605.02171v3](https://arxiv.org/abs/2605.02171v3) - [DOI](https://doi.org/10.48550/arXiv.2605.02171) |
+
+
+## [DEP-A-20260819-IFCMemoryBench Evaluating](../DEP-A-20260819-IFCMemoryBench%20Evaluating/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26072-whitepaper-review.md`](../DEP-A-20260819-IFCMemoryBench%20Evaluating/2607.26072-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IFCMemoryBench: Evaluating Long-Term Memory of LLM-Based Agents in BIM Information Retrieval* | Changyu Du; Alexander Vosseler; Filippo Mazza; André Borrmann | [arXiv:2607.26072v1](https://arxiv.org/abs/2607.26072v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26072) |
