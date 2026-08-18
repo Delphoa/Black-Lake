@@ -8999,3 +8999,12 @@ Review status: substantively reviewed from the complete arXiv v4 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering* | Yushi Sun; Lei Chen | [arXiv:2604.26176v4](https://arxiv.org/abs/2604.26176v4) - [DOI](https://doi.org/10.48550/arXiv.2604.26176) |
+
+
+## [DEP-A-20260818-Uncertainty Aware Hybrid](../DEP-A-20260818-Uncertainty%20Aware%20Hybrid/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.13550-whitepaper-review.md`](../DEP-A-20260818-Uncertainty%20Aware%20Hybrid/2606.13550-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Uncertainty-Aware Hybrid Retrieval for Long-Document RAG* | Hoin Jung; Xiaoqian Wang | [arXiv:2606.13550v1](https://arxiv.org/abs/2606.13550v1) - [DOI](https://doi.org/10.48550/arXiv.2606.13550) |
