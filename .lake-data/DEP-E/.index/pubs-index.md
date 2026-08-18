@@ -4136,3 +4136,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Breaking the Sample Complexity Barrier to Regret-Optimal Model-Free Reinforcement Learning* | Li, Gen; Shi, Laixi; Chen, Yuxin; Chi, Yuejie | [arXiv:2110.04645](https://arxiv.org/abs/2110.04645) - [DOI](https://doi.org/10.48550/arXiv.2110.04645) |
+
+
+## [DEP-E-20260818-Aerial RIS-Enhanced](../DEP-E-20260818-Aerial%20RIS-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aerial RIS-Enhanced Communications: Joint UAV Trajectory, Altitude Control, and Phase Shift Design* | Li, Bin; Yang, Dongdong; Liu, Lei; Niyato, Dusit | [arXiv:2510.24731](https://arxiv.org/abs/2510.24731) - [DOI](https://doi.org/10.48550/arXiv.2510.24731) |
