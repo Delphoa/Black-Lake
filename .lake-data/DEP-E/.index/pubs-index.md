@@ -4191,3 +4191,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends* | Chaoqun Zhan; Qiang Zhou; Guannan Li; Zhenqiang Huang; Qianjin Wang | [arXiv:2608.13883](https://arxiv.org/abs/2608.13883) - [DOI](https://doi.org/10.48550/arXiv.2608.13883) |
+
+
+## [DEP-E-20260819-AgenticECO An Agentic](../DEP-E-20260819-AgenticECO%20An%20Agentic/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`agenticeco-an-agentic.md`](../DEP-E-20260819-AgenticECO%20An%20Agentic/agenticeco-an-agentic.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgenticECO: An Agentic Framework for ECO on 3D Integrated Circuits* | Shuo Ren; Yaohui Han; Libo Shen; Zhiqiang Jia; Rongliang Fu; Bei Yu; Tsung-Yi Ho | [arXiv:2608.03738](https://arxiv.org/abs/2608.03738) - [DOI](https://doi.org/10.48550/arXiv.2608.03738) |
