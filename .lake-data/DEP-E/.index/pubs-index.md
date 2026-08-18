@@ -3569,3 +3569,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors* | Huang, Hao; Bethala, Geeta Chandra Raju; Yuan, Shuaihang; Wen, Congcong; Wang, Mengyu; Tzes, Anthony; Fang, Yi | [arXiv:2510.25241](https://arxiv.org/abs/2510.25241) - [DOI](https://doi.org/10.48550/arXiv.2510.25241) |
+
+
+## [DEP-E-20260818-Unveil Inversion and](../DEP-E-20260818-Unveil%20Inversion%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing* | Xu, Pengcheng; Jiang, Boyuan; Hu, Xiaobin; Luo, Donghao; He, Qingdong; Zhang, Jiangning; Wang, Chengjie; Wu, Yunsheng; Ling, Charles; Wang, Boyu | [arXiv:2411.15843](https://arxiv.org/abs/2411.15843) - [DOI](https://doi.org/10.48550/arXiv.2411.15843) |
