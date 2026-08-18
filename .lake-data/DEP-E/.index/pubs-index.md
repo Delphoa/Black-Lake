@@ -3646,3 +3646,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Configuration of Space: Probing the Way Social Interaction and Perception are Affected by Task-Specific Spatial Representations in Online Video Communication* | Chen, Yihuan; Fu, Kexue; Chen, Qianyi; Lu, Zhicong; LC, Ray | [arXiv:2602.12771](https://arxiv.org/abs/2602.12771) - [DOI](https://doi.org/10.48550/arXiv.2602.12771) |
+
+
+## [DEP-E-20260818-Data Drift Monitoring for](../DEP-E-20260818-Data%20Drift%20Monitoring%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data Drift Monitoring for Log Anomaly Detection Pipelines* | Wani, Dipak; Ackerman, Samuel; Farchi, Eitan; Liu, Xiaotong; Chang, Hau-wen; Lalithsena, Sarasi | [arXiv:2310.14893](https://arxiv.org/abs/2310.14893) - [DOI](https://doi.org/10.48550/arXiv.2310.14893) |

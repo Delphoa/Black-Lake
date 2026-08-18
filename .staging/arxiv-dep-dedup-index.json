@@ -8005,6 +8005,29 @@
         "https://doi.org/10.48550/arXiv.2602.12771"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Data Drift Monitoring for",
+        ".logs/20260818-Arxiv-Data-Drift-Monitoring-for-Log-Anomaly-Detection-LOG.md",
+        ".reports/BL-Arxiv-Data-Drift-Monitoring-for-Log-Anomaly-Detection-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.14893",
+      "arxiv_id": "2310.14893",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2310.14893",
+      "normalized_title": "Data Drift Monitoring for Log Anomaly Detection Pipelines",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P33; draw 52695 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Data-Drift-Monitoring-for-Log-Anomaly-Detection",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.14893",
+        "https://arxiv.org/html/2310.14893",
+        "https://arxiv.org/pdf/2310.14893",
+        "https://doi.org/10.48550/arXiv.2310.14893"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
