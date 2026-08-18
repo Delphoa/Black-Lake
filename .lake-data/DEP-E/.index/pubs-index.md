@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **957 publication reviews across 612 DEP-E entries**.
+- Current coverage: **958 publication reviews across 613 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5100,3 +5100,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[2102.09893] A Variance Controlled Stochastic Method with Biased Estimation for Faster Non-convex Optimization* | Not available from inspected sources | [arXiv:2102.09893](https://arxiv.org/abs/2102.09893) |
+
+## [DEP-E-20260819-Arxiv 2410.07069](../DEP-E-20260819-Arxiv%202410.07069/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReIFE: Re-evaluating Instruction-Following Evaluation* | Not available from inspected sources | [arXiv:2410.07069](https://arxiv.org/abs/2410.07069) |
