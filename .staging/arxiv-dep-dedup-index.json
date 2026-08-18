@@ -9431,6 +9431,29 @@
         "https://doi.org/10.48550/arXiv.2409.05139"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the",
+        ".logs/20260818-Arxiv-BraTS-PEDs-Results-of-the-Multi-Consortium-LOG.md",
+        ".reports/BL-Arxiv-BraTS-PEDs-Results-of-the-Multi-Consortium-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.08855",
+      "arxiv_id": "2407.08855",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.59275/j.melba.2025-f6fg",
+      "normalized_title": "BraTS-PEDs: Results of the Multi-Consortium International Pediatric Brain Tumor Segmentation Challenge 2023",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P50; draw 64215 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "BraTS-PEDs-Results-of-the-Multi-Consortium",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.08855",
+        "https://arxiv.org/html/2407.08855",
+        "https://arxiv.org/pdf/2407.08855",
+        "https://doi.org/10.59275/j.melba.2025-f6fg"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
