@@ -4326,3 +4326,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts* | Jiawen Li; Tian Guan; Huijuan Shi; Xitong Ling; Mingxi Fu; Anjia Han; Chao He; Yonghong He | [arXiv:2607.09526](https://arxiv.org/abs/2607.09526) - [DOI](https://doi.org/10.48550/arXiv.2607.09526) |
+
+
+## [DEP-E-20260819-Robust Critics Defending](../DEP-E-20260819-Robust%20Critics%20Defending/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`robust-critics-defending.md`](../DEP-E-20260819-Robust%20Critics%20Defending/robust-critics-defending.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust Critics: Defending LLMs Against Multi-Turn Attacks* | Roman Belaire; Arunesh Sinha; Pradeep Varakantham | [arXiv:2607.20472](https://arxiv.org/abs/2607.20472) - [DOI](https://doi.org/10.48550/arXiv.2607.20472) |
