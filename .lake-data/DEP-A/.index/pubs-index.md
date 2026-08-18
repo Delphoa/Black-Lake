@@ -9692,3 +9692,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Graph-Native Bitemporal Memory Store for Conversational AI Agents* | Alp Niksarli; Gopesh Baheti | [arXiv:2607.26520v1](https://arxiv.org/abs/2607.26520v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26520) |
+
+
+## [DEP-A-20260819-MemLens Value Aware Memor](../DEP-A-20260819-MemLens%20Value%20Aware%20Memor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25992-whitepaper-review.md`](../DEP-A-20260819-MemLens%20Value%20Aware%20Memor/2607.25992-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents* | Shuyue Wei; Chang Liu; Zimu Zhou; Yongxin Tong; Lizhen Cui | [arXiv:2607.25992v1](https://arxiv.org/abs/2607.25992v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25992) |
