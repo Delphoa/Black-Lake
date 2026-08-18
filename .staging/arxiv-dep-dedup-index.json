@@ -9408,6 +9408,29 @@
         "https://doi.org/10.48550/arXiv.2401.13076"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Revisiting Trace Norm",
+        ".logs/20260818-Arxiv-Revisiting-Trace-Norm-Minimization-for-Tensor-LOG.md",
+        ".reports/BL-Arxiv-Revisiting-Trace-Norm-Minimization-for-Tensor-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.05139",
+      "arxiv_id": "2409.05139",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2409.05139",
+      "normalized_title": "Revisiting Trace Norm Minimization for Tensor Tucker Completion: A Direct Multilinear Rank Learning Approach",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P49; draw 47031 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Revisiting-Trace-Norm-Minimization-for-Tensor",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.05139",
+        "https://arxiv.org/html/2409.05139",
+        "https://arxiv.org/pdf/2409.05139",
+        "https://doi.org/10.48550/arXiv.2409.05139"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

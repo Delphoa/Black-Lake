@@ -4073,3 +4073,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization* | Li, Mingyang; Ma, Yue; Qiu, Qinru | [arXiv:2401.13076](https://arxiv.org/abs/2401.13076) - [DOI](https://doi.org/10.48550/arXiv.2401.13076) |
+
+
+## [DEP-E-20260818-Revisiting Trace Norm](../DEP-E-20260818-Revisiting%20Trace%20Norm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting Trace Norm Minimization for Tensor Tucker Completion: A Direct Multilinear Rank Learning Approach* | Tong, Xueke; Zhu, Hancheng; Cheng, Lei; Wu, Yik-Chung | [arXiv:2409.05139](https://arxiv.org/abs/2409.05139) - [DOI](https://doi.org/10.48550/arXiv.2409.05139) |
