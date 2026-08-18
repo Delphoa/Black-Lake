@@ -8972,3 +8972,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AttriMem: Attribution-Guided Process Feedback for Agent Memory Learning* | Qinfeng Li; Yuntai Bao; Xinyan Yu; Hongze Chen; Wenqi Zhang; Xuhong Zhang | [arXiv:2607.21106v1](https://arxiv.org/abs/2607.21106v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21106) |
+
+
+## [DEP-A-20260818-GaugeQuant Online Learnin](../DEP-A-20260818-GaugeQuant%20Online%20Learnin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.20757-whitepaper-review.md`](../DEP-A-20260818-GaugeQuant%20Online%20Learnin/2607.20757-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries* | Miguel P. Bento; João F. Seabra | [arXiv:2607.20757v2](https://arxiv.org/abs/2607.20757v2) - [DOI](https://doi.org/10.48550/arXiv.2607.20757) |
