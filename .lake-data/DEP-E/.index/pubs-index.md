@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **900 publication reviews across 555 DEP-E entries**.
+- Current coverage: **901 publication reviews across 556 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4758,3 +4758,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[1811.06072] Communication-Optimal Distributed Dynamic Graph Clustering* | Not available from inspected sources | [arXiv:1811.06072](https://arxiv.org/abs/1811.06072) |
+
+## [DEP-E-20260819-Arxiv 2501.00560](../DEP-E-20260819-Arxiv%202501.00560/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference* | Not available from inspected sources | [arXiv:2501.00560](https://arxiv.org/abs/2501.00560) |
