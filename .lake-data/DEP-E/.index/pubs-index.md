@@ -3751,3 +3751,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Policy Optimization Method Towards Optimal-time Stability* | Wang, Shengjie; Lan, Fengbo; Zheng, Xiang; Cao, Yuxue; Oseni, Oluwatosin; Xu, Haotian; Zhang, Tao; Gao, Yang | [arXiv:2301.00521](https://arxiv.org/abs/2301.00521) - [DOI](https://doi.org/10.48550/arXiv.2301.00521) |
+
+
+## [DEP-E-20260818-S3MOT Monocular 3D Object](../DEP-E-20260818-S3MOT%20Monocular%203D%20Object/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *S3MOT: Monocular 3D Object Tracking with Selective State Space Model* | Yan, Zhuohao; Feng, Shaoquan; Li, Xingxing; Zhou, Yuxuan; Xia, Chunxi; Li, Shengyu | [arXiv:2504.18068](https://arxiv.org/abs/2504.18068) - [DOI](https://doi.org/10.48550/arXiv.2504.18068) |
