@@ -3772,3 +3772,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles* | Yang, Weiyi; Liu, Xiaolu; He, Lei; Du, Yonghao; Chen, Yingwu | [arXiv:2503.08416](https://arxiv.org/abs/2503.08416) - [DOI](https://doi.org/10.48550/arXiv.2503.08416) |
+
+
+## [DEP-E-20260818-Retrieval-Augmented](../DEP-E-20260818-Retrieval-Augmented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented Multimodal Depression Detection* | Hou, Ruibo; Teng, Shiyu; Liu, Jiaqing; Chai, Shurong; Li, Yinhao; Lin, Lanfen; Chen, Yen-Wei | [arXiv:2511.01892](https://arxiv.org/abs/2511.01892) - [DOI](https://doi.org/10.48550/arXiv.2511.01892) |
