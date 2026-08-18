@@ -4488,3 +4488,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents* | Xinyuan Song; Zekun Cai | [arXiv:2606.27806](https://arxiv.org/abs/2606.27806) - [DOI](https://doi.org/10.48550/arXiv.2606.27806) |
+
+
+## [DEP-E-20260819-Towards Scalable Reliable](../DEP-E-20260819-Towards%20Scalable%20Reliable/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`towards-scalable-reliable.md`](../DEP-E-20260819-Towards%20Scalable%20Reliable/towards-scalable-reliable.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *(Towards) Scalable Reliable Automated Evaluation with Large Language Models* | Bertil Braun; Martin Forell | [arXiv:2607.28282](https://arxiv.org/abs/2607.28282) - [DOI](https://doi.org/10.48550/arXiv.2607.28282) |
