@@ -3765,3 +3765,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning adaptive differential evolution algorithm from optimization experiences by policy gradient* | Sun, Jianyong; Liu, Xin; Bäck, Thomas; Xu, Zongben | [arXiv:2102.03572](https://arxiv.org/abs/2102.03572) - [DOI](https://doi.org/10.48550/arXiv.2102.03572) |
+
+
+## [DEP-E-20260818-A Distributed Clustering](../DEP-E-20260818-A%20Distributed%20Clustering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles* | Yang, Weiyi; Liu, Xiaolu; He, Lei; Du, Yonghao; Chen, Yingwu | [arXiv:2503.08416](https://arxiv.org/abs/2503.08416) - [DOI](https://doi.org/10.48550/arXiv.2503.08416) |
