@@ -3667,3 +3667,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Traffic Flow Prediction Meets Wireless Big Data Analytics* | Chen, Yuanfang; Guizani, Mohsen; Zhang, Yan; Wang, Lei; Crespi, Noel; Lee, Gyu Myoung | [arXiv:1709.08024](https://arxiv.org/abs/1709.08024) - [DOI](https://doi.org/10.48550/arXiv.1709.08024) |
+
+
+## [DEP-E-20260818-Swimba Switch Mamba Model](../DEP-E-20260818-Swimba%20Switch%20Mamba%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Swimba: Switch Mamba Model Scales State Space Models* | Du, Zhixu; Chitty-Venkata, Krishna Teja; Emani, Murali; Vishwanath, Venkatram; Li, Hai Helen; Chen, Yiran | [arXiv:2603.06938](https://arxiv.org/abs/2603.06938) - [DOI](https://doi.org/10.48550/arXiv.2603.06938) |
