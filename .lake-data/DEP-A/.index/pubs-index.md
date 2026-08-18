@@ -9800,3 +9800,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bridging Inference-Time Scaling and Episodic Memory with Action-Centric Graphs* | Xu Zheng; Chaohao Lin; Zhuomin Chen; Weijieying Ren; Haifeng Chen; Wei Cheng; Dongsheng Luo | [arXiv:2607.27415v1](https://arxiv.org/abs/2607.27415v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27415) |
+
+
+## [DEP-A-20260819-Memory R2 Fair Credit](../DEP-A-20260819-Memory%20R2%20Fair%20Credit/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.21768-whitepaper-review.md`](../DEP-A-20260819-Memory%20R2%20Fair%20Credit/2605.21768-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents* | Sikuan Yan; Ahmed Bahloul; Ercong Nie; Susanna Schwarzmann; Riccardo Trivisonno; Volker Tresp; Yunpu Ma | [arXiv:2605.21768v1](https://arxiv.org/abs/2605.21768v1) - [DOI](https://doi.org/10.48550/arXiv.2605.21768) |
