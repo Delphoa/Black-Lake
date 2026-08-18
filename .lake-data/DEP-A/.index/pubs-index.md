@@ -10286,3 +10286,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step* | Vernon Toh; Navonil Majumder; Zhengyuan Liu; Nancy F. Chen; Soujanya Poria | [arXiv:2608.02358v1](https://arxiv.org/abs/2608.02358v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02358) |
+
+
+## [DEP-A-20260819-MemArbiter Decision Time](../DEP-A-20260819-MemArbiter%20Decision%20Time/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02113-whitepaper-review.md`](../DEP-A-20260819-MemArbiter%20Decision%20Time/2608.02113-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemArbiter: Decision-Time Memory Arbitration for Long-Horizon LLM Agents* | Jiajun Dong; Yutao Hu; Fengrui Fan; Shihan Dou; Yueming Wu; Deqing Zou | [arXiv:2608.02113v1](https://arxiv.org/abs/2608.02113v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02113) |
