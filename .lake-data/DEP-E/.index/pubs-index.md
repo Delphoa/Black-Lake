@@ -3730,3 +3730,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model* | Lin, Hongbin; Yang, Yiming; Zhang, Yifan; Zheng, Chaoda; Feng, Jie; Wang, Sheng; Wang, Zhennan; Chen, Shijia; Wang, Boyang; Zhang, Yu; Liu, Xianming; Cui, Shuguang; Li, Zhen | [arXiv:2512.11226](https://arxiv.org/abs/2512.11226) - [DOI](https://doi.org/10.48550/arXiv.2512.11226) |
+
+
+## [DEP-E-20260818-Analysis of Nederlof s](../DEP-E-20260818-Analysis%20of%20Nederlof%20s/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis of Nederlof's algorithm for subset sum* | Cao, Zhengjun; Chen, Zhen; Liu, Lihua | [arXiv:1807.02075](https://arxiv.org/abs/1807.02075) - [DOI](https://doi.org/10.48550/arXiv.1807.02075) |
