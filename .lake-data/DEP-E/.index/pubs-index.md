@@ -4031,3 +4031,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution* | Wei, Yuxiang; Duchenne, Olivier; Copet, Jade; Carbonneaux, Quentin; Zhang, Lingming; Fried, Daniel; Synnaeve, Gabriel; Singh, Rishabh; Wang, Sida I. | [arXiv:2502.18449](https://arxiv.org/abs/2502.18449) - [DOI](https://doi.org/10.48550/arXiv.2502.18449) |
+
+
+## [DEP-E-20260818-Data-Efficient Surgical](../DEP-E-20260818-Data-Efficient%20Surgical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data-Efficient Surgical Phase Segmentation in Small-Incision Cataract Surgery: A Controlled Study of Vision Foundation Models* | Spencer, Lincoln; Wang, Song; Chen, Chen | [arXiv:2604.10514](https://arxiv.org/abs/2604.10514) - [DOI](https://doi.org/10.48550/arXiv.2604.10514) |
