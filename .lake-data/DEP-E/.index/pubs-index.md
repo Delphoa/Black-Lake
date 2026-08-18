@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **922 publication reviews across 577 DEP-E entries**.
+- Current coverage: **923 publication reviews across 578 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4890,3 +4890,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[2208.03646] A Length Adaptive Algorithm-Hardware Co-design of Transformer on FPGA Through Sparse Attention and Dynamic Pipelining* | Not available from inspected sources | [arXiv:2208.03646](https://arxiv.org/abs/2208.03646) |
+
+## [DEP-E-20260819-Arxiv 2506.08500](../DEP-E-20260819-Arxiv%202506.08500/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs* | Not available from inspected sources | [arXiv:2506.08500](https://arxiv.org/abs/2506.08500) |
