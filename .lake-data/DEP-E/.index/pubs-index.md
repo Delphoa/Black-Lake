@@ -3919,3 +3919,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement* | Zhou, Xiaofeng; Huang, Heyan; Liao, Lizi | [arXiv:2506.03541](https://arxiv.org/abs/2506.03541) - [DOI](https://doi.org/10.48550/arXiv.2506.03541) |
+
+
+## [DEP-E-20260818-Enhancing State](../DEP-E-20260818-Enhancing%20State/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters* | Liu, Xiao; Clark, Geoffrey; Campbell, Joseph; Zhou, Yifan; Amor, Heni Ben | [arXiv:2308.09870](https://arxiv.org/abs/2308.09870) - [DOI](https://doi.org/10.48550/arXiv.2308.09870) |
