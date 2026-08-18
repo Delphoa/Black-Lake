@@ -9125,3 +9125,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemChain: Learning Interpretable Memory Traces for Memory-Augmented LLM Agents* | Yiwen Ma; Songjun Tu; Qichao Zhang; Dong Li; Linjing Li; Dongbin Zhao | [arXiv:2607.24097v1](https://arxiv.org/abs/2607.24097v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24097) |
+
+
+## [DEP-A-20260819-LazyMem Retrieve Broadly](../DEP-A-20260819-LazyMem%20Retrieve%20Broadly/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22690-whitepaper-review.md`](../DEP-A-20260819-LazyMem%20Retrieve%20Broadly/2607.22690-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory* | Jing Yu; Yibo Zhao; Jiaming Zhang; Xiang Li | [arXiv:2607.22690v2](https://arxiv.org/abs/2607.22690v2) - [DOI](https://doi.org/10.48550/arXiv.2607.22690) |
