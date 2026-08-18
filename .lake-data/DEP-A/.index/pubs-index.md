@@ -9368,3 +9368,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MiniMax Sparse Attention* | Xunhao Lai; Weiqi Xu; Yufeng Yang; Qiaorui Chen; Yang Xu; Lunbin Zeng; Xiaolong Li; Haohai Sun; Haichao Zhu; Vito Zhang; Jinkai Hu; Jiayao Li; Rui Gao; Zekun Li; Songquan Zhu; Jingkai Zhou; Pengyu Zhao | [arXiv:2606.13392v2](https://arxiv.org/abs/2606.13392v2) - [DOI](https://doi.org/10.48550/arXiv.2606.13392) |
+
+
+## [DEP-A-20260819-Proprietary Open Source B](../DEP-A-20260819-Proprietary%20Open%20Source%20B/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24280-whitepaper-review.md`](../DEP-A-20260819-Proprietary%20Open%20Source%20B/2607.24280-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search* | Junlin Liu; Jiangwang Chen; Zixin Song; Shuaiyu Zhou; Chunji Lv; Hank Wu; Kailin Jiang; Jinyang Wu; Bohan Yu; Chenxi Zhou | [arXiv:2607.24280v1](https://arxiv.org/abs/2607.24280v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24280) |
