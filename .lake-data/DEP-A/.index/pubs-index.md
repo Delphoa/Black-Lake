@@ -9449,3 +9449,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning* | Pushkal Kumar; Tucker Nielson; Tanish Kolhe; Shubham Zala; Vincent Li | [arXiv:2607.26339v1](https://arxiv.org/abs/2607.26339v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26339) |
+
+
+## [DEP-A-20260819-When More Documents Hurt](../DEP-A-20260819-When%20More%20Documents%20Hurt/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.11350-whitepaper-review.md`](../DEP-A-20260819-When%20More%20Documents%20Hurt/2606.11350-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval* | Nabaraj Subedi; Ahmed Abdelaty; Shivanand Venkanna Sheshappanavar | [arXiv:2606.11350v1](https://arxiv.org/abs/2606.11350v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11350) |
