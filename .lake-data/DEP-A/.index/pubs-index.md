@@ -9620,3 +9620,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory* | Yongye Su; Wujiang Xu; Chaoji Zuo; Elisa Bertino | [arXiv:2607.27773v1](https://arxiv.org/abs/2607.27773v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27773) |
+
+
+## [DEP-A-20260819-Recall Before You Rank](../DEP-A-20260819-Recall%20Before%20You%20Rank/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27692-whitepaper-review.md`](../DEP-A-20260819-Recall%20Before%20You%20Rank/2607.27692-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention* | Wenshuai Yao; Wenyong Zhou; Hanyong Shao; Yizhe Chen; Zhiyuan Ning; Yuannuo Feng; Ru Huang; Kechao Tang | [arXiv:2607.27692v1](https://arxiv.org/abs/2607.27692v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27692) |
