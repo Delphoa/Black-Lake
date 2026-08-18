@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **866 publication reviews across 521 DEP-E entries**.
+- Current coverage: **867 publication reviews across 522 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4554,3 +4554,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness* | Not available from inspected sources | [arXiv:2405.16036](https://arxiv.org/abs/2405.16036) |
+
+## [DEP-E-20260819-Arxiv 2310.11877](../DEP-E-20260819-Arxiv%202310.11877/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models* | Not available from inspected sources | [arXiv:2310.11877](https://arxiv.org/abs/2310.11877) |
