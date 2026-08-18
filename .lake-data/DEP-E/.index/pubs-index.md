@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **869 publication reviews across 524 DEP-E entries**.
+- Current coverage: **870 publication reviews across 525 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4572,3 +4572,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On Evaluating LLM Alignment by Evaluating LLMs as Judges* | Not available from inspected sources | [arXiv:2511.20604](https://arxiv.org/abs/2511.20604) |
+
+## [DEP-E-20260819-Arxiv 2410.07473](../DEP-E-20260819-Arxiv%202410.07473/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Localizing Factual Inconsistencies in Attributable Text Generation* | Not available from inspected sources | [arXiv:2410.07473](https://arxiv.org/abs/2410.07473) |
