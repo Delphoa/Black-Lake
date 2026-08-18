@@ -9269,3 +9269,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models* | Mathis Pink; Vy Ai Vo; Qinyuan Wu; Jianing Mu; Javier Turek; Uri Hasson; Kenneth A. Norman; Sebastian Michelmann; Alexander Huth; Mariya Toneva | [arXiv:2607.22575v1](https://arxiv.org/abs/2607.22575v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22575) |
+
+
+## [DEP-A-20260819-ACRONYM Accelerated Appro](../DEP-A-20260819-ACRONYM%20Accelerated%20Appro/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.03151-whitepaper-review.md`](../DEP-A-20260819-ACRONYM%20Accelerated%20Appro/2606.03151-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ACRONYM: Accelerated Approximate Nearest Neighbor Search in Memory for Dynamic Vector Databases* | Md Mizanur Rahaman Nayan; Tianqi Zhang; Flavio Ponzina; Tajana Rosing; Azad J Naeemi | [arXiv:2606.03151v1](https://arxiv.org/abs/2606.03151v1) - [DOI](https://doi.org/10.48550/arXiv.2606.03151) |
