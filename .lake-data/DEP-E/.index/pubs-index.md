@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **962 publication reviews across 617 DEP-E entries**.
+- Current coverage: **963 publication reviews across 618 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5130,3 +5130,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[1612.02562] Classification of Neurological Gait Disorders Using Multi-task Feature Learning* | Not available from inspected sources | [arXiv:1612.02562](https://arxiv.org/abs/1612.02562) |
+
+## [DEP-E-20260819-Arxiv 2405.12377](../DEP-E-20260819-Arxiv%202405.12377/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2405.12377] Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction* | Jiang, Feilong; Hou, Xiaonan; Xia, Min | [arXiv:2405.12377](https://arxiv.org/abs/2405.12377) |
