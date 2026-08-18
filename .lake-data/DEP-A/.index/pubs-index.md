@@ -9926,3 +9926,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems* | Hyunji Lee; Justin Chih-Yao Chen; Joykirat Singh; Zaid Khan; Elias Stengel-Eskin; Mohit Bansal | [arXiv:2605.18565v2](https://arxiv.org/abs/2605.18565v2) - [DOI](https://doi.org/10.48550/arXiv.2605.18565) |
+
+
+## [DEP-A-20260819-ATANT Evaluation Framewor](../DEP-A-20260819-ATANT%20Evaluation%20Framewor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.06710-whitepaper-review.md`](../DEP-A-20260819-ATANT%20Evaluation%20Framewor/2604.06710-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ATANT: An Evaluation Framework for AI Continuity* | Samuel Sameer Tanguturi | [arXiv:2604.06710v2](https://arxiv.org/abs/2604.06710v2) - [DOI](https://doi.org/10.48550/arXiv.2604.06710) |
