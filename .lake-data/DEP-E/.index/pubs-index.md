@@ -3933,3 +3933,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Retrieval Augmentation for Personalized Dialogue Generation* | Huang, Qiushi; Fu, Shuai; Liu, Xubo; Wang, Wenwu; Ko, Tom; Zhang, Yu; Tang, Lilian | [arXiv:2406.18847](https://arxiv.org/abs/2406.18847) - [DOI](https://doi.org/10.18653/v1/2023.emnlp-main.154) |
+
+
+## [DEP-E-20260818-Learning Text-Image Joint](../DEP-E-20260818-Learning%20Text-Image%20Joint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering* | Xie, Zhongwei; Liu, Ling; Wu, Yanzhao; Zhong, Luo; Li, Lin | [arXiv:2110.11592](https://arxiv.org/abs/2110.11592) - [DOI](https://doi.org/10.1145/3490519) |
