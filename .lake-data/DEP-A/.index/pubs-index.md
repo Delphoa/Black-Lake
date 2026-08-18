@@ -10412,3 +10412,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval* | Zhou Fang; Yuhang Huang; Ang Zhang; Yihan He; Ruichao Xiao; Chao Li; Yavuz Yetim; Sibyl Yang; Xiaohan Wei; Fei Tian; Liang Wang; Liyuan Li; Nathan Yan; Gaoxiang Liu | [arXiv:2608.00938v1](https://arxiv.org/abs/2608.00938v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00938) |
+
+
+## [DEP-A-20260819-TopoGuard Graph Theory Ba](../DEP-A-20260819-TopoGuard%20Graph%20Theory%20Ba/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.20437-whitepaper-review.md`](../DEP-A-20260819-TopoGuard%20Graph%20Theory%20Ba/2607.20437-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TopoGuard: Graph Theory Based Defenses Against Split-Knowledge Attacks on RAG* | Chahana Dahal; Zuobin Xiong | [arXiv:2607.20437v1](https://arxiv.org/abs/2607.20437v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20437) |
