@@ -9638,3 +9638,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Reranking for Scalable Financial RAG System* | Joohyun Lee; Sungwoo Hong | [arXiv:2607.27523v1](https://arxiv.org/abs/2607.27523v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27523) |
+
+
+## [DEP-A-20260819-Models minimalist RAG B1a](../DEP-A-20260819-Models%20minimalist%20RAG%20B1a/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27506-whitepaper-review.md`](../DEP-A-20260819-Models%20minimalist%20RAG%20B1a/2607.27506-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models* | Shreyas Subramanian; Mecit Gungor; Vikram Elango | [arXiv:2607.27506v1](https://arxiv.org/abs/2607.27506v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27506) |
