@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **960 publication reviews across 615 DEP-E entries**.
+- Current coverage: **961 publication reviews across 616 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5118,3 +5118,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adversarial Pre-Padding: Generating Evasive Network Traffic Against Transformer-Based Classifiers* | Not available from inspected sources | [arXiv:2510.25810](https://arxiv.org/abs/2510.25810) |
+
+## [DEP-E-20260819-Arxiv 2510.06426](../DEP-E-20260819-Arxiv%202510.06426/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FinLFQA: Evaluating Attributed Text Generation of LLMs in Financial Long-Form Question Answering* | Not available from inspected sources | [arXiv:2510.06426](https://arxiv.org/abs/2510.06426) |
