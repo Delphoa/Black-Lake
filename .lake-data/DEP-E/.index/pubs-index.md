@@ -3968,3 +3968,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Ensemble Search via Bayesian Sampling* | Shu, Yao; Chen, Yizhou; Dai, Zhongxiang; Low, Bryan Kian Hsiang | [arXiv:2109.02533](https://arxiv.org/abs/2109.02533) - [DOI](https://doi.org/10.48550/arXiv.2109.02533) |
+
+
+## [DEP-E-20260818-JUNO Optimizing](../DEP-E-20260818-JUNO%20Optimizing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping* | Liu, Zihan; Ni, Wentao; Leng, Jingwen; Feng, Yu; Guo, Cong; Chen, Quan; Li, Chao; Guo, Minyi; Zhu, Yuhao | [arXiv:2312.01712](https://arxiv.org/abs/2312.01712) - [DOI](https://doi.org/10.48550/arXiv.2312.01712) |
