@@ -3856,3 +3856,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Better and Faster End-to-End Model for Streaming ASR* | Li, Bo; Gulati, Anmol; Yu, Jiahui; Sainath, Tara N.; Chiu, Chung-Cheng; Narayanan, Arun; Chang, Shuo-Yiin; Pang, Ruoming; He, Yanzhang; Qin, James; Han, Wei; Liang, Qiao; Zhang, Yu; Strohman, Trevor; Wu, Yonghui | [arXiv:2011.10798](https://arxiv.org/abs/2011.10798) - [DOI](https://doi.org/10.48550/arXiv.2011.10798) |
+
+
+## [DEP-E-20260818-Think2Drive Efficient](../DEP-E-20260818-Think2Drive%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)* | Li, Qifeng; Jia, Xiaosong; Wang, Shaobo; Yan, Junchi | [arXiv:2402.16720](https://arxiv.org/abs/2402.16720) - [DOI](https://doi.org/10.48550/arXiv.2402.16720) |
