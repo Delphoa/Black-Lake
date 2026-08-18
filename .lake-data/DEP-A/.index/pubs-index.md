@@ -10187,3 +10187,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SciClaimSeekers at CheckThat! 2026: Retrieving Scientific Sources for Social Media Claims with LLM Reranking* | Mohotarema Rashid; Nansu Baniya; Anirban Saha Anik; Xiaoying Song; Lingzi Hong | [arXiv:2607.24803v1](https://arxiv.org/abs/2607.24803v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24803) |
+
+
+## [DEP-A-20260819-CLIP Lightweight Cosine L](../DEP-A-20260819-CLIP%20Lightweight%20Cosine%20L/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.29968-whitepaper-review.md`](../DEP-A-20260819-CLIP%20Lightweight%20Cosine%20L/2606.29968-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search* | Yitong Song; Shuhang Lu; Pengcheng Zhang; Jianliang Xu | [arXiv:2606.29968v2](https://arxiv.org/abs/2606.29968v2) - [DOI](https://doi.org/10.48550/arXiv.2606.29968) |
