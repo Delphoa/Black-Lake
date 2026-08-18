@@ -7430,6 +7430,29 @@
         "https://doi.org/10.48550/arXiv.2505.03335"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-DeepWideSearch",
+        ".logs/20260818-Arxiv-DeepWideSearch-Benchmarking-Depth-and-Width-in-LOG.md",
+        ".reports/BL-Arxiv-DeepWideSearch-Benchmarking-Depth-and-Width-in-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.20168",
+      "arxiv_id": "2510.20168",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2510.20168",
+      "normalized_title": "DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P13; draw 17490 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "DeepWideSearch-Benchmarking-Depth-and-Width-in",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.20168",
+        "https://arxiv.org/html/2510.20168",
+        "https://arxiv.org/pdf/2510.20168",
+        "https://doi.org/10.48550/arXiv.2510.20168"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

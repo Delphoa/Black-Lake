@@ -3471,3 +3471,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Absolute Zero: Reinforced Self-play Reasoning with Zero Data* | Zhao, Andrew; Wu, Yiran; Yue, Yang; Wu, Tong; Xu, Quentin; Yue, Yang; Lin, Matthieu; Wang, Shenzhi; Wu, Qingyun; Zheng, Zilong; Huang, Gao | [arXiv:2505.03335](https://arxiv.org/abs/2505.03335) - [DOI](https://doi.org/10.48550/arXiv.2505.03335) |
+
+
+## [DEP-E-20260818-DeepWideSearch](../DEP-E-20260818-DeepWideSearch/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking* | Lan, Tian; Zhu, Bin; Jia, Qianghuai; Ren, Junyang; Li, Haijun; Wang, Longyue; Xu, Zhao; Luo, Weihua; Zhang, Kaifu | [arXiv:2510.20168](https://arxiv.org/abs/2510.20168) - [DOI](https://doi.org/10.48550/arXiv.2510.20168) |
