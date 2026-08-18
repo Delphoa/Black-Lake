@@ -3870,3 +3870,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RL4RLA: Teaching ML to Discover Randomized Linear Algebra Algorithms Through Curriculum Design and Graph-Based Search* | Xiong, Jinglong; Liu, Xiaotian; Wang, Ruoxin; Liu, Zihang; Zhou, Yefan; Yan, Yujun; Yang, Yaoqing | [arXiv:2605.18004](https://arxiv.org/abs/2605.18004) - [DOI](https://doi.org/10.48550/arXiv.2605.18004) |
+
+
+## [DEP-E-20260818-CFP Efficient](../DEP-E-20260818-CFP%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |
