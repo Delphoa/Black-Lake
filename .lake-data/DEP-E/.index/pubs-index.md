@@ -4416,3 +4416,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates* | Arman Ghaffarizadeh; Danyal Mohaddes; Aliakbar Izadkhah; Shahriar Noroozizadeh | [arXiv:2607.02507](https://arxiv.org/abs/2607.02507) - [DOI](https://doi.org/10.48550/arXiv.2607.02507) |
+
+
+## [DEP-E-20260819-From Noisy Traces to Root](../DEP-E-20260819-From%20Noisy%20Traces%20to%20Root/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`from-noisy-traces-to-root.md`](../DEP-E-20260819-From%20Noisy%20Traces%20to%20Root/from-noisy-traces-to-root.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization* | Ying Chang; Jiahang Xu; Xuan Feng; Chenyuan Yang; Peng Cheng; Yuqing Yang | [arXiv:2607.07702](https://arxiv.org/abs/2607.07702) - [DOI](https://doi.org/10.48550/arXiv.2607.07702) |

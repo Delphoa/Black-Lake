@@ -1,0 +1,34 @@
+# DEP-E-20260819-From Noisy Traces to Root
+
+#dep-e #research #ai-for-science #materials-science #biology #chemistry #scientific-reasoning
+
+This DEP-E entry is a source-grounded research artifact expanding DEP-20260709-Tech Intel 1100 through From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization. It preserves repository provenance and canonical public metadata without depositing original source payloads.
+
+## Contents
+
+- **README.md**
+  - DEP inventory, review scope, insights, and attribution.
+- **from-noisy-traces-to-root.md**
+  - Schema-complete manuscript research document with source metadata, evidence ledger, claims, constraints, implementation paths, related reading, and source references.
+
+No .source/ directory is included because no original source files were collected or authorized for redistribution.
+
+## Summary of Items
+
+The manuscript separates source-package claims, canonical metadata, and reviewer interpretation. It records the cryptographic selection lineage, supporting-source expansion, evidence limits, replication needs, and bounded implementation ideas.
+
+## Insights and Relevance
+
+It is a broad AI-for-science result that treats physical structure as inspectable evidence rather than opaque embedding context, directly relevant to scientific foundation models, materials discovery, chemistry, and biological function prediction. The durable value of this entry is its provenance-preserving decision surface: future reviewers can locate the selected DEP, canonical source, claim boundary, and next validation steps without inferring that the reported work was independently reproduced.
+
+## Attribution Block
+
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260709-Tech%20Intel%201100/README.md
+  - Applies to: README.md, from-noisy-traces-to-root.md
+  - Notes: Selected source DEP boundary, inventory, and attribution context.
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260709-Tech%20Intel%201100/daily_research_findings_2026-07-09_1100.md
+  - Applies to: from-noisy-traces-to-root.md
+  - Notes: Deposited source synthesis used for the selected-thread context.
+- Source URL: https://arxiv.org/abs/2607.07702v1
+  - Applies to: from-noisy-traces-to-root.md
+  - Notes: Canonical selected supporting-source metadata and public locator.
