@@ -9377,3 +9377,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search* | Junlin Liu; Jiangwang Chen; Zixin Song; Shuaiyu Zhou; Chunji Lv; Hank Wu; Kailin Jiang; Jinyang Wu; Bohan Yu; Chenxi Zhou | [arXiv:2607.24280v1](https://arxiv.org/abs/2607.24280v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24280) |
+
+
+## [DEP-A-20260819-EASE TTT Evidence Aligned](../DEP-A-20260819-EASE%20TTT%20Evidence%20Aligned/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.06906-whitepaper-review.md`](../DEP-A-20260819-EASE%20TTT%20Evidence%20Aligned/2606.06906-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering* | Xiaopeng Yuan; Zebin Wang; Suwen Wang; Zongxin Yang; Haohan Wang; Yushun Dong | [arXiv:2606.06906v1](https://arxiv.org/abs/2606.06906v1) - [DOI](https://doi.org/10.48550/arXiv.2606.06906) |
