@@ -3800,3 +3800,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Adversarial Low-rank Markov Decision Processes with Unknown Transition and Full-information Feedback* | Zhao, Canzhe; Yang, Ruofeng; Wang, Baoxiang; Zhang, Xuezhou; Li, Shuai | [arXiv:2311.07876](https://arxiv.org/abs/2311.07876) - [DOI](https://doi.org/10.48550/arXiv.2311.07876) |
+
+
+## [DEP-E-20260818-Coverage Goal Selector](../DEP-E-20260818-Coverage%20Goal%20Selector/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Coverage Goal Selector for Combining Multiple Criteria in Search-Based Unit Test Generation* | Zhou, Zhichao; Zhou, Yuming; Fang, Chunrong; Chen, Zhenyu; Luo, Xiapu; He, Jingzhu; Tang, Yutian | [arXiv:2309.07518](https://arxiv.org/abs/2309.07518) - [DOI](https://doi.org/10.48550/arXiv.2309.07518) |
