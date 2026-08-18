@@ -10043,3 +10043,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference* | Hyunwoo Oh; Suyeon Jang; Hanning Chen; KyungIn Nam; Sanggeon Yun; Ryozo Masukawa; Mohsen Imani | [arXiv:2607.14618v1](https://arxiv.org/abs/2607.14618v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14618) |
+
+
+## [DEP-A-20260819-CacheProbe Auditing Promp](../DEP-A-20260819-CacheProbe%20Auditing%20Promp/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.30613-whitepaper-review.md`](../DEP-A-20260819-CacheProbe%20Auditing%20Promp/2605.30613-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CacheProbe: Auditing Prompt Cache Isolation in Gateway APIs* | Ryan Fahey | [arXiv:2605.30613v1](https://arxiv.org/abs/2605.30613v1) - [DOI](https://doi.org/10.48550/arXiv.2605.30613) |
