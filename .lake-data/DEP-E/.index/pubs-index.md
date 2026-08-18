@@ -4038,3 +4038,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data-Efficient Surgical Phase Segmentation in Small-Incision Cataract Surgery: A Controlled Study of Vision Foundation Models* | Spencer, Lincoln; Wang, Song; Chen, Chen | [arXiv:2604.10514](https://arxiv.org/abs/2604.10514) - [DOI](https://doi.org/10.48550/arXiv.2604.10514) |
+
+
+## [DEP-E-20260818-Deep Rigid Instance Scene](../DEP-E-20260818-Deep%20Rigid%20Instance%20Scene/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Rigid Instance Scene Flow* | Ma, Wei-Chiu; Wang, Shenlong; Hu, Rui; Xiong, Yuwen; Urtasun, Raquel | [arXiv:1904.08913](https://arxiv.org/abs/1904.08913) - [DOI](https://doi.org/10.48550/arXiv.1904.08913) |
