@@ -7246,6 +7246,29 @@
         "https://doi.org/10.48550/arXiv.2603.09488"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-Dirty Road Can Attack",
+        ".logs/20260818-Arxiv-Dirty-Road-Can-Attack-Security-of-Deep-LOG.md",
+        ".reports/BL-Arxiv-Dirty-Road-Can-Attack-Security-of-Deep-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.06701",
+      "arxiv_id": "2009.06701",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2009.06701",
+      "normalized_title": "Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack",
+      "notes": "Job BLAD-2200-20260818-D85F5742 item BLAD-2200-20260818-D85F5742-P05; draw 7759 of 75964 units; duplicate exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Dirty-Road-Can-Attack-Security-of-Deep",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.06701",
+        "https://arxiv.org/html/2009.06701",
+        "https://arxiv.org/pdf/2009.06701",
+        "https://doi.org/10.48550/arXiv.2009.06701"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

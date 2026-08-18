@@ -3415,3 +3415,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Streaming Autoregressive Video Generation via Diagonal Distillation* | Liu, Jinxiu; Liu, Xuanming; Mei, Kangfu; Wen, Yandong; Yang, Ming-Hsuan; Liu, Weiyang | [arXiv:2603.09488](https://arxiv.org/abs/2603.09488) - [DOI](https://doi.org/10.48550/arXiv.2603.09488) |
+
+
+## [DEP-E-20260818-Dirty Road Can Attack](../DEP-E-20260818-Dirty%20Road%20Can%20Attack/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack* | Sato, Takami; Shen, Junjie; Wang, Ningfei; Jia, Yunhan Jack; Lin, Xue; Chen, Qi Alfred | [arXiv:2009.06701](https://arxiv.org/abs/2009.06701) - [DOI](https://doi.org/10.48550/arXiv.2009.06701) |
