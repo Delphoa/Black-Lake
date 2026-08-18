@@ -4157,3 +4157,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination* | Zhang, Kai; Kang, Yangyang; Zhao, Fubang; Liu, Xiaozhong | [arXiv:2309.11696](https://arxiv.org/abs/2309.11696) - [DOI](https://doi.org/10.48550/arXiv.2309.11696) |
+
+
+## [DEP-E-20260819-Agent Evaluation](../DEP-E-20260819-Agent%20Evaluation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities* | Chen, Kai; Ding, Zichen; Ge, Jiaye; Jiang, Shufan; Li, Mo; Li, Qingqiu; Li, Zehao; Li, Zonglin; Liang, Tianhao; Liu, Shudong; Ma, Zerun; Shang, Zixin; Tian, Wenhui; Wang, Zun; Wu, Liwei; Wu, Zhenyu; Xu, Jun; Yang, Bowen; Yuan, Dingbo; Zhang, Qi; Zhang, Songyang; Zhou, Peiheng; Zhu, Dongsheng | [arXiv:2607.13705](https://arxiv.org/abs/2607.13705) - [DOI](https://doi.org/10.48550/arXiv.2607.13705) |
