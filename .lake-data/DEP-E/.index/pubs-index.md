@@ -3583,3 +3583,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Shadow Generation with Decomposed Mask Prediction and Attentive Shadow Filling* | Tao, Xinhao; Cao, Junyan; Hong, Yan; Niu, Li | [arXiv:2306.17358](https://arxiv.org/abs/2306.17358) - [DOI](https://doi.org/10.48550/arXiv.2306.17358) |
+
+
+## [DEP-E-20260818-Unveiling the Bandwidth](../DEP-E-20260818-Unveiling%20the%20Bandwidth/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unveiling the Bandwidth Nightmare: CDN Compression Format Conversion Attacks* | Lin, Ziyu; Lin, Zhiwei; Liu, Ximeng; Ying, Zuobing; Chen, Cheng | [arXiv:2409.00712](https://arxiv.org/abs/2409.00712) - [DOI](https://doi.org/10.48550/arXiv.2409.00712) |
