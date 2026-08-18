@@ -4209,3 +4209,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming* | Xutao Mao; Xiang Zheng; Cong Wang | [arXiv:2607.11698](https://arxiv.org/abs/2607.11698) - [DOI](https://doi.org/10.48550/arXiv.2607.11698) |
+
+
+## [DEP-E-20260819-FOUND AF Benchmarking ECG](../DEP-E-20260819-FOUND%20AF%20Benchmarking%20ECG/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`found-af-benchmarking-ecg.md`](../DEP-E-20260819-FOUND%20AF%20Benchmarking%20ECG/found-af-benchmarking-ecg.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FOUND-AF: Benchmarking ECG Foundation Models for Atrial Fibrillation Detection* | Amirhossein Taleshinosrati; Yangyang Wang; Atitaya Phoemsuk; Vahid Abolghasemi; Naser Hossein Motlagh; Sadasivan Puthusserypady; Daniel Teichmann; Abdolrahman Peimankar | [arXiv:2608.03597](https://arxiv.org/abs/2608.03597) - [DOI](https://doi.org/10.48550/arXiv.2608.03597) |
