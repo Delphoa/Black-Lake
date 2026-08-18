@@ -4108,3 +4108,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization* | Fang, Zixun; Liu, Zhiheng; Zhu, Kai; Liu, Yu; Cheng, Ka Leong; Zhai, Wei; Cao, Yang; Zha, Zheng-Jun | [arXiv:2501.09499](https://arxiv.org/abs/2501.09499) - [DOI](https://doi.org/10.48550/arXiv.2501.09499) |
+
+
+## [DEP-E-20260818-IceBench-S2S A Benchmark](../DEP-E-20260818-IceBench-S2S%20A%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IceBench-S2S: A Benchmark of Deep Learning for Challenging Subseasonal-to-Seasonal Daily Arctic Sea Ice Forecasting in Deep Latent Space* | Xu, Jingyi; Wang, Shengnan; Yang, Weidong; Tu, Siwei; Bai, Lei; Fei, Ben | [arXiv:2602.02567](https://arxiv.org/abs/2602.02567) - [DOI](https://doi.org/10.48550/arXiv.2602.02567) |
