@@ -10097,3 +10097,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems* | Yuannuo Feng; Wenyong Zhou; Yuang Ma; Yizhe Chen; Wenshuai Yao; Yuxin Xie; Ngai Wong; Wang Kang | [arXiv:2607.29076v1](https://arxiv.org/abs/2607.29076v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29076) |
+
+
+## [DEP-A-20260819-TransMem Transforming Hid](../DEP-A-20260819-TransMem%20Transforming%20Hid/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29032-whitepaper-review.md`](../DEP-A-20260819-TransMem%20Transforming%20Hid/2607.29032-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TransMem: Transforming Hidden States into Memory for Large Language Models* | Haodong Lei; Junming Liu; Yirong Chen; Pinlong Cai; Botian Shi; Ding Wang; Hongsong Wang | [arXiv:2607.29032v1](https://arxiv.org/abs/2607.29032v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29032) |
