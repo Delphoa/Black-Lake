@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **898 publication reviews across 553 DEP-E entries**.
+- Current coverage: **899 publication reviews across 554 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4746,3 +4746,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[2010.01381] Cubic Spline Smoothing Compensation for Irregularly Sampled Sequences* | Not available from inspected sources | [arXiv:2010.01381](https://arxiv.org/abs/2010.01381) |
+
+## [DEP-E-20260819-Arxiv 2005.02365](../DEP-E-20260819-Arxiv%202005.02365/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2005.02365] SLEDGE: A Simple Yet Effective Baseline for COVID-19 Scientific Knowledge Search* | Not available from inspected sources | [arXiv:2005.02365](https://arxiv.org/abs/2005.02365) |
