@@ -10313,3 +10313,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Messages, Not Tokens: Grounded Coresets for Faithful VLM Compression* | Long Qian; Jiaqi Wei; Bingke Zhu; Yingying Chen; Jinqiao Wang | [arXiv:2608.02134v1](https://arxiv.org/abs/2608.02134v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02134) |
+
+
+## [DEP-A-20260819-DART Decoded Attention ov](../DEP-A-20260819-DART%20Decoded%20Attention%20ov/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02032-whitepaper-review.md`](../DEP-A-20260819-DART%20Decoded%20Attention%20ov/2608.02032-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling* | Yixiao Qian; Song Chen; Pengkai Wang; Jiaxu Liu; Shengze Cai; Chao Xu | [arXiv:2608.02032v1](https://arxiv.org/abs/2608.02032v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02032) |
