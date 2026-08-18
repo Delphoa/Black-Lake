@@ -4587,3 +4587,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control* | Jihoon Hong; Julian Skifstad; Qiyue Dai; Alice Chan; Glen Chou | [arXiv:2607.14943](https://arxiv.org/abs/2607.14943) - [DOI](https://doi.org/10.48550/arXiv.2607.14943) |
+
+
+## [DEP-E-20260819-A 98 qubit trapped ion](../DEP-E-20260819-A%2098%20qubit%20trapped%20ion/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`a-98-qubit-trapped-ion.md`](../DEP-E-20260819-A%2098%20qubit%20trapped%20ion/a-98-qubit-trapped-ion.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A 98-qubit trapped-ion quantum computer with all-to-all connectivity \| Nature* | Nature | [Canonical source](https://www.nature.com/articles/s41586-026-10676-4) |
