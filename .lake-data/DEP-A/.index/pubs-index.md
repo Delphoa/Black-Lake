@@ -10250,3 +10250,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment* | Guruprakash J; Krithika L.B | [arXiv:2606.24331v1](https://arxiv.org/abs/2606.24331v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24331) |
+
+
+## [DEP-A-20260819-Structured Memory Edge La](../DEP-A-20260819-Structured%20Memory%20Edge%20La/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02560-whitepaper-review.md`](../DEP-A-20260819-Structured%20Memory%20Edge%20La/2608.02560-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection* | Anusha Madan Gopal; Aras Pirbadian; Kristofor D. Carlson; M Anthony Lewis; Jonathan Tapson | [arXiv:2608.02560v1](https://arxiv.org/abs/2608.02560v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02560) |
