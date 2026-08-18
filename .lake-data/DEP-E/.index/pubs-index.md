@@ -3408,3 +3408,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Generative AI-enabled Mobile Tactical Multimedia Networks: Distribution, Generation, and Perception* | Xu, Minrui; Niyato, Dusit; Kang, Jiawen; Xiong, Zehui; Guo, Song; Fang, Yuguang; Kim, Dong In | [arXiv:2401.06386](https://arxiv.org/abs/2401.06386) - [DOI](https://doi.org/10.48550/arXiv.2401.06386) |
+
+
+## [DEP-E-20260818-Streaming Autoregressive](../DEP-E-20260818-Streaming%20Autoregressive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Streaming Autoregressive Video Generation via Diagonal Distillation* | Liu, Jinxiu; Liu, Xuanming; Mei, Kangfu; Wen, Yandong; Yang, Ming-Hsuan; Liu, Weiyang | [arXiv:2603.09488](https://arxiv.org/abs/2603.09488) - [DOI](https://doi.org/10.48550/arXiv.2603.09488) |
