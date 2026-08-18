@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **859 publication reviews across 514 DEP-E entries**.
+- Current coverage: **860 publication reviews across 515 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4512,3 +4512,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ACTLLM: Action Consistency Tuned Large Language ModelThis work is a work in progress.* | Not available from inspected sources | [arXiv:2506.21250](https://arxiv.org/abs/2506.21250) |
+
+## [DEP-E-20260819-Arxiv 2410.15466](../DEP-E-20260819-Arxiv%202410.15466/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Keep Guessing? When Considering Inference Scaling, Mind the Baselines* | Not available from inspected sources | [arXiv:2410.15466](https://arxiv.org/abs/2410.15466) |
