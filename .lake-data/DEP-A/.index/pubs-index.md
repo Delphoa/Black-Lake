@@ -9260,3 +9260,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning* | Lizhe Fang; Weizhou Shen; Tianyi Tang; Yisen Wang | [arXiv:2607.19345v1](https://arxiv.org/abs/2607.19345v1) - [DOI](https://doi.org/10.48550/arXiv.2607.19345) |
+
+
+## [DEP-A-20260819-Temporal Context Reinstat](../DEP-A-20260819-Temporal%20Context%20Reinstat/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22575-whitepaper-review.md`](../DEP-A-20260819-Temporal%20Context%20Reinstat/2607.22575-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models* | Mathis Pink; Vy Ai Vo; Qinyuan Wu; Jianing Mu; Javier Turek; Uri Hasson; Kenneth A. Norman; Sebastian Michelmann; Alexander Huth; Mariya Toneva | [arXiv:2607.22575v1](https://arxiv.org/abs/2607.22575v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22575) |
