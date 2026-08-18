@@ -9548,3 +9548,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scaling Adaptive Depth with Norm-Agnostic Residual Networks* | Tomás Figliolia; Beren Millidge | [arXiv:2606.16112v1](https://arxiv.org/abs/2606.16112v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16112) |
+
+
+## [DEP-A-20260819-ReToken One Token Improve](../DEP-A-20260819-ReToken%20One%20Token%20Improve/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28627-whitepaper-review.md`](../DEP-A-20260819-ReToken%20One%20Token%20Improve/2607.28627-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReToken: One Token to Improve Vision-Language Models for Visual Retrieval* | Yao Xiao; Reuben Tan; Zhen Zhu; Yuqun Wu; Jianfeng Gao; Derek Hoiem | [arXiv:2607.28627v1](https://arxiv.org/abs/2607.28627v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28627) |
