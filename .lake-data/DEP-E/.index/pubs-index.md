@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **897 publication reviews across 552 DEP-E entries**.
+- Current coverage: **898 publication reviews across 553 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4740,3 +4740,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark* | Not available from inspected sources | [arXiv:2306.17100](https://arxiv.org/abs/2306.17100) |
+
+## [DEP-E-20260819-Arxiv 2010.01381](../DEP-E-20260819-Arxiv%202010.01381/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2010.01381] Cubic Spline Smoothing Compensation for Irregularly Sampled Sequences* | Not available from inspected sources | [arXiv:2010.01381](https://arxiv.org/abs/2010.01381) |
