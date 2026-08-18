@@ -4299,3 +4299,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement* | Jun Nie; Yonggang Zhang; Qianshu Cai; Yiu-ming Cheung; Xinmei Tian; Bo Han | [arXiv:2608.04968](https://arxiv.org/abs/2608.04968) - [DOI](https://doi.org/10.48550/arXiv.2608.04968) |
+
+
+## [DEP-E-20260819-OpenRCA 2 0 From Outcome](../DEP-E-20260819-OpenRCA%202%200%20From%20Outcome/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`openrca-2-0-from-outcome.md`](../DEP-E-20260819-OpenRCA%202%200%20From%20Outcome/openrca-2-0-from-outcome.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenRCA 2.0: From Outcome Labels to Causal Process Supervision* | Aoyang Fang; Yifan Yang; Jin'ao Shang; Qisheng Lu; Junjielung Xu; Rui Wang; Songhan Zhang; Yuzhong Zhang; Boxi Yu; Pinjia He | [arXiv:2606.27154](https://arxiv.org/abs/2606.27154) - [DOI](https://doi.org/10.48550/arXiv.2606.27154) |
