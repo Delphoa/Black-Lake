@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **805 publication reviews across 460 DEP-E entries**.
+- Current coverage: **806 publication reviews across 461 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4188,3 +4188,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Nonlinear Responses in PET Bottle Buckling with a Hybrid DeepONet–Transolver Framework* | Not available from inspected sources | [arXiv:2509.13520](https://arxiv.org/abs/2509.13520) |
+
+## [DEP-E-20260819-Arxiv 2009.06557](../DEP-E-20260819-Arxiv%202009.06557/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2009.06557] Effective Federated Adaptive Gradient Methods with Non-IID Decentralized Data* | Not available from inspected sources | [arXiv:2009.06557](https://arxiv.org/abs/2009.06557) |
