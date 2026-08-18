@@ -3695,3 +3695,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Latent Action World Models In The Wild* | Garrido, Quentin; Nagarajan, Tushar; Terver, Basile; Ballas, Nicolas; LeCun, Yann; Rabbat, Michael | [arXiv:2601.05230](https://arxiv.org/abs/2601.05230) - [DOI](https://doi.org/10.48550/arXiv.2601.05230) |
+
+
+## [DEP-E-20260818-Multi-Path Feedback](../DEP-E-20260818-Multi-Path%20Feedback/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Path Feedback Recurrent Neural Network for Scene Parsing* | Jin, Xiaojie; Chen, Yunpeng; Feng, Jiashi; Jie, Zequn; Yan, Shuicheng | [arXiv:1608.07706](https://arxiv.org/abs/1608.07706) - [DOI](https://doi.org/10.48550/arXiv.1608.07706) |
