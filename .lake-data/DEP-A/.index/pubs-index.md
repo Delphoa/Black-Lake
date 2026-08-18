@@ -9998,3 +9998,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SepPrune:A Separator-based Pruning Framework for Efficient Multimodal Large Language Models* | Yuchen Wang; Qihui Zhu; Yang Liu; Xiaoyan Sun; Siying Wu | [arXiv:2607.25818v1](https://arxiv.org/abs/2607.25818v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25818) |
+
+
+## [DEP-A-20260819-Lost at End Primacy](../DEP-A-20260819-Lost%20at%20End%20Primacy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v3 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.16494-whitepaper-review.md`](../DEP-A-20260819-Lost%20at%20End%20Primacy/2606.16494-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering* | Jieyuan Liu; Jianyang Gu; Shijie Chen; Jefferson Chen; Zhen Wang | [arXiv:2606.16494v3](https://arxiv.org/abs/2606.16494v3) - [DOI](https://doi.org/10.48550/arXiv.2606.16494) |
