@@ -9476,3 +9476,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IFCMemoryBench: Evaluating Long-Term Memory of LLM-Based Agents in BIM Information Retrieval* | Changyu Du; Alexander Vosseler; Filippo Mazza; André Borrmann | [arXiv:2607.26072v1](https://arxiv.org/abs/2607.26072v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26072) |
+
+
+## [DEP-A-20260819-Setoka Benchmark Hierarch](../DEP-A-20260819-Setoka%20Benchmark%20Hierarch/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27056-whitepaper-review.md`](../DEP-A-20260819-Setoka%20Benchmark%20Hierarch/2607.27056-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data* | Lingyang Zeng; Guangze Chen; Kaichen Yu; Zhicheng Pan; Siyang Weng; Zirui Hu; Xiangyun Du; Hailin He; Rong Zhang; Chengcheng Yang; Kai Huang; Xuan Zhou | [arXiv:2607.27056v1](https://arxiv.org/abs/2607.27056v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27056) |
