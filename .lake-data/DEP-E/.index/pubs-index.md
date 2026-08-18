@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **948 publication reviews across 603 DEP-E entries**.
+- Current coverage: **949 publication reviews across 604 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -5046,3 +5046,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[1706.03449] Scientific document summarization via citation contextualization and scientific discourse ∗ This is a pre-print of an article published on IJDL. The final publication is available at Springer via http://dx.doi.org/10.1007/s00799-017-0216-8* | Not available from inspected sources | [arXiv:1706.03449](https://arxiv.org/abs/1706.03449) |
+
+## [DEP-E-20260819-Arxiv 2303.02891](../DEP-E-20260819-Arxiv%202303.02891/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *[2303.02891] Perspectives on the Social Impacts of Reinforcement Learning with Human Feedback* | Not available from inspected sources | [arXiv:2303.02891](https://arxiv.org/abs/2303.02891) |
