@@ -10142,3 +10142,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval* | Yanping Chen; Weijie Shi; Wen Yang; Jiajie Xu | [arXiv:2607.06283v1](https://arxiv.org/abs/2607.06283v1) - [DOI](https://doi.org/10.48550/arXiv.2607.06283) |
+
+
+## [DEP-A-20260819-Memory Augmented LLM base](../DEP-A-20260819-Memory%20Augmented%20LLM%20base/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.20261-whitepaper-review.md`](../DEP-A-20260819-Memory%20Augmented%20LLM%20base/2604.20261-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data* | Fengxian Dong; Zhi Zheng; Xiao Han; Wei Chen; Jingqing Ruan; Tong Xu; Yong Chen; Enhong Chen | [arXiv:2604.20261v1](https://arxiv.org/abs/2604.20261v1) - [DOI](https://doi.org/10.48550/arXiv.2604.20261) |
