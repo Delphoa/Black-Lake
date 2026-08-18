@@ -3884,3 +3884,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Objective Trajectory Planning with Dual-Encoder* | Zhang, Beibei; Xiang, Tian; Mao, Chentao; Zheng, Yuhua; Li, Shuai; Niu, Haoyi; Xi, Xiangming; Bai, Wenyuan; Gao, Feng | [arXiv:2403.17353](https://arxiv.org/abs/2403.17353) - [DOI](https://doi.org/10.48550/arXiv.2403.17353) |
+
+
+## [DEP-E-20260818-RePO Replay-Enhanced](../DEP-E-20260818-RePO%20Replay-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RePO: Replay-Enhanced Policy Optimization* | Li, Siheng; Zhou, Zhanhui; Lam, Wai; Yang, Chao; Lu, Chaochao | [arXiv:2506.09340](https://arxiv.org/abs/2506.09340) - [DOI](https://doi.org/10.48550/arXiv.2506.09340) |

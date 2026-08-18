@@ -8787,6 +8787,29 @@
         "https://doi.org/10.48550/arXiv.2403.17353"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-RePO Replay-Enhanced",
+        ".logs/20260818-Arxiv-RePO-Replay-Enhanced-Policy-Optimization-LOG.md",
+        ".reports/BL-Arxiv-RePO-Replay-Enhanced-Policy-Optimization-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.09340",
+      "arxiv_id": "2506.09340",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2506.09340",
+      "normalized_title": "RePO: Replay-Enhanced Policy Optimization",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P37; draw 33002 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "RePO-Replay-Enhanced-Policy-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.09340",
+        "https://arxiv.org/html/2506.09340",
+        "https://arxiv.org/pdf/2506.09340",
+        "https://doi.org/10.48550/arXiv.2506.09340"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
