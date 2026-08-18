@@ -10061,3 +10061,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation* | Chengzhi Shen; Weixiang Shen; Tobias Susetzky; Chen; Jun Li; Yuyuan Liu; Xuepeng Zhang; Zhenyu Gong; Daniel Rueckert; Jiazhen Pan | [arXiv:2605.13542v1](https://arxiv.org/abs/2605.13542v1) - [DOI](https://doi.org/10.48550/arXiv.2605.13542) |
+
+
+## [DEP-A-20260819-GraphPlanner Graph Memory](../DEP-A-20260819-GraphPlanner%20Graph%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.23626-whitepaper-review.md`](../DEP-A-20260819-GraphPlanner%20Graph%20Memory/2604.23626-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs* | Tao Feng; Haozhen Zhang; Zijie Lei; Peixuan Han; Jiaxuan You | [arXiv:2604.23626v1](https://arxiv.org/abs/2604.23626v1) - [DOI](https://doi.org/10.48550/arXiv.2604.23626) |
