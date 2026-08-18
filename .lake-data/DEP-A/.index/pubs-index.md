@@ -9593,3 +9593,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SemPIC: Learning Semantic Position-Independent KV Caches* | Hui Xie; Peng Xiao; Yutong Deng\textsuperscript; Shuoran Dou; Jian Yang; Jinyang Guo | [arXiv:2607.28069v1](https://arxiv.org/abs/2607.28069v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28069) |
+
+
+## [DEP-A-20260819-Memory Decoder at Scale](../DEP-A-20260819-Memory%20Decoder%20at%20Scale/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27919-whitepaper-review.md`](../DEP-A-20260819-Memory%20Decoder%20at%20Scale/2607.27919-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory* | Rubin Wei; Jiaqi Cao; Jiarui Wang; Junming Zhang; Qipeng Guo; Bowen Zhou; Zhouhan Lin | [arXiv:2607.27919v1](https://arxiv.org/abs/2607.27919v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27919) |
