@@ -9674,3 +9674,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Metis: Memory Foundation Model* | Zeyu Zhang; Ziliang Guo; Yihang Sun; Xichong Zhang; Xixuan Hao; Zehao Lin; Yang Zhang; Xiaoyan Zhao; Tong Shen; Bo Tang; Zhi-Qin John Xu; Junchi Yan; Haofen Wang; Xu Chen; Feiyu Xiong; Zhiyu Li; Tat-Seng Chua | [arXiv:2607.26760v1](https://arxiv.org/abs/2607.26760v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26760) |
+
+
+## [DEP-A-20260819-Filesystem Based Memory L](../DEP-A-20260819-Filesystem%20Based%20Memory%20L/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26637-whitepaper-review.md`](../DEP-A-20260819-Filesystem%20Based%20Memory%20L/2607.26637-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability* | Sizhe Zhou; Sheldon Yu; Hui Wei; Junda Wu; Siru Ouyang; Yizhu Jiao; Shijia Pan; Julian McAuley; Yu Zhang; Tong Yu; Jiawei Han | [arXiv:2607.26637v1](https://arxiv.org/abs/2607.26637v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26637) |
