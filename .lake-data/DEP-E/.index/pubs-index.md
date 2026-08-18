@@ -3534,3 +3534,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VFM-Loc: Training-Free Cross-View Geo-Localization via Aligning Discriminative Visual Hierarchies* | Lu, Jun; Sang, Zehao; Wei, Haoqi; Liu, Xiangyun; Zhu, Kun; Guo, Haitao; Gong, Zhihui; Ding, Lei | [arXiv:2603.13855](https://arxiv.org/abs/2603.13855) - [DOI](https://doi.org/10.48550/arXiv.2603.13855) |
+
+
+## [DEP-E-20260818-ReAD Reinforcement-Guided](../DEP-E-20260818-ReAD%20Reinforcement-Guided/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReAD: Reinforcement-Guided Capability Distillation for Large Language Models* | Cheng, Xueqi; Zhou, Xugui; Derr, Tyler; Dong, Yushun | [arXiv:2605.11290](https://arxiv.org/abs/2605.11290) - [DOI](https://doi.org/10.48550/arXiv.2605.11290) |
