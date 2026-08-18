@@ -3814,3 +3814,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Payload trajectory tracking control for aerial transportation systems with cable length online optimization* | Yu, Hai; Yang, Zhichao; He, Wei; Han, Jianda; Fang, Yongchun; Liang, Xiao | [arXiv:2510.23296](https://arxiv.org/abs/2510.23296) - [DOI](https://doi.org/10.48550/arXiv.2510.23296) |
+
+
+## [DEP-E-20260818-Omne-R1 Learning to](../DEP-E-20260818-Omne-R1%20Learning%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Omne-R1: Learning to Reason with Memory for Multi-hop Question Answering* | Liu, Boyuan; Ji, Feng; Nan, Jiayan; Zhao, Han; Chen, Weiling; Xu, Shihao; Zhou, Xing | [arXiv:2508.17330](https://arxiv.org/abs/2508.17330) - [DOI](https://doi.org/10.48550/arXiv.2508.17330) |
