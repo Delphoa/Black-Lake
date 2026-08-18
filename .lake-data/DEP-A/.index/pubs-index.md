@@ -10106,3 +10106,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TransMem: Transforming Hidden States into Memory for Large Language Models* | Haodong Lei; Junming Liu; Yirong Chen; Pinlong Cai; Botian Shi; Ding Wang; Hongsong Wang | [arXiv:2607.29032v1](https://arxiv.org/abs/2607.29032v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29032) |
+
+
+## [DEP-A-20260819-ParaASR Multi Token Predi](../DEP-A-20260819-ParaASR%20Multi%20Token%20Predi/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.29279-whitepaper-review.md`](../DEP-A-20260819-ParaASR%20Multi%20Token%20Predi/2607.29279-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ParaASR: Multi-Token Prediction for Fast and Long-Context LLM-Based Speech Recognition* | Qingjian Lin; Yuxin Li; Haoyang Zhang; Jun Chen; Yechang Huang; Feng Tian; Xie Li; Xiangyu Tony Zhang; Daijiao Liu; Yuxin Zhang; Jinglan Gong; Bo Zhao; Fei Tian; Xuerui Yang; Gang Yu; Xiangyu Zhang; Daxin Jiang | [arXiv:2607.29279v1](https://arxiv.org/abs/2607.29279v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29279) |
