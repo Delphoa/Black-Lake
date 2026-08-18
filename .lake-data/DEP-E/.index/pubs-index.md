@@ -4434,3 +4434,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OLEDLM: A Unified Language Model for OLED Molecular Design* | Fukang Wen; Yuchong Tang; Jingyuan Li; Beichen Wang; Yixuan Jiang; Xiaoyi Jiang; Yaxuan Liu; Shunyu Wang; Zuoqiang Shi; Yi Zhu; Yanan Zhu; Pipi Hu | [arXiv:2607.20194](https://arxiv.org/abs/2607.20194) - [DOI](https://doi.org/10.48550/arXiv.2607.20194) |
+
+
+## [DEP-E-20260819-Diagram MMU A Multi Modal](../DEP-E-20260819-Diagram%20MMU%20A%20Multi%20Modal/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`diagram-mmu-a-multi-modal.md`](../DEP-E-20260819-Diagram%20MMU%20A%20Multi%20Modal/diagram-mmu-a-multi-modal.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams* | Weihao Bo; Shan Zhang; Yanpeng Sun; Jie Liu; Yongke Yao; Jinhao Du; Wei He; Kai Zou; Zechao Li; Jingdong Wang | [arXiv:2608.12262](https://arxiv.org/abs/2608.12262) - [DOI](https://doi.org/10.48550/arXiv.2608.12262) |
