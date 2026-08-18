@@ -9062,3 +9062,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems* | Nilesh Prasad Pandey; Jason Kong; Lanxiang Hu; Quanling Zhao; Yujie Zhao; Onat Gungor; Hao Zhang; Tajana Rosing | [arXiv:2607.21604v1](https://arxiv.org/abs/2607.21604v1) - [DOI](https://doi.org/10.48550/arXiv.2607.21604) |
+
+
+## [DEP-A-20260818-Memory Inception Latent S](../DEP-A-20260818-Memory%20Inception%20Latent%20S/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2605.06225-whitepaper-review.md`](../DEP-A-20260818-Memory%20Inception%20Latent%20S/2605.06225-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs* | Andy Zeyi Liu; Michael Zhang; Ilana Greenberg; Adam Alnasser; Lucas Baker; John Sous | [arXiv:2605.06225v2](https://arxiv.org/abs/2605.06225v2) - [DOI](https://doi.org/10.48550/arXiv.2605.06225) |
