@@ -10025,3 +10025,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning* | Hao Yang; Jin Wang; Xuejie Zhang | [arXiv:2607.22013v1](https://arxiv.org/abs/2607.22013v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22013) |
+
+
+## [DEP-A-20260819-ExaGEMM Exploration Frame](../DEP-A-20260819-ExaGEMM%20Exploration%20Frame/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14622-whitepaper-review.md`](../DEP-A-20260819-ExaGEMM%20Exploration%20Frame/2607.14622-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM* | Hyunwoo Oh; Suyeon Jang; Hanning Chen; Sanggeon Yun; Ryozo Masukawa; Mohsen Imani | [arXiv:2607.14622v1](https://arxiv.org/abs/2607.14622v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14622) |
