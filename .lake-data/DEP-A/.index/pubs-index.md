@@ -9656,3 +9656,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search* | Raphaël Sourty; Antoine Chaffin; Paulo Roberto Moura Junior; Amélie Chatelain | [arXiv:2607.27178v1](https://arxiv.org/abs/2607.27178v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27178) |
+
+
+## [DEP-A-20260819-MemSecBench Tracking Agen](../DEP-A-20260819-MemSecBench%20Tracking%20Agen/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27080-whitepaper-review.md`](../DEP-A-20260819-MemSecBench%20Tracking%20Agen/2607.27080-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair* | Xuanze Chen; Xukang Xie; Wentao Fu; Jiajun Zhou; Shanqing Yu; Qi Xuan | [arXiv:2607.27080v1](https://arxiv.org/abs/2607.27080v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27080) |
