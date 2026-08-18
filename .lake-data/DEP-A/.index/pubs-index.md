@@ -8927,3 +8927,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory* | Ganesh Senrayan; Moyuru Yamada; Ishan Jindal; Kiran Purohit | [arXiv:2607.17879v1](https://arxiv.org/abs/2607.17879v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17879) |
+
+
+## [DEP-A-20260818-Requential Coding Pushing](../DEP-A-20260818-Requential%20Coding%20Pushing/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.11883-whitepaper-review.md`](../DEP-A-20260818-Requential%20Coding%20Pushing/2607.11883-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data* | Shikai Qiu; Marc Finzi; Yujia Zheng; Kun Zhang; Andrew Gordon Wilson | [arXiv:2607.11883v1](https://arxiv.org/abs/2607.11883v1) - [DOI](https://doi.org/10.48550/arXiv.2607.11883) |
