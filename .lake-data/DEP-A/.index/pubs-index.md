@@ -10241,3 +10241,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Zero-Mem: Zero-Token Memory Operations for LLM Agents* | Yilin Xiao; Zhehan Zhu; Yujing Zhang; Jin Chen; Zijin Hong; Luyao Zhuang; Qinggang Zhang; Shengyuan Chen; Xiaocao Ouyang; Lingfei Ren; Xiao Huang | [arXiv:2607.29377v1](https://arxiv.org/abs/2607.29377v1) - [DOI](https://doi.org/10.48550/arXiv.2607.29377) |
+
+
+## [DEP-A-20260819-Transformer Based Languag](../DEP-A-20260819-Transformer%20Based%20Languag/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.24331-whitepaper-review.md`](../DEP-A-20260819-Transformer%20Based%20Languag/2606.24331-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment* | Guruprakash J; Krithika L.B | [arXiv:2606.24331v1](https://arxiv.org/abs/2606.24331v1) - [DOI](https://doi.org/10.48550/arXiv.2606.24331) |
