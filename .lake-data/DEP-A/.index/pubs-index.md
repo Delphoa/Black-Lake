@@ -9539,3 +9539,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Long-Context Fine-Tuning with Limited VRAM* | Vladimir Fedosov; Aleksandr Sazhin; Artemiy Grinenko; Frank Woernle | [arXiv:2607.15105v2](https://arxiv.org/abs/2607.15105v2) - [DOI](https://doi.org/10.48550/arXiv.2607.15105) |
+
+
+## [DEP-A-20260819-Scaling Adaptive Depth No](../DEP-A-20260819-Scaling%20Adaptive%20Depth%20No/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.16112-whitepaper-review.md`](../DEP-A-20260819-Scaling%20Adaptive%20Depth%20No/2606.16112-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling Adaptive Depth with Norm-Agnostic Residual Networks* | Tomás Figliolia; Beren Millidge | [arXiv:2606.16112v1](https://arxiv.org/abs/2606.16112v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16112) |
