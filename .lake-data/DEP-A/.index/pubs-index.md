@@ -9971,3 +9971,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SE-GA: Memory-Augmented Self-Evolution for GUI Agents* | Shilong Jin; Lanjun Wang; Zhuosheng Zhang | [arXiv:2605.16883v1](https://arxiv.org/abs/2605.16883v1) - [DOI](https://doi.org/10.48550/arXiv.2605.16883) |
+
+
+## [DEP-A-20260819-Emergence Flow Assisted C](../DEP-A-20260819-Emergence%20Flow%20Assisted%20C/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.18881-whitepaper-review.md`](../DEP-A-20260819-Emergence%20Flow%20Assisted%20C/2605.18881-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Emergence of a Flow-Assisted Casting Strategy for Olfactory Navigation via Memory-Augmented Reinforcement Learning* | Changxu Zhao; Dongxiao Zhao; Xin Bian; Gaojin Li | [arXiv:2605.18881v1](https://arxiv.org/abs/2605.18881v1) - [DOI](https://doi.org/10.48550/arXiv.2605.18881) |
