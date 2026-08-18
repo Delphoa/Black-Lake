@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **902 publication reviews across 557 DEP-E entries**.
+- Current coverage: **903 publication reviews across 558 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4770,3 +4770,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rep-GLS: Report-Guided Generalized Label Smoothing for Robust Disease Detection* | Not available from inspected sources | [arXiv:2508.02495](https://arxiv.org/abs/2508.02495) |
+
+## [DEP-E-20260819-Arxiv 2311.09805](../DEP-E-20260819-Arxiv%202311.09805/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents* | Not available from inspected sources | [arXiv:2311.09805](https://arxiv.org/abs/2311.09805) |
