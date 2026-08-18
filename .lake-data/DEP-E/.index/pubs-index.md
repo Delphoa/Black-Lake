@@ -3310,3 +3310,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RandoMix: A mixed sample data augmentation method with multiple mixed modes* | Liu, Xiaoliang; Shen, Furao; Zhao, Jian; Nie, Changhai | [arXiv:2205.08728](https://arxiv.org/abs/2205.08728) - [DOI](https://doi.org/10.48550/arXiv.2205.08728) |
+
+
+## [DEP-E-20260818-Hybrid Sensor HESIM](../DEP-E-20260818-Hybrid%20Sensor%20HESIM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation* | Lu, Yunfan; Messikommer, Nico; Xu, Xiaogang; Chen, Liming; Chen, Yuhan; Zubić, Nikola; Scaramuzza, Davide; Xiong, Hui | [arXiv:2511.18037v2](https://arxiv.org/abs/2511.18037) - [DOI](https://doi.org/10.48550/arXiv.2511.18037) |
