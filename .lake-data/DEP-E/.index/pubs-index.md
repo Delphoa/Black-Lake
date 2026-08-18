@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **799 publication reviews across 454 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-14; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **800 publication reviews across 455 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -27,6 +27,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | *BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators* | Fabian Waschkowski; Prabod Rathnayaka; Lukas Wesemann | [arXiv:2607.19438v1](https://arxiv.org/abs/2607.19438) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
 | *Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design* | Xiaoliang Shi; Zichen Wang; Runze Ma; Zhongyue Zhang; Shuangjia Zheng | [arXiv:2607.20057v1](https://arxiv.org/abs/2607.20057) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
 | *DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems* | Seongmin Kim; Abhinav Rijal; Yuri Alexeev; *et al.* | [arXiv:2607.20225v1](https://arxiv.org/abs/2607.20225) | [DEP-E](../DEP-E-20260818-Evidence-Governed%20Agents/README.md) |
+
+## [DEP-E-20260818-AKB-48 Articulation](../DEP-E-20260818-AKB-48%20Articulation/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *AKB-48: A Real-World Articulated Object Knowledge Base* | Liu Liu; Wenqiang Xu; Haoyuan Fu; Sucheng Qian; Qiaojun Yu; Yang Han; Cewu Lu | [arXiv:2202.08432v1](https://arxiv.org/abs/2202.08432); [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_AKB-48_A_Real-World_Articulated_Object_Knowledge_Base_CVPR_2022_paper.html); [DOI](https://doi.org/10.1109/CVPR52688.2022.01439) | [DEP-E](../DEP-E-20260818-AKB-48%20Articulation/README.md) |
 
 ## [DEP-E-20260818-Invisible Backdoor](../DEP-E-20260818-Invisible%20Backdoor/README.md)
 
