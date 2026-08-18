@@ -10331,3 +10331,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation* | Xingyu Ren; Youran Sun; Chugang Yi; Haizhao Yang | [arXiv:2608.01676v1](https://arxiv.org/abs/2608.01676v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01676) |
+
+
+## [DEP-A-20260819-Bole Efficient Tree Specu](../DEP-A-20260819-Bole%20Efficient%20Tree%20Specu/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01651-whitepaper-review.md`](../DEP-A-20260819-Bole%20Efficient%20Tree%20Specu/2608.01651-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bole: Efficient Tree Speculation for Hybrid-Attention Language Models* | Li Wang; Yi Su; Xiabao Wu; Chiran You; Yongchao Liu; Zhan Qiu; Juelu Zhang; Jiajun Zheng; Fangxin Liu; Jie Zhang; Chen Tian; Chengying Huan | [arXiv:2608.01651v1](https://arxiv.org/abs/2608.01651v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01651) |
