@@ -9584,3 +9584,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer* | Xuchuan Luo; Jiacheng Shen; Xin Wang; Yangfan Zhou | [arXiv:2607.28150v1](https://arxiv.org/abs/2607.28150v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28150) |
+
+
+## [DEP-A-20260819-SemPIC Learning Semantic](../DEP-A-20260819-SemPIC%20Learning%20Semantic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28069-whitepaper-review.md`](../DEP-A-20260819-SemPIC%20Learning%20Semantic/2607.28069-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SemPIC: Learning Semantic Position-Independent KV Caches* | Hui Xie; Peng Xiao; Yutong Deng\textsuperscript; Shuoran Dou; Jian Yang; Jinyang Guo | [arXiv:2607.28069v1](https://arxiv.org/abs/2607.28069v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28069) |
