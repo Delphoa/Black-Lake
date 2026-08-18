@@ -7982,6 +7982,29 @@
         "https://doi.org/10.48550/arXiv.1803.00937"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-The Configuration of",
+        ".logs/20260818-Arxiv-The-Configuration-of-Space-Probing-the-Way-LOG.md",
+        ".reports/BL-Arxiv-The-Configuration-of-Space-Probing-the-Way-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.12771",
+      "arxiv_id": "2602.12771",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2602.12771",
+      "normalized_title": "The Configuration of Space: Probing the Way Social Interaction and Perception are Affected by Task-Specific Spatial Representations in Online Video Communication",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P05; draw 34475 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-Configuration-of-Space-Probing-the-Way",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.12771",
+        "https://arxiv.org/html/2602.12771",
+        "https://arxiv.org/pdf/2602.12771",
+        "https://doi.org/10.48550/arXiv.2602.12771"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
