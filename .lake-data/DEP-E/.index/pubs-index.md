@@ -3331,3 +3331,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Inner-Probe: Discovering Copyright-related Data Generation in LLM Architecture* | Ma, Qichao; Zhu, Rui-Jie; Liu, Peiye; Yan, Renye; Zhang, Fahong; Liang, Ling; Li, Meng; Yu, Zhaofei; Wang, Zongwei; Cai, Yimao; Huang, Tiejun | [arXiv:2410.04454](https://arxiv.org/abs/2410.04454) - [DOI](https://doi.org/10.1109/TAI.2025.3645710) |
+
+
+## [DEP-E-20260818-L-CAD Language-based](../DEP-E-20260818-L-CAD%20Language-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors* | Chang, Zheng; Weng, Shuchen; Zhang, Peixuan; Li, Yu; Li, Si; Shi, Boxin | [arXiv:2305.15217](https://arxiv.org/abs/2305.15217) - [DOI](https://doi.org/10.48550/arXiv.2305.15217) |
