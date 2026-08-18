@@ -9017,3 +9017,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking* | Simon Lupart; Kidist Amde Mekonnen; Zahra Abbasiantaeb; Mohammad Aliannejadi | [arXiv:2606.11945v1](https://arxiv.org/abs/2606.11945v1) - [DOI](https://doi.org/10.48550/arXiv.2606.11945) |
+
+
+## [DEP-A-20260818-5ting at SemEval 2026](../DEP-A-20260818-5ting%20at%20SemEval%202026/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2606.28737-whitepaper-review.md`](../DEP-A-20260818-5ting%20at%20SemEval%202026/2606.28737-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *5ting at SemEval-2026 Task 8: Strong End-to-End Multi-Turn RAG via LLM-Based Reranking and Faithfulness Control* | Thien-Qua-T-Nguyen; Chi Hoang; Nguyen Tran; Tri Le; Khanh Truong; Chinh Trong Nguyen | [arXiv:2606.28737v1](https://arxiv.org/abs/2606.28737v1) - [DOI](https://doi.org/10.48550/arXiv.2606.28737) |
