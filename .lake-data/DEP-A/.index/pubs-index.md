@@ -9728,3 +9728,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Back from the Future: Key-Value Cache Management by Counter-Causal Surprise* | Stephen Gould; Anton van den Hengel | [arXiv:2607.27600v1](https://arxiv.org/abs/2607.27600v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27600) |
+
+
+## [DEP-A-20260819-S CEReBrO Breaking Memory](../DEP-A-20260819-S%20CEReBrO%20Breaking%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27913-whitepaper-review.md`](../DEP-A-20260819-S%20CEReBrO%20Breaking%20Memory/2607.27913-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *S-CEReBrO: Breaking the Memory Barrier in Continuous EEG Monitoring* | Glenn Anta Bucagu; Thorir Mar Ingolfsson; Yawei Li; Luca Benini | [arXiv:2607.27913v1](https://arxiv.org/abs/2607.27913v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27913) |
