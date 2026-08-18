@@ -10538,3 +10538,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation* | Tirth Bhatt; Naren Kumar S; Mayank Singh | [arXiv:2608.05785v1](https://arxiv.org/abs/2608.05785v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05785) |
+
+
+## [DEP-A-20260819-Mapping Similarity Spaces](../DEP-A-20260819-Mapping%20Similarity%20Spaces/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05857-whitepaper-review.md`](../DEP-A-20260819-Mapping%20Similarity%20Spaces/2608.05857-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mapping Similarity Spaces across Embedding Models with Synthetic Query Probing* | Marcin Rozmus; Peter van der Putten | [arXiv:2608.05857v1](https://arxiv.org/abs/2608.05857v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05857) |
