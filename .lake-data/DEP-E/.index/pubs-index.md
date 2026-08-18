@@ -4254,3 +4254,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adapting AlphaEvolve to Optimize Fully Homomorphic Encryption on TPUs* | Shruthi Gorantala; Jianming Tong; Asra Ali; Baiyu Li; Jonathan Katz; Jeremy Kun; Thomas Steinke; Abhradeep Thakurta; Julian Walker; Amir Yazdanbakhsh | [arXiv:2605.14718](https://arxiv.org/abs/2605.14718) - [DOI](https://doi.org/10.48550/arXiv.2605.14718) |
+
+
+## [DEP-E-20260819-Structured Outputs](../DEP-E-20260819-Structured%20Outputs/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`structured-outputs.md`](../DEP-E-20260819-Structured%20Outputs/structured-outputs.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structured Outputs* | dottxt-ai | [Canonical source](https://github.com/dottxt-ai/outlines) |
