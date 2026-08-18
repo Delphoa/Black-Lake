@@ -9305,3 +9305,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim* | Steve Aschenbrenner; Marcel Heisler; Thomas Sievers; Christian Becker-Asano | [arXiv:2607.24190v1](https://arxiv.org/abs/2607.24190v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24190) |
+
+
+## [DEP-A-20260819-MolMem Memory Augmented A](../DEP-A-20260819-MolMem%20Memory%20Augmented%20A/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.12237-whitepaper-review.md`](../DEP-A-20260819-MolMem%20Memory%20Augmented%20A/2604.12237-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization* | Ziqing Wang; Yibo Wen; Abhishek Pandy; Han Liu; Kaize Ding | [arXiv:2604.12237v1](https://arxiv.org/abs/2604.12237v1) - [DOI](https://doi.org/10.48550/arXiv.2604.12237) |
