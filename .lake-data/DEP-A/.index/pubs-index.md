@@ -10259,3 +10259,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection* | Anusha Madan Gopal; Aras Pirbadian; Kristofor D. Carlson; M Anthony Lewis; Jonathan Tapson | [arXiv:2608.02560v1](https://arxiv.org/abs/2608.02560v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02560) |
+
+
+## [DEP-A-20260819-LiveMem Maintaining Memor](../DEP-A-20260819-LiveMem%20Maintaining%20Memor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02515-whitepaper-review.md`](../DEP-A-20260819-LiveMem%20Maintaining%20Memor/2608.02515-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference* | Zhichen Liu; Ruihan Sun; Hengjie Yang; Zipeng Wu; Zhaohan Chen; Xiaofan Zhang; Yang Xu | [arXiv:2608.02515v1](https://arxiv.org/abs/2608.02515v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02515) |
