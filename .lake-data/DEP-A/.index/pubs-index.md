@@ -10367,3 +10367,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction* | Changwoo Baek; Seungjun Shin; Kyeongbo Kong | [arXiv:2608.01247v1](https://arxiv.org/abs/2608.01247v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01247) |
+
+
+## [DEP-A-20260819-Practical Online KV Cache](../DEP-A-20260819-Practical%20Online%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.00902-whitepaper-review.md`](../DEP-A-20260819-Practical%20Online%20KV%20Cache/2608.00902-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Practical Online KV Cache Compaction for LLM Agents: An Empirical Study* | Yujian Liu; Jiabao Ji; Li An; Rohit Jain; Gungor Polatkan; Siyu Zhu; Shiyu Chang | [arXiv:2608.00902v1](https://arxiv.org/abs/2608.00902v1) - [DOI](https://doi.org/10.48550/arXiv.2608.00902) |
