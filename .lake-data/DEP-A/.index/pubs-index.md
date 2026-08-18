@@ -9143,3 +9143,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CausalGate: Causal Importance Distillation for Transformer Module Pruning* | Kiran Nair; Smriti Regmi; Rodrigue Rizk | [arXiv:2607.22720v1](https://arxiv.org/abs/2607.22720v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22720) |
+
+
+## [DEP-A-20260819-GLIDE Guided Layerwise Hy](../DEP-A-20260819-GLIDE%20Guided%20Layerwise%20Hy/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24788-whitepaper-review.md`](../DEP-A-20260819-GLIDE%20Guided%20Layerwise%20Hy/2607.24788-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference* | Vimal William; Ravi Tandon; Jyotikrishna Dass | [arXiv:2607.24788v1](https://arxiv.org/abs/2607.24788v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24788) |
