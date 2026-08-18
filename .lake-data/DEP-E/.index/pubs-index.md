@@ -3597,3 +3597,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How to Understand Named Entities: Using Common Sense for News Captioning* | Xu, Ning; Wang, Yanhui; Zhang, Tingting; Tian, Hongshuo; Kankanhalli, Mohan; Liu, An-An | [arXiv:2403.06520](https://arxiv.org/abs/2403.06520) - [DOI](https://doi.org/10.48550/arXiv.2403.06520) |
+
+
+## [DEP-E-20260818-QDCNN Quantum Dilated](../DEP-E-20260818-QDCNN%20Quantum%20Dilated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QDCNN: Quantum Dilated Convolutional Neural Network* | Chen, Yixiong | [arXiv:2110.15667](https://arxiv.org/abs/2110.15667) - [DOI](https://doi.org/10.48550/arXiv.2110.15667) |
