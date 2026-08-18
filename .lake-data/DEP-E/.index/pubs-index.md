@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **841 publication reviews across 496 DEP-E entries**.
+- Current coverage: **842 publication reviews across 497 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4404,3 +4404,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[2107.00414] Doing it right: It’s time for addressing issues in citation context analysis* | Not available from inspected sources | [arXiv:2107.00414](https://arxiv.org/abs/2107.00414) |
+
+## [DEP-E-20260819-Arxiv 2510.15232](../DEP-E-20260819-Arxiv%202510.15232/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in Finance Domain* | Not available from inspected sources | [arXiv:2510.15232](https://arxiv.org/abs/2510.15232) |
