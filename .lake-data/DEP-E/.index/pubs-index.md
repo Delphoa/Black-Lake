@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **819 publication reviews across 474 DEP-E entries**.
+- Current coverage: **820 publication reviews across 475 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4272,3 +4272,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[2311.09765] Back to Basics: A Simple Recipe for Improving Out-of-Domain Retrieval in Dense Encoders* | Not available from inspected sources | [arXiv:2311.09765](https://arxiv.org/abs/2311.09765) |
+
+## [DEP-E-20260819-Arxiv 2606.19327](../DEP-E-20260819-Arxiv%202606.19327/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation* | Not available from inspected sources | [arXiv:2606.19327](https://arxiv.org/abs/2606.19327) |
