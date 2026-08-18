@@ -9035,3 +9035,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAGe: A Retrieval-Augmented Generation Evaluation Framework* | Larissa Guder; João Pedro de Moura; Arthur Accorsi; Gustavo Losch do Amaral; Maurício Cecílio Magnaguagno; Felipe Meneguzzi; Marcio Sorraglia Pinho; Dalvan Griebler | [arXiv:2605.27445v1](https://arxiv.org/abs/2605.27445v1) - [DOI](https://doi.org/10.48550/arXiv.2605.27445) |
+
+
+## [DEP-A-20260818-CHOP Chunkwise Context Pr](../DEP-A-20260818-CHOP%20Chunkwise%20Context%20Pr/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2604.15802-whitepaper-review.md`](../DEP-A-20260818-CHOP%20Chunkwise%20Context%20Pr/2604.15802-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CHOP: Chunkwise Context-Preserving Framework for RAG on Multi Documents* | Hyunseok Park; Jihyeon Kim; Jongeun Kim; Dongsik Yoon | [arXiv:2604.15802v1](https://arxiv.org/abs/2604.15802v1) - [DOI](https://doi.org/10.48550/arXiv.2604.15802) |
