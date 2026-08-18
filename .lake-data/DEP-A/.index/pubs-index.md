@@ -8990,3 +8990,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference* | Simla Burcu Harma; Danila Mishin; Zhengyuan Su; Ayan Chakraborty; Elizaveta Kostenok; Dongho Ha; Babak Falsafi; Martin Jaggi; Yunho Oh; Amir Yazdanbakhsh | [arXiv:2607.17733v1](https://arxiv.org/abs/2607.17733v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17733) |
+
+
+## [DEP-A-20260818-CacheRAG Semantic Caching](../DEP-A-20260818-CacheRAG%20Semantic%20Caching/README.md)
+
+Review status: substantively reviewed from the complete arXiv v4 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2604.26176-whitepaper-review.md`](../DEP-A-20260818-CacheRAG%20Semantic%20Caching/2604.26176-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering* | Yushi Sun; Lei Chen | [arXiv:2604.26176v4](https://arxiv.org/abs/2604.26176v4) - [DOI](https://doi.org/10.48550/arXiv.2604.26176) |
