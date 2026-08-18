@@ -8954,3 +8954,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL* | Jiawei Zhou; Jianwei Wang; Chenyu Zhou; Chaojian Shi; Ming Dong; Kai Wang | [arXiv:2607.20489v1](https://arxiv.org/abs/2607.20489v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20489) |
+
+
+## [DEP-A-20260818-What Training Data Teache](../DEP-A-20260818-What%20Training%20Data%20Teache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2605.23067-whitepaper-review.md`](../DEP-A-20260818-What%20Training%20Data%20Teache/2605.23067-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Training Data Teaches RL Memory Agents: An Empirical Study of Curriculum Effects in Memory-Augmented QA* | Xinjie He; Zhiyuan Lin; Su Liu; Jialun Wu; Qiyang Xie; Weikai Zhou; Shuai Xiao | [arXiv:2605.23067v1](https://arxiv.org/abs/2605.23067v1) - [DOI](https://doi.org/10.48550/arXiv.2605.23067) |
