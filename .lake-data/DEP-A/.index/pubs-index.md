@@ -9746,3 +9746,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Sparse Glimpse of the Whole: Train-Free Self-Speculative Decoding* | Yuesong Liu; Yuan Zeng; Min Lyu; Ruilin Liu; Yu Guo; Yinlong Xu | [arXiv:2607.27735v1](https://arxiv.org/abs/2607.27735v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27735) |
+
+
+## [DEP-A-20260819-Long Context Modeling GSS](../DEP-A-20260819-Long%20Context%20Modeling%20GSS/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.16093-whitepaper-review.md`](../DEP-A-20260819-Long%20Context%20Modeling%20GSS/2606.16093-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing* | Kuzey Torlak; Hüseyin Arda Arslan; Anıl Dervişoğlu; Beyza Nur Deniz; Onur Boyar | [arXiv:2606.16093v1](https://arxiv.org/abs/2606.16093v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16093) |
