@@ -9512,3 +9512,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TSUBASA: Improving Long-Horizon Personalization via Evolving Memory and Self-Learning with Context Distillation* | Xinliang Frederick Zhang; Lu Wang | [arXiv:2604.07894v1](https://arxiv.org/abs/2604.07894v1) - [DOI](https://doi.org/10.48550/arXiv.2604.07894) |
+
+
+## [DEP-A-20260819-Salient Knowledge Pathway](../DEP-A-20260819-Salient%20Knowledge%20Pathway/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25422-whitepaper-review.md`](../DEP-A-20260819-Salient%20Knowledge%20Pathway/2607.25422-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering* | Noor Islam S. Mohammad; Uluğ Bayazıt | [arXiv:2607.25422v1](https://arxiv.org/abs/2607.25422v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25422) |
