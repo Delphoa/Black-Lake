@@ -10304,3 +10304,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents* | Zhaoyang Li; Zenghuang Fu; Qiuyuan Ai; Ping Jiang; Haoyu Wu; Minghui Wu; Chenxu Zhao; Jie Song; Guannan He | [arXiv:2608.01904v1](https://arxiv.org/abs/2608.01904v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01904) |
+
+
+## [DEP-A-20260819-Messages Not Tokens Groun](../DEP-A-20260819-Messages%20Not%20Tokens%20Groun/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02134-whitepaper-review.md`](../DEP-A-20260819-Messages%20Not%20Tokens%20Groun/2608.02134-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Messages, Not Tokens: Grounded Coresets for Faithful VLM Compression* | Long Qian; Jiaqi Wei; Bingke Zhu; Yingying Chen; Jinqiao Wang | [arXiv:2608.02134v1](https://arxiv.org/abs/2608.02134v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02134) |
