@@ -3849,3 +3849,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Framework for Evaluating Snippet Generation for Dataset Search* | Wang, Xiaxia; Chen, Jinchi; Li, Shuxin; Cheng, Gong; Pan, Jeff Z.; Kharlamov, Evgeny; Qu, Yuzhong | [arXiv:1907.01183](https://arxiv.org/abs/1907.01183) - [DOI](https://doi.org/10.48550/arXiv.1907.01183) |
+
+
+## [DEP-E-20260818-A Better and Faster](../DEP-E-20260818-A%20Better%20and%20Faster/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Better and Faster End-to-End Model for Streaming ASR* | Li, Bo; Gulati, Anmol; Yu, Jiahui; Sainath, Tara N.; Chiu, Chung-Cheng; Narayanan, Arun; Chang, Shuo-Yiin; Pang, Ruoming; He, Yanzhang; Qin, James; Han, Wei; Liang, Qiao; Zhang, Yu; Strohman, Trevor; Wu, Yonghui | [arXiv:2011.10798](https://arxiv.org/abs/2011.10798) - [DOI](https://doi.org/10.48550/arXiv.2011.10798) |
