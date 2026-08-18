@@ -4308,3 +4308,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenRCA 2.0: From Outcome Labels to Causal Process Supervision* | Aoyang Fang; Yifan Yang; Jin'ao Shang; Qisheng Lu; Junjielung Xu; Rui Wang; Songhan Zhang; Yuzhong Zhang; Boxi Yu; Pinjia He | [arXiv:2606.27154](https://arxiv.org/abs/2606.27154) - [DOI](https://doi.org/10.48550/arXiv.2606.27154) |
+
+
+## [DEP-E-20260819-Agree on the Model Verify](../DEP-E-20260819-Agree%20on%20the%20Model%20Verify/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`agree-on-the-model-verify.md`](../DEP-E-20260819-Agree%20on%20the%20Model%20Verify/agree-on-the-model-verify.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference* | Xiaolong Liang; Juanjuan Li; Rui Qin; Yisheng Lv | [arXiv:2607.21162](https://arxiv.org/abs/2607.21162) - [DOI](https://doi.org/10.48550/arXiv.2607.21162) |
