@@ -8918,3 +8918,12 @@ Review status: substantively re-reviewed from the complete canonical paper and m
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking* | Chhetri, Tek Raj; Chen, Yibei; Trivedi, Puja; Jarecka, Dorota; Haobsh, Saif; Ray, Patrick; Ng, Lydia; Ghosh, Satrajit S. | [arXiv:2507.03674](https://arxiv.org/abs/2507.03674) - [DOI](https://doi.org/10.48550/arXiv.2507.03674) |
+
+
+## [DEP-A-20260818-Exploratory Assimilating](../DEP-A-20260818-Exploratory%20Assimilating/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-18. The owning review artifact is [`2607.17879-whitepaper-review.md`](../DEP-A-20260818-Exploratory%20Assimilating/2607.17879-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory* | Ganesh Senrayan; Moyuru Yamada; Ishan Jindal; Kiran Purohit | [arXiv:2607.17879v1](https://arxiv.org/abs/2607.17879v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17879) |
