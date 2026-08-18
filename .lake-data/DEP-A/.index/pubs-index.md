@@ -10430,3 +10430,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Skill-Contracted Agents for Evidence-Aware Materials Literature Analysis* | Bixuan Li; Yu Liu; Shuo Shi; Xiaoya Huang; Peng Kang; Lei Zheng | [arXiv:2607.20431v1](https://arxiv.org/abs/2607.20431v1) - [DOI](https://doi.org/10.48550/arXiv.2607.20431) |
+
+
+## [DEP-A-20260819-PAST Bench Benchmarking F](../DEP-A-20260819-PAST%20Bench%20Benchmarking%20F/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.04003-whitepaper-review.md`](../DEP-A-20260819-PAST%20Bench%20Benchmarking%20F/2608.04003-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents* | Shuhan Xue; Zixin Ding; Yichen Shen; Yinjie Wang; Zhenfei Yin; Yingcheng Wu; Yuxin Chen; Mengdi Wang; Ling Yang | [arXiv:2608.04003v1](https://arxiv.org/abs/2608.04003v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04003) |
