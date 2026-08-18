@@ -10484,3 +10484,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MM-ShiftKV: Decode-Aware Prefill-Stage KV Selection for Multimodal Large Language Models* | Jinsong Shu; Chenyang Wu; Zhongle Xie; Baokun Wang; Lidan Shou | [arXiv:2607.22586v1](https://arxiv.org/abs/2607.22586v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22586) |
+
+
+## [DEP-A-20260819-Memory Large Language Mod](../DEP-A-20260819-Memory%20Large%20Language%20Mod/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.25380-whitepaper-review.md`](../DEP-A-20260819-Memory%20Large%20Language%20Mod/2607.25380-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory for Large Language Models* | Sining Zhoubian; Dan Zhang; Evgeny Kharlamov; Jie Tang | [arXiv:2607.25380v1](https://arxiv.org/abs/2607.25380v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25380) |
