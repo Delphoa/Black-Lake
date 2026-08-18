@@ -4524,3 +4524,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation* | Cedric Caruzzo; Donggeun Yoo; Tae Soo Kim | [arXiv:2607.09349](https://arxiv.org/abs/2607.09349) - [DOI](https://doi.org/10.48550/arXiv.2607.09349) |
+
+
+## [DEP-E-20260819-Hardware efficient](../DEP-E-20260819-Hardware%20efficient/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`hardware-efficient.md`](../DEP-E-20260819-Hardware%20efficient/hardware-efficient.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hardware-efficient erasure-error detection with an integer fluxonium* | Junyoung An et al. | [arXiv:2607.27123](https://arxiv.org/abs/2607.27123) - [DOI](https://doi.org/10.48550/arXiv.2607.27123) |
