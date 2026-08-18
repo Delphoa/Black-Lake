@@ -3975,3 +3975,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping* | Liu, Zihan; Ni, Wentao; Leng, Jingwen; Feng, Yu; Guo, Cong; Chen, Quan; Li, Chao; Guo, Minyi; Zhu, Yuhao | [arXiv:2312.01712](https://arxiv.org/abs/2312.01712) - [DOI](https://doi.org/10.48550/arXiv.2312.01712) |
+
+
+## [DEP-E-20260818-OpenClaw-Skill Collective](../DEP-E-20260818-OpenClaw-Skill%20Collective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models* | Lin, Tianyi; Sun, Chuanyu; Zhang, Jingyi; Wei, Changxu; Yao, Huanjin; Liu, Shunyu; Zhang, Xikun; Liu, Liu; Huang, Jiaxing | [arXiv:2606.16774](https://arxiv.org/abs/2606.16774) - [DOI](https://doi.org/10.48550/arXiv.2606.16774) |
