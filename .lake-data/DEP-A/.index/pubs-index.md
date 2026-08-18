@@ -9134,3 +9134,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory* | Jing Yu; Yibo Zhao; Jiaming Zhang; Xiang Li | [arXiv:2607.22690v2](https://arxiv.org/abs/2607.22690v2) - [DOI](https://doi.org/10.48550/arXiv.2607.22690) |
+
+
+## [DEP-A-20260819-CausalGate Causal Importa](../DEP-A-20260819-CausalGate%20Causal%20Importa/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.22720-whitepaper-review.md`](../DEP-A-20260819-CausalGate%20Causal%20Importa/2607.22720-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CausalGate: Causal Importance Distillation for Transformer Module Pruning* | Kiran Nair; Smriti Regmi; Rodrigue Rizk | [arXiv:2607.22720v1](https://arxiv.org/abs/2607.22720v1) - [DOI](https://doi.org/10.48550/arXiv.2607.22720) |
