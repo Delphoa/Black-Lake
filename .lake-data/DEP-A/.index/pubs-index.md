@@ -9323,3 +9323,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Much Dense Attention is Necessary? Oracle-Guided Sparse Prefill for Full/GQA Layers in Hybrid Long-Context Models* | Hongxing Wang; Harenome Razanajato; Zhen Zhang; Yujie Yuan; Hongsheng Liu | [arXiv:2606.07703v1](https://arxiv.org/abs/2606.07703v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07703) |
+
+
+## [DEP-A-20260819-PIVOT Efficient Query Gro](../DEP-A-20260819-PIVOT%20Efficient%20Query%20Gro/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.24593-whitepaper-review.md`](../DEP-A-20260819-PIVOT%20Efficient%20Query%20Gro/2607.24593-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention* | Hong Liu; Yuan Cheng; Lin Niu; Yi Su; Yufei Xue; Anmin Liu; Guanghua Yu; Jianchen Zhu | [arXiv:2607.24593v1](https://arxiv.org/abs/2607.24593v1) - [DOI](https://doi.org/10.48550/arXiv.2607.24593) |
