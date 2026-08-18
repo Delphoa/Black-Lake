@@ -9917,3 +9917,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV* | Zefeng Cai; Zerui Cai | [arXiv:2607.23693v1](https://arxiv.org/abs/2607.23693v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23693) |
+
+
+## [DEP-A-20260819-MINTEval Evaluating Memor](../DEP-A-20260819-MINTEval%20Evaluating%20Memor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.18565-whitepaper-review.md`](../DEP-A-20260819-MINTEval%20Evaluating%20Memor/2605.18565-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems* | Hyunji Lee; Justin Chih-Yao Chen; Joykirat Singh; Zaid Khan; Elias Stengel-Eskin; Mohit Bansal | [arXiv:2605.18565v2](https://arxiv.org/abs/2605.18565v2) - [DOI](https://doi.org/10.48550/arXiv.2605.18565) |
