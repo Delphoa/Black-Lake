@@ -10322,3 +10322,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling* | Yixiao Qian; Song Chen; Pengkai Wang; Jiaxu Liu; Shengze Cai; Chao Xu | [arXiv:2608.02032v1](https://arxiv.org/abs/2608.02032v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02032) |
+
+
+## [DEP-A-20260819-Understanding Sparse Atte](../DEP-A-20260819-Understanding%20Sparse%20Atte/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01676-whitepaper-review.md`](../DEP-A-20260819-Understanding%20Sparse%20Atte/2608.01676-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation* | Xingyu Ren; Youran Sun; Chugang Yi; Haizhao Yang | [arXiv:2608.01676v1](https://arxiv.org/abs/2608.01676v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01676) |
