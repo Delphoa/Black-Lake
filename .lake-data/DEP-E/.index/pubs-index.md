@@ -4290,3 +4290,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies* | Qiushi Lin; Chaojie Zhang; Íñigo Goiri; Aditya Akella; Ricardo Bianchini; Jovan Stojkovic | [arXiv:2608.02569](https://arxiv.org/abs/2608.02569) - [DOI](https://doi.org/10.48550/arXiv.2608.02569) |
+
+
+## [DEP-E-20260819-EvolveNet Collaborative](../DEP-E-20260819-EvolveNet%20Collaborative/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`evolvenet-collaborative.md`](../DEP-E-20260819-EvolveNet%20Collaborative/evolvenet-collaborative.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement* | Jun Nie; Yonggang Zhang; Qianshu Cai; Yiu-ming Cheung; Xinmei Tian; Bo Han | [arXiv:2608.04968](https://arxiv.org/abs/2608.04968) - [DOI](https://doi.org/10.48550/arXiv.2608.04968) |
