@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **821 publication reviews across 476 DEP-E entries**.
+- Current coverage: **822 publication reviews across 477 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4284,3 +4284,9 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *[1708.04681] Identifying Harm Events in Clinical Care through Medical Narratives* | Not available from inspected sources | [arXiv:1708.04681](https://arxiv.org/abs/1708.04681) |
+
+## [DEP-E-20260819-Arxiv 2505.19477](../DEP-E-20260819-Arxiv%202505.19477/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Judging with Many Minds: Do More Perspectives Mean Less Prejudice? On Bias Amplification and Resistance in Multi-Agent Based LLM-as-Judge* | Not available from inspected sources | [arXiv:2505.19477](https://arxiv.org/abs/2505.19477) |
