@@ -9521,3 +9521,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering* | Noor Islam S. Mohammad; Uluğ Bayazıt | [arXiv:2607.25422v1](https://arxiv.org/abs/2607.25422v1) - [DOI](https://doi.org/10.48550/arXiv.2607.25422) |
+
+
+## [DEP-A-20260819-Is Progressive Disclosure](../DEP-A-20260819-Is%20Progressive%20Disclosure/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.17598-whitepaper-review.md`](../DEP-A-20260819-Is%20Progressive%20Disclosure/2607.17598-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is Progressive Disclosure All You Need for Long-Context Agents?* | Yifeng He; Yinzhe Zhao; Jicheng Wang; Hao Chen | [arXiv:2607.17598v1](https://arxiv.org/abs/2607.17598v1) - [DOI](https://doi.org/10.48550/arXiv.2607.17598) |
