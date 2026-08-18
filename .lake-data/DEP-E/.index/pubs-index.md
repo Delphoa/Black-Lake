@@ -4218,3 +4218,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FOUND-AF: Benchmarking ECG Foundation Models for Atrial Fibrillation Detection* | Amirhossein Taleshinosrati; Yangyang Wang; Atitaya Phoemsuk; Vahid Abolghasemi; Naser Hossein Motlagh; Sadasivan Puthusserypady; Daniel Teichmann; Abdolrahman Peimankar | [arXiv:2608.03597](https://arxiv.org/abs/2608.03597) - [DOI](https://doi.org/10.48550/arXiv.2608.03597) |
+
+
+## [DEP-E-20260819-ABot AgentOS A General](../DEP-E-20260819-ABot%20AgentOS%20A%20General/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`abot-agentos-a-general.md`](../DEP-E-20260819-ABot%20AgentOS%20A%20General/abot-agentos-a-general.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory* | Jiayi Tian et al. | [arXiv:2607.10350](https://arxiv.org/abs/2607.10350) - [DOI](https://doi.org/10.48550/arXiv.2607.10350) |
