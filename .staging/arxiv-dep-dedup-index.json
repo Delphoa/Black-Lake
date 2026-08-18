@@ -4551,117 +4551,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory",
-        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-LOG.md",
-        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-PHASE-LOG.md",
-        ".reports/BL-Arxiv-MemShot-Dialogue-Memory-20260805/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory",
+        ".logs/20260805-Arxiv-AVGCN-Trajectory-Prediction-using-Graph-LOG.md",
+        ".reports/BL-Arxiv-AVGCN-Trajectory-Prediction-using-Graph-20260805/Report-Mark.md"
       ],
-      "arxiv_base_id": "2606.28338",
-      "arxiv_id": "2606.28338v1",
+      "arxiv_base_id": "2101.05682",
+      "arxiv_id": "2101.05682",
       "commit_or_pr": "",
       "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2606.28338",
-      "normalized_title": "Memory Shot for Long-Term Dialogue",
-      "notes": "Uniform draw index 48270 of 75957 parent-paper units; first draw accepted; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache became cached with PDF and HTML text; source files withheld locally; commit reference to be recorded after submission.",
-      "slug": "MemShot-Dialogue-Memory",
+      "doi": "10.48550/arXiv.2101.05682",
+      "normalized_title": "AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P06; draw 33223 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "AVGCN-Trajectory-Prediction-using-Graph",
       "source_urls": [
-        "https://arxiv.org/abs/2606.28338",
-        "https://arxiv.org/html/2606.28338",
-        "https://arxiv.org/pdf/2606.28338",
-        "https://doi.org/10.48550/arXiv.2606.28338",
-        "https://github.com/NEUIR/MemShot"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-Value-Guidance MeanFlow",
-        ".logs/20260805-Arxiv-Value-Guidance-MeanFlow-for-Offline-Multi-Agent-LOG.md",
-        ".reports/BL-Arxiv-Value-Guidance-MeanFlow-for-Offline-Multi-Agent-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2604.08174",
-      "arxiv_id": "2604.08174",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2604.08174",
-      "normalized_title": "Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P01; draw 35549 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Value-Guidance-MeanFlow-for-Offline-Multi-Agent",
-      "source_urls": [
-        "https://arxiv.org/abs/2604.08174",
-        "https://arxiv.org/html/2604.08174",
-        "https://arxiv.org/pdf/2604.08174",
-        "https://doi.org/10.48550/arXiv.2604.08174"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-Multi-scale Deep Neural",
-        ".logs/20260805-Arxiv-Multi-scale-Deep-Neural-Network-MscaleDNN-for-LOG.md",
-        ".reports/BL-Arxiv-Multi-scale-Deep-Neural-Network-MscaleDNN-for-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2007.11207",
-      "arxiv_id": "2007.11207",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.4208/cicp.OA-2020-0179",
-      "normalized_title": "Multi-scale Deep Neural Network (MscaleDNN) for Solving Poisson-Boltzmann Equation in Complex Domains",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P02; draw 6822 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Multi-scale-Deep-Neural-Network-MscaleDNN-for",
-      "source_urls": [
-        "https://arxiv.org/abs/2007.11207",
-        "https://arxiv.org/html/2007.11207",
-        "https://arxiv.org/pdf/2007.11207",
-        "https://doi.org/10.4208/cicp.OA-2020-0179"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-Light the Night A",
-        ".logs/20260805-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-LOG.md",
-        ".reports/BL-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2404.04804",
-      "arxiv_id": "2404.04804",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2404.04804",
-      "normalized_title": "Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P03; draw 64791 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Light-the-Night-A-Multi-Condition-Diffusion",
-      "source_urls": [
-        "https://arxiv.org/abs/2404.04804",
-        "https://arxiv.org/html/2404.04804",
-        "https://arxiv.org/pdf/2404.04804",
-        "https://doi.org/10.48550/arXiv.2404.04804"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative",
-        ".logs/20260805-Arxiv-UAV-Assisted-Cooperative-Edge-Inference-for-Low-LOG.md",
-        ".reports/BL-Arxiv-UAV-Assisted-Cooperative-Edge-Inference-for-Low-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2605.19290",
-      "arxiv_id": "2605.19290",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2605.19290",
-      "normalized_title": "UAV-Assisted Cooperative Edge Inference for Low-Altitude Economy via MoE-based Hierarchical Deep Reinforcement Learning",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P04; draw 20177 of 75957 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "UAV-Assisted-Cooperative-Edge-Inference-for-Low",
-      "source_urls": [
-        "https://arxiv.org/abs/2605.19290",
-        "https://arxiv.org/html/2605.19290",
-        "https://arxiv.org/pdf/2605.19290",
-        "https://doi.org/10.48550/arXiv.2605.19290"
+        "https://arxiv.org/abs/2101.05682",
+        "https://arxiv.org/html/2101.05682",
+        "https://arxiv.org/pdf/2101.05682",
+        "https://doi.org/10.48550/arXiv.2101.05682"
       ],
       "status": "deposited"
     },
@@ -4691,29 +4597,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory",
-        ".logs/20260805-Arxiv-AVGCN-Trajectory-Prediction-using-Graph-LOG.md",
-        ".reports/BL-Arxiv-AVGCN-Trajectory-Prediction-using-Graph-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2101.05682",
-      "arxiv_id": "2101.05682",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2101.05682",
-      "normalized_title": "AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P06; draw 33223 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "AVGCN-Trajectory-Prediction-using-Graph",
-      "source_urls": [
-        "https://arxiv.org/abs/2101.05682",
-        "https://arxiv.org/html/2101.05682",
-        "https://arxiv.org/pdf/2101.05682",
-        "https://doi.org/10.48550/arXiv.2101.05682"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260805-Deep Learning for",
         ".logs/20260805-Arxiv-Deep-Learning-for-Hyperspectral-Image-LOG.md",
         ".reports/BL-Arxiv-Deep-Learning-for-Hyperspectral-Image-20260805/Report-Mark.md"
@@ -4731,29 +4614,6 @@
         "https://arxiv.org/html/1910.12861",
         "https://arxiv.org/pdf/1910.12861",
         "https://doi.org/10.1109/TGRS.2019.2907932"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity",
-        ".logs/20260805-Arxiv-Heterogeneous-Similarity-Graph-Neural-Network-on-LOG.md",
-        ".reports/BL-Arxiv-Heterogeneous-Similarity-Graph-Neural-Network-on-20260805/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2101.06800",
-      "arxiv_id": "2101.06800",
-      "commit_or_pr": "",
-      "deposit_date": "20260805",
-      "doi": "10.48550/arXiv.2101.06800",
-      "normalized_title": "Heterogeneous Similarity Graph Neural Network on Electronic Health Records",
-      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P08; draw 48460 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Heterogeneous-Similarity-Graph-Neural-Network-on",
-      "source_urls": [
-        "https://arxiv.org/abs/2101.06800",
-        "https://arxiv.org/html/2101.06800",
-        "https://arxiv.org/pdf/2101.06800",
-        "https://doi.org/10.48550/arXiv.2101.06800"
       ],
       "status": "deposited"
     },
@@ -4783,6 +4643,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity",
+        ".logs/20260805-Arxiv-Heterogeneous-Similarity-Graph-Neural-Network-on-LOG.md",
+        ".reports/BL-Arxiv-Heterogeneous-Similarity-Graph-Neural-Network-on-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2101.06800",
+      "arxiv_id": "2101.06800",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2101.06800",
+      "normalized_title": "Heterogeneous Similarity Graph Neural Network on Electronic Health Records",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P08; draw 48460 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Heterogeneous-Similarity-Graph-Neural-Network-on",
+      "source_urls": [
+        "https://arxiv.org/abs/2101.06800",
+        "https://arxiv.org/html/2101.06800",
+        "https://arxiv.org/pdf/2101.06800",
+        "https://doi.org/10.48550/arXiv.2101.06800"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260805-LawLLM Law Large Language",
         ".logs/20260805-Arxiv-LawLLM-Law-Large-Language-Model-for-the-LOG.md",
         ".reports/BL-Arxiv-LawLLM-Law-Large-Language-Model-for-the-20260805/Report-Mark.md"
@@ -4800,6 +4683,123 @@
         "https://arxiv.org/html/2407.21065",
         "https://arxiv.org/pdf/2407.21065",
         "https://doi.org/10.1145/3627673.3680020"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Light the Night A",
+        ".logs/20260805-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-LOG.md",
+        ".reports/BL-Arxiv-Light-the-Night-A-Multi-Condition-Diffusion-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.04804",
+      "arxiv_id": "2404.04804",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2404.04804",
+      "normalized_title": "Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P03; draw 64791 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Light-the-Night-A-Multi-Condition-Diffusion",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.04804",
+        "https://arxiv.org/html/2404.04804",
+        "https://arxiv.org/pdf/2404.04804",
+        "https://doi.org/10.48550/arXiv.2404.04804"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory",
+        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-LOG.md",
+        ".logs/20260805-Arxiv-MemShot-Dialogue-Memory-PHASE-LOG.md",
+        ".reports/BL-Arxiv-MemShot-Dialogue-Memory-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.28338",
+      "arxiv_id": "2606.28338v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2606.28338",
+      "normalized_title": "Memory Shot for Long-Term Dialogue",
+      "notes": "Uniform draw index 48270 of 75957 parent-paper units; first draw accepted; initial partial source repaired to verified complete PDF and full-paper HTML; missing-only cache became cached with PDF and HTML text; source files withheld locally; commit reference to be recorded after submission.",
+      "slug": "MemShot-Dialogue-Memory",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.28338",
+        "https://arxiv.org/html/2606.28338",
+        "https://arxiv.org/pdf/2606.28338",
+        "https://doi.org/10.48550/arXiv.2606.28338",
+        "https://github.com/NEUIR/MemShot"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Multi-scale Deep Neural",
+        ".logs/20260805-Arxiv-Multi-scale-Deep-Neural-Network-MscaleDNN-for-LOG.md",
+        ".reports/BL-Arxiv-Multi-scale-Deep-Neural-Network-MscaleDNN-for-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2007.11207",
+      "arxiv_id": "2007.11207",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.4208/cicp.OA-2020-0179",
+      "normalized_title": "Multi-scale Deep Neural Network (MscaleDNN) for Solving Poisson-Boltzmann Equation in Complex Domains",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P02; draw 6822 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-scale-Deep-Neural-Network-MscaleDNN-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2007.11207",
+        "https://arxiv.org/html/2007.11207",
+        "https://arxiv.org/pdf/2007.11207",
+        "https://doi.org/10.4208/cicp.OA-2020-0179"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative",
+        ".logs/20260805-Arxiv-UAV-Assisted-Cooperative-Edge-Inference-for-Low-LOG.md",
+        ".reports/BL-Arxiv-UAV-Assisted-Cooperative-Edge-Inference-for-Low-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.19290",
+      "arxiv_id": "2605.19290",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2605.19290",
+      "normalized_title": "UAV-Assisted Cooperative Edge Inference for Low-Altitude Economy via MoE-based Hierarchical Deep Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P04; draw 20177 of 75957 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "UAV-Assisted-Cooperative-Edge-Inference-for-Low",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.19290",
+        "https://arxiv.org/html/2605.19290",
+        "https://arxiv.org/pdf/2605.19290",
+        "https://doi.org/10.48550/arXiv.2605.19290"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260805-Value-Guidance MeanFlow",
+        ".logs/20260805-Arxiv-Value-Guidance-MeanFlow-for-Offline-Multi-Agent-LOG.md",
+        ".reports/BL-Arxiv-Value-Guidance-MeanFlow-for-Offline-Multi-Agent-20260805/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.08174",
+      "arxiv_id": "2604.08174",
+      "commit_or_pr": "",
+      "deposit_date": "20260805",
+      "doi": "10.48550/arXiv.2604.08174",
+      "normalized_title": "Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260805-6C10E207 item BLAD-2200-20260805-6C10E207-P01; draw 35549 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Value-Guidance-MeanFlow-for-Offline-Multi-Agent",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.08174",
+        "https://arxiv.org/html/2604.08174",
+        "https://arxiv.org/pdf/2604.08174",
+        "https://doi.org/10.48550/arXiv.2604.08174"
       ],
       "status": "deposited"
     },
@@ -4832,115 +4832,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-FairTP A Prolonged",
-        ".logs/20260809-Arxiv-FairTP-A-Prolonged-Fairness-Framework-for-LOG.md",
-        ".reports/BL-Arxiv-FairTP-A-Prolonged-Fairness-Framework-for-20260809/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional",
+        ".logs/20260809-Arxiv-CDGraph-Dual-Conditional-Social-Graph-LOG.md",
+        ".reports/BL-Arxiv-CDGraph-Dual-Conditional-Social-Graph-20260809/Report-Mark.md"
       ],
-      "arxiv_base_id": "2412.16214",
-      "arxiv_id": "2412.16214",
+      "arxiv_base_id": "2311.01729",
+      "arxiv_id": "2311.01729",
       "commit_or_pr": "",
       "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2412.16214",
-      "normalized_title": "FairTP: A Prolonged Fairness Framework for Traffic Prediction",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P01; draw 52467 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "FairTP-A-Prolonged-Fairness-Framework-for",
+      "doi": "10.48550/arXiv.2311.01729",
+      "normalized_title": "CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P10; draw 33498 of 75957 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "CDGraph-Dual-Conditional-Social-Graph",
       "source_urls": [
-        "https://arxiv.org/abs/2412.16214",
-        "https://arxiv.org/html/2412.16214",
-        "https://arxiv.org/pdf/2412.16214",
-        "https://doi.org/10.48550/arXiv.2412.16214"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-Streaming",
-        ".logs/20260809-Arxiv-Streaming-Transformer-based-Acoustic-Models-LOG.md",
-        ".reports/BL-Arxiv-Streaming-Transformer-based-Acoustic-Models-20260809/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2005.08042",
-      "arxiv_id": "2005.08042",
-      "commit_or_pr": "",
-      "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2005.08042",
-      "normalized_title": "Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P02; draw 1144 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Streaming-Transformer-based-Acoustic-Models",
-      "source_urls": [
-        "https://arxiv.org/abs/2005.08042",
-        "https://arxiv.org/html/2005.08042",
-        "https://arxiv.org/pdf/2005.08042",
-        "https://doi.org/10.48550/arXiv.2005.08042"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM",
-        ".logs/20260809-Arxiv-NaLA-A-3D-Native-LLM-Layout-Agent-LOG.md",
-        ".reports/BL-Arxiv-NaLA-A-3D-Native-LLM-Layout-Agent-20260809/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2606.29395",
-      "arxiv_id": "2606.29395",
-      "commit_or_pr": "",
-      "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2606.29395",
-      "normalized_title": "NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P03; draw 45087 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "NaLA-A-3D-Native-LLM-Layout-Agent",
-      "source_urls": [
-        "https://arxiv.org/abs/2606.29395",
-        "https://arxiv.org/html/2606.29395",
-        "https://arxiv.org/pdf/2606.29395",
-        "https://doi.org/10.48550/arXiv.2606.29395"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with",
-        ".logs/20260809-Arxiv-Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal-LOG.md",
-        ".reports/BL-Arxiv-Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal-20260809/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2211.02404",
-      "arxiv_id": "2211.02404",
-      "commit_or_pr": "",
-      "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2211.02404",
-      "normalized_title": "Tensor Robust PCA with Nonconvex and Nonlocal Regularization",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P04; draw 5006 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal",
-      "source_urls": [
-        "https://arxiv.org/abs/2211.02404",
-        "https://arxiv.org/html/2211.02404",
-        "https://arxiv.org/pdf/2211.02404",
-        "https://doi.org/10.48550/arXiv.2211.02404"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace",
-        ".logs/20260809-Arxiv-ECHO-Prune-to-act-trace-to-learn-LOG.md",
-        ".reports/BL-Arxiv-ECHO-Prune-to-act-trace-to-learn-20260809/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2606.31650",
-      "arxiv_id": "2606.31650",
-      "commit_or_pr": "",
-      "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2606.31650",
-      "normalized_title": "ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P05; draw 47474 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "ECHO-Prune-to-act-trace-to-learn",
-      "source_urls": [
-        "https://arxiv.org/abs/2606.31650",
-        "https://arxiv.org/html/2606.31650",
-        "https://arxiv.org/pdf/2606.31650",
-        "https://doi.org/10.48550/arXiv.2606.31650"
+        "https://arxiv.org/abs/2311.01729",
+        "https://arxiv.org/html/2311.01729",
+        "https://arxiv.org/pdf/2311.01729",
+        "https://doi.org/10.48550/arXiv.2311.01729"
       ],
       "status": "deposited"
     },
@@ -4970,6 +4878,52 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace",
+        ".logs/20260809-Arxiv-ECHO-Prune-to-act-trace-to-learn-LOG.md",
+        ".reports/BL-Arxiv-ECHO-Prune-to-act-trace-to-learn-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.31650",
+      "arxiv_id": "2606.31650",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2606.31650",
+      "normalized_title": "ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P05; draw 47474 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ECHO-Prune-to-act-trace-to-learn",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.31650",
+        "https://arxiv.org/html/2606.31650",
+        "https://arxiv.org/pdf/2606.31650",
+        "https://doi.org/10.48550/arXiv.2606.31650"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-FairTP A Prolonged",
+        ".logs/20260809-Arxiv-FairTP-A-Prolonged-Fairness-Framework-for-LOG.md",
+        ".reports/BL-Arxiv-FairTP-A-Prolonged-Fairness-Framework-for-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.16214",
+      "arxiv_id": "2412.16214",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2412.16214",
+      "normalized_title": "FairTP: A Prolonged Fairness Framework for Traffic Prediction",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P01; draw 52467 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "FairTP-A-Prolonged-Fairness-Framework-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.16214",
+        "https://arxiv.org/html/2412.16214",
+        "https://arxiv.org/pdf/2412.16214",
+        "https://doi.org/10.48550/arXiv.2412.16214"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260809-From Similarity to",
         ".logs/20260809-Arxiv-From-Similarity-to-Vulnerability-Key-Collision-LOG.md",
         ".reports/BL-Arxiv-From-Similarity-to-Vulnerability-Key-Collision-20260809/Report-Mark.md"
@@ -4993,23 +4947,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of",
-        ".logs/20260809-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-LOG.md",
-        ".reports/BL-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-20260809/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM",
+        ".logs/20260809-Arxiv-NaLA-A-3D-Native-LLM-Layout-Agent-LOG.md",
+        ".reports/BL-Arxiv-NaLA-A-3D-Native-LLM-Layout-Agent-20260809/Report-Mark.md"
       ],
-      "arxiv_base_id": "2509.26542",
-      "arxiv_id": "2509.26542",
+      "arxiv_base_id": "2606.29395",
+      "arxiv_id": "2606.29395",
       "commit_or_pr": "",
       "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2509.26542",
-      "normalized_title": "Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P08; draw 59691 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Voice-Evaluation-of-Reasoning-Ability-Diagnosing",
+      "doi": "10.48550/arXiv.2606.29395",
+      "normalized_title": "NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P03; draw 45087 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "NaLA-A-3D-Native-LLM-Layout-Agent",
       "source_urls": [
-        "https://arxiv.org/abs/2509.26542",
-        "https://arxiv.org/html/2509.26542",
-        "https://arxiv.org/pdf/2509.26542",
-        "https://doi.org/10.48550/arXiv.2509.26542"
+        "https://arxiv.org/abs/2606.29395",
+        "https://arxiv.org/html/2606.29395",
+        "https://arxiv.org/pdf/2606.29395",
+        "https://doi.org/10.48550/arXiv.2606.29395"
       ],
       "status": "deposited"
     },
@@ -5039,23 +4993,69 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional",
-        ".logs/20260809-Arxiv-CDGraph-Dual-Conditional-Social-Graph-LOG.md",
-        ".reports/BL-Arxiv-CDGraph-Dual-Conditional-Social-Graph-20260809/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260809-Streaming",
+        ".logs/20260809-Arxiv-Streaming-Transformer-based-Acoustic-Models-LOG.md",
+        ".reports/BL-Arxiv-Streaming-Transformer-based-Acoustic-Models-20260809/Report-Mark.md"
       ],
-      "arxiv_base_id": "2311.01729",
-      "arxiv_id": "2311.01729",
+      "arxiv_base_id": "2005.08042",
+      "arxiv_id": "2005.08042",
       "commit_or_pr": "",
       "deposit_date": "20260809",
-      "doi": "10.48550/arXiv.2311.01729",
-      "normalized_title": "CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model",
-      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P10; draw 33498 of 75957 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "CDGraph-Dual-Conditional-Social-Graph",
+      "doi": "10.48550/arXiv.2005.08042",
+      "normalized_title": "Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P02; draw 1144 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Streaming-Transformer-based-Acoustic-Models",
       "source_urls": [
-        "https://arxiv.org/abs/2311.01729",
-        "https://arxiv.org/html/2311.01729",
-        "https://arxiv.org/pdf/2311.01729",
-        "https://doi.org/10.48550/arXiv.2311.01729"
+        "https://arxiv.org/abs/2005.08042",
+        "https://arxiv.org/html/2005.08042",
+        "https://arxiv.org/pdf/2005.08042",
+        "https://doi.org/10.48550/arXiv.2005.08042"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with",
+        ".logs/20260809-Arxiv-Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal-LOG.md",
+        ".reports/BL-Arxiv-Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2211.02404",
+      "arxiv_id": "2211.02404",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2211.02404",
+      "normalized_title": "Tensor Robust PCA with Nonconvex and Nonlocal Regularization",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P04; draw 5006 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Tensor-Robust-PCA-with-Nonconvex-and-Nonlocal",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.02404",
+        "https://arxiv.org/html/2211.02404",
+        "https://arxiv.org/pdf/2211.02404",
+        "https://doi.org/10.48550/arXiv.2211.02404"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of",
+        ".logs/20260809-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-LOG.md",
+        ".reports/BL-Arxiv-Voice-Evaluation-of-Reasoning-Ability-Diagnosing-20260809/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.26542",
+      "arxiv_id": "2509.26542",
+      "commit_or_pr": "",
+      "deposit_date": "20260809",
+      "doi": "10.48550/arXiv.2509.26542",
+      "normalized_title": "Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced Performance Gap",
+      "notes": "Job BLAD-2200-20260809-2E4CB30E item BLAD-2200-20260809-2E4CB30E-P08; draw 59691 of 75957 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Voice-Evaluation-of-Reasoning-Ability-Diagnosing",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.26542",
+        "https://arxiv.org/html/2509.26542",
+        "https://arxiv.org/pdf/2509.26542",
+        "https://doi.org/10.48550/arXiv.2509.26542"
       ],
       "status": "deposited"
     },
@@ -5085,29 +5085,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260810-Prompt Tuning for",
-        ".logs/20260810-Arxiv-Prompt-Tuning-for-Discriminative-Pre-trained-LOG.md",
-        ".reports/BL-Arxiv-Prompt-Tuning-for-Discriminative-Pre-trained-20260810/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2205.11166",
-      "arxiv_id": "2205.11166",
-      "commit_or_pr": "",
-      "deposit_date": "20260810",
-      "doi": "10.48550/arXiv.2205.11166",
-      "normalized_title": "Prompt Tuning for Discriminative Pre-trained Language Models",
-      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P02; draw 32491 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Prompt-Tuning-for-Discriminative-Pre-trained",
-      "source_urls": [
-        "https://arxiv.org/abs/2205.11166",
-        "https://arxiv.org/html/2205.11166",
-        "https://arxiv.org/pdf/2205.11166",
-        "https://doi.org/10.48550/arXiv.2205.11166"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated",
         ".logs/20260810-Arxiv-DexMimicGen-Automated-Data-Generation-for-LOG.md",
         ".reports/BL-Arxiv-DexMimicGen-Automated-Data-Generation-for-20260810/Report-Mark.md"
@@ -5125,29 +5102,6 @@
         "https://arxiv.org/html/2410.24185",
         "https://arxiv.org/pdf/2410.24185",
         "https://doi.org/10.48550/arXiv.2410.24185"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260810-VITATECS A Diagnostic",
-        ".logs/20260810-Arxiv-VITATECS-A-Diagnostic-Dataset-for-Temporal-LOG.md",
-        ".reports/BL-Arxiv-VITATECS-A-Diagnostic-Dataset-for-Temporal-20260810/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2311.17404",
-      "arxiv_id": "2311.17404",
-      "commit_or_pr": "",
-      "deposit_date": "20260810",
-      "doi": "10.48550/arXiv.2311.17404",
-      "normalized_title": "VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models",
-      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P04; draw 42791 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "VITATECS-A-Diagnostic-Dataset-for-Temporal",
-      "source_urls": [
-        "https://arxiv.org/abs/2311.17404",
-        "https://arxiv.org/html/2311.17404",
-        "https://arxiv.org/pdf/2311.17404",
-        "https://doi.org/10.48550/arXiv.2311.17404"
       ],
       "status": "deposited"
     },
@@ -5177,29 +5131,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260810-Knowledge Distilled",
-        ".logs/20260810-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-LOG.md",
-        ".reports/BL-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-20260810/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2308.06533",
-      "arxiv_id": "2308.06533",
-      "commit_or_pr": "",
-      "deposit_date": "20260810",
-      "doi": "10.48550/arXiv.2308.06533",
-      "normalized_title": "Knowledge Distilled Ensemble Model for sEMG-based Silent Speech Interface",
-      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P06; draw 13095 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Knowledge-Distilled-Ensemble-Model-for-sEMG",
-      "source_urls": [
-        "https://arxiv.org/abs/2308.06533",
-        "https://arxiv.org/html/2308.06533",
-        "https://arxiv.org/pdf/2308.06533",
-        "https://doi.org/10.48550/arXiv.2308.06533"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260810-Free Energy Surface",
         ".logs/20260810-Arxiv-Free-Energy-Surface-Sampling-via-Reduced-Flow-LOG.md",
         ".reports/BL-Arxiv-Free-Energy-Surface-Sampling-via-Reduced-Flow-20260810/Report-Mark.md"
@@ -5223,46 +5154,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating",
-        ".logs/20260810-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-LOG.md",
-        ".reports/BL-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-20260810/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260810-Knowledge Distilled",
+        ".logs/20260810-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-LOG.md",
+        ".reports/BL-Arxiv-Knowledge-Distilled-Ensemble-Model-for-sEMG-20260810/Report-Mark.md"
       ],
-      "arxiv_base_id": "2606.07157",
-      "arxiv_id": "2606.07157",
+      "arxiv_base_id": "2308.06533",
+      "arxiv_id": "2308.06533",
       "commit_or_pr": "",
       "deposit_date": "20260810",
-      "doi": "10.48550/arXiv.2606.07157",
-      "normalized_title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
-      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P08; draw 17094 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Think-Fast-Estimating-No-CoT-Task-Completion",
+      "doi": "10.48550/arXiv.2308.06533",
+      "normalized_title": "Knowledge Distilled Ensemble Model for sEMG-based Silent Speech Interface",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P06; draw 13095 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Knowledge-Distilled-Ensemble-Model-for-sEMG",
       "source_urls": [
-        "https://arxiv.org/abs/2606.07157",
-        "https://arxiv.org/html/2606.07157",
-        "https://arxiv.org/pdf/2606.07157",
-        "https://doi.org/10.48550/arXiv.2606.07157"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL",
-        ".logs/20260810-Arxiv-Solver-Informed-RL-Grounding-Large-Language-LOG.md",
-        ".reports/BL-Arxiv-Solver-Informed-RL-Grounding-Large-Language-20260810/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2505.11792",
-      "arxiv_id": "2505.11792",
-      "commit_or_pr": "",
-      "deposit_date": "20260810",
-      "doi": "10.48550/arXiv.2505.11792",
-      "normalized_title": "Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling",
-      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P09; draw 25702 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Solver-Informed-RL-Grounding-Large-Language",
-      "source_urls": [
-        "https://arxiv.org/abs/2505.11792",
-        "https://arxiv.org/html/2505.11792",
-        "https://arxiv.org/pdf/2505.11792",
-        "https://doi.org/10.48550/arXiv.2505.11792"
+        "https://arxiv.org/abs/2308.06533",
+        "https://arxiv.org/html/2308.06533",
+        "https://arxiv.org/pdf/2308.06533",
+        "https://doi.org/10.48550/arXiv.2308.06533"
       ],
       "status": "deposited"
     },
@@ -5292,23 +5200,115 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-MTAVG-Bench 2 0",
-        ".logs/20260811-Arxiv-MTAVG-Bench-2-0-Diagnosing-Failure-Modes-LOG.md",
-        ".reports/BL-Arxiv-MTAVG-Bench-2-0-Diagnosing-Failure-Modes-20260811/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260810-Prompt Tuning for",
+        ".logs/20260810-Arxiv-Prompt-Tuning-for-Discriminative-Pre-trained-LOG.md",
+        ".reports/BL-Arxiv-Prompt-Tuning-for-Discriminative-Pre-trained-20260810/Report-Mark.md"
       ],
-      "arxiv_base_id": "2605.28035",
-      "arxiv_id": "2605.28035",
+      "arxiv_base_id": "2205.11166",
+      "arxiv_id": "2205.11166",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2205.11166",
+      "normalized_title": "Prompt Tuning for Discriminative Pre-trained Language Models",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P02; draw 32491 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Prompt-Tuning-for-Discriminative-Pre-trained",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.11166",
+        "https://arxiv.org/html/2205.11166",
+        "https://arxiv.org/pdf/2205.11166",
+        "https://doi.org/10.48550/arXiv.2205.11166"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL",
+        ".logs/20260810-Arxiv-Solver-Informed-RL-Grounding-Large-Language-LOG.md",
+        ".reports/BL-Arxiv-Solver-Informed-RL-Grounding-Large-Language-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.11792",
+      "arxiv_id": "2505.11792",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2505.11792",
+      "normalized_title": "Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P09; draw 25702 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Solver-Informed-RL-Grounding-Large-Language",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.11792",
+        "https://arxiv.org/html/2505.11792",
+        "https://arxiv.org/pdf/2505.11792",
+        "https://doi.org/10.48550/arXiv.2505.11792"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating",
+        ".logs/20260810-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-LOG.md",
+        ".reports/BL-Arxiv-Think-Fast-Estimating-No-CoT-Task-Completion-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.07157",
+      "arxiv_id": "2606.07157",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2606.07157",
+      "normalized_title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P08; draw 17094 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Think-Fast-Estimating-No-CoT-Task-Completion",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.07157",
+        "https://arxiv.org/html/2606.07157",
+        "https://arxiv.org/pdf/2606.07157",
+        "https://doi.org/10.48550/arXiv.2606.07157"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260810-VITATECS A Diagnostic",
+        ".logs/20260810-Arxiv-VITATECS-A-Diagnostic-Dataset-for-Temporal-LOG.md",
+        ".reports/BL-Arxiv-VITATECS-A-Diagnostic-Dataset-for-Temporal-20260810/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2311.17404",
+      "arxiv_id": "2311.17404",
+      "commit_or_pr": "",
+      "deposit_date": "20260810",
+      "doi": "10.48550/arXiv.2311.17404",
+      "normalized_title": "VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models",
+      "notes": "Job BLAD-2200-20260810-B3B6846E item BLAD-2200-20260810-B3B6846E-P04; draw 42791 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "VITATECS-A-Diagnostic-Dataset-for-Temporal",
+      "source_urls": [
+        "https://arxiv.org/abs/2311.17404",
+        "https://arxiv.org/html/2311.17404",
+        "https://arxiv.org/pdf/2311.17404",
+        "https://doi.org/10.48550/arXiv.2311.17404"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-A novel metric for",
+        ".logs/20260811-Arxiv-A-novel-metric-for-community-detection-LOG.md",
+        ".reports/BL-Arxiv-A-novel-metric-for-community-detection-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.12467",
+      "arxiv_id": "1909.12467",
       "commit_or_pr": "",
       "deposit_date": "20260811",
-      "doi": "10.48550/arXiv.2605.28035",
-      "normalized_title": "MTAVG-Bench 2.0: Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P01; draw 35520 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "MTAVG-Bench-2-0-Diagnosing-Failure-Modes",
+      "doi": "10.1209/0295-5075/129/68002",
+      "normalized_title": "A novel metric for community detection",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P09; draw 7607 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-novel-metric-for-community-detection",
       "source_urls": [
-        "https://arxiv.org/abs/2605.28035",
-        "https://arxiv.org/html/2605.28035",
-        "https://arxiv.org/pdf/2605.28035",
-        "https://doi.org/10.48550/arXiv.2605.28035"
+        "https://arxiv.org/abs/1909.12467",
+        "https://arxiv.org/html/1909.12467",
+        "https://arxiv.org/pdf/1909.12467",
+        "https://doi.org/10.1209/0295-5075/129/68002"
       ],
       "status": "deposited"
     },
@@ -5338,23 +5338,69 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-PA-RNet",
-        ".logs/20260811-Arxiv-PA-RNet-Perturbation-Aware-Residual-Network-for-LOG.md",
-        ".reports/BL-Arxiv-PA-RNet-Perturbation-Aware-Residual-Network-for-20260811/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260811-Constrained Deep Metric",
+        ".logs/20260811-Arxiv-Constrained-Deep-Metric-Learning-for-Person-Re-LOG.md",
+        ".reports/BL-Arxiv-Constrained-Deep-Metric-Learning-for-Person-Re-20260811/Report-Mark.md"
       ],
-      "arxiv_base_id": "2508.04750",
-      "arxiv_id": "2508.04750",
+      "arxiv_base_id": "1511.07545",
+      "arxiv_id": "1511.07545",
       "commit_or_pr": "",
       "deposit_date": "20260811",
-      "doi": "10.48550/arXiv.2508.04750",
-      "normalized_title": "PA-RNet: Perturbation-Aware Residual Network for Robust Multimodal Time Series Forecasting",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P03; draw 64903 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "PA-RNet-Perturbation-Aware-Residual-Network-for",
+      "doi": "10.48550/arXiv.1511.07545",
+      "normalized_title": "Constrained Deep Metric Learning for Person Re-identification",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P10; draw 16692 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Constrained-Deep-Metric-Learning-for-Person-Re",
       "source_urls": [
-        "https://arxiv.org/abs/2508.04750",
-        "https://arxiv.org/html/2508.04750",
-        "https://arxiv.org/pdf/2508.04750",
-        "https://doi.org/10.48550/arXiv.2508.04750"
+        "https://arxiv.org/abs/1511.07545",
+        "https://arxiv.org/html/1511.07545",
+        "https://arxiv.org/pdf/1511.07545",
+        "https://doi.org/10.48550/arXiv.1511.07545"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-Graph-based data",
+        ".logs/20260811-Arxiv-Graph-based-data-clustering-via-multiscale-LOG.md",
+        ".reports/BL-Arxiv-Graph-based-data-clustering-via-multiscale-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.04491",
+      "arxiv_id": "1909.04491",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.1007/s41109-019-0248-7",
+      "normalized_title": "Graph-based data clustering via multiscale community detection",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P08; draw 21826 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Graph-based-data-clustering-via-multiscale",
+      "source_urls": [
+        "https://arxiv.org/abs/1909.04491",
+        "https://arxiv.org/html/1909.04491",
+        "https://arxiv.org/pdf/1909.04491",
+        "https://doi.org/10.1007/s41109-019-0248-7"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-MTAVG-Bench 2 0",
+        ".logs/20260811-Arxiv-MTAVG-Bench-2-0-Diagnosing-Failure-Modes-LOG.md",
+        ".reports/BL-Arxiv-MTAVG-Bench-2-0-Diagnosing-Failure-Modes-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.28035",
+      "arxiv_id": "2605.28035",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.48550/arXiv.2605.28035",
+      "normalized_title": "MTAVG-Bench 2.0: Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P01; draw 35520 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "MTAVG-Bench-2-0-Diagnosing-Failure-Modes",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.28035",
+        "https://arxiv.org/html/2605.28035",
+        "https://arxiv.org/pdf/2605.28035",
+        "https://doi.org/10.48550/arXiv.2605.28035"
       ],
       "status": "deposited"
     },
@@ -5378,6 +5424,52 @@
         "https://arxiv.org/html/2512.19075",
         "https://arxiv.org/pdf/2512.19075",
         "https://doi.org/10.48550/arXiv.2512.19075"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-PA-RNet",
+        ".logs/20260811-Arxiv-PA-RNet-Perturbation-Aware-Residual-Network-for-LOG.md",
+        ".reports/BL-Arxiv-PA-RNet-Perturbation-Aware-Residual-Network-for-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.04750",
+      "arxiv_id": "2508.04750",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.48550/arXiv.2508.04750",
+      "normalized_title": "PA-RNet: Perturbation-Aware Residual Network for Robust Multimodal Time Series Forecasting",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P03; draw 64903 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "PA-RNet-Perturbation-Aware-Residual-Network-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.04750",
+        "https://arxiv.org/html/2508.04750",
+        "https://arxiv.org/pdf/2508.04750",
+        "https://doi.org/10.48550/arXiv.2508.04750"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260811-Parameterizing Context",
+        ".logs/20260811-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-LOG.md",
+        ".reports/BL-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-20260811/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.04801",
+      "arxiv_id": "2310.04801",
+      "commit_or_pr": "",
+      "deposit_date": "20260811",
+      "doi": "10.48550/arXiv.2310.04801",
+      "normalized_title": "Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing",
+      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P07; draw 54111 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Parameterizing-Context-Unleashing-the-Power-of",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.04801",
+        "https://arxiv.org/html/2310.04801",
+        "https://arxiv.org/pdf/2310.04801",
+        "https://doi.org/10.48550/arXiv.2310.04801"
       ],
       "status": "deposited"
     },
@@ -5430,92 +5522,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-Parameterizing Context",
-        ".logs/20260811-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-LOG.md",
-        ".reports/BL-Arxiv-Parameterizing-Context-Unleashing-the-Power-of-20260811/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image",
+        ".logs/20260812-Arxiv-CMamba-Learned-Image-Compression-with-State-LOG.md",
+        ".reports/BL-Arxiv-CMamba-Learned-Image-Compression-with-State-20260812/Report-Mark.md"
       ],
-      "arxiv_base_id": "2310.04801",
-      "arxiv_id": "2310.04801",
+      "arxiv_base_id": "2502.04988",
+      "arxiv_id": "2502.04988",
       "commit_or_pr": "",
-      "deposit_date": "20260811",
-      "doi": "10.48550/arXiv.2310.04801",
-      "normalized_title": "Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P07; draw 54111 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Parameterizing-Context-Unleashing-the-Power-of",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2502.04988",
+      "normalized_title": "CMamba: Learned Image Compression with State Space Models",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P08; draw 10701 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "CMamba-Learned-Image-Compression-with-State",
       "source_urls": [
-        "https://arxiv.org/abs/2310.04801",
-        "https://arxiv.org/html/2310.04801",
-        "https://arxiv.org/pdf/2310.04801",
-        "https://doi.org/10.48550/arXiv.2310.04801"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-Graph-based data",
-        ".logs/20260811-Arxiv-Graph-based-data-clustering-via-multiscale-LOG.md",
-        ".reports/BL-Arxiv-Graph-based-data-clustering-via-multiscale-20260811/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1909.04491",
-      "arxiv_id": "1909.04491",
-      "commit_or_pr": "",
-      "deposit_date": "20260811",
-      "doi": "10.1007/s41109-019-0248-7",
-      "normalized_title": "Graph-based data clustering via multiscale community detection",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P08; draw 21826 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Graph-based-data-clustering-via-multiscale",
-      "source_urls": [
-        "https://arxiv.org/abs/1909.04491",
-        "https://arxiv.org/html/1909.04491",
-        "https://arxiv.org/pdf/1909.04491",
-        "https://doi.org/10.1007/s41109-019-0248-7"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-A novel metric for",
-        ".logs/20260811-Arxiv-A-novel-metric-for-community-detection-LOG.md",
-        ".reports/BL-Arxiv-A-novel-metric-for-community-detection-20260811/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1909.12467",
-      "arxiv_id": "1909.12467",
-      "commit_or_pr": "",
-      "deposit_date": "20260811",
-      "doi": "10.1209/0295-5075/129/68002",
-      "normalized_title": "A novel metric for community detection",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P09; draw 7607 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-novel-metric-for-community-detection",
-      "source_urls": [
-        "https://arxiv.org/abs/1909.12467",
-        "https://arxiv.org/html/1909.12467",
-        "https://arxiv.org/pdf/1909.12467",
-        "https://doi.org/10.1209/0295-5075/129/68002"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260811-Constrained Deep Metric",
-        ".logs/20260811-Arxiv-Constrained-Deep-Metric-Learning-for-Person-Re-LOG.md",
-        ".reports/BL-Arxiv-Constrained-Deep-Metric-Learning-for-Person-Re-20260811/Report-Mark.md"
-      ],
-      "arxiv_base_id": "1511.07545",
-      "arxiv_id": "1511.07545",
-      "commit_or_pr": "",
-      "deposit_date": "20260811",
-      "doi": "10.48550/arXiv.1511.07545",
-      "normalized_title": "Constrained Deep Metric Learning for Person Re-identification",
-      "notes": "Job BLAD-2200-20260811-BB3E2A1B item BLAD-2200-20260811-BB3E2A1B-P10; draw 16692 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Constrained-Deep-Metric-Learning-for-Person-Re",
-      "source_urls": [
-        "https://arxiv.org/abs/1511.07545",
-        "https://arxiv.org/html/1511.07545",
-        "https://arxiv.org/pdf/1511.07545",
-        "https://doi.org/10.48550/arXiv.1511.07545"
+        "https://arxiv.org/abs/2502.04988",
+        "https://arxiv.org/html/2502.04988",
+        "https://arxiv.org/pdf/2502.04988",
+        "https://doi.org/10.48550/arXiv.2502.04988"
       ],
       "status": "deposited"
     },
@@ -5568,46 +5591,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260812-Open Set Relation",
-        ".logs/20260812-Arxiv-Open-Set-Relation-Extraction-via-Unknown-Aware-LOG.md",
-        ".reports/BL-Arxiv-Open-Set-Relation-Extraction-via-Unknown-Aware-20260812/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260812-Integrating Genomics into",
+        ".logs/20260812-Arxiv-Integrating-Genomics-into-Multimodal-EHR-LOG.md",
+        ".reports/BL-Arxiv-Integrating-Genomics-into-Multimodal-EHR-20260812/Report-Mark.md"
       ],
-      "arxiv_base_id": "2306.04950",
-      "arxiv_id": "2306.04950",
+      "arxiv_base_id": "2510.23639",
+      "arxiv_id": "2510.23639",
       "commit_or_pr": "",
       "deposit_date": "20260812",
-      "doi": "10.48550/arXiv.2306.04950",
-      "normalized_title": "Open Set Relation Extraction via Unknown-Aware Training",
-      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P03; draw 59824 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Open-Set-Relation-Extraction-via-Unknown-Aware",
+      "doi": "10.48550/arXiv.2510.23639",
+      "normalized_title": "Integrating Genomics into Multimodal EHR Foundation Models",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P06; draw 57544 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Integrating-Genomics-into-Multimodal-EHR",
       "source_urls": [
-        "https://arxiv.org/abs/2306.04950",
-        "https://arxiv.org/html/2306.04950",
-        "https://arxiv.org/pdf/2306.04950",
-        "https://doi.org/10.48550/arXiv.2306.04950"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation",
-        ".logs/20260812-Arxiv-Unsupervised-Adaptation-from-FDG-to-PSMA-PET-LOG.md",
-        ".reports/BL-Arxiv-Unsupervised-Adaptation-from-FDG-to-PSMA-PET-20260812/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2603.13666",
-      "arxiv_id": "2603.13666",
-      "commit_or_pr": "",
-      "deposit_date": "20260812",
-      "doi": "10.48550/arXiv.2603.13666",
-      "normalized_title": "Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift",
-      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P04; draw 59515 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Unsupervised-Adaptation-from-FDG-to-PSMA-PET",
-      "source_urls": [
-        "https://arxiv.org/abs/2603.13666",
-        "https://arxiv.org/html/2603.13666",
-        "https://arxiv.org/pdf/2603.13666",
-        "https://doi.org/10.48550/arXiv.2603.13666"
+        "https://arxiv.org/abs/2510.23639",
+        "https://arxiv.org/html/2510.23639",
+        "https://arxiv.org/pdf/2510.23639",
+        "https://doi.org/10.48550/arXiv.2510.23639"
       ],
       "status": "deposited"
     },
@@ -5637,23 +5637,46 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260812-Integrating Genomics into",
-        ".logs/20260812-Arxiv-Integrating-Genomics-into-Multimodal-EHR-LOG.md",
-        ".reports/BL-Arxiv-Integrating-Genomics-into-Multimodal-EHR-20260812/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as",
+        ".logs/20260812-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-LOG.md",
+        ".reports/BL-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-20260812/Report-Mark.md"
       ],
-      "arxiv_base_id": "2510.23639",
-      "arxiv_id": "2510.23639",
+      "arxiv_base_id": "2502.12678",
+      "arxiv_id": "2502.12678",
       "commit_or_pr": "",
       "deposit_date": "20260812",
-      "doi": "10.48550/arXiv.2510.23639",
-      "normalized_title": "Integrating Genomics into Multimodal EHR Foundation Models",
-      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P06; draw 57544 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Integrating-Genomics-into-Multimodal-EHR",
+      "doi": "10.48550/arXiv.2502.12678",
+      "normalized_title": "Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P09; draw 44907 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-Step-Alignment-as-Markov-Games-An",
       "source_urls": [
-        "https://arxiv.org/abs/2510.23639",
-        "https://arxiv.org/html/2510.23639",
-        "https://arxiv.org/pdf/2510.23639",
-        "https://doi.org/10.48550/arXiv.2510.23639"
+        "https://arxiv.org/abs/2502.12678",
+        "https://arxiv.org/html/2502.12678",
+        "https://arxiv.org/pdf/2502.12678",
+        "https://doi.org/10.48550/arXiv.2502.12678"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260812-Open Set Relation",
+        ".logs/20260812-Arxiv-Open-Set-Relation-Extraction-via-Unknown-Aware-LOG.md",
+        ".reports/BL-Arxiv-Open-Set-Relation-Extraction-via-Unknown-Aware-20260812/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.04950",
+      "arxiv_id": "2306.04950",
+      "commit_or_pr": "",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2306.04950",
+      "normalized_title": "Open Set Relation Extraction via Unknown-Aware Training",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P03; draw 59824 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Open-Set-Relation-Extraction-via-Unknown-Aware",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.04950",
+        "https://arxiv.org/html/2306.04950",
+        "https://arxiv.org/pdf/2306.04950",
+        "https://doi.org/10.48550/arXiv.2306.04950"
       ],
       "status": "deposited"
     },
@@ -5683,52 +5706,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image",
-        ".logs/20260812-Arxiv-CMamba-Learned-Image-Compression-with-State-LOG.md",
-        ".reports/BL-Arxiv-CMamba-Learned-Image-Compression-with-State-20260812/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.04988",
-      "arxiv_id": "2502.04988",
-      "commit_or_pr": "",
-      "deposit_date": "20260812",
-      "doi": "10.48550/arXiv.2502.04988",
-      "normalized_title": "CMamba: Learned Image Compression with State Space Models",
-      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P08; draw 10701 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "CMamba-Learned-Image-Compression-with-State",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.04988",
-        "https://arxiv.org/html/2502.04988",
-        "https://arxiv.org/pdf/2502.04988",
-        "https://doi.org/10.48550/arXiv.2502.04988"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as",
-        ".logs/20260812-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-LOG.md",
-        ".reports/BL-Arxiv-Multi-Step-Alignment-as-Markov-Games-An-20260812/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.12678",
-      "arxiv_id": "2502.12678",
-      "commit_or_pr": "",
-      "deposit_date": "20260812",
-      "doi": "10.48550/arXiv.2502.12678",
-      "normalized_title": "Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees",
-      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P09; draw 44907 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Multi-Step-Alignment-as-Markov-Games-An",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.12678",
-        "https://arxiv.org/html/2502.12678",
-        "https://arxiv.org/pdf/2502.12678",
-        "https://doi.org/10.48550/arXiv.2502.12678"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260812-Self-Supervised",
         ".logs/20260812-Arxiv-Self-Supervised-Pre-training-Tasks-for-an-LOG.md",
         ".reports/BL-Arxiv-Self-Supervised-Pre-training-Tasks-for-an-20260812/Report-Mark.md"
@@ -5752,69 +5729,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic",
-        ".logs/20260813-Arxiv-Controllable-Dynamic-Appearance-for-Neural-3D-LOG.md",
-        ".reports/BL-Arxiv-Controllable-Dynamic-Appearance-for-Neural-3D-20260813/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation",
+        ".logs/20260812-Arxiv-Unsupervised-Adaptation-from-FDG-to-PSMA-PET-LOG.md",
+        ".reports/BL-Arxiv-Unsupervised-Adaptation-from-FDG-to-PSMA-PET-20260812/Report-Mark.md"
       ],
-      "arxiv_base_id": "2309.11009",
-      "arxiv_id": "2309.11009",
+      "arxiv_base_id": "2603.13666",
+      "arxiv_id": "2603.13666",
       "commit_or_pr": "",
-      "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2309.11009",
-      "normalized_title": "Controllable Dynamic Appearance for Neural 3D Portraits",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P01; draw 36584 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Controllable-Dynamic-Appearance-for-Neural-3D",
+      "deposit_date": "20260812",
+      "doi": "10.48550/arXiv.2603.13666",
+      "normalized_title": "Unsupervised Adaptation from FDG to PSMA PET/CT for 3D Lesion Detection under Label Shift",
+      "notes": "Job BLAD-2200-20260812-9483C5E4 item BLAD-2200-20260812-9483C5E4-P04; draw 59515 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Unsupervised-Adaptation-from-FDG-to-PSMA-PET",
       "source_urls": [
-        "https://arxiv.org/abs/2309.11009",
-        "https://arxiv.org/html/2309.11009",
-        "https://arxiv.org/pdf/2309.11009",
-        "https://doi.org/10.48550/arXiv.2309.11009"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-A Unified",
-        ".logs/20260813-Arxiv-A-Unified-Contrastive-Generative-Framework-for-LOG.md",
-        ".reports/BL-Arxiv-A-Unified-Contrastive-Generative-Framework-for-20260813/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2508.09451",
-      "arxiv_id": "2508.09451",
-      "commit_or_pr": "",
-      "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2508.09451",
-      "normalized_title": "A Unified Contrastive-Generative Framework for Time Series Classification",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P02; draw 62873 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-Unified-Contrastive-Generative-Framework-for",
-      "source_urls": [
-        "https://arxiv.org/abs/2508.09451",
-        "https://arxiv.org/html/2508.09451",
-        "https://arxiv.org/pdf/2508.09451",
-        "https://doi.org/10.48550/arXiv.2508.09451"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-Digital and Physical Face",
-        ".logs/20260813-Arxiv-Digital-and-Physical-Face-Attacks-Reviewing-and-LOG.md",
-        ".reports/BL-Arxiv-Digital-and-Physical-Face-Attacks-Reviewing-and-20260813/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2209.14692",
-      "arxiv_id": "2209.14692",
-      "commit_or_pr": "",
-      "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2209.14692",
-      "normalized_title": "Digital and Physical Face Attacks: Reviewing and One Step Further",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P03; draw 28387 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Digital-and-Physical-Face-Attacks-Reviewing-and",
-      "source_urls": [
-        "https://arxiv.org/abs/2209.14692",
-        "https://arxiv.org/html/2209.14692",
-        "https://arxiv.org/pdf/2209.14692",
-        "https://doi.org/10.48550/arXiv.2209.14692"
+        "https://arxiv.org/abs/2603.13666",
+        "https://arxiv.org/html/2603.13666",
+        "https://arxiv.org/pdf/2603.13666",
+        "https://doi.org/10.48550/arXiv.2603.13666"
       ],
       "status": "deposited"
     },
@@ -5844,69 +5775,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-Contour Transformer",
-        ".logs/20260813-Arxiv-Contour-Transformer-Network-for-One-shot-LOG.md",
-        ".reports/BL-Arxiv-Contour-Transformer-Network-for-One-shot-20260813/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260813-A Unified",
+        ".logs/20260813-Arxiv-A-Unified-Contrastive-Generative-Framework-for-LOG.md",
+        ".reports/BL-Arxiv-A-Unified-Contrastive-Generative-Framework-for-20260813/Report-Mark.md"
       ],
-      "arxiv_base_id": "2012.01480",
-      "arxiv_id": "2012.01480",
+      "arxiv_base_id": "2508.09451",
+      "arxiv_id": "2508.09451",
       "commit_or_pr": "",
       "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2012.01480",
-      "normalized_title": "Contour Transformer Network for One-shot Segmentation of Anatomical Structures",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P05; draw 20929 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Contour-Transformer-Network-for-One-shot",
+      "doi": "10.48550/arXiv.2508.09451",
+      "normalized_title": "A Unified Contrastive-Generative Framework for Time Series Classification",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P02; draw 62873 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Unified-Contrastive-Generative-Framework-for",
       "source_urls": [
-        "https://arxiv.org/abs/2012.01480",
-        "https://arxiv.org/html/2012.01480",
-        "https://arxiv.org/pdf/2012.01480",
-        "https://doi.org/10.48550/arXiv.2012.01480"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-Ultra3D Efficient and",
-        ".logs/20260813-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-LOG.md",
-        ".reports/BL-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-20260813/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2507.17745",
-      "arxiv_id": "2507.17745",
-      "commit_or_pr": "",
-      "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2507.17745",
-      "normalized_title": "Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P06; draw 42740 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Ultra3D-Efficient-and-High-Fidelity-3D",
-      "source_urls": [
-        "https://arxiv.org/abs/2507.17745",
-        "https://arxiv.org/html/2507.17745",
-        "https://arxiv.org/pdf/2507.17745",
-        "https://doi.org/10.48550/arXiv.2507.17745"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260813-An End-to-End Network for",
-        ".logs/20260813-Arxiv-An-End-to-End-Network-for-Upright-LOG.md",
-        ".reports/BL-Arxiv-An-End-to-End-Network-for-Upright-20260813/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2304.05556",
-      "arxiv_id": "2304.05556",
-      "commit_or_pr": "",
-      "deposit_date": "20260813",
-      "doi": "10.48550/arXiv.2304.05556",
-      "normalized_title": "An End-to-End Network for Upright Adjustment of Panoramic Images",
-      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P07; draw 50050 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "An-End-to-End-Network-for-Upright",
-      "source_urls": [
-        "https://arxiv.org/abs/2304.05556",
-        "https://arxiv.org/html/2304.05556",
-        "https://arxiv.org/pdf/2304.05556",
-        "https://doi.org/10.48550/arXiv.2304.05556"
+        "https://arxiv.org/abs/2508.09451",
+        "https://arxiv.org/html/2508.09451",
+        "https://arxiv.org/pdf/2508.09451",
+        "https://doi.org/10.48550/arXiv.2508.09451"
       ],
       "status": "deposited"
     },
@@ -5936,6 +5821,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-An End-to-End Network for",
+        ".logs/20260813-Arxiv-An-End-to-End-Network-for-Upright-LOG.md",
+        ".reports/BL-Arxiv-An-End-to-End-Network-for-Upright-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2304.05556",
+      "arxiv_id": "2304.05556",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2304.05556",
+      "normalized_title": "An End-to-End Network for Upright Adjustment of Panoramic Images",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P07; draw 50050 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-End-to-End-Network-for-Upright",
+      "source_urls": [
+        "https://arxiv.org/abs/2304.05556",
+        "https://arxiv.org/html/2304.05556",
+        "https://arxiv.org/pdf/2304.05556",
+        "https://doi.org/10.48550/arXiv.2304.05556"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260813-Beyond Line-of-Sight",
         ".logs/20260813-Arxiv-Beyond-Line-of-Sight-Cooperative-Localization-LOG.md",
         ".reports/BL-Arxiv-Beyond-Line-of-Sight-Cooperative-Localization-20260813/Report-Mark.md"
@@ -5953,6 +5861,75 @@
         "https://arxiv.org/html/2507.20772",
         "https://arxiv.org/pdf/2507.20772",
         "https://doi.org/10.48550/arXiv.2507.20772"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Contour Transformer",
+        ".logs/20260813-Arxiv-Contour-Transformer-Network-for-One-shot-LOG.md",
+        ".reports/BL-Arxiv-Contour-Transformer-Network-for-One-shot-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2012.01480",
+      "arxiv_id": "2012.01480",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2012.01480",
+      "normalized_title": "Contour Transformer Network for One-shot Segmentation of Anatomical Structures",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P05; draw 20929 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Contour-Transformer-Network-for-One-shot",
+      "source_urls": [
+        "https://arxiv.org/abs/2012.01480",
+        "https://arxiv.org/html/2012.01480",
+        "https://arxiv.org/pdf/2012.01480",
+        "https://doi.org/10.48550/arXiv.2012.01480"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic",
+        ".logs/20260813-Arxiv-Controllable-Dynamic-Appearance-for-Neural-3D-LOG.md",
+        ".reports/BL-Arxiv-Controllable-Dynamic-Appearance-for-Neural-3D-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2309.11009",
+      "arxiv_id": "2309.11009",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2309.11009",
+      "normalized_title": "Controllable Dynamic Appearance for Neural 3D Portraits",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P01; draw 36584 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Controllable-Dynamic-Appearance-for-Neural-3D",
+      "source_urls": [
+        "https://arxiv.org/abs/2309.11009",
+        "https://arxiv.org/html/2309.11009",
+        "https://arxiv.org/pdf/2309.11009",
+        "https://doi.org/10.48550/arXiv.2309.11009"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Digital and Physical Face",
+        ".logs/20260813-Arxiv-Digital-and-Physical-Face-Attacks-Reviewing-and-LOG.md",
+        ".reports/BL-Arxiv-Digital-and-Physical-Face-Attacks-Reviewing-and-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.14692",
+      "arxiv_id": "2209.14692",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2209.14692",
+      "normalized_title": "Digital and Physical Face Attacks: Reviewing and One Step Further",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P03; draw 28387 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Digital-and-Physical-Face-Attacks-Reviewing-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.14692",
+        "https://arxiv.org/html/2209.14692",
+        "https://arxiv.org/pdf/2209.14692",
+        "https://doi.org/10.48550/arXiv.2209.14692"
       ],
       "status": "deposited"
     },
@@ -5982,6 +5959,52 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260813-Ultra3D Efficient and",
+        ".logs/20260813-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-LOG.md",
+        ".reports/BL-Arxiv-Ultra3D-Efficient-and-High-Fidelity-3D-20260813/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.17745",
+      "arxiv_id": "2507.17745",
+      "commit_or_pr": "",
+      "deposit_date": "20260813",
+      "doi": "10.48550/arXiv.2507.17745",
+      "normalized_title": "Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention",
+      "notes": "Job BLAD-2200-20260813-F994AA5E item BLAD-2200-20260813-F994AA5E-P06; draw 42740 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Ultra3D-Efficient-and-High-Fidelity-3D",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.17745",
+        "https://arxiv.org/html/2507.17745",
+        "https://arxiv.org/pdf/2507.17745",
+        "https://doi.org/10.48550/arXiv.2507.17745"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy",
+        ".logs/20260814-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-LOG.md",
+        ".reports/BL-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.10014",
+      "arxiv_id": "2205.10014",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2205.10014",
+      "normalized_title": "A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P09; draw 22470 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Survey-of-Trustworthy-Graph-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.10014",
+        "https://arxiv.org/html/2205.10014",
+        "https://arxiv.org/pdf/2205.10014",
+        "https://doi.org/10.48550/arXiv.2205.10014"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260814-Bias Behind the Wheel",
         ".logs/20260814-Arxiv-Bias-Behind-the-Wheel-Fairness-Testing-of-LOG.md",
         ".reports/BL-Arxiv-Bias-Behind-the-Wheel-Fairness-Testing-of-20260814/Report-Mark.md"
@@ -6005,46 +6028,69 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-Open-vocabulary Panoptic",
-        ".logs/20260814-Arxiv-Open-vocabulary-Panoptic-Segmentation-with-LOG.md",
-        ".reports/BL-Arxiv-Open-vocabulary-Panoptic-Segmentation-with-20260814/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260814-Exploiting contextual",
+        ".logs/20260814-Arxiv-Exploiting-contextual-information-to-improve-LOG.md",
+        ".reports/BL-Arxiv-Exploiting-contextual-information-to-improve-20260814/Report-Mark.md"
       ],
-      "arxiv_base_id": "2303.11324",
-      "arxiv_id": "2303.11324",
+      "arxiv_base_id": "2602.04750",
+      "arxiv_id": "2602.04750",
       "commit_or_pr": "",
       "deposit_date": "20260814",
-      "doi": "10.48550/arXiv.2303.11324",
-      "normalized_title": "Open-vocabulary Panoptic Segmentation with Embedding Modulation",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P02; draw 74934 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Open-vocabulary-Panoptic-Segmentation-with",
+      "doi": "10.18653/v1/2025.acl-srw.86",
+      "normalized_title": "Exploiting contextual information to improve stance detection in informal political discourse with LLMs",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P10; draw 34518 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Exploiting-contextual-information-to-improve",
       "source_urls": [
-        "https://arxiv.org/abs/2303.11324",
-        "https://arxiv.org/html/2303.11324",
-        "https://arxiv.org/pdf/2303.11324",
-        "https://doi.org/10.48550/arXiv.2303.11324"
+        "https://arxiv.org/abs/2602.04750",
+        "https://arxiv.org/html/2602.04750",
+        "https://arxiv.org/pdf/2602.04750",
+        "https://doi.org/10.18653/v1/2025.acl-srw.86"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real",
-        ".logs/20260814-Arxiv-RealCamo-Boosting-Real-Camouflage-Synthesis-with-LOG.md",
-        ".reports/BL-Arxiv-RealCamo-Boosting-Real-Camouflage-Synthesis-with-20260814/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260814-Federated Learning with",
+        ".logs/20260814-Arxiv-Federated-Learning-with-Flexible-Control-LOG.md",
+        ".reports/BL-Arxiv-Federated-Learning-with-Flexible-Control-20260814/Report-Mark.md"
       ],
-      "arxiv_base_id": "2512.22974",
-      "arxiv_id": "2512.22974",
+      "arxiv_base_id": "2212.08496",
+      "arxiv_id": "2212.08496",
       "commit_or_pr": "",
       "deposit_date": "20260814",
-      "doi": "10.48550/arXiv.2512.22974",
-      "normalized_title": "RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P03; draw 11557 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "RealCamo-Boosting-Real-Camouflage-Synthesis-with",
+      "doi": "10.48550/arXiv.2212.08496",
+      "normalized_title": "Federated Learning with Flexible Control",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P08; draw 37689 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Federated-Learning-with-Flexible-Control",
       "source_urls": [
-        "https://arxiv.org/abs/2512.22974",
-        "https://arxiv.org/html/2512.22974",
-        "https://arxiv.org/pdf/2512.22974",
-        "https://doi.org/10.48550/arXiv.2512.22974"
+        "https://arxiv.org/abs/2212.08496",
+        "https://arxiv.org/html/2212.08496",
+        "https://arxiv.org/pdf/2212.08496",
+        "https://doi.org/10.48550/arXiv.2212.08496"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual",
+        ".logs/20260814-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-LOG.md",
+        ".reports/BL-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.11018",
+      "arxiv_id": "2312.11018",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2312.11018",
+      "normalized_title": "Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P07; draw 74370 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hypergrah-Enhanced-Dual-Convolutional-Network",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.11018",
+        "https://arxiv.org/html/2312.11018",
+        "https://arxiv.org/pdf/2312.11018",
+        "https://doi.org/10.48550/arXiv.2312.11018"
       ],
       "status": "deposited"
     },
@@ -6097,6 +6143,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260814-Open-vocabulary Panoptic",
+        ".logs/20260814-Arxiv-Open-vocabulary-Panoptic-Segmentation-with-LOG.md",
+        ".reports/BL-Arxiv-Open-vocabulary-Panoptic-Segmentation-with-20260814/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2303.11324",
+      "arxiv_id": "2303.11324",
+      "commit_or_pr": "",
+      "deposit_date": "20260814",
+      "doi": "10.48550/arXiv.2303.11324",
+      "normalized_title": "Open-vocabulary Panoptic Segmentation with Embedding Modulation",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P02; draw 74934 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Open-vocabulary-Panoptic-Segmentation-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2303.11324",
+        "https://arxiv.org/html/2303.11324",
+        "https://arxiv.org/pdf/2303.11324",
+        "https://doi.org/10.48550/arXiv.2303.11324"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving",
         ".logs/20260814-Arxiv-Privacy-Preserving-Federated-Unlearning-with-LOG.md",
         ".reports/BL-Arxiv-Privacy-Preserving-Federated-Unlearning-with-20260814/Report-Mark.md"
@@ -6120,184 +6189,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual",
-        ".logs/20260814-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-LOG.md",
-        ".reports/BL-Arxiv-Hypergrah-Enhanced-Dual-Convolutional-Network-20260814/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real",
+        ".logs/20260814-Arxiv-RealCamo-Boosting-Real-Camouflage-Synthesis-with-LOG.md",
+        ".reports/BL-Arxiv-RealCamo-Boosting-Real-Camouflage-Synthesis-with-20260814/Report-Mark.md"
       ],
-      "arxiv_base_id": "2312.11018",
-      "arxiv_id": "2312.11018",
+      "arxiv_base_id": "2512.22974",
+      "arxiv_id": "2512.22974",
       "commit_or_pr": "",
       "deposit_date": "20260814",
-      "doi": "10.48550/arXiv.2312.11018",
-      "normalized_title": "Hypergrah-Enhanced Dual Convolutional Network for Bundle Recommendation",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P07; draw 74370 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Hypergrah-Enhanced-Dual-Convolutional-Network",
+      "doi": "10.48550/arXiv.2512.22974",
+      "normalized_title": "RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance",
+      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P03; draw 11557 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RealCamo-Boosting-Real-Camouflage-Synthesis-with",
       "source_urls": [
-        "https://arxiv.org/abs/2312.11018",
-        "https://arxiv.org/html/2312.11018",
-        "https://arxiv.org/pdf/2312.11018",
-        "https://doi.org/10.48550/arXiv.2312.11018"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-Federated Learning with",
-        ".logs/20260814-Arxiv-Federated-Learning-with-Flexible-Control-LOG.md",
-        ".reports/BL-Arxiv-Federated-Learning-with-Flexible-Control-20260814/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2212.08496",
-      "arxiv_id": "2212.08496",
-      "commit_or_pr": "",
-      "deposit_date": "20260814",
-      "doi": "10.48550/arXiv.2212.08496",
-      "normalized_title": "Federated Learning with Flexible Control",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P08; draw 37689 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Federated-Learning-with-Flexible-Control",
-      "source_urls": [
-        "https://arxiv.org/abs/2212.08496",
-        "https://arxiv.org/html/2212.08496",
-        "https://arxiv.org/pdf/2212.08496",
-        "https://doi.org/10.48550/arXiv.2212.08496"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy",
-        ".logs/20260814-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-LOG.md",
-        ".reports/BL-Arxiv-A-Survey-of-Trustworthy-Graph-Learning-20260814/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2205.10014",
-      "arxiv_id": "2205.10014",
-      "commit_or_pr": "",
-      "deposit_date": "20260814",
-      "doi": "10.48550/arXiv.2205.10014",
-      "normalized_title": "A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P09; draw 22470 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "A-Survey-of-Trustworthy-Graph-Learning",
-      "source_urls": [
-        "https://arxiv.org/abs/2205.10014",
-        "https://arxiv.org/html/2205.10014",
-        "https://arxiv.org/pdf/2205.10014",
-        "https://doi.org/10.48550/arXiv.2205.10014"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260814-Exploiting contextual",
-        ".logs/20260814-Arxiv-Exploiting-contextual-information-to-improve-LOG.md",
-        ".reports/BL-Arxiv-Exploiting-contextual-information-to-improve-20260814/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2602.04750",
-      "arxiv_id": "2602.04750",
-      "commit_or_pr": "",
-      "deposit_date": "20260814",
-      "doi": "10.18653/v1/2025.acl-srw.86",
-      "normalized_title": "Exploiting contextual information to improve stance detection in informal political discourse with LLMs",
-      "notes": "Job BLAD-2200-20260814-24737ACA item BLAD-2200-20260814-24737ACA-P10; draw 34518 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Exploiting-contextual-information-to-improve",
-      "source_urls": [
-        "https://arxiv.org/abs/2602.04750",
-        "https://arxiv.org/html/2602.04750",
-        "https://arxiv.org/pdf/2602.04750",
-        "https://doi.org/10.18653/v1/2025.acl-srw.86"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning",
-        ".logs/20260815-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-LOG.md",
-        ".reports/BL-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2412.01083",
-      "arxiv_id": "2412.01083",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2412.01083",
-      "normalized_title": "RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P01; draw 55965 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "RoboHanger-Learning-Generalizable-Robotic-Hanger",
-      "source_urls": [
-        "https://arxiv.org/abs/2412.01083",
-        "https://arxiv.org/html/2412.01083",
-        "https://arxiv.org/pdf/2412.01083",
-        "https://doi.org/10.48550/arXiv.2412.01083"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking",
-        ".logs/20260815-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-LOG.md",
-        ".reports/BL-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.03159",
-      "arxiv_id": "2502.03159",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2502.03159",
-      "normalized_title": "PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P02; draw 10755 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "PICBench-Benchmarking-LLMs-for-Photonic",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.03159",
-        "https://arxiv.org/html/2502.03159",
-        "https://arxiv.org/pdf/2502.03159",
-        "https://doi.org/10.48550/arXiv.2502.03159"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza",
-        ".logs/20260815-Arxiv-The-Clock-and-the-Pizza-Two-Stories-LOG.md",
-        ".reports/BL-Arxiv-The-Clock-and-the-Pizza-Two-Stories-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2306.17844",
-      "arxiv_id": "2306.17844",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2306.17844",
-      "normalized_title": "The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P03; draw 34293 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "The-Clock-and-the-Pizza-Two-Stories",
-      "source_urls": [
-        "https://arxiv.org/abs/2306.17844",
-        "https://arxiv.org/html/2306.17844",
-        "https://arxiv.org/pdf/2306.17844",
-        "https://doi.org/10.48550/arXiv.2306.17844"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-Over-the-Air",
-        ".logs/20260815-Arxiv-Over-the-Air-Decentralized-Federated-Learning-LOG.md",
-        ".reports/BL-Arxiv-Over-the-Air-Decentralized-Federated-Learning-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2106.08011",
-      "arxiv_id": "2106.08011",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2106.08011",
-      "normalized_title": "Over-the-Air Decentralized Federated Learning",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P04; draw 12861 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Over-the-Air-Decentralized-Federated-Learning",
-      "source_urls": [
-        "https://arxiv.org/abs/2106.08011",
-        "https://arxiv.org/html/2106.08011",
-        "https://arxiv.org/pdf/2106.08011",
-        "https://doi.org/10.48550/arXiv.2106.08011"
+        "https://arxiv.org/abs/2512.22974",
+        "https://arxiv.org/html/2512.22974",
+        "https://arxiv.org/pdf/2512.22974",
+        "https://doi.org/10.48550/arXiv.2512.22974"
       ],
       "status": "deposited"
     },
@@ -6350,52 +6258,6 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual",
-        ".logs/20260815-Arxiv-Hierarchical-Perceptual-Noise-Injection-for-LOG.md",
-        ".reports/BL-Arxiv-Hierarchical-Perceptual-Noise-Injection-for-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2208.10688",
-      "arxiv_id": "2208.10688",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2208.10688",
-      "normalized_title": "Hierarchical Perceptual Noise Injection for Social Media Fingerprint Privacy Protection",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P07; draw 28302 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Hierarchical-Perceptual-Noise-Injection-for",
-      "source_urls": [
-        "https://arxiv.org/abs/2208.10688",
-        "https://arxiv.org/html/2208.10688",
-        "https://arxiv.org/pdf/2208.10688",
-        "https://doi.org/10.48550/arXiv.2208.10688"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260815-Rethinking Residual",
-        ".logs/20260815-Arxiv-Rethinking-Residual-Distribution-in-Locate-then-LOG.md",
-        ".reports/BL-Arxiv-Rethinking-Residual-Distribution-in-Locate-then-20260815/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2502.03748",
-      "arxiv_id": "2502.03748",
-      "commit_or_pr": "",
-      "deposit_date": "20260815",
-      "doi": "10.48550/arXiv.2502.03748",
-      "normalized_title": "Rethinking Residual Distribution in Locate-then-Edit Model Editing",
-      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P08; draw 28052 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "Rethinking-Residual-Distribution-in-Locate-then",
-      "source_urls": [
-        "https://arxiv.org/abs/2502.03748",
-        "https://arxiv.org/html/2502.03748",
-        "https://arxiv.org/pdf/2502.03748",
-        "https://doi.org/10.48550/arXiv.2502.03748"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter",
         ".logs/20260815-Arxiv-Does-Travel-Stage-Matter-How-Leisure-Travellers-LOG.md",
         ".reports/BL-Arxiv-Does-Travel-Stage-Matter-How-Leisure-Travellers-20260815/Report-Mark.md"
@@ -6413,6 +6275,29 @@
         "https://arxiv.org/html/2603.01992",
         "https://arxiv.org/pdf/2603.01992",
         "https://doi.org/10.48550/arXiv.2603.01992"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual",
+        ".logs/20260815-Arxiv-Hierarchical-Perceptual-Noise-Injection-for-LOG.md",
+        ".reports/BL-Arxiv-Hierarchical-Perceptual-Noise-Injection-for-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2208.10688",
+      "arxiv_id": "2208.10688",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2208.10688",
+      "normalized_title": "Hierarchical Perceptual Noise Injection for Social Media Fingerprint Privacy Protection",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P07; draw 28302 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hierarchical-Perceptual-Noise-Injection-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2208.10688",
+        "https://arxiv.org/html/2208.10688",
+        "https://arxiv.org/pdf/2208.10688",
+        "https://doi.org/10.48550/arXiv.2208.10688"
       ],
       "status": "deposited"
     },
@@ -6442,92 +6327,115 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-Long-Term Fair Decision",
-        ".logs/20260816-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-LOG.md",
-        ".reports/BL-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260815-Over-the-Air",
+        ".logs/20260815-Arxiv-Over-the-Air-Decentralized-Federated-Learning-LOG.md",
+        ".reports/BL-Arxiv-Over-the-Air-Decentralized-Federated-Learning-20260815/Report-Mark.md"
       ],
-      "arxiv_base_id": "2401.11288",
-      "arxiv_id": "2401.11288",
+      "arxiv_base_id": "2106.08011",
+      "arxiv_id": "2106.08011",
       "commit_or_pr": "",
-      "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2401.11288",
-      "normalized_title": "Long-Term Fair Decision Making through Deep Generative Models",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P01; draw 32046 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Long-Term-Fair-Decision-Making-through-Deep",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2106.08011",
+      "normalized_title": "Over-the-Air Decentralized Federated Learning",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P04; draw 12861 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Over-the-Air-Decentralized-Federated-Learning",
       "source_urls": [
-        "https://arxiv.org/abs/2401.11288",
-        "https://arxiv.org/html/2401.11288",
-        "https://arxiv.org/pdf/2401.11288",
-        "https://doi.org/10.48550/arXiv.2401.11288"
+        "https://arxiv.org/abs/2106.08011",
+        "https://arxiv.org/html/2106.08011",
+        "https://arxiv.org/pdf/2106.08011",
+        "https://doi.org/10.48550/arXiv.2106.08011"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric",
-        ".logs/20260816-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-LOG.md",
-        ".reports/BL-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking",
+        ".logs/20260815-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-LOG.md",
+        ".reports/BL-Arxiv-PICBench-Benchmarking-LLMs-for-Photonic-20260815/Report-Mark.md"
       ],
-      "arxiv_base_id": "2003.00052",
-      "arxiv_id": "2003.00052",
+      "arxiv_base_id": "2502.03159",
+      "arxiv_id": "2502.03159",
       "commit_or_pr": "",
-      "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2003.00052",
-      "normalized_title": "Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P02; draw 48002 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Learning-Nonparametric-Human-Mesh-Reconstruction",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2502.03159",
+      "normalized_title": "PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P02; draw 10755 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "PICBench-Benchmarking-LLMs-for-Photonic",
       "source_urls": [
-        "https://arxiv.org/abs/2003.00052",
-        "https://arxiv.org/html/2003.00052",
-        "https://arxiv.org/pdf/2003.00052",
-        "https://doi.org/10.48550/arXiv.2003.00052"
+        "https://arxiv.org/abs/2502.03159",
+        "https://arxiv.org/html/2502.03159",
+        "https://arxiv.org/pdf/2502.03159",
+        "https://doi.org/10.48550/arXiv.2502.03159"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series",
-        ".logs/20260816-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-LOG.md",
-        ".reports/BL-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260815-Rethinking Residual",
+        ".logs/20260815-Arxiv-Rethinking-Residual-Distribution-in-Locate-then-LOG.md",
+        ".reports/BL-Arxiv-Rethinking-Residual-Distribution-in-Locate-then-20260815/Report-Mark.md"
       ],
-      "arxiv_base_id": "2606.19255",
-      "arxiv_id": "2606.19255",
+      "arxiv_base_id": "2502.03748",
+      "arxiv_id": "2502.03748",
       "commit_or_pr": "",
-      "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2606.19255",
-      "normalized_title": "SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P03; draw 60194 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "SCAN-Enhance-Time-Series-Anomaly-Detection-via",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2502.03748",
+      "normalized_title": "Rethinking Residual Distribution in Locate-then-Edit Model Editing",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P08; draw 28052 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rethinking-Residual-Distribution-in-Locate-then",
       "source_urls": [
-        "https://arxiv.org/abs/2606.19255",
-        "https://arxiv.org/html/2606.19255",
-        "https://arxiv.org/pdf/2606.19255",
-        "https://doi.org/10.48550/arXiv.2606.19255"
+        "https://arxiv.org/abs/2502.03748",
+        "https://arxiv.org/html/2502.03748",
+        "https://arxiv.org/pdf/2502.03748",
+        "https://doi.org/10.48550/arXiv.2502.03748"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet",
-        ".logs/20260816-Arxiv-Where-Does-Vision-Meet-Language-Understanding-LOG.md",
-        ".reports/BL-Arxiv-Where-Does-Vision-Meet-Language-Understanding-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning",
+        ".logs/20260815-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-LOG.md",
+        ".reports/BL-Arxiv-RoboHanger-Learning-Generalizable-Robotic-Hanger-20260815/Report-Mark.md"
       ],
-      "arxiv_base_id": "2601.08151",
-      "arxiv_id": "2601.08151",
+      "arxiv_base_id": "2412.01083",
+      "arxiv_id": "2412.01083",
       "commit_or_pr": "",
-      "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2601.08151",
-      "normalized_title": "Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P04; draw 17351 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Where-Does-Vision-Meet-Language-Understanding",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2412.01083",
+      "normalized_title": "RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P01; draw 55965 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "RoboHanger-Learning-Generalizable-Robotic-Hanger",
       "source_urls": [
-        "https://arxiv.org/abs/2601.08151",
-        "https://arxiv.org/html/2601.08151",
-        "https://arxiv.org/pdf/2601.08151",
-        "https://doi.org/10.48550/arXiv.2601.08151"
+        "https://arxiv.org/abs/2412.01083",
+        "https://arxiv.org/html/2412.01083",
+        "https://arxiv.org/pdf/2412.01083",
+        "https://doi.org/10.48550/arXiv.2412.01083"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza",
+        ".logs/20260815-Arxiv-The-Clock-and-the-Pizza-Two-Stories-LOG.md",
+        ".reports/BL-Arxiv-The-Clock-and-the-Pizza-Two-Stories-20260815/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.17844",
+      "arxiv_id": "2306.17844",
+      "commit_or_pr": "",
+      "deposit_date": "20260815",
+      "doi": "10.48550/arXiv.2306.17844",
+      "normalized_title": "The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks",
+      "notes": "Job BLAD-2200-20260815-A0637DE9 item BLAD-2200-20260815-A0637DE9-P03; draw 34293 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-Clock-and-the-Pizza-Two-Stories",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.17844",
+        "https://arxiv.org/html/2306.17844",
+        "https://arxiv.org/pdf/2306.17844",
+        "https://doi.org/10.48550/arXiv.2306.17844"
       ],
       "status": "deposited"
     },
@@ -6580,23 +6488,69 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-parallelcbf A composable",
-        ".logs/20260816-Arxiv-parallelcbf-A-composable-safety-filter-and-LOG.md",
-        ".reports/BL-Arxiv-parallelcbf-A-composable-safety-filter-and-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space",
+        ".logs/20260816-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-LOG.md",
+        ".reports/BL-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-20260816/Report-Mark.md"
       ],
-      "arxiv_base_id": "2605.15509",
-      "arxiv_id": "2605.15509",
+      "arxiv_base_id": "2405.00514",
+      "arxiv_id": "2405.00514",
       "commit_or_pr": "",
       "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2605.15509",
-      "normalized_title": "parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P07; draw 36065 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "parallelcbf-A-composable-safety-filter-and",
+      "doi": "10.48550/arXiv.2405.00514",
+      "normalized_title": "Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P09; draw 41665 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Get-Your-Embedding-Space-in-Order-Domain",
       "source_urls": [
-        "https://arxiv.org/abs/2605.15509",
-        "https://arxiv.org/html/2605.15509",
-        "https://arxiv.org/pdf/2605.15509",
-        "https://doi.org/10.48550/arXiv.2605.15509"
+        "https://arxiv.org/abs/2405.00514",
+        "https://arxiv.org/html/2405.00514",
+        "https://arxiv.org/pdf/2405.00514",
+        "https://doi.org/10.48550/arXiv.2405.00514"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric",
+        ".logs/20260816-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-LOG.md",
+        ".reports/BL-Arxiv-Learning-Nonparametric-Human-Mesh-Reconstruction-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.00052",
+      "arxiv_id": "2003.00052",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2003.00052",
+      "normalized_title": "Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P02; draw 48002 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Nonparametric-Human-Mesh-Reconstruction",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.00052",
+        "https://arxiv.org/html/2003.00052",
+        "https://arxiv.org/pdf/2003.00052",
+        "https://doi.org/10.48550/arXiv.2003.00052"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260816-Long-Term Fair Decision",
+        ".logs/20260816-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-LOG.md",
+        ".reports/BL-Arxiv-Long-Term-Fair-Decision-Making-through-Deep-20260816/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2401.11288",
+      "arxiv_id": "2401.11288",
+      "commit_or_pr": "",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2401.11288",
+      "normalized_title": "Long-Term Fair Decision Making through Deep Generative Models",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P01; draw 32046 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Long-Term-Fair-Decision-Making-through-Deep",
+      "source_urls": [
+        "https://arxiv.org/abs/2401.11288",
+        "https://arxiv.org/html/2401.11288",
+        "https://arxiv.org/pdf/2401.11288",
+        "https://doi.org/10.48550/arXiv.2401.11288"
       ],
       "status": "deposited"
     },
@@ -6626,23 +6580,23 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space",
-        ".logs/20260816-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-LOG.md",
-        ".reports/BL-Arxiv-Get-Your-Embedding-Space-in-Order-Domain-20260816/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series",
+        ".logs/20260816-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-LOG.md",
+        ".reports/BL-Arxiv-SCAN-Enhance-Time-Series-Anomaly-Detection-via-20260816/Report-Mark.md"
       ],
-      "arxiv_base_id": "2405.00514",
-      "arxiv_id": "2405.00514",
+      "arxiv_base_id": "2606.19255",
+      "arxiv_id": "2606.19255",
       "commit_or_pr": "",
       "deposit_date": "20260816",
-      "doi": "10.48550/arXiv.2405.00514",
-      "normalized_title": "Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring",
-      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P09; draw 41665 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "Get-Your-Embedding-Space-in-Order-Domain",
+      "doi": "10.48550/arXiv.2606.19255",
+      "normalized_title": "SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P03; draw 60194 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "SCAN-Enhance-Time-Series-Anomaly-Detection-via",
       "source_urls": [
-        "https://arxiv.org/abs/2405.00514",
-        "https://arxiv.org/html/2405.00514",
-        "https://arxiv.org/pdf/2405.00514",
-        "https://doi.org/10.48550/arXiv.2405.00514"
+        "https://arxiv.org/abs/2606.19255",
+        "https://arxiv.org/html/2606.19255",
+        "https://arxiv.org/pdf/2606.19255",
+        "https://doi.org/10.48550/arXiv.2606.19255"
       ],
       "status": "deposited"
     },
@@ -6672,138 +6626,46 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A",
-        ".logs/20260817-Arxiv-STRUCTSENSE-A-Task-Agnostic-Agentic-Framework-LOG.md",
-        ".reports/BL-Arxiv-STRUCTSENSE-A-Task-Agnostic-Agentic-Framework-20260817/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet",
+        ".logs/20260816-Arxiv-Where-Does-Vision-Meet-Language-Understanding-LOG.md",
+        ".reports/BL-Arxiv-Where-Does-Vision-Meet-Language-Understanding-20260816/Report-Mark.md"
       ],
-      "arxiv_base_id": "2507.03674",
-      "arxiv_id": "2507.03674",
+      "arxiv_base_id": "2601.08151",
+      "arxiv_id": "2601.08151",
       "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.48550/arXiv.2507.03674",
-      "normalized_title": "STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P01; draw 58998 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
-      "slug": "STRUCTSENSE-A-Task-Agnostic-Agentic-Framework",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2601.08151",
+      "normalized_title": "Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P04; draw 17351 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Where-Does-Vision-Meet-Language-Understanding",
       "source_urls": [
-        "https://arxiv.org/abs/2507.03674",
-        "https://arxiv.org/html/2507.03674",
-        "https://arxiv.org/pdf/2507.03674",
-        "https://doi.org/10.48550/arXiv.2507.03674"
+        "https://arxiv.org/abs/2601.08151",
+        "https://arxiv.org/html/2601.08151",
+        "https://arxiv.org/pdf/2601.08151",
+        "https://doi.org/10.48550/arXiv.2601.08151"
       ],
       "status": "deposited"
     },
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical",
-        ".logs/20260817-Arxiv-On-Aligning-Hierarchical-Standardized-Embedding-LOG.md",
-        ".reports/BL-Arxiv-On-Aligning-Hierarchical-Standardized-Embedding-20260817/Report-Mark.md"
+        ".lake-data/DEP-E/DEP-E-20260816-parallelcbf A composable",
+        ".logs/20260816-Arxiv-parallelcbf-A-composable-safety-filter-and-LOG.md",
+        ".reports/BL-Arxiv-parallelcbf-A-composable-safety-filter-and-20260816/Report-Mark.md"
       ],
-      "arxiv_base_id": "2606.11602",
-      "arxiv_id": "2606.11602",
+      "arxiv_base_id": "2605.15509",
+      "arxiv_id": "2605.15509",
       "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.48550/arXiv.2606.11602",
-      "normalized_title": "On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P02; draw 41917 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "On-Aligning-Hierarchical-Standardized-Embedding",
+      "deposit_date": "20260816",
+      "doi": "10.48550/arXiv.2605.15509",
+      "normalized_title": "parallelcbf: A composable safety-filter and auditability framework for tensor-parallel reinforcement learning",
+      "notes": "Job BLAD-2200-20260816-7EAAB41B item BLAD-2200-20260816-7EAAB41B-P07; draw 36065 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "parallelcbf-A-composable-safety-filter-and",
       "source_urls": [
-        "https://arxiv.org/abs/2606.11602",
-        "https://arxiv.org/html/2606.11602",
-        "https://arxiv.org/pdf/2606.11602",
-        "https://doi.org/10.48550/arXiv.2606.11602"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-HiKonv Maximizing the",
-        ".logs/20260817-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-LOG.md",
-        ".reports/BL-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-20260817/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2208.00763",
-      "arxiv_id": "2208.00763",
-      "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.48550/arXiv.2208.00763",
-      "normalized_title": "HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P03; draw 75216 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "HiKonv-Maximizing-the-Throughput-of-Quantized",
-      "source_urls": [
-        "https://arxiv.org/abs/2208.00763",
-        "https://arxiv.org/html/2208.00763",
-        "https://arxiv.org/pdf/2208.00763",
-        "https://doi.org/10.48550/arXiv.2208.00763"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt",
-        ".logs/20260817-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-LOG.md",
-        ".reports/BL-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-20260817/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2403.04880",
-      "arxiv_id": "2403.04880",
-      "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.48550/arXiv.2403.04880",
-      "normalized_title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P04; draw 1930 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "An-Item-is-Worth-a-Prompt-Versatile",
-      "source_urls": [
-        "https://arxiv.org/abs/2403.04880",
-        "https://arxiv.org/html/2403.04880",
-        "https://arxiv.org/pdf/2403.04880",
-        "https://doi.org/10.48550/arXiv.2403.04880"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-ORFuzz Fuzzing the Other",
-        ".logs/20260817-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-LOG.md",
-        ".reports/BL-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-20260817/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2508.11222",
-      "arxiv_id": "2508.11222",
-      "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.1109/ASE63991.2025.00156",
-      "normalized_title": "ORFuzz: Fuzzing the \"Other Side\" of LLM Safety -- Testing Over-Refusal",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P05; draw 61904 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "ORFuzz-Fuzzing-the-Other-Side-of-LLM",
-      "source_urls": [
-        "https://arxiv.org/abs/2508.11222",
-        "https://arxiv.org/html/2508.11222",
-        "https://arxiv.org/pdf/2508.11222",
-        "https://doi.org/10.1109/ASE63991.2025.00156"
-      ],
-      "status": "deposited"
-    },
-    {
-      "artifact_paths": [
-        ".lake-data/DEP-E/.index/pubs-index.md",
-        ".lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth",
-        ".logs/20260817-Arxiv-On-the-Transformer-Growth-for-Progressive-BERT-LOG.md",
-        ".reports/BL-Arxiv-On-the-Transformer-Growth-for-Progressive-BERT-20260817/Report-Mark.md"
-      ],
-      "arxiv_base_id": "2010.12562",
-      "arxiv_id": "2010.12562",
-      "commit_or_pr": "",
-      "deposit_date": "20260817",
-      "doi": "10.48550/arXiv.2010.12562",
-      "normalized_title": "On the Transformer Growth for Progressive BERT Training",
-      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P06; draw 64506 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
-      "slug": "On-the-Transformer-Growth-for-Progressive-BERT",
-      "source_urls": [
-        "https://arxiv.org/abs/2010.12562",
-        "https://arxiv.org/html/2010.12562",
-        "https://arxiv.org/pdf/2010.12562",
-        "https://doi.org/10.48550/arXiv.2010.12562"
+        "https://arxiv.org/abs/2605.15509",
+        "https://arxiv.org/html/2605.15509",
+        "https://arxiv.org/pdf/2605.15509",
+        "https://doi.org/10.48550/arXiv.2605.15509"
       ],
       "status": "deposited"
     },
@@ -6833,6 +6695,29 @@
     {
       "artifact_paths": [
         ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt",
+        ".logs/20260817-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-LOG.md",
+        ".reports/BL-Arxiv-An-Item-is-Worth-a-Prompt-Versatile-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.04880",
+      "arxiv_id": "2403.04880",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2403.04880",
+      "normalized_title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P04; draw 1930 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-Item-is-Worth-a-Prompt-Versatile",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.04880",
+        "https://arxiv.org/html/2403.04880",
+        "https://arxiv.org/pdf/2403.04880",
+        "https://doi.org/10.48550/arXiv.2403.04880"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
         ".lake-data/DEP-E/DEP-E-20260817-DWRSeg Rethinking",
         ".logs/20260817-Arxiv-DWRSeg-Rethinking-Efficient-Acquisition-of-Multi-LOG.md",
         ".reports/BL-Arxiv-DWRSeg-Rethinking-Efficient-Acquisition-of-Multi-20260817/Report-Mark.md"
@@ -6850,6 +6735,98 @@
         "https://arxiv.org/html/2212.01173",
         "https://arxiv.org/pdf/2212.01173",
         "https://doi.org/10.48550/arXiv.2212.01173"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-HiKonv Maximizing the",
+        ".logs/20260817-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-LOG.md",
+        ".reports/BL-Arxiv-HiKonv-Maximizing-the-Throughput-of-Quantized-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2208.00763",
+      "arxiv_id": "2208.00763",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2208.00763",
+      "normalized_title": "HiKonv: Maximizing the Throughput of Quantized Convolution With Novel Bit-wise Management and Computation",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P03; draw 75216 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "HiKonv-Maximizing-the-Throughput-of-Quantized",
+      "source_urls": [
+        "https://arxiv.org/abs/2208.00763",
+        "https://arxiv.org/html/2208.00763",
+        "https://arxiv.org/pdf/2208.00763",
+        "https://doi.org/10.48550/arXiv.2208.00763"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-ORFuzz Fuzzing the Other",
+        ".logs/20260817-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-LOG.md",
+        ".reports/BL-Arxiv-ORFuzz-Fuzzing-the-Other-Side-of-LLM-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.11222",
+      "arxiv_id": "2508.11222",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.1109/ASE63991.2025.00156",
+      "normalized_title": "ORFuzz: Fuzzing the \"Other Side\" of LLM Safety -- Testing Over-Refusal",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P05; draw 61904 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "ORFuzz-Fuzzing-the-Other-Side-of-LLM",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.11222",
+        "https://arxiv.org/html/2508.11222",
+        "https://arxiv.org/pdf/2508.11222",
+        "https://doi.org/10.1109/ASE63991.2025.00156"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical",
+        ".logs/20260817-Arxiv-On-Aligning-Hierarchical-Standardized-Embedding-LOG.md",
+        ".reports/BL-Arxiv-On-Aligning-Hierarchical-Standardized-Embedding-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.11602",
+      "arxiv_id": "2606.11602",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2606.11602",
+      "normalized_title": "On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P02; draw 41917 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "On-Aligning-Hierarchical-Standardized-Embedding",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.11602",
+        "https://arxiv.org/html/2606.11602",
+        "https://arxiv.org/pdf/2606.11602",
+        "https://doi.org/10.48550/arXiv.2606.11602"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth",
+        ".logs/20260817-Arxiv-On-the-Transformer-Growth-for-Progressive-BERT-LOG.md",
+        ".reports/BL-Arxiv-On-the-Transformer-Growth-for-Progressive-BERT-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.12562",
+      "arxiv_id": "2010.12562",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2010.12562",
+      "normalized_title": "On the Transformer Growth for Progressive BERT Training",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P06; draw 64506 of 75964 units; duplicate exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "On-the-Transformer-Growth-for-Progressive-BERT",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.12562",
+        "https://arxiv.org/html/2010.12562",
+        "https://arxiv.org/pdf/2010.12562",
+        "https://doi.org/10.48550/arXiv.2010.12562"
       ],
       "status": "deposited"
     },
@@ -6898,6 +6875,53 @@
         "https://doi.org/10.48550/arXiv.2205.08728"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A",
+        ".logs/20260817-Arxiv-STRUCTSENSE-A-Task-Agnostic-Agentic-Framework-LOG.md",
+        ".reports/BL-Arxiv-STRUCTSENSE-A-Task-Agnostic-Agentic-Framework-20260817/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.03674",
+      "arxiv_id": "2507.03674",
+      "commit_or_pr": "",
+      "deposit_date": "20260817",
+      "doi": "10.48550/arXiv.2507.03674",
+      "normalized_title": "STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking",
+      "notes": "Job BLAD-2200-20260817-2C1A830E item BLAD-2200-20260817-2C1A830E-P01; draw 58998 of 75964 units; duplicate exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "STRUCTSENSE-A-Task-Agnostic-Agentic-Framework",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.03674",
+        "https://arxiv.org/html/2507.03674",
+        "https://arxiv.org/pdf/2507.03674",
+        "https://doi.org/10.48550/arXiv.2507.03674"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video",
+        ".logs/20260818-Arxiv-ST-NeRF-Editable-Video-LOG.md",
+        ".logs/20260818-Arxiv-ST-NeRF-Editable-Video-PHASE-LOG.md",
+        ".reports/BL-Arxiv-ST-NeRF-Editable-Video-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2104.14786",
+      "arxiv_id": "2104.14786v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.1145/3450626.3459756",
+      "normalized_title": "Editable Free-Viewpoint Video using a Layered Neural Representation",
+      "notes": "Uniform draw index 34230 of 75964 parent units; duplicate exclusions 0; source gate repaired one partial unit to verified complete; cache miss became cached; source files withheld locally; final commit reference pending.",
+      "slug": "ST-NeRF-Editable-Video",
+      "source_urls": [
+        "https://arxiv.org/abs/2104.14786",
+        "https://arxiv.org/html/2104.14786",
+        "https://arxiv.org/pdf/2104.14786",
+        "https://doi.org/10.1145/3450626.3459756",
+        "https://github.com/DarlingHang/st-nerf"
+      ],
+      "status": "submission_pending"
     }
   ],
   "papers": [
@@ -7714,5 +7738,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-17"
+  "updated_date": "2026-08-18"
 }
