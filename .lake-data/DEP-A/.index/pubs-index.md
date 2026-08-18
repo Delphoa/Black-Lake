@@ -10349,3 +10349,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression* | Mengting Ai; Jingrui He; Yue Guo | [arXiv:2608.01631v1](https://arxiv.org/abs/2608.01631v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01631) |
+
+
+## [DEP-A-20260819-Internet KV Cache Rethink](../DEP-A-20260819-Internet%20KV%20Cache%20Rethink/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.01526-whitepaper-review.md`](../DEP-A-20260819-Internet%20KV%20Cache%20Rethink/2608.01526-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries in the LLM Inference Age* | Siddhant Ray; Nick Feamster; Junchen Jiang | [arXiv:2608.01526v1](https://arxiv.org/abs/2608.01526v1) - [DOI](https://doi.org/10.48550/arXiv.2608.01526) |
