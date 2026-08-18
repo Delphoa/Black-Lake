@@ -3723,3 +3723,10 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility* | Jiang, Xuan; Zhou, Xuanyu; Zhao, Yibo; Cao, Shangqing; He, Haoze; Zhao, Jinhua; Hansen, Mark; Sengupta, Raja | [arXiv:2510.04186](https://arxiv.org/abs/2510.04186) - [DOI](https://doi.org/10.48550/arXiv.2510.04186) |
+
+
+## [DEP-E-20260818-FutureX Enhance](../DEP-E-20260818-FutureX%20Enhance/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model* | Lin, Hongbin; Yang, Yiming; Zhang, Yifan; Zheng, Chaoda; Feng, Jie; Wang, Sheng; Wang, Zhennan; Chen, Shijia; Wang, Boyang; Zhang, Yu; Liu, Xianming; Cui, Shuguang; Li, Zhen | [arXiv:2512.11226](https://arxiv.org/abs/2512.11226) - [DOI](https://doi.org/10.48550/arXiv.2512.11226) |
