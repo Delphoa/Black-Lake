@@ -9773,3 +9773,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation* | Maya Arseven; Anette Frank; Beni Egressy; Johann Higl; Moritz Plenz | [arXiv:2607.28397v1](https://arxiv.org/abs/2607.28397v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28397) |
+
+
+## [DEP-A-20260819-Hallucinations Leave Grou](../DEP-A-20260819-Hallucinations%20Leave%20Grou/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27823-whitepaper-review.md`](../DEP-A-20260819-Hallucinations%20Leave%20Grou/2607.27823-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hallucinations Leave a Grounding Signature:Verifier-Guided Decoding for Selective Object Correction* | Lei Yang; Xinze Liu; Dayan Wu; Ding Wang; Hengjie Zhu; Zihao Zhang; Tianzhu Hu; Hanqi Wu; Peng Fu; Zheng Lin | [arXiv:2607.27823v1](https://arxiv.org/abs/2607.27823v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27823) |
