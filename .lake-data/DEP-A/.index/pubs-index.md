@@ -9764,3 +9764,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Parallel Causal Associative Fields: Gated Sparse Memory for Long-Context Language Modeling* | Muhammad Ahmed | [arXiv:2606.10435v1](https://arxiv.org/abs/2606.10435v1) - [DOI](https://doi.org/10.48550/arXiv.2606.10435) |
+
+
+## [DEP-A-20260819-GLM RAG Graph Language](../DEP-A-20260819-GLM%20RAG%20Graph%20Language/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28397-whitepaper-review.md`](../DEP-A-20260819-GLM%20RAG%20Graph%20Language/2607.28397-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation* | Maya Arseven; Anette Frank; Beni Egressy; Johann Higl; Moritz Plenz | [arXiv:2607.28397v1](https://arxiv.org/abs/2607.28397v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28397) |
