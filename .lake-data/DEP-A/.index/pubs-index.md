@@ -10277,3 +10277,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States* | Yi Yang; Zhennan Chen; Yihong Zhuang; Tiehan Fan; Yinan Chen; Jian Li; Jian Yang; Ying Tai | [arXiv:2608.02508v1](https://arxiv.org/abs/2608.02508v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02508) |
+
+
+## [DEP-A-20260819-ScrambleToolBench Agents](../DEP-A-20260819-ScrambleToolBench%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02358-whitepaper-review.md`](../DEP-A-20260819-ScrambleToolBench%20Agents/2608.02358-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step* | Vernon Toh; Navonil Majumder; Zhengyuan Liu; Nancy F. Chen; Soujanya Poria | [arXiv:2608.02358v1](https://arxiv.org/abs/2608.02358v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02358) |
