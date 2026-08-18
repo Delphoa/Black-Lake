@@ -4281,3 +4281,12 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation* | Shehram Baig; Ahmad Mustafa | [arXiv:2608.13889](https://arxiv.org/abs/2608.13889) - [DOI](https://doi.org/10.48550/arXiv.2608.13889) |
+
+
+## [DEP-E-20260819-AtumAI A Principled](../DEP-E-20260819-AtumAI%20A%20Principled/README.md)
+
+Review status: source-package review with canonical selected-source metadata inspected on 2026-08-19. The owning manuscript is [`atumai-a-principled.md`](../DEP-E-20260819-AtumAI%20A%20Principled/atumai-a-principled.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies* | Qiushi Lin; Chaojie Zhang; Íñigo Goiri; Aditya Akella; Ricardo Bianchini; Jovan Stojkovic | [arXiv:2608.02569](https://arxiv.org/abs/2608.02569) - [DOI](https://doi.org/10.48550/arXiv.2608.02569) |
