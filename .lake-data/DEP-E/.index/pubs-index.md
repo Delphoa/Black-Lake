@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **801 publication reviews across 456 DEP-E entries**.
+- Current coverage: **802 publication reviews across 457 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -4614,3 +4614,11 @@ Review status: source-package review with canonical selected-source metadata ins
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CryptanalysisBench: Can LLMs do Cryptanalysis?* | Lukas Fluri; Avital Shafran; Nicholas Carlini; Matthew Jagielski; Milad Nasr; Orr Dunkelman; Eyal Ronen; Florian Tramèr | [arXiv:2607.18538](https://arxiv.org/abs/2607.18538) - [DOI](https://doi.org/10.48550/arXiv.2607.18538) |
+
+## [DEP-E-20260819-LALIC Image](../DEP-E-20260819-LALIC%20Image/README.md)
+
+Review status: complete PDF and full-paper HTML were verified privately; public source files were withheld. The owning manuscript is [`lalic_image_manuscript.md`](../DEP-E-20260819-LALIC%20Image/lalic_image_manuscript.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Linear Attention Modeling for Learned Image Compression* | Donghui Feng; Zhengxue Cheng; Shen Wang; Ronghua Wu; Hongwei Hu; Guo Lu; Li Song | [arXiv:2502.05741v2](https://arxiv.org/abs/2502.05741v2) - [DOI](https://doi.org/10.48550/arXiv.2502.05741) |
