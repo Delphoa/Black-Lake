@@ -8603,6 +8603,29 @@
         "https://doi.org/10.48550/arXiv.2509.19077"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260818-RAIR Retrieval-Augmented",
+        ".logs/20260818-Arxiv-RAIR-Retrieval-Augmented-Iterative-Refinement-LOG.md",
+        ".reports/BL-Arxiv-RAIR-Retrieval-Augmented-Iterative-Refinement-20260818/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2504.18938",
+      "arxiv_id": "2504.18938",
+      "commit_or_pr": "",
+      "deposit_date": "20260818",
+      "doi": "10.48550/arXiv.2504.18938",
+      "normalized_title": "RAIR: Retrieval-Augmented Iterative Refinement for Chinese Spelling Correction",
+      "notes": "Job BLAD-2200-20260818-BBEE0F31 item BLAD-2200-20260818-BBEE0F31-P29; draw 21528 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 9; reselections 9; complete-source gate passed; all source files withheld locally.",
+      "slug": "RAIR-Retrieval-Augmented-Iterative-Refinement",
+      "source_urls": [
+        "https://arxiv.org/abs/2504.18938",
+        "https://arxiv.org/html/2504.18938",
+        "https://arxiv.org/pdf/2504.18938",
+        "https://doi.org/10.48550/arXiv.2504.18938"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
