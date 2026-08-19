@@ -4866,3 +4866,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval* | Zhu, He; Zhang, Wenjia; Huang, Nuoxian; Li, Boyang; Niu, Luyao; Fan, Zipei; Lun, Tianle; Tao, Yicheng; Su, Junyou; Gong, Zhaoya; Fang, Chenyu; Liu, Xing | [arXiv:2402.19273](https://arxiv.org/abs/2402.19273) - [DOI](https://doi.org/10.48550/arXiv.2402.19273) |
+
+
+## [DEP-E-20260819-Why is Normalization](../DEP-E-20260819-Why%20is%20Normalization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise* | Fang, Yuchen; Demmel, James; Lavaei, Javad | [arXiv:2602.13413](https://arxiv.org/abs/2602.13413) - [DOI](https://doi.org/10.48550/arXiv.2602.13413) |
