@@ -8198,3 +8198,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Context Fidelity via Native Retrieval-Augmented Reasoning* | Wang, Suyuchen; Wang, Jinlin; Wang, Xinyu; Li, Shiqi; Tang, Xiangru; Hong, Sirui; Chang, Xiao-Wen; Wu, Chenglin; Liu, Bang | [arXiv:2509.13683](https://arxiv.org/abs/2509.13683) - [DOI](https://doi.org/10.48550/arXiv.2509.13683) |
+
+
+## [DEP-E-20260819-Distributed Evolution](../DEP-E-20260819-Distributed%20Evolution/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Evolution Strategies for Black-box Stochastic Optimization* | He, Xiaoyu; Zheng, Zibin; Chen, Chuan; Zhou, Yuren; Luo, Chuan; Lin, Qingwei | [arXiv:2204.04450](https://arxiv.org/abs/2204.04450) - [DOI](https://doi.org/10.48550/arXiv.2204.04450) |
