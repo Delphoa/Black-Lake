@@ -8919,3 +8919,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *High-Assurance Separation Kernels: A Survey on Formal Methods* | Zhao, Yongwang; Sanan, David; Zhang, Fuyuan; Liu, Yang | [arXiv:1701.01535](https://arxiv.org/abs/1701.01535) - [DOI](https://doi.org/10.48550/arXiv.1701.01535) |
+
+
+## [DEP-E-20260819-Monte Carlo Tree Search](../DEP-E-20260819-Monte%20Carlo%20Tree%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Monte Carlo Tree Search based Space Transfer for Black-box Optimization* | Wang, Shukuan; Xue, Ke; Song, Lei; Huang, Xiaobin; Qian, Chao | [arXiv:2412.07186](https://arxiv.org/abs/2412.07186) - [DOI](https://doi.org/10.48550/arXiv.2412.07186) |
