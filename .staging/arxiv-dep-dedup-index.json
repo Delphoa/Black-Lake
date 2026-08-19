@@ -12605,6 +12605,29 @@
         "https://doi.org/10.1109/LRA.2025.3632120"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Investigating Rumor News",
+        ".logs/20260819-Arxiv-Investigating-Rumor-News-Using-Agreement-Aware-LOG.md",
+        ".reports/BL-Arxiv-Investigating-Rumor-News-Using-Agreement-Aware-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1802.07398",
+      "arxiv_id": "1802.07398",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3269206.3272020",
+      "normalized_title": "Investigating Rumor News Using Agreement-Aware Search",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P118; draw 4630 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "Investigating-Rumor-News-Using-Agreement-Aware",
+      "source_urls": [
+        "https://arxiv.org/abs/1802.07398",
+        "https://arxiv.org/html/1802.07398",
+        "https://arxiv.org/pdf/1802.07398",
+        "https://doi.org/10.1145/3269206.3272020"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

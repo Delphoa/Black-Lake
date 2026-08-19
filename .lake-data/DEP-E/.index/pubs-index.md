@@ -5552,3 +5552,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry* | Wang, Zhixiang; Li, Xudong; Zhang, Yizhai; Zhang, Fan; Huang, Panfeng | [arXiv:2412.08909](https://arxiv.org/abs/2412.08909) - [DOI](https://doi.org/10.1109/LRA.2025.3632120) |
+
+
+## [DEP-E-20260819-Investigating Rumor News](../DEP-E-20260819-Investigating%20Rumor%20News/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Investigating Rumor News Using Agreement-Aware Search* | Shang, Jingbo; Sun, Tianhang; Shen, Jiaming; Liu, Xingbang; Gruenheid, Anja; Korn, Flip; Lelkes, Adam; Yu, Cong; Han, Jiawei | [arXiv:1802.07398](https://arxiv.org/abs/1802.07398) - [DOI](https://doi.org/10.1145/3269206.3272020) |
