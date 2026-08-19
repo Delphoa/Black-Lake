@@ -4838,3 +4838,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Binary Semantic Embedding for Histology Image Classification and Retrieval* | Kang, Xiao; Liu, Xingbo; Nie, Xiushan; Yin, Yilong | [arXiv:2010.03266](https://arxiv.org/abs/2010.03266) - [DOI](https://doi.org/10.48550/arXiv.2010.03266) |
+
+
+## [DEP-E-20260819-Scaling Up Efficient](../DEP-E-20260819-Scaling%20Up%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search* | Behdin, Kayhan; Song, Qingquan; Vasudevan, Sriram; Sheng, Jian; Ma, Xiaojing; Zhou, Z; Zhu, Chuanrui; Li, Guoyao; Nguyen, Chanh; Ghosh, Sayan; Sang, Hejian; Baarzi, Ata Fatahi; Ramachandran, Sundara Raman; Wang, Xiaoqing; Lan, Qing; S, Vinay Y; Guo, Qi; Johnson, Caleb; Wang, Zhipeng; Borisyuk, Fedor | [arXiv:2510.22101](https://arxiv.org/abs/2510.22101) - [DOI](https://doi.org/10.48550/arXiv.2510.22101) |
