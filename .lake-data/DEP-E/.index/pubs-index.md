@@ -8688,3 +8688,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Augmented Graph Neural Networks for Sequential Recommendation* | Ma, Chen; Ma, Liheng; Zhang, Yingxue; Sun, Jianing; Liu, Xue; Coates, Mark | [arXiv:1912.11730](https://arxiv.org/abs/1912.11730) - [DOI](https://doi.org/10.48550/arXiv.1912.11730) |
+
+
+## [DEP-E-20260819-GEM Generating LiDAR](../DEP-E-20260819-GEM%20Generating%20LiDAR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GEM: Generating LiDAR World Model via Deformable Mamba* | Wu, Yang; Liu, Zhaojiang; Meng, Qiang; Liu, Youquan; Weng, Renliang; Qian, Jianjun; Yang, Jian; Xie, Jin | [arXiv:2605.07326](https://arxiv.org/abs/2605.07326) - [DOI](https://doi.org/10.48550/arXiv.2605.07326) |
