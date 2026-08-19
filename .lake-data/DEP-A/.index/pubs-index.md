@@ -12365,3 +12365,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL* | Langzhe Gu; Chengkai Hou; Meng Li; Xinhua Wang; Jiaming Liu; Xinyuan Lv; Bowei Zhang; Shuanghao Bai; Guangrun Li; Jingyang He; Gaole Dai; Ziluo Ding; Zhiyuan Xu; Kuan Cheng; Jian Tang; Zhengping Che; Shanghang Zhang | [arXiv:2608.16837v1](https://arxiv.org/abs/2608.16837v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16837) |
+
+
+## [DEP-A-20260820-Embodied Navigator Point](../DEP-A-20260820-Embodied%20Navigator%20Point/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17512-whitepaper-review.md`](../DEP-A-20260820-Embodied%20Navigator%20Point/2608.17512-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation* | Hongyan Feng; Sunlai Chen; Xuanyu Liu; Miao Pan; Yangfan Xie; Yuxiang Cui; Zhongxiang Zhou; Rong Xiong; Wenqi Zhang; Jianwei Yin; Yueting Zhuang; Xuhong Zhang | [arXiv:2608.17512v1](https://arxiv.org/abs/2608.17512v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17512) |
