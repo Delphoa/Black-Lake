@@ -20264,6 +20264,29 @@
         "https://doi.org/10.48550/arXiv.2401.07378"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Differentiable",
+        ".logs/20260819-Arxiv-Differentiable-Optimization-Layered-Safety-LOG.md",
+        ".reports/BL-Arxiv-Differentiable-Optimization-Layered-Safety-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.16327",
+      "arxiv_id": "2605.16327",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.16327",
+      "normalized_title": "Differentiable Optimization Layered Safety-Critical Control for Risk-Aware Navigation via Conformal Prediction",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P151; draw 36992 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 17; reselections 21; complete-source gate passed; all source files withheld locally.",
+      "slug": "Differentiable-Optimization-Layered-Safety",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.16327",
+        "https://arxiv.org/html/2605.16327",
+        "https://arxiv.org/pdf/2605.16327",
+        "https://doi.org/10.48550/arXiv.2605.16327"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

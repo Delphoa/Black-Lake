@@ -7883,3 +7883,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient approximation of Earth Mover's Distance Based on Nearest Neighbor Search* | Meng, Guangyu; Zhou, Ruyu; Liu, Liu; Liang, Peixian; Liu, Fang; Chen, Danny; Niemier, Michael; Hu, X. Sharon | [arXiv:2401.07378](https://arxiv.org/abs/2401.07378) - [DOI](https://doi.org/10.48550/arXiv.2401.07378) |
+
+
+## [DEP-E-20260819-Differentiable](../DEP-E-20260819-Differentiable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Differentiable Optimization Layered Safety-Critical Control for Risk-Aware Navigation via Conformal Prediction* | Dong, Jinyang; Wu, Shizhen; Fang, Yongchun | [arXiv:2605.16327](https://arxiv.org/abs/2605.16327) - [DOI](https://doi.org/10.48550/arXiv.2605.16327) |
