@@ -7547,3 +7547,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluation of Retrieval-Augmented Generation: A Survey* | Yu, Hao; Gan, Aoran; Zhang, Kai; Tong, Shiwei; Liu, Qi; Liu, Zhaofeng | [arXiv:2405.07437](https://arxiv.org/abs/2405.07437) - [DOI](https://doi.org/10.1007/978-981-96-1024-2_8) |
+
+
+## [DEP-E-20260819-Robust Optimization for](../DEP-E-20260819-Robust%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust Optimization for Fairness with Noisy Protected Groups* | Wang, Serena; Guo, Wenshuo; Narasimhan, Harikrishna; Cotter, Andrew; Gupta, Maya; Jordan, Michael I. | [arXiv:2002.09343](https://arxiv.org/abs/2002.09343) - [DOI](https://doi.org/10.48550/arXiv.2002.09343) |
