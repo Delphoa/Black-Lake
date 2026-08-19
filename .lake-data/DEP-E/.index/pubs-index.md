@@ -7834,3 +7834,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning* | Li, Sijia; Li, Xinran; Chen, Shibo; Zhang, Jun | [arXiv:2601.07463](https://arxiv.org/abs/2601.07463) - [DOI](https://doi.org/10.48550/arXiv.2601.07463) |
+
+
+## [DEP-E-20260819-Batch Multi-Fidelity](../DEP-E-20260819-Batch%20Multi-Fidelity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Batch Multi-Fidelity Bayesian Optimization with Deep Auto-Regressive Networks* | Li, Shibo; Kirby, Robert M.; Zhe, Shandian | [arXiv:2106.09884](https://arxiv.org/abs/2106.09884) - [DOI](https://doi.org/10.48550/arXiv.2106.09884) |
