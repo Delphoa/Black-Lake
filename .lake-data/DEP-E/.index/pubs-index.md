@@ -7778,3 +7778,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Solver* | He, Shuangshuang; Zhang, Yuanting; Liang, Hongli; Meng, Qingye; Yuan, Xingyuan; Wang, Shuo | [arXiv:2509.14775](https://arxiv.org/abs/2509.14775) - [DOI](https://doi.org/10.48550/arXiv.2509.14775) |
+
+
+## [DEP-E-20260819-World Models A](../DEP-E-20260819-World%20Models%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications* | Zidan, Arif Hassan; Pan, Yi; Jiang, Hanqi; Yan, Ruiyu; Ruan, Wei; Wu, Zihao; Chen, Lifeng; You, Weihang; Li, Xinliang; Chen, Bowen; Hu, Huawen; Wang, Peilong; Liu, Sizhuang; Zhang, Jing; Li, Siyuan; Liu, Zhengliang; Bao, Yu; Zhao, Lin; Sun, Lichao; Zhu, Dajiang; Li, Xiang; Lv, Jinglei; Li, Quanzheng; Liu, Wei; Liu, Tianming; Zhang, Wei | [arXiv:2606.00133](https://arxiv.org/abs/2606.00133) - [DOI](https://doi.org/10.48550/arXiv.2606.00133) |
