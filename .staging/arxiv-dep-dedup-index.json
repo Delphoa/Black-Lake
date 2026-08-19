@@ -12766,6 +12766,29 @@
         "https://doi.org/10.48550/arXiv.2503.08612"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Quantum Data Structure",
+        ".logs/20260819-Arxiv-Quantum-Data-Structure-for-Range-Minimum-Query-LOG.md",
+        ".reports/BL-Arxiv-Quantum-Data-Structure-for-Range-Minimum-Query-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.13195",
+      "arxiv_id": "2601.13195",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1016/j.jcss.2026.103756",
+      "normalized_title": "Quantum Data Structure for Range Minimum Query",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P125; draw 36379 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Quantum-Data-Structure-for-Range-Minimum-Query",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.13195",
+        "https://arxiv.org/html/2601.13195",
+        "https://arxiv.org/pdf/2601.13195",
+        "https://doi.org/10.1016/j.jcss.2026.103756"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

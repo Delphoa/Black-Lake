@@ -5601,3 +5601,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder* | Tang, Yingqi; Xu, Zhuoran; Meng, Zhaotie; Cheng, Erkang | [arXiv:2503.08612](https://arxiv.org/abs/2503.08612) - [DOI](https://doi.org/10.48550/arXiv.2503.08612) |
+
+
+## [DEP-E-20260819-Quantum Data Structure](../DEP-E-20260819-Quantum%20Data%20Structure/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Data Structure for Range Minimum Query* | Wang, Qisheng; Xu, Zhean; Zhang, Zhicheng | [arXiv:2601.13195](https://arxiv.org/abs/2601.13195) - [DOI](https://doi.org/10.1016/j.jcss.2026.103756) |
