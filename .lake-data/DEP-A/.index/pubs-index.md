@@ -10736,3 +10736,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging* | Binglei Zhao; Xuanhua Yang; Xiwei Zhao; Sulong Xu | [arXiv:2608.04809v1](https://arxiv.org/abs/2608.04809v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04809) |
+
+
+## [DEP-A-20260819-Hierarchical Latent Predi](../DEP-A-20260819-Hierarchical%20Latent%20Predi/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05806-whitepaper-review.md`](../DEP-A-20260819-Hierarchical%20Latent%20Predi/2608.05806-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Latent Prediction for Language Models* | Chang Shi; Tim Pearce; Manan Tomar; Siddhartha Sen; John Langford | [arXiv:2608.05806v1](https://arxiv.org/abs/2608.05806v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05806) |
