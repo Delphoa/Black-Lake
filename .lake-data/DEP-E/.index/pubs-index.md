@@ -7568,3 +7568,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Inferring Reward Machines and Transition Machines from Partially Observable Markov Decision Processes* | Wu, Yuly; Liu, Jiamou; Zhang, Libo | [arXiv:2508.01947](https://arxiv.org/abs/2508.01947) - [DOI](https://doi.org/10.48550/arXiv.2508.01947) |
+
+
+## [DEP-E-20260819-Rethinking Translation](../DEP-E-20260819-Rethinking%20Translation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Translation Memory Augmented Neural Machine Translation* | Hao, Hongkun; Huang, Guoping; Liu, Lemao; Zhang, Zhirui; Shi, Shuming; Wang, Rui | [arXiv:2306.06948](https://arxiv.org/abs/2306.06948) - [DOI](https://doi.org/10.48550/arXiv.2306.06948) |
