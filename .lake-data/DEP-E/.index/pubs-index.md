@@ -6196,3 +6196,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Traceable Group-Wise Self-Optimizing Feature Transformation Learning: A Dual Optimization Perspective* | Xiao, Meng; Wang, Dongjie; Wu, Min; Liu, Kunpeng; Xiong, Hui; Zhou, Yuanchun; Fu, Yanjie | [arXiv:2306.16893](https://arxiv.org/abs/2306.16893) - [DOI](https://doi.org/10.48550/arXiv.2306.16893) |
+
+
+## [DEP-E-20260819-Single Path One-Shot](../DEP-E-20260819-Single%20Path%20One-Shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Single Path One-Shot Neural Architecture Search with Uniform Sampling* | Guo, Zichao; Zhang, Xiangyu; Mu, Haoyuan; Heng, Wen; Liu, Zechun; Wei, Yichen; Sun, Jian | [arXiv:1904.00420](https://arxiv.org/abs/1904.00420) - [DOI](https://doi.org/10.48550/arXiv.1904.00420) |
