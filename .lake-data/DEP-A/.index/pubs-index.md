@@ -11870,3 +11870,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence* | Haokai Zhang; Yuhang Ding; Yunshu Zhou; Xinze Du; Shengtao Zhang; Zhiyue Zhao; Yuling Xi; Hao Chen | [arXiv:2608.12743v1](https://arxiv.org/abs/2608.12743v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12743) |
+
+
+## [DEP-A-20260819-ERSkill Evolving Skill Gu](../DEP-A-20260819-ERSkill%20Evolving%20Skill%20Gu/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12720-whitepaper-review.md`](../DEP-A-20260819-ERSkill%20Evolving%20Skill%20Gu/2608.12720-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval* | Haolong Chen; Liang Zhang; Zhuo Li; Lei Xue; Guanrxu Zhu | [arXiv:2608.12720v1](https://arxiv.org/abs/2608.12720v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12720) |
