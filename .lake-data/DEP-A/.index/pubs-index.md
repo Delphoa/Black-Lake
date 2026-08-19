@@ -12338,3 +12338,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory* | Bingxin Xu; Yuzhang Shang; Emilio Ferrara | [arXiv:2608.16889v1](https://arxiv.org/abs/2608.16889v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16889) |
+
+
+## [DEP-A-20260820-Memory Is Communication F](../DEP-A-20260820-Memory%20Is%20Communication%20F/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17053-whitepaper-review.md`](../DEP-A-20260820-Memory%20Is%20Communication%20F/2608.17053-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Is Communication: The Frontier Between Remembering and Signaling* | Yashar Talebirad; Eden Redman; Ali Parsaee; Osmar R. Zaiane | [arXiv:2608.17053v1](https://arxiv.org/abs/2608.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17053) |
