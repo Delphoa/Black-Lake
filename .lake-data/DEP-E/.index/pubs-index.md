@@ -5006,3 +5006,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Earth-o1: A Grid-free Observation-native Atmospheric World Model* | Gong, Junchao; Xu, Kaiyi; Wei, Wangxu; Tu, Siwei; Xu, Jingyi; Liu, Zili; Fan, Hang; Zhou, Zhiwang; Han, Tao; Xiao, Yi; Gu, Xinyu; Li, Zhangrui; Zhang, Wenlong; Chen, Hao; Yang, Xiaokang; Wang, Yaqiang; Cheng, Lijing; Gentine, Pierre; Ouyang, Wanli; Zhang, Feng; Tan, Zhe-Min; Zhou, Bowen; Ling, Fenghua; Fei, Ben; Bai, Lei | [arXiv:2605.06337](https://arxiv.org/abs/2605.06337) - [DOI](https://doi.org/10.48550/arXiv.2605.06337) |
+
+
+## [DEP-E-20260819-SLOTH Structured Learning](../DEP-E-20260819-SLOTH%20Structured%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies* | Zhou, Fan; Pan, Chen; Ma, Lintao; Liu, Yu; Wang, Shiyu; Zhang, James; Zhu, Xinxin; Hu, Xuanwei; Hu, Yunhua; Zheng, Yangfei; Lei, Lei; Hu, Yun | [arXiv:2302.05650](https://arxiv.org/abs/2302.05650) - [DOI](https://doi.org/10.48550/arXiv.2302.05650) |
