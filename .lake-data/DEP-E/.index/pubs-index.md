@@ -8345,3 +8345,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Matrix-game 2.0: An open-source real-time and streaming interactive world model* | He, Xianglong; Peng, Chunli; Liu, Zexiang; Wang, Boyang; Zhang, Yifan; Cui, Qi; Kang, Fei; Jiang, Biao; An, Mengyin; Ren, Yangyang; Xu, Baixin; Guo, Hao-Xiang; Gong, Kaixiong; Wu, Size; Li, Wei; Song, Xuchen; Liu, Yang; Li, Yangguang; Zhou, Yahui | [arXiv:2508.13009](https://arxiv.org/abs/2508.13009) - [DOI](https://doi.org/10.48550/arXiv.2508.13009) |
+
+
+## [DEP-E-20260819-Memory-augmented Query](../DEP-E-20260819-Memory-augmented%20Query/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning* | Xu, Mufan; Liang, Gewen; Chen, Kehai; Wang, Wei; Zhou, Xun; Yang, Muyun; Zhao, Tiejun; Zhang, Min | [arXiv:2503.05193](https://arxiv.org/abs/2503.05193) - [DOI](https://doi.org/10.48550/arXiv.2503.05193) |
