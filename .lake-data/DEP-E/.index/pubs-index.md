@@ -9633,3 +9633,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Do Adam and Training Strategies Help BNNs Optimization?* | Liu, Zechun; Shen, Zhiqiang; Li, Shichao; Helwegen, Koen; Huang, Dong; Cheng, Kwang-Ting | [arXiv:2106.11309](https://arxiv.org/abs/2106.11309) - [DOI](https://doi.org/10.48550/arXiv.2106.11309) |
+
+
+## [DEP-E-20260819-VerIPO Cultivating Long](../DEP-E-20260819-VerIPO%20Cultivating%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization* | Li, Yunxin; Chen, Xinyu; Li, Zitao; Liu, Zhenyu; Wang, Longyue; Luo, Wenhan; Hu, Baotian; Zhang, Min | [arXiv:2505.19000](https://arxiv.org/abs/2505.19000) - [DOI](https://doi.org/10.48550/arXiv.2505.19000) |
