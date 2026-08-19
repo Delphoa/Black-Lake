@@ -10060,3 +10060,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DRL-Based Antenna Position Optimization For MA-Assisted OTFS System Under Imperfect CSI* | Wang, Maoyuan; Zhang, Qian; Zhao, Yufei; Cheng, Xuejun; Dong, Zheng; Wang, Deqiang; Guan, Yong Liang | [arXiv:2604.23611](https://arxiv.org/abs/2604.23611) - [DOI](https://doi.org/10.48550/arXiv.2604.23611) |
+
+
+## [DEP-E-20260819-Overcoming Long-term](../DEP-E-20260819-Overcoming%20Long-term/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation* | Peng, Jian; Tang, Bo; Jiang, Hao; Li, Zhuo; Lei, Yinjie; Lin, Tao; Li, Haifeng | [arXiv:1912.09091](https://arxiv.org/abs/1912.09091) - [DOI](https://doi.org/10.1109/TNNLS.2021.3056201) |
