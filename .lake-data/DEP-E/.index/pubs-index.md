@@ -9514,3 +9514,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention* | Liu, Xinyu; Peng, Houwen; Zheng, Ningxin; Yang, Yuqing; Hu, Han; Yuan, Yixuan | [arXiv:2305.07027](https://arxiv.org/abs/2305.07027) - [DOI](https://doi.org/10.48550/arXiv.2305.07027) |
+
+
+## [DEP-E-20260819-Voice trigger detection](../DEP-E-20260819-Voice%20trigger%20detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Voice trigger detection from LVCSR hypothesis lattices using bidirectional lattice recurrent neural networks* | Jeon, Woojay; Liu, Leo; Mason, Henry | [arXiv:2003.00304](https://arxiv.org/abs/2003.00304) - [DOI](https://doi.org/10.1109/ICASSP.2019.8682617) |
