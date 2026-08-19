@@ -4831,3 +4831,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Domain Virtual Network Embedding Algorithm based on Horizontal Federated Learning* | Zhang, Peiying; Chen, Ning; Li, Shibao; Choo, Kim-Kwang Raymond; Jiang, Chunxiao | [arXiv:2205.14665](https://arxiv.org/abs/2205.14665) - [DOI](https://doi.org/10.48550/arXiv.2205.14665) |
+
+
+## [DEP-E-20260819-Learning Binary Semantic](../DEP-E-20260819-Learning%20Binary%20Semantic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Binary Semantic Embedding for Histology Image Classification and Retrieval* | Kang, Xiao; Liu, Xingbo; Nie, Xiushan; Yin, Yilong | [arXiv:2010.03266](https://arxiv.org/abs/2010.03266) - [DOI](https://doi.org/10.48550/arXiv.2010.03266) |
