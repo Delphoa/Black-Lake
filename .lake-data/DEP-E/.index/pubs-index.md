@@ -6637,3 +6637,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs* | Liu, Jinzhe; Huang, Xiangsheng; Chen, Zhuo; Fang, Yin | [arXiv:2406.18535](https://arxiv.org/abs/2406.18535) - [DOI](https://doi.org/10.48550/arXiv.2406.18535) |
+
+
+## [DEP-E-20260819-Causal Disentanglement](../DEP-E-20260819-Causal%20Disentanglement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Causal Disentanglement Hidden Markov Model for Fault Diagnosis* | Chang, Rihao; Ma, Yongtao; Nie, Weizhi; Nie, Jie; Liu, An-an | [arXiv:2308.03027](https://arxiv.org/abs/2308.03027) - [DOI](https://doi.org/10.48550/arXiv.2308.03027) |
