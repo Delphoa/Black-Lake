@@ -11564,3 +11564,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards a Relevance Posterior in Neural Information Access* | Andrew Parry; Emmanouil Georgios Lionis; Debasis Ganguly; Sean MacAvaney | [arXiv:2607.23561v1](https://arxiv.org/abs/2607.23561v1) - [DOI](https://doi.org/10.1145/3805712.3808541) |
+
+
+## [DEP-A-20260819-Choosing Text Embedding M](../DEP-A-20260819-Choosing%20Text%20Embedding%20M/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23507-whitepaper-review.md`](../DEP-A-20260819-Choosing%20Text%20Embedding%20M/2607.23507-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Choosing a Text Embedding Model: A Practical Benchmarking and Decision Framework* | Madhav S Baidya | [arXiv:2607.23507v1](https://arxiv.org/abs/2607.23507v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23507) |
