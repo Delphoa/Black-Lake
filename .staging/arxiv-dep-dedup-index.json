@@ -14514,6 +14514,29 @@
         "https://doi.org/10.48550/arXiv.2112.07918"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-The Pensieve Paradigm",
+        ".logs/20260819-Arxiv-The-Pensieve-Paradigm-Stateful-Language-Models-LOG.md",
+        ".reports/BL-Arxiv-The-Pensieve-Paradigm-Stateful-Language-Models-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.12108",
+      "arxiv_id": "2602.12108",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.12108",
+      "normalized_title": "The Pensieve Paradigm: Stateful Language Models Mastering Their Own Context",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P201; draw 56406 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-Pensieve-Paradigm-Stateful-Language-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.12108",
+        "https://arxiv.org/html/2602.12108",
+        "https://arxiv.org/pdf/2602.12108",
+        "https://doi.org/10.48550/arXiv.2602.12108"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

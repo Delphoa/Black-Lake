@@ -6133,3 +6133,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *M-FasterSeg: An Efficient Semantic Segmentation Network Based on Neural Architecture Search* | Wu, Junjun; Kuang, Huiyu; Lu, Qinghua; Lin, Zeqin; Shi, Qingwu; Liu, Xilin; Zhu, Xiaoman | [arXiv:2112.07918](https://arxiv.org/abs/2112.07918) - [DOI](https://doi.org/10.48550/arXiv.2112.07918) |
+
+
+## [DEP-E-20260819-The Pensieve Paradigm](../DEP-E-20260819-The%20Pensieve%20Paradigm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Pensieve Paradigm: Stateful Language Models Mastering Their Own Context* | Liu, Xiaoyuan; Liang, Tian; Ma, Dongyang; Zhou, Deyu; Mi, Haitao; He, Pinjia; Wang, Yan | [arXiv:2602.12108](https://arxiv.org/abs/2602.12108) - [DOI](https://doi.org/10.48550/arXiv.2602.12108) |
