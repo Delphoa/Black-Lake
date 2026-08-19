@@ -10873,3 +10873,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data* | Liu, Xiao; Wu, Zirui; Wu, Xueqing; Lu, Pan; Chang, Kai-Wei; Feng, Yansong | [arXiv:2402.17644](https://arxiv.org/abs/2402.17644) - [DOI](https://doi.org/10.48550/arXiv.2402.17644) |
+
+## [DEP-A-20260820-BigIssue A Intake](../DEP-A-20260820-BigIssue%20A%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-BigIssue%20A%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BigIssue: A Realistic Bug Localization Benchmark* | Kassianik, Paul; Nijkamp, Erik; Pang, Bo; Zhou, Yingbo; Xiong, Caiming | [arXiv:2207.10739](https://arxiv.org/abs/2207.10739) - [DOI](https://doi.org/10.48550/arXiv.2207.10739) |
