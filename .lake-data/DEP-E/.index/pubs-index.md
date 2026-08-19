@@ -7015,3 +7015,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation* | Cui, Miduo; Wang, Haochen; Mao, Shangqin; Yang, Xun; Xie, Qianlong; Wang, Xingxing; Ge, Xuri; Zhou, Ying; Xu, Zhiwei | [arXiv:2606.14192](https://arxiv.org/abs/2606.14192) - [DOI](https://doi.org/10.48550/arXiv.2606.14192) |
+
+
+## [DEP-E-20260819-Frequency Fitness](../DEP-E-20260819-Frequency%20Fitness/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Frequency Fitness Assignment: Optimization without Bias for Good Solutions can be Efficient* | Weise, Thomas; Wu, Zhize; Li, Xinlu; Chen, Yan; Lässig, Jörg | [arXiv:2112.00229](https://arxiv.org/abs/2112.00229) - [DOI](https://doi.org/10.48550/arXiv.2112.00229) |

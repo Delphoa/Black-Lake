@@ -17412,6 +17412,29 @@
         "https://doi.org/10.48550/arXiv.2606.14192"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Frequency Fitness",
+        ".logs/20260819-Arxiv-Frequency-Fitness-Assignment-Optimization-LOG.md",
+        ".reports/BL-Arxiv-Frequency-Fitness-Assignment-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2112.00229",
+      "arxiv_id": "2112.00229",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2112.00229",
+      "normalized_title": "Frequency Fitness Assignment: Optimization without Bias for Good Solutions can be Efficient",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P27; draw 57460 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 6; focus exclusions 47; reselections 55; complete-source gate passed; all source files withheld locally.",
+      "slug": "Frequency-Fitness-Assignment-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/2112.00229",
+        "https://arxiv.org/html/2112.00229",
+        "https://arxiv.org/pdf/2112.00229",
+        "https://doi.org/10.48550/arXiv.2112.00229"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
