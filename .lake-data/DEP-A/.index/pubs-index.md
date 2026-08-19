@@ -11258,3 +11258,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CommitKV: Lifecycle-Aware KV Cache Compression via Commit Transitions for Multi-Turn Agents* | Weizhong Huang; Jinchao Zhang; Xiawu Zheng | [arXiv:2608.07855v1](https://arxiv.org/abs/2608.07855v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07855) |
+
+
+## [DEP-A-20260819-Addressable Memory Video](../DEP-A-20260819-Addressable%20Memory%20Video/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07408-whitepaper-review.md`](../DEP-A-20260819-Addressable%20Memory%20Video/2608.07408-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Addressable Memory for Video World Models* | Xindi Wu; Sven Elflein; James Lucas; Olga Russakovsky; Laura Leal-Taixé; Despoina Paschalidou; Jonathan Lorraine; Aljoša Ošep | [arXiv:2608.07408v1](https://arxiv.org/abs/2608.07408v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07408) |
