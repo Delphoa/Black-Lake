@@ -6294,3 +6294,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions* | Li, Longfei; Fan, Zhiwen; Cong, Wenyan; Liu, Xinhang; Yin, Yuyang; Foutter, Matt; Pan, Panwang; You, Chenyu; Wang, Yue; Wang, Zhangyang; Zhao, Yao; Pavone, Marco; Wei, Yunchao | [arXiv:2507.07978](https://arxiv.org/abs/2507.07978) - [DOI](https://doi.org/10.48550/arXiv.2507.07978) |
+
+
+## [DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W](../DEP-E-20260819-Clo-HDnn%20A%204%2066%20TFLOPS%20W/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Clo-HDnn: A 4.66 TFLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-efficient Hyperdimensional Computing via Progressive Search* | Song, Chang Eun; Xu, Weihong; Fan, Keming; Jain, Soumil; Hota, Gopabandhu; Yang, Haichao; Liu, Leo; Akarvardar, Kerem; Chang, Meng-Fan; Diaz, Carlos H.; Cauwenberghs, Gert; Rosing, Tajana; Kang, Mingu | [arXiv:2507.17953](https://arxiv.org/abs/2507.17953) - [DOI](https://doi.org/10.23919/VLSITechnologyandCir65189.2025.11074827) |

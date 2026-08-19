@@ -15043,6 +15043,29 @@
         "https://doi.org/10.48550/arXiv.2507.07978"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W",
+        ".logs/20260819-Arxiv-Clo-HDnn-A-4-66-TFLOPS-W-LOG.md",
+        ".reports/BL-Arxiv-Clo-HDnn-A-4-66-TFLOPS-W-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.17953",
+      "arxiv_id": "2507.17953",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.23919/VLSITechnologyandCir65189.2025.11074827",
+      "normalized_title": "Clo-HDnn: A 4.66 TFLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-efficient Hyperdimensional Computing via Progressive Search",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P224; draw 39043 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 9; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "Clo-HDnn-A-4-66-TFLOPS-W",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.17953",
+        "https://arxiv.org/html/2507.17953",
+        "https://arxiv.org/pdf/2507.17953",
+        "https://doi.org/10.23919/VLSITechnologyandCir65189.2025.11074827"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
