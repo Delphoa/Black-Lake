@@ -6238,3 +6238,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations* | Gao, Weihao; Fan, Xiangjun; Wang, Chong; Sun, Jiankai; Jia, Kai; Xiao, Wenzhi; Ding, Ruofan; Bin, Xingyan; Yang, Hui; Liu, Xiaobing | [arXiv:2007.07203](https://arxiv.org/abs/2007.07203) - [DOI](https://doi.org/10.48550/arXiv.2007.07203) |
+
+
+## [DEP-E-20260819-Theoretical and Empirical](../DEP-E-20260819-Theoretical%20and%20Empirical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Theoretical and Empirical Analysis of Lehmer Codes to Search Permutation Spaces with Evolutionary Algorithms* | Ma, Yuxuan; Santucci, Valentino; Witt, Carsten | [arXiv:2511.19089](https://arxiv.org/abs/2511.19089) - [DOI](https://doi.org/10.48550/arXiv.2511.19089) |
