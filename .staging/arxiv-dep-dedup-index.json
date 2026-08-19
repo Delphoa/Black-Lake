@@ -28268,6 +28268,29 @@
         "https://doi.org/10.48550/arXiv.2509.21790"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-EMPOWER Evolutionary",
+        ".logs/20260819-Arxiv-EMPOWER-Evolutionary-Medical-Prompt-Optimization-LOG.md",
+        ".reports/BL-Arxiv-EMPOWER-Evolutionary-Medical-Prompt-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.17703",
+      "arxiv_id": "2508.17703",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2508.17703",
+      "normalized_title": "EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P499; draw 61659 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 10; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "EMPOWER-Evolutionary-Medical-Prompt-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.17703",
+        "https://arxiv.org/html/2508.17703",
+        "https://arxiv.org/pdf/2508.17703",
+        "https://doi.org/10.48550/arXiv.2508.17703"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

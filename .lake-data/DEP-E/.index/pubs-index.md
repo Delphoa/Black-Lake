@@ -10319,3 +10319,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE* | Shang, Yu; Jin, Lei; Ma, Yiding; Zhang, Xin; Gao, Chen; Wu, Wei; Li, Yong | [arXiv:2509.21790](https://arxiv.org/abs/2509.21790) - [DOI](https://doi.org/10.48550/arXiv.2509.21790) |
+
+
+## [DEP-E-20260819-EMPOWER Evolutionary](../DEP-E-20260819-EMPOWER%20Evolutionary/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning* | Chen, Yinda; He, Yangfan; Yang, Jing; Zhang, Dapeng; Yuan, Zhenlong; Khan, Muhammad Attique; Baili, Jamel; Yee, Por Lip | [arXiv:2508.17703](https://arxiv.org/abs/2508.17703) - [DOI](https://doi.org/10.48550/arXiv.2508.17703) |
