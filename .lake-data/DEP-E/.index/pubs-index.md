@@ -9969,3 +9969,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization* | Chen, Yuhan; Liu, Yuxuan; Zhang, Long; Gao, Pengzhi; Luan, Jian; Liu, Wei | [arXiv:2511.13091](https://arxiv.org/abs/2511.13091) - [DOI](https://doi.org/10.48550/arXiv.2511.13091) |
+
+
+## [DEP-E-20260819-Instant Continual](../DEP-E-20260819-Instant%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Instant Continual Learning of Neural Radiance Fields* | Po, Ryan; Dong, Zhengyang; Bergman, Alexander W.; Wetzstein, Gordon | [arXiv:2309.01811](https://arxiv.org/abs/2309.01811) - [DOI](https://doi.org/10.48550/arXiv.2309.01811) |
