@@ -11933,3 +11933,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving* | Zekai Li; Yihao Liang; Hongfei Zhang; Jian Chen; Yesheng Liang; Zhijian Liu | [arXiv:2608.12932v1](https://arxiv.org/abs/2608.12932v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12932) |
+
+
+## [DEP-A-20260819-VoxAudio Vocalized Audio](../DEP-A-20260819-VoxAudio%20Vocalized%20Audio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12951-whitepaper-review.md`](../DEP-A-20260819-VoxAudio%20Vocalized%20Audio/2608.12951-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching* | Wenxiang Guo; Changhao Pan; Ziyue Jiang; Fei Wu; Zhou Zhao | [arXiv:2608.12951v1](https://arxiv.org/abs/2608.12951v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12951) |
