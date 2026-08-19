@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **991 publication reviews across 637 DEP-E entries**.
+- Current coverage: **992 publication reviews across 638 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-Co-LMLM-Continuous-91EA](../DEP-E-20260820-Co-LMLM-Continuous-91EA/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Co-LMLM: Continuous-Query Limited Memory Language Models* | Yair Feldman; Linxi Zhao; Nathan Godey; Dongyoung Go; Yilun Hua; Kilian Q. Weinberger; Jennifer J. Sun; Yoav Artzi | [arXiv:2607.07707](https://arxiv.org/abs/2607.07707) | [DEP-E](../DEP-E-20260820-Co-LMLM-Continuous-91EA/README.md) |
 
 ## [DEP-E-20260820-DiSCO-Defending-te-1DEC](../DEP-E-20260820-DiSCO-Defending-te-1DEC/README.md)
 
