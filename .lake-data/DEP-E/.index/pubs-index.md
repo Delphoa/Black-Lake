@@ -9549,3 +9549,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepVerse: 4D Autoregressive Video Generation as a World Model* | Chen, Junyi; Zhu, Haoyi; He, Xianglong; Wang, Yifan; Zhou, Jianjun; Chang, Wenzheng; Zhou, Yang; Li, Zizun; Fu, Zhoujie; Pang, Jiangmiao; He, Tong | [arXiv:2506.01103](https://arxiv.org/abs/2506.01103) - [DOI](https://doi.org/10.48550/arXiv.2506.01103) |
+
+
+## [DEP-E-20260819-An Algorithm for](../DEP-E-20260819-An%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Algorithm for Transmitting VR Video Based on Adaptive Modulation* | Feng, Jie; Wu, Yongpeng; Zhai, Guangtao; Liu, Ning; Zhang, Wenjun | [arXiv:1906.11402](https://arxiv.org/abs/1906.11402) - [DOI](https://doi.org/10.48550/arXiv.1906.11402) |
