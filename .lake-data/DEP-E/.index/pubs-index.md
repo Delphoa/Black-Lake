@@ -6280,3 +6280,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models* | Sun, Shangquan; Ren, Wenqi; Liu, Zikun; Park, Hyunhee; Wang, Rui; Cao, Xiaochun | [arXiv:2410.22959](https://arxiv.org/abs/2410.22959) - [DOI](https://doi.org/10.48550/arXiv.2410.22959) |
+
+
+## [DEP-E-20260819-Choosing the Better](../DEP-E-20260819-Choosing%20the%20Better/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Choosing the Better Bandit Algorithm under Data Sharing: When Do A/B Experiments Work?* | Li, Shuangning; Wang, Chonghuan; Wang, Jingyan | [arXiv:2507.11891](https://arxiv.org/abs/2507.11891) - [DOI](https://doi.org/10.48550/arXiv.2507.11891) |
