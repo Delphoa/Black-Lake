@@ -6364,3 +6364,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *InfoCL: Alleviating Catastrophic Forgetting in Continual Text Classification from An Information Theoretic Perspective* | Song, Yifan; Wang, Peiyi; Xiong, Weimin; Zhu, Dawei; Liu, Tianyu; Sui, Zhifang; Li, Sujian | [arXiv:2310.06362](https://arxiv.org/abs/2310.06362) - [DOI](https://doi.org/10.48550/arXiv.2310.06362) |
+
+
+## [DEP-E-20260819-OpenYield An Open-Source](../DEP-E-20260819-OpenYield%20An%20Open-Source/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OpenYield: An Open-Source SRAM Yield Analysis and Optimization Benchmark Suite* | Shen, Shan; Li, Xingyang; Liu, Zhuohua; Ma, Junhao; Wang, Yikai; Wu, Yiheng; Sun, Yuquan; Xing, Wei W. | [arXiv:2508.04106](https://arxiv.org/abs/2508.04106) - [DOI](https://doi.org/10.48550/arXiv.2508.04106) |
