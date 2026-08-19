@@ -10172,3 +10172,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online World Modeling Enables Real-World Inverse Reinforcement Learning from Observation* | Han, Tyler; Nemekhbold, Bat; Shen, Siyang; Baijal, Rohan; Ebock, Richard; Ravichandiran, Harine; Jung, Sanghun; Huang, Kevin; Boots, Byron | [arXiv:2602.24121](https://arxiv.org/abs/2602.24121) - [DOI](https://doi.org/10.48550/arXiv.2602.24121) |
+
+
+## [DEP-E-20260819-MambaCPU Enhanced](../DEP-E-20260819-MambaCPU%20Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction* | Liu, Xiaoman | [arXiv:2410.19297](https://arxiv.org/abs/2410.19297) - [DOI](https://doi.org/10.48550/arXiv.2410.19297) |
