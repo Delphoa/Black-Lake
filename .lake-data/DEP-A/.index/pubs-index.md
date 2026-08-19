@@ -10785,3 +10785,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification* | Rao, Haocong; Wang, Siqi; Hu, Xiping; Tan, Mingkui; Guo, Yi; Cheng, Jun; Liu, Xinwang; Hu, Bin | [arXiv:2009.03671](https://arxiv.org/abs/2009.03671) - [DOI](https://doi.org/10.48550/arXiv.2009.03671) |
+
+## [DEP-A-20260820-A Simple and Intake](../DEP-A-20260820-A%20Simple%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Simple%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding* | Feng, Di; Zhou, Yiyang; Xu, Chenfeng; Tomizuka, Masayoshi; Zhan, Wei | [arXiv:2103.04056](https://arxiv.org/abs/2103.04056) - [DOI](https://doi.org/10.48550/arXiv.2103.04056) |
