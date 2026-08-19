@@ -7967,3 +7967,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Continual Learning of Large Language Models: A Comprehensive Survey* | Shi, Haizhou; Xu, Zihao; Wang, Hengyi; Qin, Weiyi; Wang, Wenyuan; Wang, Yibin; Wang, Zifeng; Ebrahimi, Sayna; Wang, Hao | [arXiv:2404.16789](https://arxiv.org/abs/2404.16789) - [DOI](https://doi.org/10.48550/arXiv.2404.16789) |
+
+
+## [DEP-E-20260819-Enhancing Balanced Graph](../DEP-E-20260819-Enhancing%20Balanced%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Balanced Graph Edge Partition with Effective Local Search* | Guo, Zhenyu; Xiao, Mingyu; Zhou, Yi; Zhang, Dongxiang; Tan, Kian-Lee | [arXiv:2012.09451](https://arxiv.org/abs/2012.09451) - [DOI](https://doi.org/10.48550/arXiv.2012.09451) |
