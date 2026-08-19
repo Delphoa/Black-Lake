@@ -10081,3 +10081,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Selective Weak Supervision for Neural Information Retrieval* | Zhang, Kaitao; Xiong, Chenyan; Liu, Zhenghao; Liu, Zhiyuan | [arXiv:2001.10382](https://arxiv.org/abs/2001.10382) - [DOI](https://doi.org/10.1145/3366423.3380131) |
+
+
+## [DEP-E-20260819-When to Trust A](../DEP-E-20260819-When%20to%20Trust%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation* | Ren, Jing; Li, Bowen; Xu, Ziqi; Zhang, Xikun; Fayek, Haytham; Li, Xiaodong | [arXiv:2601.09241](https://arxiv.org/abs/2601.09241) - [DOI](https://doi.org/10.48550/arXiv.2601.09241) |
