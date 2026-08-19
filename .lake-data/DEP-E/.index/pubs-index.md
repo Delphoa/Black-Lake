@@ -5951,3 +5951,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Non-Forgetting Knowledge Allocation with Bi-level Competition for Class-Incremental Learning* | Tan, Xiang; He, Run; Cui, Yawen; Zhao, Mengchen; Wu, Yan; Chen, Tianyi; Zhuang, Huiping; Luo, Xiaonan; Li, Guanbin | [arXiv:2605.29592](https://arxiv.org/abs/2605.29592) - [DOI](https://doi.org/10.48550/arXiv.2605.29592) |
+
+
+## [DEP-E-20260819-State Space Model Meets](../DEP-E-20260819-State%20Space%20Model%20Meets/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *State Space Model Meets Transformer: A New Paradigm for 3D Object Detection* | Wang, Chuxin; Yang, Wenfei; Liu, Xiang; Zhang, Tianzhu | [arXiv:2503.14493](https://arxiv.org/abs/2503.14493) - [DOI](https://doi.org/10.48550/arXiv.2503.14493) |
