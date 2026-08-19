@@ -4639,3 +4639,11 @@ Review status: initial source-first synthesis of the selected DEP and all ten pr
 | *VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification* | Dipayan Saha; Khan Thamid Hasan; Shams Tarek; *et al.* | [arXiv:2607.01668v1](https://arxiv.org/abs/2607.01668v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
 | *Probabilistic Memory for Trustworthy Edge Intelligence* | Likai Pei; Jiahao Zheng; Xueji Zhao; *et al.* | [arXiv:2607.02465v1](https://arxiv.org/abs/2607.02465v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
 | *Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders* | Zihao Qi; Christopher Earls | [arXiv:2607.01336v1](https://arxiv.org/abs/2607.01336v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+
+## [DEP-E-20260819-MoCom MAV Comms](../DEP-E-20260819-MoCom%20MAV%20Comms/README.md)
+
+Review status: complete PDF and official full-paper HTML were verified privately; source files were withheld. The owning manuscript is [`mocom_mav_comms_manuscript.md`](../DEP-E-20260819-MoCom%20MAV%20Comms/mocom_mav_comms_manuscript.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoCom: Motion-based Inter-MAV Visual Communication Using Event Vision and Spiking Neural Networks* | Nengbo Zhang; Hann Woei Ho; Ye Zhou | [arXiv:2510.14770v1](https://arxiv.org/abs/2510.14770v1) - [DOI](https://doi.org/10.1109/TRO.2026.3677077) |
