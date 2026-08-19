@@ -6588,3 +6588,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration* | Ji, Peilin; Xue, Xiao; Wang, Simeng; Yan, Wenhao | [arXiv:2508.14654](https://arxiv.org/abs/2508.14654) - [DOI](https://doi.org/10.48550/arXiv.2508.14654) |
+
+
+## [DEP-E-20260819-Agentic AI Empowered](../DEP-E-20260819-Agentic%20AI%20Empowered/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic AI Empowered Multi-UAV Trajectory Optimization in Low-Altitude Economy Networks* | Jiang, Feibo; Dong, Li; Pan, Xitao; Wang, Kezhi; Pan, Cunhua | [arXiv:2508.16379](https://arxiv.org/abs/2508.16379) - [DOI](https://doi.org/10.48550/arXiv.2508.16379) |
