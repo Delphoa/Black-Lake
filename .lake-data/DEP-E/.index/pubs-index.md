@@ -5489,3 +5489,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast 3D Sparse Topological Skeleton Graph Generation for Mobile Robot Global Planning* | Chen, Xinyi; Zhou, Boyu; Lin, Jiarong; Zhang, Yichen; Zhang, Fu; Shen, Shaojie | [arXiv:2208.04248](https://arxiv.org/abs/2208.04248) - [DOI](https://doi.org/10.48550/arXiv.2208.04248) |
+
+
+## [DEP-E-20260819-An efficient algori 01245](../DEP-E-20260819-An%20efficient%20algori%2001245/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An efficient algorithm for the $\ell_{p}$ norm based metric nearness problem* | Tang, Peipei; Jiang, Bo; Wang, Chengjing | [arXiv:2211.01245](https://arxiv.org/abs/2211.01245) - [DOI](https://doi.org/10.48550/arXiv.2211.01245) |
