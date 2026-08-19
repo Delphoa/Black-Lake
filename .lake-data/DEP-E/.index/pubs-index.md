@@ -6287,3 +6287,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Choosing the Better Bandit Algorithm under Data Sharing: When Do A/B Experiments Work?* | Li, Shuangning; Wang, Chonghuan; Wang, Jingyan | [arXiv:2507.11891](https://arxiv.org/abs/2507.11891) - [DOI](https://doi.org/10.48550/arXiv.2507.11891) |
+
+
+## [DEP-E-20260819-Martian World Model](../DEP-E-20260819-Martian%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Martian World Model: Controllable Video Synthesis with Physically Accurate 3D Reconstructions* | Li, Longfei; Fan, Zhiwen; Cong, Wenyan; Liu, Xinhang; Yin, Yuyang; Foutter, Matt; Pan, Panwang; You, Chenyu; Wang, Yue; Wang, Zhangyang; Zhao, Yao; Pavone, Marco; Wei, Yunchao | [arXiv:2507.07978](https://arxiv.org/abs/2507.07978) - [DOI](https://doi.org/10.48550/arXiv.2507.07978) |
