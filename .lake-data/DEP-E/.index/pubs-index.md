@@ -7029,3 +7029,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space* | Zhang, Weichen; Tang, Peizhi; Zeng, Xin; Man, Fanhang; Yu, Shiquan; Dai, Zichao; Zhao, Baining; Chen, Hongjin; Shang, Yu; Wu, Wei; Gao, Chen; Chen, Xinlei; Wang, Xin; Li, Yong; Zhu, Wenwu | [arXiv:2512.21887](https://arxiv.org/abs/2512.21887) - [DOI](https://doi.org/10.48550/arXiv.2512.21887) |
+
+
+## [DEP-E-20260819-Tiny Model Big Logic](../DEP-E-20260819-Tiny%20Model%20Big%20Logic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B* | Xu, Sen; Zhou, Yi; Wang, Wei; Min, Jixin; Yin, Zhibin; Dai, Yingwei; Liu, Shixi; Pang, Lianyu; Chen, Yirong; Zhang, Junlin | [arXiv:2511.06221](https://arxiv.org/abs/2511.06221) - [DOI](https://doi.org/10.48550/arXiv.2511.06221) |
