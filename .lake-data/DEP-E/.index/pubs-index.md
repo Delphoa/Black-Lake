@@ -8303,3 +8303,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms* | Zhao, Zijian; Li, Sen | [arXiv:2507.15351](https://arxiv.org/abs/2507.15351) - [DOI](https://doi.org/10.48550/arXiv.2507.15351) |
+
+
+## [DEP-E-20260819-A Scalable AI Approach](../DEP-E-20260819-A%20Scalable%20AI%20Approach/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Scalable AI Approach for Clinical Trial Cohort Optimization* | Liu, Xiong; Shi, Cheng; Deore, Uday; Wang, Yingbo; Tran, Myah; Khalil, Iya; Devarakonda, Murthy | [arXiv:2109.02808](https://arxiv.org/abs/2109.02808) - [DOI](https://doi.org/10.48550/arXiv.2109.02808) |
