@@ -9753,6 +9753,29 @@
         "https://doi.org/10.48550/arXiv.2411.09121"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Survey of Design",
+        ".logs/20260819-Arxiv-Survey-of-Design-Paradigms-for-Social-Robots-LOG.md",
+        ".reports/BL-Arxiv-Survey-of-Design-Paradigms-for-Social-Robots-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.20556",
+      "arxiv_id": "2407.20556",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.20556",
+      "normalized_title": "Survey of Design Paradigms for Social Robots",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P04; draw 15446 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Survey-of-Design-Paradigms-for-Social-Robots",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.20556",
+        "https://arxiv.org/html/2407.20556",
+        "https://arxiv.org/pdf/2407.20556",
+        "https://doi.org/10.48550/arXiv.2407.20556"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

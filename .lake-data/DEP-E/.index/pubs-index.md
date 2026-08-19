@@ -4684,3 +4684,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs (Technical Report)* | Chen, Yu-Fang; Chung, Kai-Min; Hsieh, Min-Hsiu; Huang, Wei-Jia; Lengál, Ondřej; Lin, Jyun-Ao; Tsai, Wei-Lun | [arXiv:2411.09121](https://arxiv.org/abs/2411.09121) - [DOI](https://doi.org/10.48550/arXiv.2411.09121) |
+
+
+## [DEP-E-20260819-Survey of Design](../DEP-E-20260819-Survey%20of%20Design/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Survey of Design Paradigms for Social Robots* | Frieske, Rita; Mo, Xiaoyu; Fang, Yini; Nieles, Jay; Shi, Bertram E. | [arXiv:2407.20556](https://arxiv.org/abs/2407.20556) - [DOI](https://doi.org/10.48550/arXiv.2407.20556) |
