@@ -5916,3 +5916,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Intelligent Reflecting Surface Enabled Sensing: Cram\'er-Rao Lower Bound Optimization* | Song, Xianxin; Xu, Jie; Liu, Fan; Han, Tony Xiao; Eldar, Yonina C. | [arXiv:2204.11071](https://arxiv.org/abs/2204.11071) - [DOI](https://doi.org/10.48550/arXiv.2204.11071) |
+
+
+## [DEP-E-20260819-Proposing and solving](../DEP-E-20260819-Proposing%20and%20solving/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Proposing and solving olympiad geometry with guided tree search* | Zhang, Chi; Song, Jiajun; Li, Siyu; Liang, Yitao; Ma, Yuxi; Wang, Wei; Zhu, Yixin; Zhu, Song-Chun | [arXiv:2412.10673](https://arxiv.org/abs/2412.10673) - [DOI](https://doi.org/10.48550/arXiv.2412.10673) |
