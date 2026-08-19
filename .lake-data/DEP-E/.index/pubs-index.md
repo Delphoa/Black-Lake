@@ -7001,3 +7001,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GPU Optimization for High-Quality Kinetic Fluid Simulation* | Chen, Yixin; Li, Wei; Fan, Rui; Liu, Xiaopei | [arXiv:2101.11856](https://arxiv.org/abs/2101.11856) - [DOI](https://doi.org/10.48550/arXiv.2101.11856) |
+
+
+## [DEP-E-20260819-FORGE Fragment-Oriented](../DEP-E-20260819-FORGE%20Fragment-Oriented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FORGE: Fragment-Oriented Ranking and Generation for Context-Aware Molecular Optimization* | Zhang, Qingchuan; Cao, He; Li, Hao; Shao, Yanjun; Liu, Zhiyuan; Wang, Shihang; Xie, Shufang; Gao, Shenghua; Ye, Xinwu | [arXiv:2605.10230](https://arxiv.org/abs/2605.10230) - [DOI](https://doi.org/10.48550/arXiv.2605.10230) |
