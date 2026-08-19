@@ -4936,3 +4936,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning* | Liu, Geng; Zhu, Fei; Feng, Rong; Yi, Zhiqiang; Wang, Shiqi; Meng, Gaofeng; Zhang, Zhaoxiang | [arXiv:2504.14727](https://arxiv.org/abs/2504.14727) - [DOI](https://doi.org/10.48550/arXiv.2504.14727) |
+
+
+## [DEP-E-20260819-Visual-inertial state](../DEP-E-20260819-Visual-inertial%20state/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visual-inertial state estimation based on Chebyshev polynomial optimization* | Zhang, Hongyu; Zhu, Maoran; Cai, Qi; Wu, Yuanxin | [arXiv:2404.01150](https://arxiv.org/abs/2404.01150) - [DOI](https://doi.org/10.48550/arXiv.2404.01150) |
