@@ -12284,3 +12284,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification* | Yihang Chen; Pin Qian; Su Wang; Chong Peng; Huan Xu; Shuaiting Li; Yiqi Sun | [arXiv:2608.17247v1](https://arxiv.org/abs/2608.17247v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17247) |
+
+
+## [DEP-A-20260820-What Remember What Reveal](../DEP-A-20260820-What%20Remember%20What%20Reveal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16551-whitepaper-review.md`](../DEP-A-20260820-What%20Remember%20What%20Reveal/2608.16551-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents* | Wenjie Wang; Wenhe Si; Xinyue Xu; Yue Xu | [arXiv:2608.16551v1](https://arxiv.org/abs/2608.16551v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16551) |
