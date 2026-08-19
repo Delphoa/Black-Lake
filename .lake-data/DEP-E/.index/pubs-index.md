@@ -7960,3 +7960,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimal Convergence Analysis of DDPM for General Distributions* | Jiao, Yuchen; Zhou, Yuchen; Li, Gen | [arXiv:2510.27562](https://arxiv.org/abs/2510.27562) - [DOI](https://doi.org/10.48550/arXiv.2510.27562) |
+
+
+## [DEP-E-20260819-Continual Learning of](../DEP-E-20260819-Continual%20Learning%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Continual Learning of Large Language Models: A Comprehensive Survey* | Shi, Haizhou; Xu, Zihao; Wang, Hengyi; Qin, Weiyi; Wang, Wenyuan; Wang, Yibin; Wang, Zifeng; Ebrahimi, Sayna; Wang, Hao | [arXiv:2404.16789](https://arxiv.org/abs/2404.16789) - [DOI](https://doi.org/10.48550/arXiv.2404.16789) |
