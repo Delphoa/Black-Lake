@@ -7911,3 +7911,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering* | Shi, Yuling; Sun, Maolin; Liu, Zijun; Yang, Mo; Fang, Yixiong; Sun, Tianran; Gu, Xiaodong | [arXiv:2601.11255](https://arxiv.org/abs/2601.11255) - [DOI](https://doi.org/10.48550/arXiv.2601.11255) |
+
+
+## [DEP-E-20260819-Direct Estimation of](../DEP-E-20260819-Direct%20Estimation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Direct Estimation of Regional Wall Thicknesses via Residual Recurrent Neural Network* | Xue, Wufeng; Nachum, Ilanit Ben; Pandey, Sachin; Warrington, James; Leung, Stephanie; Li, Shuo | [arXiv:1705.09728](https://arxiv.org/abs/1705.09728) - [DOI](https://doi.org/10.48550/arXiv.1705.09728) |
