@@ -7764,3 +7764,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection* | Zhang, Lizhao; Kong, Shengsong; Guo, Tao; Li, Shaobo; Ji, Zhenzhou | [arXiv:2603.13895](https://arxiv.org/abs/2603.13895) - [DOI](https://doi.org/10.1109/SMC58881.2025.11343286) |
+
+
+## [DEP-E-20260819-Optimizing Federated](../DEP-E-20260819-Optimizing%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming* | Xu, Ziyue; Zhang, Zhihong; Roth, Holger R.; Chen, Chester; Cheng, Yan; Feng, Andrew | [arXiv:2511.16450](https://arxiv.org/abs/2511.16450) - [DOI](https://doi.org/10.48550/arXiv.2511.16450) |
