@@ -17780,6 +17780,29 @@
         "https://doi.org/10.48550/arXiv.2208.06554"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-An Efficient",
+        ".logs/20260819-Arxiv-An-Efficient-Memory-Augmented-Transformer-for-LOG.md",
+        ".reports/BL-Arxiv-An-Efficient-Memory-Augmented-Transformer-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2210.16773",
+      "arxiv_id": "2210.16773",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2210.16773",
+      "normalized_title": "An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P43; draw 49024 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 17; reselections 17; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-Efficient-Memory-Augmented-Transformer-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2210.16773",
+        "https://arxiv.org/html/2210.16773",
+        "https://arxiv.org/pdf/2210.16773",
+        "https://doi.org/10.48550/arXiv.2210.16773"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

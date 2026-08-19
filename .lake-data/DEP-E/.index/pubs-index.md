@@ -7127,3 +7127,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation* | Hu, Xinyue; Gu, Lin; Liu, Liangchen; Li, Ruijiang; Su, Chang; Harada, Tatsuya; Zhu, Yingying | [arXiv:2208.06554](https://arxiv.org/abs/2208.06554) - [DOI](https://doi.org/10.48550/arXiv.2208.06554) |
+
+
+## [DEP-E-20260819-An Efficient](../DEP-E-20260819-An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks* | Wu, Yuxiang; Zhao, Yu; Hu, Baotian; Minervini, Pasquale; Stenetorp, Pontus; Riedel, Sebastian | [arXiv:2210.16773](https://arxiv.org/abs/2210.16773) - [DOI](https://doi.org/10.48550/arXiv.2210.16773) |
