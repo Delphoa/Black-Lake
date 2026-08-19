@@ -7260,3 +7260,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A local search $4/3$-approximation algorithm for the minimum $3$-path partition problem* | Chen, Yong; Goebel, Randy; Lin, Guohui; Liu, Longcheng; Su, Bing; Tong, Weitian; Xu, Yao; Zhang, An | [arXiv:1812.09353](https://arxiv.org/abs/1812.09353) - [DOI](https://doi.org/10.48550/arXiv.1812.09353) |
+
+
+## [DEP-E-20260819-Quantum Recurrent Neural](../DEP-E-20260819-Quantum%20Recurrent%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Recurrent Neural Networks with Encoder-Decoder for Time-Dependent Partial Differential Equations* | Chen, Yuan; Khaliq, Abdul; Furati, Khaled M. | [arXiv:2502.13370](https://arxiv.org/abs/2502.13370) - [DOI](https://doi.org/10.48550/arXiv.2502.13370) |
