@@ -10339,3 +10339,9 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Sampling that Adapts: Self-Aware Iterative Data Persistent Optimization for Mathematical Reasoning* | Rao, Jun; Liu, Xuebo; Deng, Hexuan; Lin, Zepeng; Yu, Zixiong; Wei, Jiansheng; Meng, Xiaojun; Zhang, Min | [arXiv:2505.16176](https://arxiv.org/abs/2505.16176) - [DOI](https://doi.org/10.48550/arXiv.2505.16176) |
+
+## [DEP-E-20260820-AV Parsing CMA](../DEP-E-20260820-AV%20Parsing%20CMA/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing* | Chen, Yaru; Guo, Ruohao; Gao, Liting; Xiang, Yang; Luo, Qingyu; Li, Zhenbo; Wang, Wenwu | [arXiv:2509.14097](https://arxiv.org/abs/2509.14097) |
