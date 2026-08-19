@@ -6056,3 +6056,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Calibrated Dataset Condensation for Faster Hyperparameter Search* | Ding, Mucong; Xu, Yuancheng; Rabbani, Tahseen; Liu, Xiaoyu; Gravelle, Brian; Ranadive, Teresa; Tuan, Tai-Ching; Huang, Furong | [arXiv:2405.17535](https://arxiv.org/abs/2405.17535) - [DOI](https://doi.org/10.48550/arXiv.2405.17535) |
+
+
+## [DEP-E-20260819-Beetle Antennae Search](../DEP-E-20260819-Beetle%20Antennae%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beetle Antennae Search without Parameter Tuning (BAS-WPT) for Multi-objective Optimization* | Jiang, Xiangyuan; Li, Shuai | [arXiv:1711.02395](https://arxiv.org/abs/1711.02395) - [DOI](https://doi.org/10.48550/arXiv.1711.02395) |
