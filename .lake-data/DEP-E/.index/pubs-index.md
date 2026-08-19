@@ -5279,3 +5279,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Hierarchical Gradient Tracking Algorithm for Mitigating Subnet-Drift in Fog Learning Networks* | Chen, Evan; Wang, Shiqiang; Brinton, Christopher G. | [arXiv:2409.17430](https://arxiv.org/abs/2409.17430) - [DOI](https://doi.org/10.48550/arXiv.2409.17430) |
+
+
+## [DEP-E-20260819-Fishing for Answers](../DEP-E-20260819-Fishing%20for%20Answers/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation* | Lin, Huifeng; Su, Gang; Liang, Jintao; Wu, You; Zhao, Rui; Li, Ziyue | [arXiv:2509.04820](https://arxiv.org/abs/2509.04820) - [DOI](https://doi.org/10.48550/arXiv.2509.04820) |

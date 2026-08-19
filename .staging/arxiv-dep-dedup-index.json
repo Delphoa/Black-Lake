@@ -11708,6 +11708,29 @@
         "https://doi.org/10.48550/arXiv.2409.17430"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Fishing for Answers",
+        ".logs/20260819-Arxiv-Fishing-for-Answers-Exploring-One-shot-vs-LOG.md",
+        ".reports/BL-Arxiv-Fishing-for-Answers-Exploring-One-shot-vs-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.04820",
+      "arxiv_id": "2509.04820",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.04820",
+      "normalized_title": "Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P79; draw 51893 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 6; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Fishing-for-Answers-Exploring-One-shot-vs",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.04820",
+        "https://arxiv.org/html/2509.04820",
+        "https://arxiv.org/pdf/2509.04820",
+        "https://doi.org/10.48550/arXiv.2509.04820"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
