@@ -9171,3 +9171,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation* | Wei, Jiachen; Ma, Dingyou; He, Feiyang; Zhang, Qixun; Feng, Zhiyong; Liu, Zhengfeng; Liang, Taohong | [arXiv:2408.16415](https://arxiv.org/abs/2408.16415) - [DOI](https://doi.org/10.1109/TWC.2025.3578033) |
+
+
+## [DEP-E-20260819-Multi-scale Topology](../DEP-E-20260819-Multi-scale%20Topology/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-scale Topology Optimization using Neural Networks* | Chen, Hongrui; Liu, Xingchen; Kara, Levent Burak | [arXiv:2404.08708](https://arxiv.org/abs/2404.08708) - [DOI](https://doi.org/10.48550/arXiv.2404.08708) |
