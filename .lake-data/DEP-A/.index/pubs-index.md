@@ -10809,3 +10809,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces* | Du, Mingxuan; Xu, Benfeng; Zhu, Chiwei; Wang, Shaohan; Wang, Pengyu; Wang, Xiaorui; Mao, Zhendong | [arXiv:2602.03442](https://arxiv.org/abs/2602.03442) - [DOI](https://doi.org/10.48550/arXiv.2602.03442) |
+
+## [DEP-A-20260820-AKB 48 Intake](../DEP-A-20260820-AKB%2048%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-AKB%2048%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AKB-48: A Real-World Articulated Object Knowledge Base* | Liu, Liu; Xu, Wenqiang; Fu, Haoyuan; Qian, Sucheng; Han, Yang; Lu, Cewu | [arXiv:2202.08432](https://arxiv.org/abs/2202.08432) - [DOI](https://doi.org/10.48550/arXiv.2202.08432) |
