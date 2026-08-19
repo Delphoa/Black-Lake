@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1072 publication reviews across 718 DEP-E entries**.
+- Current coverage: **1073 publication reviews across 719 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-Iterative-Self-Lea-AEB3](../DEP-E-20260820-Iterative-Self-Lea-AEB3/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Iterative Self-Learning for Expressive Text-to-Speech Synthesis* | Nicholas Sanders; Gustav Eje Henter; Simon King; Korin Richmond | [arXiv:2608.15910](https://arxiv.org/abs/2608.15910) | [DEP-E](../DEP-E-20260820-Iterative-Self-Lea-AEB3/README.md) |
 
 ## [DEP-E-20260820-The-IOL-AI-Challen-8AA4](../DEP-E-20260820-The-IOL-AI-Challen-8AA4/README.md)
 
