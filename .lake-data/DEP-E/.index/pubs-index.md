@@ -9479,3 +9479,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer* | Liu, Zhenrong; Huttunen, Janne M. J.; Honkala, Mikko | [arXiv:2505.08327](https://arxiv.org/abs/2505.08327) - [DOI](https://doi.org/10.48550/arXiv.2505.08327) |
+
+
+## [DEP-E-20260819-Scalable Distributed](../DEP-E-20260819-Scalable%20Distributed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models* | Chen, Yixin; Dey, Tonmoy; Kuhnle, Alan | [arXiv:2206.09563](https://arxiv.org/abs/2206.09563) - [DOI](https://doi.org/10.1613/jair.1.15484) |

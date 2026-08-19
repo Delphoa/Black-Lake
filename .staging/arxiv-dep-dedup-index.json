@@ -25508,6 +25508,29 @@
         "https://doi.org/10.48550/arXiv.2505.08327"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Scalable Distributed",
+        ".logs/20260819-Arxiv-Scalable-Distributed-Algorithms-for-Size-LOG.md",
+        ".reports/BL-Arxiv-Scalable-Distributed-Algorithms-for-Size-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2206.09563",
+      "arxiv_id": "2206.09563",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1613/jair.1.15484",
+      "normalized_title": "Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P379; draw 38455 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Scalable-Distributed-Algorithms-for-Size",
+      "source_urls": [
+        "https://arxiv.org/abs/2206.09563",
+        "https://arxiv.org/html/2206.09563",
+        "https://arxiv.org/pdf/2206.09563",
+        "https://doi.org/10.1613/jair.1.15484"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
