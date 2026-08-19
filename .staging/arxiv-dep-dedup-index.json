@@ -28015,6 +28015,29 @@
         "https://doi.org/10.48550/arXiv.2606.20295"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Mind the Interference",
+        ".logs/20260819-Arxiv-Mind-the-Interference-Retaining-Pre-trained-LOG.md",
+        ".reports/BL-Arxiv-Mind-the-Interference-Retaining-Pre-trained-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.05342",
+      "arxiv_id": "2407.05342",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.05342",
+      "normalized_title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P488; draw 72270 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 6; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Mind-the-Interference-Retaining-Pre-trained",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.05342",
+        "https://arxiv.org/html/2407.05342",
+        "https://arxiv.org/pdf/2407.05342",
+        "https://doi.org/10.48550/arXiv.2407.05342"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
