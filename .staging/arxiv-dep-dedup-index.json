@@ -16975,6 +16975,29 @@
         "https://doi.org/10.48550/arXiv.1912.04664"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Canonical Intermediate",
+        ".logs/20260819-Arxiv-Canonical-Intermediate-Representation-for-LLM-LOG.md",
+        ".reports/BL-Arxiv-Canonical-Intermediate-Representation-for-LLM-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.02029",
+      "arxiv_id": "2602.02029",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.02029",
+      "normalized_title": "Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P08; draw 74003 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 15; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "Canonical-Intermediate-Representation-for-LLM",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.02029",
+        "https://arxiv.org/html/2602.02029",
+        "https://arxiv.org/pdf/2602.02029",
+        "https://doi.org/10.48550/arXiv.2602.02029"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

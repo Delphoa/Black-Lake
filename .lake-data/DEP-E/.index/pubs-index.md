@@ -6882,3 +6882,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How to Evaluate the Next System: Automatic Dialogue Evaluation from the Perspective of Continual Learning* | Li, Lu; He, Zhongheng; Zhou, Xiangyang; Yu, Dianhai | [arXiv:1912.04664](https://arxiv.org/abs/1912.04664) - [DOI](https://doi.org/10.48550/arXiv.1912.04664) |
+
+
+## [DEP-E-20260819-Canonical Intermediate](../DEP-E-20260819-Canonical%20Intermediate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation* | Lyu, Zhongyuan; Hu, Shuoyu; Liu, Lujie; Yang, Hongxia; LI, Ming | [arXiv:2602.02029](https://arxiv.org/abs/2602.02029) - [DOI](https://doi.org/10.48550/arXiv.2602.02029) |
