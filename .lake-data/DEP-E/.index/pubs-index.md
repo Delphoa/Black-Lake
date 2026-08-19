@@ -10095,3 +10095,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Think Before You Act: Decision Transformers with Working Memory* | Kang, Jikun; Laroche, Romain; Yuan, Xingdi; Trischler, Adam; Liu, Xue; Fu, Jie | [arXiv:2305.16338](https://arxiv.org/abs/2305.16338) - [DOI](https://doi.org/10.48550/arXiv.2305.16338) |
+
+
+## [DEP-E-20260819-Conjecture and Inquiry](../DEP-E-20260819-Conjecture%20and%20Inquiry/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation* | Wang, Shihai; Chen, Tao | [arXiv:2604.21380](https://arxiv.org/abs/2604.21380) - [DOI](https://doi.org/10.48550/arXiv.2604.21380) |

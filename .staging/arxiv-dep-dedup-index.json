@@ -27532,6 +27532,29 @@
         "https://doi.org/10.48550/arXiv.2305.16338"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Conjecture and Inquiry",
+        ".logs/20260819-Arxiv-Conjecture-and-Inquiry-Quantifying-Software-LOG.md",
+        ".reports/BL-Arxiv-Conjecture-and-Inquiry-Quantifying-Software-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.21380",
+      "arxiv_id": "2604.21380",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2604.21380",
+      "normalized_title": "Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P467; draw 61937 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 33; focus exclusions 77; reselections 110; complete-source gate passed; all source files withheld locally.",
+      "slug": "Conjecture-and-Inquiry-Quantifying-Software",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.21380",
+        "https://arxiv.org/html/2604.21380",
+        "https://arxiv.org/pdf/2604.21380",
+        "https://doi.org/10.48550/arXiv.2604.21380"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
