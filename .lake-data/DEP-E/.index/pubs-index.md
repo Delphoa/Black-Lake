@@ -7225,3 +7225,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving* | Gao, Wei; Zhou, Xinyu; Sun, Peng; Zhang, Tianwei; Wen, Yonggang | [arXiv:2503.24000](https://arxiv.org/abs/2503.24000) - [DOI](https://doi.org/10.48550/arXiv.2503.24000) |
+
+
+## [DEP-E-20260819-Group-based control of](../DEP-E-20260819-Group-based%20control%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Group-based control of large-scale micro-robot swarms with on-board Physical Finite-State Machines* | Li, Siyu; Zefran, Milos; Paprotny, Igor | [arXiv:2208.08614](https://arxiv.org/abs/2208.08614) - [DOI](https://doi.org/10.48550/arXiv.2208.08614) |
