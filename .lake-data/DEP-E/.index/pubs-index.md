@@ -9283,3 +9283,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online Learning Based Mobile Robot Controller Adaptation for Slip Reduction* | Gao, Huidong; Zhou, Rui; Tomizuka, Masayoshi; Xu, Zhuo | [arXiv:2301.13283](https://arxiv.org/abs/2301.13283) - [DOI](https://doi.org/10.48550/arXiv.2301.13283) |
+
+
+## [DEP-E-20260819-LongFlow Efficient KV](../DEP-E-20260819-LongFlow%20Efficient%20KV/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongFlow: Efficient KV Cache Compression for Reasoning Models* | Su, Yi; Tian, Zhenxu; Qiao, Dan; Zhou, Yuechi; Li, Juntao; Zhang, Min | [arXiv:2603.11504](https://arxiv.org/abs/2603.11504) - [DOI](https://doi.org/10.48550/arXiv.2603.11504) |
