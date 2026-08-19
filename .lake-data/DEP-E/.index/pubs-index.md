@@ -7680,3 +7680,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ROS package search for robot software development: a knowledge graph-based approach* | Wang, Shuo; Mao, Xinjun; Yang, Shuo; Wu, Menghan; Zhang, Zhang | [arXiv:2312.14781](https://arxiv.org/abs/2312.14781) - [DOI](https://doi.org/10.48550/arXiv.2312.14781) |
+
+
+## [DEP-E-20260819-Verification and](../DEP-E-20260819-Verification%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation* | Kang, Shucheng; Chen, Yuxiao; Yang, Heng; Pavone, Marco | [arXiv:2303.10081](https://arxiv.org/abs/2303.10081) - [DOI](https://doi.org/10.48550/arXiv.2303.10081) |
