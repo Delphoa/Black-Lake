@@ -7624,3 +7624,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation* | Jiang, Feng; Chen, Yang; Xu, Kyle; Liu, Yuchen; Wang, Haifeng; Shen, Zhenhao; Lu, Jasper; Huang, Shengze; Wang, Yuanfei; Xie, Chen; Wu, Ruihai | [arXiv:2604.19092](https://arxiv.org/abs/2604.19092) - [DOI](https://doi.org/10.48550/arXiv.2604.19092) |
+
+
+## [DEP-E-20260819-HAO Hardware-aware neural](../DEP-E-20260819-HAO%20Hardware-aware%20neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAO: Hardware-aware neural Architecture Optimization for Efficient Inference* | Dong, Zhen; Gao, Yizhao; Huang, Qijing; Wawrzynek, John; So, Hayden K. H.; Keutzer, Kurt | [arXiv:2104.12766](https://arxiv.org/abs/2104.12766) - [DOI](https://doi.org/10.48550/arXiv.2104.12766) |
