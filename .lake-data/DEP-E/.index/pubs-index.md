@@ -9507,3 +9507,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining* | Sun, Shangquan; Ren, Wenqi; Zhou, Juxiang; Wang, Shu; Gan, Jianhou; Cao, Xiaochun | [arXiv:2505.16811](https://arxiv.org/abs/2505.16811) - [DOI](https://doi.org/10.48550/arXiv.2505.16811) |
+
+
+## [DEP-E-20260819-EfficientViT Memory](../DEP-E-20260819-EfficientViT%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention* | Liu, Xinyu; Peng, Houwen; Zheng, Ningxin; Yang, Yuqing; Hu, Han; Yuan, Yixuan | [arXiv:2305.07027](https://arxiv.org/abs/2305.07027) - [DOI](https://doi.org/10.48550/arXiv.2305.07027) |

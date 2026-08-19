@@ -25600,6 +25600,29 @@
         "https://doi.org/10.48550/arXiv.2505.16811"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-EfficientViT Memory",
+        ".logs/20260819-Arxiv-EfficientViT-Memory-Efficient-Vision-Transformer-LOG.md",
+        ".reports/BL-Arxiv-EfficientViT-Memory-Efficient-Vision-Transformer-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2305.07027",
+      "arxiv_id": "2305.07027",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2305.07027",
+      "normalized_title": "EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P383; draw 52745 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 3; focus exclusions 9; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "EfficientViT-Memory-Efficient-Vision-Transformer",
+      "source_urls": [
+        "https://arxiv.org/abs/2305.07027",
+        "https://arxiv.org/html/2305.07027",
+        "https://arxiv.org/pdf/2305.07027",
+        "https://doi.org/10.48550/arXiv.2305.07027"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
