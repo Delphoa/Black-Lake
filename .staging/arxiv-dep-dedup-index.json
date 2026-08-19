@@ -21828,6 +21828,29 @@
         "https://doi.org/10.48550/arXiv.2604.16592"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-EPO Explicit Policy",
+        ".logs/20260819-Arxiv-EPO-Explicit-Policy-Optimization-for-Strategic-LOG.md",
+        ".reports/BL-Arxiv-EPO-Explicit-Policy-Optimization-for-Strategic-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.12486",
+      "arxiv_id": "2502.12486",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2502.12486",
+      "normalized_title": "EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P219; draw 64766 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 20; reselections 24; complete-source gate passed; all source files withheld locally.",
+      "slug": "EPO-Explicit-Policy-Optimization-for-Strategic",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.12486",
+        "https://arxiv.org/html/2502.12486",
+        "https://arxiv.org/pdf/2502.12486",
+        "https://doi.org/10.48550/arXiv.2502.12486"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
