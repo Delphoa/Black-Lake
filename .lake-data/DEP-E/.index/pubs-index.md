@@ -7274,3 +7274,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization* | Wu, Yuhan; Zhang, Huan; Cheng, Wei; Shen, Chen; Yang, Jingyue; Hu, Wei | [arXiv:2605.13229](https://arxiv.org/abs/2605.13229) - [DOI](https://doi.org/10.48550/arXiv.2605.13229) |
+
+
+## [DEP-E-20260819-Scalable Algorithm for](../DEP-E-20260819-Scalable%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable Algorithm for Dynamic Quasi-clique Detection* | Chen, Jingbang; Li, Weinuo; Zhou, Yingli; Wu, Hao; Wang, Can; Fang, Yixiang; Ma, Chenhao | [arXiv:2605.26235](https://arxiv.org/abs/2605.26235) - [DOI](https://doi.org/10.48550/arXiv.2605.26235) |
