@@ -8142,3 +8142,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Approximation algorithms for the directed path partition problems* | Chen, Yong; Chen, Zhi-Zhong; Kennedy, Curtis; Lin, Guohui; Xu, Yao; Zhang, An | [arXiv:2107.04699](https://arxiv.org/abs/2107.04699) - [DOI](https://doi.org/10.48550/arXiv.2107.04699) |
+
+
+## [DEP-E-20260819-A Scalable Algorithm for](../DEP-E-20260819-A%20Scalable%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Scalable Algorithm for Active Learning* | Chen, Youguang; Wen, Zheyu; Biros, George | [arXiv:2409.07392](https://arxiv.org/abs/2409.07392) - [DOI](https://doi.org/10.48550/arXiv.2409.07392) |
