@@ -4796,3 +4796,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation* | Li, Jinlin; Li, Xintong; Zhou, Xiao | [arXiv:2412.16699](https://arxiv.org/abs/2412.16699) - [DOI](https://doi.org/10.48550/arXiv.2412.16699) |
+
+
+## [DEP-E-20260819-A Novel Training Protocol](../DEP-E-20260819-A%20Novel%20Training%20Protocol/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel Training Protocol for Performance Predictors of Evolutionary Neural Architecture Search Algorithms* | Sun, Yanan; Sun, Xian; Fang, Yuhan; Yen, Gary | [arXiv:2008.13187](https://arxiv.org/abs/2008.13187) - [DOI](https://doi.org/10.48550/arXiv.2008.13187) |
