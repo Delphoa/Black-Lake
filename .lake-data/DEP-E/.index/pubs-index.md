@@ -6952,3 +6952,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Visualization of Multi-Objective Switched Reluctance Machine Optimization at Multiple Operating Conditions with t-SNE* | Zhang, Shen; Zhang, Shibo; Li, Sufei; Du, Liang; Habetler, Thomas G. | [arXiv:1911.01024](https://arxiv.org/abs/1911.01024) - [DOI](https://doi.org/10.48550/arXiv.1911.01024) |
+
+
+## [DEP-E-20260819-UniC-RAG Universal](../DEP-E-20260819-UniC-RAG%20Universal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation* | Geng, Runpeng; Wang, Yanting; Chen, Ying; Jia, Jinyuan | [arXiv:2508.18652](https://arxiv.org/abs/2508.18652) - [DOI](https://doi.org/10.48550/arXiv.2508.18652) |
