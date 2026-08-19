@@ -7337,3 +7337,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Evolution of Embedding Table Optimization and Multi-Epoch Training in Pinterest Ads Conversion* | Qiu, Andrew; Barhate, Shubham; Lui, Hin Wai; Su, Runze; Müller, Rafael Rios; Li, Kungang; Leng, Ling; Sun, Han; Ehsani, Shayan; Liu, Zhifang | [arXiv:2505.05605](https://arxiv.org/abs/2505.05605) - [DOI](https://doi.org/10.48550/arXiv.2505.05605) |
+
+
+## [DEP-E-20260819-Movable Antenna Empowered](../DEP-E-20260819-Movable%20Antenna%20Empowered/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Movable Antenna Empowered Downlink NOMA Systems: Power Allocation and Antenna Position Optimization* | Zhou, Yufeng; Chen, Wen; Wu, Qingqing; Zhu, Xusheng; Cheng, Nan | [arXiv:2405.18692](https://arxiv.org/abs/2405.18692) - [DOI](https://doi.org/10.48550/arXiv.2405.18692) |
