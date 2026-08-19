@@ -5328,3 +5328,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images* | Song, Weiwei; Li, Shutao; Benediktsson, Jon Atli | [arXiv:1909.04614](https://arxiv.org/abs/1909.04614) - [DOI](https://doi.org/10.48550/arXiv.1909.04614) |
+
+
+## [DEP-E-20260819-Alada Alternating](../DEP-E-20260819-Alada%20Alternating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Alada: Alternating Adaptation of Momentum Method for Memory-Efficient Matrix Optimization* | He, Xiaoyu; Cai, Yu; Jia, Jin; Huang, Canxi; Chen, Wenqing; Zheng, Zibin | [arXiv:2512.13034](https://arxiv.org/abs/2512.13034) - [DOI](https://doi.org/10.48550/arXiv.2512.13034) |
