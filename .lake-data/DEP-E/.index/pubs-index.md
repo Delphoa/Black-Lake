@@ -6301,3 +6301,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Clo-HDnn: A 4.66 TFLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-efficient Hyperdimensional Computing via Progressive Search* | Song, Chang Eun; Xu, Weihong; Fan, Keming; Jain, Soumil; Hota, Gopabandhu; Yang, Haichao; Liu, Leo; Akarvardar, Kerem; Chang, Meng-Fan; Diaz, Carlos H.; Cauwenberghs, Gert; Rosing, Tajana; Kang, Mingu | [arXiv:2507.17953](https://arxiv.org/abs/2507.17953) - [DOI](https://doi.org/10.23919/VLSITechnologyandCir65189.2025.11074827) |
+
+
+## [DEP-E-20260819-COST-EFF Collaborative](../DEP-E-20260819-COST-EFF%20Collaborative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models* | Shen, Bowen; Lin, Zheng; Liu, Yuanxin; Liu, Zhengxiao; Wang, Lei; Wang, Weiping | [arXiv:2210.15523](https://arxiv.org/abs/2210.15523) - [DOI](https://doi.org/10.48550/arXiv.2210.15523) |
