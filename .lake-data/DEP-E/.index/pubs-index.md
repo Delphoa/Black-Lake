@@ -8646,3 +8646,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DriveFuture: Future-Aware Latent World Models for Autonomous Driving* | Hong, Yufeng; Zhou, Xiaotian; Li, Yingyan; Zhou, Xiangpo; Liu, Lin; Luo, Yadan; Xu, Shaoqing; Yang, Lei; Song, Ziying | [arXiv:2605.09701](https://arxiv.org/abs/2605.09701) - [DOI](https://doi.org/10.48550/arXiv.2605.09701) |
+
+
+## [DEP-E-20260819-Classifying Relations via](../DEP-E-20260819-Classifying%20Relations%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path* | Yan, Xu; Mou, Lili; Li, Ge; Chen, Yunchuan; Peng, Hao; Jin, Zhi | [arXiv:1508.03720](https://arxiv.org/abs/1508.03720) - [DOI](https://doi.org/10.48550/arXiv.1508.03720) |
