@@ -11492,3 +11492,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory* | Jingbo Ji; Lingyi Li; Xilong Cheng; Yuhao Zhou; Wenji Zhang; Yuting Tan; Yunxiao Qin | [arXiv:2608.13334v1](https://arxiv.org/abs/2608.13334v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13334) |
+
+
+## [DEP-A-20260819-Beyond Retrieval Query Co](../DEP-A-20260819-Beyond%20Retrieval%20Query%20Co/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12847-whitepaper-review.md`](../DEP-A-20260819-Beyond%20Retrieval%20Query%20Co/2608.12847-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories* | Yifei Li; Heng Wang; Lingling Zhang; Muye Huang; Xinyu Zhang; Jiashuai Liu; Hang Yan; Rongman Xu | [arXiv:2608.12847v1](https://arxiv.org/abs/2608.12847v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12847) |
