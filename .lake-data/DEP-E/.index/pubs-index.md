@@ -6252,3 +6252,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Inference of collective Gaussian hidden Markov models* | Singh, Rahul; Chen, Yongxin | [arXiv:2107.11662](https://arxiv.org/abs/2107.11662) - [DOI](https://doi.org/10.48550/arXiv.2107.11662) |
+
+
+## [DEP-E-20260819-Cognitive Personalized](../DEP-E-20260819-Cognitive%20Personalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism* | Zhou, Yujia; Zhu, Qiannan; Jin, Jiajie; Dou, Zhicheng | [arXiv:2402.10548](https://arxiv.org/abs/2402.10548) - [DOI](https://doi.org/10.48550/arXiv.2402.10548) |
