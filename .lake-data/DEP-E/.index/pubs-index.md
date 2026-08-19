@@ -8597,3 +8597,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes* | Qin, Yujia; Qi, Fanchao; Ouyang, Sicong; Liu, Zhiyuan; Yang, Cheng; Wang, Yasheng; Liu, Qun; Sun, Maosong | [arXiv:1910.08910](https://arxiv.org/abs/1910.08910) - [DOI](https://doi.org/10.1109/TASLP.2020.3012060) |
+
+
+## [DEP-E-20260819-Training Networks in Null](../DEP-E-20260819-Training%20Networks%20in%20Null/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Training Networks in Null Space of Feature Covariance for Continual Learning* | Wang, Shipeng; Li, Xiaorong; Sun, Jian; Xu, Zongben | [arXiv:2103.07113](https://arxiv.org/abs/2103.07113) - [DOI](https://doi.org/10.48550/arXiv.2103.07113) |

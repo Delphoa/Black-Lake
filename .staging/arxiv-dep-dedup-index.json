@@ -22610,6 +22610,29 @@
         "https://doi.org/10.1109/TASLP.2020.3012060"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Training Networks in Null",
+        ".logs/20260819-Arxiv-Training-Networks-in-Null-Space-of-Feature-LOG.md",
+        ".reports/BL-Arxiv-Training-Networks-in-Null-Space-of-Feature-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2103.07113",
+      "arxiv_id": "2103.07113",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2103.07113",
+      "normalized_title": "Training Networks in Null Space of Feature Covariance for Continual Learning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P253; draw 24551 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 0; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Training-Networks-in-Null-Space-of-Feature",
+      "source_urls": [
+        "https://arxiv.org/abs/2103.07113",
+        "https://arxiv.org/html/2103.07113",
+        "https://arxiv.org/pdf/2103.07113",
+        "https://doi.org/10.48550/arXiv.2103.07113"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
