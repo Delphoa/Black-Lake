@@ -8408,3 +8408,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Improved FPT Algorithm for the Flip Distance Problem* | Feng, Qilong; Li, Shaohua; Meng, Xiangzhong; Wang, Jianxin | [arXiv:1910.06185](https://arxiv.org/abs/1910.06185) - [DOI](https://doi.org/10.4230/LIPIcs.MFCS.2017.65) |
+
+
+## [DEP-E-20260819-Hurdle-IMDL An Imbalanced](../DEP-E-20260819-Hurdle-IMDL%20An%20Imbalanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hurdle-IMDL: An Imbalanced Learning Framework for Infrared Rainfall Retrieval* | Zhang, Fangjian; Zhuge, Xiaoyong; Wang, Wenlan; Xiao, Haixia; Zhu, Yuying; Cheng, Siyang | [arXiv:2510.20486](https://arxiv.org/abs/2510.20486) - [DOI](https://doi.org/10.48550/arXiv.2510.20486) |
