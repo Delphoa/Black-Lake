@@ -11204,3 +11204,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VoxZip: Semantic-Anchored Temporal KV Cache Compression for Long-Context Audio Inference* | Wenxu Jia; Dongjie Fu; Xize Cheng; Fangming Feng; Linjun Li; Wenshi Chen; Yingming Li; Zhou Zhao; Tao Jin | [arXiv:2608.08569v1](https://arxiv.org/abs/2608.08569v1) - [DOI](https://doi.org/10.1145/3767308.3835719) |
+
+
+## [DEP-A-20260819-Aero Realtime Fully Align](../DEP-A-20260819-Aero%20Realtime%20Fully%20Align/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08469-whitepaper-review.md`](../DEP-A-20260819-Aero%20Realtime%20Fully%20Align/2608.08469-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aero Realtime: Fully Aligned Input-Output Streams for Low-Latency Streaming Multimodal Generation* | Kaichen Zhang; Wei Huang; Keming Wu; Bo Li; Xiaojuan Qi | [arXiv:2608.08469v1](https://arxiv.org/abs/2608.08469v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08469) |
