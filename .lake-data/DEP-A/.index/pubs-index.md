@@ -11051,3 +11051,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation* | Donald Loveland; Liam Collins; Bhuvesh Kumar; Danai Koutra; Neil Shah | [arXiv:2608.07816v1](https://arxiv.org/abs/2608.07816v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07816) |
+
+
+## [DEP-A-20260819-HaloMark Spectral Thresho](../DEP-A-20260819-HaloMark%20Spectral%20Thresho/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08645-whitepaper-review.md`](../DEP-A-20260819-HaloMark%20Spectral%20Thresho/2608.08645-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HaloMark: A Spectral Threshold for Embedding-Vector Watermarking under C2PA* | Tarun Sharma | [arXiv:2608.08645v1](https://arxiv.org/abs/2608.08645v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08645) |
