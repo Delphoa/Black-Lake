@@ -11465,3 +11465,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *vToken: Token-Level Virtualization for Reclaimable KV Caches* | Yuanhang Gao; Xiangrui Yang; Yuanfeng Chen; Hongjia Chen; Qianru Lv; Wenfei Wu; Dongsheng Li | [arXiv:2608.13263v1](https://arxiv.org/abs/2608.13263v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13263) |
+
+
+## [DEP-A-20260819-StreamTTT Reconciling Rea](../DEP-A-20260819-StreamTTT%20Reconciling%20Rea/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13416-whitepaper-review.md`](../DEP-A-20260819-StreamTTT%20Reconciling%20Rea/2608.13416-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs* | Joya Chen; Zeyun Zhong; Mike Zheng Shou | [arXiv:2608.13416v1](https://arxiv.org/abs/2608.13416v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13416) |
