@@ -5853,3 +5853,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Searching for Best Practices in Retrieval-Augmented Generation* | Wang, Xiaohua; Wang, Zhenghua; Gao, Xuan; Zhang, Feiran; Wu, Yixin; Xu, Zhibo; Shi, Tianyuan; Wang, Zhengyuan; Li, Shizheng; Qian, Qi; Yin, Ruicheng; Lv, Changze; Zheng, Xiaoqing; Huang, Xuanjing | [arXiv:2407.01219](https://arxiv.org/abs/2407.01219) - [DOI](https://doi.org/10.48550/arXiv.2407.01219) |
+
+
+## [DEP-E-20260819-How Implicit Bias](../DEP-E-20260819-How%20Implicit%20Bias/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Implicit Bias Accumulates and Propagates in LLM Long-term Memory* | Ma, Yiming; Wang, Lixu; Wang, Lionel Z.; Yang, Hongkun; Sun, Haoming; Xu, Xin; Wu, Jiaqi; Chen, Bin; Dong, Wei | [arXiv:2602.01558](https://arxiv.org/abs/2602.01558) - [DOI](https://doi.org/10.48550/arXiv.2602.01558) |
