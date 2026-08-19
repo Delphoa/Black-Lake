@@ -7701,3 +7701,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model* | Sun, Jingwen; Zhang, Wenyao; Qi, Zekun; Ren, Shaojie; Liu, Zezhi; Zhu, Hanxin; Sun, Guangzhong; Jin, Xin; Chen, Zhibo | [arXiv:2602.10098](https://arxiv.org/abs/2602.10098) - [DOI](https://doi.org/10.48550/arXiv.2602.10098) |
+
+
+## [DEP-E-20260819-Deep Learning via](../DEP-E-20260819-Deep%20Learning%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Learning via Dynamical Systems: An Approximation Perspective* | Li, Qianxiao; Lin, Ting; Shen, Zuowei | [arXiv:1912.10382](https://arxiv.org/abs/1912.10382) - [DOI](https://doi.org/10.48550/arXiv.1912.10382) |
