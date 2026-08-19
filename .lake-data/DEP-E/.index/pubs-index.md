@@ -5398,3 +5398,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches* | Yuan, Jiayi; Liu, Hongyi; Zhong, Shaochen; Chuang, Yu-Neng; Li, Songchen; Wang, Guanchu; Le, Duy; Jin, Hongye; Chaudhary, Vipin; Xu, Zhaozhuo; Liu, Zirui; Hu, Xia | [arXiv:2407.01527](https://arxiv.org/abs/2407.01527) - [DOI](https://doi.org/10.48550/arXiv.2407.01527) |
+
+
+## [DEP-E-20260819-Ultra-Low Complexity](../DEP-E-20260819-Ultra-Low%20Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging* | Wang, Zhibin; Cai, Yanxin; Zhou, Jiayi; Zhang, Yangming; Li, Tianyu; Li, Wei; Liu, Xun; Wang, Guoqing; Yang, Yang | [arXiv:2412.18417](https://arxiv.org/abs/2412.18417) - [DOI](https://doi.org/10.48550/arXiv.2412.18417) |
