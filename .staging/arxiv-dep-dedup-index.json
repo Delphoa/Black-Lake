@@ -14445,6 +14445,29 @@
         "https://doi.org/10.48550/arXiv.2407.16588"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-PSSL Self-supervised",
+        ".logs/20260819-Arxiv-PSSL-Self-supervised-Learning-for-Personalized-LOG.md",
+        ".reports/BL-Arxiv-PSSL-Self-supervised-Learning-for-Personalized-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2111.12614",
+      "arxiv_id": "2111.12614",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2111.12614",
+      "normalized_title": "PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P198; draw 11933 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "PSSL-Self-supervised-Learning-for-Personalized",
+      "source_urls": [
+        "https://arxiv.org/abs/2111.12614",
+        "https://arxiv.org/html/2111.12614",
+        "https://arxiv.org/pdf/2111.12614",
+        "https://doi.org/10.48550/arXiv.2111.12614"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

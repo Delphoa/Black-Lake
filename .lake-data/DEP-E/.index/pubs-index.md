@@ -6112,3 +6112,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Faster Branching Algorithm for the Maximum $k$-Defective Clique Problem* | Luo, Chunyu; Zhou, Yi; Wang, Zhengren; Xiao, Mingyu | [arXiv:2407.16588](https://arxiv.org/abs/2407.16588) - [DOI](https://doi.org/10.48550/arXiv.2407.16588) |
+
+
+## [DEP-E-20260819-PSSL Self-supervised](../DEP-E-20260819-PSSL%20Self-supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling* | Zhou, Yujia; Dou, Zhicheng; Zhu, Yutao; Wen, Ji-Rong | [arXiv:2111.12614](https://arxiv.org/abs/2111.12614) - [DOI](https://doi.org/10.48550/arXiv.2111.12614) |
