@@ -10934,3 +10934,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation* | Xinchun Li; Duoru Zheng; Wenlin Zhao; Ziyi Zhou; Jingxuan Tan; Huizhi Yang; Linlan Chen; Dongjian Wang; Dongyue Wang; Xiaosong Li; Hongyue Mao; Yaocheng Tan | [arXiv:2608.07055v1](https://arxiv.org/abs/2608.07055v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07055) |
+
+
+## [DEP-A-20260819-KVDiagnosis Diagnostic Be](../DEP-A-20260819-KVDiagnosis%20Diagnostic%20Be/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09412-whitepaper-review.md`](../DEP-A-20260819-KVDiagnosis%20Diagnostic%20Be/2608.09412-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models* | Chen Qiu; Ziwu Liu; Chao Fei; Guozhong Li; Panos Kalnis | [arXiv:2608.09412v1](https://arxiv.org/abs/2608.09412v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09412) |
