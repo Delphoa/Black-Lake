@@ -9745,3 +9745,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Zeroth-Order Stochastic Mirror Descent Algorithms for Minimax Excess Risk Optimization* | Gu, Zhihao; Xu, Zi | [arXiv:2408.12209](https://arxiv.org/abs/2408.12209) - [DOI](https://doi.org/10.48550/arXiv.2408.12209) |
+
+
+## [DEP-E-20260819-VideoRAG](../DEP-E-20260819-VideoRAG/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos* | Ren, Xubin; Xu, Lingrui; Xia, Long; Wang, Shuaiqiang; Yin, Dawei; Huang, Chao | [arXiv:2502.01549](https://arxiv.org/abs/2502.01549) - [DOI](https://doi.org/10.48550/arXiv.2502.01549) |
