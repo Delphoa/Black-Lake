@@ -5055,3 +5055,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search* | Dai, Xiyang; Chen, Dongdong; Liu, Mengchen; Chen, Yinpeng; Yuan, Lu | [arXiv:2003.12563](https://arxiv.org/abs/2003.12563) - [DOI](https://doi.org/10.48550/arXiv.2003.12563) |
+
+
+## [DEP-E-20260819-A Deep Learning-based in](../DEP-E-20260819-A%20Deep%20Learning-based%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Deep Learning-based in silico Framework for Optimization on Retinal Prosthetic Stimulation* | Wu, Yuli; Karetic, Ivan; Stegmaier, Johannes; Walter, Peter; Merhof, Dorit | [arXiv:2302.03570](https://arxiv.org/abs/2302.03570) - [DOI](https://doi.org/10.1109/EMBC40787.2023.10340288) |
