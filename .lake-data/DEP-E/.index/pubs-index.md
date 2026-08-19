@@ -9241,3 +9241,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures* | Gao, Yihang; Zheng, Chuanyang; Xie, Enze; Shi, Han; Hu, Tianyang; Li, Yu; Ng, Michael K.; Li, Zhenguo; Liu, Zhaoqiang | [arXiv:2402.13572](https://arxiv.org/abs/2402.13572) - [DOI](https://doi.org/10.48550/arXiv.2402.13572) |
+
+
+## [DEP-E-20260819-A Unified DNN Weight](../DEP-E-20260819-A%20Unified%20DNN%20Weight/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Unified DNN Weight Compression Framework Using Reweighted Optimization Methods* | Zhang, Tianyun; Ma, Xiaolong; Zhan, Zheng; Zhou, Shanglin; Qin, Minghai; Sun, Fei; Chen, Yen-Kuang; Ding, Caiwen; Fardad, Makan; Wang, Yanzhi | [arXiv:2004.05531](https://arxiv.org/abs/2004.05531) - [DOI](https://doi.org/10.48550/arXiv.2004.05531) |
