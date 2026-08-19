@@ -8527,3 +8527,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Reinforcement Learning Based Intelligent Reflecting Surface Optimization for TDD MultiUser MIMO Systems* | Zhao, Fengyu; Chen, Wen; Liu, Ziwei; Li, Jun; Wu, Qingqing | [arXiv:2307.15393](https://arxiv.org/abs/2307.15393) - [DOI](https://doi.org/10.48550/arXiv.2307.15393) |
+
+
+## [DEP-E-20260819-A Hybrid Video Anomaly](../DEP-E-20260819-A%20Hybrid%20Video%20Anomaly/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction* | Liu, Zhian; Nie, Yongwei; Long, Chengjiang; Zhang, Qing; Li, Guiqing | [arXiv:2108.06852](https://arxiv.org/abs/2108.06852) - [DOI](https://doi.org/10.48550/arXiv.2108.06852) |

@@ -22380,6 +22380,29 @@
         "https://doi.org/10.48550/arXiv.2307.15393"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Hybrid Video Anomaly",
+        ".logs/20260819-Arxiv-A-Hybrid-Video-Anomaly-Detection-Framework-via-LOG.md",
+        ".reports/BL-Arxiv-A-Hybrid-Video-Anomaly-Detection-Framework-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2108.06852",
+      "arxiv_id": "2108.06852",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2108.06852",
+      "normalized_title": "A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P243; draw 17475 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 1; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Hybrid-Video-Anomaly-Detection-Framework-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2108.06852",
+        "https://arxiv.org/html/2108.06852",
+        "https://arxiv.org/pdf/2108.06852",
+        "https://doi.org/10.48550/arXiv.2108.06852"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
