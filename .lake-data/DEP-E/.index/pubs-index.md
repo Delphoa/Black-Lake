@@ -8730,3 +8730,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Variable Division and Optimization for Constrained Multiobjective Portfolio Problems* | Chen, Yi; Zhou, Aimin | [arXiv:2101.08552](https://arxiv.org/abs/2101.08552) - [DOI](https://doi.org/10.48550/arXiv.2101.08552) |
+
+
+## [DEP-E-20260819-SAVE Speech-Aware Video](../DEP-E-20260819-SAVE%20Speech-Aware%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval* | Zhao, Ruixiang; Xu, Zhihao; Lan, Bangxiang; Xin, Zijie; Liu, Jingyu; Li, Xirong | [arXiv:2603.08224](https://arxiv.org/abs/2603.08224) - [DOI](https://doi.org/10.48550/arXiv.2603.08224) |
