@@ -12311,3 +12311,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents* | Xingjun Wang; Gongsheng Li; Qi Fan; Yunlin Mao; Luyan Su; Yingda Chen | [arXiv:2608.16185v2](https://arxiv.org/abs/2608.16185v2) - [DOI](https://doi.org/10.48550/arXiv.2608.16185) |
+
+
+## [DEP-A-20260820-QUMem Personalized Memory](../DEP-A-20260820-QUMem%20Personalized%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16168-whitepaper-review.md`](../DEP-A-20260820-QUMem%20Personalized%20Memory/2608.16168-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents* | Heng Wang; Yifei Li; Lingling Zhang; Pengyu Li; Xinyu Che; Xinyu Zhang; Zesheng Yang | [arXiv:2608.16168v1](https://arxiv.org/abs/2608.16168v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16168) |
