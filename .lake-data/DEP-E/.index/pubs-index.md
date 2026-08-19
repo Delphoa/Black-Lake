@@ -7862,3 +7862,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CIER: A Novel Experience Replay Approach with Causal Inference in Deep Reinforcement Learning* | Wang, Jingwen; Du, Dehui; Li, Yida; Li, Yiyang; Chen, Yikang | [arXiv:2405.08380](https://arxiv.org/abs/2405.08380) - [DOI](https://doi.org/10.48550/arXiv.2405.08380) |
+
+
+## [DEP-E-20260819-ShadowNPU System and](../DEP-E-20260819-ShadowNPU%20System%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference* | Yin, Wangsong; Xu, Daliang; Xu, Mengwei; Huang, Gang; Liu, Xuanzhe | [arXiv:2508.16703](https://arxiv.org/abs/2508.16703) - [DOI](https://doi.org/10.48550/arXiv.2508.16703) |
