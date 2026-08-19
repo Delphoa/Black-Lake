@@ -7659,3 +7659,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Elicitation: Provision-based Prompt Optimization for Knowledge-Intensive Tasks* | Xu, Yunzhe; Zhang, Zhuosheng; Liu, Zhe | [arXiv:2511.10465](https://arxiv.org/abs/2511.10465) - [DOI](https://doi.org/10.48550/arXiv.2511.10465) |
+
+
+## [DEP-E-20260819-Human-inspired](../DEP-E-20260819-Human-inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Human-inspired Perspectives: A Survey on AI Long-term Memory* | He, Zihong; Lin, Weizhe; Zheng, Hao; Zhang, Fan; Jones, Matt W.; Aitchison, Laurence; Xu, Xuhai; Liu, Miao; Kristensson, Per Ola; Shen, Junxiao | [arXiv:2411.00489](https://arxiv.org/abs/2411.00489) - [DOI](https://doi.org/10.48550/arXiv.2411.00489) |
