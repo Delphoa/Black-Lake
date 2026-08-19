@@ -8177,3 +8177,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models* | Zhao, Chenzhuo; Liu, Ziqian; Wang, Xinda; Lu, Junting; Ruan, Chaoyi | [arXiv:2505.16307](https://arxiv.org/abs/2505.16307) - [DOI](https://doi.org/10.48550/arXiv.2505.16307) |
+
+
+## [DEP-E-20260819-An improved approximation](../DEP-E-20260819-An%20improved%20approximation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An improved approximation algorithm for maximizing a DR-submodular function over a convex set* | Du, Donglei; Liu, Zhicheng; Wu, Chenchen; Xu, Dachuan; Zhou, Yang | [arXiv:2203.14740](https://arxiv.org/abs/2203.14740) - [DOI](https://doi.org/10.48550/arXiv.2203.14740) |
