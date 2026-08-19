@@ -7736,3 +7736,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving API Documentation Comprehensibility via Continuous Optimization and Multilingual SDK* | Wang, Shujun; Tian, Yongqiang; He, Dengcheng | [arXiv:2303.13828](https://arxiv.org/abs/2303.13828) - [DOI](https://doi.org/10.48550/arXiv.2303.13828) |
+
+
+## [DEP-E-20260819-Regret Minimization](../DEP-E-20260819-Regret%20Minimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Regret Minimization Experience Replay in Off-Policy Reinforcement Learning* | Liu, Xu-Hui; Xue, Zhenghai; Pang, Jing-Cheng; Jiang, Shengyi; Xu, Feng; Yu, Yang | [arXiv:2105.07253](https://arxiv.org/abs/2105.07253) - [DOI](https://doi.org/10.48550/arXiv.2105.07253) |
