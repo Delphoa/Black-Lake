@@ -4740,3 +4740,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Low-light Image Enhancement by Retinex Based Algorithm Unrolling and Adjustment* | Liu, Xinyi; Xie, Qi; Zhao, Qian; Wang, Hong; Meng, Deyu | [arXiv:2202.05972](https://arxiv.org/abs/2202.05972) - [DOI](https://doi.org/10.48550/arXiv.2202.05972) |
+
+
+## [DEP-E-20260819-Learning Markov](../DEP-E-20260819-Learning%20Markov/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Markov Clustering Networks for Scene Text Detection* | Liu, Zichuan; Lin, Guosheng; Yang, Sheng; Feng, Jiashi; Lin, Weisi; Goh, Wang Ling | [arXiv:1805.08365](https://arxiv.org/abs/1805.08365) - [DOI](https://doi.org/10.48550/arXiv.1805.08365) |

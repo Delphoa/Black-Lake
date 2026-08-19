@@ -9937,6 +9937,29 @@
         "https://doi.org/10.48550/arXiv.2202.05972"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Learning Markov",
+        ".logs/20260819-Arxiv-Learning-Markov-Clustering-Networks-for-Scene-LOG.md",
+        ".reports/BL-Arxiv-Learning-Markov-Clustering-Networks-for-Scene-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1805.08365",
+      "arxiv_id": "1805.08365",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1805.08365",
+      "normalized_title": "Learning Markov Clustering Networks for Scene Text Detection",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P02; draw 30486 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 28; reselections 28; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Markov-Clustering-Networks-for-Scene",
+      "source_urls": [
+        "https://arxiv.org/abs/1805.08365",
+        "https://arxiv.org/html/1805.08365",
+        "https://arxiv.org/pdf/1805.08365",
+        "https://doi.org/10.48550/arXiv.1805.08365"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
