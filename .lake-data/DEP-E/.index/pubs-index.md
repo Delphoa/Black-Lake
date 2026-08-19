@@ -9367,3 +9367,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy* | Zhang, Rongzhi; Wang, Kuang; Liu, Liyuan; Wang, Shuohang; Cheng, Hao; Zhang, Chao; Shen, Yelong | [arXiv:2410.03111](https://arxiv.org/abs/2410.03111) - [DOI](https://doi.org/10.48550/arXiv.2410.03111) |
+
+
+## [DEP-E-20260819-A Novel RFID](../DEP-E-20260819-A%20Novel%20RFID/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel RFID Authentication Protocol Based on A Block-Order-Modulus Variable Matrix Encryption Algorithm* | Wang, Yan; Liu, Ruiqi; Gao, Tong; Shu, Feng; Lei, Xuemei; Wu, Yongpeng; Gui, Guan; Wang, Jiangzhou | [arXiv:2312.10593](https://arxiv.org/abs/2312.10593) - [DOI](https://doi.org/10.48550/arXiv.2312.10593) |
