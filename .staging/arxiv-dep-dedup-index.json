@@ -25991,6 +25991,29 @@
         "https://doi.org/10.48550/arXiv.1208.0384"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-How Do Adam and Training",
+        ".logs/20260819-Arxiv-How-Do-Adam-and-Training-Strategies-Help-LOG.md",
+        ".reports/BL-Arxiv-How-Do-Adam-and-Training-Strategies-Help-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2106.11309",
+      "arxiv_id": "2106.11309",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2106.11309",
+      "normalized_title": "How Do Adam and Training Strategies Help BNNs Optimization?",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P400; draw 15532 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 10; focus exclusions 34; reselections 44; complete-source gate passed; all source files withheld locally.",
+      "slug": "How-Do-Adam-and-Training-Strategies-Help",
+      "source_urls": [
+        "https://arxiv.org/abs/2106.11309",
+        "https://arxiv.org/html/2106.11309",
+        "https://arxiv.org/pdf/2106.11309",
+        "https://doi.org/10.48550/arXiv.2106.11309"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

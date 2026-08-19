@@ -9626,3 +9626,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Global Adaptive Routing Algorithm Without Additional Congestion Propagation Network* | Liu, Shaoli; Chen, Yunji; Chen, Tianshi; Li, Ling; Lu, Chao | [arXiv:1208.0384](https://arxiv.org/abs/1208.0384) - [DOI](https://doi.org/10.48550/arXiv.1208.0384) |
+
+
+## [DEP-E-20260819-How Do Adam and Training](../DEP-E-20260819-How%20Do%20Adam%20and%20Training/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Do Adam and Training Strategies Help BNNs Optimization?* | Liu, Zechun; Shen, Zhiqiang; Li, Shichao; Helwegen, Koen; Huang, Dong; Cheng, Kwang-Ting | [arXiv:2106.11309](https://arxiv.org/abs/2106.11309) - [DOI](https://doi.org/10.48550/arXiv.2106.11309) |
