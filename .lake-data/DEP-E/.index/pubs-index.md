@@ -9192,3 +9192,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Fast Tree Algorithm for Electric Field Calculation in Electrical Discharge Simulations* | Zhuang, Chijie; Zhang, Yong; Zhou, Xin; Zeng, Rong; He, Jinliang; Liu, Lei | [arXiv:1710.05781](https://arxiv.org/abs/1710.05781) - [DOI](https://doi.org/10.1109/TMAG.2017.2756991) |
+
+
+## [DEP-E-20260819-DataSage Multi-agent](../DEP-E-20260819-DataSage%20Multi-agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DataSage: Multi-agent Collaboration for Insight Discovery with External Knowledge Retrieval, Multi-role Debating, and Multi-path Reasoning* | Liu, Xiaochuan; Song, Yuanfeng; Yin, Xiaoming; Chen, Xing | [arXiv:2511.14299](https://arxiv.org/abs/2511.14299) - [DOI](https://doi.org/10.48550/arXiv.2511.14299) |

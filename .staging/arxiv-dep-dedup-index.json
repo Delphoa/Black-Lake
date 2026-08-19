@@ -24565,6 +24565,29 @@
         "https://doi.org/10.1109/TMAG.2017.2756991"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DataSage Multi-agent",
+        ".logs/20260819-Arxiv-DataSage-Multi-agent-Collaboration-for-Insight-LOG.md",
+        ".reports/BL-Arxiv-DataSage-Multi-agent-Collaboration-for-Insight-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.14299",
+      "arxiv_id": "2511.14299",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2511.14299",
+      "normalized_title": "DataSage: Multi-agent Collaboration for Insight Discovery with External Knowledge Retrieval, Multi-role Debating, and Multi-path Reasoning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P338; draw 70530 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "DataSage-Multi-agent-Collaboration-for-Insight",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.14299",
+        "https://arxiv.org/html/2511.14299",
+        "https://arxiv.org/pdf/2511.14299",
+        "https://doi.org/10.48550/arXiv.2511.14299"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
