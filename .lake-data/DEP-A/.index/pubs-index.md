@@ -11834,3 +11834,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features* | Chen-Yi Lu; Yueh-Shao Chen; Somali Chaterji | [arXiv:2607.23271v1](https://arxiv.org/abs/2607.23271v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23271) |
+
+
+## [DEP-A-20260819-SMART LLM Augmented Hybri](../DEP-A-20260819-SMART%20LLM%20Augmented%20Hybri/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23121-whitepaper-review.md`](../DEP-A-20260819-SMART%20LLM%20Augmented%20Hybri/2607.23121-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads* | Congfei Zhang; Jingxiao Ma; Xiaodong Liu; Hsiang-wei Chao; Siman Wang; Ge Liu; Shantanu Aggarwal; Vincent Zhang; Meghana Missula; Rachel Liao; Zichu Li; Xiao Bai; Yunzhi Zhou; Yajun Wang; Zhe Liu; Jinchao Li; Yu Zhang | [arXiv:2607.23121v1](https://arxiv.org/abs/2607.23121v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23121) |
