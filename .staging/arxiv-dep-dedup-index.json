@@ -14698,6 +14698,29 @@
         "https://doi.org/10.48550/arXiv.2503.02682"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Traceable Group-Wise",
+        ".logs/20260819-Arxiv-Traceable-Group-Wise-Self-Optimizing-Feature-LOG.md",
+        ".reports/BL-Arxiv-Traceable-Group-Wise-Self-Optimizing-Feature-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.16893",
+      "arxiv_id": "2306.16893",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2306.16893",
+      "normalized_title": "Traceable Group-Wise Self-Optimizing Feature Transformation Learning: A Dual Optimization Perspective",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P209; draw 21663 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 8; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Traceable-Group-Wise-Self-Optimizing-Feature",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.16893",
+        "https://arxiv.org/html/2306.16893",
+        "https://arxiv.org/pdf/2306.16893",
+        "https://doi.org/10.48550/arXiv.2306.16893"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
