@@ -7267,3 +7267,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum Recurrent Neural Networks with Encoder-Decoder for Time-Dependent Partial Differential Equations* | Chen, Yuan; Khaliq, Abdul; Furati, Khaled M. | [arXiv:2502.13370](https://arxiv.org/abs/2502.13370) - [DOI](https://doi.org/10.48550/arXiv.2502.13370) |
+
+
+## [DEP-E-20260819-Improving Code](../DEP-E-20260819-Improving%20Code/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization* | Wu, Yuhan; Zhang, Huan; Cheng, Wei; Shen, Chen; Yang, Jingyue; Hu, Wei | [arXiv:2605.13229](https://arxiv.org/abs/2605.13229) - [DOI](https://doi.org/10.48550/arXiv.2605.13229) |
