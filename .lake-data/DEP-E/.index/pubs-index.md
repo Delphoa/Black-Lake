@@ -4719,3 +4719,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs* | Chen, Hung-Mao; He, Xu; Wang, Shu; Zhang, Xiaokuan; Sun, Kun | [arXiv:2502.03271](https://arxiv.org/abs/2502.03271) - [DOI](https://doi.org/10.48550/arXiv.2502.03271) |
+
+
+## [DEP-E-20260819-The Boating Store Had Its](../DEP-E-20260819-The%20Boating%20Store%20Had%20Its/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *"The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition* | Zhou, Yichao; Jiang, Jyun-Yu; Zhao, Jieyu; Chang, Kai-Wei; Wang, Wei | [arXiv:2004.14457](https://arxiv.org/abs/2004.14457) - [DOI](https://doi.org/10.48550/arXiv.2004.14457) |
