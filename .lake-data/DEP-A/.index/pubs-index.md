@@ -11348,3 +11348,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrofitting Linear Attention into Diffusion Language Models* | Jinha Kim; Younghun Roh; Jaeyeon Kim | [arXiv:2608.06628v1](https://arxiv.org/abs/2608.06628v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06628) |
+
+
+## [DEP-A-20260819-TensorCast Missing Tensor](../DEP-A-20260819-TensorCast%20Missing%20Tensor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06007-whitepaper-review.md`](../DEP-A-20260819-TensorCast%20Missing%20Tensor/2608.06007-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TensorCast: The Missing Tensor Management Layer in Large Language Model Infrastructure* | Yuhan Zhou; Yuchu Luo; Hao Nie; Wangrunze Lv; Yu Zhou; Yibo Zhu; Daxin Jiang; Chenren Xu | [arXiv:2608.06007v1](https://arxiv.org/abs/2608.06007v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06007) |
