@@ -4768,3 +4768,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Self-supervised Continual Learning with Progressive Task-correlated Layer Freezing* | Yang, Li; Lin, Sen; Zhang, Fan; Zhang, Junshan; Fan, Deliang | [arXiv:2303.07477](https://arxiv.org/abs/2303.07477) - [DOI](https://doi.org/10.48550/arXiv.2303.07477) |
+
+
+## [DEP-E-20260819-Decision-Making under](../DEP-E-20260819-Decision-Making%20under/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm* | Kong, Yiting; Guan, Yang; Duan, Jingliang; Li, Shengbo Eben; Sun, Qi; Nie, Bingbing | [arXiv:2103.04535](https://arxiv.org/abs/2103.04535) - [DOI](https://doi.org/10.48550/arXiv.2103.04535) |
