@@ -8548,3 +8548,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem* | Wang, Mingzhao; Zhou, You; Cao, Zhiguang; Xiao, Yubin; Wu, Xuan; Pang, Wei; Jiang, Yuan; Yang, Hui; Zhao, Peng; Li, Yuanshu | [arXiv:2501.13767](https://arxiv.org/abs/2501.13767) - [DOI](https://doi.org/10.48550/arXiv.2501.13767) |
+
+
+## [DEP-E-20260819-The Multi-Symplectic](../DEP-E-20260819-The%20Multi-Symplectic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Multi-Symplectic Lanczos Algorithm and Its Applications to Color Image Processing* | Jia, Zhigang; Liu, Xuan; Zhao, Mei-Xiang | [arXiv:2005.01299](https://arxiv.org/abs/2005.01299) - [DOI](https://doi.org/10.48550/arXiv.2005.01299) |
