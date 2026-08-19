@@ -10074,3 +10074,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Supervised and Unsupervised Neural Network Solver for First Order Hyperbolic Nonlinear PDEs* | Baba, Zakaria; Bayen, Alexandre M.; Canesse, Alexi; Monache, Maria Laura Delle; Drieux, Martin; Fu, Zhe; Lichtlé, Nathan; Liu, Zihe; Matin, Hossein Nick Zinat; Piccoli, Benedetto | [arXiv:2601.06388](https://arxiv.org/abs/2601.06388) - [DOI](https://doi.org/10.48550/arXiv.2601.06388) |
+
+
+## [DEP-E-20260819-Selective Weak](../DEP-E-20260819-Selective%20Weak/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selective Weak Supervision for Neural Information Retrieval* | Zhang, Kaitao; Xiong, Chenyan; Liu, Zhenghao; Liu, Zhiyuan | [arXiv:2001.10382](https://arxiv.org/abs/2001.10382) - [DOI](https://doi.org/10.1145/3366423.3380131) |

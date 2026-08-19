@@ -27463,6 +27463,29 @@
         "https://doi.org/10.48550/arXiv.2601.06388"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Selective Weak",
+        ".logs/20260819-Arxiv-Selective-Weak-Supervision-for-Neural-LOG.md",
+        ".reports/BL-Arxiv-Selective-Weak-Supervision-for-Neural-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2001.10382",
+      "arxiv_id": "2001.10382",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3366423.3380131",
+      "normalized_title": "Selective Weak Supervision for Neural Information Retrieval",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P464; draw 58678 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 9; focus exclusions 29; reselections 38; complete-source gate passed; all source files withheld locally.",
+      "slug": "Selective-Weak-Supervision-for-Neural",
+      "source_urls": [
+        "https://arxiv.org/abs/2001.10382",
+        "https://arxiv.org/html/2001.10382",
+        "https://arxiv.org/pdf/2001.10382",
+        "https://doi.org/10.1145/3366423.3380131"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
