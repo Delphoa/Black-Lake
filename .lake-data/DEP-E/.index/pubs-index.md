@@ -7183,3 +7183,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Spatial Mapping Algorithm with Applications in Deep Learning-Based Structure Classification* | Corcoran, Thomas; Zamora-Resendiz, Rafael; Liu, Xinlian; Crivelli, Silvia | [arXiv:1802.02532](https://arxiv.org/abs/1802.02532) - [DOI](https://doi.org/10.48550/arXiv.1802.02532) |
+
+
+## [DEP-E-20260819-A-MAR Agent-based](../DEP-E-20260819-A-MAR%20Agent-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding* | Wang, Shuai; Zhu, Hongyi; Huang, Jia-Hong; Shen, Yixian; Zeng, Chengxi; Rudinac, Stevan; Kackovic, Monika; Wijnberg, Nachoem; Worring, Marcel | [arXiv:2604.19689](https://arxiv.org/abs/2604.19689) - [DOI](https://doi.org/10.48550/arXiv.2604.19689) |
