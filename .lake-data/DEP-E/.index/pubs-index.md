@@ -9696,3 +9696,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution* | Yi, Qiaosi; Li, Shuai; Wu, Rongyuan; Sun, Lingchen; Zhang, Zhengqiang; Zhang, Lei | [arXiv:2603.16769](https://arxiv.org/abs/2603.16769) - [DOI](https://doi.org/10.48550/arXiv.2603.16769) |
+
+
+## [DEP-E-20260819-Surrogate Ensemble in](../DEP-E-20260819-Surrogate%20Ensemble%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning* | Wu, Yuxin; Guo, Hongshu; Huang, Ting; Gong, Yue-Jiao; Ma, Zeyuan | [arXiv:2602.00540](https://arxiv.org/abs/2602.00540) - [DOI](https://doi.org/10.48550/arXiv.2602.00540) |
