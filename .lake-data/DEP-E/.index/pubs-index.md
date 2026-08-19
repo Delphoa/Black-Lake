@@ -6231,3 +6231,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tolling for Constraint Satisfaction in Markov Decision Process Congestion Games* | Li, Sarah H. Q.; Yu, Yue; Calderone, Daniel; Ratliff, Lillian; Acikmese, Behcet | [arXiv:1903.00747](https://arxiv.org/abs/1903.00747) - [DOI](https://doi.org/10.23919/ACC.2019.8814925) |
+
+
+## [DEP-E-20260819-Deep Retrieval Learning A](../DEP-E-20260819-Deep%20Retrieval%20Learning%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations* | Gao, Weihao; Fan, Xiangjun; Wang, Chong; Sun, Jiankai; Jia, Kai; Xiao, Wenzhi; Ding, Ruofan; Bin, Xingyan; Yang, Hui; Liu, Xiaobing | [arXiv:2007.07203](https://arxiv.org/abs/2007.07203) - [DOI](https://doi.org/10.48550/arXiv.2007.07203) |

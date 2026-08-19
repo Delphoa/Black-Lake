@@ -14836,6 +14836,29 @@
         "https://doi.org/10.23919/ACC.2019.8814925"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Deep Retrieval Learning A",
+        ".logs/20260819-Arxiv-Deep-Retrieval-Learning-A-Retrievable-Structure-LOG.md",
+        ".reports/BL-Arxiv-Deep-Retrieval-Learning-A-Retrievable-Structure-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2007.07203",
+      "arxiv_id": "2007.07203",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2007.07203",
+      "normalized_title": "Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P215; draw 56661 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 3; focus exclusions 31; reselections 34; complete-source gate passed; all source files withheld locally.",
+      "slug": "Deep-Retrieval-Learning-A-Retrievable-Structure",
+      "source_urls": [
+        "https://arxiv.org/abs/2007.07203",
+        "https://arxiv.org/html/2007.07203",
+        "https://arxiv.org/pdf/2007.07203",
+        "https://doi.org/10.48550/arXiv.2007.07203"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
