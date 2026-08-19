@@ -10765,6 +10765,29 @@
         "https://doi.org/10.48550/arXiv.1503.05646"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Anisotropic",
+        ".logs/20260819-Arxiv-Anisotropic-multicomponent-topology-optimization-LOG.md",
+        ".reports/BL-Arxiv-Anisotropic-multicomponent-topology-optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1911.10393",
+      "arxiv_id": "1911.10393",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1911.10393",
+      "normalized_title": "Anisotropic multicomponent topology optimization for additive manufacturing with build orientation design and stress-constrained interfaces",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P38; draw 7266 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 27; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "Anisotropic-multicomponent-topology-optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/1911.10393",
+        "https://arxiv.org/html/1911.10393",
+        "https://arxiv.org/pdf/1911.10393",
+        "https://doi.org/10.48550/arXiv.1911.10393"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

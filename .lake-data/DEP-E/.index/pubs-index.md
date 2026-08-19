@@ -4992,3 +4992,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rule Optimization for Real-Time Query Service in Software-Defined Internet of Vehicles* | Wang, Xin; Wang, Cheng; Jiang, Changjun; Yang, Lei; Li, Zhong; Zhou, Xiaobo | [arXiv:1503.05646](https://arxiv.org/abs/1503.05646) - [DOI](https://doi.org/10.48550/arXiv.1503.05646) |
+
+
+## [DEP-E-20260819-Anisotropic](../DEP-E-20260819-Anisotropic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Anisotropic multicomponent topology optimization for additive manufacturing with build orientation design and stress-constrained interfaces* | Zhou, Yuqing; Nomura, Tsuyoshi; Saitou, Kazuhiro | [arXiv:1911.10393](https://arxiv.org/abs/1911.10393) - [DOI](https://doi.org/10.48550/arXiv.1911.10393) |
