@@ -8114,3 +8114,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation* | Gong, Han; Li, Qiyue; Li, Jie; Liu, Zhi | [arXiv:2507.14454](https://arxiv.org/abs/2507.14454) - [DOI](https://doi.org/10.48550/arXiv.2507.14454) |
+
+
+## [DEP-E-20260819-Segmentation-based Method](../DEP-E-20260819-Segmentation-based%20Method/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Segmentation-based Method combined with Dynamic Programming for Brain Midline Delineation* | Wang, Shen; Liang, Kongming; Pan, Chengwei; Ye, Chuyang; Li, Xiuli; Liu, Feng; Yu, Yizhou; Wang, Yizhou | [arXiv:2002.11918](https://arxiv.org/abs/2002.11918) - [DOI](https://doi.org/10.48550/arXiv.2002.11918) |
