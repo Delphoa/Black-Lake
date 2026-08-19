@@ -9885,3 +9885,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization* | Tang, Jiaqi; Xia, Yu; Wu, Yi-Feng; Hu, Yuwei; Chen, Yuhui; Chen, Qing-Guo; Xu, Xiaogang; Wu, Xiangyu; Lu, Hao; Ma, Yanqing; Lu, Shiyin; Chen, Qifeng | [arXiv:2506.09373](https://arxiv.org/abs/2506.09373) - [DOI](https://doi.org/10.48550/arXiv.2506.09373) |
+
+
+## [DEP-E-20260819-EOE Evolutionary](../DEP-E-20260819-EOE%20Evolutionary/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EOE: Evolutionary Optimization of Experts for Training Language Models* | Chen, Yingshi | [arXiv:2509.24436](https://arxiv.org/abs/2509.24436) - [DOI](https://doi.org/10.48550/arXiv.2509.24436) |
