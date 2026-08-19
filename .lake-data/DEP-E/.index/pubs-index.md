@@ -5776,3 +5776,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Subspace-based compressive sensing algorithm for raypath separation in a shallow-water waveguide* | Jiang, Longyu; Zhang, Zhe; Jin, Rui; Zhou, Xiao; Roux, Philippe | [arXiv:2103.14236](https://arxiv.org/abs/2103.14236) - [DOI](https://doi.org/10.48550/arXiv.2103.14236) |
+
+
+## [DEP-E-20260819-Cooperative Training of](../DEP-E-20260819-Cooperative%20Training%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cooperative Training of Fast Thinking Initializer and Slow Thinking Solver for Conditional Learning* | Xie, Jianwen; Zheng, Zilong; Fang, Xiaolin; Zhu, Song-Chun; Wu, Ying Nian | [arXiv:1902.02812](https://arxiv.org/abs/1902.02812) - [DOI](https://doi.org/10.48550/arXiv.1902.02812) |

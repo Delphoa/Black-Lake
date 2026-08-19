@@ -13341,6 +13341,29 @@
         "https://doi.org/10.48550/arXiv.2103.14236"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Cooperative Training of",
+        ".logs/20260819-Arxiv-Cooperative-Training-of-Fast-Thinking-LOG.md",
+        ".reports/BL-Arxiv-Cooperative-Training-of-Fast-Thinking-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1902.02812",
+      "arxiv_id": "1902.02812",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1902.02812",
+      "normalized_title": "Cooperative Training of Fast Thinking Initializer and Slow Thinking Solver for Conditional Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P150; draw 59368 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Cooperative-Training-of-Fast-Thinking",
+      "source_urls": [
+        "https://arxiv.org/abs/1902.02812",
+        "https://arxiv.org/html/1902.02812",
+        "https://arxiv.org/pdf/1902.02812",
+        "https://doi.org/10.48550/arXiv.1902.02812"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
