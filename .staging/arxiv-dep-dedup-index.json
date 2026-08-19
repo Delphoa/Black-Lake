@@ -27739,6 +27739,29 @@
         "https://doi.org/10.48550/arXiv.2204.00185"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DIAL Decoupling Intent",
+        ".logs/20260819-Arxiv-DIAL-Decoupling-Intent-and-Action-via-Latent-LOG.md",
+        ".reports/BL-Arxiv-DIAL-Decoupling-Intent-and-Action-via-Latent-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.29844",
+      "arxiv_id": "2603.29844",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.29844",
+      "normalized_title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P476; draw 63889 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 11; focus exclusions 33; reselections 44; complete-source gate passed; all source files withheld locally.",
+      "slug": "DIAL-Decoupling-Intent-and-Action-via-Latent",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.29844",
+        "https://arxiv.org/html/2603.29844",
+        "https://arxiv.org/pdf/2603.29844",
+        "https://doi.org/10.48550/arXiv.2603.29844"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

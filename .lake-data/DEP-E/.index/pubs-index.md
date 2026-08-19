@@ -10158,3 +10158,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings* | Xiao, Shitao; Liu, Zheng; Han, Weihao; Zhang, Jianjin; Lian, Defu; Gong, Yeyun; Chen, Qi; Yang, Fan; Sun, Hao; Shao, Yingxia; Deng, Denvy; Zhang, Qi; Xie, Xing | [arXiv:2204.00185](https://arxiv.org/abs/2204.00185) - [DOI](https://doi.org/10.48550/arXiv.2204.00185) |
+
+
+## [DEP-E-20260819-DIAL Decoupling Intent](../DEP-E-20260819-DIAL%20Decoupling%20Intent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA* | Chen, Yi; Ge, Yuying; Zhou, Hui; Ding, Mingyu; Ge, Yixiao; Liu, Xihui | [arXiv:2603.29844](https://arxiv.org/abs/2603.29844) - [DOI](https://doi.org/10.48550/arXiv.2603.29844) |
