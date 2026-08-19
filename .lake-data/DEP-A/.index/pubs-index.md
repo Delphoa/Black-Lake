@@ -11798,3 +11798,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Why Git Is the Memory Solution for the Agentic Development Lifecycle* | Frank Guo | [arXiv:2607.14390v1](https://arxiv.org/abs/2607.14390v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14390) |
+
+
+## [DEP-A-20260819-AI Agents Do Not](../DEP-A-20260819-AI%20Agents%20Do%20Not/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14275-whitepaper-review.md`](../DEP-A-20260819-AI%20Agents%20Do%20Not/2607.14275-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AI Agents Do Not Fail Alone:The Context Fails First* | Fouad Bousetouane | [arXiv:2607.14275v1](https://arxiv.org/abs/2607.14275v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14275) |
