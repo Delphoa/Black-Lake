@@ -7799,3 +7799,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DoA-LF: A Location Fingerprint Positioning Algorithm with Millimeter-Wave* | Wei, Zhiqing; Zhao, Yadong; Liu, Xinyi; Feng, Zhiyong | [arXiv:2102.13297](https://arxiv.org/abs/2102.13297) - [DOI](https://doi.org/10.1109/ACCESS.2017.2753781) |
+
+
+## [DEP-E-20260819-Certifying the Right to](../DEP-E-20260819-Certifying%20the%20Right%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning* | Jiang, Yu; Tong, Xindi; Liu, Ziyao; Zhang, Xiaoxi; Lam, Kwok-Yan; Tan, Chee Wei | [arXiv:2512.23171](https://arxiv.org/abs/2512.23171) - [DOI](https://doi.org/10.1109/TIFS.2025.3636788) |
