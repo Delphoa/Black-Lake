@@ -5804,3 +5804,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *E$ \mathbf{^3} $MoP: Efficient Motion Planning Based on Heuristic-Guided Motion Primitives Pruning and Path Optimization With Sparse-Banded Structure* | Wen, Jian; Zhang, Xuebo; Gao, Haiming; Yuan, Jing; Fang, Yongchun | [arXiv:2012.08892](https://arxiv.org/abs/2012.08892) - [DOI](https://doi.org/10.48550/arXiv.2012.08892) |
+
+
+## [DEP-E-20260819-FM-LoRA Factorized](../DEP-E-20260819-FM-LoRA%20Factorized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FM-LoRA: Factorized Low-Rank Meta-Prompting for Continual Learning* | Yu, Xiaobing; Yang, Jin; Wu, Xiao; Qiu, Peijie; Liu, Xiaofeng | [arXiv:2504.08823](https://arxiv.org/abs/2504.08823) - [DOI](https://doi.org/10.48550/arXiv.2504.08823) |
