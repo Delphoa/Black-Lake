@@ -15779,6 +15779,29 @@
         "https://doi.org/10.48550/arXiv.1511.08913"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Towards Fast LLM",
+        ".logs/20260819-Arxiv-Towards-Fast-LLM-Fine-tuning-through-Zeroth-LOG.md",
+        ".reports/BL-Arxiv-Towards-Fast-LLM-Fine-tuning-through-Zeroth-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.18228",
+      "arxiv_id": "2510.18228",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2510.18228",
+      "normalized_title": "Towards Fast LLM Fine-tuning through Zeroth-Order Optimization with Projected Gradient-Aligned Perturbations",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P256; draw 74150 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 26; reselections 30; complete-source gate passed; all source files withheld locally.",
+      "slug": "Towards-Fast-LLM-Fine-tuning-through-Zeroth",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.18228",
+        "https://arxiv.org/html/2510.18228",
+        "https://arxiv.org/pdf/2510.18228",
+        "https://doi.org/10.48550/arXiv.2510.18228"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

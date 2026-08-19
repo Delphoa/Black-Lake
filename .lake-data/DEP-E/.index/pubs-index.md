@@ -6518,3 +6518,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sliding-Window Optimization on an Ambiguity-Clearness Graph for Multi-object Tracking* | Guo, Qi; Dan, Le; Yin, Dong; Ji, Xiangyang | [arXiv:1511.08913](https://arxiv.org/abs/1511.08913) - [DOI](https://doi.org/10.48550/arXiv.1511.08913) |
+
+
+## [DEP-E-20260819-Towards Fast LLM](../DEP-E-20260819-Towards%20Fast%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Fast LLM Fine-tuning through Zeroth-Order Optimization with Projected Gradient-Aligned Perturbations* | Mi, Zhendong; Tan, Qitao; Zhang, Grace Li; Xu, Zhaozhuo; Yuan, Geng; Huang, Shaoyi | [arXiv:2510.18228](https://arxiv.org/abs/2510.18228) - [DOI](https://doi.org/10.48550/arXiv.2510.18228) |
