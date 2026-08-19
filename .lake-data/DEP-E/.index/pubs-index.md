@@ -9738,3 +9738,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BERGEN: A Benchmarking Library for Retrieval-Augmented Generation* | Rau, David; Déjean, Hervé; Chirkova, Nadezhda; Formal, Thibault; Wang, Shuai; Nikoulina, Vassilina; Clinchant, Stéphane | [arXiv:2407.01102](https://arxiv.org/abs/2407.01102) - [DOI](https://doi.org/10.48550/arXiv.2407.01102) |
+
+
+## [DEP-E-20260819-Zeroth-Order Stochastic](../DEP-E-20260819-Zeroth-Order%20Stochastic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Zeroth-Order Stochastic Mirror Descent Algorithms for Minimax Excess Risk Optimization* | Gu, Zhihao; Xu, Zi | [arXiv:2408.12209](https://arxiv.org/abs/2408.12209) - [DOI](https://doi.org/10.48550/arXiv.2408.12209) |
