@@ -9794,3 +9794,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Optimization of Spectrum and Energy Efficiency Considering the C-V2X Security: A Deep Reinforcement Learning Approach* | Liu, Zhipeng; Han, Yinhui; Fan, Jianwei; Zhang, Lin; Lin, Yunzhi | [arXiv:2003.10620](https://arxiv.org/abs/2003.10620) - [DOI](https://doi.org/10.48550/arXiv.2003.10620) |
+
+
+## [DEP-E-20260819-Grounded Answers for](../DEP-E-20260819-Grounded%20Answers%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Grounded Answers for Multi-agent Decision-making Problem through Generative World Model* | Liu, Zeyang; Yang, Xinrui; Sun, Shiguang; Qian, Long; Wan, Lipeng; Chen, Xingyu; Lan, Xuguang | [arXiv:2410.02664](https://arxiv.org/abs/2410.02664) - [DOI](https://doi.org/10.48550/arXiv.2410.02664) |
