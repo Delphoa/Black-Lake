@@ -7988,3 +7988,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation* | Liu, Sicong; Huang, Yanxian; Liu, Mingwei; Chen, Jiachi; Shi, Ensheng; Ma, Yuchi; Zhang, Hongyu; Zhang, Yin; Wang, Yanlin | [arXiv:2601.09703](https://arxiv.org/abs/2601.09703) - [DOI](https://doi.org/10.48550/arXiv.2601.09703) |
+
+
+## [DEP-E-20260819-An Efficient Occupancy](../DEP-E-20260819-An%20Efficient%20Occupancy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training* | Zhang, Haiming; Xue, Ying; Yan, Xu; Zhang, Jiacheng; Qiu, Weichao; Bai, Dongfeng; Liu, Bingbing; Cui, Shuguang; Li, Zhen | [arXiv:2412.13772](https://arxiv.org/abs/2412.13772) - [DOI](https://doi.org/10.48550/arXiv.2412.13772) |
