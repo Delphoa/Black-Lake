@@ -7638,3 +7638,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GDEPO: Group Dual-dynamic and Equal-right Advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning* | Yan, Zhengqing; Liu, Xinyang; Zhang, Yi; Guo, Fan; Jia, ChengXun; Wan, Junchen; Liu, Yao; Liu, Qi; Huang, Jihao; Song, Kang | [arXiv:2601.06795](https://arxiv.org/abs/2601.06795) - [DOI](https://doi.org/10.48550/arXiv.2601.06795) |
+
+
+## [DEP-E-20260819-Learning Plug-and-play](../DEP-E-20260819-Learning%20Plug-and-play/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Plug-and-play Memory for Guiding Video Diffusion Models* | Song, Selena; Xu, Ziming; Zhang, Zijun; Zhou, Kun; Guo, Jiaxian; Qin, Lianhui; Huang, Biwei | [arXiv:2511.19229](https://arxiv.org/abs/2511.19229) - [DOI](https://doi.org/10.48550/arXiv.2511.19229) |

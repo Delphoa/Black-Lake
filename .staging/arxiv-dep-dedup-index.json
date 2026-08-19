@@ -19459,6 +19459,29 @@
         "https://doi.org/10.48550/arXiv.2601.06795"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Learning Plug-and-play",
+        ".logs/20260819-Arxiv-Learning-Plug-and-play-Memory-for-Guiding-LOG.md",
+        ".reports/BL-Arxiv-Learning-Plug-and-play-Memory-for-Guiding-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.19229",
+      "arxiv_id": "2511.19229",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2511.19229",
+      "normalized_title": "Learning Plug-and-play Memory for Guiding Video Diffusion Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P116; draw 37566 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-Plug-and-play-Memory-for-Guiding",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.19229",
+        "https://arxiv.org/html/2511.19229",
+        "https://arxiv.org/pdf/2511.19229",
+        "https://doi.org/10.48550/arXiv.2511.19229"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
