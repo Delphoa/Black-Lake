@@ -6448,3 +6448,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks* | Ren, Tianhe; Liu, Shilong; Zeng, Ailing; Lin, Jing; Li, Kunchang; Cao, He; Chen, Jiayu; Huang, Xinyu; Chen, Yukang; Yan, Feng; Zeng, Zhaoyang; Zhang, Hao; Li, Feng; Yang, Jie; Li, Hongyang; Jiang, Qing; Zhang, Lei | [arXiv:2401.14159](https://arxiv.org/abs/2401.14159) - [DOI](https://doi.org/10.48550/arXiv.2401.14159) |
+
+
+## [DEP-E-20260819-Youtu-Agent Scaling Agent](../DEP-E-20260819-Youtu-Agent%20Scaling%20Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization* | Shi, Yuchen; Cai, Yuzheng; Cai, Siqi; Xu, Zihan; Chen, Lichao; Qin, Yulei; Zhou, Zhijian; Fei, Xiang; Qiu, Chaofan; Tan, Xiaoyu; Li, Gang; Li, Zongyi; Lin, Haojia; Cai, Guocan; Mao, Yong; Wu, Yunsheng; Li, Ke; Sun, Xing | [arXiv:2512.24615](https://arxiv.org/abs/2512.24615) - [DOI](https://doi.org/10.48550/arXiv.2512.24615) |
