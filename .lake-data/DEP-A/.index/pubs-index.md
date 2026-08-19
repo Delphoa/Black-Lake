@@ -12185,3 +12185,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLMs Are Not Good Strategists, Yet Memory-Enhanced Agency Boosts Reasoning* | Yi Wu; Zhimin Hu | [arXiv:2608.12626v1](https://arxiv.org/abs/2608.12626v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12626) |
+
+
+## [DEP-A-20260819-MobileMem Learning Year M](../DEP-A-20260819-MobileMem%20Learning%20Year%20M/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13606-whitepaper-review.md`](../DEP-A-20260819-MobileMem%20Learning%20Year%20M/2608.13606-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MobileMem: Learning from a Year of Mobile Experiences* | Xinle Deng; Yida Xue; Xiangyuan Ru; Yijun Chen; Buqiang Xu; Mingjun Mao; Xinjie Liu; Haoming Xu; Shuofei Qiao; Mengru Wang; Chen Jiang; Yuchen Eleanor Jiang; Lizhong Wang; Jason Wang; Li Zeng; Haofen Wang; Guilin Qi; Huajun Chen; Ningyu Zhang | [arXiv:2608.13606v2](https://arxiv.org/abs/2608.13606v2) - [DOI](https://doi.org/10.48550/arXiv.2608.13606) |
