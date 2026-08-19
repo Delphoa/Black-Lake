@@ -5657,3 +5657,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online Learning with Cumulative Oversampling: Application to Budgeted Influence Maximization* | Wang, Shatian; Yang, Shuoguang; Xu, Zhen; Truong, Van-Anh | [arXiv:2004.11963](https://arxiv.org/abs/2004.11963) - [DOI](https://doi.org/10.48550/arXiv.2004.11963) |
+
+
+## [DEP-E-20260819-Scalable Language Model](../DEP-E-20260819-Scalable%20Language%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable Language Model with Generalized Continual Learning* | Peng, Bohao; Tian, Zhuotao; Liu, Shu; Yang, Mingchang; Jia, Jiaya | [arXiv:2404.07470](https://arxiv.org/abs/2404.07470) - [DOI](https://doi.org/10.48550/arXiv.2404.07470) |

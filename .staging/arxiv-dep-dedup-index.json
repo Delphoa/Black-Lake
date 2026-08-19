@@ -12950,6 +12950,29 @@
         "https://doi.org/10.48550/arXiv.2004.11963"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Scalable Language Model",
+        ".logs/20260819-Arxiv-Scalable-Language-Model-with-Generalized-LOG.md",
+        ".reports/BL-Arxiv-Scalable-Language-Model-with-Generalized-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.07470",
+      "arxiv_id": "2404.07470",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2404.07470",
+      "normalized_title": "Scalable Language Model with Generalized Continual Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P133; draw 10542 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 29; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "Scalable-Language-Model-with-Generalized",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.07470",
+        "https://arxiv.org/html/2404.07470",
+        "https://arxiv.org/pdf/2404.07470",
+        "https://doi.org/10.48550/arXiv.2404.07470"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
