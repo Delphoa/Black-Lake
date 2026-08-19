@@ -8443,3 +8443,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TestDecision: Sequential Test Suite Generation via Greedy Optimization and Reinforcement Learning* | Wang, Guoqing; Yang, Chengran; Zhou, Xiaoxuan; Sun, Zeyu; Wang, Bo; Lo, David; Hao, Dan | [arXiv:2604.01799](https://arxiv.org/abs/2604.01799) - [DOI](https://doi.org/10.48550/arXiv.2604.01799) |
+
+
+## [DEP-E-20260819-Metric-Solver Sliding](../DEP-E-20260819-Metric-Solver%20Sliding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Metric-Solver: Sliding Anchored Metric Depth Estimation from a Single Image* | Wen, Tao; Wang, Jiepeng; Chen, Yabo; Xu, Shugong; Zhang, Chi; Li, Xuelong | [arXiv:2504.12103](https://arxiv.org/abs/2504.12103) - [DOI](https://doi.org/10.48550/arXiv.2504.12103) |
