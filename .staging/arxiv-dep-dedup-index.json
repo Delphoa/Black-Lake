@@ -12145,6 +12145,29 @@
         "https://doi.org/10.48550/arXiv.2504.11739"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Hierarchical",
+        ".logs/20260819-Arxiv-Hierarchical-Optimization-Derived-Learning-LOG.md",
+        ".reports/BL-Arxiv-Hierarchical-Optimization-Derived-Learning-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.05587",
+      "arxiv_id": "2302.05587",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2302.05587",
+      "normalized_title": "Hierarchical Optimization-Derived Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P98; draw 75447 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 36; reselections 39; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hierarchical-Optimization-Derived-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.05587",
+        "https://arxiv.org/html/2302.05587",
+        "https://arxiv.org/pdf/2302.05587",
+        "https://doi.org/10.48550/arXiv.2302.05587"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

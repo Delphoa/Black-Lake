@@ -5412,3 +5412,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation* | Gao, Bingjie; Gao, Xinyu; Wu, Xiaoxue; Zhou, Yujie; Qiao, Yu; Niu, Li; Chen, Xinyuan; Wang, Yaohui | [arXiv:2504.11739](https://arxiv.org/abs/2504.11739) - [DOI](https://doi.org/10.48550/arXiv.2504.11739) |
+
+
+## [DEP-E-20260819-Hierarchical](../DEP-E-20260819-Hierarchical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Optimization-Derived Learning* | Liu, Risheng; Liu, Xuan; Zeng, Shangzhi; Zhang, Jin; Zhang, Yixuan | [arXiv:2302.05587](https://arxiv.org/abs/2302.05587) - [DOI](https://doi.org/10.48550/arXiv.2302.05587) |
