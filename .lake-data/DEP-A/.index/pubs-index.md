@@ -12320,3 +12320,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents* | Heng Wang; Yifei Li; Lingling Zhang; Pengyu Li; Xinyu Che; Xinyu Zhang; Zesheng Yang | [arXiv:2608.16168v1](https://arxiv.org/abs/2608.16168v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16168) |
+
+
+## [DEP-A-20260820-D2 ScaleAgent Dual Dimens](../DEP-A-20260820-D2%20ScaleAgent%20Dual%20Dimens/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16417-whitepaper-review.md`](../DEP-A-20260820-D2%20ScaleAgent%20Dual%20Dimens/2608.16417-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding* | Hao Zhang; Longrong Yang; Lunhao Duan; Ziyang Wang; Qing-Guo Chen; Shanshan Zhao | [arXiv:2608.16417v1](https://arxiv.org/abs/2608.16417v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16417) |
