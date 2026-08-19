@@ -19045,6 +19045,29 @@
         "https://doi.org/10.48550/arXiv.2402.17487"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ArchRAG Attributed",
+        ".logs/20260819-Arxiv-ArchRAG-Attributed-Community-based-Hierarchical-LOG.md",
+        ".reports/BL-Arxiv-ArchRAG-Attributed-Community-based-Hierarchical-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.09891",
+      "arxiv_id": "2502.09891",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1609/aaai.v40i19.38619",
+      "normalized_title": "ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P98; draw 19051 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 11; reselections 11; complete-source gate passed; all source files withheld locally.",
+      "slug": "ArchRAG-Attributed-Community-based-Hierarchical",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.09891",
+        "https://arxiv.org/html/2502.09891",
+        "https://arxiv.org/pdf/2502.09891",
+        "https://doi.org/10.1609/aaai.v40i19.38619"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
