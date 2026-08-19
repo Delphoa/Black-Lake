@@ -8205,3 +8205,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distributed Evolution Strategies for Black-box Stochastic Optimization* | He, Xiaoyu; Zheng, Zibin; Chen, Chuan; Zhou, Yuren; Luo, Chuan; Lin, Qingwei | [arXiv:2204.04450](https://arxiv.org/abs/2204.04450) - [DOI](https://doi.org/10.48550/arXiv.2204.04450) |
+
+
+## [DEP-E-20260819-When Machine Unlearning](../DEP-E-20260819-When%20Machine%20Unlearning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?* | Wang, Shang; Zhu, Tianqing; Ye, Dayong; Zhou, Wanlei | [arXiv:2410.15267](https://arxiv.org/abs/2410.15267) - [DOI](https://doi.org/10.48550/arXiv.2410.15267) |
