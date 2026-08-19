@@ -12131,3 +12131,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Demystifying Agent Skills: Why They Work-Until They Don't* | Zhiyuan Jiang; Fangrui Huang; Hanwen Xing; Xander Wu; Yipeng Gao; Rui Cao; Mengdi Wang; Shilong Liu; Yijiang Li | [arXiv:2608.14036v1](https://arxiv.org/abs/2608.14036v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14036) |
+
+
+## [DEP-A-20260819-When Personal Memory Has](../DEP-A-20260819-When%20Personal%20Memory%20Has/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13921-whitepaper-review.md`](../DEP-A-20260819-When%20Personal%20Memory%20Has/2608.13921-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict* | Lu Yang; Shusheng Xu; Zhuoran Li; Tongkai Yang; Longbo Huang | [arXiv:2608.13921v1](https://arxiv.org/abs/2608.13921v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13921) |
