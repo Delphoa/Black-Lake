@@ -6476,3 +6476,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A remark about orthogonal matching pursuit algorithm* | Xu, Zhiqiang | [arXiv:1005.3093](https://arxiv.org/abs/1005.3093) - [DOI](https://doi.org/10.48550/arXiv.1005.3093) |
+
+
+## [DEP-E-20260819-Offline Model-Based](../DEP-E-20260819-Offline%20Model-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Offline Model-Based Optimization: Comprehensive Review* | Kim, Minsu; Gu, Jiayao; Yuan, Ye; Yun, Taeyoung; Liu, Zixuan; Bengio, Yoshua; Chen, Can | [arXiv:2503.17286](https://arxiv.org/abs/2503.17286) - [DOI](https://doi.org/10.48550/arXiv.2503.17286) |
