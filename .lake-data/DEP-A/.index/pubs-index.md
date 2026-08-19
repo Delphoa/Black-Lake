@@ -10857,3 +10857,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An improved FPT algorithm for Independent Feedback Vertex Set* | Li, Shaohua; Pilipczuk, Marcin | [arXiv:1803.00937](https://arxiv.org/abs/1803.00937) - [DOI](https://doi.org/10.48550/arXiv.1803.00937) |
+
+## [DEP-A-20260820-Analysis of Intake](../DEP-A-20260820-Analysis%20of%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Analysis%20of%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis of Nederlof's algorithm for subset sum* | Cao, Zhengjun; Chen, Zhen; Liu, Lihua | [arXiv:1807.02075](https://arxiv.org/abs/1807.02075) - [DOI](https://doi.org/10.48550/arXiv.1807.02075) |
