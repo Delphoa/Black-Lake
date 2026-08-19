@@ -9311,3 +9311,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning* | Zhang, Zhi; Han, Zhen; Mavromatis, Costas; Zhu, Qi; Zhang, Yunyi; Guan, Sheng; Wang, Dingmin; Zhou, Xiong; Wang, Shuai; Adeshina, Soji; Ioannidis, Vassilis; Rangwala, Huzefa | [arXiv:2602.14338](https://arxiv.org/abs/2602.14338) - [DOI](https://doi.org/10.48550/arXiv.2602.14338) |
+
+
+## [DEP-E-20260819-Depth Reconstruction from](../DEP-E-20260819-Depth%20Reconstruction%20from/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Depth Reconstruction from Sparse Samples: Representation, Algorithm, and Sampling* | Liu, Lee-Kang; Chan, Stanley H.; Nguyen, Truong Q. | [arXiv:1407.3840](https://arxiv.org/abs/1407.3840) - [DOI](https://doi.org/10.48550/arXiv.1407.3840) |

@@ -24956,6 +24956,29 @@
         "https://doi.org/10.48550/arXiv.2602.14338"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Depth Reconstruction from",
+        ".logs/20260819-Arxiv-Depth-Reconstruction-from-Sparse-Samples-LOG.md",
+        ".reports/BL-Arxiv-Depth-Reconstruction-from-Sparse-Samples-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1407.3840",
+      "arxiv_id": "1407.3840",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1407.3840",
+      "normalized_title": "Depth Reconstruction from Sparse Samples: Representation, Algorithm, and Sampling",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P355; draw 55489 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 13; focus exclusions 62; reselections 75; complete-source gate passed; all source files withheld locally.",
+      "slug": "Depth-Reconstruction-from-Sparse-Samples",
+      "source_urls": [
+        "https://arxiv.org/abs/1407.3840",
+        "https://arxiv.org/html/1407.3840",
+        "https://arxiv.org/pdf/1407.3840",
+        "https://doi.org/10.48550/arXiv.1407.3840"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
