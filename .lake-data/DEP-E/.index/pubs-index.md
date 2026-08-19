@@ -5846,3 +5846,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast Fourier Correlation is a Highly Efficient and Accurate Feature Attribution Algorithm from the Perspective of Control Theory and Game Theory* | Liu, Zechen; Zhang, Feiyang; Song, Wei; Li, Xiang; Wei, Wei | [arXiv:2504.02016](https://arxiv.org/abs/2504.02016) - [DOI](https://doi.org/10.48550/arXiv.2504.02016) |
+
+
+## [DEP-E-20260819-Searching for Best](../DEP-E-20260819-Searching%20for%20Best/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Searching for Best Practices in Retrieval-Augmented Generation* | Wang, Xiaohua; Wang, Zhenghua; Gao, Xuan; Zhang, Feiran; Wu, Yixin; Xu, Zhibo; Shi, Tianyuan; Wang, Zhengyuan; Li, Shizheng; Qian, Qi; Yin, Ruicheng; Lv, Changze; Zheng, Xiaoqing; Huang, Xuanjing | [arXiv:2407.01219](https://arxiv.org/abs/2407.01219) - [DOI](https://doi.org/10.48550/arXiv.2407.01219) |
