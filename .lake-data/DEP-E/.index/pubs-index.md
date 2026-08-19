@@ -6903,3 +6903,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Algorithm for Deep Stochastic Contextual Bandits* | Authors listed on the public arXiv record | [arXiv:2104.05613](https://arxiv.org/abs/2104.05613) - [DOI](https://doi.org/10.48550/arXiv.2104.05613) |
+
+
+## [DEP-E-20260819-AirSpatialBot A](../DEP-E-20260819-AirSpatialBot%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval* | Zhou, Yue; Ding, Ran; Yang, Xue; Jiang, Xue; Liu, Xingzhao | [arXiv:2601.01416](https://arxiv.org/abs/2601.01416) - [DOI](https://doi.org/10.48550/arXiv.2601.01416) |
