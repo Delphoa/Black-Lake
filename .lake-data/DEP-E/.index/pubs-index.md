@@ -7204,3 +7204,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The performance of the amplitude-based model for complex phase retrieval* | Xia, Yu; Xu, Zhiqiang | [arXiv:2204.05492](https://arxiv.org/abs/2204.05492) - [DOI](https://doi.org/10.48550/arXiv.2204.05492) |
+
+
+## [DEP-E-20260819-LLM-FSM Scaling Large](../DEP-E-20260819-LLM-FSM%20Scaling%20Large/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation* | Wu, Yuheng; Gokmen, Berk; Xie, Zhouhua; Li, Peijing; Trippel, Caroline; Raina, Priyanka; Tambe, Thierry | [arXiv:2602.07032](https://arxiv.org/abs/2602.07032) - [DOI](https://doi.org/10.48550/arXiv.2602.07032) |

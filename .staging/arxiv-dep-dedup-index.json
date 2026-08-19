@@ -18033,6 +18033,29 @@
         "https://doi.org/10.48550/arXiv.2204.05492"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-LLM-FSM Scaling Large",
+        ".logs/20260819-Arxiv-LLM-FSM-Scaling-Large-Language-Models-for-LOG.md",
+        ".reports/BL-Arxiv-LLM-FSM-Scaling-Large-Language-Models-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.07032",
+      "arxiv_id": "2602.07032",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.07032",
+      "normalized_title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P54; draw 71564 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 1; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "LLM-FSM-Scaling-Large-Language-Models-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.07032",
+        "https://arxiv.org/html/2602.07032",
+        "https://arxiv.org/pdf/2602.07032",
+        "https://doi.org/10.48550/arXiv.2602.07032"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
