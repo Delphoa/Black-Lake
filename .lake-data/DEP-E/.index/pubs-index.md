@@ -6014,3 +6014,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation* | Cui, Guofeng; Wang, Pichao; Liu, Yang; Ke, Zemian; Liu, Zhu; Bhat, Vimal | [arXiv:2501.13927](https://arxiv.org/abs/2501.13927) - [DOI](https://doi.org/10.48550/arXiv.2501.13927) |
+
+
+## [DEP-E-20260819-XR-DT Extended](../DEP-E-20260819-XR-DT%20Extended/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control* | Wang, Tianyi; Byeon, Jiseop; Yehia, Ahmad; Xu, Yiming; Park, Jihyung; Zeng, Tianyi; Chen, Sikai; Wang, Ziran; Jiao, Junfeng; Claudel, Christian | [arXiv:2512.05270](https://arxiv.org/abs/2512.05270) - [DOI](https://doi.org/10.48550/arXiv.2512.05270) |

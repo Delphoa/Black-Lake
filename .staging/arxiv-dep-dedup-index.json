@@ -14123,6 +14123,29 @@
         "https://doi.org/10.48550/arXiv.2501.13927"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-XR-DT Extended",
+        ".logs/20260819-Arxiv-XR-DT-Extended-Reality-Enhanced-Digital-Twin-LOG.md",
+        ".reports/BL-Arxiv-XR-DT-Extended-Reality-Enhanced-Digital-Twin-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.05270",
+      "arxiv_id": "2512.05270",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2512.05270",
+      "normalized_title": "XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P184; draw 19605 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 13; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "XR-DT-Extended-Reality-Enhanced-Digital-Twin",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.05270",
+        "https://arxiv.org/html/2512.05270",
+        "https://arxiv.org/pdf/2512.05270",
+        "https://doi.org/10.48550/arXiv.2512.05270"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
