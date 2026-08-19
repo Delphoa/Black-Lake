@@ -8506,3 +8506,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WaterAdmin: Orchestrating Community Water Distribution Optimization via AI Agents* | Wen, Jiaqi; Tang, Pingbo; Ren, Shaolei; Yang, Jianyi | [arXiv:2604.10343](https://arxiv.org/abs/2604.10343) - [DOI](https://doi.org/10.48550/arXiv.2604.10343) |
+
+
+## [DEP-E-20260819-A Fast Minimization](../DEP-E-20260819-A%20Fast%20Minimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Minimization Algorithm for the Euler Elastica Model Based on a Bilinear Decomposition* | Liu, Zhifang; Sun, Baochen; Tai, Xue-Cheng; Wang, Qi; Chang, Huibin | [arXiv:2308.13471](https://arxiv.org/abs/2308.13471) - [DOI](https://doi.org/10.48550/arXiv.2308.13471) |
