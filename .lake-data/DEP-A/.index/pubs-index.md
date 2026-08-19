@@ -11438,3 +11438,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning* | Wonpyo Park; Seung-won Hwang | [arXiv:2608.03276v1](https://arxiv.org/abs/2608.03276v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03276) |
+
+
+## [DEP-A-20260819-SAKI Score Aware Low](../DEP-A-20260819-SAKI%20Score%20Aware%20Low/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03228-whitepaper-review.md`](../DEP-A-20260819-SAKI%20Score%20Aware%20Low/2608.03228-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAKI: Score-Aware Low-Rank Key Indexing with Random-Matrix Noise Correction for KV Retrieval* | Lin Zhang | [arXiv:2608.03228v2](https://arxiv.org/abs/2608.03228v2) - [DOI](https://doi.org/10.48550/arXiv.2608.03228) |
