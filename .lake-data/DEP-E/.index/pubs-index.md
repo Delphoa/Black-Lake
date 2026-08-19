@@ -5111,3 +5111,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion* | Shou, Yuntao; Meng, Tao; Zhang, Fuchen; Yin, Nan; Li, Keqin | [arXiv:2404.17858](https://arxiv.org/abs/2404.17858) - [DOI](https://doi.org/10.48550/arXiv.2404.17858) |
+
+
+## [DEP-E-20260819-Collaborative Multi-Agent](../DEP-E-20260819-Collaborative%20Multi-Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization* | Huang, Xiaohan; Wang, Dongjie; Ning, Zhiyuan; Qiao, Ziyue; Long, Qingqing; Zhu, Haowei; Du, Yi; Wu, Min; Zhou, Yuanchun; Xiao, Meng | [arXiv:2504.17355](https://arxiv.org/abs/2504.17355) - [DOI](https://doi.org/10.48550/arXiv.2504.17355) |
