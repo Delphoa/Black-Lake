@@ -5237,3 +5237,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stochastic Motion Planning as Gaussian Variational Inference: Theory and Algorithms* | Yu, Hongzhe; Chen, Yongxin | [arXiv:2308.14985](https://arxiv.org/abs/2308.14985) - [DOI](https://doi.org/10.48550/arXiv.2308.14985) |
+
+
+## [DEP-E-20260819-ReFreeKV Towards](../DEP-E-20260819-ReFreeKV%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReFreeKV: Towards Threshold-Free KV Cache Compression* | Ni, Xuanfan; Xu, Liyan; Lyu, Chenyang; Wang, Longyue; Yu, Mo; Liu, Lemao; Meng, Fandong; Zhou, Jie; Li, Piji | [arXiv:2502.16886](https://arxiv.org/abs/2502.16886) - [DOI](https://doi.org/10.48550/arXiv.2502.16886) |
