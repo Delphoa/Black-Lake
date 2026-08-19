@@ -19367,6 +19367,29 @@
         "https://doi.org/10.48550/arXiv.2010.08626"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Memory Consistent",
+        ".logs/20260819-Arxiv-Memory-Consistent-Unsupervised-Off-the-Shelf-LOG.md",
+        ".reports/BL-Arxiv-Memory-Consistent-Unsupervised-Off-the-Shelf-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.07910",
+      "arxiv_id": "2209.07910",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2209.07910",
+      "normalized_title": "Memory Consistent Unsupervised Off-the-Shelf Model Adaptation for Source-Relaxed Medical Image Segmentation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P112; draw 75796 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 15; reselections 16; complete-source gate passed; all source files withheld locally.",
+      "slug": "Memory-Consistent-Unsupervised-Off-the-Shelf",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.07910",
+        "https://arxiv.org/html/2209.07910",
+        "https://arxiv.org/pdf/2209.07910",
+        "https://doi.org/10.48550/arXiv.2209.07910"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
