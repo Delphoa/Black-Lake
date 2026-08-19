@@ -11276,3 +11276,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs* | Qiyanhui Lu; Han Wu; Rongjian Xu; Tingzhang Luo; Cheng Fan; Xinghao Chen; Minjing Dong; Jufeng Yang; Jianyuan Guo | [arXiv:2608.07088v1](https://arxiv.org/abs/2608.07088v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07088) |
+
+
+## [DEP-A-20260819-HiSparse Scaling Sparse A](../DEP-A-20260819-HiSparse%20Scaling%20Sparse%20A/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07009-whitepaper-review.md`](../DEP-A-20260819-HiSparse%20Scaling%20Sparse%20A/2608.07009-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management* | Zhiqiang Xie; Zhangheng Huang; Tingwei Huang; Ziyi Xu; Ruiyang Ma; Christos Kozyrakis | [arXiv:2608.07009v1](https://arxiv.org/abs/2608.07009v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07009) |
