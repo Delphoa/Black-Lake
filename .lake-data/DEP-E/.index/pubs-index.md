@@ -6945,3 +6945,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems* | Huang, Zijie; Zhao, Wanjia; Gao, Jingdong; Hu, Ziniu; Luo, Xiao; Cao, Yadi; Chen, Yuanzhou; Sun, Yizhou; Wang, Wei | [arXiv:2310.06427](https://arxiv.org/abs/2310.06427) - [DOI](https://doi.org/10.48550/arXiv.2310.06427) |
+
+
+## [DEP-E-20260819-Visualization of](../DEP-E-20260819-Visualization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visualization of Multi-Objective Switched Reluctance Machine Optimization at Multiple Operating Conditions with t-SNE* | Zhang, Shen; Zhang, Shibo; Li, Sufei; Du, Liang; Habetler, Thomas G. | [arXiv:1911.01024](https://arxiv.org/abs/1911.01024) - [DOI](https://doi.org/10.48550/arXiv.1911.01024) |
