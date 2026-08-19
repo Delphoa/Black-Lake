@@ -12239,3 +12239,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation* | Liming Liu; Mingze Wang; Tuo Zhao | [arXiv:2608.12385v2](https://arxiv.org/abs/2608.12385v2) - [DOI](https://doi.org/10.48550/arXiv.2608.12385) |
+
+
+## [DEP-A-20260820-Anatomy Quantized Agent V](../DEP-A-20260820-Anatomy%20Quantized%20Agent%20V/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.15117-whitepaper-review.md`](../DEP-A-20260820-Anatomy%20Quantized%20Agent%20V/2608.15117-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads* | Anubhab Banerjee | [arXiv:2608.15117v1](https://arxiv.org/abs/2608.15117v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15117) |
