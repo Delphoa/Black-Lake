@@ -7239,3 +7239,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval* | Xue, Han; Liu, Liu; Xu, Wenqiang; Fu, Haoyuan; Lu, Cewu | [arXiv:2112.07334](https://arxiv.org/abs/2112.07334) - [DOI](https://doi.org/10.48550/arXiv.2112.07334) |
+
+
+## [DEP-E-20260819-Difficulty-Estimated](../DEP-E-20260819-Difficulty-Estimated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Difficulty-Estimated Policy Optimization* | Zhao, Yu; Jiang, Fan; Liu, Tianle; Zeng, Bo; Liu, Yu; Wang, Longyue; Luo, Weihua | [arXiv:2602.06375](https://arxiv.org/abs/2602.06375) - [DOI](https://doi.org/10.48550/arXiv.2602.06375) |
