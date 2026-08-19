@@ -9465,3 +9465,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs* | Pan, Duyi; Lou, Tianao; Li, Xin; Song, Haoze; Wu, Yiwen; Deng, Mengyi; Yang, Mingyu; Wang, Wei | [arXiv:2603.20309](https://arxiv.org/abs/2603.20309) - [DOI](https://doi.org/10.48550/arXiv.2603.20309) |
+
+
+## [DEP-E-20260819-Structure Learning of](../DEP-E-20260819-Structure%20Learning%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structure Learning of Deep Networks via DNA Computing Algorithm* | Zhong, Guoqiang; Li, Tao; Liu, Wenxue; Chen, Yang | [arXiv:1810.10687](https://arxiv.org/abs/1810.10687) - [DOI](https://doi.org/10.48550/arXiv.1810.10687) |
