@@ -4964,3 +4964,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CWM: An Open-Weights LLM for Research on Code Generation with World Models* | FAIR CodeGen team; Copet, Jade; Carbonneaux, Quentin; Cohen, Gal; Gehring, Jonas; Kahn, Jacob; Kossen, Jannik; Kreuk, Felix; McMilin, Emily; Meyer, Michel; Wei, Yuxiang; Zhang, David; Zheng, Kunhao; Armengol-Estapé, Jordi; Bashiri, Pedram; Beck, Maximilian; Chambon, Pierre; Charnalia, Abhishek; Cummins, Chris; Decugis, Juliette; Fisches, Zacharias V.; Fleuret, François; Gloeckle, Fabian; Gu, Alex; Hassid, Michael; Haziza, Daniel; Idrissi, Badr Youbi; Keller, Christian; Kindi, Rahul; Leather, Hugh; Maimon, Gallil; Markosyan, Aram; Massa, Francisco; Mazaré, Pierre-Emmanuel; Mella, Vegard; Murray, Naila; Muzumdar, Keyur; O'Hearn, Peter; Pagliardini, Matteo; Pedchenko, Dmitrii; Remez, Tal; Seeker, Volker; Selvi, Marco; Sultan, Oren; Wang, Sida; Wehrstedt, Luca; Yoran, Ori; Zhang, Lingming; Cohen, Taco; Adi, Yossi; Synnaeve, Gabriel | [arXiv:2510.02387](https://arxiv.org/abs/2510.02387) - [DOI](https://doi.org/10.48550/arXiv.2510.02387) |
+
+
+## [DEP-E-20260819-DiCache Let Diffusion](../DEP-E-20260819-DiCache%20Let%20Diffusion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DiCache: Let Diffusion Model Determine Its Own Cache* | Bu, Jiazi; Ling, Pengyang; Zhou, Yujie; Wang, Yibin; Zang, Yuhang; Lin, Dahua; Wang, Jiaqi | [arXiv:2508.17356](https://arxiv.org/abs/2508.17356) - [DOI](https://doi.org/10.48550/arXiv.2508.17356) |
