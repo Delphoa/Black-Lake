@@ -7708,3 +7708,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Learning via Dynamical Systems: An Approximation Perspective* | Li, Qianxiao; Lin, Ting; Shen, Zuowei | [arXiv:1912.10382](https://arxiv.org/abs/1912.10382) - [DOI](https://doi.org/10.48550/arXiv.1912.10382) |
+
+
+## [DEP-E-20260819-Improving Reliability](../DEP-E-20260819-Improving%20Reliability/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Reliability Performance of Diffusion-based Molecular Communication With Adaptive Threshold Variation Algorithm* | He, Peng; Mao, Yuming; Liu, Qiang; Yang, Kun | [arXiv:1508.00982](https://arxiv.org/abs/1508.00982) - [DOI](https://doi.org/10.48550/arXiv.1508.00982) |
