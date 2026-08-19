@@ -11168,3 +11168,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference* | Tejasvi C. Addagada | [arXiv:2608.09225v1](https://arxiv.org/abs/2608.09225v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09225) |
+
+
+## [DEP-A-20260819-DistillCache KL Guided Ad](../DEP-A-20260819-DistillCache%20KL%20Guided%20Ad/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08878-whitepaper-review.md`](../DEP-A-20260819-DistillCache%20KL%20Guided%20Ad/2608.08878-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference* | Asaad Althoubi | [arXiv:2608.08878v1](https://arxiv.org/abs/2608.08878v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08878) |
