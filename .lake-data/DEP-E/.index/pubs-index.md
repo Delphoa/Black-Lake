@@ -6546,3 +6546,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing LLM Reasoning with Reward-guided Tree Search* | Jiang, Jinhao; Chen, Zhipeng; Min, Yingqian; Chen, Jie; Cheng, Xiaoxue; Wang, Jiapeng; Tang, Yiru; Sun, Haoxiang; Deng, Jia; Zhao, Wayne Xin; Liu, Zheng; Yan, Dong; Xie, Jian; Wang, Zhongyuan; Wen, Ji-Rong | [arXiv:2411.11694](https://arxiv.org/abs/2411.11694) - [DOI](https://doi.org/10.48550/arXiv.2411.11694) |
+
+
+## [DEP-E-20260819-CalliMaster Mastering](../DEP-E-20260819-CalliMaster%20Mastering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CalliMaster: Mastering Page-level Chinese Calligraphy via Layout-guided Spatial Planning* | Xu, Tianshuo; Hong, Tiantian; Chen, Zhifei; Chao, Fei; Chen, Ying-cong | [arXiv:2603.12482](https://arxiv.org/abs/2603.12482) - [DOI](https://doi.org/10.48550/arXiv.2603.12482) |

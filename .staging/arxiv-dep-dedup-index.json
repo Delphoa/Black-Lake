@@ -15871,6 +15871,29 @@
         "https://doi.org/10.48550/arXiv.2411.11694"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-CalliMaster Mastering",
+        ".logs/20260819-Arxiv-CalliMaster-Mastering-Page-level-Chinese-LOG.md",
+        ".reports/BL-Arxiv-CalliMaster-Mastering-Page-level-Chinese-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.12482",
+      "arxiv_id": "2603.12482",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.12482",
+      "normalized_title": "CalliMaster: Mastering Page-level Chinese Calligraphy via Layout-guided Spatial Planning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P260; draw 39834 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 8; reselections 11; complete-source gate passed; all source files withheld locally.",
+      "slug": "CalliMaster-Mastering-Page-level-Chinese",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.12482",
+        "https://arxiv.org/html/2603.12482",
+        "https://arxiv.org/pdf/2603.12482",
+        "https://doi.org/10.48550/arXiv.2603.12482"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
