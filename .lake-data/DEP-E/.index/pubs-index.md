@@ -8884,3 +8884,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems* | Haario, Heikki; Liu, Zhi-Song; Simon, Martin; Weichel, Hendrik | [arXiv:2603.10987](https://arxiv.org/abs/2603.10987) - [DOI](https://doi.org/10.48550/arXiv.2603.10987) |
+
+
+## [DEP-E-20260819-Evaluating Fairness in](../DEP-E-20260819-Evaluating%20Fairness%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago* | Liu, Yuhan; Zheng, Yuhan; Zhang, Siyuan; Liu, Lydia T. | [arXiv:2407.20522](https://arxiv.org/abs/2407.20522) - [DOI](https://doi.org/10.48550/arXiv.2407.20522) |
