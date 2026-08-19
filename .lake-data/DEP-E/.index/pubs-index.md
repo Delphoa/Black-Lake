@@ -9108,3 +9108,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FT-CNN: Algorithm-Based Fault Tolerance for Convolutional Neural Networks* | Zhao, Kai; Di, Sheng; Li, Sihuan; Liang, Xin; Zhai, Yujia; Chen, Jieyang; Ouyang, Kaiming; Cappello, Franck; Chen, Zizhong | [arXiv:2003.12203](https://arxiv.org/abs/2003.12203) - [DOI](https://doi.org/10.1109/TPDS.2020.3043449) |
+
+
+## [DEP-E-20260819-ST-GIN An Uncertainty](../DEP-E-20260819-ST-GIN%20An%20Uncertainty/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ST-GIN: An Uncertainty Quantification Approach in Traffic Data Imputation with Spatio-temporal Graph Attention and Bidirectional Recurrent United Neural Networks* | Wang, Zepu; Zhuang, Dingyi; Li, Yankai; Zhao, Jinhua; Sun, Peng; Wang, Shenhao; Hu, Yulin | [arXiv:2305.06480](https://arxiv.org/abs/2305.06480) - [DOI](https://doi.org/10.48550/arXiv.2305.06480) |
