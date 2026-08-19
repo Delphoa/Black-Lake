@@ -11816,3 +11816,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemoHarness: Agent Harnesses That Learn from Experience* | Yue Huang; Wenjie Wang; Han Bao; Yuchen Ma; Xiaonan Luo; Yi Nian; Haomin Zhuang; Zheyuan Liu; Yue Zhao; Xiangliang Zhang | [arXiv:2607.14159v1](https://arxiv.org/abs/2607.14159v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14159) |
+
+
+## [DEP-A-20260819-Co Evolving Graph Text](../DEP-A-20260819-Co%20Evolving%20Graph%20Text/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23278-whitepaper-review.md`](../DEP-A-20260819-Co%20Evolving%20Graph%20Text/2607.23278-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering* | Hieu Man; Thien Huu Nguyen | [arXiv:2607.23278v1](https://arxiv.org/abs/2607.23278v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23278) |
