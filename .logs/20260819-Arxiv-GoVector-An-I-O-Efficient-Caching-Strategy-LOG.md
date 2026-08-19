@@ -1,0 +1,50 @@
+# Black Lake Arxiv DEP Log
+
+- Automation: `Black Lake Arxiv DEP 2200 x10`
+- Deployment job ID: `BLAD-2200-20260819-9951C2C3`
+- Deployment item ID: `BLAD-2200-20260819-9951C2C3-P77`
+- Public-safe date: 2026-08-19
+- Paper: *GoVector: An I/O-Efficient Caching Strategy for High-Dimensional Vector Nearest Neighbor Search*
+- Identifier: `arXiv:2508.15694`; DOI: `10.48550/arXiv.2508.15694`
+- URL: https://arxiv.org/abs/2508.15694
+
+## Random Selection
+
+- `rg --files -g "*.pdf"` enumerated 75,967 PDFs and 75,964 unique parent units.
+- A uniform cryptographic random index, without a derived seed, selected one-based index 24,239 on draw 7.
+
+## Research Focus Eligibility
+
+- One-time focus: ML memory, stateful systems, and algorithmic research.
+- Matched categories: algorithmic research.
+- Matched title/abstract terms or phrases: search.
+
+## Deduplication and Reselection
+
+- Scanned `.logs`, `.reports`, `.lake-data`, `.staging/arxiv-dep-dedup-index.json`, automation memory, relevant `Delphoa-Labs/Black-Lake-Data` deposits, and the current-job selected set.
+- Keys included arXiv ID, DOI, normalized title, and `GoVector-An-I-O-Efficient-Caching-Strategy` slug; the 24-hour marker cutoff was 2026-08-18.
+- Duplicate exclusions: 0; focus exclusions: 6; source-gate exclusions: 0; reselections: 6.
+
+## Source Integrity
+
+- Final state: verified complete after one bounded local archive repair.
+- PDF: 1,453,968 bytes with a valid `%PDF-` header and trailing `%%EOF`; page markers: 12; sampled text inspection: true.
+- Full-paper HTML: 192,479 bytes, 64,393 body characters, 59 headings, and 6 paper-structure terms.
+- Unexpected partials: 0. All source and integrity files remain local.
+
+## Public Outputs
+
+- `.logs/20260819-Arxiv-GoVector-An-I-O-Efficient-Caching-Strategy-LOG.md`
+- `.reports/BL-Arxiv-GoVector-An-I-O-Efficient-Caching-Strategy-20260819/Report-Mark.md`
+- `.lake-data/DEP-E/DEP-E-20260819-GoVector An I O-Efficient/README.md`
+- `.lake-data/DEP-E/DEP-E-20260819-GoVector An I O-Efficient/govector_an_i_o_efficient_manuscript.md`
+- `.lake-data/DEP-E/.index/pubs-index.md`
+- `.staging/arxiv-dep-dedup-index.json`
+
+## Related DEP Entries
+
+1. `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md` - JUNO Optimizing - DEP-E; overlap: nearest, high-dimensional, search, neighbor, strategy.
+2. `.lake-data/DEP-E/DEP-E-20260809-From Similarity to/from_similarity_to_manuscript.md` - From Similarity to - DEP-E; overlap: caching, strategy.
+3. `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md` - AMAD Anomaly Detection - DEP-E; overlap: high-dimensional, vector, search, strategy.
+
+Only generated Markdown and required index JSON may be staged. PDF, HTML, source archives, extracted source text, caches, datasets, credentials, and executable research artifacts were withheld; zero source-document uploads.

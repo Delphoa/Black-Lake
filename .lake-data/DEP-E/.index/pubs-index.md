@@ -5265,3 +5265,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision* | Gong, Xuan; Wang, Senmiao; Huang, Hanbo; Sun, Ruoyu; Liang, Shiyu | [arXiv:2510.27462](https://arxiv.org/abs/2510.27462) - [DOI](https://doi.org/10.48550/arXiv.2510.27462) |
+
+
+## [DEP-E-20260819-GoVector An I O-Efficient](../DEP-E-20260819-GoVector%20An%20I%20O-Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GoVector: An I/O-Efficient Caching Strategy for High-Dimensional Vector Nearest Neighbor Search* | Zhou, Yijie; Lin, Shengyuan; Gong, Shufeng; Yu, Song; Fan, Shuhao; Zhang, Yanfeng; Yu, Ge | [arXiv:2508.15694](https://arxiv.org/abs/2508.15694) - [DOI](https://doi.org/10.48550/arXiv.2508.15694) |
