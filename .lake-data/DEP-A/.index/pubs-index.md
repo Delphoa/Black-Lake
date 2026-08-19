@@ -12095,3 +12095,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Agent Execution for KV-Cache Management in Agentic Serving* | Rui Zhang; Chaeeun Kim; Shaoting Feng; Kuntai Du; Yuhan Liu; Yi Zhong; Cheng-Wei Ching; Junchen Jiang; Liting Hu | [arXiv:2608.14624v1](https://arxiv.org/abs/2608.14624v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14624) |
+
+
+## [DEP-A-20260819-Discovering KV Cache Evic](../DEP-A-20260819-Discovering%20KV%20Cache%20Evic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.14555-whitepaper-review.md`](../DEP-A-20260819-Discovering%20KV%20Cache%20Evic/2608.14555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Discovering KV Cache Eviction Policies via LLM-Guided Program Evolution* | Pratik Poudel; Yanzhao Wu; Sumit Jha; Jason Liu | [arXiv:2608.14555v1](https://arxiv.org/abs/2608.14555v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14555) |
