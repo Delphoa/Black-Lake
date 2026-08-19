@@ -12329,3 +12329,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding* | Hao Zhang; Longrong Yang; Lunhao Duan; Ziyang Wang; Qing-Guo Chen; Shanshan Zhao | [arXiv:2608.16417v1](https://arxiv.org/abs/2608.16417v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16417) |
+
+
+## [DEP-A-20260820-Don t Drop BATON](../DEP-A-20260820-Don%20t%20Drop%20BATON/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16889-whitepaper-review.md`](../DEP-A-20260820-Don%20t%20Drop%20BATON/2608.16889-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory* | Bingxin Xu; Yuzhang Shang; Emilio Ferrara | [arXiv:2608.16889v1](https://arxiv.org/abs/2608.16889v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16889) |
