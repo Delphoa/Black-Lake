@@ -17619,6 +17619,29 @@
         "https://doi.org/10.1109/TNET.2015.2466453"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale",
+        ".logs/20260819-Arxiv-WildWorld-A-Large-Scale-Dataset-for-Dynamic-LOG.md",
+        ".reports/BL-Arxiv-WildWorld-A-Large-Scale-Dataset-for-Dynamic-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.23497",
+      "arxiv_id": "2603.23497",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.23497",
+      "normalized_title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P36; draw 2835 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "WildWorld-A-Large-Scale-Dataset-for-Dynamic",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.23497",
+        "https://arxiv.org/html/2603.23497",
+        "https://arxiv.org/pdf/2603.23497",
+        "https://doi.org/10.48550/arXiv.2603.23497"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

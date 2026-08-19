@@ -7078,3 +7078,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Latency and Cost Optimization for Erasure-coded Data Center Storage* | Xiang, Yu; Lan, Tian; Aggarwal, Vaneet; Chen, Yih-Farn R | [arXiv:1404.4975](https://arxiv.org/abs/1404.4975) - [DOI](https://doi.org/10.1109/TNET.2015.2466453) |
+
+
+## [DEP-E-20260819-WildWorld A Large-Scale](../DEP-E-20260819-WildWorld%20A%20Large-Scale/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG* | Li, Zhen; Meng, Zian; Shi, Shuwei; Peng, Wenshuo; Wu, Yuwei; Zheng, Bo; Li, Chuanhao; Zhang, Kaipeng | [arXiv:2603.23497](https://arxiv.org/abs/2603.23497) - [DOI](https://doi.org/10.48550/arXiv.2603.23497) |
