@@ -15687,6 +15687,29 @@
         "https://doi.org/10.48550/arXiv.2501.01821"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-X-CLIP End-to-End",
+        ".logs/20260819-Arxiv-X-CLIP-End-to-End-Multi-grained-LOG.md",
+        ".reports/BL-Arxiv-X-CLIP-End-to-End-Multi-grained-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2207.07285",
+      "arxiv_id": "2207.07285",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2207.07285",
+      "normalized_title": "X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P252; draw 15474 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "X-CLIP-End-to-End-Multi-grained",
+      "source_urls": [
+        "https://arxiv.org/abs/2207.07285",
+        "https://arxiv.org/html/2207.07285",
+        "https://arxiv.org/pdf/2207.07285",
+        "https://doi.org/10.48550/arXiv.2207.07285"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

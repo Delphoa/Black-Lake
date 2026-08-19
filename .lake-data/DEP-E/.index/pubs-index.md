@@ -6490,3 +6490,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SDPO: Segment-Level Direct Preference Optimization for Social Agents* | Kong, Aobo; Ma, Wentao; Zhao, Shiwan; Li, Yongbin; Wu, Yuchuan; Wang, Ke; Liu, Xiaoqian; Li, Qicheng; Qin, Yong; Huang, Fei | [arXiv:2501.01821](https://arxiv.org/abs/2501.01821) - [DOI](https://doi.org/10.48550/arXiv.2501.01821) |
+
+
+## [DEP-E-20260819-X-CLIP End-to-End](../DEP-E-20260819-X-CLIP%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval* | Ma, Yiwei; Xu, Guohai; Sun, Xiaoshuai; Yan, Ming; Zhang, Ji; Ji, Rongrong | [arXiv:2207.07285](https://arxiv.org/abs/2207.07285) - [DOI](https://doi.org/10.48550/arXiv.2207.07285) |
