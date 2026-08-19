@@ -9675,3 +9675,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation* | Chen, Yiqun; Zhang, Erhan; Yan, Lingyong; Wang, Shuaiqiang; Huang, Jizhou; Yin, Dawei; Mao, Jiaxin | [arXiv:2508.01005](https://arxiv.org/abs/2508.01005) - [DOI](https://doi.org/10.48550/arXiv.2508.01005) |
+
+
+## [DEP-E-20260819-Enhancing the Cross-Size](../DEP-E-20260819-Enhancing%20the%20Cross-Size/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing the Cross-Size Generalization for Solving Vehicle Routing Problems via Continual Learning* | Li, Jingwen; Cao, Zhiguang; Wu, Yaoxin; Liu, Tang | [arXiv:2510.10262](https://arxiv.org/abs/2510.10262) - [DOI](https://doi.org/10.48550/arXiv.2510.10262) |
