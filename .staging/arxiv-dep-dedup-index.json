@@ -16147,6 +16147,29 @@
         "https://doi.org/10.48550/arXiv.2501.15228"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DRAK Unlocking Molecular",
+        ".logs/20260819-Arxiv-DRAK-Unlocking-Molecular-Insights-with-Domain-LOG.md",
+        ".reports/BL-Arxiv-DRAK-Unlocking-Molecular-Insights-with-Domain-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.18535",
+      "arxiv_id": "2406.18535",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2406.18535",
+      "normalized_title": "DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P272; draw 7681 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "DRAK-Unlocking-Molecular-Insights-with-Domain",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.18535",
+        "https://arxiv.org/html/2406.18535",
+        "https://arxiv.org/pdf/2406.18535",
+        "https://doi.org/10.48550/arXiv.2406.18535"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

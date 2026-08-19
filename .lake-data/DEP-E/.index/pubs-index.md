@@ -6630,3 +6630,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning* | Chen, Yiqun; Yan, Lingyong; Sun, Weiwei; Ma, Xinyu; Zhang, Yi; Wang, Shuaiqiang; Yin, Dawei; Yang, Yiming; Mao, Jiaxin | [arXiv:2501.15228](https://arxiv.org/abs/2501.15228) - [DOI](https://doi.org/10.48550/arXiv.2501.15228) |
+
+
+## [DEP-E-20260819-DRAK Unlocking Molecular](../DEP-E-20260819-DRAK%20Unlocking%20Molecular/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs* | Liu, Jinzhe; Huang, Xiangsheng; Chen, Zhuo; Fang, Yin | [arXiv:2406.18535](https://arxiv.org/abs/2406.18535) - [DOI](https://doi.org/10.48550/arXiv.2406.18535) |
