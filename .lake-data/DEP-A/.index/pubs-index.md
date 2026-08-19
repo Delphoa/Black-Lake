@@ -11708,3 +11708,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Evidence-Driven Reasoning for Long Document Understanding* | Junyu Xiong; Yonghui Wang; Rongjian Gu; Chenyu Liu; Bing Yin; Wengang Zhou; Houqiang Li | [arXiv:2607.04625v1](https://arxiv.org/abs/2607.04625v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04625) |
+
+
+## [DEP-A-20260819-When Continual Learning M](../DEP-A-20260819-When%20Continual%20Learning%20M/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2604.27003-whitepaper-review.md`](../DEP-A-20260819-When%20Continual%20Learning%20M/2604.27003-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents* | Qisheng Hu; Quanyu Long; Wenya Wang | [arXiv:2604.27003v1](https://arxiv.org/abs/2604.27003v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27003) |
