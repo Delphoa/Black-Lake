@@ -8961,3 +8961,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks* | Zhou, Yangxuan; Zhao, Sha; Wang, Jiquan; Li, Shijian; Pan, Gang | [arXiv:2606.01767](https://arxiv.org/abs/2606.01767) - [DOI](https://doi.org/10.48550/arXiv.2606.01767) |
+
+
+## [DEP-E-20260819-An Inexact Augmented](../DEP-E-20260819-An%20Inexact%20Augmented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Inexact Augmented Lagrangian Algorithm for Training Leaky ReLU Neural Network with Group Sparsity* | Liu, Wei; Liu, Xin; Chen, Xiaojun | [arXiv:2205.05428](https://arxiv.org/abs/2205.05428) - [DOI](https://doi.org/10.48550/arXiv.2205.05428) |
