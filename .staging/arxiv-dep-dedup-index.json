@@ -20586,6 +20586,29 @@
         "https://doi.org/10.48550/arXiv.2603.17292"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ShortCoder",
+        ".logs/20260819-Arxiv-ShortCoder-Knowledge-Augmented-Syntax-LOG.md",
+        ".reports/BL-Arxiv-ShortCoder-Knowledge-Augmented-Syntax-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.09703",
+      "arxiv_id": "2601.09703",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2601.09703",
+      "normalized_title": "ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P165; draw 33675 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 39; reselections 44; complete-source gate passed; all source files withheld locally.",
+      "slug": "ShortCoder-Knowledge-Augmented-Syntax",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.09703",
+        "https://arxiv.org/html/2601.09703",
+        "https://arxiv.org/pdf/2601.09703",
+        "https://doi.org/10.48550/arXiv.2601.09703"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

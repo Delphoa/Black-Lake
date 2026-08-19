@@ -7981,3 +7981,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation* | Xie, Jin; Li, Songze; Cheng, Guang | [arXiv:2603.17292](https://arxiv.org/abs/2603.17292) - [DOI](https://doi.org/10.48550/arXiv.2603.17292) |
+
+
+## [DEP-E-20260819-ShortCoder](../DEP-E-20260819-ShortCoder/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation* | Liu, Sicong; Huang, Yanxian; Liu, Mingwei; Chen, Jiachi; Shi, Ensheng; Ma, Yuchi; Zhang, Hongyu; Zhang, Yin; Wang, Yanlin | [arXiv:2601.09703](https://arxiv.org/abs/2601.09703) - [DOI](https://doi.org/10.48550/arXiv.2601.09703) |
