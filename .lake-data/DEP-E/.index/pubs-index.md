@@ -9570,3 +9570,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Mobile World Model Guides GUI Agents?* | Xu, Weikai; Huang, Kun; Feng, Yunren; Li, Jiaxing; Chen, Yuhan; Liu, Yuxuan; Jiang, Zhizheng; Qu, Heng; Gao, Pengzhi; Liu, Wei; Luan, Jian; Hu, Xiaolin; An, Bo | [arXiv:2605.10347](https://arxiv.org/abs/2605.10347) - [DOI](https://doi.org/10.48550/arXiv.2605.10347) |
+
+
+## [DEP-E-20260819-CuckooGraph A Scalable](../DEP-E-20260819-CuckooGraph%20A%20Scalable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs* | Fan, Zhuochen; Cai, Yalun; Liu, Zirui; Guo, Jiarui; Fan, Xin; Yang, Tong; Cui, Bin | [arXiv:2405.15193](https://arxiv.org/abs/2405.15193) - [DOI](https://doi.org/10.48550/arXiv.2405.15193) |

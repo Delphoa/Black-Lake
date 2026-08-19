@@ -25807,6 +25807,29 @@
         "https://doi.org/10.48550/arXiv.2605.10347"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-CuckooGraph A Scalable",
+        ".logs/20260819-Arxiv-CuckooGraph-A-Scalable-and-Space-Time-Efficient-LOG.md",
+        ".reports/BL-Arxiv-CuckooGraph-A-Scalable-and-Space-Time-Efficient-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.15193",
+      "arxiv_id": "2405.15193",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2405.15193",
+      "normalized_title": "CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P392; draw 44963 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 9; focus exclusions 25; reselections 34; complete-source gate passed; all source files withheld locally.",
+      "slug": "CuckooGraph-A-Scalable-and-Space-Time-Efficient",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.15193",
+        "https://arxiv.org/html/2405.15193",
+        "https://arxiv.org/pdf/2405.15193",
+        "https://doi.org/10.48550/arXiv.2405.15193"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
