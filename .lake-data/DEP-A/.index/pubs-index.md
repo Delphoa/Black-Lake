@@ -10754,3 +10754,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference* | Soumil Mandal | [arXiv:2607.13205v1](https://arxiv.org/abs/2607.13205v1) - [DOI](https://doi.org/10.48550/arXiv.2607.13205) |
+
+
+## [DEP-A-20260820-VisPCO Visual Token Pruni](../DEP-A-20260820-VisPCO%20Visual%20Token%20Pruni/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2604.15188-whitepaper-review.md`](../DEP-A-20260820-VisPCO%20Visual%20Token%20Pruni/2604.15188-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models* | Huawei Ji; Yuanhao Sun; Yuan Jin; Cheng Deng; Jiaxin Ding; Luoyi Fu; Xinbing Wang | [arXiv:2604.15188v1](https://arxiv.org/abs/2604.15188v1) - [DOI](https://doi.org/10.48550/arXiv.2604.15188) |
