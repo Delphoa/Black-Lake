@@ -11744,3 +11744,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration* | Yuyao Zhang; Junjie Gao; Zhengxian Wu; Jiaming Fan; Jin Zhang; Shihan Ma; Yao Yao; Weiran Qi; Chuyan Jin; Guiyu Ma; Xingzhong Xu; Kai Yang; Ji-Rong Wen; Zhicheng Dou | [arXiv:2607.15257v1](https://arxiv.org/abs/2607.15257v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15257) |
+
+
+## [DEP-A-20260819-MemPoison Uncovering Pers](../DEP-A-20260819-MemPoison%20Uncovering%20Pers/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14651-whitepaper-review.md`](../DEP-A-20260819-MemPoison%20Uncovering%20Pers/2607.14651-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents* | Jifeng Gao; Kang Xia; Yi Zhang; Xiaobin Hong; Mingkai Lin; Xingshen Wei; Wenzhong Li; Sanglu Lu | [arXiv:2607.14651v1](https://arxiv.org/abs/2607.14651v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14651) |
