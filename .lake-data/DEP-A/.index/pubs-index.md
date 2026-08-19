@@ -11888,3 +11888,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory* | Le Zhang; Ke Sun | [arXiv:2608.12627v1](https://arxiv.org/abs/2608.12627v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12627) |
+
+
+## [DEP-A-20260819-VoiceChat TTS Low Latency](../DEP-A-20260819-VoiceChat%20TTS%20Low%20Latency/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13831-whitepaper-review.md`](../DEP-A-20260819-VoiceChat%20TTS%20Low%20Latency/2608.13831-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents* | Edresson Casanova; Jaehyeon Kim; Mariana Graterol Fuenmayor; Shehzeen Hussain; Viacheslav Klimkov; Valentin Mendelev; Mikyas Desta; Paarth Neekhara; Piotr Zelasko; Chen Chen; Elena Rastorgueva; Ke Hu; Ankita Pasad; Xuesong Yang; Aya Alja'fari; Rajarshi Roy; Rohan Badlani; Jason Roche; Jason Li; Zhehuai Chen | [arXiv:2608.13831v1](https://arxiv.org/abs/2608.13831v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13831) |
