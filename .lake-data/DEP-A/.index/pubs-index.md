@@ -10841,3 +10841,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Aerial RIS-Enhanced Communications: Joint UAV Trajectory, Altitude Control, and Phase Shift Design* | Li, Bin; Yang, Dongdong; Liu, Lei; Niyato, Dusit | [arXiv:2510.24731](https://arxiv.org/abs/2510.24731) - [DOI](https://doi.org/10.48550/arXiv.2510.24731) |
+
+## [DEP-A-20260820-Algorithm Fairness Intake](../DEP-A-20260820-Algorithm%20Fairness%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Algorithm%20Fairness%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Algorithm Fairness in AI for Medicine and Healthcare* | Chen, Richard J.; Chen, Tiffany Y.; Lipkova, Jana; Wang, Judy J.; Williamson, Drew F. K.; Lu, Ming Y.; Sahai, Sharifa; Mahmood, Faisal | [arXiv:2110.00603](https://arxiv.org/abs/2110.00603) - [DOI](https://doi.org/10.48550/arXiv.2110.00603) |
