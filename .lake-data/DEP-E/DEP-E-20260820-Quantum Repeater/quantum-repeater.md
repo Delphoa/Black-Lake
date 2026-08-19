@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.3 seconds
-Output:
 ---
 title: "Quantum Repeater - DEP-E"
 generated_at: "2026-08-19T15:04:34Z"
@@ -284,5 +281,4 @@ This artifact was generated from the randomly selected source path `Black-Lake-D
 ### Missing evidence
 
 No external PDFs, source archives, datasets, code repositories, models, benchmark payloads, or experimental traces were collected. The primary paper's raw data are described as available from the corresponding author on reasonable request. The two additional DOI entries in related reading are preserved as cited context, not as independently inspected evidence.
-
 

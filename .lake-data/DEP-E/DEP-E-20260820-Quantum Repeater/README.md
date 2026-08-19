@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.3 seconds
-Output:
 # DEP-E-20260820-Quantum Repeater
 
 #quantum-computing #quantum-networks #quantum-repeaters #quantum-memories #research-preprint
@@ -36,5 +33,4 @@ The artifact turns a concise source-DEP finding into a reusable DEP-E research r
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Tech%20Intel%202124%20D0155
   - Applies to: `quantum-repeater.md`.
   - Notes: Selected source DEP inventory and prior finding; source files were inspected by URL and were not copied into this entry.
-
 
