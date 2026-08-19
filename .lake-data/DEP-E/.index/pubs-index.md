@@ -9822,3 +9822,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical World Models as Visual Whole-Body Humanoid Controllers* | Hansen, Nicklas; S V, Jyothir; Sobal, Vlad; LeCun, Yann; Wang, Xiaolong; Su, Hao | [arXiv:2405.18418](https://arxiv.org/abs/2405.18418) - [DOI](https://doi.org/10.48550/arXiv.2405.18418) |
+
+
+## [DEP-E-20260819-RAPO Cross-Stage Prompt](../DEP-E-20260819-RAPO%20Cross-Stage%20Prompt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling* | Gao, Bingjie; Ma, Qianli; Wu, Xiaoxue; Yang, Shuai; Lan, Guanzhou; Zhao, Haonan; Chen, Jiaxuan; Liu, Qingyang; Qiao, Yu; Chen, Xinyuan; Wang, Yaohui; Niu, Li | [arXiv:2510.20206](https://arxiv.org/abs/2510.20206) - [DOI](https://doi.org/10.48550/arXiv.2510.20206) |
