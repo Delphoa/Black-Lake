@@ -6357,3 +6357,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection* | Chen, Zhuoxiao; Wang, Zixin; Luo, Yadan; Wang, Sen; Huang, Zi | [arXiv:2406.13891](https://arxiv.org/abs/2406.13891) - [DOI](https://doi.org/10.1145/3664647.3681040) |
+
+
+## [DEP-E-20260819-InfoCL Alleviating](../DEP-E-20260819-InfoCL%20Alleviating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *InfoCL: Alleviating Catastrophic Forgetting in Continual Text Classification from An Information Theoretic Perspective* | Song, Yifan; Wang, Peiyi; Xiong, Weimin; Zhu, Dawei; Liu, Tianyu; Sui, Zhifang; Li, Sujian | [arXiv:2310.06362](https://arxiv.org/abs/2310.06362) - [DOI](https://doi.org/10.48550/arXiv.2310.06362) |
