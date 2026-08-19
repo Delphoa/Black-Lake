@@ -8457,3 +8457,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Vortex: Efficient Sample-Free Dynamic Tensor Program Optimization via Hardware-aware Strategy Space Hierarchization* | Zhou, Yangjie; Zhu, Honglin; Qiu, Qian; Cui, Weihao; Liu, Zihan; Guo, Cong; Feng, Siyuan; Meng, Jintao; Lan, Haidong; Leng, Jingwen; Zhu, Wenxi; Deng, Minwen | [arXiv:2409.01075](https://arxiv.org/abs/2409.01075) - [DOI](https://doi.org/10.48550/arXiv.2409.01075) |
+
+
+## [DEP-E-20260819-Tight query complexity](../DEP-E-20260819-Tight%20query%20complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tight query complexity bounds for learning graph partitions* | Liu, Xizhi; Mukherjee, Sayan | [arXiv:2112.07897](https://arxiv.org/abs/2112.07897) - [DOI](https://doi.org/10.48550/arXiv.2112.07897) |
