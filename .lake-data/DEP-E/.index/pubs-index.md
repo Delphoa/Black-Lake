@@ -8723,3 +8723,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAPID-Graph: Recursive All-Pairs Shortest Paths Using Processing-in-Memory for Dynamic Programming on Graphs* | Chen, Yanru; Li, Zheyu; Fan, Keming; Tian, Runyang; Hsu, John; Xu, Weihong; Zhou, Minxuan; Rosing, Tajana | [arXiv:2601.19907](https://arxiv.org/abs/2601.19907) - [DOI](https://doi.org/10.48550/arXiv.2601.19907) |
+
+
+## [DEP-E-20260819-Variable Division and](../DEP-E-20260819-Variable%20Division%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Variable Division and Optimization for Constrained Multiobjective Portfolio Problems* | Chen, Yi; Zhou, Aimin | [arXiv:2101.08552](https://arxiv.org/abs/2101.08552) - [DOI](https://doi.org/10.48550/arXiv.2101.08552) |
