@@ -5419,3 +5419,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Optimization-Derived Learning* | Liu, Risheng; Liu, Xuan; Zeng, Shangzhi; Zhang, Jin; Zhang, Yixuan | [arXiv:2302.05587](https://arxiv.org/abs/2302.05587) - [DOI](https://doi.org/10.48550/arXiv.2302.05587) |
+
+
+## [DEP-E-20260819-UnityMAS-O A General RL](../DEP-E-20260819-UnityMAS-O%20A%20General%20RL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems* | Chen, Yiqun; Yang, Wei; Zhang, Erhan; Wang, Shijie; Liu, Qi; Niu, Zechun; Zhang, Bin; Li, Haitao; Li, Rui; Yan, Lingyong; Feng, Jinyuan; Qi, Biqing; Wei, Xiaochi; Gao, Yan; Wu, Yi; Hu, Yao; Mao, Jiaxin | [arXiv:2605.26646](https://arxiv.org/abs/2605.26646) - [DOI](https://doi.org/10.48550/arXiv.2605.26646) |

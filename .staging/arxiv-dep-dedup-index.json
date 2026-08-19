@@ -12168,6 +12168,29 @@
         "https://doi.org/10.48550/arXiv.2302.05587"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-UnityMAS-O A General RL",
+        ".logs/20260819-Arxiv-UnityMAS-O-A-General-RL-Optimization-Framework-LOG.md",
+        ".reports/BL-Arxiv-UnityMAS-O-A-General-RL-Optimization-Framework-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.26646",
+      "arxiv_id": "2605.26646",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.26646",
+      "normalized_title": "UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P99; draw 3447 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "UnityMAS-O-A-General-RL-Optimization-Framework",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.26646",
+        "https://arxiv.org/html/2605.26646",
+        "https://arxiv.org/pdf/2605.26646",
+        "https://doi.org/10.48550/arXiv.2605.26646"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
