@@ -16653,6 +16653,29 @@
         "https://doi.org/10.48550/arXiv.1810.10161"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-IMAGINE Integrating",
+        ".logs/20260819-Arxiv-IMAGINE-Integrating-Multi-Agent-System-into-One-LOG.md",
+        ".reports/BL-Arxiv-IMAGINE-Integrating-Multi-Agent-System-into-One-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.14406",
+      "arxiv_id": "2510.14406",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2510.14406",
+      "normalized_title": "IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P294; draw 24943 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 12; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "IMAGINE-Integrating-Multi-Agent-System-into-One",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.14406",
+        "https://arxiv.org/html/2510.14406",
+        "https://arxiv.org/pdf/2510.14406",
+        "https://doi.org/10.48550/arXiv.2510.14406"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

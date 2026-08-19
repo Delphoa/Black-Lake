@@ -6784,3 +6784,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Learning with Long Short-Term Memory for Time Series Prediction* | Hua, Yuxiu; Zhao, Zhifeng; Li, Rongpeng; Chen, Xianfu; Liu, Zhiming; Zhang, Honggang | [arXiv:1810.10161](https://arxiv.org/abs/1810.10161) - [DOI](https://doi.org/10.48550/arXiv.1810.10161) |
+
+
+## [DEP-E-20260819-IMAGINE Integrating](../DEP-E-20260819-IMAGINE%20Integrating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning* | Zhang, Xikai; Wang, Bo; Xiao, Likang; Li, Yongzhi; Chen, Quan; Wu, Wenjun; Liu, Liu | [arXiv:2510.14406](https://arxiv.org/abs/2510.14406) - [DOI](https://doi.org/10.48550/arXiv.2510.14406) |
