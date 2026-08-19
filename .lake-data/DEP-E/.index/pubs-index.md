@@ -6616,3 +6616,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Boosting One-Point Derivative-Free Online Optimization via Residual Feedback* | Zhang, Yan; Zhou, Yi; Ji, Kaiyi; Zavlanos, Michael M. | [arXiv:2010.07378](https://arxiv.org/abs/2010.07378) - [DOI](https://doi.org/10.48550/arXiv.2010.07378) |
+
+
+## [DEP-E-20260819-Meta Learning with](../DEP-E-20260819-Meta%20Learning%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation* | Liu, Yu; Liu, Lingqiao; Zhang, Haokui; Rezatofighi, Hamid; Reid, Ian | [arXiv:1909.13046](https://arxiv.org/abs/1909.13046) - [DOI](https://doi.org/10.48550/arXiv.1909.13046) |
