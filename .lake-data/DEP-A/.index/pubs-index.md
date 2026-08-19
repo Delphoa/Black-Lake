@@ -10777,3 +10777,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Policy Optimization Method Towards Optimal-time Stability* | Wang, Shengjie; Lan, Fengbo; Zheng, Xiang; Cao, Yuxue; Oseni, Oluwatosin; Xu, Haotian; Zhang, Tao; Gao, Yang | [arXiv:2301.00521](https://arxiv.org/abs/2301.00521) - [DOI](https://doi.org/10.48550/arXiv.2301.00521) |
+
+## [DEP-A-20260820-A Self Supervised Intake](../DEP-A-20260820-A%20Self%20Supervised%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Self%20Supervised%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification* | Rao, Haocong; Wang, Siqi; Hu, Xiping; Tan, Mingkui; Guo, Yi; Cheng, Jun; Liu, Xinwang; Hu, Bin | [arXiv:2009.03671](https://arxiv.org/abs/2009.03671) - [DOI](https://doi.org/10.48550/arXiv.2009.03671) |
