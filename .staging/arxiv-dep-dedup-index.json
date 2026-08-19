@@ -20218,6 +20218,29 @@
         "https://doi.org/10.48550/arXiv.2508.16703"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Building A Coding",
+        ".logs/20260819-Arxiv-Building-A-Coding-Assistant-via-the-Retrieval-LOG.md",
+        ".reports/BL-Arxiv-Building-A-Coding-Assistant-via-the-Retrieval-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.16229",
+      "arxiv_id": "2410.16229",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2410.16229",
+      "normalized_title": "Building A Coding Assistant via the Retrieval-Augmented Language Model",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P149; draw 56265 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 9; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "Building-A-Coding-Assistant-via-the-Retrieval",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.16229",
+        "https://arxiv.org/html/2410.16229",
+        "https://arxiv.org/pdf/2410.16229",
+        "https://doi.org/10.48550/arXiv.2410.16229"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

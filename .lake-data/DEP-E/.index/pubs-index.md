@@ -7869,3 +7869,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference* | Yin, Wangsong; Xu, Daliang; Xu, Mengwei; Huang, Gang; Liu, Xuanzhe | [arXiv:2508.16703](https://arxiv.org/abs/2508.16703) - [DOI](https://doi.org/10.48550/arXiv.2508.16703) |
+
+
+## [DEP-E-20260819-Building A Coding](../DEP-E-20260819-Building%20A%20Coding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building A Coding Assistant via the Retrieval-Augmented Language Model* | Li, Xinze; Wang, Hanbin; Liu, Zhenghao; Yu, Shi; Wang, Shuo; Yan, Yukun; Fu, Yukai; Gu, Yu; Yu, Ge | [arXiv:2410.16229](https://arxiv.org/abs/2410.16229) - [DOI](https://doi.org/10.48550/arXiv.2410.16229) |
