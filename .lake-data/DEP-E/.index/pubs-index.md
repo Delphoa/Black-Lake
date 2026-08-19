@@ -5097,3 +5097,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Backpropagation Path Search On Adversarial Transferability* | Xu, Zhuoer; Gu, Zhangxuan; Zhang, Jianping; Cui, Shiwen; Meng, Changhua; Wang, Weiqiang | [arXiv:2308.07625](https://arxiv.org/abs/2308.07625) - [DOI](https://doi.org/10.48550/arXiv.2308.07625) |
+
+
+## [DEP-E-20260819-A Framework Based on](../DEP-E-20260819-A%20Framework%20Based%20on/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Framework Based on Generational and Environmental Response Strategies for Dynamic Multi-objective Optimization* | Li, Qingya; Liu, Xiangzhi; Wang, Fuqiang; Wang, Shuai; Zhang, Peng; Wu, Xiaoming | [arXiv:2207.04047](https://arxiv.org/abs/2207.04047) - [DOI](https://doi.org/10.48550/arXiv.2207.04047) |

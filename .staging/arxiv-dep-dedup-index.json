@@ -11110,6 +11110,29 @@
         "https://doi.org/10.48550/arXiv.2308.07625"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Framework Based on",
+        ".logs/20260819-Arxiv-A-Framework-Based-on-Generational-and-LOG.md",
+        ".reports/BL-Arxiv-A-Framework-Based-on-Generational-and-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2207.04047",
+      "arxiv_id": "2207.04047",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2207.04047",
+      "normalized_title": "A Framework Based on Generational and Environmental Response Strategies for Dynamic Multi-objective Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P53; draw 60814 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Framework-Based-on-Generational-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2207.04047",
+        "https://arxiv.org/html/2207.04047",
+        "https://arxiv.org/pdf/2207.04047",
+        "https://doi.org/10.48550/arXiv.2207.04047"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
