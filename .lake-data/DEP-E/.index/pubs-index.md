@@ -4971,3 +4971,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DiCache: Let Diffusion Model Determine Its Own Cache* | Bu, Jiazi; Ling, Pengyang; Zhou, Yujie; Wang, Yibin; Zang, Yuhang; Lin, Dahua; Wang, Jiaqi | [arXiv:2508.17356](https://arxiv.org/abs/2508.17356) - [DOI](https://doi.org/10.48550/arXiv.2508.17356) |
+
+
+## [DEP-E-20260819-Approximated Doubly](../DEP-E-20260819-Approximated%20Doubly/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximated Doubly Robust Search Relevance Estimation* | Zou, Lixin; Hao, Changying; Cai, Hengyi; Cheng, Suqi; Wang, Shuaiqiang; Ye, Wenwen; Cheng, Zhicong; Gu, Simiu; Yin, Dawei | [arXiv:2208.07671](https://arxiv.org/abs/2208.07671) - [DOI](https://doi.org/10.1145/3511808.3557145) |
