@@ -21621,6 +21621,29 @@
         "https://doi.org/10.48550/arXiv.2604.04060"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-One Step is Enough",
+        ".logs/20260819-Arxiv-One-Step-is-Enough-Multi-Agent-Reinforcement-LOG.md",
+        ".reports/BL-Arxiv-One-Step-is-Enough-Multi-Agent-Reinforcement-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.15351",
+      "arxiv_id": "2507.15351",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2507.15351",
+      "normalized_title": "One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P210; draw 53188 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 12; focus exclusions 40; reselections 53; complete-source gate passed; all source files withheld locally.",
+      "slug": "One-Step-is-Enough-Multi-Agent-Reinforcement",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.15351",
+        "https://arxiv.org/html/2507.15351",
+        "https://arxiv.org/pdf/2507.15351",
+        "https://doi.org/10.48550/arXiv.2507.15351"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

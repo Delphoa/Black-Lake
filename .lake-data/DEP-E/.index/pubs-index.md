@@ -8296,3 +8296,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks* | Li, Siyuan; Liu, Zehao; Lin, Xi; Mao, Qinghua; Chen, Yuliang; Li, Haoyu; Wu, Jun; Li, Jianhua; Su, Xiu | [arXiv:2604.04060](https://arxiv.org/abs/2604.04060) - [DOI](https://doi.org/10.48550/arXiv.2604.04060) |
+
+
+## [DEP-E-20260819-One Step is Enough](../DEP-E-20260819-One%20Step%20is%20Enough/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms* | Zhao, Zijian; Li, Sen | [arXiv:2507.15351](https://arxiv.org/abs/2507.15351) - [DOI](https://doi.org/10.48550/arXiv.2507.15351) |
