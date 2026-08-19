@@ -10144,3 +10144,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dendritic Localized Learning: Toward Biologically Plausible Algorithm* | Lv, Changze; Xu, Jingwen; Lu, Yiyang; Wang, Xiaohua; Wang, Zhenghua; Xu, Zhibo; Yu, Di; Du, Xin; Zheng, Xiaoqing; Huang, Xuanjing | [arXiv:2501.09976](https://arxiv.org/abs/2501.09976) - [DOI](https://doi.org/10.48550/arXiv.2501.09976) |
+
+
+## [DEP-E-20260819-Optimizing Memory](../DEP-E-20260819-Optimizing%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms* | Zhou, Ao; Yang, Jianlei; Gao, Yeqi; Qiao, Tong; Qi, Yingjie; Wang, Xiaoyi; Chen, Yunli; Dai, Pengcheng; Zhao, Weisheng; Hu, Chunming | [arXiv:2104.03058](https://arxiv.org/abs/2104.03058) - [DOI](https://doi.org/10.48550/arXiv.2104.03058) |
