@@ -11222,3 +11222,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching* | Can Xiao; Sukmin Cho; Junbong We; Zhixiong Niu; Jianyi Cheng; Yiren Zhao; Youngjin Kwon; Yongqiang Xiong; Rui Ma; Junyi Liu | [arXiv:2608.08097v1](https://arxiv.org/abs/2608.08097v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08097) |
+
+
+## [DEP-A-20260819-Archer Adaptive Reuse Cac](../DEP-A-20260819-Archer%20Adaptive%20Reuse%20Cac/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08086-whitepaper-review.md`](../DEP-A-20260819-Archer%20Adaptive%20Reuse%20Cac/2608.08086-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models* | Xuning He; Zinan Sheng; Yongding Tao; Huanyu Liu; Ge Li; Xue Jiang; Yihong Dong | [arXiv:2608.08086v2](https://arxiv.org/abs/2608.08086v2) - [DOI](https://doi.org/10.48550/arXiv.2608.08086) |
