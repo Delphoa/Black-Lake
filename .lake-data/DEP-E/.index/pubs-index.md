@@ -9528,3 +9528,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TAME: A Trustworthy Test-Time Evolution of Agent Memory with Systematic Benchmarking* | Cheng, Yu; Hu, Yongkang; Zhou, Jiuan; Zhang, Yushuo; Chen, Yihang; Zhou, Huichi; Chen, Mingang; Zhang, Zhizhong; Shao, Kun; Xie, Yuan; Yin, Zhaoxia | [arXiv:2602.03224](https://arxiv.org/abs/2602.03224) - [DOI](https://doi.org/10.48550/arXiv.2602.03224) |
+
+
+## [DEP-E-20260819-Road Curb Detection Using](../DEP-E-20260819-Road%20Curb%20Detection%20Using/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Road Curb Detection Using A Novel Tensor Voting Algorithm* | Zhu, Yilong; Han, Dong; Xue, Bohuan; Jiao, Jianhao; Zou, Zuhao; Liu, Ming; Fan, Rui | [arXiv:1911.12937](https://arxiv.org/abs/1911.12937) - [DOI](https://doi.org/10.48550/arXiv.1911.12937) |
