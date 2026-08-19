@@ -13755,6 +13755,29 @@
         "https://doi.org/10.48550/arXiv.2503.05665"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-APSQ Additive Partial Sum",
+        ".logs/20260819-Arxiv-APSQ-Additive-Partial-Sum-Quantization-with-LOG.md",
+        ".reports/BL-Arxiv-APSQ-Additive-Partial-Sum-Quantization-with-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.03748",
+      "arxiv_id": "2505.03748",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.03748",
+      "normalized_title": "APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P168; draw 51344 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 8; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "APSQ-Additive-Partial-Sum-Quantization-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.03748",
+        "https://arxiv.org/html/2505.03748",
+        "https://arxiv.org/pdf/2505.03748",
+        "https://doi.org/10.48550/arXiv.2505.03748"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

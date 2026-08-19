@@ -5902,3 +5902,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data* | Zhao, Zengqun; Liu, Ziquan; Cao, Yu; Gong, Shaogang; Patras, Ioannis | [arXiv:2503.05665](https://arxiv.org/abs/2503.05665) - [DOI](https://doi.org/10.48550/arXiv.2503.05665) |
+
+
+## [DEP-E-20260819-APSQ Additive Partial Sum](../DEP-E-20260819-APSQ%20Additive%20Partial%20Sum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design* | Tan, Yonghao; Dong, Pingcheng; Wu, Yongkun; Liu, Yu; Liu, Xuejiao; Luo, Peng; Liu, Shih-Yang; Huang, Xijie; Zhang, Dong; Liang, Luhong; Cheng, Kwang-Ting | [arXiv:2505.03748](https://arxiv.org/abs/2505.03748) - [DOI](https://doi.org/10.48550/arXiv.2505.03748) |
