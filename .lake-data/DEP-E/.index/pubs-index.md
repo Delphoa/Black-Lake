@@ -9717,3 +9717,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Minimax Optimal Online Imitation Learning via Replay Estimation* | Swamy, Gokul; Rajaraman, Nived; Peng, Matthew; Choudhury, Sanjiban; Bagnell, J. Andrew; Wu, Zhiwei Steven; Jiao, Jiantao; Ramchandran, Kannan | [arXiv:2205.15397](https://arxiv.org/abs/2205.15397) - [DOI](https://doi.org/10.48550/arXiv.2205.15397) |
+
+
+## [DEP-E-20260819-Distributional Successor](../DEP-E-20260819-Distributional%20Successor/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributional Successor Features Enable Zero-Shot Policy Optimization* | Zhu, Chuning; Wang, Xinqi; Han, Tyler; Du, Simon S.; Gupta, Abhishek | [arXiv:2403.06328](https://arxiv.org/abs/2403.06328) - [DOI](https://doi.org/10.48550/arXiv.2403.06328) |

@@ -26290,6 +26290,29 @@
         "https://doi.org/10.48550/arXiv.2205.15397"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Distributional Successor",
+        ".logs/20260819-Arxiv-Distributional-Successor-Features-Enable-Zero-LOG.md",
+        ".reports/BL-Arxiv-Distributional-Successor-Features-Enable-Zero-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.06328",
+      "arxiv_id": "2403.06328",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2403.06328",
+      "normalized_title": "Distributional Successor Features Enable Zero-Shot Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P413; draw 7566 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Distributional-Successor-Features-Enable-Zero",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.06328",
+        "https://arxiv.org/html/2403.06328",
+        "https://arxiv.org/pdf/2403.06328",
+        "https://doi.org/10.48550/arXiv.2403.06328"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
