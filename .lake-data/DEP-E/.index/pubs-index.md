@@ -8709,3 +8709,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking* | Song, Rongzihan; Weng, Zhenyu; Zhuang, Huiping; Ren, Jinchang; Chen, Yongming; Lin, Zhiping | [arXiv:2409.07904](https://arxiv.org/abs/2409.07904) - [DOI](https://doi.org/10.48550/arXiv.2409.07904) |
+
+
+## [DEP-E-20260819-Evolutionary Optimization](../DEP-E-20260819-Evolutionary%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network* | Ruan, Gan; Minku, Leandro L.; Xu, Zhao; Yao, Xin | [arXiv:2201.04361](https://arxiv.org/abs/2201.04361) - [DOI](https://doi.org/10.48550/arXiv.2201.04361) |
