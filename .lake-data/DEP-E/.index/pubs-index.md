@@ -9864,3 +9864,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking* | Chen, Jun; Liu, Lina; Zhu, Tianyi; Liu, Yong; Dai, Guang; Jiang, Yunliang; Tsang, Ivor W. | [arXiv:2506.07351](https://arxiv.org/abs/2506.07351) - [DOI](https://doi.org/10.48550/arXiv.2506.07351) |
+
+
+## [DEP-E-20260819-Energy-Constrained](../DEP-E-20260819-Energy-Constrained/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Constrained Computation Offloading in Space-Air-Ground Integrated Networks using Distributionally Robust Optimization* | Chen, Yali; Ai, Bo; Niu, Yong; Zhang, Hongliang; Han, Zhu | [arXiv:2206.02319](https://arxiv.org/abs/2206.02319) - [DOI](https://doi.org/10.48550/arXiv.2206.02319) |
