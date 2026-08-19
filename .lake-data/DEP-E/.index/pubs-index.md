@@ -6581,3 +6581,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On Multiplicative Integration with Recurrent Neural Networks* | Wu, Yuhuai; Zhang, Saizheng; Zhang, Ying; Bengio, Yoshua; Salakhutdinov, Ruslan | [arXiv:1606.06630](https://arxiv.org/abs/1606.06630) - [DOI](https://doi.org/10.48550/arXiv.1606.06630) |
+
+
+## [DEP-E-20260819-Entropy-Constrained](../DEP-E-20260819-Entropy-Constrained/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent Framework with LLM and Knowledge Graph Integration* | Ji, Peilin; Xue, Xiao; Wang, Simeng; Yan, Wenhao | [arXiv:2508.14654](https://arxiv.org/abs/2508.14654) - [DOI](https://doi.org/10.48550/arXiv.2508.14654) |
