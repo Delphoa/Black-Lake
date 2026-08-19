@@ -9038,3 +9038,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DSAS: A Universal Plug-and-Play Framework for Attention Optimization in Multi-Document Question Answering* | Li, Jiakai; Wang, Rongzheng; Ma, Yizhuo; Liang, Shuang; Luo, Guangchun; Qin, Ke | [arXiv:2510.12251](https://arxiv.org/abs/2510.12251) - [DOI](https://doi.org/10.48550/arXiv.2510.12251) |
+
+
+## [DEP-E-20260819-TransHash](../DEP-E-20260819-TransHash/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval* | Chen, Yongbiao; Zhang, Sheng; Liu, Fangxin; Chang, Zhigang; Ye, Mang; Qi, Zhengwei | [arXiv:2105.01823](https://arxiv.org/abs/2105.01823) - [DOI](https://doi.org/10.48550/arXiv.2105.01823) |
