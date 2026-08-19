@@ -5986,3 +5986,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Viability of Electric Taxis by Taxi Service Strategy Optimization: A Big Data Study of New York City* | Tseng, Chien-Ming; Chau, Sid Chi-Kin; Liu, Xue | [arXiv:1709.08463](https://arxiv.org/abs/1709.08463) - [DOI](https://doi.org/10.1109/TITS.2018.2839265) |
+
+
+## [DEP-E-20260819-Unlearning for Federated](../DEP-E-20260819-Unlearning%20for%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unlearning for Federated Online Learning to Rank: A Reproducibility Study* | Tao, Yiling; Wang, Shuyi; Yang, Jiaxi; Zuccon, Guido | [arXiv:2505.12791](https://arxiv.org/abs/2505.12791) - [DOI](https://doi.org/10.48550/arXiv.2505.12791) |
