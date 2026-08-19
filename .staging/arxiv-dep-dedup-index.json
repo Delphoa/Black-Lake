@@ -9730,6 +9730,29 @@
         "https://doi.org/10.1016/j.neunet.2026.108615"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From",
+        ".logs/20260819-Arxiv-AutoQ-2-0-From-Verification-of-Quantum-LOG.md",
+        ".reports/BL-Arxiv-AutoQ-2-0-From-Verification-of-Quantum-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2411.09121",
+      "arxiv_id": "2411.09121",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2411.09121",
+      "normalized_title": "AutoQ 2.0: From Verification of Quantum Circuits to Verification of Quantum Programs (Technical Report)",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P03; draw 55534 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "AutoQ-2-0-From-Verification-of-Quantum",
+      "source_urls": [
+        "https://arxiv.org/abs/2411.09121",
+        "https://arxiv.org/html/2411.09121",
+        "https://arxiv.org/pdf/2411.09121",
+        "https://doi.org/10.48550/arXiv.2411.09121"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
