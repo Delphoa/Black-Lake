@@ -9584,3 +9584,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay* | Chen, Yuyang; Zhao, Kaiyan; Wang, Yiming; Yang, Ming; Zhang, Jian; Niu, Xiaoguang | [arXiv:2410.12236](https://arxiv.org/abs/2410.12236) - [DOI](https://doi.org/10.48550/arXiv.2410.12236) |
+
+
+## [DEP-E-20260819-Optimization-Inspired](../DEP-E-20260819-Optimization-Inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization-Inspired Cross-Attention Transformer for Compressive Sensing* | Song, Jiechong; Mou, Chong; Wang, Shiqi; Ma, Siwei; Zhang, Jian | [arXiv:2304.13986](https://arxiv.org/abs/2304.13986) - [DOI](https://doi.org/10.48550/arXiv.2304.13986) |
