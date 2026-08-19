@@ -5195,3 +5195,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization* | Wu, Yihao; Zhang, He; Tan, Junbo; Wang, Xueqian; Zhang, Zhengyou | [arXiv:2606.05468](https://arxiv.org/abs/2606.05468) - [DOI](https://doi.org/10.48550/arXiv.2606.05468) |
+
+
+## [DEP-E-20260819-Constrained Variational](../DEP-E-20260819-Constrained%20Variational/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constrained Variational Policy Optimization for Safe Reinforcement Learning* | Liu, Zuxin; Cen, Zhepeng; Isenbaev, Vladislav; Liu, Wei; Wu, Zhiwei Steven; Li, Bo; Zhao, Ding | [arXiv:2201.11927](https://arxiv.org/abs/2201.11927) - [DOI](https://doi.org/10.48550/arXiv.2201.11927) |
