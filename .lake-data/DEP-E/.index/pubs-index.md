@@ -10263,3 +10263,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QIENet: Quantitative irradiance estimation network using recurrent neural network based on satellite remote sensing data* | Nie, Longfeng; Chen, Yuntian; Zhang, Dongxiao; Liu, Xinyue; Yuan, Wentian | [arXiv:2312.00299](https://arxiv.org/abs/2312.00299) - [DOI](https://doi.org/10.48550/arXiv.2312.00299) |
+
+
+## [DEP-E-20260819-MemMA Coordinating the](../DEP-E-20260819-MemMA%20Coordinating%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution* | Lin, Minhua; Zhang, Zhiwei; Lu, Hanqing; Liu, Hui; Tang, Xianfeng; He, Qi; Zhang, Xiang; Wang, Suhang | [arXiv:2603.18718](https://arxiv.org/abs/2603.18718) - [DOI](https://doi.org/10.48550/arXiv.2603.18718) |

@@ -28084,6 +28084,29 @@
         "https://doi.org/10.48550/arXiv.2312.00299"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MemMA Coordinating the",
+        ".logs/20260819-Arxiv-MemMA-Coordinating-the-Memory-Cycle-through-LOG.md",
+        ".reports/BL-Arxiv-MemMA-Coordinating-the-Memory-Cycle-through-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.18718",
+      "arxiv_id": "2603.18718",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.18718",
+      "normalized_title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P491; draw 62514 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 2; focus exclusions 5; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "MemMA-Coordinating-the-Memory-Cycle-through",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.18718",
+        "https://arxiv.org/html/2603.18718",
+        "https://arxiv.org/pdf/2603.18718",
+        "https://doi.org/10.48550/arXiv.2603.18718"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
