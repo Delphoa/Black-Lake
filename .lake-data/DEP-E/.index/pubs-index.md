@@ -7372,3 +7372,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unbiased Implicit Feedback via Bi-level Optimization* | Chen, Can; Ma, Chen; Chen, Xi; Song, Sirui; Liu, Hao; Liu, Xue | [arXiv:2206.00147](https://arxiv.org/abs/2206.00147) - [DOI](https://doi.org/10.48550/arXiv.2206.00147) |
+
+
+## [DEP-E-20260819-Adaptive Client Sampling](../DEP-E-20260819-Adaptive%20Client%20Sampling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive Client Sampling in Federated Learning via Online Learning with Bandit Feedback* | Zhao, Boxin; Wang, Lingxiao; Liu, Ziqi; Zhang, Zhiqiang; Zhou, Jun; Chen, Chaochao; Kolar, Mladen | [arXiv:2112.14332](https://arxiv.org/abs/2112.14332) - [DOI](https://doi.org/10.48550/arXiv.2112.14332) |

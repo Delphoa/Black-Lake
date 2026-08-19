@@ -18585,6 +18585,29 @@
         "https://doi.org/10.48550/arXiv.2206.00147"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Adaptive Client Sampling",
+        ".logs/20260819-Arxiv-Adaptive-Client-Sampling-in-Federated-Learning-LOG.md",
+        ".reports/BL-Arxiv-Adaptive-Client-Sampling-in-Federated-Learning-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2112.14332",
+      "arxiv_id": "2112.14332",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2112.14332",
+      "normalized_title": "Adaptive Client Sampling in Federated Learning via Online Learning with Bandit Feedback",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P78; draw 58550 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 5; focus exclusions 35; reselections 40; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adaptive-Client-Sampling-in-Federated-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2112.14332",
+        "https://arxiv.org/html/2112.14332",
+        "https://arxiv.org/pdf/2112.14332",
+        "https://doi.org/10.48550/arXiv.2112.14332"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
