@@ -11510,3 +11510,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LeanMem: Simple and Efficient Long-Term Memory for LLM Agents* | Yuxin Liao; Le Wu; Min Hou; Hao Liu; Han Wu; Zishu Wang | [arXiv:2608.03463v1](https://arxiv.org/abs/2608.03463v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03463) |
+
+
+## [DEP-A-20260819-Accurate Efficient Long T](../DEP-A-20260819-Accurate%20Efficient%20Long%20T/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.16211-whitepaper-review.md`](../DEP-A-20260819-Accurate%20Efficient%20Long%20T/2607.16211-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accurate and Efficient Long-Term Memory for LLM Agents* | Zicheng Zhao; Xinyang Guo; Luyao Lv; Menghan Wang; Ming Li; Shuaicheng Li | [arXiv:2607.16211v1](https://arxiv.org/abs/2607.16211v1) - [DOI](https://doi.org/10.48550/arXiv.2607.16211) |
