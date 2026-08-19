@@ -11915,6 +11915,29 @@
         "https://doi.org/10.48550/arXiv.2506.17912"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A robust ranking",
+        ".logs/20260819-Arxiv-A-robust-ranking-algorithm-to-spamming-LOG.md",
+        ".reports/BL-Arxiv-A-robust-ranking-algorithm-to-spamming-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1012.3793",
+      "arxiv_id": "1012.3793",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1209/0295-5075/94/48002",
+      "normalized_title": "A robust ranking algorithm to spamming",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P88; draw 3281 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-robust-ranking-algorithm-to-spamming",
+      "source_urls": [
+        "https://arxiv.org/abs/1012.3793",
+        "https://arxiv.org/html/1012.3793",
+        "https://arxiv.org/pdf/1012.3793",
+        "https://doi.org/10.1209/0295-5075/94/48002"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

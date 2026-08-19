@@ -5342,3 +5342,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis* | Jin, Chuhao; Li, Haosen; Zhang, Bingzi; Liu, Che; Wang, Xiting; Song, Ruihua; Huang, Wenbing; Qin, Ying; Zhang, Fuzheng; Zhang, Di | [arXiv:2506.17912](https://arxiv.org/abs/2506.17912) - [DOI](https://doi.org/10.48550/arXiv.2506.17912) |
+
+
+## [DEP-E-20260819-A robust ranking](../DEP-E-20260819-A%20robust%20ranking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A robust ranking algorithm to spamming* | Zhou, Yanbo; Lei, Ting; Zhou, Tao | [arXiv:1012.3793](https://arxiv.org/abs/1012.3793) - [DOI](https://doi.org/10.1209/0295-5075/94/48002) |
