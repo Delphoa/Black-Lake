@@ -8478,3 +8478,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented Generation with Hierarchical Knowledge* | Huang, Haoyu; Huang, Yongfeng; Yang, Junjie; Pan, Zhenyu; Chen, Yongqiang; Ma, Kaili; Chen, Hongzhi; Cheng, James | [arXiv:2503.10150](https://arxiv.org/abs/2503.10150) - [DOI](https://doi.org/10.48550/arXiv.2503.10150) |
+
+
+## [DEP-E-20260819-Analysis and Optimi 02227](../DEP-E-20260819-Analysis%20and%20Optimi%2002227/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis and Optimization of Tail-Biting Spatially Coupled Protograph LDPC Codes for BICM-ID Systems* | Yang, Zhaojie; Fang, Yi; Zhang, Guohua; Lau, Francis C. M.; Mumtaz, Shahid; da Costa, Daniel B. | [arXiv:1911.02227](https://arxiv.org/abs/1911.02227) - [DOI](https://doi.org/10.1109/TVT.2019.2949600) |
