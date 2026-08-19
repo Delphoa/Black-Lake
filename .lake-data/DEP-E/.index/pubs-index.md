@@ -6840,3 +6840,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark* | Yang, Siwei; Hui, Mude; Zhao, Bingchen; Zhou, Yuyin; Ruiz, Nataniel; Xie, Cihang | [arXiv:2504.13143](https://arxiv.org/abs/2504.13143) - [DOI](https://doi.org/10.48550/arXiv.2504.13143) |
+
+
+## [DEP-E-20260819-Best- k Search Algorithm](../DEP-E-20260819-Best-%20k%20Search%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Best-$k$ Search Algorithm for Neural Text Generation* | Xu, Jiacheng; Xiong, Caiming; Savarese, Silvio; Zhou, Yingbo | [arXiv:2211.11924](https://arxiv.org/abs/2211.11924) - [DOI](https://doi.org/10.48550/arXiv.2211.11924) |
