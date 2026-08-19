@@ -5314,3 +5314,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling* | Liu, Zili; Chen, Hao; Bai, Lei; Li, Wenyuan; Ouyang, Wanli; Zou, Zhengxia; Shi, Zhenwei | [arXiv:2408.10854](https://arxiv.org/abs/2408.10854) - [DOI](https://doi.org/10.48550/arXiv.2408.10854) |
+
+
+## [DEP-E-20260819-Exploring the](../DEP-E-20260819-Exploring%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space* | Chen, Zhonghan; Zhang, Ruiyuan; Zhao, Xi; Cheng, Xiaojun; Zhou, Xiaofang | [arXiv:2410.05752](https://arxiv.org/abs/2410.05752) - [DOI](https://doi.org/10.48550/arXiv.2410.05752) |
