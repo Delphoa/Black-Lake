@@ -6644,3 +6644,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Causal Disentanglement Hidden Markov Model for Fault Diagnosis* | Chang, Rihao; Ma, Yongtao; Nie, Weizhi; Nie, Jie; Liu, An-an | [arXiv:2308.03027](https://arxiv.org/abs/2308.03027) - [DOI](https://doi.org/10.48550/arXiv.2308.03027) |
+
+
+## [DEP-E-20260819-Approximation Algorithms](../DEP-E-20260819-Approximation%20Algorithms/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximation Algorithms and Hardness of the k-Route Cut Problem* | Chuzhoy, Julia; Makarychev, Yury; Vijayaraghavan, Aravindan; Zhou, Yuan | [arXiv:1112.3611](https://arxiv.org/abs/1112.3611) - [DOI](https://doi.org/10.48550/arXiv.1112.3611) |
