@@ -9003,3 +9003,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AsymptoticNG: A regularized natural gradient optimization algorithm with look-ahead strategy* | Tang, Zedong; Jiang, Fenlong; Song, Junke; Gong, Maoguo; Li, Hao; Yu, Fan; Wang, Zidong; Wang, Min | [arXiv:2012.13077](https://arxiv.org/abs/2012.13077) - [DOI](https://doi.org/10.48550/arXiv.2012.13077) |
+
+
+## [DEP-E-20260819-Repurposing Adversarial](../DEP-E-20260819-Repurposing%20Adversarial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Repurposing Adversarial Perturbations for Continual Learning: From Defense to Active Alignment* | Liu, Ran; Yu, Min; Liu, Mingqi; Jiang, Jianguo; Li, Gang; Li, Rongsheng; Li, Ning; Xu, Zhen; Huang, Weiqing; Liu, Ming | [arXiv:2606.02322](https://arxiv.org/abs/2606.02322) - [DOI](https://doi.org/10.48550/arXiv.2606.02322) |
