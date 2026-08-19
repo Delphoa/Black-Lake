@@ -9269,3 +9269,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Recurrent Model Predictive Control* | Liu, Zhengyu; Duan, Jingliang; Wang, Wenxuan; Li, Shengbo Eben; Yin, Yuming; Lin, Ziyu; Sun, Qi; Cheng, Bo | [arXiv:2102.11736](https://arxiv.org/abs/2102.11736) - [DOI](https://doi.org/10.48550/arXiv.2102.11736) |
+
+
+## [DEP-E-20260819-AtomicRAG Atom-Entity](../DEP-E-20260819-AtomicRAG%20Atom-Entity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation* | Hou, Yanning; Yuan, Duanyang; Zhou, Sihang; Chen, Xiaoshu; Liang, Ke; Wang, Siwei; Liu, Xinwang; Huang, Jian | [arXiv:2604.20844](https://arxiv.org/abs/2604.20844) - [DOI](https://doi.org/10.48550/arXiv.2604.20844) |
