@@ -10374,6 +10374,29 @@
         "https://doi.org/10.48550/arXiv.2602.13413"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Verifiable User",
+        ".logs/20260819-Arxiv-Verifiable-User-Simulation-for-Search-and-LOG.md",
+        ".reports/BL-Arxiv-Verifiable-User-Simulation-for-Search-and-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.14474",
+      "arxiv_id": "2606.14474",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3805712.3808645",
+      "normalized_title": "Verifiable User Simulation for Search and Recommendation Systems",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P21; draw 70017 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 18; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "Verifiable-User-Simulation-for-Search-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.14474",
+        "https://arxiv.org/html/2606.14474",
+        "https://arxiv.org/pdf/2606.14474",
+        "https://doi.org/10.1145/3805712.3808645"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

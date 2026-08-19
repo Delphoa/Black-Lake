@@ -4873,3 +4873,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Why is Normalization Preferred? A Worst-Case Complexity Theory for Stochastically Preconditioned SGD under Heavy-Tailed Noise* | Fang, Yuchen; Demmel, James; Lavaei, Javad | [arXiv:2602.13413](https://arxiv.org/abs/2602.13413) - [DOI](https://doi.org/10.48550/arXiv.2602.13413) |
+
+
+## [DEP-E-20260819-Verifiable User](../DEP-E-20260819-Verifiable%20User/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verifiable User Simulation for Search and Recommendation Systems* | Ma, Chenglong; Wanyan, Xinye; Hettiachchi, Danula; Xu, Ziqi; Ren, Yongli; Chan, Jeffrey | [arXiv:2606.14474](https://arxiv.org/abs/2606.14474) - [DOI](https://doi.org/10.1145/3805712.3808645) |
