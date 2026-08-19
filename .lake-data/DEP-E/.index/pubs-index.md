@@ -8821,3 +8821,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *On Computational Limits of Modern Hopfield Models: A Fine-Grained Complexity Analysis* | Hu, Jerry Yao-Chieh; Lin, Thomas; Song, Zhao; Liu, Han | [arXiv:2402.04520](https://arxiv.org/abs/2402.04520) - [DOI](https://doi.org/10.48550/arXiv.2402.04520) |
+
+
+## [DEP-E-20260819-SIMS Simulating Stylized](../DEP-E-20260819-SIMS%20Simulating%20Stylized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation* | Wang, Wenjia; Pan, Liang; Dou, Zhiyang; Mei, Jidong; Liao, Zhouyingcheng; Lou, Yuke; Wu, Yifan; Yang, Lei; Wang, Jingbo; Komura, Taku | [arXiv:2411.19921](https://arxiv.org/abs/2411.19921) - [DOI](https://doi.org/10.48550/arXiv.2411.19921) |
