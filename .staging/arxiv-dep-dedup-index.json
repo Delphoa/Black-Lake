@@ -16814,6 +16814,29 @@
         "https://doi.org/10.48550/arXiv.2407.02243"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-texttt Complex-Edit",
+        ".logs/20260819-Arxiv-texttt-Complex-Edit-CoT-Like-Instruction-LOG.md",
+        ".reports/BL-Arxiv-texttt-Complex-Edit-CoT-Like-Instruction-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2504.13143",
+      "arxiv_id": "2504.13143",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2504.13143",
+      "normalized_title": "$\\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P01; draw 23505 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 3; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "texttt-Complex-Edit-CoT-Like-Instruction",
+      "source_urls": [
+        "https://arxiv.org/abs/2504.13143",
+        "https://arxiv.org/html/2504.13143",
+        "https://arxiv.org/pdf/2504.13143",
+        "https://doi.org/10.48550/arXiv.2504.13143"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

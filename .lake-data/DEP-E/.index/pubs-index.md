@@ -6833,3 +6833,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization* | Hu, Yuchen; Chen, Chen; Wang, Siyin; Chng, Eng Siong; Zhang, Chao | [arXiv:2407.02243](https://arxiv.org/abs/2407.02243) - [DOI](https://doi.org/10.48550/arXiv.2407.02243) |
+
+
+## [DEP-E-20260819-texttt Complex-Edit](../DEP-E-20260819-texttt%20Complex-Edit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark* | Yang, Siwei; Hui, Mude; Zhao, Bingchen; Zhou, Yuyin; Ruiz, Nataniel; Xie, Cihang | [arXiv:2504.13143](https://arxiv.org/abs/2504.13143) - [DOI](https://doi.org/10.48550/arXiv.2504.13143) |
