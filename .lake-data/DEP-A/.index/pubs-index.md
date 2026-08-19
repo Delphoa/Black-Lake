@@ -11987,3 +11987,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CACHE-UK: A Stability-Aware Memory Editor for Sequentially Updated Quantized LLMs in Finance* | Anubhav Lakra; Yue Feng | [arXiv:2607.28292v1](https://arxiv.org/abs/2607.28292v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28292) |
+
+
+## [DEP-A-20260819-FeatFix Reuse What You](../DEP-A-20260819-FeatFix%20Reuse%20What%20You/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27842-whitepaper-review.md`](../DEP-A-20260819-FeatFix%20Reuse%20What%20You/2607.27842-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FeatFix: Reuse What You Verify through Local Exact-Feature Correction for Faster Cached Diffusion Inference* | Hanshuai Cui; Zhiqing Tang; Zhi Yao; Qianli Ma; Fanshuai Meng; Weijia Jia | [arXiv:2607.27842v1](https://arxiv.org/abs/2607.27842v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27842) |
