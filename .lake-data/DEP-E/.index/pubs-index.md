@@ -7148,3 +7148,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Expectation-Maximization Algorithm-based Autoregressive Model for the Fuzzy Job Shop Scheduling Problem* | Wang, Yijian; Guo, Tongxian; Liu, Zhaoqiang | [arXiv:2502.00018](https://arxiv.org/abs/2502.00018) - [DOI](https://doi.org/10.48550/arXiv.2502.00018) |
+
+
+## [DEP-E-20260819-Effective Quantization](../DEP-E-20260819-Effective%20Quantization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Effective Quantization Methods for Recurrent Neural Networks* | He, Qinyao; Wen, He; Zhou, Shuchang; Wu, Yuxin; Yao, Cong; Zhou, Xinyu; Zou, Yuheng | [arXiv:1611.10176](https://arxiv.org/abs/1611.10176) - [DOI](https://doi.org/10.48550/arXiv.1611.10176) |
