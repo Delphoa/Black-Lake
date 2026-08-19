@@ -12347,3 +12347,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Is Communication: The Frontier Between Remembering and Signaling* | Yashar Talebirad; Eden Redman; Ali Parsaee; Osmar R. Zaiane | [arXiv:2608.17053v1](https://arxiv.org/abs/2608.17053v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17053) |
+
+
+## [DEP-A-20260820-KernelArc Multi Agent Fra](../DEP-A-20260820-KernelArc%20Multi%20Agent%20Fra/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17071-whitepaper-review.md`](../DEP-A-20260820-KernelArc%20Multi%20Agent%20Fra/2608.17071-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KernelArc: A Multi-Agent Framework for GPU Kernel Optimization* | Joyjit Kundu; Ben Stoffelen; Kaili Wang; Peter Vrancx; Ludovic Denoyer | [arXiv:2608.17071v1](https://arxiv.org/abs/2608.17071v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17071) |
