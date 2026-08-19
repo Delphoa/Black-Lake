@@ -7330,3 +7330,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bridging Large Language Models and Optimization: A Unified Framework for Text-attributed Combinatorial Optimization* | Jiang, Xia; Wu, Yaoxin; Wang, Yuan; Zhang, Yingqian | [arXiv:2408.12214](https://arxiv.org/abs/2408.12214) - [DOI](https://doi.org/10.48550/arXiv.2408.12214) |
+
+
+## [DEP-E-20260819-The Evolution of](../DEP-E-20260819-The%20Evolution%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Evolution of Embedding Table Optimization and Multi-Epoch Training in Pinterest Ads Conversion* | Qiu, Andrew; Barhate, Shubham; Lui, Hin Wai; Su, Runze; Müller, Rafael Rios; Li, Kungang; Leng, Ling; Sun, Han; Ehsani, Shayan; Liu, Zhifang | [arXiv:2505.05605](https://arxiv.org/abs/2505.05605) - [DOI](https://doi.org/10.48550/arXiv.2505.05605) |
