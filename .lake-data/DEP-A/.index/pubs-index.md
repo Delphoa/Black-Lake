@@ -11555,3 +11555,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Try Once, Then Optimal: De-Redundified Procedure Memory for Cross-Episode Exploration Amortization* | Haizhou Ge; Haochen Ouyang; Zhixing Chen; Yufei Jia; Yue Li; Lu Shi; Lei Han; Guyue Zhou; Ruqi Huang | [arXiv:2607.23702v1](https://arxiv.org/abs/2607.23702v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23702) |
+
+
+## [DEP-A-20260819-Towards Relevance Posteri](../DEP-A-20260819-Towards%20Relevance%20Posteri/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23561-whitepaper-review.md`](../DEP-A-20260819-Towards%20Relevance%20Posteri/2607.23561-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards a Relevance Posterior in Neural Information Access* | Andrew Parry; Emmanouil Georgios Lionis; Debasis Ganguly; Sean MacAvaney | [arXiv:2607.23561v1](https://arxiv.org/abs/2607.23561v1) - [DOI](https://doi.org/10.1145/3805712.3808541) |
