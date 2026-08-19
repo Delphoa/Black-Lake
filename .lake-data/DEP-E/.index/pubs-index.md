@@ -8695,3 +8695,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GEM: Generating LiDAR World Model via Deformable Mamba* | Wu, Yang; Liu, Zhaojiang; Meng, Qiang; Liu, Youquan; Weng, Renliang; Qian, Jianjun; Yang, Jian; Xie, Jin | [arXiv:2605.07326](https://arxiv.org/abs/2605.07326) - [DOI](https://doi.org/10.48550/arXiv.2605.07326) |
+
+
+## [DEP-E-20260819-A Survey on](../DEP-E-20260819-A%20Survey%20on/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey on Memory-Efficient Transformer-Based Model Training in AI for Science* | Tian, Kaiyuan; Qiao, Linbo; Liu, Baihui; Jiang, Gongqingjian; Li, Shanshan; Li, Dongsheng | [arXiv:2501.11847](https://arxiv.org/abs/2501.11847) - [DOI](https://doi.org/10.1007/s11704-025-50302-6) |
