@@ -11780,3 +11780,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning* | Yanqiao Zhu; Jingru Gan; Xiaoqi Sun; Fang Sun; Yidan Shi; Md Mofijul Islam; Chao Shang; Wenhao Gao; Connor W. Coley; Yizhou Sun; Wei Wang | [arXiv:2607.14512v2](https://arxiv.org/abs/2607.14512v2) - [DOI](https://doi.org/10.48550/arXiv.2607.14512) |
+
+
+## [DEP-A-20260819-CatalogAgent Supervisor m](../DEP-A-20260819-CatalogAgent%20Supervisor%20m/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14396-whitepaper-review.md`](../DEP-A-20260819-CatalogAgent%20Supervisor%20m/2607.14396-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CatalogAgent: A Supervisor-mediated Self-Learning System Enabling Context Engineering for GenAI Models* | Zhu Cheng; Zhenming Wang; Tang; Dan Liu; Bryan Zhang; Athanasios N. Nikolakopoulos; Pranav Souri Itabada; Jing Zhang; Chih-Chi Chou; Peng Gao; Fatemeh Mansoori; Bharat Bojja; Sarath Chander; Sameer Thombare; Umit Batur; Tarik Arici | [arXiv:2607.14396v1](https://arxiv.org/abs/2607.14396v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14396) |
