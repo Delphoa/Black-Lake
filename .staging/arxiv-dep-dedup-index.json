@@ -15526,6 +15526,29 @@
         "https://doi.org/10.48550/arXiv.2303.06210"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Grounded SAM Assembling",
+        ".logs/20260819-Arxiv-Grounded-SAM-Assembling-Open-World-Models-for-LOG.md",
+        ".reports/BL-Arxiv-Grounded-SAM-Assembling-Open-World-Models-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2401.14159",
+      "arxiv_id": "2401.14159",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2401.14159",
+      "normalized_title": "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P245; draw 71974 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 3; focus exclusions 26; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "Grounded-SAM-Assembling-Open-World-Models-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2401.14159",
+        "https://arxiv.org/html/2401.14159",
+        "https://arxiv.org/pdf/2401.14159",
+        "https://doi.org/10.48550/arXiv.2401.14159"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

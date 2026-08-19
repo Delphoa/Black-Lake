@@ -6441,3 +6441,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Theoretical Analysis Of Nearest Neighbor Search On Approximate Near Neighbor Graph* | Shrivastava, Anshumali; Song, Zhao; Xu, Zhaozhuo | [arXiv:2303.06210](https://arxiv.org/abs/2303.06210) - [DOI](https://doi.org/10.48550/arXiv.2303.06210) |
+
+
+## [DEP-E-20260819-Grounded SAM Assembling](../DEP-E-20260819-Grounded%20SAM%20Assembling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks* | Ren, Tianhe; Liu, Shilong; Zeng, Ailing; Lin, Jing; Li, Kunchang; Cao, He; Chen, Jiayu; Huang, Xinyu; Chen, Yukang; Yan, Feng; Zeng, Zhaoyang; Zhang, Hao; Li, Feng; Yang, Jie; Li, Hongyang; Jiang, Qing; Zhang, Lei | [arXiv:2401.14159](https://arxiv.org/abs/2401.14159) - [DOI](https://doi.org/10.48550/arXiv.2401.14159) |
