@@ -11133,6 +11133,29 @@
         "https://doi.org/10.48550/arXiv.2207.04047"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Revisiting Multi-modal",
+        ".logs/20260819-Arxiv-Revisiting-Multi-modal-Emotion-Learning-with-LOG.md",
+        ".reports/BL-Arxiv-Revisiting-Multi-modal-Emotion-Learning-with-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.17858",
+      "arxiv_id": "2404.17858",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2404.17858",
+      "normalized_title": "Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P54; draw 64927 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Revisiting-Multi-modal-Emotion-Learning-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.17858",
+        "https://arxiv.org/html/2404.17858",
+        "https://arxiv.org/pdf/2404.17858",
+        "https://doi.org/10.48550/arXiv.2404.17858"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

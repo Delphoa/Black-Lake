@@ -5104,3 +5104,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Framework Based on Generational and Environmental Response Strategies for Dynamic Multi-objective Optimization* | Li, Qingya; Liu, Xiangzhi; Wang, Fuqiang; Wang, Shuai; Zhang, Peng; Wu, Xiaoming | [arXiv:2207.04047](https://arxiv.org/abs/2207.04047) - [DOI](https://doi.org/10.48550/arXiv.2207.04047) |
+
+
+## [DEP-E-20260819-Revisiting Multi-modal](../DEP-E-20260819-Revisiting%20Multi-modal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion* | Shou, Yuntao; Meng, Tao; Zhang, Fuchen; Yin, Nan; Li, Keqin | [arXiv:2404.17858](https://arxiv.org/abs/2404.17858) - [DOI](https://doi.org/10.48550/arXiv.2404.17858) |
