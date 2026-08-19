@@ -6350,3 +6350,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From <Answer> to <Think>: Multidimensional Supervision of Reasoning Process for LLM Optimization* | Wang, Beining; Su, Weihang; Tian, Hongtao; Yang, Tao; Zhou, Yujia; Yao, Ting; Ai, Qingyao; Liu, Yiqun | [arXiv:2510.11457](https://arxiv.org/abs/2510.11457) - [DOI](https://doi.org/10.48550/arXiv.2510.11457) |
+
+
+## [DEP-E-20260819-DPO Dual-Perturbation](../DEP-E-20260819-DPO%20Dual-Perturbation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection* | Chen, Zhuoxiao; Wang, Zixin; Luo, Yadan; Wang, Sen; Huang, Zi | [arXiv:2406.13891](https://arxiv.org/abs/2406.13891) - [DOI](https://doi.org/10.1145/3664647.3681040) |

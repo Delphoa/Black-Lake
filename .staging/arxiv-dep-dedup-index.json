@@ -15227,6 +15227,29 @@
         "https://doi.org/10.48550/arXiv.2510.11457"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation",
+        ".logs/20260819-Arxiv-DPO-Dual-Perturbation-Optimization-for-Test-time-LOG.md",
+        ".reports/BL-Arxiv-DPO-Dual-Perturbation-Optimization-for-Test-time-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.13891",
+      "arxiv_id": "2406.13891",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3664647.3681040",
+      "normalized_title": "DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P232; draw 62596 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "DPO-Dual-Perturbation-Optimization-for-Test-time",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.13891",
+        "https://arxiv.org/html/2406.13891",
+        "https://arxiv.org/pdf/2406.13891",
+        "https://doi.org/10.1145/3664647.3681040"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
