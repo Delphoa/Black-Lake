@@ -6497,3 +6497,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval* | Ma, Yiwei; Xu, Guohai; Sun, Xiaoshuai; Yan, Ming; Zhang, Ji; Ji, Rongrong | [arXiv:2207.07285](https://arxiv.org/abs/2207.07285) - [DOI](https://doi.org/10.48550/arXiv.2207.07285) |
+
+
+## [DEP-E-20260819-Aligned but Fragile](../DEP-E-20260819-Aligned%20but%20Fragile/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization* | Liu, Zhihao; Wu, Yifan; Lou, Jian; Wang, Di; Zhou, Yuxi; Hu, Yuke | [arXiv:2605.29396](https://arxiv.org/abs/2605.29396) - [DOI](https://doi.org/10.48550/arXiv.2605.29396) |
