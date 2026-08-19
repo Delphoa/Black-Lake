@@ -10736,3 +10736,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging* | Binglei Zhao; Xuanhua Yang; Xiwei Zhao; Sulong Xu | [arXiv:2608.04809v1](https://arxiv.org/abs/2608.04809v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04809) |
+
+
+## [DEP-A-20260820-General Non Clairvoyant K](../DEP-A-20260820-General%20Non%20Clairvoyant%20K/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2607.09248-whitepaper-review.md`](../DEP-A-20260820-General%20Non%20Clairvoyant%20K/2607.09248-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *General Non-Clairvoyant KV-Cache Scheduling via Regime-Aware Routing* | Yiding Feng; Siyu Liu; Zonghan Yang; Yuhao Zhang | [arXiv:2607.09248v1](https://arxiv.org/abs/2607.09248v1) - [DOI](https://doi.org/10.48550/arXiv.2607.09248) |
