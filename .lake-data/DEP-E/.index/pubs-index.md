@@ -9892,3 +9892,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EOE: Evolutionary Optimization of Experts for Training Language Models* | Chen, Yingshi | [arXiv:2509.24436](https://arxiv.org/abs/2509.24436) - [DOI](https://doi.org/10.48550/arXiv.2509.24436) |
+
+
+## [DEP-E-20260819-NEO Saving GPU Memory](../DEP-E-20260819-NEO%20Saving%20GPU%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference* | Jiang, Xuanlin; Zhou, Yang; Cao, Shiyi; Stoica, Ion; Yu, Minlan | [arXiv:2411.01142](https://arxiv.org/abs/2411.01142) - [DOI](https://doi.org/10.48550/arXiv.2411.01142) |
