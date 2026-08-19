@@ -6938,3 +6938,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Overcoming Growth-Induced Forgetting in Task-Agnostic Continual Learning* | Zhao, Yuqing; Cao, Jiannong; Saxena, Divya; Liu, Xiaoyun; Song, Changlin; Yuan, Bo; McCann, Julie | [arXiv:2408.10566](https://arxiv.org/abs/2408.10566) - [DOI](https://doi.org/10.48550/arXiv.2408.10566) |
+
+
+## [DEP-E-20260819-TANGO Time-Reversal](../DEP-E-20260819-TANGO%20Time-Reversal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems* | Huang, Zijie; Zhao, Wanjia; Gao, Jingdong; Hu, Ziniu; Luo, Xiao; Cao, Yadi; Chen, Yuanzhou; Sun, Yizhou; Wang, Wei | [arXiv:2310.06427](https://arxiv.org/abs/2310.06427) - [DOI](https://doi.org/10.48550/arXiv.2310.06427) |
