@@ -8156,3 +8156,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The bilateral solver for quality estimation based multi-focus image fusion* | Guan, Jingwei; Chen, Yibo; Cham, Wai-kuen | [arXiv:1904.01417](https://arxiv.org/abs/1904.01417) - [DOI](https://doi.org/10.48550/arXiv.1904.01417) |
+
+
+## [DEP-E-20260819-A Joint Optimization of](../DEP-E-20260819-A%20Joint%20Optimization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Joint Optimization of Operational Cost and Performance Interference in Cloud Data Centers* | Jin, Xibo; Zhang, Fa; Wang, Lin; Hu, Songlin; Zhou, Biyu; Liu, Zhiyong | [arXiv:1404.2842](https://arxiv.org/abs/1404.2842) - [DOI](https://doi.org/10.48550/arXiv.1404.2842) |
