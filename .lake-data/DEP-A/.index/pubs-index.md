@@ -12203,3 +12203,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis* | Aryan Luthra; Kshitij Jain; Siddharth Arya; Bobby Filar; Anna Bertiger | [arXiv:2608.13608v1](https://arxiv.org/abs/2608.13608v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13608) |
+
+
+## [DEP-A-20260820-Aborted but Not Forgotten](../DEP-A-20260820-Aborted%20but%20Not%20Forgotten/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.15939-whitepaper-review.md`](../DEP-A-20260820-Aborted%20but%20Not%20Forgotten/2608.15939-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents* | Guijia Zhang; Harry Yang | [arXiv:2608.15939v1](https://arxiv.org/abs/2608.15939v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15939) |
