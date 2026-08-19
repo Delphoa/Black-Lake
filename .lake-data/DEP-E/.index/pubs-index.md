@@ -9045,3 +9045,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval* | Chen, Yongbiao; Zhang, Sheng; Liu, Fangxin; Chang, Zhigang; Ye, Mang; Qi, Zhengwei | [arXiv:2105.01823](https://arxiv.org/abs/2105.01823) - [DOI](https://doi.org/10.48550/arXiv.2105.01823) |
+
+
+## [DEP-E-20260819-A proximal-proximal](../DEP-E-20260819-A%20proximal-proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A proximal-proximal majorization-minimization algorithm for nonconvex tuning-free robust regression problems* | Tang, Peipei; Wang, Chengjing; Jiang, Bo | [arXiv:2106.13683](https://arxiv.org/abs/2106.13683) - [DOI](https://doi.org/10.48550/arXiv.2106.13683) |
