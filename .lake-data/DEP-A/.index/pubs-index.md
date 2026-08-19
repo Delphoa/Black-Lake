@@ -10952,3 +10952,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bidirectional Context Self-Distillation for Reinforcement Learning of Skill-Based LLM Agents* | Tianjun Pan; Yuan Li; Hongda Wang; Linbo Jin; Mengfei Song; Lei Gao; Qiming Shi; Shaokang Fu; Jiarong Zhao; Chengyu Wang; Chengfu Huo | [arXiv:2608.09555v1](https://arxiv.org/abs/2608.09555v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09555) |
+
+
+## [DEP-A-20260819-MixFormer Linear Transfor](../DEP-A-20260819-MixFormer%20Linear%20Transfor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09468-whitepaper-review.md`](../DEP-A-20260819-MixFormer%20Linear%20Transfor/2608.09468-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MixFormer: Linear Transformer with Mixture of Memory Experts* | Yu Guo; Lei Duan | [arXiv:2608.09468v1](https://arxiv.org/abs/2608.09468v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09468) |
