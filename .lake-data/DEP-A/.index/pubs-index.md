@@ -11006,3 +11006,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What Would Fix This RAG Failure? Auditing Counterfactual Response with Paired Evidence Interventions* | Wenzhang Du | [arXiv:2608.08944v1](https://arxiv.org/abs/2608.08944v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08944) |
+
+
+## [DEP-A-20260819-Difficulty Gated Fusion R](../DEP-A-20260819-Difficulty%20Gated%20Fusion%20R/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08940-whitepaper-review.md`](../DEP-A-20260819-Difficulty%20Gated%20Fusion%20R/2608.08940-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Difficulty-Gated Fusion of Reasoning Views for Temporal Retrieval* | Jamie Holdcroft; Abdelrahman Abdallah; Adam Jatowt | [arXiv:2608.08940v1](https://arxiv.org/abs/2608.08940v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08940) |
