@@ -23323,6 +23323,29 @@
         "https://doi.org/10.48550/arXiv.2512.22336"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-On Computational Limits",
+        ".logs/20260819-Arxiv-On-Computational-Limits-of-Modern-Hopfield-LOG.md",
+        ".reports/BL-Arxiv-On-Computational-Limits-of-Modern-Hopfield-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2402.04520",
+      "arxiv_id": "2402.04520",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2402.04520",
+      "normalized_title": "On Computational Limits of Modern Hopfield Models: A Fine-Grained Complexity Analysis",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P284; draw 5183 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 10; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "On-Computational-Limits-of-Modern-Hopfield",
+      "source_urls": [
+        "https://arxiv.org/abs/2402.04520",
+        "https://arxiv.org/html/2402.04520",
+        "https://arxiv.org/pdf/2402.04520",
+        "https://doi.org/10.48550/arXiv.2402.04520"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

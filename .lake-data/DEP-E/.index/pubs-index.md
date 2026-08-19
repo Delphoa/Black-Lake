@@ -8814,3 +8814,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback* | Hu, Mengkang; Xia, Bowei; Wu, Yuran; Yu, Ailing; Zou, Yude; Chen, Qiguang; Wang, Shijian; Jin, Jiarui; Li, Kexin; Jiao, Wenxiang; Lu, Yuan; Luo, Ping | [arXiv:2512.22336](https://arxiv.org/abs/2512.22336) - [DOI](https://doi.org/10.48550/arXiv.2512.22336) |
+
+
+## [DEP-E-20260819-On Computational Limits](../DEP-E-20260819-On%20Computational%20Limits/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Computational Limits of Modern Hopfield Models: A Fine-Grained Complexity Analysis* | Hu, Jerry Yao-Chieh; Lin, Thomas; Song, Zhao; Liu, Han | [arXiv:2402.04520](https://arxiv.org/abs/2402.04520) - [DOI](https://doi.org/10.48550/arXiv.2402.04520) |
