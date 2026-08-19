@@ -9787,3 +9787,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EvolveGen: Algorithmic Level Hardware Model Checking Benchmark Generation through Reinforcement Learning* | Hu, Guangyu; Zhou, Xiaofeng; Zhang, Wei; Zhang, Hongce | [arXiv:2602.22609](https://arxiv.org/abs/2602.22609) - [DOI](https://doi.org/10.48550/arXiv.2602.22609) |
+
+
+## [DEP-E-20260819-Joint Optimization of](../DEP-E-20260819-Joint%20Optimization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Optimization of Spectrum and Energy Efficiency Considering the C-V2X Security: A Deep Reinforcement Learning Approach* | Liu, Zhipeng; Han, Yinhui; Fan, Jianwei; Zhang, Lin; Lin, Yunzhi | [arXiv:2003.10620](https://arxiv.org/abs/2003.10620) - [DOI](https://doi.org/10.48550/arXiv.2003.10620) |
