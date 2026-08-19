@@ -4670,3 +4670,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Robust Fairness via Balance Adversarial Training* | Sun, Chunyu; Xu, Chenye; Yao, Chengyuan; Liang, Siyuan; Wu, Yichao; Liang, Ding; Liu, XiangLong; Liu, Aishan | [arXiv:2209.07534](https://arxiv.org/abs/2209.07534) - [DOI](https://doi.org/10.48550/arXiv.2209.07534) |
+
+
+## [DEP-E-20260819-UniSymNet A Unified](../DEP-E-20260819-UniSymNet%20A%20Unified/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniSymNet: A Unified Symbolic Network Guided by Transformer* | Li, Xinxin; Zhang, Juan; Li, Da; Liu, Xingyu; Xu, Jin; Yin, Junping | [arXiv:2505.06091](https://arxiv.org/abs/2505.06091) - [DOI](https://doi.org/10.1016/j.neunet.2026.108615) |

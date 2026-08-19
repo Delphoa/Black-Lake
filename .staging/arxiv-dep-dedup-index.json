@@ -9707,6 +9707,29 @@
         "https://doi.org/10.48550/arXiv.2209.07534"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-UniSymNet A Unified",
+        ".logs/20260819-Arxiv-UniSymNet-A-Unified-Symbolic-Network-Guided-by-LOG.md",
+        ".reports/BL-Arxiv-UniSymNet-A-Unified-Symbolic-Network-Guided-by-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.06091",
+      "arxiv_id": "2505.06091",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1016/j.neunet.2026.108615",
+      "normalized_title": "UniSymNet: A Unified Symbolic Network Guided by Transformer",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P02; draw 47954 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "UniSymNet-A-Unified-Symbolic-Network-Guided-by",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.06091",
+        "https://arxiv.org/html/2505.06091",
+        "https://arxiv.org/pdf/2505.06091",
+        "https://doi.org/10.1016/j.neunet.2026.108615"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
