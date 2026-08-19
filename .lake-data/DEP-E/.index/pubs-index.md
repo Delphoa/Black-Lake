@@ -6553,3 +6553,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CalliMaster: Mastering Page-level Chinese Calligraphy via Layout-guided Spatial Planning* | Xu, Tianshuo; Hong, Tiantian; Chen, Zhifei; Chao, Fei; Chen, Ying-cong | [arXiv:2603.12482](https://arxiv.org/abs/2603.12482) - [DOI](https://doi.org/10.48550/arXiv.2603.12482) |
+
+
+## [DEP-E-20260819-Improved Learning Rates](../DEP-E-20260819-Improved%20Learning%20Rates/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improved Learning Rates for Stochastic Optimization* | Li, Shaojie; Tang, Pengwei; Liu, Yong | [arXiv:2107.08686](https://arxiv.org/abs/2107.08686) - [DOI](https://doi.org/10.48550/arXiv.2107.08686) |
