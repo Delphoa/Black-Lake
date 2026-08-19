@@ -4978,3 +4978,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Approximated Doubly Robust Search Relevance Estimation* | Zou, Lixin; Hao, Changying; Cai, Hengyi; Cheng, Suqi; Wang, Shuaiqiang; Ye, Wenwen; Cheng, Zhicong; Gu, Simiu; Yin, Dawei | [arXiv:2208.07671](https://arxiv.org/abs/2208.07671) - [DOI](https://doi.org/10.1145/3511808.3557145) |
+
+
+## [DEP-E-20260819-From Sim-to-Real Toward](../DEP-E-20260819-From%20Sim-to-Real%20Toward/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization* | Zhang, Ziran; Ma, Yongrui; Chen, Yueting; Zhang, Feng; Gu, Jinwei; Xue, Tianfan; Guo, Shi | [arXiv:2406.08090](https://arxiv.org/abs/2406.08090) - [DOI](https://doi.org/10.1145/3680528.3687649) |

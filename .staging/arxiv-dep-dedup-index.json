@@ -10719,6 +10719,29 @@
         "https://doi.org/10.1145/3511808.3557145"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-From Sim-to-Real Toward",
+        ".logs/20260819-Arxiv-From-Sim-to-Real-Toward-General-Event-LOG.md",
+        ".reports/BL-Arxiv-From-Sim-to-Real-Toward-General-Event-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.08090",
+      "arxiv_id": "2406.08090",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3680528.3687649",
+      "normalized_title": "From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P36; draw 22399 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "From-Sim-to-Real-Toward-General-Event",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.08090",
+        "https://arxiv.org/html/2406.08090",
+        "https://arxiv.org/pdf/2406.08090",
+        "https://doi.org/10.1145/3680528.3687649"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
