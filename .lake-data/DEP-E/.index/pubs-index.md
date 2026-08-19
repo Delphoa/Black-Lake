@@ -7358,3 +7358,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization* | Liu, Zongkai; Lin, Qian; Yu, Chao; Wu, Xiawei; Liang, Yile; Li, Donghui; Ding, Xuetao | [arXiv:2412.07639](https://arxiv.org/abs/2412.07639) - [DOI](https://doi.org/10.48550/arXiv.2412.07639) |
+
+
+## [DEP-E-20260819-The Devil is in the 07305](../DEP-E-20260819-The%20Devil%20is%20in%20the%2007305/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning* | Zhou, Xinyang; Wei, Fanyue; Duan, Lixin; Yao, Angela; Li, Wen | [arXiv:2501.07305](https://arxiv.org/abs/2501.07305) - [DOI](https://doi.org/10.48550/arXiv.2501.07305) |
