@@ -10979,3 +10979,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Don't Scroll Back: Missing-Evidence Memory for Streaming Dialogue Summarization* | Hyangsuk Min; Hwanjun Song | [arXiv:2608.09043v1](https://arxiv.org/abs/2608.09043v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09043) |
+
+
+## [DEP-A-20260819-KGCaRe Explainable Comple](../DEP-A-20260819-KGCaRe%20Explainable%20Comple/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09779-whitepaper-review.md`](../DEP-A-20260819-KGCaRe%20Explainable%20Comple/2608.09779-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs* | Ghanshyam Verma; Simanta Sarkar; Devishree Pillai; Hotaka Shiokawa; Yourong Xu; Fiona Veazey; Peter Hubbert; Hui Su; Paul Buitelaar | [arXiv:2608.09779v1](https://arxiv.org/abs/2608.09779v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09779) |
