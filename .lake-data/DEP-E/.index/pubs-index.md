@@ -6728,3 +6728,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A partitioned shift-without-invert algorithm to improve parallel eigensolution efficiency in real-space electronic transport* | Feldman, Baruch; Zhou, Yunkai | [arXiv:1606.01139](https://arxiv.org/abs/1606.01139) - [DOI](https://doi.org/10.1016/j.cpc.2016.05.015) |
+
+
+## [DEP-E-20260819-A Dual-mode Local Search](../DEP-E-20260819-A%20Dual-mode%20Local%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Dual-mode Local Search Algorithm for Solving the Minimum Dominating Set Problem* | Zhu, Enqiang; Zhang, Yu; Wang, Shengzhi; Strash, Darren; Liu, Chanjuan | [arXiv:2307.16815](https://arxiv.org/abs/2307.16815) - [DOI](https://doi.org/10.48550/arXiv.2307.16815) |
