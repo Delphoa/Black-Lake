@@ -7855,3 +7855,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation* | Wang, Ming; Wang, Peidong; Wu, Lin; Yang, Xiaocui; Wang, Daling; Feng, Shi; Chen, Yuxin; Wang, Bixuan; Zhang, Yifei | [arXiv:2506.00551](https://arxiv.org/abs/2506.00551) - [DOI](https://doi.org/10.18653/v1/2025.findings-acl.1192) |
+
+
+## [DEP-E-20260819-CIER A Novel Experience](../DEP-E-20260819-CIER%20A%20Novel%20Experience/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CIER: A Novel Experience Replay Approach with Causal Inference in Deep Reinforcement Learning* | Wang, Jingwen; Du, Dehui; Li, Yida; Li, Yiyang; Chen, Yikang | [arXiv:2405.08380](https://arxiv.org/abs/2405.08380) - [DOI](https://doi.org/10.48550/arXiv.2405.08380) |
