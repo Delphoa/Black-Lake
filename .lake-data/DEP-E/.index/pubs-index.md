@@ -5090,3 +5090,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Theoretical Analysis of Impact of Delayed Updates on Decentralized Federated Learning* | Zeng, Yong; Liu, Siyuan; Xu, Zhiwei; Tian, Jie | [arXiv:2311.01229](https://arxiv.org/abs/2311.01229) - [DOI](https://doi.org/10.48550/arXiv.2311.01229) |
+
+
+## [DEP-E-20260819-Backpropagation Path](../DEP-E-20260819-Backpropagation%20Path/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Backpropagation Path Search On Adversarial Transferability* | Xu, Zhuoer; Gu, Zhangxuan; Zhang, Jianping; Cui, Shiwen; Meng, Changhua; Wang, Weiqiang | [arXiv:2308.07625](https://arxiv.org/abs/2308.07625) - [DOI](https://doi.org/10.48550/arXiv.2308.07625) |
