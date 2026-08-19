@@ -11384,3 +11384,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs* | Jiaming Cheng; Subhransu Das; Rajiv Ramnath | [arXiv:2608.04893v1](https://arxiv.org/abs/2608.04893v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04893) |
+
+
+## [DEP-A-20260819-Fewer Tokens Smaller Cach](../DEP-A-20260819-Fewer%20Tokens%20Smaller%20Cach/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.04771-whitepaper-review.md`](../DEP-A-20260819-Fewer%20Tokens%20Smaller%20Cach/2608.04771-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning* | Qiyuan Zhu; Dezhi Li; Pengyu Cheng; Tianle Chen; Jiacheng Wang; Ruijie Shen; Hao Gu; Sida Lin; Zirui Liu; Jiacheng Liu; Sirui Han | [arXiv:2608.04771v1](https://arxiv.org/abs/2608.04771v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04771) |
