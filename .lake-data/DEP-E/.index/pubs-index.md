@@ -9472,3 +9472,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Structure Learning of Deep Networks via DNA Computing Algorithm* | Zhong, Guoqiang; Li, Tao; Liu, Wenxue; Chen, Yang | [arXiv:1810.10687](https://arxiv.org/abs/1810.10687) - [DOI](https://doi.org/10.48550/arXiv.1810.10687) |
+
+
+## [DEP-E-20260819-Low-Complexity Inference](../DEP-E-20260819-Low-Complexity%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer* | Liu, Zhenrong; Huttunen, Janne M. J.; Honkala, Mikko | [arXiv:2505.08327](https://arxiv.org/abs/2505.08327) - [DOI](https://doi.org/10.48550/arXiv.2505.08327) |
