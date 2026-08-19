@@ -5174,3 +5174,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Algorithmic Recourse in Abnormal Multivariate Time Series* | Han, Xiao; Zhang, Lu; Wu, Yongkai; Yuan, Shuhan | [arXiv:2309.16896](https://arxiv.org/abs/2309.16896) - [DOI](https://doi.org/10.48550/arXiv.2309.16896) |
+
+
+## [DEP-E-20260819-Hierarchical Planning](../DEP-E-20260819-Hierarchical%20Planning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Planning with Latent World Models* | Zhang, Wancong; Terver, Basile; Zholus, Artem; Chitnis, Soham; Sutaria, Harsh; Assran, Mido; Balestriero, Randall; Bar, Amir; Bardes, Adrien; LeCun, Yann; Ballas, Nicolas | [arXiv:2604.03208](https://arxiv.org/abs/2604.03208) - [DOI](https://doi.org/10.48550/arXiv.2604.03208) |
