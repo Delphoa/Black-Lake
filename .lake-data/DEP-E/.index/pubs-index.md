@@ -8107,3 +8107,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STGCN-LSTM for Olympic Medal Prediction: Dynamic Power Modeling and Causal Policy Optimization* | Wang, Yiquan; Wang, Jiaying; Huang, Tin-Yeh; Yang, Jingyi; Xu, Zihao | [arXiv:2501.17711](https://arxiv.org/abs/2501.17711) - [DOI](https://doi.org/10.48550/arXiv.2501.17711) |
+
+
+## [DEP-E-20260819-Adaptive 3D Gaussian](../DEP-E-20260819-Adaptive%203D%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation* | Gong, Han; Li, Qiyue; Li, Jie; Liu, Zhi | [arXiv:2507.14454](https://arxiv.org/abs/2507.14454) - [DOI](https://doi.org/10.48550/arXiv.2507.14454) |

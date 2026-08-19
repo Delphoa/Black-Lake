@@ -21000,6 +21000,29 @@
         "https://doi.org/10.48550/arXiv.2501.17711"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Adaptive 3D Gaussian",
+        ".logs/20260819-Arxiv-Adaptive-3D-Gaussian-Splatting-Video-Streaming-LOG.md",
+        ".reports/BL-Arxiv-Adaptive-3D-Gaussian-Splatting-Video-Streaming-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.14454",
+      "arxiv_id": "2507.14454",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2507.14454",
+      "normalized_title": "Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P183; draw 68986 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 3; focus exclusions 16; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adaptive-3D-Gaussian-Splatting-Video-Streaming",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.14454",
+        "https://arxiv.org/html/2507.14454",
+        "https://arxiv.org/pdf/2507.14454",
+        "https://doi.org/10.48550/arXiv.2507.14454"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
