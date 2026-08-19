@@ -8079,3 +8079,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Duan, Haocheng; Guo, Yuxin; Bi, Jieyi; Xie, Anqi; Li, Sirui; Ma, Yining; Wu, Cathy | [arXiv:2606.19741](https://arxiv.org/abs/2606.19741) - [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
+
+
+## [DEP-E-20260819-Coalitional Permutation](../DEP-E-20260819-Coalitional%20Permutation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Coalitional Permutation Manipulations in the Gale-Shapley Algorithm* | Shen, Weiran; Deng, Yuan; Tang, Pingzhong | [arXiv:1502.07823](https://arxiv.org/abs/1502.07823) - [DOI](https://doi.org/10.48550/arXiv.1502.07823) |

@@ -20908,6 +20908,29 @@
         "https://doi.org/10.48550/arXiv.2606.19741"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Coalitional Permutation",
+        ".logs/20260819-Arxiv-Coalitional-Permutation-Manipulations-in-the-LOG.md",
+        ".reports/BL-Arxiv-Coalitional-Permutation-Manipulations-in-the-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1502.07823",
+      "arxiv_id": "1502.07823",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1502.07823",
+      "normalized_title": "Coalitional Permutation Manipulations in the Gale-Shapley Algorithm",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P179; draw 149 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Coalitional-Permutation-Manipulations-in-the",
+      "source_urls": [
+        "https://arxiv.org/abs/1502.07823",
+        "https://arxiv.org/html/1502.07823",
+        "https://arxiv.org/pdf/1502.07823",
+        "https://doi.org/10.48550/arXiv.1502.07823"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
