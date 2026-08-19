@@ -9374,3 +9374,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel RFID Authentication Protocol Based on A Block-Order-Modulus Variable Matrix Encryption Algorithm* | Wang, Yan; Liu, Ruiqi; Gao, Tong; Shu, Feng; Lei, Xuemei; Wu, Yongpeng; Gui, Guan; Wang, Jiangzhou | [arXiv:2312.10593](https://arxiv.org/abs/2312.10593) - [DOI](https://doi.org/10.48550/arXiv.2312.10593) |
+
+
+## [DEP-E-20260819-A optimization framework](../DEP-E-20260819-A%20optimization%20framework/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A optimization framework for herbal prescription planning based on deep reinforcement learning* | Yang, Kuo; Yu, Zecong; Su, Xin; He, Xiong; Wang, Ning; Zheng, Qiguang; Yu, Feidie; Liu, Zhuang; Wen, Tiancai; Zhou, Xuezhong | [arXiv:2304.12828](https://arxiv.org/abs/2304.12828) - [DOI](https://doi.org/10.48550/arXiv.2304.12828) |
