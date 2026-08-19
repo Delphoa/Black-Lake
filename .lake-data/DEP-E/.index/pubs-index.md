@@ -7162,3 +7162,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distributed Clock Skew and Offset Estimation in Wireless Sensor Networks: Asynchronous Algorithm and Convergence Analysis* | Du, Jian; Wu, Yik-Chung | [arXiv:1607.03830](https://arxiv.org/abs/1607.03830) - [DOI](https://doi.org/10.48550/arXiv.1607.03830) |
+
+
+## [DEP-E-20260819-Decidability of Liveness](../DEP-E-20260819-Decidability%20of%20Liveness/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decidability of Liveness on the TSO Memory Model* | Wang, Chao; Petri, Gustavo; Lv, Yi; Long, Teng; Liu, Zhiming | [arXiv:2107.09930](https://arxiv.org/abs/2107.09930) - [DOI](https://doi.org/10.48550/arXiv.2107.09930) |
