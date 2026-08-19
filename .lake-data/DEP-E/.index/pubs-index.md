@@ -5545,3 +5545,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking* | Yan, Shen; Fang, Biyi; Zhang, Faen; Zheng, Yu; Zeng, Xiao; Xu, Hui; Zhang, Mi | [arXiv:1909.00122](https://arxiv.org/abs/1909.00122) - [DOI](https://doi.org/10.48550/arXiv.1909.00122) |
+
+
+## [DEP-E-20260819-Continuous Gaussian](../DEP-E-20260819-Continuous%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry* | Wang, Zhixiang; Li, Xudong; Zhang, Yizhai; Zhang, Fan; Huang, Panfeng | [arXiv:2412.08909](https://arxiv.org/abs/2412.08909) - [DOI](https://doi.org/10.1109/LRA.2025.3632120) |
