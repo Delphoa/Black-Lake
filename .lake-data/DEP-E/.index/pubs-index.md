@@ -4929,3 +4929,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography* | Yang, Bowen; Cheng, Jie; Xue, Bohuan; Jiao, Jianhao; Liu, Ming | [arXiv:2403.07631](https://arxiv.org/abs/2403.07631) - [DOI](https://doi.org/10.48550/arXiv.2403.07631) |
+
+
+## [DEP-E-20260819-Semi-parametric Memory](../DEP-E-20260819-Semi-parametric%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning* | Liu, Geng; Zhu, Fei; Feng, Rong; Yi, Zhiqiang; Wang, Shiqi; Meng, Gaofeng; Zhang, Zhaoxiang | [arXiv:2504.14727](https://arxiv.org/abs/2504.14727) - [DOI](https://doi.org/10.48550/arXiv.2504.14727) |
