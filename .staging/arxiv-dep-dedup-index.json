@@ -18953,6 +18953,29 @@
         "https://doi.org/10.48550/arXiv.2510.01591"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Temporal Sentence",
+        ".logs/20260819-Arxiv-Temporal-Sentence-Grounding-in-Streaming-Videos-LOG.md",
+        ".reports/BL-Arxiv-Temporal-Sentence-Grounding-in-Streaming-Videos-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.07102",
+      "arxiv_id": "2308.07102",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3581783.3612120",
+      "normalized_title": "Temporal Sentence Grounding in Streaming Videos",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P94; draw 23148 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Temporal-Sentence-Grounding-in-Streaming-Videos",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.07102",
+        "https://arxiv.org/html/2308.07102",
+        "https://arxiv.org/pdf/2308.07102",
+        "https://doi.org/10.1145/3581783.3612120"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
