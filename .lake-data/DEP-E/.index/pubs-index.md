@@ -9682,3 +9682,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing the Cross-Size Generalization for Solving Vehicle Routing Problems via Continual Learning* | Li, Jingwen; Cao, Zhiguang; Wu, Yaoxin; Liu, Tang | [arXiv:2510.10262](https://arxiv.org/abs/2510.10262) - [DOI](https://doi.org/10.48550/arXiv.2510.10262) |
+
+
+## [DEP-E-20260819-Just Say What You Want](../DEP-E-20260819-Just%20Say%20What%20You%20Want/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Just Say What You Want: Only-prompting Self-rewarding Online Preference Optimization* | Xu, Ruijie; Liu, Zhihan; Liu, Yongfei; Yan, Shipeng; Wang, Zhaoran; Zhang, Zhi; He, Xuming | [arXiv:2409.17534](https://arxiv.org/abs/2409.17534) - [DOI](https://doi.org/10.48550/arXiv.2409.17534) |
