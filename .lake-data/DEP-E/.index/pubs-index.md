@@ -8632,3 +8632,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MambaMap: Online Vectorized HD Map Construction using State Space Model* | Yang, Ruizi; Liu, Xiaolu; Chen, Junbo; Zhu, Jianke | [arXiv:2507.20224](https://arxiv.org/abs/2507.20224) - [DOI](https://doi.org/10.48550/arXiv.2507.20224) |
+
+
+## [DEP-E-20260819-R-KV Redundancy-aware KV](../DEP-E-20260819-R-KV%20Redundancy-aware%20KV/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *R-KV: Redundancy-aware KV Cache Compression for Reasoning Models* | Cai, Zefan; Xiao, Wen; Sun, Hanshi; Luo, Cheng; Zhang, Yikai; Wan, Ke; Li, Yucheng; Zhou, Yeyang; Chang, Li-Wen; Gu, Jiuxiang; Dong, Zhen; Anandkumar, Anima; Asi, Abedelkadir; Hu, Junjie | [arXiv:2505.24133](https://arxiv.org/abs/2505.24133) - [DOI](https://doi.org/10.48550/arXiv.2505.24133) |

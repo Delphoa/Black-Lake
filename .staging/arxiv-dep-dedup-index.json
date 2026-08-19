@@ -22725,6 +22725,29 @@
         "https://doi.org/10.48550/arXiv.2507.20224"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-R-KV Redundancy-aware KV",
+        ".logs/20260819-Arxiv-R-KV-Redundancy-aware-KV-Cache-Compression-LOG.md",
+        ".reports/BL-Arxiv-R-KV-Redundancy-aware-KV-Cache-Compression-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.24133",
+      "arxiv_id": "2505.24133",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.24133",
+      "normalized_title": "R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P258; draw 4045 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 2; focus exclusions 7; reselections 9; complete-source gate passed; all source files withheld locally.",
+      "slug": "R-KV-Redundancy-aware-KV-Cache-Compression",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.24133",
+        "https://arxiv.org/html/2505.24133",
+        "https://arxiv.org/pdf/2505.24133",
+        "https://doi.org/10.48550/arXiv.2505.24133"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
