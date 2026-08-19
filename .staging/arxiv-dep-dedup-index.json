@@ -27900,6 +27900,29 @@
         "https://doi.org/10.48550/arXiv.2502.07536"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DH-RAG A Dynamic",
+        ".logs/20260819-Arxiv-DH-RAG-A-Dynamic-Historical-Context-Powered-LOG.md",
+        ".reports/BL-Arxiv-DH-RAG-A-Dynamic-Historical-Context-Powered-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.13847",
+      "arxiv_id": "2502.13847",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2502.13847",
+      "normalized_title": "DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P483; draw 9065 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "DH-RAG-A-Dynamic-Historical-Context-Powered",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.13847",
+        "https://arxiv.org/html/2502.13847",
+        "https://arxiv.org/pdf/2502.13847",
+        "https://doi.org/10.48550/arXiv.2502.13847"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

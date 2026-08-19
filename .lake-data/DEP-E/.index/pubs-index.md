@@ -10207,3 +10207,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Iterative Algorithm for Qubit Mapping via Layer-Weight Assignment and Search Space Reduction* | Xu, Kang; Li, Zeyang; Liu, Xinjian; Li, Dandan; Wang, Yukun | [arXiv:2502.07536](https://arxiv.org/abs/2502.07536) - [DOI](https://doi.org/10.48550/arXiv.2502.07536) |
+
+
+## [DEP-E-20260819-DH-RAG A Dynamic](../DEP-E-20260819-DH-RAG%20A%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue* | Zhang, Feiyuan; Zhu, Dezhi; Ming, James; Jin, Yilun; Chai, Di; Yang, Liu; Tian, Han; Fan, Zhaoxin; Chen, Kai | [arXiv:2502.13847](https://arxiv.org/abs/2502.13847) - [DOI](https://doi.org/10.48550/arXiv.2502.13847) |
