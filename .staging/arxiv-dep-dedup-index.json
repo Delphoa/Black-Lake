@@ -26428,6 +26428,29 @@
         "https://doi.org/10.48550/arXiv.2605.10663"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Towards Understanding",
+        ".logs/20260819-Arxiv-Towards-Understanding-Acceleration-Tradeoff-LOG.md",
+        ".reports/BL-Arxiv-Towards-Understanding-Acceleration-Tradeoff-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1806.01660",
+      "arxiv_id": "1806.01660",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1806.01660",
+      "normalized_title": "Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P419; draw 10754 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 4; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Towards-Understanding-Acceleration-Tradeoff",
+      "source_urls": [
+        "https://arxiv.org/abs/1806.01660",
+        "https://arxiv.org/html/1806.01660",
+        "https://arxiv.org/pdf/1806.01660",
+        "https://doi.org/10.48550/arXiv.1806.01660"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

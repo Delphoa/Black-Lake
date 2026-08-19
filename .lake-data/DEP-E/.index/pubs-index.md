@@ -9759,3 +9759,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability within Agents* | Fan, Zhiyuan; Jin, Wenwei; Zhang, Feng; Li, Bin; Dong, Yihong; Hu, Yao; Li, Jiawei | [arXiv:2605.10663](https://arxiv.org/abs/2605.10663) - [DOI](https://doi.org/10.48550/arXiv.2605.10663) |
+
+
+## [DEP-E-20260819-Towards Understanding](../DEP-E-20260819-Towards%20Understanding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization* | Liu, Tianyi; Li, Shiyang; Shi, Jianping; Zhou, Enlu; Zhao, Tuo | [arXiv:1806.01660](https://arxiv.org/abs/1806.01660) - [DOI](https://doi.org/10.48550/arXiv.1806.01660) |
