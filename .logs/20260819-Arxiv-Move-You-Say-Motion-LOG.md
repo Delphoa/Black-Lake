@@ -53,4 +53,4 @@ The paper presents a two-stage scene-affordance pipeline: an Affordance Map Diff
 
 ## Status
 
-Research artifacts are drafted from verified local source material and public references. The phase log records cache and integrity metrics; repository submission and channel notification are tracked by the automation run.
+Research artifacts were drafted from verified local source material and public references, then committed and pushed to [Delphoa/Black-Lake](https://github.com/Delphoa/Black-Lake/commit/d82a3ab6). The phase log records cache and integrity metrics. The completion notice was sent to [#black-lake-artifacts](https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1787121173070219).
