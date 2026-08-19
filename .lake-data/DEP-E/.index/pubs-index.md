@@ -6735,3 +6735,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Dual-mode Local Search Algorithm for Solving the Minimum Dominating Set Problem* | Zhu, Enqiang; Zhang, Yu; Wang, Shengzhi; Strash, Darren; Liu, Chanjuan | [arXiv:2307.16815](https://arxiv.org/abs/2307.16815) - [DOI](https://doi.org/10.48550/arXiv.2307.16815) |
+
+
+## [DEP-E-20260819-Hydra-MDP End-to-end](../DEP-E-20260819-Hydra-MDP%20End-to-end/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation* | Li, Zhenxin; Li, Kailin; Wang, Shihao; Lan, Shiyi; Yu, Zhiding; Ji, Yishen; Li, Zhiqi; Zhu, Ziyue; Kautz, Jan; Wu, Zuxuan; Jiang, Yu-Gang; Alvarez, Jose M. | [arXiv:2406.06978](https://arxiv.org/abs/2406.06978) - [DOI](https://doi.org/10.48550/arXiv.2406.06978) |
