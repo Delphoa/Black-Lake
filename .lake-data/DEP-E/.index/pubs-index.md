@@ -8793,3 +8793,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Differentiable Solver Search for Fast Diffusion Sampling* | Wang, Shuai; Li, Zexian; zhang, Qipeng; Song, Tianhui; Li, Xubin; Ge, Tiezheng; Zheng, Bo; Wang, Limin | [arXiv:2505.21114](https://arxiv.org/abs/2505.21114) - [DOI](https://doi.org/10.48550/arXiv.2505.21114) |
+
+
+## [DEP-E-20260819-A density peaks](../DEP-E-20260819-A%20density%20peaks/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A density peaks clustering algorithm with sparse search and K-d tree* | Shan, Yunxiao; Li, Shu; Li, Fuxiang; Cui, Yuxin; Li, Shuai; Zhou, Ming; Li, Xiang | [arXiv:2203.00973](https://arxiv.org/abs/2203.00973) - [DOI](https://doi.org/10.1109/ACCESS.2022.3190958) |

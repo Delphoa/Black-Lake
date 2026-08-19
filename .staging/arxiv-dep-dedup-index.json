@@ -23254,6 +23254,29 @@
         "https://doi.org/10.48550/arXiv.2505.21114"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A density peaks",
+        ".logs/20260819-Arxiv-A-density-peaks-clustering-algorithm-with-sparse-LOG.md",
+        ".reports/BL-Arxiv-A-density-peaks-clustering-algorithm-with-sparse-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2203.00973",
+      "arxiv_id": "2203.00973",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/ACCESS.2022.3190958",
+      "normalized_title": "A density peaks clustering algorithm with sparse search and K-d tree",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P281; draw 30078 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 18; reselections 21; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-density-peaks-clustering-algorithm-with-sparse",
+      "source_urls": [
+        "https://arxiv.org/abs/2203.00973",
+        "https://arxiv.org/html/2203.00973",
+        "https://arxiv.org/pdf/2203.00973",
+        "https://doi.org/10.1109/ACCESS.2022.3190958"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
