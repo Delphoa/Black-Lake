@@ -11825,3 +11825,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering* | Hieu Man; Thien Huu Nguyen | [arXiv:2607.23278v1](https://arxiv.org/abs/2607.23278v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23278) |
+
+
+## [DEP-A-20260819-What CLIP Knows but](../DEP-A-20260819-What%20CLIP%20Knows%20but/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23271-whitepaper-review.md`](../DEP-A-20260819-What%20CLIP%20Knows%20but/2607.23271-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features* | Chen-Yi Lu; Yueh-Shao Chen; Somali Chaterji | [arXiv:2607.23271v1](https://arxiv.org/abs/2607.23271v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23271) |
