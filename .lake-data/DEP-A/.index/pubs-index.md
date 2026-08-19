@@ -11141,3 +11141,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Vision Becomes Text: Visual Token Pruning via Cross-Modal Residual Guidance in VLMs* | Congyang Ou; Ruike Song; Yang Zhou; Libo Sun; Haokui Zhang; Zhenbo Luo | [arXiv:2608.10489v1](https://arxiv.org/abs/2608.10489v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10489) |
+
+
+## [DEP-A-20260819-TideRL Boosting Agentic R](../DEP-A-20260819-TideRL%20Boosting%20Agentic%20R/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.10402-whitepaper-review.md`](../DEP-A-20260819-TideRL%20Boosting%20Agentic%20R/2608.10402-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling* | Yanyu Ren; Xizheng Wang; Xiao Liu; Bowen Lv; Hanchen Zhang; Shudan Zhang; Hanyu Lai; Shuai Wang; Li Chen; Dan Li; Jie Tang | [arXiv:2608.10402v1](https://arxiv.org/abs/2608.10402v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10402) |
