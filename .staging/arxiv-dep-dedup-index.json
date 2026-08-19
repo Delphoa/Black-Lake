@@ -24473,6 +24473,29 @@
         "https://doi.org/10.48550/arXiv.2502.14146"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-UAV s Rotor Micro-Doppler",
+        ".logs/20260819-Arxiv-UAV-s-Rotor-Micro-Doppler-Feature-Extraction-LOG.md",
+        ".reports/BL-Arxiv-UAV-s-Rotor-Micro-Doppler-Feature-Extraction-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2408.16415",
+      "arxiv_id": "2408.16415",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/TWC.2025.3578033",
+      "normalized_title": "UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P334; draw 74399 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "UAV-s-Rotor-Micro-Doppler-Feature-Extraction",
+      "source_urls": [
+        "https://arxiv.org/abs/2408.16415",
+        "https://arxiv.org/html/2408.16415",
+        "https://arxiv.org/pdf/2408.16415",
+        "https://doi.org/10.1109/TWC.2025.3578033"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

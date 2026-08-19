@@ -9164,3 +9164,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient and Optimal Policy Gradient Algorithm for Corrupted Multi-armed Bandits* | Liu, Jiayuan; Wang, Siwei; Fang, Zhixuan | [arXiv:2502.14146](https://arxiv.org/abs/2502.14146) - [DOI](https://doi.org/10.48550/arXiv.2502.14146) |
+
+
+## [DEP-E-20260819-UAV s Rotor Micro-Doppler](../DEP-E-20260819-UAV%20s%20Rotor%20Micro-Doppler/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation* | Wei, Jiachen; Ma, Dingyou; He, Feiyang; Zhang, Qixun; Feng, Zhiyong; Liu, Zhengfeng; Liang, Taohong | [arXiv:2408.16415](https://arxiv.org/abs/2408.16415) - [DOI](https://doi.org/10.1109/TWC.2025.3578033) |
