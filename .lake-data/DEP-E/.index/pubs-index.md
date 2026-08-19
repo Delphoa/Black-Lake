@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1017 publication reviews across 663 DEP-E entries**.
+- Current coverage: **1018 publication reviews across 664 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-Wasted-large-langu-4E0E](../DEP-E-20260820-Wasted-large-langu-4E0E/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Wasted large language models: A life cycle thinking approach* | Erik Johannes Husom; Maria Emine Nylund; Ophelia Prillard | [arXiv:2608.17055](https://arxiv.org/abs/2608.17055) | [DEP-E](../DEP-E-20260820-Wasted-large-langu-4E0E/README.md) |
 
 ## [DEP-E-20260820-One-Residual-with-0EFC](../DEP-E-20260820-One-Residual-with-0EFC/README.md)
 
