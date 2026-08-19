@@ -4623,6 +4623,14 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 |---|---|---|
 | *Linear Attention Modeling for Learned Image Compression* | Donghui Feng; Zhengxue Cheng; Shen Wang; Ronghua Wu; Hongwei Hu; Guo Lu; Li Song | [arXiv:2502.05741v2](https://arxiv.org/abs/2502.05741v2) - [DOI](https://doi.org/10.48550/arXiv.2502.05741) |
 
+## [DEP-E-20260819-Fast ML Science](../DEP-E-20260819-Fast%20ML%20Science/README.md)
+
+Review status: complete PDF and full-paper HTML were verified privately; public source files were withheld. The owning manuscript is [`fast_ml_science_manuscript.md`](../DEP-E-20260819-Fast%20ML%20Science/fast_ml_science_manuscript.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Applications and Techniques for Fast Machine Learning in Science* | Allison McCarn Deiana; Nhan Tran; Joshua Agar; *et al.* | [arXiv:2110.13041](https://arxiv.org/abs/2110.13041) - [DOI](https://doi.org/10.48550/arXiv.2110.13041) - [Journal DOI](https://doi.org/10.3389/fdata.2022.787421) |
+
 ## [DEP-E-20260819-Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md)
 
 Review status: initial source-first synthesis of the selected DEP and all ten primary papers. The owning manuscript is [`verifiable-state.md`](../DEP-E-20260819-Verifiable%20State/verifiable-state.md).
