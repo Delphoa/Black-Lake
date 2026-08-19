@@ -5734,3 +5734,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Near-Tight Approximation Algorithms for Bottleneck Multiple Knapsack Problems* | Chen, Lin; Hu, Tingwei; Mao, Yuchen; Chen, Yong; Mei, Lili; Zhang, An; Chen, Guangting; Zhang, Guochuan | [arXiv:2605.05233](https://arxiv.org/abs/2605.05233) - [DOI](https://doi.org/10.48550/arXiv.2605.05233) |
+
+
+## [DEP-E-20260819-Construction and](../DEP-E-20260819-Construction%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Construction and optimization of health behavior prediction model for the elderly in smart elderly care* | Guo, Qian; Chen, Peiyuan | [arXiv:2412.02062](https://arxiv.org/abs/2412.02062) - [DOI](https://doi.org/10.48550/arXiv.2412.02062) |
