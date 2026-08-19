@@ -4985,3 +4985,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization* | Zhang, Ziran; Ma, Yongrui; Chen, Yueting; Zhang, Feng; Gu, Jinwei; Xue, Tianfan; Guo, Shi | [arXiv:2406.08090](https://arxiv.org/abs/2406.08090) - [DOI](https://doi.org/10.1145/3680528.3687649) |
+
+
+## [DEP-E-20260819-Rule Optimization for](../DEP-E-20260819-Rule%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rule Optimization for Real-Time Query Service in Software-Defined Internet of Vehicles* | Wang, Xin; Wang, Cheng; Jiang, Changjun; Yang, Lei; Li, Zhong; Zhou, Xiaobo | [arXiv:1503.05646](https://arxiv.org/abs/1503.05646) - [DOI](https://doi.org/10.48550/arXiv.1503.05646) |

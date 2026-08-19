@@ -10742,6 +10742,29 @@
         "https://doi.org/10.1145/3680528.3687649"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Rule Optimization for",
+        ".logs/20260819-Arxiv-Rule-Optimization-for-Real-Time-Query-Service-LOG.md",
+        ".reports/BL-Arxiv-Rule-Optimization-for-Real-Time-Query-Service-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1503.05646",
+      "arxiv_id": "1503.05646",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1503.05646",
+      "normalized_title": "Rule Optimization for Real-Time Query Service in Software-Defined Internet of Vehicles",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P37; draw 32402 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 8; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rule-Optimization-for-Real-Time-Query-Service",
+      "source_urls": [
+        "https://arxiv.org/abs/1503.05646",
+        "https://arxiv.org/html/1503.05646",
+        "https://arxiv.org/pdf/1503.05646",
+        "https://doi.org/10.48550/arXiv.1503.05646"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
