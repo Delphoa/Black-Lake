@@ -4887,3 +4887,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fluid Antenna Index Modulation for MIMO Systems: Robust Transmission and Low-Complexity Detection* | Guo, Xinghao; Xu, Yin; He, Dazhi; Zhang, Cixiao; Hong, Hanjiang; Wong, Kai-Kit; Zhang, Wenjun; Wu, Yiyan | [arXiv:2412.04877](https://arxiv.org/abs/2412.04877) - [DOI](https://doi.org/10.48550/arXiv.2412.04877) |
+
+
+## [DEP-E-20260819-TDR Task-Decoupled](../DEP-E-20260819-TDR%20Task-Decoupled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TDR: Task-Decoupled Retrieval with Fine-Grained LLM Feedback for In-Context Learning* | Chen, Yifu; Huang, Bingchen; Wang, Zhiling; Du, Yuanchao; Luo, Junfeng; Shen, Lei; chen, Zhineng | [arXiv:2507.18340](https://arxiv.org/abs/2507.18340) - [DOI](https://doi.org/10.48550/arXiv.2507.18340) |
