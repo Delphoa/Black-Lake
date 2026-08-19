@@ -10193,3 +10193,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization* | Liu, Guangyi; Zhao, Pengxiang; Wu, Gao; Yin, Yiwen; Li, Mading; Liu, Liang; Liu, Congxiao; Qi, Zhang; Wang, Mengyan; Guo, Liang; Zhang, Jiangning; Liu, Yong | [arXiv:2606.19930](https://arxiv.org/abs/2606.19930) - [DOI](https://doi.org/10.48550/arXiv.2606.19930) |
+
+
+## [DEP-E-20260819-Efficient Heuristics](../DEP-E-20260819-Efficient%20Heuristics/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models* | Wu, Xuan; Wang, Di; Wu, Chunguo; Wen, Lijie; Miao, Chunyan; Xiao, Yubin; Zhou, You | [arXiv:2505.12627](https://arxiv.org/abs/2505.12627) - [DOI](https://doi.org/10.48550/arXiv.2505.12627) |

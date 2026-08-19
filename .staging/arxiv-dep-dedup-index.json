@@ -27854,6 +27854,29 @@
         "https://doi.org/10.48550/arXiv.2606.19930"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Efficient Heuristics",
+        ".logs/20260819-Arxiv-Efficient-Heuristics-Generation-for-Solving-LOG.md",
+        ".reports/BL-Arxiv-Efficient-Heuristics-Generation-for-Solving-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.12627",
+      "arxiv_id": "2505.12627",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.12627",
+      "normalized_title": "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P481; draw 33375 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 19; reselections 24; complete-source gate passed; all source files withheld locally.",
+      "slug": "Efficient-Heuristics-Generation-for-Solving",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.12627",
+        "https://arxiv.org/html/2505.12627",
+        "https://arxiv.org/pdf/2505.12627",
+        "https://doi.org/10.48550/arXiv.2505.12627"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
