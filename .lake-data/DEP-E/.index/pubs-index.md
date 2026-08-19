@@ -6413,3 +6413,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Federated Split Learning for Resource-Constrained Robots in Industrial IoT: Framework Comparison, Optimization Strategies, and Future Directions* | Ni, Wanli; Tian, Hui; Wang, Shuai; Li, Chengyang; Sun, Lei; Yang, Zhaohui | [arXiv:2510.05713](https://arxiv.org/abs/2510.05713) - [DOI](https://doi.org/10.48550/arXiv.2510.05713) |
+
+
+## [DEP-E-20260819-AR-Med Automated](../DEP-E-20260819-AR-Med%20Automated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation* | Wang, Chuyue; Feng, Jie; Wu, Yuxi; Zhang, Hang; Fan, Zhiguo; Cheng, Bing; Lin, Wei | [arXiv:2512.03737](https://arxiv.org/abs/2512.03737) - [DOI](https://doi.org/10.48550/arXiv.2512.03737) |
