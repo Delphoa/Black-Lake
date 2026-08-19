@@ -8828,3 +8828,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation* | Wang, Wenjia; Pan, Liang; Dou, Zhiyang; Mei, Jidong; Liao, Zhouyingcheng; Lou, Yuke; Wu, Yifan; Yang, Lei; Wang, Jingbo; Komura, Taku | [arXiv:2411.19921](https://arxiv.org/abs/2411.19921) - [DOI](https://doi.org/10.48550/arXiv.2411.19921) |
+
+
+## [DEP-E-20260819-Efficient Competitive](../DEP-E-20260819-Efficient%20Competitive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Competitive Self-Play Policy Optimization* | Zhong, Yuanyi; Zhou, Yuan; Peng, Jian | [arXiv:2009.06086](https://arxiv.org/abs/2009.06086) - [DOI](https://doi.org/10.48550/arXiv.2009.06086) |

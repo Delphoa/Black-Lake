@@ -23369,6 +23369,29 @@
         "https://doi.org/10.48550/arXiv.2411.19921"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Efficient Competitive",
+        ".logs/20260819-Arxiv-Efficient-Competitive-Self-Play-Policy-LOG.md",
+        ".reports/BL-Arxiv-Efficient-Competitive-Self-Play-Policy-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.06086",
+      "arxiv_id": "2009.06086",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2009.06086",
+      "normalized_title": "Efficient Competitive Self-Play Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P286; draw 8631 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 10; reselections 11; complete-source gate passed; all source files withheld locally.",
+      "slug": "Efficient-Competitive-Self-Play-Policy",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.06086",
+        "https://arxiv.org/html/2009.06086",
+        "https://arxiv.org/pdf/2009.06086",
+        "https://doi.org/10.48550/arXiv.2009.06086"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
