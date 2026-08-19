@@ -10790,3 +10790,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding* | Hanshu Yao; Janfeng Zhong; Niu Lian; Jinpeng Wang | [arXiv:2608.07067v1](https://arxiv.org/abs/2608.07067v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07067) |
+
+
+## [DEP-A-20260819-Agent Memory Distillation](../DEP-A-20260819-Agent%20Memory%20Distillation/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07169-whitepaper-review.md`](../DEP-A-20260819-Agent%20Memory%20Distillation/2608.07169-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory* | Taeil Kim; Kangsan Kim; Sung Ju Hwang | [arXiv:2608.07169v1](https://arxiv.org/abs/2608.07169v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07169) |
