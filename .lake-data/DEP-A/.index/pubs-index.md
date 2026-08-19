@@ -11033,3 +11033,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAGE: SLO-Aware Adaptive Retrieval for Production RAG Systems* | Muhammad Faizan Raza; Shuo; Yang; Satish Mahadevan Srinivasan | [arXiv:2608.08237v1](https://arxiv.org/abs/2608.08237v1) - [DOI](https://doi.org/10.1109/CoDIT70676.2026.11631166) |
+
+
+## [DEP-A-20260819-PushDualGen Enabling LLMs](../DEP-A-20260819-PushDualGen%20Enabling%20LLMs/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07989-whitepaper-review.md`](../DEP-A-20260819-PushDualGen%20Enabling%20LLMs/2608.07989-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation* | Manjia Lin; Da Li; Yan Wang; Yong Jin; Zheming Ding; Wei Yuan; Lei Yan; Yanan Xia; Lu Zhang; Fan Yang; Xuanping Li; Yanan Niu | [arXiv:2608.07989v1](https://arxiv.org/abs/2608.07989v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07989) |
