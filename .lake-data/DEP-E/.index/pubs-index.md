@@ -5363,3 +5363,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scaling Multilingual Semantic Search in Uber Eats Delivery* | Ling, Bo; Liu, Zheng; Chen, Haoyang; Nagar, Divya; Yang, Luting; Parsana, Mehul | [arXiv:2603.06586](https://arxiv.org/abs/2603.06586) - [DOI](https://doi.org/10.48550/arXiv.2603.06586) |
+
+
+## [DEP-E-20260819-Gen-NeRF Efficient and](../DEP-E-20260819-Gen-NeRF%20Efficient%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design* | Fu, Yonggan; Ye, Zhifan; Yuan, Jiayi; Zhang, Shunyao; Li, Sixu; You, Haoran; Lin, Yingyan Celine | [arXiv:2304.11842](https://arxiv.org/abs/2304.11842) - [DOI](https://doi.org/10.48550/arXiv.2304.11842) |
