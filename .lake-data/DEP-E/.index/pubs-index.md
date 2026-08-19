@@ -8492,3 +8492,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps* | Bei, Xiaohui; Feng, Yuda; Hu, Yang; Li, Shi; Zhang, Ruilong | [arXiv:2504.09669](https://arxiv.org/abs/2504.09669) - [DOI](https://doi.org/10.48550/arXiv.2504.09669) |
+
+
+## [DEP-E-20260819-Learning to Encode](../DEP-E-20260819-Learning%20to%20Encode/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning to Encode Position for Transformer with Continuous Dynamical Model* | Liu, Xuanqing; Yu, Hsiang-Fu; Dhillon, Inderjit; Hsieh, Cho-Jui | [arXiv:2003.09229](https://arxiv.org/abs/2003.09229) - [DOI](https://doi.org/10.48550/arXiv.2003.09229) |
