@@ -8394,3 +8394,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization* | Wu, Dongli; Hu, Jingyu; Hui, Ka-Hei; Wei, Xiaobao; Luo, Chengwen; Li, Jianqiang; Liu, Zhengzhe | [arXiv:2604.10125](https://arxiv.org/abs/2604.10125) - [DOI](https://doi.org/10.48550/arXiv.2604.10125) |
+
+
+## [DEP-E-20260819-Strategy-Aware](../DEP-E-20260819-Strategy-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Strategy-Aware Optimization Modeling with Reasoning LLMs* | Zhao, Ruiqing; Li, Fengzhi; Zuo, Yuan; Liu, Rui; Liu, Yansong; Ma, Yunfei; Meng, Fanyu; Feng, Junlan | [arXiv:2605.02545](https://arxiv.org/abs/2605.02545) - [DOI](https://doi.org/10.48550/arXiv.2605.02545) |
