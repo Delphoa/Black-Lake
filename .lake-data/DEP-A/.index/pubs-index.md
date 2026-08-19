@@ -10862,3 +10862,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?* | Jiankun Wang; Yisen Gao; Ziwei Zhang; Xingcheng Fu; Jiaxin Bai; Chen Gao | [arXiv:2608.07006v1](https://arxiv.org/abs/2608.07006v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07006) |
+
+
+## [DEP-A-20260819-Explicit Not Longer What](../DEP-A-20260819-Explicit%20Not%20Longer%20What/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06953-whitepaper-review.md`](../DEP-A-20260819-Explicit%20Not%20Longer%20What/2608.06953-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Explicit, Not Longer: What Makes Epistemic Stance Survive Memory Compression* | Alex Kwon | [arXiv:2608.06953v1](https://arxiv.org/abs/2608.06953v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06953) |
