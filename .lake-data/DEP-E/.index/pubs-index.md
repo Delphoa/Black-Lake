@@ -7729,3 +7729,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization* | Duan, Shaohua; Huang, Pengcheng; Li, Xinze; Liu, Zhenghao; Yi, Xiaoyuan; Yan, Yukun; Wang, Shuo; Gu, Yu; Yu, Ge; Sun, Maosong | [arXiv:2508.13993](https://arxiv.org/abs/2508.13993) - [DOI](https://doi.org/10.48550/arXiv.2508.13993) |
+
+
+## [DEP-E-20260819-Improving API](../DEP-E-20260819-Improving%20API/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving API Documentation Comprehensibility via Continuous Optimization and Multilingual SDK* | Wang, Shujun; Tian, Yongqiang; He, Dengcheng | [arXiv:2303.13828](https://arxiv.org/abs/2303.13828) - [DOI](https://doi.org/10.48550/arXiv.2303.13828) |
