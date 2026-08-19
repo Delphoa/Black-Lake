@@ -4859,3 +4859,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Farthest Greedy Path Sampling for Two-shot Recommender Search* | Cao, Yufan; Zhang, Tunhou; Wen, Wei; Yan, Feng; Li, Hai; Chen, Yiran | [arXiv:2310.20705](https://arxiv.org/abs/2310.20705) - [DOI](https://doi.org/10.48550/arXiv.2310.20705) |
+
+
+## [DEP-E-20260819-PlanGPT Enhancing Urban](../DEP-E-20260819-PlanGPT%20Enhancing%20Urban/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval* | Zhu, He; Zhang, Wenjia; Huang, Nuoxian; Li, Boyang; Niu, Luyao; Fan, Zipei; Lun, Tianle; Tao, Yicheng; Su, Junyou; Gong, Zhaoya; Fang, Chenyu; Liu, Xing | [arXiv:2402.19273](https://arxiv.org/abs/2402.19273) - [DOI](https://doi.org/10.48550/arXiv.2402.19273) |

@@ -10328,6 +10328,29 @@
         "https://doi.org/10.48550/arXiv.2310.20705"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-PlanGPT Enhancing Urban",
+        ".logs/20260819-Arxiv-PlanGPT-Enhancing-Urban-Planning-with-Tailored-LOG.md",
+        ".reports/BL-Arxiv-PlanGPT-Enhancing-Urban-Planning-with-Tailored-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2402.19273",
+      "arxiv_id": "2402.19273",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2402.19273",
+      "normalized_title": "PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P19; draw 3092 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory, algorithmic research; duplicate exclusions 0; focus exclusions 28; reselections 28; complete-source gate passed; all source files withheld locally.",
+      "slug": "PlanGPT-Enhancing-Urban-Planning-with-Tailored",
+      "source_urls": [
+        "https://arxiv.org/abs/2402.19273",
+        "https://arxiv.org/html/2402.19273",
+        "https://arxiv.org/pdf/2402.19273",
+        "https://doi.org/10.48550/arXiv.2402.19273"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
