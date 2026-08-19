@@ -7246,3 +7246,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Difficulty-Estimated Policy Optimization* | Zhao, Yu; Jiang, Fan; Liu, Tianle; Zeng, Bo; Liu, Yu; Wang, Longyue; Luo, Weihua | [arXiv:2602.06375](https://arxiv.org/abs/2602.06375) - [DOI](https://doi.org/10.48550/arXiv.2602.06375) |
+
+
+## [DEP-E-20260819-Vulseye Detect Smart](../DEP-E-20260819-Vulseye%20Detect%20Smart/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing* | Liang, Ruichao; Chen, Jing; Wu, Cong; He, Kun; Wu, Yueming; Cao, Ruochen; Du, Ruiying; Liu, Yang; Zhao, Ziming | [arXiv:2408.10116](https://arxiv.org/abs/2408.10116) - [DOI](https://doi.org/10.48550/arXiv.2408.10116) |
