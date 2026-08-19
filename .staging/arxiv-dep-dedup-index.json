@@ -28176,6 +28176,29 @@
         "https://doi.org/10.48550/arXiv.2606.16489"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Think-in-Memory Recalling",
+        ".logs/20260819-Arxiv-Think-in-Memory-Recalling-and-Post-thinking-LOG.md",
+        ".reports/BL-Arxiv-Think-in-Memory-Recalling-and-Post-thinking-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2311.08719",
+      "arxiv_id": "2311.08719",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2311.08719",
+      "normalized_title": "Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P495; draw 28332 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 9; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "Think-in-Memory-Recalling-and-Post-thinking",
+      "source_urls": [
+        "https://arxiv.org/abs/2311.08719",
+        "https://arxiv.org/html/2311.08719",
+        "https://arxiv.org/pdf/2311.08719",
+        "https://doi.org/10.48550/arXiv.2311.08719"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

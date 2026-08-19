@@ -10291,3 +10291,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models* | Zhang, Shaowei; Cao, Jiahan; Zhou, Xunlan; Wan, Shenghua; Zhan, De-Chuan | [arXiv:2606.16489](https://arxiv.org/abs/2606.16489) - [DOI](https://doi.org/10.48550/arXiv.2606.16489) |
+
+
+## [DEP-E-20260819-Think-in-Memory Recalling](../DEP-E-20260819-Think-in-Memory%20Recalling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory* | Liu, Lei; Yang, Xiaoyan; Shen, Yue; Hu, Binbin; Zhang, Zhiqiang; Gu, Jinjie; Zhang, Guannan | [arXiv:2311.08719](https://arxiv.org/abs/2311.08719) - [DOI](https://doi.org/10.48550/arXiv.2311.08719) |
