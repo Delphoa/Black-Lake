@@ -11402,3 +11402,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Training-Free Hashing-Based Attention via Binary Principal Components* | Daohai Yu; Zhanpeng Zeng; Keyu Chen; Wenhao Li; Zhifeng Shen; Luxi Lin; Ruizhi Qiao; Xing Sun; Rongrong Ji | [arXiv:2608.04405v1](https://arxiv.org/abs/2608.04405v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04405) |
+
+
+## [DEP-A-20260819-Spend Bits Where Queries](../DEP-A-20260819-Spend%20Bits%20Where%20Queries/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.04074-whitepaper-review.md`](../DEP-A-20260819-Spend%20Bits%20Where%20Queries/2608.04074-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms* | Samuel Fernández-Menduiña; Amir Ziashahabi; Eduardo Pavez; Antonio Ortega; Salman Avestimehr | [arXiv:2608.04074v1](https://arxiv.org/abs/2608.04074v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04074) |
