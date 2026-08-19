@@ -9591,3 +9591,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimization-Inspired Cross-Attention Transformer for Compressive Sensing* | Song, Jiechong; Mou, Chong; Wang, Shiqi; Ma, Siwei; Zhang, Jian | [arXiv:2304.13986](https://arxiv.org/abs/2304.13986) - [DOI](https://doi.org/10.48550/arXiv.2304.13986) |
+
+
+## [DEP-E-20260819-Federated Quantum Long](../DEP-E-20260819-Federated%20Quantum%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Quantum Long Short-term Memory (FedQLSTM)* | Chehimi, Mahdi; Chen, Samuel Yen-Chi; Saad, Walid; Yoo, Shinjae | [arXiv:2312.14309](https://arxiv.org/abs/2312.14309) - [DOI](https://doi.org/10.48550/arXiv.2312.14309) |
