@@ -11312,3 +11312,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs* | Yirui Liu; Ruoling Qi; Longwen Wang; Xuaner Wu; Jian Chen; Yuxin Jin; Jiawei Shao; Xuelong Li | [arXiv:2608.11231v1](https://arxiv.org/abs/2608.11231v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11231) |
+
+
+## [DEP-A-20260819-Detecting Route Flip Is](../DEP-A-20260819-Detecting%20Route%20Flip%20Is/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.11212-whitepaper-review.md`](../DEP-A-20260819-Detecting%20Route%20Flip%20Is/2608.11212-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts* | Parvel Gu | [arXiv:2608.11212v1](https://arxiv.org/abs/2608.11212v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11212) |
