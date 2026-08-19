@@ -7281,3 +7281,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalable Algorithm for Dynamic Quasi-clique Detection* | Chen, Jingbang; Li, Weinuo; Zhou, Yingli; Wu, Hao; Wang, Can; Fang, Yixiang; Ma, Chenhao | [arXiv:2605.26235](https://arxiv.org/abs/2605.26235) - [DOI](https://doi.org/10.48550/arXiv.2605.26235) |
+
+
+## [DEP-E-20260819-Scaling the Long Video](../DEP-E-20260819-Scaling%20the%20Long%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism* | Chen, Tao; Zhang, Kun; Wu, Qiong; Chen, Xiao; Chang, Chao; Sun, Xiaoshuai; Zhou, Yiyi; Ji, Rongrong | [arXiv:2603.29252](https://arxiv.org/abs/2603.29252) - [DOI](https://doi.org/10.48550/arXiv.2603.29252) |
