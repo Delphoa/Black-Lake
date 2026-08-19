@@ -10772,3 +10772,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Context Selection for Hypothesis and Statistical Evidence Extraction from Full-Text Scientific Articles* | Sai Koneru; Jian Wu; Sarah Rajtmajer | [arXiv:2603.21193v1](https://arxiv.org/abs/2603.21193v1) - [DOI](https://doi.org/10.48550/arXiv.2603.21193) |
+
+
+## [DEP-A-20260820-RKSC Reasoning Aware KV](../DEP-A-20260820-RKSC%20Reasoning%20Aware%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2606.09937-whitepaper-review.md`](../DEP-A-20260820-RKSC%20Reasoning%20Aware%20KV/2606.09937-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference* | Anirudh Sekar | [arXiv:2606.09937v1](https://arxiv.org/abs/2606.09937v1) - [DOI](https://doi.org/10.48550/arXiv.2606.09937) |
