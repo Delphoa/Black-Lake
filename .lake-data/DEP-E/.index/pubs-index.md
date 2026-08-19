@@ -7442,3 +7442,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Image Clustering Algorithm Based on Self-Supervised Pretrained Models and Latent Feature Distribution Optimization* | Zhu, Qiuyu; Hu, Liheng; Wang, Sijin | [arXiv:2408.01920](https://arxiv.org/abs/2408.01920) - [DOI](https://doi.org/10.48550/arXiv.2408.01920) |
+
+
+## [DEP-E-20260819-Projection-Volume](../DEP-E-20260819-Projection-Volume/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography* | Yuluo, Yikuang; Wang, Ao; Kuan, Shen; Liu, Yujie; Liao, Wang; Chen, Ying; Zhong, Shuangyang; Huang, Yixing; Wang, Fuquan | [arXiv:2606.22525](https://arxiv.org/abs/2606.22525) - [DOI](https://doi.org/10.48550/arXiv.2606.22525) |
