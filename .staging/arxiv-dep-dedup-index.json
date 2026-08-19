@@ -25761,6 +25761,29 @@
         "https://doi.org/10.48550/arXiv.1906.11402"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A General Neural Backbone",
+        ".logs/20260819-Arxiv-A-General-Neural-Backbone-for-Mixed-Integer-LOG.md",
+        ".reports/BL-Arxiv-A-General-Neural-Backbone-for-Mixed-Integer-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.04509",
+      "arxiv_id": "2601.04509",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2601.04509",
+      "normalized_title": "A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P390; draw 34504 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-General-Neural-Backbone-for-Mixed-Integer",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.04509",
+        "https://arxiv.org/html/2601.04509",
+        "https://arxiv.org/pdf/2601.04509",
+        "https://doi.org/10.48550/arXiv.2601.04509"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

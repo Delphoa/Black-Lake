@@ -9556,3 +9556,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Algorithm for Transmitting VR Video Based on Adaptive Modulation* | Feng, Jie; Wu, Yongpeng; Zhai, Guangtao; Liu, Ning; Zhang, Wenjun | [arXiv:1906.11402](https://arxiv.org/abs/1906.11402) - [DOI](https://doi.org/10.48550/arXiv.1906.11402) |
+
+
+## [DEP-E-20260819-A General Neural Backbone](../DEP-E-20260819-A%20General%20Neural%20Backbone/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention* | Huang, Peixin; Wu, Yaoxin; Ma, Yining; Wu, Cathy; Zhang, Wei; Song, Wen | [arXiv:2601.04509](https://arxiv.org/abs/2601.04509) - [DOI](https://doi.org/10.48550/arXiv.2601.04509) |
