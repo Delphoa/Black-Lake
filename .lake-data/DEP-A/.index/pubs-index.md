@@ -10763,3 +10763,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models* | Huawei Ji; Yuanhao Sun; Yuan Jin; Cheng Deng; Jiaxin Ding; Luoyi Fu; Xinbing Wang | [arXiv:2604.15188v1](https://arxiv.org/abs/2604.15188v1) - [DOI](https://doi.org/10.48550/arXiv.2604.15188) |
+
+
+## [DEP-A-20260820-Context Selection Hypothe](../DEP-A-20260820-Context%20Selection%20Hypothe/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2603.21193-whitepaper-review.md`](../DEP-A-20260820-Context%20Selection%20Hypothe/2603.21193-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Context Selection for Hypothesis and Statistical Evidence Extraction from Full-Text Scientific Articles* | Sai Koneru; Jian Wu; Sarah Rajtmajer | [arXiv:2603.21193v1](https://arxiv.org/abs/2603.21193v1) - [DOI](https://doi.org/10.48550/arXiv.2603.21193) |
