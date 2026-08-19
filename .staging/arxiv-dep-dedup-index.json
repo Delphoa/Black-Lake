@@ -16607,6 +16607,29 @@
         "https://doi.org/10.48550/arXiv.2310.00212"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Dynamic Partial Removal A",
+        ".logs/20260819-Arxiv-Dynamic-Partial-Removal-A-Neural-Network-LOG.md",
+        ".reports/BL-Arxiv-Dynamic-Partial-Removal-A-Neural-Network-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2005.09330",
+      "arxiv_id": "2005.09330",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2005.09330",
+      "normalized_title": "Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P292; draw 13211 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 48; reselections 52; complete-source gate passed; all source files withheld locally.",
+      "slug": "Dynamic-Partial-Removal-A-Neural-Network",
+      "source_urls": [
+        "https://arxiv.org/abs/2005.09330",
+        "https://arxiv.org/html/2005.09330",
+        "https://arxiv.org/pdf/2005.09330",
+        "https://doi.org/10.48550/arXiv.2005.09330"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

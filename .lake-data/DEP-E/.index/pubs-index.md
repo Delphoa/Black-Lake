@@ -6770,3 +6770,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment* | Wu, Tianhao; Zhu, Banghua; Zhang, Ruoyu; Wen, Zhaojin; Ramchandran, Kannan; Jiao, Jiantao | [arXiv:2310.00212](https://arxiv.org/abs/2310.00212) - [DOI](https://doi.org/10.48550/arXiv.2310.00212) |
+
+
+## [DEP-E-20260819-Dynamic Partial Removal A](../DEP-E-20260819-Dynamic%20Partial%20Removal%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search* | Chen, Mingxiang; Gao, Lei; Chen, Qichang; Liu, Zhixin | [arXiv:2005.09330](https://arxiv.org/abs/2005.09330) - [DOI](https://doi.org/10.48550/arXiv.2005.09330) |
