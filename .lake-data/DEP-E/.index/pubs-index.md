@@ -10249,3 +10249,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models* | Tang, Longxiang; Tian, Zhuotao; Li, Kai; He, Chunming; Zhou, Hantao; Zhao, Hengshuang; Li, Xiu; Jia, Jiaya | [arXiv:2407.05342](https://arxiv.org/abs/2407.05342) - [DOI](https://doi.org/10.48550/arXiv.2407.05342) |
+
+
+## [DEP-E-20260819-Expert Streaming](../DEP-E-20260819-Expert%20Streaming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling* | Ma, Songchen; Li, Hongyi; Zhang, Weihao; Tan, Yonghao; Dong, Pingcheng; Liu, Yu; Liu, Lan; Jiao, Yuzhong; Liu, Xuejiao; Liang, Luhong; Cheng, Kwang-Ting | [arXiv:2603.27624](https://arxiv.org/abs/2603.27624) - [DOI](https://doi.org/10.48550/arXiv.2603.27624) |

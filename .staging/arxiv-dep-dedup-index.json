@@ -28038,6 +28038,29 @@
         "https://doi.org/10.48550/arXiv.2407.05342"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Expert Streaming",
+        ".logs/20260819-Arxiv-Expert-Streaming-Accelerating-Low-Batch-MoE-LOG.md",
+        ".reports/BL-Arxiv-Expert-Streaming-Accelerating-Low-Batch-MoE-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.27624",
+      "arxiv_id": "2603.27624",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.27624",
+      "normalized_title": "Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P489; draw 71996 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 12; focus exclusions 23; reselections 35; complete-source gate passed; all source files withheld locally.",
+      "slug": "Expert-Streaming-Accelerating-Low-Batch-MoE",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.27624",
+        "https://arxiv.org/html/2603.27624",
+        "https://arxiv.org/pdf/2603.27624",
+        "https://doi.org/10.48550/arXiv.2603.27624"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
