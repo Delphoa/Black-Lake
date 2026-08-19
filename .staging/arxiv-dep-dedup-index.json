@@ -13019,6 +13019,29 @@
         "https://doi.org/10.48550/arXiv.2303.08003"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Topology-Aware",
+        ".logs/20260819-Arxiv-Topology-Aware-Optimization-of-Gaussian-LOG.md",
+        ".reports/BL-Arxiv-Topology-Aware-Optimization-of-Gaussian-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.07653",
+      "arxiv_id": "2509.07653",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.07653",
+      "normalized_title": "Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P136; draw 53591 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 23; reselections 27; complete-source gate passed; all source files withheld locally.",
+      "slug": "Topology-Aware-Optimization-of-Gaussian",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.07653",
+        "https://arxiv.org/html/2509.07653",
+        "https://arxiv.org/pdf/2509.07653",
+        "https://doi.org/10.48550/arXiv.2509.07653"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

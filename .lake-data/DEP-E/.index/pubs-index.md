@@ -5678,3 +5678,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-agent Attention Actor-Critic Algorithm for Load Balancing in Cellular Networks* | Kang, Jikun; Wu, Di; Wang, Ju; Hossain, Ekram; Liu, Xue; Dudek, Gregory | [arXiv:2303.08003](https://arxiv.org/abs/2303.08003) - [DOI](https://doi.org/10.48550/arXiv.2303.08003) |
+
+
+## [DEP-E-20260819-Topology-Aware](../DEP-E-20260819-Topology-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos* | Jiang, Yuheng; Guo, Chengcheng; Wu, Yize; Hong, Yu; Zhu, Shengkun; Shen, Zhehao; Zhang, Yingliang; Jiao, Shaohui; Su, Zhuo; Xu, Lan; Habermann, Marc; Theobalt, Christian | [arXiv:2509.07653](https://arxiv.org/abs/2509.07653) - [DOI](https://doi.org/10.48550/arXiv.2509.07653) |
