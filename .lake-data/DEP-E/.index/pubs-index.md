@@ -9227,3 +9227,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Facet Recommender Networks with Spherical Optimization* | Tan, Yanchao; Yang, Carl; Wei, Xiangyu; Ma, Yun; Zheng, Xiaolin | [arXiv:2103.14866](https://arxiv.org/abs/2103.14866) - [DOI](https://doi.org/10.48550/arXiv.2103.14866) |
+
+
+## [DEP-E-20260819-Constructing](../DEP-E-20260819-Constructing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constructing Industrial-Scale Optimization Modeling Benchmark* | Li, Zhong; Lu, Hongliang; Wei, Tao; Chen, Yuxuan; Liu, Wenyu; Lan, Yuan; Zhang, Fan; Wen, Zaiwen | [arXiv:2602.10450](https://arxiv.org/abs/2602.10450) - [DOI](https://doi.org/10.48550/arXiv.2602.10450) |
