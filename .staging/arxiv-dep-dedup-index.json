@@ -12467,6 +12467,29 @@
         "https://doi.org/10.48550/arXiv.2107.05819"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-StarVLA- Reducing",
+        ".logs/20260819-Arxiv-StarVLA-Reducing-Complexity-in-Vision-Language-LOG.md",
+        ".reports/BL-Arxiv-StarVLA-Reducing-Complexity-in-Vision-Language-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.11757",
+      "arxiv_id": "2604.11757",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2604.11757",
+      "normalized_title": "StarVLA-$\\alpha$: Reducing Complexity in Vision-Language-Action Systems",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P112; draw 2576 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 15; reselections 20; complete-source gate passed; all source files withheld locally.",
+      "slug": "StarVLA-Reducing-Complexity-in-Vision-Language",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.11757",
+        "https://arxiv.org/html/2604.11757",
+        "https://arxiv.org/pdf/2604.11757",
+        "https://doi.org/10.48550/arXiv.2604.11757"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

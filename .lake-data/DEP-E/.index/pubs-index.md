@@ -5510,3 +5510,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multitask Identity-Aware Image Steganography via Minimax Optimization* | Cui, Jiabao; Zhang, Pengyi; Li, Songyuan; Zheng, Liangli; Bao, Cuizhu; Xia, Jupeng; Li, Xi | [arXiv:2107.05819](https://arxiv.org/abs/2107.05819) - [DOI](https://doi.org/10.48550/arXiv.2107.05819) |
+
+
+## [DEP-E-20260819-StarVLA- Reducing](../DEP-E-20260819-StarVLA-%20Reducing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *StarVLA-$\alpha$: Reducing Complexity in Vision-Language-Action Systems* | Ye, Jinhui; Gao, Ning; Yang, Senqiao; Zheng, Jinliang; Wang, Zixuan; Chen, Yuxin; Chen, Pengguang; Chen, Yilun; Liu, Shu; Jia, Jiaya | [arXiv:2604.11757](https://arxiv.org/abs/2604.11757) - [DOI](https://doi.org/10.48550/arXiv.2604.11757) |
