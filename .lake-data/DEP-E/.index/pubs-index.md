@@ -4733,3 +4733,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting* | Zeng, Chaolv; Liu, Zhanyu; Zheng, Guanjie; Kong, Linghe | [arXiv:2406.05316](https://arxiv.org/abs/2406.05316) - [DOI](https://doi.org/10.48550/arXiv.2406.05316) |
+
+
+## [DEP-E-20260819-Low-light Image](../DEP-E-20260819-Low-light%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-light Image Enhancement by Retinex Based Algorithm Unrolling and Adjustment* | Liu, Xinyi; Xie, Qi; Zhao, Qian; Wang, Hong; Meng, Deyu | [arXiv:2202.05972](https://arxiv.org/abs/2202.05972) - [DOI](https://doi.org/10.48550/arXiv.2202.05972) |
