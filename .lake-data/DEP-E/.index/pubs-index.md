@@ -6203,3 +6203,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Single Path One-Shot Neural Architecture Search with Uniform Sampling* | Guo, Zichao; Zhang, Xiangyu; Mu, Haoyuan; Heng, Wen; Liu, Zechun; Wei, Yichen; Sun, Jian | [arXiv:1904.00420](https://arxiv.org/abs/1904.00420) - [DOI](https://doi.org/10.48550/arXiv.1904.00420) |
+
+
+## [DEP-E-20260819-MEPG Multi-Expert](../DEP-E-20260819-MEPG%20Multi-Expert/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MEPG:Multi-Expert Planning and Generation for Compositionally-Rich Image Generation* | Zhao, Yuan; Liu, Lin | [arXiv:2509.04126](https://arxiv.org/abs/2509.04126) - [DOI](https://doi.org/10.48550/arXiv.2509.04126) |

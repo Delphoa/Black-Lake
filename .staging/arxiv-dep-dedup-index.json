@@ -14744,6 +14744,29 @@
         "https://doi.org/10.48550/arXiv.1904.00420"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MEPG Multi-Expert",
+        ".logs/20260819-Arxiv-MEPG-Multi-Expert-Planning-and-Generation-for-LOG.md",
+        ".reports/BL-Arxiv-MEPG-Multi-Expert-Planning-and-Generation-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.04126",
+      "arxiv_id": "2509.04126",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.04126",
+      "normalized_title": "MEPG:Multi-Expert Planning and Generation for Compositionally-Rich Image Generation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P211; draw 49874 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 17; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "MEPG-Multi-Expert-Planning-and-Generation-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.04126",
+        "https://arxiv.org/html/2509.04126",
+        "https://arxiv.org/pdf/2509.04126",
+        "https://doi.org/10.48550/arXiv.2509.04126"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
