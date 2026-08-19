@@ -12248,3 +12248,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads* | Anubhab Banerjee | [arXiv:2608.15117v1](https://arxiv.org/abs/2608.15117v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15117) |
+
+
+## [DEP-A-20260820-Fragility Self Improving](../DEP-A-20260820-Fragility%20Self%20Improving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.18066-whitepaper-review.md`](../DEP-A-20260820-Fragility%20Self%20Improving/2608.18066-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification* | Qinyuan Ye; Yu Li; Yada Pruksachatkun; Jiaxin Zhang; Chien-Sheng Wu | [arXiv:2608.18066v1](https://arxiv.org/abs/2608.18066v1) - [DOI](https://doi.org/10.48550/arXiv.2608.18066) |
