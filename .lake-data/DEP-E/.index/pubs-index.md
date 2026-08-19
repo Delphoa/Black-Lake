@@ -6532,3 +6532,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cognitive Structure Generation: From Educational Priors to Policy Optimization* | Gu, Hengnian; Chen, Zhifu; Chen, Yuxin; Zhou, Jin Peng; Zhou, Dongdai | [arXiv:2508.12647](https://arxiv.org/abs/2508.12647) - [DOI](https://doi.org/10.48550/arXiv.2508.12647) |
+
+
+## [DEP-E-20260819-An Improved Quantum](../DEP-E-20260819-An%20Improved%20Quantum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Improved Quantum Algorithm for 3-Tuple Lattice Sieving* | Engelberts, Lynn; Chen, Yanlin; Gilani, Amin Shiraz; van Hoof, Maya-Iggy; Jeffery, Stacey; de Wolf, Ronald | [arXiv:2510.08473](https://arxiv.org/abs/2510.08473) - [DOI](https://doi.org/10.48550/arXiv.2510.08473) |
