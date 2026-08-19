@@ -7904,3 +7904,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora* | Zhang, Fangyuan; Huang, Zhengjun; Zhou, Yingli; Guo, Qintian; Li, Zhixun; Luo, Wensheng; Jiang, Di; Fang, Yixiang; Zhou, Xiaofang | [arXiv:2506.20963](https://arxiv.org/abs/2506.20963) - [DOI](https://doi.org/10.48550/arXiv.2506.20963) |
+
+
+## [DEP-E-20260819-Reasoning in Trees](../DEP-E-20260819-Reasoning%20in%20Trees/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering* | Shi, Yuling; Sun, Maolin; Liu, Zijun; Yang, Mo; Fang, Yixiong; Sun, Tianran; Gu, Xiaodong | [arXiv:2601.11255](https://arxiv.org/abs/2601.11255) - [DOI](https://doi.org/10.48550/arXiv.2601.11255) |
