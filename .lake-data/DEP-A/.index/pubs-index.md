@@ -12167,3 +12167,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents* | Guodong Xu | [arXiv:2608.12476v1](https://arxiv.org/abs/2608.12476v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12476) |
+
+
+## [DEP-A-20260819-MindMemOS Portable Self E](../DEP-A-20260819-MindMemOS%20Portable%20Self%20E/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12428-whitepaper-review.md`](../DEP-A-20260819-MindMemOS%20Portable%20Self%20E/2608.12428-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents* | Kaichao Liang; Yuqi Cui; Hao Kong; Xinyuan Huang; Guohaotian Hou; Qingcan Kang; Liang Chen; Yiyang Yin; Ke Ye; Jiaquan Guo; Da Chen; Lingan Zeng; Yixing Peng; Rong Yao; Shixiong Kai; Mingxuan Yuan | [arXiv:2608.12428v1](https://arxiv.org/abs/2608.12428v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12428) |
