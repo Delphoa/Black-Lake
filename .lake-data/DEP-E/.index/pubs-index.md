@@ -7092,3 +7092,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Read Pointer Meters in complex environments based on a Human-like Alignment and Recognition Algorithm* | Shu, Yan; Liu, Shaohui; Xu, Honglei; Jiang, Feng | [arXiv:2302.14323](https://arxiv.org/abs/2302.14323) - [DOI](https://doi.org/10.1007/978-981-99-8761-0_13) |
+
+
+## [DEP-E-20260819-A Graph-native](../DEP-E-20260819-A%20Graph-native/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Graph-native Optimization Framework for Complex Graph Queries* | Lyu, Bingqing; Zhou, Xiaoli; Lai, Longbin; Yang, Yufan; Lou, Yunkai; Yu, Wenyuan; Zhou, Jingren | [arXiv:2503.22091](https://arxiv.org/abs/2503.22091) - [DOI](https://doi.org/10.48550/arXiv.2503.22091) |
