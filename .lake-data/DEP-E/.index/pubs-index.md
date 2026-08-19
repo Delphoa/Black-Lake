@@ -5384,3 +5384,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Spectral Lens: Activation and Gradient Spectra as Diagnostics of LLM Optimization* | Liu, Andy Zeyi; Paquette, Elliot; Sous, John | [arXiv:2605.05683](https://arxiv.org/abs/2605.05683) - [DOI](https://doi.org/10.48550/arXiv.2605.05683) |
+
+
+## [DEP-E-20260819-Enhanced Ideal Objective](../DEP-E-20260819-Enhanced%20Ideal%20Objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhanced Ideal Objective Vector Estimation for Evolutionary Multi-Objective Optimization* | Zheng, Ruihao; Wang, Zhenkun; Wu, Yin; Gong, Maoguo | [arXiv:2505.21903](https://arxiv.org/abs/2505.21903) - [DOI](https://doi.org/10.48550/arXiv.2505.21903) |
