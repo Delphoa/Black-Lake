@@ -10326,3 +10326,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning* | Chen, Yinda; He, Yangfan; Yang, Jing; Zhang, Dapeng; Yuan, Zhenlong; Khan, Muhammad Attique; Baili, Jamel; Yee, Por Lip | [arXiv:2508.17703](https://arxiv.org/abs/2508.17703) - [DOI](https://doi.org/10.48550/arXiv.2508.17703) |
+
+
+## [DEP-E-20260819-Dynamic Sampling that](../DEP-E-20260819-Dynamic%20Sampling%20that/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Sampling that Adapts: Self-Aware Iterative Data Persistent Optimization for Mathematical Reasoning* | Rao, Jun; Liu, Xuebo; Deng, Hexuan; Lin, Zepeng; Yu, Zixiong; Wei, Jiansheng; Meng, Xiaojun; Zhang, Min | [arXiv:2505.16176](https://arxiv.org/abs/2505.16176) - [DOI](https://doi.org/10.48550/arXiv.2505.16176) |
