@@ -9395,3 +9395,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Survey on Graph Neural Network Acceleration: An Algorithmic Perspective* | Liu, Xin; Yan, Mingyu; Deng, Lei; Li, Guoqi; Ye, Xiaochun; Fan, Dongrui; Pan, Shirui; Xie, Yuan | [arXiv:2202.04822](https://arxiv.org/abs/2202.04822) - [DOI](https://doi.org/10.48550/arXiv.2202.04822) |
+
+
+## [DEP-E-20260819-VimRAG Navigating Massive](../DEP-E-20260819-VimRAG%20Navigating%20Massive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph* | Wang, Qiuchen; Wang, Shihang; Zeng, Yu; Zhang, Qiang; Zhang, Fanrui; Guo, Zhuoning; Zhang, Bosi; Huang, Wenxuan; Chen, Lin; Chen, Zehui; Xie, Pengjun; Ding, Ruixue | [arXiv:2602.12735](https://arxiv.org/abs/2602.12735) - [DOI](https://doi.org/10.48550/arXiv.2602.12735) |
