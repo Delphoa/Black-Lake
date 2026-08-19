@@ -8401,3 +8401,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Strategy-Aware Optimization Modeling with Reasoning LLMs* | Zhao, Ruiqing; Li, Fengzhi; Zuo, Yuan; Liu, Rui; Liu, Yansong; Ma, Yunfei; Meng, Fanyu; Feng, Junlan | [arXiv:2605.02545](https://arxiv.org/abs/2605.02545) - [DOI](https://doi.org/10.48550/arXiv.2605.02545) |
+
+
+## [DEP-E-20260819-An Improved FPT Algorithm](../DEP-E-20260819-An%20Improved%20FPT%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Improved FPT Algorithm for the Flip Distance Problem* | Feng, Qilong; Li, Shaohua; Meng, Xiangzhong; Wang, Jianxin | [arXiv:1910.06185](https://arxiv.org/abs/1910.06185) - [DOI](https://doi.org/10.4230/LIPIcs.MFCS.2017.65) |
