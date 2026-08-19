@@ -9353,3 +9353,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Levenberg-Marquardt Algorithm for Neural Networks* | Pooladzandi, Omead; Zhou, Yiming | [arXiv:2212.08769](https://arxiv.org/abs/2212.08769) - [DOI](https://doi.org/10.48550/arXiv.2212.08769) |
+
+
+## [DEP-E-20260819-Deep Hierarchy](../DEP-E-20260819-Deep%20Hierarchy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Hierarchy Quantization Compression algorithm based on Dynamic Sampling* | Jiang, Wan; Liu, Gang; Chen, Xiaofeng; Zhou, Yipeng | [arXiv:2212.14760](https://arxiv.org/abs/2212.14760) - [DOI](https://doi.org/10.48550/arXiv.2212.14760) |
