@@ -11267,3 +11267,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Addressable Memory for Video World Models* | Xindi Wu; Sven Elflein; James Lucas; Olga Russakovsky; Laura Leal-Taixé; Despoina Paschalidou; Jonathan Lorraine; Aljoša Ošep | [arXiv:2608.07408v1](https://arxiv.org/abs/2608.07408v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07408) |
+
+
+## [DEP-A-20260819-RoRA Role Oriented Region](../DEP-A-20260819-RoRA%20Role%20Oriented%20Region/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07088-whitepaper-review.md`](../DEP-A-20260819-RoRA%20Role%20Oriented%20Region/2608.07088-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs* | Qiyanhui Lu; Han Wu; Rongjian Xu; Tingzhang Luo; Cheng Fan; Xinghao Chen; Minjing Dong; Jufeng Yang; Jianyuan Guo | [arXiv:2608.07088v1](https://arxiv.org/abs/2608.07088v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07088) |
