@@ -7288,3 +7288,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism* | Chen, Tao; Zhang, Kun; Wu, Qiong; Chen, Xiao; Chang, Chao; Sun, Xiaoshuai; Zhou, Yiyi; Ji, Rongrong | [arXiv:2603.29252](https://arxiv.org/abs/2603.29252) - [DOI](https://doi.org/10.48550/arXiv.2603.29252) |
+
+
+## [DEP-E-20260819-Random gradient](../DEP-E-20260819-Random%20gradient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Random gradient extrapolation for distributed and stochastic optimization* | Lan, Guanghui; Zhou, Yi | [arXiv:1711.05762](https://arxiv.org/abs/1711.05762) - [DOI](https://doi.org/10.48550/arXiv.1711.05762) |
