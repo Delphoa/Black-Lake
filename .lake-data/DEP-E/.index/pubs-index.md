@@ -7995,3 +7995,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training* | Zhang, Haiming; Xue, Ying; Yan, Xu; Zhang, Jiacheng; Qiu, Weichao; Bai, Dongfeng; Liu, Bingbing; Cui, Shuguang; Li, Zhen | [arXiv:2412.13772](https://arxiv.org/abs/2412.13772) - [DOI](https://doi.org/10.48550/arXiv.2412.13772) |
+
+
+## [DEP-E-20260819-Constrained Bayesian](../DEP-E-20260819-Constrained%20Bayesian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence* | Wang, Shengbo; Li, Ke | [arXiv:2312.03212](https://arxiv.org/abs/2312.03212) - [DOI](https://doi.org/10.48550/arXiv.2312.03212) |
