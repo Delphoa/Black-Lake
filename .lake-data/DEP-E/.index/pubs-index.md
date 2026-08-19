@@ -9661,3 +9661,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Parameterizing Federated Continual Learning for Reproducible Research* | Cox, Bart; Galjaard, Jeroen; Shankar, Aditya; Decouchant, Jérémie; Chen, Lydia Y. | [arXiv:2406.02015](https://arxiv.org/abs/2406.02015) - [DOI](https://doi.org/10.48550/arXiv.2406.02015) |
+
+
+## [DEP-E-20260819-Flash-GRPO Efficient](../DEP-E-20260819-Flash-GRPO%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization* | He, Xiaoxuan; Fu, Siming; Xue, Zeyue; Wang, Weijie; He, Ruizhe; Li, Yuming; Yin, Dacheng; Dong, Shuai; Huang, Haoyang; Wang, Hongfa; Duan, Nan; Zhuang, Bohan | [arXiv:2605.15980](https://arxiv.org/abs/2605.15980) - [DOI](https://doi.org/10.48550/arXiv.2605.15980) |

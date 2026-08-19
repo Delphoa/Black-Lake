@@ -26106,6 +26106,29 @@
         "https://doi.org/10.48550/arXiv.2406.02015"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Flash-GRPO Efficient",
+        ".logs/20260819-Arxiv-Flash-GRPO-Efficient-Alignment-for-Video-LOG.md",
+        ".reports/BL-Arxiv-Flash-GRPO-Efficient-Alignment-for-Video-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.15980",
+      "arxiv_id": "2605.15980",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.15980",
+      "normalized_title": "Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P405; draw 48317 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 4; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Flash-GRPO-Efficient-Alignment-for-Video",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.15980",
+        "https://arxiv.org/html/2605.15980",
+        "https://arxiv.org/pdf/2605.15980",
+        "https://doi.org/10.48550/arXiv.2605.15980"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
