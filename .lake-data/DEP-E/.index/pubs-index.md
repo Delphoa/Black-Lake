@@ -7134,3 +7134,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks* | Wu, Yuxiang; Zhao, Yu; Hu, Baotian; Minervini, Pasquale; Stenetorp, Pontus; Riedel, Sebastian | [arXiv:2210.16773](https://arxiv.org/abs/2210.16773) - [DOI](https://doi.org/10.48550/arXiv.2210.16773) |
+
+
+## [DEP-E-20260819-CogDDN A Cognitive](../DEP-E-20260819-CogDDN%20A%20Cognitive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking* | Huang, Yuehao; Liu, Liang; Lei, Shuangming; Ma, Yukai; Su, Hao; Mei, Jianbiao; Zhao, Pengxiang; Gu, Yaqing; Liu, Yong; Lv, Jiajun | [arXiv:2507.11334](https://arxiv.org/abs/2507.11334) - [DOI](https://doi.org/10.1145/3746027.3755832) |
