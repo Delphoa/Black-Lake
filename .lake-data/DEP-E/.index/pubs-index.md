@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1070 publication reviews across 716 DEP-E entries**.
+- Current coverage: **1071 publication reviews across 717 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-Evaluating-RL-516E](../DEP-E-20260820-Evaluating-RL-516E/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Evaluating RL Explainability Methods by How Much They Help Fix Bugs in Agents* | Ram Rachum; Yotam Amitai; Bálint Gyevnár; Reuth Mirsky; Cameron Allen | [arXiv:2608.17524](https://arxiv.org/abs/2608.17524) | [DEP-E](../DEP-E-20260820-Evaluating-RL-516E/README.md) |
 
 ## [DEP-E-20260820-Ultrafast-and-high-5D00](../DEP-E-20260820-Ultrafast-and-high-5D00/README.md)
 
