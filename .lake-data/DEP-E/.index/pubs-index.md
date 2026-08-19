@@ -6462,3 +6462,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex* | Qu, Yun; Wang, Qi; Mao, Yixiu; Zou, Heming; Jiang, Yuhang; Li, Yingyue; Xu, Wutong; Cai, Lizhou; Liu, Weijie; Bai, Clive; Yang, Kai; Chen, Yangkun; Yang, Saiyong; Ji, Xiangyang | [arXiv:2605.06139](https://arxiv.org/abs/2605.06139) - [DOI](https://doi.org/10.48550/arXiv.2605.06139) |
+
+
+## [DEP-E-20260819-Experience Makes Skillful](../DEP-E-20260819-Experience%20Makes%20Skillful/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory* | Sun, Haoran; Li, Wenjie; Zhang, Yujie; Lin, Zekai; Zhang, Fanrui; Chen, Kaitao; He, Xingqi; Li, Yichen; Liu, Mianxin; Liu, Lei; Jiang, Yankai | [arXiv:2606.09365](https://arxiv.org/abs/2606.09365) - [DOI](https://doi.org/10.48550/arXiv.2606.09365) |
