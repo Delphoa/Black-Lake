@@ -9521,3 +9521,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Voice trigger detection from LVCSR hypothesis lattices using bidirectional lattice recurrent neural networks* | Jeon, Woojay; Liu, Leo; Mason, Henry | [arXiv:2003.00304](https://arxiv.org/abs/2003.00304) - [DOI](https://doi.org/10.1109/ICASSP.2019.8682617) |
+
+
+## [DEP-E-20260819-TAME A Trustworthy](../DEP-E-20260819-TAME%20A%20Trustworthy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TAME: A Trustworthy Test-Time Evolution of Agent Memory with Systematic Benchmarking* | Cheng, Yu; Hu, Yongkang; Zhou, Jiuan; Zhang, Yushuo; Chen, Yihang; Zhou, Huichi; Chen, Mingang; Zhang, Zhizhong; Shao, Kun; Xie, Yuan; Yin, Zhaoxia | [arXiv:2602.03224](https://arxiv.org/abs/2602.03224) - [DOI](https://doi.org/10.48550/arXiv.2602.03224) |
