@@ -8625,3 +8625,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Predictive Lagrangian Optimization for Constrained Reinforcement Learning* | Zhang, Tianqi; Yuan, Puzhen; Zhan, Guojian; Lin, Ziyu; Lyu, Yao; Qin, Zhenzhi; Duan, Jingliang; Zhang, Liping; Li, Shengbo Eben | [arXiv:2501.15217](https://arxiv.org/abs/2501.15217) - [DOI](https://doi.org/10.48550/arXiv.2501.15217) |
+
+
+## [DEP-E-20260819-MambaMap Online](../DEP-E-20260819-MambaMap%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaMap: Online Vectorized HD Map Construction using State Space Model* | Yang, Ruizi; Liu, Xiaolu; Chen, Junbo; Zhu, Jianke | [arXiv:2507.20224](https://arxiv.org/abs/2507.20224) - [DOI](https://doi.org/10.48550/arXiv.2507.20224) |
