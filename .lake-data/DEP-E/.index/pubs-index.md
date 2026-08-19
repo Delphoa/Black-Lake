@@ -10046,3 +10046,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis* | Chen, Yu; He, Botao; Mao, Yuemin; Jakobsson, Arthur; Ke, Jeffrey; Aloimonos, Yiannis; Shi, Guanya; Choset, Howie; Mao, Jiayuan; Ichnowski, Jeffrey | [arXiv:2511.05809](https://arxiv.org/abs/2511.05809) - [DOI](https://doi.org/10.48550/arXiv.2511.05809) |
+
+
+## [DEP-E-20260819-Rethink AI-based Power](../DEP-E-20260819-Rethink%20AI-based%20Power/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethink AI-based Power Grid Control: Diving Into Algorithm Design* | Zhou, Xiren; Wang, Siqi; Diao, Ruisheng; Bian, Desong; Duan, Jiahui; Shi, Di | [arXiv:2012.13026](https://arxiv.org/abs/2012.13026) - [DOI](https://doi.org/10.48550/arXiv.2012.13026) |
