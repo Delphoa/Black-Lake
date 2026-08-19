@@ -9290,3 +9290,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LongFlow: Efficient KV Cache Compression for Reasoning Models* | Su, Yi; Tian, Zhenxu; Qiao, Dan; Zhou, Yuechi; Li, Juntao; Zhang, Min | [arXiv:2603.11504](https://arxiv.org/abs/2603.11504) - [DOI](https://doi.org/10.48550/arXiv.2603.11504) |
+
+
+## [DEP-E-20260819-DPM-Solver A Fast ODE](../DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps* | Lu, Cheng; Zhou, Yuhao; Bao, Fan; Chen, Jianfei; Li, Chongxuan; Zhu, Jun | [arXiv:2206.00927](https://arxiv.org/abs/2206.00927) - [DOI](https://doi.org/10.48550/arXiv.2206.00927) |
