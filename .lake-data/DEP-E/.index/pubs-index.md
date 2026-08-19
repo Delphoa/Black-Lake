@@ -5230,3 +5230,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploiting Operation Importance for Differentiable Neural Architecture Search* | Xie, Xukai; Zhou, Yuan; Kung, Sun-Yuan | [arXiv:1911.10511](https://arxiv.org/abs/1911.10511) - [DOI](https://doi.org/10.48550/arXiv.1911.10511) |
+
+
+## [DEP-E-20260819-Stochastic Motion](../DEP-E-20260819-Stochastic%20Motion/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stochastic Motion Planning as Gaussian Variational Inference: Theory and Algorithms* | Yu, Hongzhe; Chen, Yongxin | [arXiv:2308.14985](https://arxiv.org/abs/2308.14985) - [DOI](https://doi.org/10.48550/arXiv.2308.14985) |
