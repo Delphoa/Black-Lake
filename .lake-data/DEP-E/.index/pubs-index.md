@@ -8681,3 +8681,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments* | Li, Xinyi; Xia, Zaishuo; Lu, Weyl; Hao, Chenjie; Chen, Yubei | [arXiv:2511.23465](https://arxiv.org/abs/2511.23465) - [DOI](https://doi.org/10.48550/arXiv.2511.23465) |
+
+
+## [DEP-E-20260819-Memory Augmented Graph](../DEP-E-20260819-Memory%20Augmented%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Augmented Graph Neural Networks for Sequential Recommendation* | Ma, Chen; Ma, Liheng; Zhang, Yingxue; Sun, Jianing; Liu, Xue; Coates, Mark | [arXiv:1912.11730](https://arxiv.org/abs/1912.11730) - [DOI](https://doi.org/10.48550/arXiv.1912.11730) |
