@@ -5223,3 +5223,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MSINet: Twins Contrastive Search of Multi-Scale Interaction for Object ReID* | Gu, Jianyang; Wang, Kai; Luo, Hao; Chen, Chen; Jiang, Wei; Fang, Yuqiang; Zhang, Shanghang; You, Yang; Zhao, Jian | [arXiv:2303.07065](https://arxiv.org/abs/2303.07065) - [DOI](https://doi.org/10.48550/arXiv.2303.07065) |
+
+
+## [DEP-E-20260819-Exploiting Operation](../DEP-E-20260819-Exploiting%20Operation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploiting Operation Importance for Differentiable Neural Architecture Search* | Xie, Xukai; Zhou, Yuan; Kung, Sun-Yuan | [arXiv:1911.10511](https://arxiv.org/abs/1911.10511) - [DOI](https://doi.org/10.48550/arXiv.1911.10511) |
