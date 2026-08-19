@@ -17136,6 +17136,29 @@
         "https://doi.org/10.48550/arXiv.2501.01710"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Overcoming Growth-Induced",
+        ".logs/20260819-Arxiv-Overcoming-Growth-Induced-Forgetting-in-Task-LOG.md",
+        ".reports/BL-Arxiv-Overcoming-Growth-Induced-Forgetting-in-Task-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2408.10566",
+      "arxiv_id": "2408.10566",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2408.10566",
+      "normalized_title": "Overcoming Growth-Induced Forgetting in Task-Agnostic Continual Learning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P15; draw 74131 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 8; focus exclusions 33; reselections 41; complete-source gate passed; all source files withheld locally.",
+      "slug": "Overcoming-Growth-Induced-Forgetting-in-Task",
+      "source_urls": [
+        "https://arxiv.org/abs/2408.10566",
+        "https://arxiv.org/html/2408.10566",
+        "https://arxiv.org/pdf/2408.10566",
+        "https://doi.org/10.48550/arXiv.2408.10566"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

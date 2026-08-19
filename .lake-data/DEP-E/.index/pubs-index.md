@@ -6931,3 +6931,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory* | Kou, Wei-Bin; Lin, Qingfeng; Tang, Ming; Lei, Jingreng; Wang, Shuai; Ye, Rongguang; Zhu, Guangxu; Wu, Yik-Chung | [arXiv:2501.01710](https://arxiv.org/abs/2501.01710) - [DOI](https://doi.org/10.48550/arXiv.2501.01710) |
+
+
+## [DEP-E-20260819-Overcoming Growth-Induced](../DEP-E-20260819-Overcoming%20Growth-Induced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Overcoming Growth-Induced Forgetting in Task-Agnostic Continual Learning* | Zhao, Yuqing; Cao, Jiannong; Saxena, Divya; Liu, Xiaoyun; Song, Changlin; Yuan, Bo; McCann, Julie | [arXiv:2408.10566](https://arxiv.org/abs/2408.10566) - [DOI](https://doi.org/10.48550/arXiv.2408.10566) |
