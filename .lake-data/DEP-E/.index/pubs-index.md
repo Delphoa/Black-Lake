@@ -8499,3 +8499,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning to Encode Position for Transformer with Continuous Dynamical Model* | Liu, Xuanqing; Yu, Hsiang-Fu; Dhillon, Inderjit; Hsieh, Cho-Jui | [arXiv:2003.09229](https://arxiv.org/abs/2003.09229) - [DOI](https://doi.org/10.48550/arXiv.2003.09229) |
+
+
+## [DEP-E-20260819-WaterAdmin Orchestrating](../DEP-E-20260819-WaterAdmin%20Orchestrating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WaterAdmin: Orchestrating Community Water Distribution Optimization via AI Agents* | Wen, Jiaqi; Tang, Pingbo; Ren, Shaolei; Yang, Jianyi | [arXiv:2604.10343](https://arxiv.org/abs/2604.10343) - [DOI](https://doi.org/10.48550/arXiv.2604.10343) |
