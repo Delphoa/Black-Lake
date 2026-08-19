@@ -26934,6 +26934,29 @@
         "https://doi.org/10.48550/arXiv.2603.11854"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Support-Proximity",
+        ".logs/20260819-Arxiv-Support-Proximity-Augmented-Diffusion-Estimation-LOG.md",
+        ".reports/BL-Arxiv-Support-Proximity-Augmented-Diffusion-Estimation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.11246",
+      "arxiv_id": "2605.11246",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.11246",
+      "normalized_title": "Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P441; draw 65879 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 19; reselections 21; complete-source gate passed; all source files withheld locally.",
+      "slug": "Support-Proximity-Augmented-Diffusion-Estimation",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.11246",
+        "https://arxiv.org/html/2605.11246",
+        "https://arxiv.org/pdf/2605.11246",
+        "https://doi.org/10.48550/arXiv.2605.11246"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

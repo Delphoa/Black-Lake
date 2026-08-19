@@ -9913,3 +9913,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Inverse Neural Operator for ODE Parameter Optimization* | Liu, Zhi-Song; Peng, Wenqing; Toropainen, Helmi; Kheder, Ammar; Rupp, Andreas; Froning, Holger; Lin, Xiaojie; Boy, Michael | [arXiv:2603.11854](https://arxiv.org/abs/2603.11854) - [DOI](https://doi.org/10.48550/arXiv.2603.11854) |
+
+
+## [DEP-E-20260819-Support-Proximity](../DEP-E-20260819-Support-Proximity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization* | Yang, Yonghan; Yuan, Ye; Sun, Zipeng; Du, Linfeng; He, Bowei; Wu, Haolun; Chen, Can; Liu, Xue | [arXiv:2605.11246](https://arxiv.org/abs/2605.11246) - [DOI](https://doi.org/10.48550/arXiv.2605.11246) |
