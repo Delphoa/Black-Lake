@@ -7743,3 +7743,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Regret Minimization Experience Replay in Off-Policy Reinforcement Learning* | Liu, Xu-Hui; Xue, Zhenghai; Pang, Jing-Cheng; Jiang, Shengyi; Xu, Feng; Yu, Yang | [arXiv:2105.07253](https://arxiv.org/abs/2105.07253) - [DOI](https://doi.org/10.48550/arXiv.2105.07253) |
+
+
+## [DEP-E-20260819-Sparse-dLLM Accelerating](../DEP-E-20260819-Sparse-dLLM%20Accelerating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction* | Song, Yuerong; Liu, Xiaoran; Li, Ruixiao; Liu, Zhigeng; Huang, Zengfeng; Guo, Qipeng; He, Ziwei; Qiu, Xipeng | [arXiv:2508.02558](https://arxiv.org/abs/2508.02558) - [DOI](https://doi.org/10.48550/arXiv.2508.02558) |
