@@ -6385,3 +6385,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Heterogeneous Team Coordination on Partially Observable Graphs with Realistic Communication* | Zhou, Yanlin; Limbu, Manshi; Wang, Xuan; Shishika, Daigo; Xiao, Xuesu | [arXiv:2410.22482](https://arxiv.org/abs/2410.22482) - [DOI](https://doi.org/10.48550/arXiv.2410.22482) |
+
+
+## [DEP-E-20260819-Active Learning over DNN](../DEP-E-20260819-Active%20Learning%20over%20DNN/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Active Learning over DNN: Automated Engineering Design Optimization for Fluid Dynamics Based on Self-Simulated Dataset* | Chen, Yang | [arXiv:2001.08075](https://arxiv.org/abs/2001.08075) - [DOI](https://doi.org/10.48550/arXiv.2001.08075) |
