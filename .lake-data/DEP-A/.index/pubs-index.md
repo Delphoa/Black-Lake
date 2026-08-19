@@ -11249,3 +11249,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding* | Jiamu Zhang; Liang Wu; Kelly Wan; Hanjie Chen; Liangjie Hong | [arXiv:2608.07915v1](https://arxiv.org/abs/2608.07915v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07915) |
+
+
+## [DEP-A-20260819-CommitKV Lifecycle Aware](../DEP-A-20260819-CommitKV%20Lifecycle%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07855-whitepaper-review.md`](../DEP-A-20260819-CommitKV%20Lifecycle%20Aware/2608.07855-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CommitKV: Lifecycle-Aware KV Cache Compression via Commit Transitions for Multi-Turn Agents* | Weizhong Huang; Jinchao Zhang; Xiawu Zheng | [arXiv:2608.07855v1](https://arxiv.org/abs/2608.07855v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07855) |
