@@ -6273,3 +6273,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-GRPO: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search* | Liu, Xingxian; Li, Dongshuai; Wan, Jiahui; Wen, Tao; Ling, Gui; Yan, Yuliang; Lv, Fuyu; Ou, Dan; Tang, Haihong; Zheng, Bo | [arXiv:2511.13885](https://arxiv.org/abs/2511.13885) - [DOI](https://doi.org/10.48550/arXiv.2511.13885) |
+
+
+## [DEP-E-20260819-EnsIR An Ensemble](../DEP-E-20260819-EnsIR%20An%20Ensemble/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models* | Sun, Shangquan; Ren, Wenqi; Liu, Zikun; Park, Hyunhee; Wang, Rui; Cao, Xiaochun | [arXiv:2410.22959](https://arxiv.org/abs/2410.22959) - [DOI](https://doi.org/10.48550/arXiv.2410.22959) |
