@@ -9920,3 +9920,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization* | Yang, Yonghan; Yuan, Ye; Sun, Zipeng; Du, Linfeng; He, Bowei; Wu, Haolun; Chen, Can; Liu, Xue | [arXiv:2605.11246](https://arxiv.org/abs/2605.11246) - [DOI](https://doi.org/10.48550/arXiv.2605.11246) |
+
+
+## [DEP-E-20260819-Wings Learning Multimodal](../DEP-E-20260819-Wings%20Learning%20Multimodal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Wings: Learning Multimodal LLMs without Text-only Forgetting* | Zhang, Yi-Kai; Lu, Shiyin; Li, Yang; Ma, Yanqing; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhan, De-Chuan; Ye, Han-Jia | [arXiv:2406.03496](https://arxiv.org/abs/2406.03496) - [DOI](https://doi.org/10.48550/arXiv.2406.03496) |
