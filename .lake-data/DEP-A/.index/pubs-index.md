@@ -10754,3 +10754,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The risk of KV cache compression* | Lukas Haverbeck; Carmen Amo Alonso; Andres Felipe Posada-Moreno; Sebastian Trimpe; Marco Pavone | [arXiv:2607.01520v1](https://arxiv.org/abs/2607.01520v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01520) |
+
+
+## [DEP-A-20260819-CoinRAG Contextualized In](../DEP-A-20260819-CoinRAG%20Contextualized%20In/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07458-whitepaper-review.md`](../DEP-A-20260819-CoinRAG%20Contextualized%20In/2608.07458-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG* | Gyuwan Kim; Cheoneum Park; Tao Yang | [arXiv:2608.07458v1](https://arxiv.org/abs/2608.07458v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07458) |
