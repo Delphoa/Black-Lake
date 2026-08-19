@@ -10833,3 +10833,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection* | Gao, Yipeng; Yang, Lingxiao; Huang, Yunmu; Xie, Song; Li, Shiyong; Zheng, Wei-shi | [arXiv:2209.10904](https://arxiv.org/abs/2209.10904) - [DOI](https://doi.org/10.48550/arXiv.2209.10904) |
+
+## [DEP-A-20260820-Aerial RIS Intake](../DEP-A-20260820-Aerial%20RIS%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Aerial%20RIS%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aerial RIS-Enhanced Communications: Joint UAV Trajectory, Altitude Control, and Phase Shift Design* | Li, Bin; Yang, Dongdong; Liu, Lei; Niyato, Dusit | [arXiv:2510.24731](https://arxiv.org/abs/2510.24731) - [DOI](https://doi.org/10.48550/arXiv.2510.24731) |
