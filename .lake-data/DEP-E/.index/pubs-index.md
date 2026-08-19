@@ -5727,3 +5727,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints* | Zhou, Yuhao; Tian, Yuxin; Lv, Jindi; Shi, Mingjia; Li, Yuanxi; Ye, Qing; Zhang, Shuhao; Lv, Jiancheng | [arXiv:2503.12053](https://arxiv.org/abs/2503.12053) - [DOI](https://doi.org/10.48550/arXiv.2503.12053) |
+
+
+## [DEP-E-20260819-Near-Tight Approximation](../DEP-E-20260819-Near-Tight%20Approximation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Near-Tight Approximation Algorithms for Bottleneck Multiple Knapsack Problems* | Chen, Lin; Hu, Tingwei; Mao, Yuchen; Chen, Yong; Mei, Lili; Zhang, An; Chen, Guangting; Zhang, Guochuan | [arXiv:2605.05233](https://arxiv.org/abs/2605.05233) - [DOI](https://doi.org/10.48550/arXiv.2605.05233) |
