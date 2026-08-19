@@ -8737,3 +8737,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval* | Zhao, Ruixiang; Xu, Zhihao; Lan, Bangxiang; Xin, Zijie; Liu, Jingyu; Li, Xirong | [arXiv:2603.08224](https://arxiv.org/abs/2603.08224) - [DOI](https://doi.org/10.48550/arXiv.2603.08224) |
+
+
+## [DEP-E-20260819-Remarks on Quantum](../DEP-E-20260819-Remarks%20on%20Quantum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Remarks on Quantum Modular Exponentiation and Some Experimental Demonstrations of Shor's Algorithm* | Cao, Zhengjun; Cao, Zhenfu; Liu, Lihua | [arXiv:1408.6252](https://arxiv.org/abs/1408.6252) - [DOI](https://doi.org/10.48550/arXiv.1408.6252) |
