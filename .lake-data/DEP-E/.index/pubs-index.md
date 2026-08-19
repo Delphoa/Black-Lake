@@ -8163,3 +8163,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Joint Optimization of Operational Cost and Performance Interference in Cloud Data Centers* | Jin, Xibo; Zhang, Fa; Wang, Lin; Hu, Songlin; Zhou, Biyu; Liu, Zhiyong | [arXiv:1404.2842](https://arxiv.org/abs/1404.2842) - [DOI](https://doi.org/10.48550/arXiv.1404.2842) |
+
+
+## [DEP-E-20260819-Modeling Unknown](../DEP-E-20260819-Modeling%20Unknown/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Modeling Unknown Stochastic Dynamical System via Autoencoder* | Xu, Zhongshu; Chen, Yuan; Chen, Qifan; Xiu, Dongbin | [arXiv:2312.10001](https://arxiv.org/abs/2312.10001) - [DOI](https://doi.org/10.1615/JMachLearnModelComput.2024055773) |
