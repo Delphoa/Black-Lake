@@ -9703,3 +9703,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning* | Wu, Yuxin; Guo, Hongshu; Huang, Ting; Gong, Yue-Jiao; Ma, Zeyuan | [arXiv:2602.00540](https://arxiv.org/abs/2602.00540) - [DOI](https://doi.org/10.48550/arXiv.2602.00540) |
+
+
+## [DEP-E-20260819-RoRA-VLM Robust](../DEP-E-20260819-RoRA-VLM%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoRA-VLM: Robust Retrieval-Augmented Vision Language Models* | Qi, Jingyuan; Xu, Zhiyang; Shao, Rulin; Chen, Yang; Di, Jin; Cheng, Yu; Wang, Qifan; Huang, Lifu | [arXiv:2410.08876](https://arxiv.org/abs/2410.08876) - [DOI](https://doi.org/10.48550/arXiv.2410.08876) |
