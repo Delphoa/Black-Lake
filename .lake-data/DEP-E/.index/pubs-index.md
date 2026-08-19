@@ -7666,3 +7666,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Human-inspired Perspectives: A Survey on AI Long-term Memory* | He, Zihong; Lin, Weizhe; Zheng, Hao; Zhang, Fan; Jones, Matt W.; Aitchison, Laurence; Xu, Xuhai; Liu, Miao; Kristensson, Per Ola; Shen, Junxiao | [arXiv:2411.00489](https://arxiv.org/abs/2411.00489) - [DOI](https://doi.org/10.48550/arXiv.2411.00489) |
+
+
+## [DEP-E-20260819-Out of Sight but Not Out](../DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models* | Chen, Kaijin; Liang, Dingkang; Zhou, Xin; Ding, Yikang; Liu, Xiaoqiang; Wan, Pengfei; Bai, Xiang | [arXiv:2603.25716](https://arxiv.org/abs/2603.25716) - [DOI](https://doi.org/10.48550/arXiv.2603.25716) |
