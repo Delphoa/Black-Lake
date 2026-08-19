@@ -5188,3 +5188,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SparseWorld: Enhancing End-to-End Autonomous Driving via World Models with Sparse Scene Representation* | Wang, Ruoyu; Wang, Jingke; Ma, Yukai; Huang, Yuehao; Lei, Shuangming; Xu, Guanglin; Ye, Aixue; Liu, Yong | [arXiv:2605.24354](https://arxiv.org/abs/2605.24354) - [DOI](https://doi.org/10.48550/arXiv.2605.24354) |
+
+
+## [DEP-E-20260819-FlowPRO Reward-Free](../DEP-E-20260819-FlowPRO%20Reward-Free/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization* | Wu, Yihao; Zhang, He; Tan, Junbo; Wang, Xueqian; Zhang, Zhengyou | [arXiv:2606.05468](https://arxiv.org/abs/2606.05468) - [DOI](https://doi.org/10.48550/arXiv.2606.05468) |
