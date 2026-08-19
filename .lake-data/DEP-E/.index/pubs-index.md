@@ -5209,3 +5209,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Is Non-IID Data a Threat in Federated Online Learning to Rank?* | Wang, Shuyi; Zuccon, Guido | [arXiv:2204.09272](https://arxiv.org/abs/2204.09272) - [DOI](https://doi.org/10.48550/arXiv.2204.09272) |
+
+
+## [DEP-E-20260819-Understanding the Role of](../DEP-E-20260819-Understanding%20the%20Role%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding the Role of Feedback in Online Learning with Switching Costs* | Cheng, Duo; Zhou, Xingyu; Ji, Bo | [arXiv:2306.09588](https://arxiv.org/abs/2306.09588) - [DOI](https://doi.org/10.48550/arXiv.2306.09588) |

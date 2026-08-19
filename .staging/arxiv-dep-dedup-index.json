@@ -11478,6 +11478,29 @@
         "https://doi.org/10.48550/arXiv.2204.09272"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Understanding the Role of",
+        ".logs/20260819-Arxiv-Understanding-the-Role-of-Feedback-in-Online-LOG.md",
+        ".reports/BL-Arxiv-Understanding-the-Role-of-Feedback-in-Online-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2306.09588",
+      "arxiv_id": "2306.09588",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2306.09588",
+      "normalized_title": "Understanding the Role of Feedback in Online Learning with Switching Costs",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P69; draw 34082 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Understanding-the-Role-of-Feedback-in-Online",
+      "source_urls": [
+        "https://arxiv.org/abs/2306.09588",
+        "https://arxiv.org/html/2306.09588",
+        "https://arxiv.org/pdf/2306.09588",
+        "https://doi.org/10.48550/arXiv.2306.09588"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
