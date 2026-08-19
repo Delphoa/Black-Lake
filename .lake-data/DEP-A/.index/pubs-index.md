@@ -11024,3 +11024,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Search over the Visual World: Persistent Visual Memory, Layered Indexes, and Source-Grounded Evidence* | Sankalp Nagaonkar; Rohit Garg; Ankit Raj; Ashish Choithani; Ashutosh Trivedi | [arXiv:2608.08075v1](https://arxiv.org/abs/2608.08075v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08075) |
+
+
+## [DEP-A-20260819-SAGE SLO Aware Adaptive](../DEP-A-20260819-SAGE%20SLO%20Aware%20Adaptive/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08237-whitepaper-review.md`](../DEP-A-20260819-SAGE%20SLO%20Aware%20Adaptive/2608.08237-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAGE: SLO-Aware Adaptive Retrieval for Production RAG Systems* | Muhammad Faizan Raza; Shuo; Yang; Satish Mahadevan Srinivasan | [arXiv:2608.08237v1](https://arxiv.org/abs/2608.08237v1) - [DOI](https://doi.org/10.1109/CoDIT70676.2026.11631166) |
