@@ -9066,3 +9066,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation* | Zheng, Yuhang; Gu, Songen; Zheng, Yupeng; Li, Weize; Zang, Yujie; Tian, Shuai; Li, Xiang; Hao, Ce; Gao, Chen; Liu, Si; Li, Haoran; Chen, Yilun; Yan, Shuicheng; Ding, Wenchao | [arXiv:2603.19201](https://arxiv.org/abs/2603.19201) - [DOI](https://doi.org/10.48550/arXiv.2603.19201) |
+
+
+## [DEP-E-20260819-AMPO Automatic](../DEP-E-20260819-AMPO%20Automatic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AMPO: Automatic Multi-Branched Prompt Optimization* | Yang, Sheng; Wu, Yurong; Gao, Yan; Zhou, Zineng; Zhu, Bin Benjamin; Sun, Xiaodi; Lou, Jian-Guang; Ding, Zhiming; Hu, Anbang; Fang, Yuan; Li, Yunsong; Chen, Junyan; Yang, Linjun | [arXiv:2410.08696](https://arxiv.org/abs/2410.08696) - [DOI](https://doi.org/10.48550/arXiv.2410.08696) |
