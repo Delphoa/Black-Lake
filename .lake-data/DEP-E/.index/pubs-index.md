@@ -4782,3 +4782,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Make Domain Shift a Catastrophic Forgetting Alleviator in Class-Incremental Learning* | Chen, Wei; Zhou, Yi | [arXiv:2501.00237](https://arxiv.org/abs/2501.00237) - [DOI](https://doi.org/10.48550/arXiv.2501.00237) |
+
+
+## [DEP-E-20260819-Automated Retrosynthesis](../DEP-E-20260819-Automated%20Retrosynthesis/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs* | Ma, Qinyu; Zhou, Yuhao; Li, Jianfeng | [arXiv:2501.08897](https://arxiv.org/abs/2501.08897) - [DOI](https://doi.org/10.1002/marc.202500065) |
