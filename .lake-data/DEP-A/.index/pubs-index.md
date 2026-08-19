@@ -12059,3 +12059,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KV-Rescue: Recovering Reasoning Language Model KV Eviction Loss via Stepwise Interleaving* | Minsoo Cheong; Woosang Lim; Vincent-Daniel Yun; Sungjoo Yoo | [arXiv:2608.15797v1](https://arxiv.org/abs/2608.15797v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15797) |
+
+
+## [DEP-A-20260819-GraniKV Asymmetric Granul](../DEP-A-20260819-GraniKV%20Asymmetric%20Granul/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.15584-whitepaper-review.md`](../DEP-A-20260819-GraniKV%20Asymmetric%20Granul/2608.15584-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GraniKV: Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix* | Jinhyun Jeon; Sungjoo Yoo | [arXiv:2608.15584v1](https://arxiv.org/abs/2608.15584v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15584) |
