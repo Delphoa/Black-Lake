@@ -10098,6 +10098,29 @@
         "https://doi.org/10.1002/marc.202500065"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-FAP-CD Fairness-Driven",
+        ".logs/20260819-Arxiv-FAP-CD-Fairness-Driven-Age-Friendly-Community-LOG.md",
+        ".reports/BL-Arxiv-FAP-CD-Fairness-Driven-Age-Friendly-Community-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2412.16699",
+      "arxiv_id": "2412.16699",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2412.16699",
+      "normalized_title": "FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P09; draw 16730 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "FAP-CD-Fairness-Driven-Age-Friendly-Community",
+      "source_urls": [
+        "https://arxiv.org/abs/2412.16699",
+        "https://arxiv.org/html/2412.16699",
+        "https://arxiv.org/pdf/2412.16699",
+        "https://doi.org/10.48550/arXiv.2412.16699"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

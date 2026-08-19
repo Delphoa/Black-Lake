@@ -4789,3 +4789,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs* | Ma, Qinyu; Zhou, Yuhao; Li, Jianfeng | [arXiv:2501.08897](https://arxiv.org/abs/2501.08897) - [DOI](https://doi.org/10.1002/marc.202500065) |
+
+
+## [DEP-E-20260819-FAP-CD Fairness-Driven](../DEP-E-20260819-FAP-CD%20Fairness-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation* | Li, Jinlin; Li, Xintong; Zhou, Xiao | [arXiv:2412.16699](https://arxiv.org/abs/2412.16699) - [DOI](https://doi.org/10.48550/arXiv.2412.16699) |
