@@ -11087,3 +11087,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLM within MCP Matters: Measuring Inefficient Resource Utilization Driven by LLMs* | Minhan Cho; Soyoung Park; Kihyeon Jeong; Byeongkyu Jeon; Daejin Choi; Jinyoung Han | [arXiv:2608.08467v1](https://arxiv.org/abs/2608.08467v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08467) |
+
+
+## [DEP-A-20260819-Not Worth Another Token](../DEP-A-20260819-Not%20Worth%20Another%20Token/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08389-whitepaper-review.md`](../DEP-A-20260819-Not%20Worth%20Another%20Token/2608.08389-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents* | Harshitha Kolukuluru; Reshma Ashok; Kirat Arora; Evan William Ciccarelli; Nischal Ashok Kumar; Lunyiu Nie; Franck Dernoncourt; Samyadeep Basu; Ryan A. Rossi; Nedim Lipka | [arXiv:2608.08389v1](https://arxiv.org/abs/2608.08389v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08389) |
