@@ -10761,3 +10761,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles* | Yang, Weiyi; Liu, Xiaolu; He, Lei; Du, Yonghao; Chen, Yingwu | [arXiv:2503.08416](https://arxiv.org/abs/2503.08416) - [DOI](https://doi.org/10.48550/arXiv.2503.08416) |
+
+## [DEP-A-20260820-A Framework for Intake](../DEP-A-20260820-A%20Framework%20for%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Framework%20for%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Framework for Evaluating Snippet Generation for Dataset Search* | Wang, Xiaxia; Chen, Jinchi; Li, Shuxin; Cheng, Gong; Pan, Jeff Z.; Kharlamov, Evgeny; Qu, Yuzhong | [arXiv:1907.01183](https://arxiv.org/abs/1907.01183) - [DOI](https://doi.org/10.48550/arXiv.1907.01183) |
