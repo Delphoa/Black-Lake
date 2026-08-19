@@ -9318,3 +9318,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Depth Reconstruction from Sparse Samples: Representation, Algorithm, and Sampling* | Liu, Lee-Kang; Chan, Stanley H.; Nguyen, Truong Q. | [arXiv:1407.3840](https://arxiv.org/abs/1407.3840) - [DOI](https://doi.org/10.48550/arXiv.1407.3840) |
+
+
+## [DEP-E-20260819-Revisiting finite Abelian](../DEP-E-20260819-Revisiting%20finite%20Abelian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting finite Abelian hidden subgroup problem and its distributed exact quantum algorithm* | Dong, Ziyuan; Fan, Xiang; Zhong, Tengxun; Qiu, Daowen | [arXiv:2512.22959](https://arxiv.org/abs/2512.22959) - [DOI](https://doi.org/10.48550/arXiv.2512.22959) |
