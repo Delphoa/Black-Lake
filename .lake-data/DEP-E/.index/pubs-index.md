@@ -9416,3 +9416,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Dual-Branch Collaborative Framework for Joint Optimization of Underwater Image Enhancement and Object Detection* | Cao, Liyuan; Liu, Zheng; Liao, Guanghao; Yang, Yonghui; Li, Qi | [arXiv:2606.15857](https://arxiv.org/abs/2606.15857) - [DOI](https://doi.org/10.48550/arXiv.2606.15857) |
+
+
+## [DEP-E-20260819-A Mirror Descent-Based](../DEP-E-20260819-A%20Mirror%20Descent-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent* | Wang, Shuche; Tan, Vincent Y. F. | [arXiv:2407.14111](https://arxiv.org/abs/2407.14111) - [DOI](https://doi.org/10.48550/arXiv.2407.14111) |

@@ -25301,6 +25301,29 @@
         "https://doi.org/10.48550/arXiv.2606.15857"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based",
+        ".logs/20260819-Arxiv-A-Mirror-Descent-Based-Algorithm-for-Corruption-LOG.md",
+        ".reports/BL-Arxiv-A-Mirror-Descent-Based-Algorithm-for-Corruption-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.14111",
+      "arxiv_id": "2407.14111",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.14111",
+      "normalized_title": "A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P370; draw 65405 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 11; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Mirror-Descent-Based-Algorithm-for-Corruption",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.14111",
+        "https://arxiv.org/html/2407.14111",
+        "https://arxiv.org/pdf/2407.14111",
+        "https://doi.org/10.48550/arXiv.2407.14111"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
