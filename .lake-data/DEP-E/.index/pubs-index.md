@@ -8009,3 +8009,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PISTO: Proximal Inference for Stochastic Trajectory Optimization* | Yu, Hongzhe; Chang, Zinuo; Chen, Yongxin | [arXiv:2605.07215](https://arxiv.org/abs/2605.07215) - [DOI](https://doi.org/10.48550/arXiv.2605.07215) |
+
+
+## [DEP-E-20260819-Hybrid Beamforming](../DEP-E-20260819-Hybrid%20Beamforming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid Beamforming Optimization for DOA Estimation Based on the CRB Analysis* | Lin, Tian; Zhou, Xuemeng; Zhu, Yu; Jiang, Yi | [arXiv:2103.15357](https://arxiv.org/abs/2103.15357) - [DOI](https://doi.org/10.1109/LSP.2021.3092613) |

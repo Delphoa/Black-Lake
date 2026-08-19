@@ -20678,6 +20678,29 @@
         "https://doi.org/10.48550/arXiv.2605.07215"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Hybrid Beamforming",
+        ".logs/20260819-Arxiv-Hybrid-Beamforming-Optimization-for-DOA-LOG.md",
+        ".reports/BL-Arxiv-Hybrid-Beamforming-Optimization-for-DOA-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2103.15357",
+      "arxiv_id": "2103.15357",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/LSP.2021.3092613",
+      "normalized_title": "Hybrid Beamforming Optimization for DOA Estimation Based on the CRB Analysis",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P169; draw 4079 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 2; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hybrid-Beamforming-Optimization-for-DOA",
+      "source_urls": [
+        "https://arxiv.org/abs/2103.15357",
+        "https://arxiv.org/html/2103.15357",
+        "https://arxiv.org/pdf/2103.15357",
+        "https://doi.org/10.1109/LSP.2021.3092613"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
