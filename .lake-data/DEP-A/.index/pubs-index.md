@@ -10772,3 +10772,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Test-Time Scaling to Reusable Memory: Measuring Crystallization in Text-to-SQL* | Jiaqian Wang; Yutao Qi; Wenjin Hou; Yuanxi Che; Muning Wen | [arXiv:2608.07213v1](https://arxiv.org/abs/2608.07213v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07213) |
+
+
+## [DEP-A-20260819-Every Cache Entry Earns](../DEP-A-20260819-Every%20Cache%20Entry%20Earns/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07001-whitepaper-review.md`](../DEP-A-20260819-Every%20Cache%20Entry%20Earns/2608.07001-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Every Cache Entry Earns Its Place: Global Allocation of Resolution and Coverage for KV Cache Compression* | Haolin Tian; Yuzhe Liu; Tonghan Wang | [arXiv:2608.07001v1](https://arxiv.org/abs/2608.07001v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07001) |
