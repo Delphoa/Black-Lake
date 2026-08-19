@@ -8464,3 +8464,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tight query complexity bounds for learning graph partitions* | Liu, Xizhi; Mukherjee, Sayan | [arXiv:2112.07897](https://arxiv.org/abs/2112.07897) - [DOI](https://doi.org/10.48550/arXiv.2112.07897) |
+
+
+## [DEP-E-20260819-LLM-Powered Workflow](../DEP-E-20260819-LLM-Powered%20Workflow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study* | Wang, Shuai; Yu, Yinan; Barr, Earl; Parthasarathy, Dhasarathy | [arXiv:2603.21439](https://arxiv.org/abs/2603.21439) - [DOI](https://doi.org/10.48550/arXiv.2603.21439) |
