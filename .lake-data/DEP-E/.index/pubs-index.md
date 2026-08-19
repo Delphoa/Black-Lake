@@ -6434,3 +6434,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Error Analysis of Elitist Randomized Search Heuristics* | Wang, Cong; Chen, Yu; He, Jun; Xie, Chengwang | [arXiv:1909.00894](https://arxiv.org/abs/1909.00894) - [DOI](https://doi.org/10.48550/arXiv.1909.00894) |
+
+
+## [DEP-E-20260819-A Theoretical Analysis Of](../DEP-E-20260819-A%20Theoretical%20Analysis%20Of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Theoretical Analysis Of Nearest Neighbor Search On Approximate Near Neighbor Graph* | Shrivastava, Anshumali; Song, Zhao; Xu, Zhaozhuo | [arXiv:2303.06210](https://arxiv.org/abs/2303.06210) - [DOI](https://doi.org/10.48550/arXiv.2303.06210) |
