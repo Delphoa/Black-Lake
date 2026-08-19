@@ -11906,3 +11906,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory* | Weitao Chen; Hu Jiaxin; Xie Tianyidan; Yang Li; Yuyi Qian; Banghao Xu; Ziheng Tang; Shenyi Wang; Mingyue Yu; Duo Li; Jiacheng Shi; Gao Wang; Zhan Xu; Zhicheng Qiu; Xuanfu Li; Jian Yang; Lanjun Wang; Zili Yi | [arXiv:2608.13113v1](https://arxiv.org/abs/2608.13113v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13113) |
+
+
+## [DEP-A-20260819-Potential Applications HB](../DEP-A-20260819-Potential%20Applications%20HB/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13127-whitepaper-review.md`](../DEP-A-20260819-Potential%20Applications%20HB/2608.13127-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Potential Applications of HBF in LLM Serving Systems* | Yihan Yin; Yinlun Zhao; Zhixin Yun; Guanying Wu; Feng Zhu; Kai Tao; Shu Li; Fei Huang; Zhe Zhang; Shuangchen Li; Hongzhong Zheng | [arXiv:2608.13127v2](https://arxiv.org/abs/2608.13127v2) - [DOI](https://doi.org/10.48550/arXiv.2608.13127) |
