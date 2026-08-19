@@ -9850,3 +9850,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?* | Yan, Renye; Cheng, Jikang; Sun, Shikun; Sun, Yi; Wu, You; Peng, Wei; Wang, Zongwei; Liang, Ling; Xing, Junliang; Cai, Yimao | [arXiv:2605.15855](https://arxiv.org/abs/2605.15855) - [DOI](https://doi.org/10.48550/arXiv.2605.15855) |
+
+
+## [DEP-E-20260819-Semantics-Enhanced](../DEP-E-20260819-Semantics-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantics-Enhanced Retrieval-Augmented Time Series Forecasting* | Zhou, Shiqiao; Wu, Zipeng; Schöner, Holger; Fouché, Edouard; Wilson, IAG; Wang, Shuo | [arXiv:2606.14941](https://arxiv.org/abs/2606.14941) - [DOI](https://doi.org/10.48550/arXiv.2606.14941) |

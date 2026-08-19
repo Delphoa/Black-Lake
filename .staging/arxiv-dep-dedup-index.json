@@ -26727,6 +26727,29 @@
         "https://doi.org/10.48550/arXiv.2605.15855"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Semantics-Enhanced",
+        ".logs/20260819-Arxiv-Semantics-Enhanced-Retrieval-Augmented-Time-LOG.md",
+        ".reports/BL-Arxiv-Semantics-Enhanced-Retrieval-Augmented-Time-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.14941",
+      "arxiv_id": "2606.14941",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.14941",
+      "normalized_title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P432; draw 2125 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 14; focus exclusions 39; reselections 54; complete-source gate passed; all source files withheld locally.",
+      "slug": "Semantics-Enhanced-Retrieval-Augmented-Time",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.14941",
+        "https://arxiv.org/html/2606.14941",
+        "https://arxiv.org/pdf/2606.14941",
+        "https://doi.org/10.48550/arXiv.2606.14941"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
