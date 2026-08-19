@@ -5167,3 +5167,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields Over the Initial Domain* | Nie, Zhenguo; Lin, Tong; Jiang, Haoliang; Kara, Levent Burak | [arXiv:2003.04685](https://arxiv.org/abs/2003.04685) - [DOI](https://doi.org/10.48550/arXiv.2003.04685) |
+
+
+## [DEP-E-20260819-Algorithmic Recourse in](../DEP-E-20260819-Algorithmic%20Recourse%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Algorithmic Recourse in Abnormal Multivariate Time Series* | Han, Xiao; Zhang, Lu; Wu, Yongkai; Yuan, Shuhan | [arXiv:2309.16896](https://arxiv.org/abs/2309.16896) - [DOI](https://doi.org/10.48550/arXiv.2309.16896) |
