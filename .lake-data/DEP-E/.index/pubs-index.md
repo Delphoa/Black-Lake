@@ -9087,3 +9087,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems* | Li, Shaobo; Zhou, Yirui; Xu, Yuan; Chen, Kevin; Waddington, Daniel; Sundararaman, Swaminathan; Franke, Hubertus; Huang, Jian | [arXiv:2603.10765](https://arxiv.org/abs/2603.10765) - [DOI](https://doi.org/10.48550/arXiv.2603.10765) |
+
+
+## [DEP-E-20260819-SAC-Opt Semantic Anchors](../DEP-E-20260819-SAC-Opt%20Semantic%20Anchors/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling* | Zhang, Yansen; Kang, Qingcan; Chen, Yujie; Wang, Yufei; Han, Xiongwei; Zhong, Tao; Yuan, Mingxuan; Ma, Chen | [arXiv:2510.05115](https://arxiv.org/abs/2510.05115) - [DOI](https://doi.org/10.48550/arXiv.2510.05115) |
