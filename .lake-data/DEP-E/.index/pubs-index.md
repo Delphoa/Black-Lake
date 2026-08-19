@@ -6322,3 +6322,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stochastic Variance-Reduced Cubic Regularization for Nonconvex Optimization* | Wang, Zhe; Zhou, Yi; Liang, Yingbin; Lan, Guanghui | [arXiv:1802.07372](https://arxiv.org/abs/1802.07372) - [DOI](https://doi.org/10.48550/arXiv.1802.07372) |
+
+
+## [DEP-E-20260819-Explore with Long-term](../DEP-E-20260819-Explore%20with%20Long-term/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration* | Wang, Sen; Liu, Bangwei; Gao, Zhenkun; Ma, Lizhuang; Wang, Xuhong; Xie, Yuan; Tan, Xin | [arXiv:2601.10744](https://arxiv.org/abs/2601.10744) - [DOI](https://doi.org/10.48550/arXiv.2601.10744) |
