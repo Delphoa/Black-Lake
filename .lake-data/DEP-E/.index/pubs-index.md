@@ -9605,3 +9605,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PALUTE: Processing-In-Memory Acceleration via Lookup Table for Edge LLM Inference* | Tian, Runyang; Chen, Yanru; Xu, Weihong; Rosing, Tajana Šimunić | [arXiv:2606.08891](https://arxiv.org/abs/2606.08891) - [DOI](https://doi.org/10.48550/arXiv.2606.08891) |
+
+
+## [DEP-E-20260819-Task-level](../DEP-E-20260819-Task-level/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval* | Ma, Guangyuan; Ma, Yongliang; Wu, Xing; Su, Zhenpeng; Zhou, Ming; Hu, Songlin | [arXiv:2408.10613](https://arxiv.org/abs/2408.10613) - [DOI](https://doi.org/10.48550/arXiv.2408.10613) |
