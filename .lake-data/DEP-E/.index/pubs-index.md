@@ -8835,3 +8835,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Competitive Self-Play Policy Optimization* | Zhong, Yuanyi; Zhou, Yuan; Peng, Jian | [arXiv:2009.06086](https://arxiv.org/abs/2009.06086) - [DOI](https://doi.org/10.48550/arXiv.2009.06086) |
+
+
+## [DEP-E-20260819-NACL A General and](../DEP-E-20260819-NACL%20A%20General%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time* | Chen, Yilong; Wang, Guoxia; Shang, Junyuan; Cui, Shiyao; Zhang, Zhenyu; Liu, Tingwen; Wang, Shuohuan; Sun, Yu; Yu, Dianhai; Wu, Hua | [arXiv:2408.03675](https://arxiv.org/abs/2408.03675) - [DOI](https://doi.org/10.48550/arXiv.2408.03675) |
