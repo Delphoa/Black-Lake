@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **802 publication reviews across 457 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-18; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **984 publication reviews across 630 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -4622,3 +4622,20 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Linear Attention Modeling for Learned Image Compression* | Donghui Feng; Zhengxue Cheng; Shen Wang; Ronghua Wu; Hongwei Hu; Guo Lu; Li Song | [arXiv:2502.05741v2](https://arxiv.org/abs/2502.05741v2) - [DOI](https://doi.org/10.48550/arXiv.2502.05741) |
+
+## [DEP-E-20260819-Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md)
+
+Review status: initial source-first synthesis of the selected DEP and all ten primary papers. The owning manuscript is [`verifiable-state.md`](../DEP-E-20260819-Verifiable%20State/verifiable-state.md).
+
+| Publication | Authors or credited organization | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Safeguarding LLM Agents from Misalignment through Provenance Analysis* | Yining She; Yiliang Liang; Eunsuk Kang | [arXiv:2607.01236v2](https://arxiv.org/abs/2607.01236v2) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *Kara: Sliding-Window KV Cache Compression for Efficient Serving of Reasoning LLMs under Memory Constraints* | Han Shen; Yuyang Wu; Junpu Yu; Olexandr Isayev | [arXiv:2607.01237v2](https://arxiv.org/abs/2607.01237v2) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States* | Chen Liu; Ling Chen; Hanzhang Zhou; *et al.* | [arXiv:2606.31612v2](https://arxiv.org/abs/2606.31612v2) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *MemSyco-Bench: Benchmarking Sycophancy in Agent Memory* | Zhishang Xiang; Zerui Chen; Yunbo Tang; *et al.* | [arXiv:2607.01071v2](https://arxiv.org/abs/2607.01071v2) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research* | Wanghan Xu; Shuo Li; Tianlin Ye; *et al.* | [arXiv:2606.07591v5](https://arxiv.org/abs/2606.07591v5) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *VERITAS: A Multi-Agent Co-Scientist for Verifiable Image-Derived Hypothesis Testing* | Lucas Stoffl; Benedikt Wiestler; Johannes C. Paetzold | [arXiv:2604.12144v2](https://arxiv.org/abs/2604.12144v2) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *MedStreamBench: A Time-Aware Benchmark for Streaming and Proactive Medical Video Understanding* | Yuan Wang; Shujian Gao; Songtao Jiang; *et al.* | [arXiv:2607.01751v1](https://arxiv.org/abs/2607.01751v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification* | Dipayan Saha; Khan Thamid Hasan; Shams Tarek; *et al.* | [arXiv:2607.01668v1](https://arxiv.org/abs/2607.01668v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *Probabilistic Memory for Trustworthy Edge Intelligence* | Likai Pei; Jiahao Zheng; Xueji Zhao; *et al.* | [arXiv:2607.02465v1](https://arxiv.org/abs/2607.02465v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
+| *Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders* | Zihao Qi; Christopher Earls | [arXiv:2607.01336v1](https://arxiv.org/abs/2607.01336v1) | [Verifiable State](../DEP-E-20260819-Verifiable%20State/README.md) |
