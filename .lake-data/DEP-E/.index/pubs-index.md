@@ -9962,3 +9962,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* | Wang, Shijie; Fan, Wenqi; Feng, Yue; Lin, Shanru; Ma, Xinyu; Wang, Shuaiqiang; Yin, Dawei | [arXiv:2501.02226](https://arxiv.org/abs/2501.02226) - [DOI](https://doi.org/10.48550/arXiv.2501.02226) |
+
+
+## [DEP-E-20260819-STEP Success-Rate-Aware](../DEP-E-20260819-STEP%20Success-Rate-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization* | Chen, Yuhan; Liu, Yuxuan; Zhang, Long; Gao, Pengzhi; Luan, Jian; Liu, Wei | [arXiv:2511.13091](https://arxiv.org/abs/2511.13091) - [DOI](https://doi.org/10.48550/arXiv.2511.13091) |
