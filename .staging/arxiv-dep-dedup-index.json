@@ -26681,6 +26681,29 @@
         "https://doi.org/10.48550/arXiv.2308.10806"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Multi-parameter",
+        ".logs/20260819-Arxiv-A-Multi-parameter-Updating-Fourier-Online-LOG.md",
+        ".reports/BL-Arxiv-A-Multi-parameter-Updating-Fourier-Online-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2203.08349",
+      "arxiv_id": "2203.08349",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2203.08349",
+      "normalized_title": "A Multi-parameter Updating Fourier Online Gradient Descent Algorithm for Large-scale Nonlinear Classification",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P430; draw 36553 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Multi-parameter-Updating-Fourier-Online",
+      "source_urls": [
+        "https://arxiv.org/abs/2203.08349",
+        "https://arxiv.org/html/2203.08349",
+        "https://arxiv.org/pdf/2203.08349",
+        "https://doi.org/10.48550/arXiv.2203.08349"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

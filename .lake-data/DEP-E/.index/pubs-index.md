@@ -9836,3 +9836,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DFWLayer: Differentiable Frank-Wolfe Optimization Layer* | Liu, Zixuan; Liu, Liu; Wang, Xueqian; Zhao, Peilin | [arXiv:2308.10806](https://arxiv.org/abs/2308.10806) - [DOI](https://doi.org/10.48550/arXiv.2308.10806) |
+
+
+## [DEP-E-20260819-A Multi-parameter](../DEP-E-20260819-A%20Multi-parameter/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Multi-parameter Updating Fourier Online Gradient Descent Algorithm for Large-scale Nonlinear Classification* | Chen, Yigying | [arXiv:2203.08349](https://arxiv.org/abs/2203.08349) - [DOI](https://doi.org/10.48550/arXiv.2203.08349) |
