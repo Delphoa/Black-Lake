@@ -8261,3 +8261,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Online Prediction Approach Based on Incremental Support Vector Machine for Dynamic Multiobjective Optimization* | Xu, Dejun; Jiang, Min; Hu, Weizhen; Li, Shaozi; Pan, Renhu; Yen, Gary G. | [arXiv:2102.12133](https://arxiv.org/abs/2102.12133) - [DOI](https://doi.org/10.48550/arXiv.2102.12133) |
+
+
+## [DEP-E-20260819-Analysis and Optimization](../DEP-E-20260819-Analysis%20and%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis and Optimization of Interference Nulling in Downlink Multi-Antenna HetNets with Offloading* | Wu, Yueping; Cui, Ying; Clerckx, Bruno | [arXiv:1502.07425](https://arxiv.org/abs/1502.07425) - [DOI](https://doi.org/10.48550/arXiv.1502.07425) |
