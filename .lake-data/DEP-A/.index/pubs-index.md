@@ -11321,3 +11321,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts* | Parvel Gu | [arXiv:2608.11212v1](https://arxiv.org/abs/2608.11212v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11212) |
+
+
+## [DEP-A-20260819-CAR Query Guided Confiden](../DEP-A-20260819-CAR%20Query%20Guided%20Confiden/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.04495-whitepaper-review.md`](../DEP-A-20260819-CAR%20Query%20Guided%20Confiden/2605.04495-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation* | Zhipeng Song; Yizhi Zhou; Xiangyu Kong; Jiulong Jiao; Xuezhou Ye; Chunqi Gao; Xueqing Shi; Yu Wang; Yuhang Zhou; Heng Qi | [arXiv:2605.04495v2](https://arxiv.org/abs/2605.04495v2) - [DOI](https://doi.org/10.48550/arXiv.2605.04495) |
