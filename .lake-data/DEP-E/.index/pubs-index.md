@@ -5937,3 +5937,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Run-and-Inspect Method for Nonconvex Optimization and Global Optimality Bounds for R-Local Minimizers* | Chen, Yifan; Sun, Yuejiao; Yin, Wotao | [arXiv:1711.08172](https://arxiv.org/abs/1711.08172) - [DOI](https://doi.org/10.48550/arXiv.1711.08172) |
+
+
+## [DEP-E-20260819-TIPCB A Simple but](../DEP-E-20260819-TIPCB%20A%20Simple%20but/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TIPCB: A Simple but Effective Part-based Convolutional Baseline for Text-based Person Search* | Chen, Yuhao; Zhang, Guoqing; Lu, Yujiang; Wang, Zhenxing; Zheng, Yuhui; Wang, Ruili | [arXiv:2105.11628](https://arxiv.org/abs/2105.11628) - [DOI](https://doi.org/10.48550/arXiv.2105.11628) |
