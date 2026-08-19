@@ -9451,3 +9451,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An efficient multi-core implementation of a novel HSS-structured multifrontal solver using randomized sampling* | Ghysels, Pieter; Li, Xiaoye S.; Rouet, Francois-Henry; Williams, Samuel; Napov, Artem | [arXiv:1502.07405](https://arxiv.org/abs/1502.07405) - [DOI](https://doi.org/10.48550/arXiv.1502.07405) |
+
+
+## [DEP-E-20260819-MIRAGE Misleading](../DEP-E-20260819-MIRAGE%20Misleading/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks* | Chen, Tailun; He, Yu; Wang, Yan; Shao, Shuo; Zheng, Haolun; Liu, Zhihao; Li, Jinfeng; Qin, Zhizhen; Chen, Yuefeng; Chu, Zhixuan; Qin, Zhan; Ren, Kui | [arXiv:2512.08289](https://arxiv.org/abs/2512.08289) - [DOI](https://doi.org/10.48550/arXiv.2512.08289) |
