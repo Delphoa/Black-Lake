@@ -8135,3 +8135,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ThinkPilot: Steering Reasoning Models via Automated Think-prefixes Optimization* | Li, Sunzhu; Lin, Zhiyu; Yang, Shuling; Zhao, Jiale; Chen, Wei | [arXiv:2510.12063](https://arxiv.org/abs/2510.12063) - [DOI](https://doi.org/10.48550/arXiv.2510.12063) |
+
+
+## [DEP-E-20260819-Approximation algor 04699](../DEP-E-20260819-Approximation%20algor%2004699/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximation algorithms for the directed path partition problems* | Chen, Yong; Chen, Zhi-Zhong; Kennedy, Curtis; Lin, Guohui; Xu, Yao; Zhang, An | [arXiv:2107.04699](https://arxiv.org/abs/2107.04699) - [DOI](https://doi.org/10.48550/arXiv.2107.04699) |
