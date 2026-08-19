@@ -10497,8 +10497,36 @@
         "https://doi.org/10.48550/arXiv.2511.16442"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E-20260819-Move You Say",
+        ".lake-data/DEP-E-20260819-Move You Say/README.md",
+        ".lake-data/DEP-E-20260819-Move You Say/move_you_say_motion_manuscript.md",
+        ".logs/20260819-Arxiv-Move-You-Say-Motion-LOG.md",
+        ".logs/20260819-Arxiv-Move-You-Say-Motion-PHASE-LOG.md",
+        ".reports/BL-Arxiv-Move-You-Say-Motion-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.18036",
+      "arxiv_id": "2403.18036v1",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2403.18036",
+      "normalized_title": "Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance",
+      "notes": "Uniform draw index 6095 of 75964 parent-paper units from 75967 PDFs; first draw accepted; duplicate exclusions 0; reselections 0; initial partial source repaired through the bounded broker route; PDF/full-paper HTML verification passed; missing-only cache is cached with pypdf/html-regex fallbacks; source files withheld locally.",
+      "slug": "Move-You-Say-Motion",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.18036",
+        "https://arxiv.org/html/2403.18036",
+        "https://arxiv.org/pdf/2403.18036",
+        "https://arxiv.org/e-print/2403.18036",
+        "https://doi.org/10.48550/arXiv.2403.18036",
+        "https://afford-motion.github.io/",
+        "https://github.com/afford-motion/afford-motion"
+      ],
+      "status": "deposited"
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-18"
+  "updated_date": "2026-08-19"
 }
