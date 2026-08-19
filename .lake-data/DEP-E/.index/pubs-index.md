@@ -6966,3 +6966,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning* | Ma, Zeyuan; Lian, Hongqiao; Qiu, Wenjie; Gong, Yue-Jiao | [arXiv:2503.18066](https://arxiv.org/abs/2503.18066) - [DOI](https://doi.org/10.48550/arXiv.2503.18066) |
+
+
+## [DEP-E-20260819-deGraphCS Embedding](../DEP-E-20260819-deGraphCS%20Embedding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search* | Zeng, Chen; Yu, Yue; Li, Shanshan; Xia, Xin; Wang, Zhiming; Geng, Mingyang; Xiao, Bailin; Dong, Wei; Liao, Xiangke | [arXiv:2103.13020](https://arxiv.org/abs/2103.13020) - [DOI](https://doi.org/10.48550/arXiv.2103.13020) |
