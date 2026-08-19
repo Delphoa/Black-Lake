@@ -8562,3 +8562,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stereo World Model: Camera-Guided Stereo Video Generation* | Sun, Yang-Tian; Huang, Zehuan; Niu, Yifan; Ma, Lin; Cao, Yan-Pei; Ma, Yuewen; Qi, Xiaojuan | [arXiv:2603.17375](https://arxiv.org/abs/2603.17375) - [DOI](https://doi.org/10.48550/arXiv.2603.17375) |
+
+
+## [DEP-E-20260819-ManuRAG Multi-modal](../DEP-E-20260819-ManuRAG%20Multi-modal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ManuRAG: Multi-modal Retrieval Augmented Generation for Manufacturing Question Answering (Early Version)* | Li, Yunqing; Dong, Zihan; Ameri, Farhad; Zhang, Jianbang | [arXiv:2601.15434](https://arxiv.org/abs/2601.15434) - [DOI](https://doi.org/10.48550/arXiv.2601.15434) |
