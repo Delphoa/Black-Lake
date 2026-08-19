@@ -10039,3 +10039,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model* | Zhang, Mingyuan; Guo, Xinying; Pan, Liang; Cai, Zhongang; Hong, Fangzhou; Li, Huirong; Yang, Lei; Liu, Ziwei | [arXiv:2304.01116](https://arxiv.org/abs/2304.01116) - [DOI](https://doi.org/10.48550/arXiv.2304.01116) |
+
+
+## [DEP-E-20260819-Adversarial](../DEP-E-20260819-Adversarial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis* | Chen, Yu; He, Botao; Mao, Yuemin; Jakobsson, Arthur; Ke, Jeffrey; Aloimonos, Yiannis; Shi, Guanya; Choset, Howie; Mao, Jiayuan; Ichnowski, Jeffrey | [arXiv:2511.05809](https://arxiv.org/abs/2511.05809) - [DOI](https://doi.org/10.48550/arXiv.2511.05809) |
