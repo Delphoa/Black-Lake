@@ -8373,3 +8373,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DynamicPO: Dynamic Preference Optimization for Recommendation* | Hu, Xingyu; Zhang, Kai; Wu, Jiancan; Wang, Shuli; Wang, Chi; Chen, Wenshuai; Zhu, Yinhua; Wang, Haitao; Wang, Xingxing; Wang, Xiang | [arXiv:2605.00327](https://arxiv.org/abs/2605.00327) - [DOI](https://doi.org/10.48550/arXiv.2605.00327) |
+
+
+## [DEP-E-20260819-SpectralMamba-UNet](../DEP-E-20260819-SpectralMamba-UNet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation* | Zhang, Fuhao; Liu, Lei; Zhang, Jialin; Zhang, Ya-Nan; Mu, Nan | [arXiv:2602.23103](https://arxiv.org/abs/2602.23103) - [DOI](https://doi.org/10.48550/arXiv.2602.23103) |
