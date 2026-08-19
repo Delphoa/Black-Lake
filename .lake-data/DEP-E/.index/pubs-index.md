@@ -4761,3 +4761,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-fidelity Reinforcement Learning Control for Complex Dynamical Systems* | Sun, Luning; Liu, Xin-Yang; Zhao, Siyan; Grover, Aditya; Wang, Jian-Xun; Thiagarajan, Jayaraman J. | [arXiv:2504.05588](https://arxiv.org/abs/2504.05588) - [DOI](https://doi.org/10.48550/arXiv.2504.05588) |
+
+
+## [DEP-E-20260819-Efficient Self-supervised](../DEP-E-20260819-Efficient%20Self-supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Self-supervised Continual Learning with Progressive Task-correlated Layer Freezing* | Yang, Li; Lin, Sen; Zhang, Fan; Zhang, Junshan; Fan, Deliang | [arXiv:2303.07477](https://arxiv.org/abs/2303.07477) - [DOI](https://doi.org/10.48550/arXiv.2303.07477) |
