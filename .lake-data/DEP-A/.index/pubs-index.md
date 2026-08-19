@@ -10769,3 +10769,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Framework for Evaluating Snippet Generation for Dataset Search* | Wang, Xiaxia; Chen, Jinchi; Li, Shuxin; Cheng, Gong; Pan, Jeff Z.; Kharlamov, Evgeny; Qu, Yuzhong | [arXiv:1907.01183](https://arxiv.org/abs/1907.01183) - [DOI](https://doi.org/10.48550/arXiv.1907.01183) |
+
+## [DEP-A-20260820-A Policy Intake](../DEP-A-20260820-A%20Policy%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Policy%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Policy Optimization Method Towards Optimal-time Stability* | Wang, Shengjie; Lan, Fengbo; Zheng, Xiang; Cao, Yuxue; Oseni, Oluwatosin; Xu, Haotian; Zhang, Tao; Gao, Yang | [arXiv:2301.00521](https://arxiv.org/abs/2301.00521) - [DOI](https://doi.org/10.48550/arXiv.2301.00521) |
