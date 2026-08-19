@@ -11618,3 +11618,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Alaya-EVOKE: From Linear-Scaling Supervision to Endless World* | Yuanyang Yin; Gongxuan Wang; Yifan Zhan; Chuanhao Li; Kaipeng Zhang; Feng Zhao | [arXiv:2608.13546v1](https://arxiv.org/abs/2608.13546v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13546) |
+
+
+## [DEP-A-20260819-Enhancing Virtual Agents](../DEP-A-20260819-Enhancing%20Virtual%20Agents/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13420-whitepaper-review.md`](../DEP-A-20260819-Enhancing%20Virtual%20Agents/2608.13420-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes* | Aimilios Hadjiliasi; Louis Nisiotis | [arXiv:2608.13420v1](https://arxiv.org/abs/2608.13420v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13420) |
