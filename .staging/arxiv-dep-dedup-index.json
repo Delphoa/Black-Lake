@@ -9891,6 +9891,29 @@
         "https://doi.org/10.48550/arXiv.2004.14457"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-CMamba Channel",
+        ".logs/20260819-Arxiv-CMamba-Channel-Correlation-Enhanced-State-Space-LOG.md",
+        ".reports/BL-Arxiv-CMamba-Channel-Correlation-Enhanced-State-Space-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.05316",
+      "arxiv_id": "2406.05316",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2406.05316",
+      "normalized_title": "CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P10; draw 65138 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "CMamba-Channel-Correlation-Enhanced-State-Space",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.05316",
+        "https://arxiv.org/html/2406.05316",
+        "https://arxiv.org/pdf/2406.05316",
+        "https://doi.org/10.48550/arXiv.2406.05316"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -4726,3 +4726,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *"The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition* | Zhou, Yichao; Jiang, Jyun-Yu; Zhao, Jieyu; Chang, Kai-Wei; Wang, Wei | [arXiv:2004.14457](https://arxiv.org/abs/2004.14457) - [DOI](https://doi.org/10.48550/arXiv.2004.14457) |
+
+
+## [DEP-E-20260819-CMamba Channel](../DEP-E-20260819-CMamba%20Channel/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting* | Zeng, Chaolv; Liu, Zhanyu; Zheng, Guanjie; Kong, Linghe | [arXiv:2406.05316](https://arxiv.org/abs/2406.05316) - [DOI](https://doi.org/10.48550/arXiv.2406.05316) |
