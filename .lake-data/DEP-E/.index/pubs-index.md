@@ -4880,3 +4880,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Verifiable User Simulation for Search and Recommendation Systems* | Ma, Chenglong; Wanyan, Xinye; Hettiachchi, Danula; Xu, Ziqi; Ren, Yongli; Chan, Jeffrey | [arXiv:2606.14474](https://arxiv.org/abs/2606.14474) - [DOI](https://doi.org/10.1145/3805712.3808645) |
+
+
+## [DEP-E-20260819-Fluid Antenna Index](../DEP-E-20260819-Fluid%20Antenna%20Index/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fluid Antenna Index Modulation for MIMO Systems: Robust Transmission and Low-Complexity Detection* | Guo, Xinghao; Xu, Yin; He, Dazhi; Zhang, Cixiao; Hong, Hanjiang; Wong, Kai-Kit; Zhang, Wenjun; Wu, Yiyan | [arXiv:2412.04877](https://arxiv.org/abs/2412.04877) - [DOI](https://doi.org/10.48550/arXiv.2412.04877) |
