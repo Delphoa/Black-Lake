@@ -18608,6 +18608,29 @@
         "https://doi.org/10.48550/arXiv.2112.14332"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Student Competency",
+        ".logs/20260819-Arxiv-Student-Competency-Assessment-and-Presentation-LOG.md",
+        ".reports/BL-Arxiv-Student-Competency-Assessment-and-Presentation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.00200",
+      "arxiv_id": "2606.00200",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/FIE63693.2025.11328247",
+      "normalized_title": "Student Competency Assessment and Presentation Methods Based on Algorithm Courses",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P79; draw 18420 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 19; reselections 20; complete-source gate passed; all source files withheld locally.",
+      "slug": "Student-Competency-Assessment-and-Presentation",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.00200",
+        "https://arxiv.org/html/2606.00200",
+        "https://arxiv.org/pdf/2606.00200",
+        "https://doi.org/10.1109/FIE63693.2025.11328247"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
