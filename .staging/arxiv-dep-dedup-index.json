@@ -10489,6 +10489,29 @@
         "https://doi.org/10.48550/arXiv.1609.05820"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Hierarchical Trajectory",
+        ".logs/20260819-Arxiv-Hierarchical-Trajectory-Planning-of-Floating-LOG.md",
+        ".reports/BL-Arxiv-Hierarchical-Trajectory-Planning-of-Floating-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.22459",
+      "arxiv_id": "2602.22459",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/TASE.2026.3669051",
+      "normalized_title": "Hierarchical Trajectory Planning of Floating-Base Multi-Link Robot for Maneuvering in Confined Environments",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P26; draw 42387 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 10; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "Hierarchical-Trajectory-Planning-of-Floating",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.22459",
+        "https://arxiv.org/html/2602.22459",
+        "https://arxiv.org/pdf/2602.22459",
+        "https://doi.org/10.1109/TASE.2026.3669051"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

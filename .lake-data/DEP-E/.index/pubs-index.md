@@ -4908,3 +4908,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences* | Chen, Yuxin; Candes, Emmanuel | [arXiv:1609.05820](https://arxiv.org/abs/1609.05820) - [DOI](https://doi.org/10.48550/arXiv.1609.05820) |
+
+
+## [DEP-E-20260819-Hierarchical Trajectory](../DEP-E-20260819-Hierarchical%20Trajectory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Trajectory Planning of Floating-Base Multi-Link Robot for Maneuvering in Confined Environments* | Chen, Yicheng; Li, Jinjie; Liu, Haokun; Luo, Zicheng; Kaneko, Kotaro; Zhao, Moju | [arXiv:2602.22459](https://arxiv.org/abs/2602.22459) - [DOI](https://doi.org/10.1109/TASE.2026.3669051) |
