@@ -9388,3 +9388,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation* | Hu, Yue; Wu, Junzhe; Xu, Ruihan; Liu, Hang; Xi, Avery; Liu, Henry X.; Vasudevan, Ram; Ghaffari, Maani | [arXiv:2508.06990](https://arxiv.org/abs/2508.06990) - [DOI](https://doi.org/10.48550/arXiv.2508.06990) |
+
+
+## [DEP-E-20260819-Survey on Graph Neural](../DEP-E-20260819-Survey%20on%20Graph%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Survey on Graph Neural Network Acceleration: An Algorithmic Perspective* | Liu, Xin; Yan, Mingyu; Deng, Lei; Li, Guoqi; Ye, Xiaochun; Fan, Dongrui; Pan, Shirui; Xie, Yuan | [arXiv:2202.04822](https://arxiv.org/abs/2202.04822) - [DOI](https://doi.org/10.48550/arXiv.2202.04822) |
