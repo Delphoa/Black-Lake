@@ -9255,3 +9255,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Trajectory Planning for Autonomous Driving in Low-speed Driving Scenarios Based on RRT and Optimization* | Chen, Yuying; Ye, Haoyang; Liu, Ming | [arXiv:1904.02606](https://arxiv.org/abs/1904.02606) - [DOI](https://doi.org/10.48550/arXiv.1904.02606) |
+
+
+## [DEP-E-20260819-FARM Frequency-Aware](../DEP-E-20260819-FARM%20Frequency-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation* | Li, Xiaodong; Yang, Ruochen; Wen, Shuang; Wang, Shen; Liu, Yueyang; Wang, Guoquan; Hu, Weisong; Luo, Qiang; Sheng, Jiawei; Liu, Tingwen; Cao, Jiangxia; Yang, Shuang; Liu, Zhaojie | [arXiv:2502.09375](https://arxiv.org/abs/2502.09375) - [DOI](https://doi.org/10.48550/arXiv.2502.09375) |
