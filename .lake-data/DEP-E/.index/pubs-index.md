@@ -7722,3 +7722,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Co-design Hardware and Algorithm for Vector Search* | Jiang, Wenqi; Li, Shigang; Zhu, Yu; Licht, Johannes de Fine; He, Zhenhao; Shi, Runbin; Renggli, Cedric; Zhang, Shuai; Rekatsinas, Theodoros; Hoefler, Torsten; Alonso, Gustavo | [arXiv:2306.11182](https://arxiv.org/abs/2306.11182) - [DOI](https://doi.org/10.48550/arXiv.2306.11182) |
+
+
+## [DEP-E-20260819-Chunks as Arms](../DEP-E-20260819-Chunks%20as%20Arms/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization* | Duan, Shaohua; Huang, Pengcheng; Li, Xinze; Liu, Zhenghao; Yi, Xiaoyuan; Yan, Yukun; Wang, Shuo; Gu, Yu; Yu, Ge; Sun, Maosong | [arXiv:2508.13993](https://arxiv.org/abs/2508.13993) - [DOI](https://doi.org/10.48550/arXiv.2508.13993) |
