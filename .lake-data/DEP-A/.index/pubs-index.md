@@ -11177,3 +11177,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference* | Asaad Althoubi | [arXiv:2608.08878v1](https://arxiv.org/abs/2608.08878v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08878) |
+
+
+## [DEP-A-20260819-Deferred Audio Pruning Lo](../DEP-A-20260819-Deferred%20Audio%20Pruning%20Lo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08794-whitepaper-review.md`](../DEP-A-20260819-Deferred%20Audio%20Pruning%20Lo/2608.08794-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deferred Audio Pruning with Local Audio-Visual Dynamics for Omni-LLMs* | Kyeongyoon Lee; Hongyeob Kim; Youngeun Kim; Sungeun Hong | [arXiv:2608.08794v1](https://arxiv.org/abs/2608.08794v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08794) |
