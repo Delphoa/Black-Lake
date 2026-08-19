@@ -13824,6 +13824,29 @@
         "https://doi.org/10.48550/arXiv.2412.10673"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Beyond Model Base",
+        ".logs/20260819-Arxiv-Beyond-Model-Base-Retrieval-Weaving-Knowledge-to-LOG.md",
+        ".reports/BL-Arxiv-Beyond-Model-Base-Retrieval-Weaving-Knowledge-to-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.15336",
+      "arxiv_id": "2507.15336",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2507.15336",
+      "normalized_title": "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P171; draw 21202 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Beyond-Model-Base-Retrieval-Weaving-Knowledge-to",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.15336",
+        "https://arxiv.org/html/2507.15336",
+        "https://arxiv.org/pdf/2507.15336",
+        "https://doi.org/10.48550/arXiv.2507.15336"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

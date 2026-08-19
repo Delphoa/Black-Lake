@@ -5923,3 +5923,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Proposing and solving olympiad geometry with guided tree search* | Zhang, Chi; Song, Jiajun; Li, Siyu; Liang, Yitao; Ma, Yuxi; Wang, Wei; Zhu, Yixin; Zhu, Song-Chun | [arXiv:2412.10673](https://arxiv.org/abs/2412.10673) - [DOI](https://doi.org/10.48550/arXiv.2412.10673) |
+
+
+## [DEP-E-20260819-Beyond Model Base](../DEP-E-20260819-Beyond%20Model%20Base/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design* | Wang, Jialiang; Liu, Hanmo; Di, Shimin; Wang, Zhili; Wang, Jiachuan; Chen, Lei; Zhou, Xiaofang | [arXiv:2507.15336](https://arxiv.org/abs/2507.15336) - [DOI](https://doi.org/10.48550/arXiv.2507.15336) |
