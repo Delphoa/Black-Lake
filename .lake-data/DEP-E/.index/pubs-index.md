@@ -4655,3 +4655,11 @@ Review status: complete PDF and official full-paper HTML were verified privately
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoCom: Motion-based Inter-MAV Visual Communication Using Event Vision and Spiking Neural Networks* | Nengbo Zhang; Hann Woei Ho; Ye Zhou | [arXiv:2510.14770v1](https://arxiv.org/abs/2510.14770v1) - [DOI](https://doi.org/10.1109/TRO.2026.3677077) |
+
+## [DEP-E-20260819-SpeeD Time Steps](../DEP-E-20260819-SpeeD%20Time%20Steps/README.md)
+
+Review status: complete PDF and full-paper HTML were verified privately; public source files were withheld. The owning manuscript is [`speed_time_steps_manuscript.md`](../DEP-E-20260819-SpeeD%20Time%20Steps/speed_time_steps_manuscript.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training* | Kai Wang; Mingjia Shi; Yukun Zhou; Zekai Li; Zhihang Yuan; Yuzhang Shang; Xiaojiang Peng; Hanwang Zhang; Yang You | [arXiv:2405.17403v3](https://arxiv.org/abs/2405.17403v3) - [DOI](https://doi.org/10.48550/arXiv.2405.17403) |
