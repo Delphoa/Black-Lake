@@ -10312,3 +10312,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stratified and Time-aware Sampling based Adaptive Ensemble Learning for Streaming Recommendations* | Zhao, Yan; Wang, Shoujin; Wang, Yan; Liu, Hongwei | [arXiv:2009.06824](https://arxiv.org/abs/2009.06824) - [DOI](https://doi.org/10.48550/arXiv.2009.06824) |
+
+
+## [DEP-E-20260819-LongScape Advancing](../DEP-E-20260819-LongScape%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE* | Shang, Yu; Jin, Lei; Ma, Yiding; Zhang, Xin; Gao, Chen; Wu, Wei; Li, Yong | [arXiv:2509.21790](https://arxiv.org/abs/2509.21790) - [DOI](https://doi.org/10.48550/arXiv.2509.21790) |
