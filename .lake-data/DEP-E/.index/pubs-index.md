@@ -7806,3 +7806,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning* | Jiang, Yu; Tong, Xindi; Liu, Ziyao; Zhang, Xiaoxi; Lam, Kwok-Yan; Tan, Chee Wei | [arXiv:2512.23171](https://arxiv.org/abs/2512.23171) - [DOI](https://doi.org/10.1109/TIFS.2025.3636788) |
+
+
+## [DEP-E-20260819-BMAM Brain-inspired](../DEP-E-20260819-BMAM%20Brain-inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BMAM: Brain-inspired Multi-Agent Memory Framework* | Li, Yang; Liu, Jiaxiang; Wang, Yusong; Wu, Yujie; Xu, Mingkun | [arXiv:2601.20465](https://arxiv.org/abs/2601.20465) - [DOI](https://doi.org/10.48550/arXiv.2601.20465) |

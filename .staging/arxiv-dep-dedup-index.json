@@ -20011,6 +20011,29 @@
         "https://doi.org/10.1109/TIFS.2025.3636788"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-BMAM Brain-inspired",
+        ".logs/20260819-Arxiv-BMAM-Brain-inspired-Multi-Agent-Memory-Framework-LOG.md",
+        ".reports/BL-Arxiv-BMAM-Brain-inspired-Multi-Agent-Memory-Framework-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.20465",
+      "arxiv_id": "2601.20465",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2601.20465",
+      "normalized_title": "BMAM: Brain-inspired Multi-Agent Memory Framework",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P140; draw 63007 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 2; focus exclusions 22; reselections 24; complete-source gate passed; all source files withheld locally.",
+      "slug": "BMAM-Brain-inspired-Multi-Agent-Memory-Framework",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.20465",
+        "https://arxiv.org/html/2601.20465",
+        "https://arxiv.org/pdf/2601.20465",
+        "https://doi.org/10.48550/arXiv.2601.20465"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
