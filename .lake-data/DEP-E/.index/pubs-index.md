@@ -6987,3 +6987,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RISE: Self-Improving Robot Policy with Compositional World Model* | Yang, Jiazhi; Lin, Kunyang; Li, Jinwei; Zhang, Wencong; Lin, Tianwei; Wu, Longyan; Su, Zhizhong; Zhao, Hao; Zhang, Ya-Qin; Chen, Li; Luo, Ping; Yue, Xiangyu; Li, Hongyang | [arXiv:2602.11075](https://arxiv.org/abs/2602.11075) - [DOI](https://doi.org/10.48550/arXiv.2602.11075) |
+
+
+## [DEP-E-20260819-A Quantum SMT Solver for](../DEP-E-20260819-A%20Quantum%20SMT%20Solver%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Quantum SMT Solver for Bit-Vector Theory* | Lin, Shang-Wei; Chen, Si-Han; Wang, Tzu-Fan; Chen, Yean-Ru | [arXiv:2303.09353](https://arxiv.org/abs/2303.09353) - [DOI](https://doi.org/10.48550/arXiv.2303.09353) |

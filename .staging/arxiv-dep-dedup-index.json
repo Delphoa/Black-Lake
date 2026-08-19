@@ -17320,6 +17320,29 @@
         "https://doi.org/10.48550/arXiv.2602.11075"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Quantum SMT Solver for",
+        ".logs/20260819-Arxiv-A-Quantum-SMT-Solver-for-Bit-Vector-LOG.md",
+        ".reports/BL-Arxiv-A-Quantum-SMT-Solver-for-Bit-Vector-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2303.09353",
+      "arxiv_id": "2303.09353",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2303.09353",
+      "normalized_title": "A Quantum SMT Solver for Bit-Vector Theory",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P23; draw 71863 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 35; reselections 38; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Quantum-SMT-Solver-for-Bit-Vector",
+      "source_urls": [
+        "https://arxiv.org/abs/2303.09353",
+        "https://arxiv.org/html/2303.09353",
+        "https://arxiv.org/pdf/2303.09353",
+        "https://doi.org/10.48550/arXiv.2303.09353"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
