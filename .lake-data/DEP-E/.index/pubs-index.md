@@ -5566,3 +5566,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting* | Jiang, Menghua; Gao, Haokai; Chen, Shuhao; Chen, Yin | [arXiv:2512.05619](https://arxiv.org/abs/2512.05619) - [DOI](https://doi.org/10.48550/arXiv.2512.05619) |
+
+
+## [DEP-E-20260819-WT-UMI Tactile-based](../DEP-E-20260819-WT-UMI%20Tactile-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning* | Jang, Jaehwi; Gu, Zhaoyuan; Cueva, Alfred; Chai, Zimeng; Sheng, Junjie; Nguyen, Thong; Galundia, Himank; Wu, Yifan; Xue, Huishu; Legene, Isaac; Mediratta, Ojas; Doan, Davin; Collins, Andrew; Sadegh, Sarah; Kim, KyoungMok; Dhalbisoi, Rishita; Chen, Zun; Zhao, Ye | [arXiv:2606.13232](https://arxiv.org/abs/2606.13232) - [DOI](https://doi.org/10.48550/arXiv.2606.13232) |

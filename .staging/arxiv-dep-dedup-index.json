@@ -12651,6 +12651,29 @@
         "https://doi.org/10.48550/arXiv.2512.05619"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-WT-UMI Tactile-based",
+        ".logs/20260819-Arxiv-WT-UMI-Tactile-based-Whole-Body-Manipulation-LOG.md",
+        ".reports/BL-Arxiv-WT-UMI-Tactile-based-Whole-Body-Manipulation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.13232",
+      "arxiv_id": "2606.13232",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.13232",
+      "normalized_title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P120; draw 26844 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "WT-UMI-Tactile-based-Whole-Body-Manipulation",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.13232",
+        "https://arxiv.org/html/2606.13232",
+        "https://arxiv.org/pdf/2606.13232",
+        "https://doi.org/10.48550/arXiv.2606.13232"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
