@@ -21138,6 +21138,29 @@
         "https://doi.org/10.48550/arXiv.2409.07392"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-The bilateral solver for",
+        ".logs/20260819-Arxiv-The-bilateral-solver-for-quality-estimation-LOG.md",
+        ".reports/BL-Arxiv-The-bilateral-solver-for-quality-estimation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1904.01417",
+      "arxiv_id": "1904.01417",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1904.01417",
+      "normalized_title": "The bilateral solver for quality estimation based multi-focus image fusion",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P189; draw 12801 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 12; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-bilateral-solver-for-quality-estimation",
+      "source_urls": [
+        "https://arxiv.org/abs/1904.01417",
+        "https://arxiv.org/html/1904.01417",
+        "https://arxiv.org/pdf/1904.01417",
+        "https://doi.org/10.48550/arXiv.1904.01417"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

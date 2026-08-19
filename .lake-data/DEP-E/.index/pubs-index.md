@@ -8149,3 +8149,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Scalable Algorithm for Active Learning* | Chen, Youguang; Wen, Zheyu; Biros, George | [arXiv:2409.07392](https://arxiv.org/abs/2409.07392) - [DOI](https://doi.org/10.48550/arXiv.2409.07392) |
+
+
+## [DEP-E-20260819-The bilateral solver for](../DEP-E-20260819-The%20bilateral%20solver%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The bilateral solver for quality estimation based multi-focus image fusion* | Guan, Jingwei; Chen, Yibo; Cham, Wai-kuen | [arXiv:1904.01417](https://arxiv.org/abs/1904.01417) - [DOI](https://doi.org/10.48550/arXiv.1904.01417) |
