@@ -9486,3 +9486,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models* | Chen, Yixin; Dey, Tonmoy; Kuhnle, Alan | [arXiv:2206.09563](https://arxiv.org/abs/2206.09563) - [DOI](https://doi.org/10.1613/jair.1.15484) |
+
+
+## [DEP-E-20260819-Customize Harmonic](../DEP-E-20260819-Customize%20Harmonic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths* | Wang, Shuaikang; Guo, Tiecheng; Guo, Meng | [arXiv:2507.09858](https://arxiv.org/abs/2507.09858) - [DOI](https://doi.org/10.48550/arXiv.2507.09858) |
