@@ -8002,3 +8002,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence* | Wang, Shengbo; Li, Ke | [arXiv:2312.03212](https://arxiv.org/abs/2312.03212) - [DOI](https://doi.org/10.48550/arXiv.2312.03212) |
+
+
+## [DEP-E-20260819-PISTO Proximal Inference](../DEP-E-20260819-PISTO%20Proximal%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PISTO: Proximal Inference for Stochastic Trajectory Optimization* | Yu, Hongzhe; Chang, Zinuo; Chen, Yongxin | [arXiv:2605.07215](https://arxiv.org/abs/2605.07215) - [DOI](https://doi.org/10.48550/arXiv.2605.07215) |
