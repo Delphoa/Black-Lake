@@ -5132,3 +5132,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering* | Joshi, Vinay; Brahma, Pratik Prabhanjan; Liu, Zicheng; Barsoum, Emad | [arXiv:2506.04642](https://arxiv.org/abs/2506.04642) - [DOI](https://doi.org/10.48550/arXiv.2506.04642) |
+
+
+## [DEP-E-20260819-Planning with Logical](../DEP-E-20260819-Planning%20with%20Logical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Planning with Logical Graph-based Language Model for Instruction Generation* | Zhang, Fan; Jin, Kebing; Zhuo, Hankz Hankui | [arXiv:2308.13782](https://arxiv.org/abs/2308.13782) - [DOI](https://doi.org/10.48550/arXiv.2308.13782) |
