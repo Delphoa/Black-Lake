@@ -9857,3 +9857,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Semantics-Enhanced Retrieval-Augmented Time Series Forecasting* | Zhou, Shiqiao; Wu, Zipeng; Schöner, Holger; Fouché, Edouard; Wilson, IAG; Wang, Shuo | [arXiv:2606.14941](https://arxiv.org/abs/2606.14941) - [DOI](https://doi.org/10.48550/arXiv.2606.14941) |
+
+
+## [DEP-E-20260819-Decentralized 07351](../DEP-E-20260819-Decentralized%2007351/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking* | Chen, Jun; Liu, Lina; Zhu, Tianyi; Liu, Yong; Dai, Guang; Jiang, Yunliang; Tsang, Ivor W. | [arXiv:2506.07351](https://arxiv.org/abs/2506.07351) - [DOI](https://doi.org/10.48550/arXiv.2506.07351) |
