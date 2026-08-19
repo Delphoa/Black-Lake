@@ -4747,3 +4747,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Markov Clustering Networks for Scene Text Detection* | Liu, Zichuan; Lin, Guosheng; Yang, Sheng; Feng, Jiashi; Lin, Weisi; Goh, Wang Ling | [arXiv:1805.08365](https://arxiv.org/abs/1805.08365) - [DOI](https://doi.org/10.48550/arXiv.1805.08365) |
+
+
+## [DEP-E-20260819-An Efficient Algorithm](../DEP-E-20260819-An%20Efficient%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Algorithm for Device Detection and Channel Estimation in Asynchronous IoT Systems* | Liu, Liang; Liu, Ya-Feng | [arXiv:2010.09979](https://arxiv.org/abs/2010.09979) - [DOI](https://doi.org/10.48550/arXiv.2010.09979) |
