@@ -8891,3 +8891,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago* | Liu, Yuhan; Zheng, Yuhan; Zhang, Siyuan; Liu, Lydia T. | [arXiv:2407.20522](https://arxiv.org/abs/2407.20522) - [DOI](https://doi.org/10.48550/arXiv.2407.20522) |
+
+
+## [DEP-E-20260819-Sensor Selection via](../DEP-E-20260819-Sensor%20Selection%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity* | Evmorfos, Spilios; Xu, Zhaoyi; Petropulu, Athina | [arXiv:2407.19736](https://arxiv.org/abs/2407.19736) - [DOI](https://doi.org/10.48550/arXiv.2407.19736) |
