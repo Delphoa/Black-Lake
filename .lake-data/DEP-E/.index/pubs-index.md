@@ -8534,3 +8534,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction* | Liu, Zhian; Nie, Yongwei; Long, Chengjiang; Zhang, Qing; Li, Guiqing | [arXiv:2108.06852](https://arxiv.org/abs/2108.06852) - [DOI](https://doi.org/10.48550/arXiv.2108.06852) |
+
+
+## [DEP-E-20260819-A Comparative Visual](../DEP-E-20260819-A%20Comparative%20Visual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization* | Huang, Yansong; Zhang, Zherui; Jiao, Ao; Ma, Yuxin; Cheng, Ran | [arXiv:2308.05640](https://arxiv.org/abs/2308.05640) - [DOI](https://doi.org/10.48550/arXiv.2308.05640) |
