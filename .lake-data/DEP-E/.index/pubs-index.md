@@ -7036,3 +7036,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B* | Xu, Sen; Zhou, Yi; Wang, Wei; Min, Jixin; Yin, Zhibin; Dai, Yingwei; Liu, Shixi; Pang, Lianyu; Chen, Yirong; Zhang, Junlin | [arXiv:2511.06221](https://arxiv.org/abs/2511.06221) - [DOI](https://doi.org/10.48550/arXiv.2511.06221) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented TLAPS](../DEP-E-20260819-Retrieval-Augmented%20TLAPS/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented TLAPS Proof Generation with Large Language Models* | Zhou, Yuhao | [arXiv:2501.03073](https://arxiv.org/abs/2501.03073) - [DOI](https://doi.org/10.48550/arXiv.2501.03073) |
