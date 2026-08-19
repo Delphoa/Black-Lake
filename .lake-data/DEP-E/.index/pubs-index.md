@@ -5356,3 +5356,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PiP: Planning-informed Trajectory Prediction for Autonomous Driving* | Song, Haoran; Ding, Wenchao; Chen, Yuxuan; Shen, Shaojie; Wang, Michael Yu; Chen, Qifeng | [arXiv:2003.11476](https://arxiv.org/abs/2003.11476) - [DOI](https://doi.org/10.1007/978-3-030-58589-1_36) |
+
+
+## [DEP-E-20260819-Scaling Multilingual](../DEP-E-20260819-Scaling%20Multilingual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling Multilingual Semantic Search in Uber Eats Delivery* | Ling, Bo; Liu, Zheng; Chen, Haoyang; Nagar, Divya; Yang, Luting; Parsana, Mehul | [arXiv:2603.06586](https://arxiv.org/abs/2603.06586) - [DOI](https://doi.org/10.48550/arXiv.2603.06586) |
