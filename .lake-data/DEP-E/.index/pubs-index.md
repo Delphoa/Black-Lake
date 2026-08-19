@@ -5482,3 +5482,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithm* | Taherkhani, Hamed; Sepindband, Melika; Pham, Hung Viet; Wang, Song; Hemmati, Hadi | [arXiv:2408.11198](https://arxiv.org/abs/2408.11198) - [DOI](https://doi.org/10.48550/arXiv.2408.11198) |
+
+
+## [DEP-E-20260819-Fast 3D Sparse](../DEP-E-20260819-Fast%203D%20Sparse/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast 3D Sparse Topological Skeleton Graph Generation for Mobile Robot Global Planning* | Chen, Xinyi; Zhou, Boyu; Lin, Jiarong; Zhang, Yichen; Zhang, Fu; Shen, Shaojie | [arXiv:2208.04248](https://arxiv.org/abs/2208.04248) - [DOI](https://doi.org/10.48550/arXiv.2208.04248) |
