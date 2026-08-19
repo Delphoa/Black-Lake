@@ -12086,3 +12086,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LOCAL: Enabling Learning On-device Contiguously for Agent LLMs* | Xinxin Liu; Jiaxin Li; Zibo Wang; Yun Ji; Zhangqi Zhu; Qing Hu; Zhibin Wang; Rong Gu; Sheng Zhong; Chen Tian | [arXiv:2608.15241v1](https://arxiv.org/abs/2608.15241v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15241) |
+
+
+## [DEP-A-20260819-Learning Agent Execution](../DEP-A-20260819-Learning%20Agent%20Execution/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.14624-whitepaper-review.md`](../DEP-A-20260819-Learning%20Agent%20Execution/2608.14624-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Agent Execution for KV-Cache Management in Agentic Serving* | Rui Zhang; Chaeeun Kim; Shaoting Feng; Kuntai Du; Yuhan Liu; Yi Zhong; Cheng-Wei Ching; Junchen Jiang; Liting Hu | [arXiv:2608.14624v1](https://arxiv.org/abs/2608.14624v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14624) |
