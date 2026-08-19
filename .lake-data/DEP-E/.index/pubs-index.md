@@ -5685,3 +5685,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos* | Jiang, Yuheng; Guo, Chengcheng; Wu, Yize; Hong, Yu; Zhu, Shengkun; Shen, Zhehao; Zhang, Yingliang; Jiao, Shaohui; Su, Zhuo; Xu, Lan; Habermann, Marc; Theobalt, Christian | [arXiv:2509.07653](https://arxiv.org/abs/2509.07653) - [DOI](https://doi.org/10.48550/arXiv.2509.07653) |
+
+
+## [DEP-E-20260819-Cross-Layer Traffic](../DEP-E-20260819-Cross-Layer%20Traffic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-Layer Traffic Allocation and Contention Window Optimization for Wi-Fi 7 MLO: When DRL Meets LSTM* | Liu, Zhang; Wang, Xianbin; Lian, Shumin; Huang, Lianfen; Fu, Liqun; Zhang, Ying-Jun Angela | [arXiv:2603.18602](https://arxiv.org/abs/2603.18602) - [DOI](https://doi.org/10.48550/arXiv.2603.18602) |
