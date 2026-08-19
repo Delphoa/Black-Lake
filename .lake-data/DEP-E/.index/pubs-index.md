@@ -9115,3 +9115,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ST-GIN: An Uncertainty Quantification Approach in Traffic Data Imputation with Spatio-temporal Graph Attention and Bidirectional Recurrent United Neural Networks* | Wang, Zepu; Zhuang, Dingyi; Li, Yankai; Zhao, Jinhua; Sun, Peng; Wang, Shenhao; Hu, Yulin | [arXiv:2305.06480](https://arxiv.org/abs/2305.06480) - [DOI](https://doi.org/10.48550/arXiv.2305.06480) |
+
+
+## [DEP-E-20260819-PersonaMem-v2 Towards](../DEP-E-20260819-PersonaMem-v2%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory* | Jiang, Bowen; Yuan, Yuan; Shen, Maohao; Hao, Zhuoqun; Xu, Zhangchen; Chen, Zichen; Liu, Ziyi; Vijjini, Anvesh Rao; He, Jiashu; Yu, Hanchao; Poovendran, Radha; Wornell, Gregory; Ungar, Lyle; Roth, Dan; Chen, Sihao; Taylor, Camillo Jose | [arXiv:2512.06688](https://arxiv.org/abs/2512.06688) - [DOI](https://doi.org/10.48550/arXiv.2512.06688) |
