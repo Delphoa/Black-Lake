@@ -9801,3 +9801,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Grounded Answers for Multi-agent Decision-making Problem through Generative World Model* | Liu, Zeyang; Yang, Xinrui; Sun, Shiguang; Qian, Long; Wan, Lipeng; Chen, Xingyu; Lan, Xuguang | [arXiv:2410.02664](https://arxiv.org/abs/2410.02664) - [DOI](https://doi.org/10.48550/arXiv.2410.02664) |
+
+
+## [DEP-E-20260819-Tensor Robust Principal](../DEP-E-20260819-Tensor%20Robust%20Principal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization* | Lu, Canyi; Feng, Jiashi; Chen, Yudong; Liu, Wei; Lin, Zhouchen; Yan, Shuicheng | [arXiv:1708.04181](https://arxiv.org/abs/1708.04181) - [DOI](https://doi.org/10.48550/arXiv.1708.04181) |
