@@ -7309,3 +7309,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Automated Random Embedding for Practical Bayesian Optimization with Unknown Effective Dimension* | Qian, Hong; Shu, Xiang; Xia, Xiang; Liu, Xuhui; Fu, Yangde; Liang, Bei; Wang, Huibin; Dou, Liang | [arXiv:2605.23473](https://arxiv.org/abs/2605.23473) - [DOI](https://doi.org/10.48550/arXiv.2605.23473) |
+
+
+## [DEP-E-20260819-FreqMark Invisible Image](../DEP-E-20260819-FreqMark%20Invisible%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space* | Guo, Yiyang; Li, Ruizhe; Hui, Mude; Guo, Hanzhong; Zhang, Chen; Cai, Chuangjian; Wan, Le; Wang, Shangfei | [arXiv:2410.20824](https://arxiv.org/abs/2410.20824) - [DOI](https://doi.org/10.48550/arXiv.2410.20824) |
