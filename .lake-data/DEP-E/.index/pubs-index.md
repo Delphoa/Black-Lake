@@ -6126,3 +6126,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Reverse Preference Optimization for Complex Instruction Following* | Huang, Xiang; Lin, Ting-En; Fang, Feiteng; Wu, Yuchuan; Li, Hangyu; Qu, Yuzhong; Huang, Fei; Li, Yongbin | [arXiv:2505.22172](https://arxiv.org/abs/2505.22172) - [DOI](https://doi.org/10.48550/arXiv.2505.22172) |
+
+
+## [DEP-E-20260819-M-FasterSeg An Efficient](../DEP-E-20260819-M-FasterSeg%20An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M-FasterSeg: An Efficient Semantic Segmentation Network Based on Neural Architecture Search* | Wu, Junjun; Kuang, Huiyu; Lu, Qinghua; Lin, Zeqin; Shi, Qingwu; Liu, Xilin; Zhu, Xiaoman | [arXiv:2112.07918](https://arxiv.org/abs/2112.07918) - [DOI](https://doi.org/10.48550/arXiv.2112.07918) |
