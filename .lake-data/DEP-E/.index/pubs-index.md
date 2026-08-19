@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **984 publication reviews across 630 DEP-E entries**.
+- Current coverage: **985 publication reviews across 631 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -10333,3 +10333,9 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Sampling that Adapts: Self-Aware Iterative Data Persistent Optimization for Mathematical Reasoning* | Rao, Jun; Liu, Xuebo; Deng, Hexuan; Lin, Zepeng; Yu, Zixiong; Wei, Jiansheng; Meng, Xiaojun; Zhang, Min | [arXiv:2505.16176](https://arxiv.org/abs/2505.16176) - [DOI](https://doi.org/10.48550/arXiv.2505.16176) |
+
+## [DEP-E-20260820-AV Parsing CMA](../DEP-E-20260820-AV%20Parsing%20CMA/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing* | Chen, Yaru; Guo, Ruohao; Gao, Liting; Xiang, Yang; Luo, Qingyu; Li, Zhenbo; Wang, Wenwu | [arXiv:2509.14097](https://arxiv.org/abs/2509.14097) |
