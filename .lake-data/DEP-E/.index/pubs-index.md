@@ -10186,3 +10186,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search* | Chen, Yiqun; Yan, Lingyong; Yang, Zixuan; Zhang, Erhan; Zhao, Jiashu; Wang, Shuaiqiang; Yin, Dawei; Mao, Jiaxin | [arXiv:2601.04703](https://arxiv.org/abs/2601.04703) - [DOI](https://doi.org/10.48550/arXiv.2601.04703) |
+
+
+## [DEP-E-20260819-MobileForge](../DEP-E-20260819-MobileForge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization* | Liu, Guangyi; Zhao, Pengxiang; Wu, Gao; Yin, Yiwen; Li, Mading; Liu, Liang; Liu, Congxiao; Qi, Zhang; Wang, Mengyan; Guo, Liang; Zhang, Jiangning; Liu, Yong | [arXiv:2606.19930](https://arxiv.org/abs/2606.19930) - [DOI](https://doi.org/10.48550/arXiv.2606.19930) |

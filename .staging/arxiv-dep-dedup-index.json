@@ -27831,6 +27831,29 @@
         "https://doi.org/10.48550/arXiv.2601.04703"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MobileForge",
+        ".logs/20260819-Arxiv-MobileForge-Annotation-Free-Adaptation-for-LOG.md",
+        ".reports/BL-Arxiv-MobileForge-Annotation-Free-Adaptation-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.19930",
+      "arxiv_id": "2606.19930",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.19930",
+      "normalized_title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P480; draw 57762 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 8; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "MobileForge-Annotation-Free-Adaptation-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.19930",
+        "https://arxiv.org/html/2606.19930",
+        "https://arxiv.org/pdf/2606.19930",
+        "https://doi.org/10.48550/arXiv.2606.19930"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
