@@ -11285,3 +11285,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management* | Zhiqiang Xie; Zhangheng Huang; Tingwei Huang; Ziyi Xu; Ruiyang Ma; Christos Kozyrakis | [arXiv:2608.07009v1](https://arxiv.org/abs/2608.07009v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07009) |
+
+
+## [DEP-A-20260819-QV PIC Query Aware](../DEP-A-20260819-QV%20PIC%20Query%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12121-whitepaper-review.md`](../DEP-A-20260819-QV%20PIC%20Query%20Aware/2608.12121-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QV-PIC: Query-Aware Visual Position-Independent Caching for Efficient RAG Serving* | Yilin Liu; Rui Meng; Wangze Ni; Jianxin Yan; Heng Cao; Libin Zheng; Peng Cheng; Jinfei Liu | [arXiv:2608.12121v1](https://arxiv.org/abs/2608.12121v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12121) |
