@@ -8051,3 +8051,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Language model fusion for streaming end to end speech recognition* | Cabrera, Rodrigo; Liu, Xiaofeng; Ghodsi, Mohammadreza; Matteson, Zebulun; Weinstein, Eugene; Kannan, Anjuli | [arXiv:2104.04487](https://arxiv.org/abs/2104.04487) - [DOI](https://doi.org/10.48550/arXiv.2104.04487) |
+
+
+## [DEP-E-20260819-DOGR Leveraging](../DEP-E-20260819-DOGR%20Leveraging/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DOGR: Leveraging Document-Oriented Contrastive Learning in Generative Retrieval* | Lu, Penghao; Dong, Xin; Zhou, Yuansheng; Cheng, Lei; Yuan, Chuan; Mo, Linjian | [arXiv:2502.07219](https://arxiv.org/abs/2502.07219) - [DOI](https://doi.org/10.48550/arXiv.2502.07219) |
