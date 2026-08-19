@@ -7652,3 +7652,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising* | Schechtman, Kara; Brandon, Benjamin; Stafford, Jenise; Li, Hannah; Liu, Lydia T. | [arXiv:2505.13325](https://arxiv.org/abs/2505.13325) - [DOI](https://doi.org/10.48550/arXiv.2505.13325) |
+
+
+## [DEP-E-20260819-Beyond Elicitation](../DEP-E-20260819-Beyond%20Elicitation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Elicitation: Provision-based Prompt Optimization for Knowledge-Intensive Tasks* | Xu, Yunzhe; Zhang, Zhuosheng; Liu, Zhe | [arXiv:2511.10465](https://arxiv.org/abs/2511.10465) - [DOI](https://doi.org/10.48550/arXiv.2511.10465) |
