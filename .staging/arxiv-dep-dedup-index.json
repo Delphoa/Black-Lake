@@ -13157,6 +13157,29 @@
         "https://doi.org/10.48550/arXiv.2604.27151"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Ferret An Efficient",
+        ".logs/20260819-Arxiv-Ferret-An-Efficient-Online-Continual-Learning-LOG.md",
+        ".reports/BL-Arxiv-Ferret-An-Efficient-Online-Continual-Learning-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.12053",
+      "arxiv_id": "2503.12053",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2503.12053",
+      "normalized_title": "Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P142; draw 22368 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "Ferret-An-Efficient-Online-Continual-Learning",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.12053",
+        "https://arxiv.org/html/2503.12053",
+        "https://arxiv.org/pdf/2503.12053",
+        "https://doi.org/10.48550/arXiv.2503.12053"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -5720,3 +5720,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Step-level Optimization for Efficient Computer-use Agents* | Authors listed on the public arXiv record | [arXiv:2604.27151](https://arxiv.org/abs/2604.27151) - [DOI](https://doi.org/10.48550/arXiv.2604.27151) |
+
+
+## [DEP-E-20260819-Ferret An Efficient](../DEP-E-20260819-Ferret%20An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints* | Zhou, Yuhao; Tian, Yuxin; Lv, Jindi; Shi, Mingjia; Li, Yuanxi; Ye, Qing; Zhang, Shuhao; Lv, Jiancheng | [arXiv:2503.12053](https://arxiv.org/abs/2503.12053) - [DOI](https://doi.org/10.48550/arXiv.2503.12053) |
