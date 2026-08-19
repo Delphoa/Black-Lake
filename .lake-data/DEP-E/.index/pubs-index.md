@@ -5076,3 +5076,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mobile Converged Networks: Framework, Optimization and Challenges* | Han, Tao; Yang, Yang; Ge, Xiaohu; Mao, Guoqiang | [arXiv:1606.07164](https://arxiv.org/abs/1606.07164) - [DOI](https://doi.org/10.1109/MWC.2014.7000969) |
+
+
+## [DEP-E-20260819-HERO Hessian-Enhanced](../DEP-E-20260819-HERO%20Hessian-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HERO: Hessian-Enhanced Robust Optimization for Unifying and Improving Generalization and Quantization Performance* | Yang, Huanrui; Yang, Xiaoxuan; Gong, Neil Zhenqiang; Chen, Yiran | [arXiv:2111.11986](https://arxiv.org/abs/2111.11986) - [DOI](https://doi.org/10.48550/arXiv.2111.11986) |

@@ -11041,6 +11041,29 @@
         "https://doi.org/10.1109/MWC.2014.7000969"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced",
+        ".logs/20260819-Arxiv-HERO-Hessian-Enhanced-Robust-Optimization-for-LOG.md",
+        ".reports/BL-Arxiv-HERO-Hessian-Enhanced-Robust-Optimization-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2111.11986",
+      "arxiv_id": "2111.11986",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2111.11986",
+      "normalized_title": "HERO: Hessian-Enhanced Robust Optimization for Unifying and Improving Generalization and Quantization Performance",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P50; draw 33089 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "HERO-Hessian-Enhanced-Robust-Optimization-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2111.11986",
+        "https://arxiv.org/html/2111.11986",
+        "https://arxiv.org/pdf/2111.11986",
+        "https://doi.org/10.48550/arXiv.2111.11986"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
