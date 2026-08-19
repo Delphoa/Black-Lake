@@ -5293,3 +5293,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization* | Mu, Jian; Lin, Tianyi; Qin, Chengwei; Dai, Zhongxiang; Shu, Yao | [arXiv:2605.31455](https://arxiv.org/abs/2605.31455) - [DOI](https://doi.org/10.48550/arXiv.2605.31455) |
+
+
+## [DEP-E-20260819-Perception-Aware Policy](../DEP-E-20260819-Perception-Aware%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Perception-Aware Policy Optimization for Multimodal Reasoning* | Wang, Zhenhailong; Guo, Xuehang; Stoica, Sofia; Xu, Haiyang; Wang, Hongru; Ha, Hyeonjeong; Chen, Xiusi; Chen, Yangyi; Yan, Ming; Huang, Fei; Ji, Heng | [arXiv:2507.06448](https://arxiv.org/abs/2507.06448) - [DOI](https://doi.org/10.48550/arXiv.2507.06448) |

@@ -11754,6 +11754,29 @@
         "https://doi.org/10.48550/arXiv.2605.31455"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Perception-Aware Policy",
+        ".logs/20260819-Arxiv-Perception-Aware-Policy-Optimization-for-LOG.md",
+        ".reports/BL-Arxiv-Perception-Aware-Policy-Optimization-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.06448",
+      "arxiv_id": "2507.06448",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2507.06448",
+      "normalized_title": "Perception-Aware Policy Optimization for Multimodal Reasoning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P81; draw 16788 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 8; reselections 9; complete-source gate passed; all source files withheld locally.",
+      "slug": "Perception-Aware-Policy-Optimization-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.06448",
+        "https://arxiv.org/html/2507.06448",
+        "https://arxiv.org/pdf/2507.06448",
+        "https://doi.org/10.48550/arXiv.2507.06448"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
