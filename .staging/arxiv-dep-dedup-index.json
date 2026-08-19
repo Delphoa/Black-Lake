@@ -16377,6 +16377,29 @@
         "https://doi.org/10.48550/arXiv.2411.03862"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Designing Low-Complexity",
+        ".logs/20260819-Arxiv-Designing-Low-Complexity-Heavy-Traffic-Delay-LOG.md",
+        ".reports/BL-Arxiv-Designing-Low-Complexity-Heavy-Traffic-Delay-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1710.04357",
+      "arxiv_id": "1710.04357",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1710.04357",
+      "normalized_title": "Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes: Theory to Algorithms",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P282; draw 6898 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Designing-Low-Complexity-Heavy-Traffic-Delay",
+      "source_urls": [
+        "https://arxiv.org/abs/1710.04357",
+        "https://arxiv.org/html/1710.04357",
+        "https://arxiv.org/pdf/1710.04357",
+        "https://doi.org/10.48550/arXiv.1710.04357"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

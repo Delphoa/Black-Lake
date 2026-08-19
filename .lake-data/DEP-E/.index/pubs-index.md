@@ -6700,3 +6700,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization* | Huang, Huayang; Wu, Yu; Wang, Qian | [arXiv:2411.03862](https://arxiv.org/abs/2411.03862) - [DOI](https://doi.org/10.48550/arXiv.2411.03862) |
+
+
+## [DEP-E-20260819-Designing Low-Complexity](../DEP-E-20260819-Designing%20Low-Complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes: Theory to Algorithms* | Zhou, Xingyu; Wu, Fei; Tan, Jian; Sun, Yin; Shroff, Ness | [arXiv:1710.04357](https://arxiv.org/abs/1710.04357) - [DOI](https://doi.org/10.48550/arXiv.1710.04357) |
