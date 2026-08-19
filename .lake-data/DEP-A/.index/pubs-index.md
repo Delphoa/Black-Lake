@@ -10943,3 +10943,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models* | Chen Qiu; Ziwu Liu; Chao Fei; Guozhong Li; Panos Kalnis | [arXiv:2608.09412v1](https://arxiv.org/abs/2608.09412v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09412) |
+
+
+## [DEP-A-20260819-Bidirectional Context Sel](../DEP-A-20260819-Bidirectional%20Context%20Sel/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09555-whitepaper-review.md`](../DEP-A-20260819-Bidirectional%20Context%20Sel/2608.09555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bidirectional Context Self-Distillation for Reinforcement Learning of Skill-Based LLM Agents* | Tianjun Pan; Yuan Li; Hongda Wang; Linbo Jin; Mengfei Song; Lei Gao; Qiming Shi; Shaokang Fu; Jiarong Zhao; Chengyu Wang; Chengfu Huo | [arXiv:2608.09555v1](https://arxiv.org/abs/2608.09555v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09555) |
