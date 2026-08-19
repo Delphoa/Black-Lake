@@ -8121,3 +8121,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Segmentation-based Method combined with Dynamic Programming for Brain Midline Delineation* | Wang, Shen; Liang, Kongming; Pan, Chengwei; Ye, Chuyang; Li, Xiuli; Liu, Feng; Yu, Yizhou; Wang, Yizhou | [arXiv:2002.11918](https://arxiv.org/abs/2002.11918) - [DOI](https://doi.org/10.48550/arXiv.2002.11918) |
+
+
+## [DEP-E-20260819-Make LLM Inference](../DEP-E-20260819-Make%20LLM%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM* | Liu, Lian; Zhao, Shixin; Li, Bing; Ren, Haimeng; Xu, Zhaohui; Wang, Mengdi; Li, Xiaowei; Han, Yinhe; Wang, Ying | [arXiv:2502.16963](https://arxiv.org/abs/2502.16963) - [DOI](https://doi.org/10.48550/arXiv.2502.16963) |

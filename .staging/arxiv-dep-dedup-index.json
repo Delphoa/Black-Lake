@@ -21046,6 +21046,29 @@
         "https://doi.org/10.48550/arXiv.2002.11918"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Make LLM Inference",
+        ".logs/20260819-Arxiv-Make-LLM-Inference-Affordable-to-Everyone-LOG.md",
+        ".reports/BL-Arxiv-Make-LLM-Inference-Affordable-to-Everyone-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.16963",
+      "arxiv_id": "2502.16963",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2502.16963",
+      "normalized_title": "Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P185; draw 21324 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 3; focus exclusions 16; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "Make-LLM-Inference-Affordable-to-Everyone",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.16963",
+        "https://arxiv.org/html/2502.16963",
+        "https://arxiv.org/pdf/2502.16963",
+        "https://doi.org/10.48550/arXiv.2502.16963"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
