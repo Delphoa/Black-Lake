@@ -5629,3 +5629,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Finite-time Convergence Analysis of Actor-Critic with Evolving Reward* | Hu, Rui; Chen, Yu; Huang, Longbo | [arXiv:2510.12334](https://arxiv.org/abs/2510.12334) - [DOI](https://doi.org/10.48550/arXiv.2510.12334) |
+
+
+## [DEP-E-20260819-Constraint-Conditioned](../DEP-E-20260819-Constraint-Conditioned/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning* | Yao, Yihang; Liu, Zuxin; Cen, Zhepeng; Zhu, Jiacheng; Yu, Wenhao; Zhang, Tingnan; Zhao, Ding | [arXiv:2310.03718](https://arxiv.org/abs/2310.03718) - [DOI](https://doi.org/10.48550/arXiv.2310.03718) |
