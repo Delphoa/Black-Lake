@@ -26888,6 +26888,29 @@
         "https://doi.org/10.48550/arXiv.2411.01142"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Building Autonomous GUI",
+        ".logs/20260819-Arxiv-Building-Autonomous-GUI-Navigation-via-Agentic-Q-LOG.md",
+        ".reports/BL-Arxiv-Building-Autonomous-GUI-Navigation-via-Agentic-Q-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.13653",
+      "arxiv_id": "2602.13653",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.13653",
+      "normalized_title": "Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P439; draw 38815 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 13; focus exclusions 73; reselections 86; complete-source gate passed; all source files withheld locally.",
+      "slug": "Building-Autonomous-GUI-Navigation-via-Agentic-Q",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.13653",
+        "https://arxiv.org/html/2602.13653",
+        "https://arxiv.org/pdf/2602.13653",
+        "https://doi.org/10.48550/arXiv.2602.13653"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

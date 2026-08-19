@@ -9899,3 +9899,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference* | Jiang, Xuanlin; Zhou, Yang; Cao, Shiyi; Stoica, Ion; Yu, Minlan | [arXiv:2411.01142](https://arxiv.org/abs/2411.01142) - [DOI](https://doi.org/10.48550/arXiv.2411.01142) |
+
+
+## [DEP-E-20260819-Building Autonomous GUI](../DEP-E-20260819-Building%20Autonomous%20GUI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization* | Wang, Yibo; Huzhang, Guangda; Hu, Yuwei; Xia, Yu; Lu, Shiyin; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhang, Lijun | [arXiv:2602.13653](https://arxiv.org/abs/2602.13653) - [DOI](https://doi.org/10.48550/arXiv.2602.13653) |
