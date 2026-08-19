@@ -5020,3 +5020,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decoupling Constraints from Two Directions for Evolutionary Constrained Multi-objective Optimization* | Sun, Ruiqing; Feng, Dawei; Zhou, Xing; Li, Lianghao; Qi, Sheng; Ding, Bo; Wang, Yijie; Wang, Rui; Wang, Huaimin | [arXiv:2512.23945](https://arxiv.org/abs/2512.23945) - [DOI](https://doi.org/10.48550/arXiv.2512.23945) |
+
+
+## [DEP-E-20260819-Agentic Neuro-Symbolic](../DEP-E-20260819-Agentic%20Neuro-Symbolic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins* | Liu, Zhihao; Fernandez-Ayala, Victor Nan; Wang, Tianyu; Qin, Qiang; Wang, Xi Vincent; Dimarogonas, Dimos V.; Wang, Lihui | [arXiv:2606.08214](https://arxiv.org/abs/2606.08214) - [DOI](https://doi.org/10.48550/arXiv.2606.08214) |
