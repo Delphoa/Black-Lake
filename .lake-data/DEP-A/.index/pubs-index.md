@@ -11303,3 +11303,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Consolidator: Learning Persistent Routed Memory Across Context Boundaries* | Sungwoo Goo; Hwi-yeol Yun; Sangkeun Jung | [arXiv:2608.11701v1](https://arxiv.org/abs/2608.11701v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11701) |
+
+
+## [DEP-A-20260819-LinearKV One Cached State](../DEP-A-20260819-LinearKV%20One%20Cached%20State/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.11231-whitepaper-review.md`](../DEP-A-20260819-LinearKV%20One%20Cached%20State/2608.11231-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs* | Yirui Liu; Ruoling Qi; Longwen Wang; Xuaner Wu; Jian Chen; Yuxin Jin; Jiawei Shao; Xuelong Li | [arXiv:2608.11231v1](https://arxiv.org/abs/2608.11231v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11231) |
