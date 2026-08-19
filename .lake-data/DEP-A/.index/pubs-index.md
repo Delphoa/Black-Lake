@@ -10997,3 +10997,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Temporal Misgrounding in Legal RAG: A Versioned-Corpus Benchmark for French Tax Law* | Rose Cymbler; Daniel Guez; Laurent Fabre | [arXiv:2608.09393v1](https://arxiv.org/abs/2608.09393v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09393) |
+
+
+## [DEP-A-20260819-What Would Fix This](../DEP-A-20260819-What%20Would%20Fix%20This/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08944-whitepaper-review.md`](../DEP-A-20260819-What%20Would%20Fix%20This/2608.08944-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Would Fix This RAG Failure? Auditing Counterfactual Response with Paired Evidence Interventions* | Wenzhang Du | [arXiv:2608.08944v1](https://arxiv.org/abs/2608.08944v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08944) |
