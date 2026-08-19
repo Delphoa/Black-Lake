@@ -5461,3 +5461,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models* | Jin, Zhuoran; Cao, Pengfei; Chen, Yubo; Liu, Kang; Jiang, Xiaojian; Xu, Jiexin; Li, Qiuxia; Zhao, Jun | [arXiv:2402.14409](https://arxiv.org/abs/2402.14409) - [DOI](https://doi.org/10.48550/arXiv.2402.14409) |
+
+
+## [DEP-E-20260819-Explore Recurrent Neural](../DEP-E-20260819-Explore%20Recurrent%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Explore Recurrent Neural Network for PUE Attack Detection in Practical CRN Models* | Dong, Qi; Chen, Yu; Li, Xiaohua; Zeng, Kai | [arXiv:1805.00428](https://arxiv.org/abs/1805.00428) - [DOI](https://doi.org/10.48550/arXiv.1805.00428) |

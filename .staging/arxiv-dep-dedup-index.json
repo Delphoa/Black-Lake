@@ -12306,6 +12306,29 @@
         "https://doi.org/10.48550/arXiv.2402.14409"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Explore Recurrent Neural",
+        ".logs/20260819-Arxiv-Explore-Recurrent-Neural-Network-for-PUE-Attack-LOG.md",
+        ".reports/BL-Arxiv-Explore-Recurrent-Neural-Network-for-PUE-Attack-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1805.00428",
+      "arxiv_id": "1805.00428",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1805.00428",
+      "normalized_title": "Explore Recurrent Neural Network for PUE Attack Detection in Practical CRN Models",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P105; draw 7882 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 24; reselections 25; complete-source gate passed; all source files withheld locally.",
+      "slug": "Explore-Recurrent-Neural-Network-for-PUE-Attack",
+      "source_urls": [
+        "https://arxiv.org/abs/1805.00428",
+        "https://arxiv.org/html/1805.00428",
+        "https://arxiv.org/pdf/1805.00428",
+        "https://doi.org/10.48550/arXiv.1805.00428"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
