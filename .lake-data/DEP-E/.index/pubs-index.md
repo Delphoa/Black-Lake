@@ -7575,3 +7575,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Translation Memory Augmented Neural Machine Translation* | Hao, Hongkun; Huang, Guoping; Liu, Lemao; Zhang, Zhirui; Shi, Shuming; Wang, Rui | [arXiv:2306.06948](https://arxiv.org/abs/2306.06948) - [DOI](https://doi.org/10.48550/arXiv.2306.06948) |
+
+
+## [DEP-E-20260819-Bidirectional Learning](../DEP-E-20260819-Bidirectional%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bidirectional Learning for Offline Infinite-width Model-based Optimization* | Chen, Can; Zhang, Yingxue; Fu, Jie; Liu, Xue; Coates, Mark | [arXiv:2209.07507](https://arxiv.org/abs/2209.07507) - [DOI](https://doi.org/10.48550/arXiv.2209.07507) |
