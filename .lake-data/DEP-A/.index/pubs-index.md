@@ -10897,3 +10897,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Breaking the Sample Complexity Barrier to Regret-Optimal Model-Free Reinforcement Learning* | Li, Gen; Shi, Laixi; Chen, Yuxin; Chi, Yuejie | [arXiv:2110.04645](https://arxiv.org/abs/2110.04645) - [DOI](https://doi.org/10.48550/arXiv.2110.04645) |
+
+## [DEP-A-20260820-CFP Efficient Intake](../DEP-A-20260820-CFP%20Efficient%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-CFP%20Efficient%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |
