@@ -7582,3 +7582,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bidirectional Learning for Offline Infinite-width Model-based Optimization* | Chen, Can; Zhang, Yingxue; Fu, Jie; Liu, Xue; Coates, Mark | [arXiv:2209.07507](https://arxiv.org/abs/2209.07507) - [DOI](https://doi.org/10.48550/arXiv.2209.07507) |
+
+
+## [DEP-E-20260819-Accelerating LLM](../DEP-E-20260819-Accelerating%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System* | Fang, Yunhua; Xie, Rui; Haq, Asad Ul; Ma, Linsen; Maghraoui, Kaoutar El; Wang, Naigang; Wang, Meng; Liu, Liu; Zhang, Tong | [arXiv:2508.13231](https://arxiv.org/abs/2508.13231) - [DOI](https://doi.org/10.48550/arXiv.2508.13231) |
