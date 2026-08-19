@@ -8387,3 +8387,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UAV-Enabled Mobile Edge Computing: Offloading Optimization and Trajectory Design* | Zhou, Fuhui; Wu, Yongpeng; Sun, Haijian; Chu, Zheng | [arXiv:1802.03906](https://arxiv.org/abs/1802.03906) - [DOI](https://doi.org/10.48550/arXiv.1802.03906) |
+
+
+## [DEP-E-20260819-PhyMix Towards Physically](../DEP-E-20260819-PhyMix%20Towards%20Physically/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization* | Wu, Dongli; Hu, Jingyu; Hui, Ka-Hei; Wei, Xiaobao; Luo, Chengwen; Li, Jianqiang; Liu, Zhengzhe | [arXiv:2604.10125](https://arxiv.org/abs/2604.10125) - [DOI](https://doi.org/10.48550/arXiv.2604.10125) |
