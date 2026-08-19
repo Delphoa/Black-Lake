@@ -7750,3 +7750,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction* | Song, Yuerong; Liu, Xiaoran; Li, Ruixiao; Liu, Zhigeng; Huang, Zengfeng; Guo, Qipeng; He, Ziwei; Qiu, Xipeng | [arXiv:2508.02558](https://arxiv.org/abs/2508.02558) - [DOI](https://doi.org/10.48550/arXiv.2508.02558) |
+
+
+## [DEP-E-20260819-Approximation algor 14520](../DEP-E-20260819-Approximation%20algor%2014520/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximation algorithms for $k$-submodular maximization subject to a knapsack constraint* | Xiao, Hao; Liu, Qian; Zhou, Yang; Li, Min | [arXiv:2306.14520](https://arxiv.org/abs/2306.14520) - [DOI](https://doi.org/10.48550/arXiv.2306.14520) |
