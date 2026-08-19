@@ -7197,3 +7197,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning $\ell_1$-based analysis and synthesis sparsity priors using bi-level optimization* | Chen, Yunjin; Pock, Thomas; Bischof, Horst | [arXiv:1401.4105](https://arxiv.org/abs/1401.4105) - [DOI](https://doi.org/10.48550/arXiv.1401.4105) |
+
+
+## [DEP-E-20260819-The performance of the](../DEP-E-20260819-The%20performance%20of%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The performance of the amplitude-based model for complex phase retrieval* | Xia, Yu; Xu, Zhiqiang | [arXiv:2204.05492](https://arxiv.org/abs/2204.05492) - [DOI](https://doi.org/10.48550/arXiv.2204.05492) |
