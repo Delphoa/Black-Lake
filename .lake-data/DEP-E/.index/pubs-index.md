@@ -9381,3 +9381,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A optimization framework for herbal prescription planning based on deep reinforcement learning* | Yang, Kuo; Yu, Zecong; Su, Xin; He, Xiong; Wang, Ning; Zheng, Qiguang; Yu, Feidie; Liu, Zhuang; Wen, Tiancai; Zhou, Xuezhong | [arXiv:2304.12828](https://arxiv.org/abs/2304.12828) - [DOI](https://doi.org/10.48550/arXiv.2304.12828) |
+
+
+## [DEP-E-20260819-Imaginative World](../DEP-E-20260819-Imaginative%20World/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation* | Hu, Yue; Wu, Junzhe; Xu, Ruihan; Liu, Hang; Xi, Avery; Liu, Henry X.; Vasudevan, Ram; Ghaffari, Maani | [arXiv:2508.06990](https://arxiv.org/abs/2508.06990) - [DOI](https://doi.org/10.48550/arXiv.2508.06990) |
