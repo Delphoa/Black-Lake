@@ -7631,3 +7631,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HAO: Hardware-aware neural Architecture Optimization for Efficient Inference* | Dong, Zhen; Gao, Yizhao; Huang, Qijing; Wawrzynek, John; So, Hayden K. H.; Keutzer, Kurt | [arXiv:2104.12766](https://arxiv.org/abs/2104.12766) - [DOI](https://doi.org/10.48550/arXiv.2104.12766) |
+
+
+## [DEP-E-20260819-GDEPO Group Dual-dynamic](../DEP-E-20260819-GDEPO%20Group%20Dual-dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GDEPO: Group Dual-dynamic and Equal-right Advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning* | Yan, Zhengqing; Liu, Xinyang; Zhang, Yi; Guo, Fan; Jia, ChengXun; Wan, Junchen; Liu, Yao; Liu, Qi; Huang, Jihao; Song, Kang | [arXiv:2601.06795](https://arxiv.org/abs/2601.06795) - [DOI](https://doi.org/10.48550/arXiv.2601.06795) |
