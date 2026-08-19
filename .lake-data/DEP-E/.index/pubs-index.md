@@ -6308,3 +6308,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models* | Shen, Bowen; Lin, Zheng; Liu, Yuanxin; Liu, Zhengxiao; Wang, Lei; Wang, Weiping | [arXiv:2210.15523](https://arxiv.org/abs/2210.15523) - [DOI](https://doi.org/10.48550/arXiv.2210.15523) |
+
+
+## [DEP-E-20260819-E 2 AT Multimodal](../DEP-E-20260819-E%202%20AT%20Multimodal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *E$^2$AT: Multimodal Jailbreak Defense via Dynamic Joint Optimization for Multimodal Large Language Models* | Lu, Liming; Gu, Xiang; Pang, Shuchao; Liang, Siyuan; Zhu, Haotian; Zeng, Xiyu; Zheng, Xu; Zhou, Yongbin | [arXiv:2503.04833](https://arxiv.org/abs/2503.04833) - [DOI](https://doi.org/10.48550/arXiv.2503.04833) |
