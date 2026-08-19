@@ -7323,3 +7323,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective* | Shao, Ruichen; Li, Bei; Liu, Gangao; Chen, Yang; Zhou, Xiang; Wang, Jingang; Cai, Xunliang; Li, Peng | [arXiv:2502.14340](https://arxiv.org/abs/2502.14340) - [DOI](https://doi.org/10.48550/arXiv.2502.14340) |
+
+
+## [DEP-E-20260819-Bridging Large Language](../DEP-E-20260819-Bridging%20Large%20Language/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bridging Large Language Models and Optimization: A Unified Framework for Text-attributed Combinatorial Optimization* | Jiang, Xia; Wu, Yaoxin; Wang, Yuan; Zhang, Yingqian | [arXiv:2408.12214](https://arxiv.org/abs/2408.12214) - [DOI](https://doi.org/10.48550/arXiv.2408.12214) |
