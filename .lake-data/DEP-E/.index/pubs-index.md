@@ -6917,3 +6917,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Kernel Taylor-Based Value Function Approximation for Continuous-State Markov Decision Processes* | Xu, Junhong; Yin, Kai; Liu, Lantao | [arXiv:2006.02008](https://arxiv.org/abs/2006.02008) - [DOI](https://doi.org/10.48550/arXiv.2006.02008) |
+
+
+## [DEP-E-20260819-A Coupled Optimization](../DEP-E-20260819-A%20Coupled%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Coupled Optimization Framework for Correlated Equilibria in Normal-Form Game* | Li, Sarah H. Q.; Yu, Yue; Dörfler, Florian; Lygeros, John | [arXiv:2403.16223](https://arxiv.org/abs/2403.16223) - [DOI](https://doi.org/10.48550/arXiv.2403.16223) |

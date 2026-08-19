@@ -17090,6 +17090,29 @@
         "https://doi.org/10.48550/arXiv.2006.02008"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Coupled Optimization",
+        ".logs/20260819-Arxiv-A-Coupled-Optimization-Framework-for-Correlated-LOG.md",
+        ".reports/BL-Arxiv-A-Coupled-Optimization-Framework-for-Correlated-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2403.16223",
+      "arxiv_id": "2403.16223",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2403.16223",
+      "normalized_title": "A Coupled Optimization Framework for Correlated Equilibria in Normal-Form Game",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P13; draw 46432 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 26; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Coupled-Optimization-Framework-for-Correlated",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.16223",
+        "https://arxiv.org/html/2403.16223",
+        "https://arxiv.org/pdf/2403.16223",
+        "https://doi.org/10.48550/arXiv.2403.16223"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
