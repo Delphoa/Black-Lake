@@ -11996,3 +11996,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FeatFix: Reuse What You Verify through Local Exact-Feature Correction for Faster Cached Diffusion Inference* | Hanshuai Cui; Zhiqing Tang; Zhi Yao; Qianli Ma; Fanshuai Meng; Weijia Jia | [arXiv:2607.27842v1](https://arxiv.org/abs/2607.27842v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27842) |
+
+
+## [DEP-A-20260819-InferScale GPU Native KV](../DEP-A-20260819-InferScale%20GPU%20Native%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27090-whitepaper-review.md`](../DEP-A-20260819-InferScale%20GPU%20Native%20KV/2607.27090-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *InferScale: GPU-Native KV Injection for Personalized LLM Serving* | Peter Li; Prashant Pandey | [arXiv:2607.27090v1](https://arxiv.org/abs/2607.27090v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27090) |
