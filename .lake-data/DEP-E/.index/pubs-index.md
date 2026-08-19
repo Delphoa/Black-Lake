@@ -6217,3 +6217,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models* | Zheng, Chen; Cai, Yuhang; Liu, Deyi; Ma, Jin; Ma, Yiyuan; Yang, Yuan; Liu, Jing; Zeng, Yutao; Zhou, Xun; Qiao, Siyuan | [arXiv:2510.13079](https://arxiv.org/abs/2510.13079) - [DOI](https://doi.org/10.48550/arXiv.2510.13079) |
+
+
+## [DEP-E-20260819-CHOP Mobile Operating](../DEP-E-20260819-CHOP%20Mobile%20Operating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning* | Zhou, Yuqi; Wang, Shuai; Dai, Sunhao; Jia, Qinglin; Du, Zhaocheng; Dong, Zhenhua; Xu, Jun | [arXiv:2503.03743](https://arxiv.org/abs/2503.03743) - [DOI](https://doi.org/10.48550/arXiv.2503.03743) |
