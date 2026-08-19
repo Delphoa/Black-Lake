@@ -6399,3 +6399,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast and Memory-Efficient Video Diffusion Using Streamlined Inference* | Zhan, Zheng; Wu, Yushu; Gong, Yifan; Meng, Zichong; Kong, Zhenglun; Yang, Changdi; Yuan, Geng; Zhao, Pu; Niu, Wei; Wang, Yanzhi | [arXiv:2411.01171](https://arxiv.org/abs/2411.01171) - [DOI](https://doi.org/10.48550/arXiv.2411.01171) |
+
+
+## [DEP-E-20260819-Escher-Loop Mutual](../DEP-E-20260819-Escher-Loop%20Mutual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Escher-Loop: Mutual Evolution by Closed-Loop Self-Referential Optimization* | Liu, Ziyang; Guo, Xinyan; Wei, Xuchen; Hao, Han; Yang, Liu | [arXiv:2604.23472](https://arxiv.org/abs/2604.23472) - [DOI](https://doi.org/10.48550/arXiv.2604.23472) |
