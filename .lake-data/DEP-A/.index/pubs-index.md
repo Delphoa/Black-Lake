@@ -10916,3 +10916,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation* | Qingrui Li; Haowei Lou; Chengkai Huang; Quan Z. Sheng; Lina Yao | [arXiv:2608.06928v1](https://arxiv.org/abs/2608.06928v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06928) |
+
+
+## [DEP-A-20260819-Hyperbolic Graph Embedder](../DEP-A-20260819-Hyperbolic%20Graph%20Embedder/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07029-whitepaper-review.md`](../DEP-A-20260819-Hyperbolic%20Graph%20Embedder/2608.07029-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hyperbolic Graph Embedders for Link Prediction and Topology Reconstruction* | Robert Jankowski; Maksim Kitsak; Dorota Celińska-Kopczyńska | [arXiv:2608.07029v1](https://arxiv.org/abs/2608.07029v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07029) |
