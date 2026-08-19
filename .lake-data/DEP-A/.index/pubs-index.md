@@ -11654,3 +11654,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective* | Mingchen Li; Jiatan Huang; Chuxu Zhang; Liang Zhao; Hong Yu | [arXiv:2605.26356v1](https://arxiv.org/abs/2605.26356v1) - [DOI](https://doi.org/10.48550/arXiv.2605.26356) |
+
+
+## [DEP-A-20260819-MemoryDocDataSet Benchmar](../DEP-A-20260819-MemoryDocDataSet%20Benchmar/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.04442-whitepaper-review.md`](../DEP-A-20260819-MemoryDocDataSet%20Benchmar/2606.04442-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning* | Qiyang Xie; Jialun Wu; Xinjie He; Su Liu; Shuai Xiao; Zhiyuan Lin; Weikai Zhou | [arXiv:2606.04442v1](https://arxiv.org/abs/2606.04442v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04442) |
