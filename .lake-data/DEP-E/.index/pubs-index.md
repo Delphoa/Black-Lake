@@ -7617,3 +7617,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory Consistent Unsupervised Off-the-Shelf Model Adaptation for Source-Relaxed Medical Image Segmentation* | Liu, Xiaofeng; Xing, Fangxu; Fakhri, Georges El; Woo, Jonghye | [arXiv:2209.07910](https://arxiv.org/abs/2209.07910) - [DOI](https://doi.org/10.48550/arXiv.2209.07910) |
+
+
+## [DEP-E-20260819-RoboWM-Bench A Benchmark](../DEP-E-20260819-RoboWM-Bench%20A%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation* | Jiang, Feng; Chen, Yang; Xu, Kyle; Liu, Yuchen; Wang, Haifeng; Shen, Zhenhao; Lu, Jasper; Huang, Shengze; Wang, Yuanfei; Xie, Chen; Wu, Ruihai | [arXiv:2604.19092](https://arxiv.org/abs/2604.19092) - [DOI](https://doi.org/10.48550/arXiv.2604.19092) |
