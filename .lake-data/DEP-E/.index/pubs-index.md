@@ -6714,3 +6714,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning to Sequence and Blend Robot Skills via Differentiable Optimization* | Jaquier, Noémie; Zhou, You; Starke, Julia; Asfour, Tamim | [arXiv:2206.00559](https://arxiv.org/abs/2206.00559) - [DOI](https://doi.org/10.48550/arXiv.2206.00559) |
+
+
+## [DEP-E-20260819-Xiaomi Auto World Model A](../DEP-E-20260819-Xiaomi%20Auto%20World%20Model%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving* | Zhou, Lijun; Luo, Hongcheng; Zhu, Zhenxin; Chi, Cheng; Tu, Mingfei; Xiong, Kaixin; Gong, Lei; Wu, Zhanqian; Zhang, Zehan; Li, Fangzhen; Li, Hao; Shen, Yingying; He, Jiale; Zhu, Haohui; Zhao, Shan; Wang, Kai; Zhan, Zhiwei; Pu, Yuechuan; Tan, Kaiyuan; Yang, Ruiling; Wang, Xianqi; Yan, Tianyi; Zhou, Jiawei; Zhang, Lei; Zhao, Jingyang; Zhou, Xi; Sun, Chitian; Wu, Chenming; Deng, Jiong; Xie, Hongwei; Lu, Ming; Ma, Kun; Chen, Long; Chen, Guang; Ye, Hangjun; Wang, Bing; Sun, Haiyang | [arXiv:2605.18137](https://arxiv.org/abs/2605.18137) - [DOI](https://doi.org/10.48550/arXiv.2605.18137) |
