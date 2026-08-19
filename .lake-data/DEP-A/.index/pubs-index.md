@@ -11879,3 +11879,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval* | Haolong Chen; Liang Zhang; Zhuo Li; Lei Xue; Guanrxu Zhu | [arXiv:2608.12720v1](https://arxiv.org/abs/2608.12720v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12720) |
+
+
+## [DEP-A-20260819-EgoCITE Context Augmented](../DEP-A-20260819-EgoCITE%20Context%20Augmented/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12627-whitepaper-review.md`](../DEP-A-20260819-EgoCITE%20Context%20Augmented/2608.12627-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory* | Le Zhang; Ke Sun | [arXiv:2608.12627v1](https://arxiv.org/abs/2608.12627v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12627) |
