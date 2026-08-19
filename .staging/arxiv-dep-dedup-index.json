@@ -14583,6 +14583,29 @@
         "https://doi.org/10.1145/3197517.3201290"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Predicting Long-Term",
+        ".logs/20260819-Arxiv-Predicting-Long-Term-Skeletal-Motions-by-a-LOG.md",
+        ".reports/BL-Arxiv-Predicting-Long-Term-Skeletal-Motions-by-a-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1911.02404",
+      "arxiv_id": "1911.02404",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1911.02404",
+      "normalized_title": "Predicting Long-Term Skeletal Motions by a Spatio-Temporal Hierarchical Recurrent Network",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P204; draw 60303 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 25; reselections 26; complete-source gate passed; all source files withheld locally.",
+      "slug": "Predicting-Long-Term-Skeletal-Motions-by-a",
+      "source_urls": [
+        "https://arxiv.org/abs/1911.02404",
+        "https://arxiv.org/html/1911.02404",
+        "https://arxiv.org/pdf/1911.02404",
+        "https://doi.org/10.48550/arXiv.1911.02404"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

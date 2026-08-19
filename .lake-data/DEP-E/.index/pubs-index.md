@@ -6154,3 +6154,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Anderson Acceleration for Geometry Optimization and Physics Simulation* | Peng, Yue; Deng, Bailin; Zhang, Juyong; Geng, Fanyu; Qin, Wenjie; Liu, Ligang | [arXiv:1805.05715](https://arxiv.org/abs/1805.05715) - [DOI](https://doi.org/10.1145/3197517.3201290) |
+
+
+## [DEP-E-20260819-Predicting Long-Term](../DEP-E-20260819-Predicting%20Long-Term/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predicting Long-Term Skeletal Motions by a Spatio-Temporal Hierarchical Recurrent Network* | Hu, Junfeng; Fan, Zhencheng; Liao, Jun; Liu, Li | [arXiv:1911.02404](https://arxiv.org/abs/1911.02404) - [DOI](https://doi.org/10.48550/arXiv.1911.02404) |
