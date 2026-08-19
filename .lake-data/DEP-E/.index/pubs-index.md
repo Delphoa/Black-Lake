@@ -7645,3 +7645,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Plug-and-play Memory for Guiding Video Diffusion Models* | Song, Selena; Xu, Ziming; Zhang, Zijun; Zhou, Kun; Guo, Jiaxian; Qin, Lianhui; Huang, Biwei | [arXiv:2511.19229](https://arxiv.org/abs/2511.19229) - [DOI](https://doi.org/10.48550/arXiv.2511.19229) |
+
+
+## [DEP-E-20260819-Discretion in the Loop](../DEP-E-20260819-Discretion%20in%20the%20Loop/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising* | Schechtman, Kara; Brandon, Benjamin; Stafford, Jenise; Li, Hannah; Liu, Lydia T. | [arXiv:2505.13325](https://arxiv.org/abs/2505.13325) - [DOI](https://doi.org/10.48550/arXiv.2505.13325) |

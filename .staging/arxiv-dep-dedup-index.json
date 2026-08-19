@@ -19482,6 +19482,29 @@
         "https://doi.org/10.48550/arXiv.2511.19229"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Discretion in the Loop",
+        ".logs/20260819-Arxiv-Discretion-in-the-Loop-Human-Expertise-in-LOG.md",
+        ".reports/BL-Arxiv-Discretion-in-the-Loop-Human-Expertise-in-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.13325",
+      "arxiv_id": "2505.13325",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.13325",
+      "normalized_title": "Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P117; draw 72402 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 3; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Discretion-in-the-Loop-Human-Expertise-in",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.13325",
+        "https://arxiv.org/html/2505.13325",
+        "https://arxiv.org/pdf/2505.13325",
+        "https://doi.org/10.48550/arXiv.2505.13325"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
