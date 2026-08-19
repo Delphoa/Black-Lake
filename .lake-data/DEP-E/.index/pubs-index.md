@@ -8863,3 +8863,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepOHeat-v1: Efficient Operator Learning for Fast and Trustworthy Thermal Simulation and Optimization in 3D-IC Design* | Yu, Xinling; Liu, Ziyue; Li, Hai; Li, Yixing; Ai, Xin; Zeng, Zhiyu; Young, Ian; Zhang, Zheng | [arXiv:2504.03955](https://arxiv.org/abs/2504.03955) - [DOI](https://doi.org/10.48550/arXiv.2504.03955) |
+
+
+## [DEP-E-20260819-Unifying Isolated and](../DEP-E-20260819-Unifying%20Isolated%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks* | Phan, Huy; Chén, Oliver Y.; Koch, Philipp; Pham, Lam; McLoughlin, Ian; Mertins, Alfred; De Vos, Maarten | [arXiv:1811.01092](https://arxiv.org/abs/1811.01092) - [DOI](https://doi.org/10.48550/arXiv.1811.01092) |
