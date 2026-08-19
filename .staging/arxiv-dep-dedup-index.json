@@ -13709,6 +13709,29 @@
         "https://doi.org/10.48550/arXiv.2602.10210"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Towards Concurrent",
+        ".logs/20260819-Arxiv-Towards-Concurrent-Stateful-Stream-Processing-on-LOG.md",
+        ".reports/BL-Arxiv-Towards-Concurrent-Stateful-Stream-Processing-on-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1904.03800",
+      "arxiv_id": "1904.03800",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/ICDE48307.2020.00136",
+      "normalized_title": "Towards Concurrent Stateful Stream Processing on Multicore Processors (Technical Report)",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P166; draw 7653 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Towards-Concurrent-Stateful-Stream-Processing-on",
+      "source_urls": [
+        "https://arxiv.org/abs/1904.03800",
+        "https://arxiv.org/html/1904.03800",
+        "https://arxiv.org/pdf/1904.03800",
+        "https://doi.org/10.1109/ICDE48307.2020.00136"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

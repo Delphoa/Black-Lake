@@ -5888,3 +5888,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Much Reasoning Do Retrieval-Augmented Models Add beyond LLMs? A Benchmarking Framework for Multi-Hop Inference over Hybrid Knowledge* | Lin, Junhong; Zhang, Bing; Wang, Song; Liu, Ziyan; Gutfreund, Dan; Shun, Julian; Zhu, Yada | [arXiv:2602.10210](https://arxiv.org/abs/2602.10210) - [DOI](https://doi.org/10.48550/arXiv.2602.10210) |
+
+
+## [DEP-E-20260819-Towards Concurrent](../DEP-E-20260819-Towards%20Concurrent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Concurrent Stateful Stream Processing on Multicore Processors (Technical Report)* | Zhang, Shuhao; Wu, Yingjun; Zhang, Feng; He, Bingsheng | [arXiv:1904.03800](https://arxiv.org/abs/1904.03800) - [DOI](https://doi.org/10.1109/ICDE48307.2020.00136) |
