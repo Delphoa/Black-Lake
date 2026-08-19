@@ -9402,3 +9402,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph* | Wang, Qiuchen; Wang, Shihang; Zeng, Yu; Zhang, Qiang; Zhang, Fanrui; Guo, Zhuoning; Zhang, Bosi; Huang, Wenxuan; Chen, Lin; Chen, Zehui; Xie, Pengjun; Ding, Ruixue | [arXiv:2602.12735](https://arxiv.org/abs/2602.12735) - [DOI](https://doi.org/10.48550/arXiv.2602.12735) |
+
+
+## [DEP-E-20260819-LoViF 2026 The First](../DEP-E-20260819-LoViF%202026%20The%20First/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)* | Luo, Wei; Lu, Yiting; Li, Xin; Li, Haoran; Guan, Fengbin; Gao, Chen; Jin, Xin; Li, Yong; Chen, Zhibo; Wu, Sijing; Fu, Kang; Li, Yunhao; Xiao, Ziang; Duan, Huiyu; Liu, Jing; Hu, Qiang; Min, Xiongkuo; Zhai, Guangtao; Sun, Manxi; Guo, Zixuan; Li, Yun; Chen, Ziyang; Tsukada, Manabu; Li, Zhengyang; Du, Zhenglin; Wen, Yi; Jiao, Licheng; Liu, Fang; Li, Lingling; Ren, Yiwen; Song, Zhilong; Chen, Dubing; Zhou, Yucheng; Yan, Tianyi; Zheng, Huan | [arXiv:2605.05187](https://arxiv.org/abs/2605.05187) - [DOI](https://doi.org/10.48550/arXiv.2605.05187) |

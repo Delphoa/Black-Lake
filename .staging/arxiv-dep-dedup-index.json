@@ -25255,6 +25255,29 @@
         "https://doi.org/10.48550/arXiv.2602.12735"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-LoViF 2026 The First",
+        ".logs/20260819-Arxiv-LoViF-2026-The-First-Challenge-on-Holistic-LOG.md",
+        ".reports/BL-Arxiv-LoViF-2026-The-First-Challenge-on-Holistic-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.05187",
+      "arxiv_id": "2605.05187",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.05187",
+      "normalized_title": "LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P368; draw 56687 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 10; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "LoViF-2026-The-First-Challenge-on-Holistic",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.05187",
+        "https://arxiv.org/html/2605.05187",
+        "https://arxiv.org/pdf/2605.05187",
+        "https://doi.org/10.48550/arXiv.2605.05187"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
