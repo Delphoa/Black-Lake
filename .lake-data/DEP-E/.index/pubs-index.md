@@ -7155,3 +7155,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Effective Quantization Methods for Recurrent Neural Networks* | He, Qinyao; Wen, He; Zhou, Shuchang; Wu, Yuxin; Yao, Cong; Zhou, Xinyu; Zou, Yuheng | [arXiv:1611.10176](https://arxiv.org/abs/1611.10176) - [DOI](https://doi.org/10.48550/arXiv.1611.10176) |
+
+
+## [DEP-E-20260819-Distributed Clock Skew](../DEP-E-20260819-Distributed%20Clock%20Skew/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Clock Skew and Offset Estimation in Wireless Sensor Networks: Asynchronous Algorithm and Convergence Analysis* | Du, Jian; Wu, Yik-Chung | [arXiv:1607.03830](https://arxiv.org/abs/1607.03830) - [DOI](https://doi.org/10.48550/arXiv.1607.03830) |
