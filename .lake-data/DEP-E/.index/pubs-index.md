@@ -5349,3 +5349,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A robust ranking algorithm to spamming* | Zhou, Yanbo; Lei, Ting; Zhou, Tao | [arXiv:1012.3793](https://arxiv.org/abs/1012.3793) - [DOI](https://doi.org/10.1209/0295-5075/94/48002) |
+
+
+## [DEP-E-20260819-PiP Planning-informed](../DEP-E-20260819-PiP%20Planning-informed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PiP: Planning-informed Trajectory Prediction for Autonomous Driving* | Song, Haoran; Ding, Wenchao; Chen, Yuxuan; Shen, Shaojie; Wang, Michael Yu; Chen, Qifeng | [arXiv:2003.11476](https://arxiv.org/abs/2003.11476) - [DOI](https://doi.org/10.1007/978-3-030-58589-1_36) |

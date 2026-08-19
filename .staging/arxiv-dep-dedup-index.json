@@ -11938,6 +11938,29 @@
         "https://doi.org/10.1209/0295-5075/94/48002"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-PiP Planning-informed",
+        ".logs/20260819-Arxiv-PiP-Planning-informed-Trajectory-Prediction-for-LOG.md",
+        ".reports/BL-Arxiv-PiP-Planning-informed-Trajectory-Prediction-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.11476",
+      "arxiv_id": "2003.11476",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1007/978-3-030-58589-1_36",
+      "normalized_title": "PiP: Planning-informed Trajectory Prediction for Autonomous Driving",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P89; draw 44128 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 24; reselections 27; complete-source gate passed; all source files withheld locally.",
+      "slug": "PiP-Planning-informed-Trajectory-Prediction-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.11476",
+        "https://arxiv.org/html/2003.11476",
+        "https://arxiv.org/pdf/2003.11476",
+        "https://doi.org/10.1007/978-3-030-58589-1_36"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
