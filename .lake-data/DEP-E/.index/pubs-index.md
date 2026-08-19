@@ -9500,3 +9500,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Performance bound of the intensity-based model for noisy phase retrieval* | Huang, Meng; Xu, Zhiqiang | [arXiv:2004.08764](https://arxiv.org/abs/2004.08764) - [DOI](https://doi.org/10.48550/arXiv.2004.08764) |
+
+
+## [DEP-E-20260819-Semi-Supervised](../DEP-E-20260819-Semi-Supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining* | Sun, Shangquan; Ren, Wenqi; Zhou, Juxiang; Wang, Shu; Gan, Jianhou; Cao, Xiaochun | [arXiv:2505.16811](https://arxiv.org/abs/2505.16811) - [DOI](https://doi.org/10.48550/arXiv.2505.16811) |
