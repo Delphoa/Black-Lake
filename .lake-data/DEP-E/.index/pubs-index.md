@@ -5286,3 +5286,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation* | Lin, Huifeng; Su, Gang; Liang, Jintao; Wu, You; Zhao, Rui; Li, Ziyue | [arXiv:2509.04820](https://arxiv.org/abs/2509.04820) - [DOI](https://doi.org/10.48550/arXiv.2509.04820) |
+
+
+## [DEP-E-20260819-DRIFT Decoupled Rollouts](../DEP-E-20260819-DRIFT%20Decoupled%20Rollouts/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization* | Mu, Jian; Lin, Tianyi; Qin, Chengwei; Dai, Zhongxiang; Shu, Yao | [arXiv:2605.31455](https://arxiv.org/abs/2605.31455) - [DOI](https://doi.org/10.48550/arXiv.2605.31455) |
