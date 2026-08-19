@@ -12356,3 +12356,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KernelArc: A Multi-Agent Framework for GPU Kernel Optimization* | Joyjit Kundu; Ben Stoffelen; Kaili Wang; Peter Vrancx; Ludovic Denoyer | [arXiv:2608.17071v1](https://arxiv.org/abs/2608.17071v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17071) |
+
+
+## [DEP-A-20260820-HAF Adapting Generalist V](../DEP-A-20260820-HAF%20Adapting%20Generalist%20V/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16837-whitepaper-review.md`](../DEP-A-20260820-HAF%20Adapting%20Generalist%20V/2608.16837-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL* | Langzhe Gu; Chengkai Hou; Meng Li; Xinhua Wang; Jiaming Liu; Xinyuan Lv; Bowei Zhang; Shuanghao Bai; Guangrun Li; Jingyang He; Gaole Dai; Ziluo Ding; Zhiyuan Xu; Kuan Cheng; Jian Tang; Zhengping Che; Shanghang Zhang | [arXiv:2608.16837v1](https://arxiv.org/abs/2608.16837v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16837) |
