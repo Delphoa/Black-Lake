@@ -8471,3 +8471,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study* | Wang, Shuai; Yu, Yinan; Barr, Earl; Parthasarathy, Dhasarathy | [arXiv:2603.21439](https://arxiv.org/abs/2603.21439) - [DOI](https://doi.org/10.48550/arXiv.2603.21439) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented 10150](../DEP-E-20260819-Retrieval-Augmented%2010150/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented Generation with Hierarchical Knowledge* | Huang, Haoyu; Huang, Yongfeng; Yang, Junjie; Pan, Zhenyu; Chen, Yongqiang; Ma, Kaili; Chen, Hongzhi; Cheng, James | [arXiv:2503.10150](https://arxiv.org/abs/2503.10150) - [DOI](https://doi.org/10.48550/arXiv.2503.10150) |
