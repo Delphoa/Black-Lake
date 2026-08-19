@@ -5706,3 +5706,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional Sparse Additive Models with Feature Division and Decorrelation* | He, Yifan; Wu, Ruiyang; Zhou, Yong; Feng, Yang | [arXiv:2205.07932](https://arxiv.org/abs/2205.07932) - [DOI](https://doi.org/10.48550/arXiv.2205.07932) |
+
+
+## [DEP-E-20260819-Model Evolution Under](../DEP-E-20260819-Model%20Evolution%20Under/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Model Evolution Under Zeroth-Order Optimization: A Neural Tangent Kernel Perspective* | Zhang, Chen; Cheng, Yuxin; Ding, Chenchen; Wang, Shuqi; Lei, Jingreng; Yu, Runsheng; WU, Yik-Chung; Wong, Ngai | [arXiv:2603.21169](https://arxiv.org/abs/2603.21169) - [DOI](https://doi.org/10.48550/arXiv.2603.21169) |
