@@ -8415,3 +8415,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hurdle-IMDL: An Imbalanced Learning Framework for Infrared Rainfall Retrieval* | Zhang, Fangjian; Zhuge, Xiaoyong; Wang, Wenlan; Xiao, Haixia; Zhu, Yuying; Cheng, Siyang | [arXiv:2510.20486](https://arxiv.org/abs/2510.20486) - [DOI](https://doi.org/10.48550/arXiv.2510.20486) |
+
+
+## [DEP-E-20260819-Improving Retrospective](../DEP-E-20260819-Improving%20Retrospective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Retrospective Language Agents via Joint Policy Gradient Optimization* | Feng, Xueyang; Lan, Bo; Dai, Quanyu; Wang, Lei; Tang, Jiakai; Chen, Xu; Dong, Zhenhua; Wen, Ji-Rong | [arXiv:2503.01490](https://arxiv.org/abs/2503.01490) - [DOI](https://doi.org/10.48550/arXiv.2503.01490) |
