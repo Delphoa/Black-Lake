@@ -12374,3 +12374,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation* | Hongyan Feng; Sunlai Chen; Xuanyu Liu; Miao Pan; Yangfan Xie; Yuxiang Cui; Zhongxiang Zhou; Rong Xiong; Wenqi Zhang; Jianwei Yin; Yueting Zhuang; Xuhong Zhang | [arXiv:2608.17512v1](https://arxiv.org/abs/2608.17512v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17512) |
+
+
+## [DEP-A-20260820-HODAgent Towards Demand R](../DEP-A-20260820-HODAgent%20Towards%20Demand%20R/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17584-whitepaper-review.md`](../DEP-A-20260820-HODAgent%20Towards%20Demand%20R/2608.17584-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction* | Wang Warren Chen; Jiahao Zhang; Zhenjiang Li; Mingxu Wang; Lei Yi; Yuchen Kang; Shuo Sun; Ziping Chen; Jie Chen | [arXiv:2608.17584v1](https://arxiv.org/abs/2608.17584v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17584) |
