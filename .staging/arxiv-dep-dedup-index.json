@@ -17734,6 +17734,29 @@
         "https://doi.org/10.48550/arXiv.2512.13732"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Quantum memory error",
+        ".logs/20260819-Arxiv-Quantum-memory-error-correction-computation-LOG.md",
+        ".reports/BL-Arxiv-Quantum-memory-error-correction-computation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2303.05267",
+      "arxiv_id": "2303.05267",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2303.05267",
+      "normalized_title": "Quantum memory error correction computation based on Chamon model",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P41; draw 24324 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 4; focus exclusions 17; reselections 21; complete-source gate passed; all source files withheld locally.",
+      "slug": "Quantum-memory-error-correction-computation",
+      "source_urls": [
+        "https://arxiv.org/abs/2303.05267",
+        "https://arxiv.org/html/2303.05267",
+        "https://arxiv.org/pdf/2303.05267",
+        "https://doi.org/10.48550/arXiv.2303.05267"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

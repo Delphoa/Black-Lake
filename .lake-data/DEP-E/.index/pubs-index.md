@@ -7113,3 +7113,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching* | Yang, Weijie; Zhang, Xun; Jiang, Simin; Zhou, Yubao | [arXiv:2512.13732](https://arxiv.org/abs/2512.13732) - [DOI](https://doi.org/10.48550/arXiv.2512.13732) |
+
+
+## [DEP-E-20260819-Quantum memory error](../DEP-E-20260819-Quantum%20memory%20error/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum memory error correction computation based on Chamon model* | Zhao, Jian; Wu, Yu-Chun; Guo, Guo-Ping | [arXiv:2303.05267](https://arxiv.org/abs/2303.05267) - [DOI](https://doi.org/10.48550/arXiv.2303.05267) |
