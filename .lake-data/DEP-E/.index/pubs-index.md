@@ -7085,3 +7085,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG* | Li, Zhen; Meng, Zian; Shi, Shuwei; Peng, Wenshuo; Wu, Yuwei; Zheng, Bo; Li, Chuanhao; Zhang, Kaipeng | [arXiv:2603.23497](https://arxiv.org/abs/2603.23497) - [DOI](https://doi.org/10.48550/arXiv.2603.23497) |
+
+
+## [DEP-E-20260819-Read Pointer Meters in](../DEP-E-20260819-Read%20Pointer%20Meters%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Read Pointer Meters in complex environments based on a Human-like Alignment and Recognition Algorithm* | Shu, Yan; Liu, Shaohui; Xu, Honglei; Jiang, Feng | [arXiv:2302.14323](https://arxiv.org/abs/2302.14323) - [DOI](https://doi.org/10.1007/978-981-99-8761-0_13) |

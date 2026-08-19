@@ -17642,6 +17642,29 @@
         "https://doi.org/10.48550/arXiv.2603.23497"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Read Pointer Meters in",
+        ".logs/20260819-Arxiv-Read-Pointer-Meters-in-complex-environments-LOG.md",
+        ".reports/BL-Arxiv-Read-Pointer-Meters-in-complex-environments-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.14323",
+      "arxiv_id": "2302.14323",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1007/978-981-99-8761-0_13",
+      "normalized_title": "Read Pointer Meters in complex environments based on a Human-like Alignment and Recognition Algorithm",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P37; draw 3412 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 17; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "Read-Pointer-Meters-in-complex-environments",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.14323",
+        "https://arxiv.org/html/2302.14323",
+        "https://arxiv.org/pdf/2302.14323",
+        "https://doi.org/10.1007/978-981-99-8761-0_13"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
