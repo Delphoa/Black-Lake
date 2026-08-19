@@ -5517,3 +5517,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *StarVLA-$\alpha$: Reducing Complexity in Vision-Language-Action Systems* | Ye, Jinhui; Gao, Ning; Yang, Senqiao; Zheng, Jinliang; Wang, Zixuan; Chen, Yuxin; Chen, Pengguang; Chen, Yilun; Liu, Shu; Jia, Jiaya | [arXiv:2604.11757](https://arxiv.org/abs/2604.11757) - [DOI](https://doi.org/10.48550/arXiv.2604.11757) |
+
+
+## [DEP-E-20260819-Breaking the Static Graph](../DEP-E-20260819-Breaking%20the%20Static%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation* | Lau, Kwun Hang; Zhang, Fangyuan; Ruan, Boyu; Zhou, Yingli; Guo, Qintian; Zhang, Ruiyuan; Zhou, Xiaofang | [arXiv:2602.01965](https://arxiv.org/abs/2602.01965) - [DOI](https://doi.org/10.48550/arXiv.2602.01965) |
