@@ -9724,3 +9724,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distributional Successor Features Enable Zero-Shot Policy Optimization* | Zhu, Chuning; Wang, Xinqi; Han, Tyler; Du, Simon S.; Gupta, Abhishek | [arXiv:2403.06328](https://arxiv.org/abs/2403.06328) - [DOI](https://doi.org/10.48550/arXiv.2403.06328) |
+
+
+## [DEP-E-20260819-HGOT Hierarchical Graph](../DEP-E-20260819-HGOT%20Hierarchical%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation* | Fang, Yihao; Thomas, Stephen W.; Zhu, Xiaodan | [arXiv:2402.09390](https://arxiv.org/abs/2402.09390) - [DOI](https://doi.org/10.48550/arXiv.2402.09390) |
