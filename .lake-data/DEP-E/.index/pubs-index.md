@@ -7141,3 +7141,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking* | Huang, Yuehao; Liu, Liang; Lei, Shuangming; Ma, Yukai; Su, Hao; Mei, Jianbiao; Zhao, Pengxiang; Gu, Yaqing; Liu, Yong; Lv, Jiajun | [arXiv:2507.11334](https://arxiv.org/abs/2507.11334) - [DOI](https://doi.org/10.1145/3746027.3755832) |
+
+
+## [DEP-E-20260819-An](../DEP-E-20260819-An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Expectation-Maximization Algorithm-based Autoregressive Model for the Fuzzy Job Shop Scheduling Problem* | Wang, Yijian; Guo, Tongxian; Liu, Zhaoqiang | [arXiv:2502.00018](https://arxiv.org/abs/2502.00018) - [DOI](https://doi.org/10.48550/arXiv.2502.00018) |

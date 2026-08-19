@@ -17826,6 +17826,29 @@
         "https://doi.org/10.1145/3746027.3755832"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-An",
+        ".logs/20260819-Arxiv-An-Expectation-Maximization-Algorithm-based-LOG.md",
+        ".reports/BL-Arxiv-An-Expectation-Maximization-Algorithm-based-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.00018",
+      "arxiv_id": "2502.00018",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2502.00018",
+      "normalized_title": "An Expectation-Maximization Algorithm-based Autoregressive Model for the Fuzzy Job Shop Scheduling Problem",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P45; draw 54855 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 7; focus exclusions 43; reselections 51; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-Expectation-Maximization-Algorithm-based",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.00018",
+        "https://arxiv.org/html/2502.00018",
+        "https://arxiv.org/pdf/2502.00018",
+        "https://doi.org/10.48550/arXiv.2502.00018"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
