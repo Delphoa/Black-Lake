@@ -9822,6 +9822,29 @@
         "https://doi.org/10.48550/arXiv.2312.14470"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Kimi K2 Open Agentic",
+        ".logs/20260819-Arxiv-Kimi-K2-Open-Agentic-Intelligence-LOG.md",
+        ".reports/BL-Arxiv-Kimi-K2-Open-Agentic-Intelligence-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2507.20534",
+      "arxiv_id": "2507.20534",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2507.20534",
+      "normalized_title": "Kimi K2: Open Agentic Intelligence",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P07; draw 62540 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Kimi-K2-Open-Agentic-Intelligence",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.20534",
+        "https://arxiv.org/html/2507.20534",
+        "https://arxiv.org/pdf/2507.20534",
+        "https://doi.org/10.48550/arXiv.2507.20534"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
