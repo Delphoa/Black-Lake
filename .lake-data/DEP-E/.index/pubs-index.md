@@ -7533,3 +7533,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bridge-RAG: An Abstract Bridge Tree Based Retrieval Augmented Generation Algorithm* | Li, Zihang; Liu, Wenjun; Zong, Yikun; Tao, Jiawen; Dai, Siying; Ren, Songcheng; Liu, Zirui; Wang, Yuhang; Jiang, Yanbing; Yang, Tong | [arXiv:2603.26668](https://arxiv.org/abs/2603.26668) - [DOI](https://doi.org/10.48550/arXiv.2603.26668) |
+
+
+## [DEP-E-20260819-Rethinking Knowledge](../DEP-E-20260819-Rethinking%20Knowledge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions* | Han, Pengchao; Huang, Xi; Fang, Yi; Han, Guojun | [arXiv:2512.19972](https://arxiv.org/abs/2512.19972) - [DOI](https://doi.org/10.1109/TNSE.2025.3572362) |
