@@ -7428,3 +7428,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unsupervised Self-training Algorithm Based on Deep Learning for Optical Aerial Images Change Detection* | Zhou, Yuan; Li, Xiangrui | [arXiv:2010.07469](https://arxiv.org/abs/2010.07469) - [DOI](https://doi.org/10.48550/arXiv.2010.07469) |
+
+
+## [DEP-E-20260819-Can Media Act as a Soft](../DEP-E-20260819-Can%20Media%20Act%20as%20a%20Soft/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Media Act as a Soft Regulator of Safe AI Development? A Game Theoretical Analysis* | da Fonseca, Henrique Correia; Fernandes, António; Song, Zhao; Cimpeanu, Theodor; Balabanova, Nataliya; Bashir, Adeela; Bova, Paolo; Buscemi, Alessio; Di Stefano, Alessandro; Duong, Manh Hong; Domingos, Elias Fernandez; Ogbo, Ndidi Bianca; Powers, Simon T.; Proverbio, Daniele; Shamszaman, Zia Ush; Santos, Fernando P.; Han, The Anh; Krellner, Marcus | [arXiv:2509.02650](https://arxiv.org/abs/2509.02650) - [DOI](https://doi.org/10.48550/arXiv.2509.02650) |

@@ -18769,6 +18769,29 @@
         "https://doi.org/10.48550/arXiv.2010.07469"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Can Media Act as a Soft",
+        ".logs/20260819-Arxiv-Can-Media-Act-as-a-Soft-Regulator-LOG.md",
+        ".reports/BL-Arxiv-Can-Media-Act-as-a-Soft-Regulator-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.02650",
+      "arxiv_id": "2509.02650",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.02650",
+      "normalized_title": "Can Media Act as a Soft Regulator of Safe AI Development? A Game Theoretical Analysis",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P86; draw 3412 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 15; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "Can-Media-Act-as-a-Soft-Regulator",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.02650",
+        "https://arxiv.org/html/2509.02650",
+        "https://arxiv.org/pdf/2509.02650",
+        "https://doi.org/10.48550/arXiv.2509.02650"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
