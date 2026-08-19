@@ -8947,3 +8947,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation* | Yan, Zhijie; Li, Shufei; Zhang, Ze; Liu, Xin; Zheng, Yuhang; Wang, Zuoxu | [arXiv:2606.00576](https://arxiv.org/abs/2606.00576) - [DOI](https://doi.org/10.48550/arXiv.2606.00576) |
+
+
+## [DEP-E-20260819-M 3 Exam Benchmarking](../DEP-E-20260819-M%203%20Exam%20Benchmarking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions* | Huang, Zhengjun; Liu, Wenxuan; Tian, Zhoujin; Chen, Wei; Chen, Junle; Wu, Yuqian; Zhang, Fangyuan; Guo, Qintian; Zhou, Xiaofang | [arXiv:2606.07402](https://arxiv.org/abs/2606.07402) - [DOI](https://doi.org/10.48550/arXiv.2606.07402) |
