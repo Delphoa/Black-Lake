@@ -6336,3 +6336,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection* | Liu, Jiyuan; Lin, Jia; Zhou, Xiaofei; Cong, Runmin; Liu, Deyang; Liu, Zhi | [arXiv:2605.11760](https://arxiv.org/abs/2605.11760) - [DOI](https://doi.org/10.48550/arXiv.2605.11760) |
+
+
+## [DEP-E-20260819-Duality-free Methods for](../DEP-E-20260819-Duality-free%20Methods%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Duality-free Methods for Stochastic Composition Optimization* | Liu, Liu; Liu, Ji; Tao, Dacheng | [arXiv:1710.09554](https://arxiv.org/abs/1710.09554) - [DOI](https://doi.org/10.48550/arXiv.1710.09554) |
