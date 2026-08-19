@@ -22426,6 +22426,29 @@
         "https://doi.org/10.48550/arXiv.2308.05640"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-An Efficient 13767",
+        ".logs/20260819-Arxiv-An-Efficient-Diffusion-based-Non-Autoregressive-LOG.md",
+        ".reports/BL-Arxiv-An-Efficient-Diffusion-based-Non-Autoregressive-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.13767",
+      "arxiv_id": "2501.13767",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2501.13767",
+      "normalized_title": "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P245; draw 24658 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 8; focus exclusions 50; reselections 58; complete-source gate passed; all source files withheld locally.",
+      "slug": "An-Efficient-Diffusion-based-Non-Autoregressive",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.13767",
+        "https://arxiv.org/html/2501.13767",
+        "https://arxiv.org/pdf/2501.13767",
+        "https://doi.org/10.48550/arXiv.2501.13767"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

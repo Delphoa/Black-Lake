@@ -8541,3 +8541,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization* | Huang, Yansong; Zhang, Zherui; Jiao, Ao; Ma, Yuxin; Cheng, Ran | [arXiv:2308.05640](https://arxiv.org/abs/2308.05640) - [DOI](https://doi.org/10.48550/arXiv.2308.05640) |
+
+
+## [DEP-E-20260819-An Efficient 13767](../DEP-E-20260819-An%20Efficient%2013767/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem* | Wang, Mingzhao; Zhou, You; Cao, Zhiguang; Xiao, Yubin; Wu, Xuan; Pang, Wei; Jiang, Yuan; Yang, Hui; Zhao, Peng; Li, Yuanshu | [arXiv:2501.13767](https://arxiv.org/abs/2501.13767) - [DOI](https://doi.org/10.48550/arXiv.2501.13767) |
