@@ -7456,3 +7456,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Representation Memorization for Fast Learning New Knowledge without Forgetting* | Mi, Fei; Lin, Tao; Faltings, Boi | [arXiv:2108.12596](https://arxiv.org/abs/2108.12596) - [DOI](https://doi.org/10.48550/arXiv.2108.12596) |
+
+
+## [DEP-E-20260819-Computational Protein](../DEP-E-20260819-Computational%20Protein/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Computational Protein Design Using AND/OR Branch-and-Bound Search* | Zhou, Yichao; Wu, Yuexin; Zeng, Jianyang | [arXiv:1412.3138](https://arxiv.org/abs/1412.3138) - [DOI](https://doi.org/10.48550/arXiv.1412.3138) |
