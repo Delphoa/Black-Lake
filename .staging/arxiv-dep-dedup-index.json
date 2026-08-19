@@ -10926,6 +10926,29 @@
         "https://doi.org/10.48550/arXiv.1904.12111"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Improving Generative",
+        ".logs/20260819-Arxiv-Improving-Generative-Imagination-in-Object-LOG.md",
+        ".reports/BL-Arxiv-Improving-Generative-Imagination-in-Object-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2010.02054",
+      "arxiv_id": "2010.02054",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2010.02054",
+      "normalized_title": "Improving Generative Imagination in Object-Centric World Models",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P45; draw 11873 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 12; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "Improving-Generative-Imagination-in-Object",
+      "source_urls": [
+        "https://arxiv.org/abs/2010.02054",
+        "https://arxiv.org/html/2010.02054",
+        "https://arxiv.org/pdf/2010.02054",
+        "https://doi.org/10.48550/arXiv.2010.02054"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

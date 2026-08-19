@@ -5041,3 +5041,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel Fuzzy Search Approach over Encrypted Data with Improved Accuracy and Efficiency* | Cao, Jinkun; Zhu, Jinhao; Lin, Liwei; Xue, Zhengui; Ma, Ruhui; Guan, Haibing | [arXiv:1904.12111](https://arxiv.org/abs/1904.12111) - [DOI](https://doi.org/10.48550/arXiv.1904.12111) |
+
+
+## [DEP-E-20260819-Improving Generative](../DEP-E-20260819-Improving%20Generative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Generative Imagination in Object-Centric World Models* | Lin, Zhixuan; Wu, Yi-Fu; Peri, Skand; Fu, Bofeng; Jiang, Jindong; Ahn, Sungjin | [arXiv:2010.02054](https://arxiv.org/abs/2010.02054) - [DOI](https://doi.org/10.48550/arXiv.2010.02054) |
