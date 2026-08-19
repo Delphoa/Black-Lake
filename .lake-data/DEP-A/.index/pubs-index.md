@@ -12014,3 +12014,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation* | Yunzhan Fu; Enyu Bao; Xiangyu Shen; Yihao Wu; Chunbo Jiang; Fangli Guan; Liqi Yan | [arXiv:2607.26885v1](https://arxiv.org/abs/2607.26885v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26885) |
+
+
+## [DEP-A-20260819-RadHarmony Radiological D](../DEP-A-20260819-RadHarmony%20Radiological%20D/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27235-whitepaper-review.md`](../DEP-A-20260819-RadHarmony%20Radiological%20D/2607.27235-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RadHarmony: Radiological Data Handling in the Era of Agentic AI* | Frank Li; Bardia Khosravi; Mohammadreza Chavoshi; Theo Dapamede; YoungSeok Jeon; Janice Newsome; Hari Trivedi; Judy Gichoya | [arXiv:2607.27235v1](https://arxiv.org/abs/2607.27235v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27235) |
