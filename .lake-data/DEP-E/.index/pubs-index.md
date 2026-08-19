@@ -5860,3 +5860,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *How Implicit Bias Accumulates and Propagates in LLM Long-term Memory* | Ma, Yiming; Wang, Lixu; Wang, Lionel Z.; Yang, Hongkun; Sun, Haoming; Xu, Xin; Wu, Jiaqi; Chen, Bin; Dong, Wei | [arXiv:2602.01558](https://arxiv.org/abs/2602.01558) - [DOI](https://doi.org/10.48550/arXiv.2602.01558) |
+
+
+## [DEP-E-20260819-ARPO End-to-End Policy](../DEP-E-20260819-ARPO%20End-to-End%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay* | Lu, Fanbin; Zhong, Zhisheng; Liu, Shu; Fu, Chi-Wing; Jia, Jiaya | [arXiv:2505.16282](https://arxiv.org/abs/2505.16282) - [DOI](https://doi.org/10.48550/arXiv.2505.16282) |
