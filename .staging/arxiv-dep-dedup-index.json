@@ -25899,6 +25899,29 @@
         "https://doi.org/10.48550/arXiv.2312.14309"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-PALUTE",
+        ".logs/20260819-Arxiv-PALUTE-Processing-In-Memory-Acceleration-via-LOG.md",
+        ".reports/BL-Arxiv-PALUTE-Processing-In-Memory-Acceleration-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.08891",
+      "arxiv_id": "2606.08891",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.08891",
+      "normalized_title": "PALUTE: Processing-In-Memory Acceleration via Lookup Table for Edge LLM Inference",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P396; draw 3821 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 5; focus exclusions 13; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "PALUTE-Processing-In-Memory-Acceleration-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.08891",
+        "https://arxiv.org/html/2606.08891",
+        "https://arxiv.org/pdf/2606.08891",
+        "https://doi.org/10.48550/arXiv.2606.08891"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
