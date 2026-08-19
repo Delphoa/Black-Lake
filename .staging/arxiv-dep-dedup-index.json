@@ -26658,6 +26658,29 @@
         "https://doi.org/10.48550/arXiv.2510.20206"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DFWLayer Differentiable",
+        ".logs/20260819-Arxiv-DFWLayer-Differentiable-Frank-Wolfe-Optimization-LOG.md",
+        ".reports/BL-Arxiv-DFWLayer-Differentiable-Frank-Wolfe-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.10806",
+      "arxiv_id": "2308.10806",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2308.10806",
+      "normalized_title": "DFWLayer: Differentiable Frank-Wolfe Optimization Layer",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P429; draw 32679 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "DFWLayer-Differentiable-Frank-Wolfe-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.10806",
+        "https://arxiv.org/html/2308.10806",
+        "https://arxiv.org/pdf/2308.10806",
+        "https://doi.org/10.48550/arXiv.2308.10806"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

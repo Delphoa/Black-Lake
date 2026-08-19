@@ -9829,3 +9829,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling* | Gao, Bingjie; Ma, Qianli; Wu, Xiaoxue; Yang, Shuai; Lan, Guanzhou; Zhao, Haonan; Chen, Jiaxuan; Liu, Qingyang; Qiao, Yu; Chen, Xinyuan; Wang, Yaohui; Niu, Li | [arXiv:2510.20206](https://arxiv.org/abs/2510.20206) - [DOI](https://doi.org/10.48550/arXiv.2510.20206) |
+
+
+## [DEP-E-20260819-DFWLayer Differentiable](../DEP-E-20260819-DFWLayer%20Differentiable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DFWLayer: Differentiable Frank-Wolfe Optimization Layer* | Liu, Zixuan; Liu, Liu; Wang, Xueqian; Zhao, Peilin | [arXiv:2308.10806](https://arxiv.org/abs/2308.10806) - [DOI](https://doi.org/10.48550/arXiv.2308.10806) |
