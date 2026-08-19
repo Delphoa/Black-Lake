@@ -12176,3 +12176,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents* | Kaichao Liang; Yuqi Cui; Hao Kong; Xinyuan Huang; Guohaotian Hou; Qingcan Kang; Liang Chen; Yiyang Yin; Ke Ye; Jiaquan Guo; Da Chen; Lingan Zeng; Yixing Peng; Rong Yao; Shixiong Kai; Mingxuan Yuan | [arXiv:2608.12428v1](https://arxiv.org/abs/2608.12428v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12428) |
+
+
+## [DEP-A-20260819-LLMs Are Not Good](../DEP-A-20260819-LLMs%20Are%20Not%20Good/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12626-whitepaper-review.md`](../DEP-A-20260819-LLMs%20Are%20Not%20Good/2608.12626-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLMs Are Not Good Strategists, Yet Memory-Enhanced Agency Boosts Reasoning* | Yi Wu; Zhimin Hu | [arXiv:2608.12626v1](https://arxiv.org/abs/2608.12626v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12626) |
