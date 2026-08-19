@@ -10825,3 +10825,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Absolute Zero: Reinforced Self-play Reasoning with Zero Data* | Zhao, Andrew; Wu, Yiran; Yue, Yang; Wu, Tong; Xu, Quentin; Yue, Yang; Lin, Matthieu; Wang, Shenzhi; Wu, Qingyun; Zheng, Zilong; Huang, Gao | [arXiv:2505.03335](https://arxiv.org/abs/2505.03335) - [DOI](https://doi.org/10.48550/arXiv.2505.03335) |
+
+## [DEP-A-20260820-AcroFOD An Intake](../DEP-A-20260820-AcroFOD%20An%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-AcroFOD%20An%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection* | Gao, Yipeng; Yang, Lingxiao; Huang, Yunmu; Xie, Song; Li, Shiyong; Zheng, Wei-shi | [arXiv:2209.10904](https://arxiv.org/abs/2209.10904) - [DOI](https://doi.org/10.48550/arXiv.2209.10904) |
