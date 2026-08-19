@@ -9010,3 +9010,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Repurposing Adversarial Perturbations for Continual Learning: From Defense to Active Alignment* | Liu, Ran; Yu, Min; Liu, Mingqi; Jiang, Jianguo; Li, Gang; Li, Rongsheng; Li, Ning; Xu, Zhen; Huang, Weiqing; Liu, Ming | [arXiv:2606.02322](https://arxiv.org/abs/2606.02322) - [DOI](https://doi.org/10.48550/arXiv.2606.02322) |
+
+
+## [DEP-E-20260819-IRNN Innovation-driven](../DEP-E-20260819-IRNN%20Innovation-driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IRNN: Innovation-driven Recurrent Neural Network for Time-Series Data Modeling and Prediction* | Zhou, Yifan; Wang, Yibo; Shang, Chao | [arXiv:2505.05916](https://arxiv.org/abs/2505.05916) - [DOI](https://doi.org/10.48550/arXiv.2505.05916) |
