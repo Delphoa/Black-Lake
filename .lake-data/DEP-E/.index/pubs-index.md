@@ -9220,3 +9220,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Continual Learning for Speech and Audio: A Representation-Centric Taxonomy and Open Problems* | Xiao, Yang; Wang, Siyi; Holden, Eun-Jung; Dang, Ting | [arXiv:2605.24863](https://arxiv.org/abs/2605.24863) - [DOI](https://doi.org/10.48550/arXiv.2605.24863) |
+
+
+## [DEP-E-20260819-Multi-Facet Recommender](../DEP-E-20260819-Multi-Facet%20Recommender/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Facet Recommender Networks with Spherical Optimization* | Tan, Yanchao; Yang, Carl; Wei, Xiangyu; Ma, Yun; Zheng, Xiaolin | [arXiv:2103.14866](https://arxiv.org/abs/2103.14866) - [DOI](https://doi.org/10.48550/arXiv.2103.14866) |
