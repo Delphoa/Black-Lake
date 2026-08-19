@@ -6623,3 +6623,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation* | Liu, Yu; Liu, Lingqiao; Zhang, Haokui; Rezatofighi, Hamid; Reid, Ian | [arXiv:1909.13046](https://arxiv.org/abs/1909.13046) - [DOI](https://doi.org/10.48550/arXiv.1909.13046) |
+
+
+## [DEP-E-20260819-Improving](../DEP-E-20260819-Improving/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning* | Chen, Yiqun; Yan, Lingyong; Sun, Weiwei; Ma, Xinyu; Zhang, Yi; Wang, Shuaiqiang; Yin, Dawei; Yang, Yiming; Mao, Jiaxin | [arXiv:2501.15228](https://arxiv.org/abs/2501.15228) - [DOI](https://doi.org/10.48550/arXiv.2501.15228) |
