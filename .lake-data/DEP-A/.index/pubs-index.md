@@ -11375,3 +11375,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Runtime Observability for Heterogeneous Attention Memory* | Fanzhe Wei; Li Liu; Ziyang Wang; Chenyu Wang | [arXiv:2608.05863v1](https://arxiv.org/abs/2608.05863v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05863) |
+
+
+## [DEP-A-20260819-When Does Latent Communic](../DEP-A-20260819-When%20Does%20Latent%20Communic/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.04893-whitepaper-review.md`](../DEP-A-20260819-When%20Does%20Latent%20Communic/2608.04893-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs* | Jiaming Cheng; Subhransu Das; Rajiv Ramnath | [arXiv:2608.04893v1](https://arxiv.org/abs/2608.04893v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04893) |
