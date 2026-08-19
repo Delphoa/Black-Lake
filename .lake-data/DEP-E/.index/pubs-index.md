@@ -8583,3 +8583,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Matrix-Monotonic Optimization Part I: Single-Variable Optimization* | Xing, Chengwen; Wang, Shuai; Chen, Sheng; Ma, Shaodan; Poor, H. Vincent; Hanzo, Lajos | [arXiv:1810.11244](https://arxiv.org/abs/1810.11244) - [DOI](https://doi.org/10.48550/arXiv.1810.11244) |
+
+
+## [DEP-E-20260819-Parallel-mentoring for](../DEP-E-20260819-Parallel-mentoring%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parallel-mentoring for Offline Model-based Optimization* | Chen, Can; Beckham, Christopher; Liu, Zixuan; Liu, Xue; Pal, Christopher | [arXiv:2309.11592](https://arxiv.org/abs/2309.11592) - [DOI](https://doi.org/10.48550/arXiv.2309.11592) |
