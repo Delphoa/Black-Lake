@@ -13525,6 +13525,29 @@
         "https://doi.org/10.48550/arXiv.2509.13511"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning",
+        ".logs/20260819-Arxiv-Enhancing-Reasoning-through-Process-Supervision-LOG.md",
+        ".reports/BL-Arxiv-Enhancing-Reasoning-through-Process-Supervision-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.01478",
+      "arxiv_id": "2501.01478",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2501.01478",
+      "normalized_title": "Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P158; draw 51293 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Enhancing-Reasoning-through-Process-Supervision",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.01478",
+        "https://arxiv.org/html/2501.01478",
+        "https://arxiv.org/pdf/2501.01478",
+        "https://doi.org/10.48550/arXiv.2501.01478"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

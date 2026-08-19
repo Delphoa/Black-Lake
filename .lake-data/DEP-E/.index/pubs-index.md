@@ -5832,3 +5832,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Odin: Effective End-to-End SLA Decomposition for 5G/6G Network Slicing via Online Learning* | Cheng, Duo; Sheshadri, Ramanujan K; Kak, Ahan; Choi, Nakjung; Zhou, Xingyu; Ji, Bo | [arXiv:2509.13511](https://arxiv.org/abs/2509.13511) - [DOI](https://doi.org/10.48550/arXiv.2509.13511) |
+
+
+## [DEP-E-20260819-Enhancing Reasoning](../DEP-E-20260819-Enhancing%20Reasoning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search* | Li, Shuangtao; Dong, Shuaihao; Luan, Kexin; Di, Xinhan; Ding, Chaofan | [arXiv:2501.01478](https://arxiv.org/abs/2501.01478) - [DOI](https://doi.org/10.48550/arXiv.2501.01478) |
