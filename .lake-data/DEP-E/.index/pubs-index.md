@@ -9535,3 +9535,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Road Curb Detection Using A Novel Tensor Voting Algorithm* | Zhu, Yilong; Han, Dong; Xue, Bohuan; Jiao, Jianhao; Zou, Zuhao; Liu, Ming; Fan, Rui | [arXiv:1911.12937](https://arxiv.org/abs/1911.12937) - [DOI](https://doi.org/10.48550/arXiv.1911.12937) |
+
+
+## [DEP-E-20260819-Towards Long-Lived Robots](../DEP-E-20260819-Towards%20Long-Lived%20Robots/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning* | Liu, Yuan; Li, Haoran; Tian, Shuai; Qin, Yuxing; Chen, Yuhui; Zheng, Yupeng; Huang, Yongzhen; Zhao, Dongbin | [arXiv:2602.10503](https://arxiv.org/abs/2602.10503) - [DOI](https://doi.org/10.48550/arXiv.2602.10503) |
