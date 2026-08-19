@@ -13893,6 +13893,29 @@
         "https://doi.org/10.48550/arXiv.2105.11628"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Non-Forgetting Knowledge",
+        ".logs/20260819-Arxiv-Non-Forgetting-Knowledge-Allocation-with-Bi-LOG.md",
+        ".reports/BL-Arxiv-Non-Forgetting-Knowledge-Allocation-with-Bi-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.29592",
+      "arxiv_id": "2605.29592",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.29592",
+      "normalized_title": "Non-Forgetting Knowledge Allocation with Bi-level Competition for Class-Incremental Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P174; draw 41055 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 12; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "Non-Forgetting-Knowledge-Allocation-with-Bi",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.29592",
+        "https://arxiv.org/html/2605.29592",
+        "https://arxiv.org/pdf/2605.29592",
+        "https://doi.org/10.48550/arXiv.2605.29592"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

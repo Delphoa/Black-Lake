@@ -5944,3 +5944,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TIPCB: A Simple but Effective Part-based Convolutional Baseline for Text-based Person Search* | Chen, Yuhao; Zhang, Guoqing; Lu, Yujiang; Wang, Zhenxing; Zheng, Yuhui; Wang, Ruili | [arXiv:2105.11628](https://arxiv.org/abs/2105.11628) - [DOI](https://doi.org/10.48550/arXiv.2105.11628) |
+
+
+## [DEP-E-20260819-Non-Forgetting Knowledge](../DEP-E-20260819-Non-Forgetting%20Knowledge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Non-Forgetting Knowledge Allocation with Bi-level Competition for Class-Incremental Learning* | Tan, Xiang; He, Run; Cui, Yawen; Zhao, Mengchen; Wu, Yan; Chen, Tianyi; Zhuang, Huiping; Luo, Xiaonan; Li, Guanbin | [arXiv:2605.29592](https://arxiv.org/abs/2605.29592) - [DOI](https://doi.org/10.48550/arXiv.2605.29592) |
