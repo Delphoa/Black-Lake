@@ -7932,3 +7932,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition* | Wang, Shuoyuan; Wang, Jindong; Xi, HuaJun; Zhang, Bob; Zhang, Lei; Wei, Hongxin | [arXiv:2310.18562](https://arxiv.org/abs/2310.18562) - [DOI](https://doi.org/10.48550/arXiv.2310.18562) |
+
+
+## [DEP-E-20260819-Avoid Catastrophic](../DEP-E-20260819-Avoid%20Catastrophic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Avoid Catastrophic Forgetting with Rank-1 Fisher from Diffusion Models* | Wang, Zekun; Gupta, Anant; Dong, Zihan; MacLellan, Christopher J. | [arXiv:2509.23593](https://arxiv.org/abs/2509.23593) - [DOI](https://doi.org/10.48550/arXiv.2509.23593) |
