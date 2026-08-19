@@ -7470,3 +7470,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Big-model Driven Few-shot Continual Learning* | Gu, Ziqi; Xu, Chunyan; Lu, Zihan; Liu, Xin; Dai, Anbo; Cui, Zhen | [arXiv:2309.00862](https://arxiv.org/abs/2309.00862) - [DOI](https://doi.org/10.48550/arXiv.2309.00862) |
+
+
+## [DEP-E-20260819-Path-Normalized](../DEP-E-20260819-Path-Normalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations* | Neyshabur, Behnam; Wu, Yuhuai; Salakhutdinov, Ruslan; Srebro, Nathan | [arXiv:1605.07154](https://arxiv.org/abs/1605.07154) - [DOI](https://doi.org/10.48550/arXiv.1605.07154) |
