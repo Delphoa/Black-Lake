@@ -24335,6 +24335,29 @@
         "https://doi.org/10.48550/arXiv.2512.06688"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Novel Learning",
+        ".logs/20260819-Arxiv-A-Novel-Learning-Algorithm-for-B-chi-LOG.md",
+        ".reports/BL-Arxiv-A-Novel-Learning-Algorithm-for-B-chi-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1610.07380",
+      "arxiv_id": "1610.07380",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1610.07380",
+      "normalized_title": "A Novel Learning Algorithm for B\\\"uchi Automata based on Family of DFAs and Classification Trees",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P328; draw 30229 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 6; focus exclusions 10; reselections 16; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Novel-Learning-Algorithm-for-B-chi",
+      "source_urls": [
+        "https://arxiv.org/abs/1610.07380",
+        "https://arxiv.org/html/1610.07380",
+        "https://arxiv.org/pdf/1610.07380",
+        "https://doi.org/10.48550/arXiv.1610.07380"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
