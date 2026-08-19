@@ -6777,3 +6777,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search* | Chen, Mingxiang; Gao, Lei; Chen, Qichang; Liu, Zhixin | [arXiv:2005.09330](https://arxiv.org/abs/2005.09330) - [DOI](https://doi.org/10.48550/arXiv.2005.09330) |
+
+
+## [DEP-E-20260819-Deep Learning with Long](../DEP-E-20260819-Deep%20Learning%20with%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Learning with Long Short-Term Memory for Time Series Prediction* | Hua, Yuxiu; Zhao, Zhifeng; Li, Rongpeng; Chen, Xianfu; Liu, Zhiming; Zhang, Honggang | [arXiv:1810.10161](https://arxiv.org/abs/1810.10161) - [DOI](https://doi.org/10.48550/arXiv.1810.10161) |
