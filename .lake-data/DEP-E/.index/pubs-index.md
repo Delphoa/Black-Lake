@@ -7603,3 +7603,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections* | Peng, Zengqi; Zhou, Xiao; Wang, Yubin; Zheng, Lei; Liu, Ming; Ma, Jun | [arXiv:2308.16445](https://arxiv.org/abs/2308.16445) - [DOI](https://doi.org/10.48550/arXiv.2308.16445) |
+
+
+## [DEP-E-20260819-Quantum-Inspired](../DEP-E-20260819-Quantum-Inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum-Inspired Classical Algorithm for Principal Component Regression* | Chen, Daniel; Xu, Yekun; Baheri, Betis; Bi, Chuan; Mao, Ying; Quan, Qiang; Xu, Shuai | [arXiv:2010.08626](https://arxiv.org/abs/2010.08626) - [DOI](https://doi.org/10.48550/arXiv.2010.08626) |
