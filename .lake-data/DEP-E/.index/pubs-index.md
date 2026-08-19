@@ -8667,3 +8667,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hypercube-Based Retrieval-Augmented Generation for Scientific Question-Answering* | Shi, Jimeng; Zhou, Sizhe; Jin, Bowen; Hu, Wei; Tian, Runchu; Wang, Shaowen; Narasimhan, Giri; Han, Jiawei | [arXiv:2505.19288](https://arxiv.org/abs/2505.19288) - [DOI](https://doi.org/10.48550/arXiv.2505.19288) |
+
+
+## [DEP-E-20260819-Development of Occupancy](../DEP-E-20260819-Development%20of%20Occupancy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Development of Occupancy Prediction Algorithm for Underground Parking Lots* | Wang, Shijie | [arXiv:2409.00923](https://arxiv.org/abs/2409.00923) - [DOI](https://doi.org/10.48550/arXiv.2409.00923) |
