@@ -13939,6 +13939,29 @@
         "https://doi.org/10.48550/arXiv.2503.14493"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Quantum optimization with",
+        ".logs/20260819-Arxiv-Quantum-optimization-with-arbitrary-connectivity-LOG.md",
+        ".reports/BL-Arxiv-Quantum-optimization-with-arbitrary-connectivity-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.03965",
+      "arxiv_id": "2209.03965",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1103/PRXQuantum.4.010316",
+      "normalized_title": "Quantum optimization with arbitrary connectivity using Rydberg atom arrays",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P176; draw 31185 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 39; reselections 41; complete-source gate passed; all source files withheld locally.",
+      "slug": "Quantum-optimization-with-arbitrary-connectivity",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.03965",
+        "https://arxiv.org/html/2209.03965",
+        "https://arxiv.org/pdf/2209.03965",
+        "https://doi.org/10.1103/PRXQuantum.4.010316"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

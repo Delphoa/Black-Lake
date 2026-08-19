@@ -5958,3 +5958,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *State Space Model Meets Transformer: A New Paradigm for 3D Object Detection* | Wang, Chuxin; Yang, Wenfei; Liu, Xiang; Zhang, Tianzhu | [arXiv:2503.14493](https://arxiv.org/abs/2503.14493) - [DOI](https://doi.org/10.48550/arXiv.2503.14493) |
+
+
+## [DEP-E-20260819-Quantum optimization with](../DEP-E-20260819-Quantum%20optimization%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum optimization with arbitrary connectivity using Rydberg atom arrays* | Nguyen, Minh-Thi; Liu, Jin-Guo; Wurtz, Jonathan; Lukin, Mikhail D.; Wang, Sheng-Tao; Pichler, Hannes | [arXiv:2209.03965](https://arxiv.org/abs/2209.03965) - [DOI](https://doi.org/10.1103/PRXQuantum.4.010316) |
