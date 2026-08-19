@@ -5615,3 +5615,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Predictor for Neural Architecture Search* | Wen, Wei; Liu, Hanxiao; Li, Hai; Chen, Yiran; Bender, Gabriel; Kindermans, Pieter-Jan | [arXiv:1912.00848](https://arxiv.org/abs/1912.00848) - [DOI](https://doi.org/10.48550/arXiv.1912.00848) |
+
+
+## [DEP-E-20260819-Cognitive Visual](../DEP-E-20260819-Cognitive%20Visual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cognitive Visual Commonsense Reasoning Using Dynamic Working Memory* | Tang, Xuejiao; Huang, Xin; Zhang, Wenbin; Child, Travers B.; Hu, Qiong; Liu, Zhen; Zhang, Ji | [arXiv:2107.01671](https://arxiv.org/abs/2107.01671) - [DOI](https://doi.org/10.48550/arXiv.2107.01671) |
