@@ -6182,3 +6182,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics* | Gao, James; Lee, Jacob; Zhou, Yuting; Hu, Yunze; Liu, Chang; Zhu, Pingping | [arXiv:2410.02510](https://arxiv.org/abs/2410.02510) - [DOI](https://doi.org/10.48550/arXiv.2410.02510) |
+
+
+## [DEP-E-20260819-MPO Boosting LLM Agents](../DEP-E-20260819-MPO%20Boosting%20LLM%20Agents/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MPO: Boosting LLM Agents with Meta Plan Optimization* | Xiong, Weimin; Song, Yifan; Dong, Qingxiu; Zhao, Bingchan; Song, Feifan; Wang, Xun; Li, Sujian | [arXiv:2503.02682](https://arxiv.org/abs/2503.02682) - [DOI](https://doi.org/10.48550/arXiv.2503.02682) |
