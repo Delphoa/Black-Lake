@@ -19850,6 +19850,29 @@
         "https://doi.org/10.48550/arXiv.2306.14520"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MO-SAE Multi-Objective",
+        ".logs/20260819-Arxiv-MO-SAE-Multi-Objective-Stacked-Autoencoders-LOG.md",
+        ".reports/BL-Arxiv-MO-SAE-Multi-Objective-Stacked-Autoencoders-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.13895",
+      "arxiv_id": "2603.13895",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/SMC58881.2025.11343286",
+      "normalized_title": "MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P133; draw 9563 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 5; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "MO-SAE-Multi-Objective-Stacked-Autoencoders",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.13895",
+        "https://arxiv.org/html/2603.13895",
+        "https://arxiv.org/pdf/2603.13895",
+        "https://doi.org/10.1109/SMC58881.2025.11343286"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

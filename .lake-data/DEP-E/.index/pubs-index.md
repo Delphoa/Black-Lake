@@ -7757,3 +7757,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Approximation algorithms for $k$-submodular maximization subject to a knapsack constraint* | Xiao, Hao; Liu, Qian; Zhou, Yang; Li, Min | [arXiv:2306.14520](https://arxiv.org/abs/2306.14520) - [DOI](https://doi.org/10.48550/arXiv.2306.14520) |
+
+
+## [DEP-E-20260819-MO-SAE Multi-Objective](../DEP-E-20260819-MO-SAE%20Multi-Objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection* | Zhang, Lizhao; Kong, Shengsong; Guo, Tao; Li, Shaobo; Ji, Zhenzhou | [arXiv:2603.13895](https://arxiv.org/abs/2603.13895) - [DOI](https://doi.org/10.1109/SMC58881.2025.11343286) |
