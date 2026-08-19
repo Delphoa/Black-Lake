@@ -11771,3 +11771,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VTM-Nav: Harnessing Cross-Episode Experience for Object-Goal Navigation with Hierarchical Visual-Topological Memory* | Xiaoran Xu; Yupeng Wu; Tianyu Xue; Yifan Xu; Xuanran Dong; Xiaoshan Yang; Changsheng Xu | [arXiv:2607.14514v2](https://arxiv.org/abs/2607.14514v2) - [DOI](https://doi.org/10.48550/arXiv.2607.14514) |
+
+
+## [DEP-A-20260819-RetroAgent Harnessing LLM](../DEP-A-20260819-RetroAgent%20Harnessing%20LLM/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14512-whitepaper-review.md`](../DEP-A-20260819-RetroAgent%20Harnessing%20LLM/2607.14512-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning* | Yanqiao Zhu; Jingru Gan; Xiaoqi Sun; Fang Sun; Yidan Shi; Md Mofijul Islam; Chao Shang; Wenhao Gao; Connor W. Coley; Yizhou Sun; Wei Wang | [arXiv:2607.14512v2](https://arxiv.org/abs/2607.14512v2) - [DOI](https://doi.org/10.48550/arXiv.2607.14512) |
