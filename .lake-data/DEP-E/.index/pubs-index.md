@@ -5496,3 +5496,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An efficient algorithm for the $\ell_{p}$ norm based metric nearness problem* | Tang, Peipei; Jiang, Bo; Wang, Chengjing | [arXiv:2211.01245](https://arxiv.org/abs/2211.01245) - [DOI](https://doi.org/10.48550/arXiv.2211.01245) |
+
+
+## [DEP-E-20260819-Improving Visual-Semantic](../DEP-E-20260819-Improving%20Visual-Semantic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective* | Zhang, Zijian; Shu, Chang; Xiao, Ya; Shen, Yuan; Zhu, Di; Xiao, Jing; Chen, Youxin; Lau, Jey Han; Zhang, Qian; Lu, Zheng | [arXiv:2210.02206](https://arxiv.org/abs/2210.02206) - [DOI](https://doi.org/10.48550/arXiv.2210.02206) |
