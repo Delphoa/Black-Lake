@@ -6224,3 +6224,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning* | Zhou, Yuqi; Wang, Shuai; Dai, Sunhao; Jia, Qinglin; Du, Zhaocheng; Dong, Zhenhua; Xu, Jun | [arXiv:2503.03743](https://arxiv.org/abs/2503.03743) - [DOI](https://doi.org/10.48550/arXiv.2503.03743) |
+
+
+## [DEP-E-20260819-Tolling for Constraint](../DEP-E-20260819-Tolling%20for%20Constraint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tolling for Constraint Satisfaction in Markov Decision Process Congestion Games* | Li, Sarah H. Q.; Yu, Yue; Calderone, Daniel; Ratliff, Lillian; Acikmese, Behcet | [arXiv:1903.00747](https://arxiv.org/abs/1903.00747) - [DOI](https://doi.org/10.23919/ACC.2019.8814925) |
