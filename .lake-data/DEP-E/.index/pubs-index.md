@@ -7589,3 +7589,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System* | Fang, Yunhua; Xie, Rui; Haq, Asad Ul; Ma, Linsen; Maghraoui, Kaoutar El; Wang, Naigang; Wang, Meng; Liu, Liu; Zhang, Tong | [arXiv:2508.13231](https://arxiv.org/abs/2508.13231) - [DOI](https://doi.org/10.48550/arXiv.2508.13231) |
+
+
+## [DEP-E-20260819-Quantum Feature](../DEP-E-20260819-Quantum%20Feature/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Feature Optimization for Enhanced Clustering of Blockchain Transaction Data* | Tsai, Yun-Cheng; Chen, Samuel Yen-Chi | [arXiv:2505.16672](https://arxiv.org/abs/2505.16672) - [DOI](https://doi.org/10.48550/arXiv.2505.16672) |
