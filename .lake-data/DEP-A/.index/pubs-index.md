@@ -11969,3 +11969,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value* | Akihito Sudo | [arXiv:2608.12791v1](https://arxiv.org/abs/2608.12791v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12791) |
+
+
+## [DEP-A-20260819-Stage Replay Divergence F](../DEP-A-20260819-Stage%20Replay%20Divergence%20F/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28495-whitepaper-review.md`](../DEP-A-20260819-Stage%20Replay%20Divergence%20F/2607.28495-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation* | Alexander Boesgaard Lorup | [arXiv:2607.28495v1](https://arxiv.org/abs/2607.28495v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28495) |
