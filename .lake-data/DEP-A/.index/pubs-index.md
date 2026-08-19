@@ -11123,3 +11123,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models* | Zhijie Wu; Kento Kawaharazuka; Kei Okada | [arXiv:2608.10824v1](https://arxiv.org/abs/2608.10824v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10824) |
+
+
+## [DEP-A-20260819-ImpactHO Importance Aware](../DEP-A-20260819-ImpactHO%20Importance%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.10545-whitepaper-review.md`](../DEP-A-20260819-ImpactHO%20Importance%20Aware/2608.10545-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover* | Minwoo Kim; Soochang Song; Namyoon Lee; Bang Chul Jung; Yongjune Kim | [arXiv:2608.10545v1](https://arxiv.org/abs/2608.10545v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10545) |
