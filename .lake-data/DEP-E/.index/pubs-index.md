@@ -8170,3 +8170,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Modeling Unknown Stochastic Dynamical System via Autoencoder* | Xu, Zhongshu; Chen, Yuan; Chen, Qifan; Xiu, Dongbin | [arXiv:2312.10001](https://arxiv.org/abs/2312.10001) - [DOI](https://doi.org/10.1615/JMachLearnModelComput.2024055773) |
+
+
+## [DEP-E-20260819-PMPO Probabilistic Metric](../DEP-E-20260819-PMPO%20Probabilistic%20Metric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models* | Zhao, Chenzhuo; Liu, Ziqian; Wang, Xinda; Lu, Junting; Ruan, Chaoyi | [arXiv:2505.16307](https://arxiv.org/abs/2505.16307) - [DOI](https://doi.org/10.48550/arXiv.2505.16307) |
