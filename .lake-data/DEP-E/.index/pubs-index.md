@@ -6007,3 +6007,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents* | Wang, Shu; Zhou, Yingli; Fang, Yixiang | [arXiv:2512.03413](https://arxiv.org/abs/2512.03413) - [DOI](https://doi.org/10.48550/arXiv.2512.03413) |
+
+
+## [DEP-E-20260819-CRPO Confidence-Reward](../DEP-E-20260819-CRPO%20Confidence-Reward/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation* | Cui, Guofeng; Wang, Pichao; Liu, Yang; Ke, Zemian; Liu, Zhu; Bhat, Vimal | [arXiv:2501.13927](https://arxiv.org/abs/2501.13927) - [DOI](https://doi.org/10.48550/arXiv.2501.13927) |
