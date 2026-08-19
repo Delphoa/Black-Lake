@@ -12996,6 +12996,29 @@
         "https://doi.org/10.48550/arXiv.2312.03263"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Multi-agent Attention",
+        ".logs/20260819-Arxiv-Multi-agent-Attention-Actor-Critic-Algorithm-for-LOG.md",
+        ".reports/BL-Arxiv-Multi-agent-Attention-Actor-Critic-Algorithm-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2303.08003",
+      "arxiv_id": "2303.08003",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2303.08003",
+      "normalized_title": "Multi-agent Attention Actor-Critic Algorithm for Load Balancing in Cellular Networks",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P135; draw 72649 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 4; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-agent-Attention-Actor-Critic-Algorithm-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2303.08003",
+        "https://arxiv.org/html/2303.08003",
+        "https://arxiv.org/pdf/2303.08003",
+        "https://doi.org/10.48550/arXiv.2303.08003"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

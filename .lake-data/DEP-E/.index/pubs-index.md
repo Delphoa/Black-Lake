@@ -5671,3 +5671,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment* | Puthumanaillam, Gokul; Liu, Xiangyu; Mehr, Negar; Ornik, Melkior | [arXiv:2312.03263](https://arxiv.org/abs/2312.03263) - [DOI](https://doi.org/10.48550/arXiv.2312.03263) |
+
+
+## [DEP-E-20260819-Multi-agent Attention](../DEP-E-20260819-Multi-agent%20Attention/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-agent Attention Actor-Critic Algorithm for Load Balancing in Cellular Networks* | Kang, Jikun; Wu, Di; Wang, Ju; Hossain, Ekram; Liu, Xue; Dudek, Gregory | [arXiv:2303.08003](https://arxiv.org/abs/2303.08003) - [DOI](https://doi.org/10.48550/arXiv.2303.08003) |
