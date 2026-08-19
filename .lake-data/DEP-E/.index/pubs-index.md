@@ -8968,3 +8968,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Inexact Augmented Lagrangian Algorithm for Training Leaky ReLU Neural Network with Group Sparsity* | Liu, Wei; Liu, Xin; Chen, Xiaojun | [arXiv:2205.05428](https://arxiv.org/abs/2205.05428) - [DOI](https://doi.org/10.48550/arXiv.2205.05428) |
+
+
+## [DEP-E-20260819-Evaluating](../DEP-E-20260819-Evaluating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Retrieval-Augmented Generation Strategies for Large Language Models in Travel Mode Choice Prediction* | Xu, Yiming; Jiao, Junfeng | [arXiv:2508.17527](https://arxiv.org/abs/2508.17527) - [DOI](https://doi.org/10.48550/arXiv.2508.17527) |
