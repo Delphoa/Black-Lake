@@ -12221,3 +12221,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Does Distributed AI Inference Need More Wide-Area Bandwidth? A Co-Design Evaluation of Optical, Packet, and Software Levers* | Prasanna C | [arXiv:2608.14967v1](https://arxiv.org/abs/2608.14967v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14967) |
+
+
+## [DEP-A-20260820-Beyond Capacity Scalable](../DEP-A-20260820-Beyond%20Capacity%20Scalable/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.14333-whitepaper-review.md`](../DEP-A-20260820-Beyond%20Capacity%20Scalable/2608.14333-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths* | Seeyeon Kim; Juhyeong Jin; Joo-Young Kim | [arXiv:2608.14333v1](https://arxiv.org/abs/2608.14333v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14333) |
