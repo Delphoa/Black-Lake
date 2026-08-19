@@ -5405,3 +5405,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging* | Wang, Zhibin; Cai, Yanxin; Zhou, Jiayi; Zhang, Yangming; Li, Tianyu; Li, Wei; Liu, Xun; Wang, Guoqing; Yang, Yang | [arXiv:2412.18417](https://arxiv.org/abs/2412.18417) - [DOI](https://doi.org/10.48550/arXiv.2412.18417) |
+
+
+## [DEP-E-20260819-The Devil is in the](../DEP-E-20260819-The%20Devil%20is%20in%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation* | Gao, Bingjie; Gao, Xinyu; Wu, Xiaoxue; Zhou, Yujie; Qiao, Yu; Niu, Li; Chen, Xinyuan; Wang, Yaohui | [arXiv:2504.11739](https://arxiv.org/abs/2504.11739) - [DOI](https://doi.org/10.48550/arXiv.2504.11739) |
