@@ -6742,3 +6742,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation* | Li, Zhenxin; Li, Kailin; Wang, Shihao; Lan, Shiyi; Yu, Zhiding; Ji, Yishen; Li, Zhiqi; Zhu, Ziyue; Kautz, Jan; Wu, Zuxuan; Jiang, Yu-Gang; Alvarez, Jose M. | [arXiv:2406.06978](https://arxiv.org/abs/2406.06978) - [DOI](https://doi.org/10.48550/arXiv.2406.06978) |
+
+
+## [DEP-E-20260819-X-Foresight A Joint](../DEP-E-20260819-X-Foresight%20A%20Joint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling* | Li, Baolu; Qian, Jingyu; Guo, Rui; Chen, Yilun; Liu, Hanpeng; Lin, Yuan; Zhou, Junhong; Liu, Ruixin; Yang, Liu; Zheng, Yutong; Zhang, Zhenli; Li, Sean; Zheng, Chaoda; Wang, Boyang; Tenglong; Gu; Ding, Zhuangzhuang; Zheng, Pengkun; Zhang, Yu; Liu, Xianming | [arXiv:2605.24892](https://arxiv.org/abs/2605.24892) - [DOI](https://doi.org/10.48550/arXiv.2605.24892) |
