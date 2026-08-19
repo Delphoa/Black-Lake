@@ -7106,3 +7106,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Simulated annealing for optimization of graphs and sequences* | Liu, Xianggen; Li, Pengyong; Meng, Fandong; Zhou, Hao; Zhong, Huasong; Zhou, Jie; Mou, Lili; Song, Sen | [arXiv:2110.01384](https://arxiv.org/abs/2110.01384) - [DOI](https://doi.org/10.1016/j.neucom.2021.09.003) |
+
+
+## [DEP-E-20260819-PIS A Generalized](../DEP-E-20260819-PIS%20A%20Generalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching* | Yang, Weijie; Zhang, Xun; Jiang, Simin; Zhou, Yubao | [arXiv:2512.13732](https://arxiv.org/abs/2512.13732) - [DOI](https://doi.org/10.48550/arXiv.2512.13732) |
