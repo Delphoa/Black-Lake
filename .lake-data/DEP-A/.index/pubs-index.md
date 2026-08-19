@@ -11186,3 +11186,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deferred Audio Pruning with Local Audio-Visual Dynamics for Omni-LLMs* | Kyeongyoon Lee; Hongyeob Kim; Youngeun Kim; Sungeun Hong | [arXiv:2608.08794v1](https://arxiv.org/abs/2608.08794v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08794) |
+
+
+## [DEP-A-20260819-RippleKV Cross Layer KV](../DEP-A-20260819-RippleKV%20Cross%20Layer%20KV/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08684-whitepaper-review.md`](../DEP-A-20260819-RippleKV%20Cross%20Layer%20KV/2608.08684-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation* | Dongjie Xu; Kai Qian; Julius; Weijie Shi; Yuxuan Sun; Minghua Tang; Fenglei Jin; Hanchi Dong; Jiajie Xu | [arXiv:2608.08684v1](https://arxiv.org/abs/2608.08684v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08684) |
