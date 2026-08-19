@@ -12023,3 +12023,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RadHarmony: Radiological Data Handling in the Era of Agentic AI* | Frank Li; Bardia Khosravi; Mohammadreza Chavoshi; Theo Dapamede; YoungSeok Jeon; Janice Newsome; Hari Trivedi; Judy Gichoya | [arXiv:2607.27235v1](https://arxiv.org/abs/2607.27235v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27235) |
+
+
+## [DEP-A-20260819-Anatomy Contextualized Ad](../DEP-A-20260819-Anatomy%20Contextualized%20Ad/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.27154-whitepaper-review.md`](../DEP-A-20260819-Anatomy%20Contextualized%20Ad/2607.27154-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Anatomy Contextualized Adaption of CT Foundation Models* | Roshan Kenia; Stephanie L McNamara; William Lotter | [arXiv:2607.27154v1](https://arxiv.org/abs/2607.27154v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27154) |
