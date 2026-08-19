@@ -11915,3 +11915,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Potential Applications of HBF in LLM Serving Systems* | Yihan Yin; Yinlun Zhao; Zhixin Yun; Guanying Wu; Feng Zhu; Kai Tao; Shu Li; Fei Huang; Zhe Zhang; Shuangchen Li; Hongzhong Zheng | [arXiv:2608.13127v2](https://arxiv.org/abs/2608.13127v2) - [DOI](https://doi.org/10.48550/arXiv.2608.13127) |
+
+
+## [DEP-A-20260819-TEMPO Makespan Aware Expe](../DEP-A-20260819-TEMPO%20Makespan%20Aware%20Expe/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13057-whitepaper-review.md`](../DEP-A-20260819-TEMPO%20Makespan%20Aware%20Expe/2608.13057-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes* | Jie Li; Chenxin Jia; Jinliang Shen; Cunzhuang Liu; Ruiyi Ding; Jianwen Xian; Kang He; Chengru Song | [arXiv:2608.13057v2](https://arxiv.org/abs/2608.13057v2) - [DOI](https://doi.org/10.48550/arXiv.2608.13057) |
