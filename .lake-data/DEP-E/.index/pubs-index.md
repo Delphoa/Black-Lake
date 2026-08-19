@@ -6420,3 +6420,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation* | Wang, Chuyue; Feng, Jie; Wu, Yuxi; Zhang, Hang; Fan, Zhiguo; Cheng, Bing; Lin, Wei | [arXiv:2512.03737](https://arxiv.org/abs/2512.03737) - [DOI](https://doi.org/10.48550/arXiv.2512.03737) |
+
+
+## [DEP-E-20260819-Joint Learning of Deep](../DEP-E-20260819-Joint%20Learning%20of%20Deep/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Learning of Deep Retrieval Model and Product Quantization based Embedding Index* | Zhang, Han; Shen, Hongwei; Qiu, Yiming; Jiang, Yunjiang; Wang, Songlin; Xu, Sulong; Xiao, Yun; Long, Bo; Yang, Wen-Yun | [arXiv:2105.03933](https://arxiv.org/abs/2105.03933) - [DOI](https://doi.org/10.1145/3404835.3462988) |
