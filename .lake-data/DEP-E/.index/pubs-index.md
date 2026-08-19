@@ -8219,3 +8219,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Truncated Proximal Policy Optimization* | Fan, Tiantian; Liu, Lingjun; Yue, Yu; Chen, Jiaze; Wang, Chengyi; Yu, Qiying; Zhang, Chi; Lin, Zhiqi; Zhu, Ruofei; Yuan, Yufeng; Zuo, Xiaochen; Ma, Bole; Zhang, Mofan; Liu, Gaohong; Zhang, Ru; Zhou, Haotian; Xie, Cong; Zhu, Ruidong; Zhang, Zhi; Liu, Xin; Wang, Mingxuan; Yan, Lin; Wu, Yonghui | [arXiv:2506.15050](https://arxiv.org/abs/2506.15050) - [DOI](https://doi.org/10.48550/arXiv.2506.15050) |
+
+
+## [DEP-E-20260819-Barycode-based GJK](../DEP-E-20260819-Barycode-based%20GJK/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Barycode-based GJK Algorithm* | Zhang, Yu; Wu, Yangming; Wang, Xigui; Zhou, Xiaocheng | [arXiv:2011.09117](https://arxiv.org/abs/2011.09117) - [DOI](https://doi.org/10.48550/arXiv.2011.09117) |
