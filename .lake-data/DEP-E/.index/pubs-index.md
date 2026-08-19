@@ -7463,3 +7463,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Computational Protein Design Using AND/OR Branch-and-Bound Search* | Zhou, Yichao; Wu, Yuexin; Zeng, Jianyang | [arXiv:1412.3138](https://arxiv.org/abs/1412.3138) - [DOI](https://doi.org/10.48550/arXiv.1412.3138) |
+
+
+## [DEP-E-20260819-Big-model Driven Few-shot](../DEP-E-20260819-Big-model%20Driven%20Few-shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Big-model Driven Few-shot Continual Learning* | Gu, Ziqi; Xu, Chunyan; Lu, Zihan; Liu, Xin; Dai, Anbo; Cui, Zhen | [arXiv:2309.00862](https://arxiv.org/abs/2309.00862) - [DOI](https://doi.org/10.48550/arXiv.2309.00862) |
