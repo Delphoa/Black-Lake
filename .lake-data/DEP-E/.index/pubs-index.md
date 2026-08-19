@@ -8905,3 +8905,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-Modal UAV Detection, Classification and Tracking Algorithm -- Technical Report for CVPR 2024 UG2 Challenge* | Deng, Tianchen; Zhou, Yi; Wu, Wenhua; Li, Mingrui; Huang, Jingwei; Liu, Shuhong; Song, Yanzeng; Zuo, Hao; Wang, Yanbo; Yue, Yutao; Wang, Hesheng; Chen, Weidong | [arXiv:2405.16464](https://arxiv.org/abs/2405.16464) - [DOI](https://doi.org/10.48550/arXiv.2405.16464) |
+
+
+## [DEP-E-20260819-From Space-Time to](../DEP-E-20260819-From%20Space-Time%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS* | Wu, Yu; Veerapaneni, Rishi; Li, Jiaoyang; Likhachev, Maxim | [arXiv:2404.15137](https://arxiv.org/abs/2404.15137) - [DOI](https://doi.org/10.48550/arXiv.2404.15137) |
