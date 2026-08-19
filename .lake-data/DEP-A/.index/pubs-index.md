@@ -11672,3 +11672,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *User as Code: Executable Memory for Personalized Agents* | Bojie Li | [arXiv:2606.16707v1](https://arxiv.org/abs/2606.16707v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16707) |
+
+
+## [DEP-A-20260819-MIRAGE Defending Long For](../DEP-A-20260819-MIRAGE%20Defending%20Long%20For/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.05069-whitepaper-review.md`](../DEP-A-20260819-MIRAGE%20Defending%20Long%20For/2607.05069-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MIRAGE: Defending Long-Form RAG Against Misinformation Pollution* | Saadeldine Eletter; Ruihong Zeng; Yuxia Wang; Maxim Panov; Aleksandr Rubashevskii; Preslav Nakov | [arXiv:2607.05069v1](https://arxiv.org/abs/2607.05069v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05069) |
