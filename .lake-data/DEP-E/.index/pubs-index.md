@@ -9150,3 +9150,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization* | Yuan, Kun; Huang, Xinmeng; Chen, Yiming; Zhang, Xiaohan; Zhang, Yingya; Pan, Pan | [arXiv:2210.07863](https://arxiv.org/abs/2210.07863) - [DOI](https://doi.org/10.48550/arXiv.2210.07863) |
+
+
+## [DEP-E-20260819-VIP-COP Context](../DEP-E-20260819-VIP-COP%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VIP-COP: Context Optimization for Tabular Foundation Models* | Chen, Yilong; Ding, Xueying; Akoglu, Leman | [arXiv:2605.12904](https://arxiv.org/abs/2605.12904) - [DOI](https://doi.org/10.48550/arXiv.2605.12904) |
