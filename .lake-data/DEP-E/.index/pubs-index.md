@@ -8513,3 +8513,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Fast Minimization Algorithm for the Euler Elastica Model Based on a Bilinear Decomposition* | Liu, Zhifang; Sun, Baochen; Tai, Xue-Cheng; Wang, Qi; Chang, Huibin | [arXiv:2308.13471](https://arxiv.org/abs/2308.13471) - [DOI](https://doi.org/10.48550/arXiv.2308.13471) |
+
+
+## [DEP-E-20260819-MobileWorldBench Towards](../DEP-E-20260819-MobileWorldBench%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MobileWorldBench: Towards Semantic World Modeling For Mobile Agents* | Li, Shufan; Kallidromitis, Konstantinos; Gokul, Akash; Kato, Yusuke; Kozuka, Kazuki; Grover, Aditya | [arXiv:2512.14014](https://arxiv.org/abs/2512.14014) - [DOI](https://doi.org/10.48550/arXiv.2512.14014) |
