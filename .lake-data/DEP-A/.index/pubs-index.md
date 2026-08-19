@@ -12266,3 +12266,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion* | Zheling Tan; Jin Gao; Dequan Wang | [arXiv:2608.17911v1](https://arxiv.org/abs/2608.17911v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17911) |
+
+
+## [DEP-A-20260820-D 2 ACCI Dual](../DEP-A-20260820-D%202%20ACCI%20Dual/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17756-whitepaper-review.md`](../DEP-A-20260820-D%202%20ACCI%20Dual/2608.17756-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory* | Xule Liu; Yijun Liu; Chao Li; Shao Kun | [arXiv:2608.17756v1](https://arxiv.org/abs/2608.17756v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17756) |
