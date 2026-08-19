@@ -10004,3 +10004,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression* | Liu, Xiang; Tang, Zhenheng; Chen, Hong; Dong, Peijie; Li, Zeyu; Zhou, Xiuze; Li, Bo; Hu, Xuming; Chu, Xiaowen | [arXiv:2502.01941](https://arxiv.org/abs/2502.01941) - [DOI](https://doi.org/10.48550/arXiv.2502.01941) |
+
+
+## [DEP-E-20260819-AutoPP Towards Automated](../DEP-E-20260819-AutoPP%20Towards%20Automated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AutoPP: Towards Automated Product Poster Generation and Optimization* | Fan, Jiahao; Qin, Yuxin; Feng, Wei; Chen, Yanyin; Li, Yaoyu; Ma, Ao; Li, Yixiu; Zhuang, Li; Bian, Haoyi; Zhang, Zheng; Lv, Jingjing; Shen, Junjie; Law, Ching | [arXiv:2512.21921](https://arxiv.org/abs/2512.21921) - [DOI](https://doi.org/10.48550/arXiv.2512.21921) |
