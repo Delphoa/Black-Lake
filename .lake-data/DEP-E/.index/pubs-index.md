@@ -10298,3 +10298,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory* | Liu, Lei; Yang, Xiaoyan; Shen, Yue; Hu, Binbin; Zhang, Zhiqiang; Gu, Jinjie; Zhang, Guannan | [arXiv:2311.08719](https://arxiv.org/abs/2311.08719) - [DOI](https://doi.org/10.48550/arXiv.2311.08719) |
+
+
+## [DEP-E-20260819-Toward Practical](../DEP-E-20260819-Toward%20Practical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Toward Practical Equilibrium Propagation: Brain-inspired Recurrent Neural Network with Feedback Regulation and Residual Connections* | Liu, Zhuo; Chen, Tao | [arXiv:2508.11659](https://arxiv.org/abs/2508.11659) - [DOI](https://doi.org/10.48550/arXiv.2508.11659) |
