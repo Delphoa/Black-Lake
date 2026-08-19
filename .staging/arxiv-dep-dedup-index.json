@@ -24588,6 +24588,29 @@
         "https://doi.org/10.48550/arXiv.2511.14299"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Recurrent Aggregation",
+        ".logs/20260819-Arxiv-Recurrent-Aggregation-Learning-for-Multi-View-LOG.md",
+        ".reports/BL-Arxiv-Recurrent-Aggregation-Learning-for-Multi-View-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1907.11292",
+      "arxiv_id": "1907.11292",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1907.11292",
+      "normalized_title": "Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P339; draw 22143 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Recurrent-Aggregation-Learning-for-Multi-View",
+      "source_urls": [
+        "https://arxiv.org/abs/1907.11292",
+        "https://arxiv.org/html/1907.11292",
+        "https://arxiv.org/pdf/1907.11292",
+        "https://doi.org/10.48550/arXiv.1907.11292"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

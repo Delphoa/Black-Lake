@@ -9199,3 +9199,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DataSage: Multi-agent Collaboration for Insight Discovery with External Knowledge Retrieval, Multi-role Debating, and Multi-path Reasoning* | Liu, Xiaochuan; Song, Yuanfeng; Yin, Xiaoming; Chen, Xing | [arXiv:2511.14299](https://arxiv.org/abs/2511.14299) - [DOI](https://doi.org/10.48550/arXiv.2511.14299) |
+
+
+## [DEP-E-20260819-Recurrent Aggregation](../DEP-E-20260819-Recurrent%20Aggregation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation* | Li, Ming; Zhang, Weiwei; Yang, Guang; Wang, Chengjia; Zhang, Heye; Liu, Huafeng; Zheng, Wei; Li, Shuo | [arXiv:1907.11292](https://arxiv.org/abs/1907.11292) - [DOI](https://doi.org/10.48550/arXiv.1907.11292) |
