@@ -6791,3 +6791,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning* | Zhang, Xikai; Wang, Bo; Xiao, Likang; Li, Yongzhi; Chen, Quan; Wu, Wenjun; Liu, Liu | [arXiv:2510.14406](https://arxiv.org/abs/2510.14406) - [DOI](https://doi.org/10.48550/arXiv.2510.14406) |
+
+
+## [DEP-E-20260819-Low-complexity Joint](../DEP-E-20260819-Low-complexity%20Joint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-complexity Joint Beamforming for RIS-Aided Multi-User Downlink over Correlated Channels* | Wu, Yu-Tse; Liu, Kuang-Hao | [arXiv:2202.11354](https://arxiv.org/abs/2202.11354) - [DOI](https://doi.org/10.48550/arXiv.2202.11354) |
