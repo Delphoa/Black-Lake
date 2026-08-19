@@ -22081,6 +22081,29 @@
         "https://doi.org/10.18653/v1/2024.findings-emnlp.648"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-TestDecision Sequential",
+        ".logs/20260819-Arxiv-TestDecision-Sequential-Test-Suite-Generation-LOG.md",
+        ".reports/BL-Arxiv-TestDecision-Sequential-Test-Suite-Generation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.01799",
+      "arxiv_id": "2604.01799",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2604.01799",
+      "normalized_title": "TestDecision: Sequential Test Suite Generation via Greedy Optimization and Reinforcement Learning",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P230; draw 12079 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 23; reselections 25; complete-source gate passed; all source files withheld locally.",
+      "slug": "TestDecision-Sequential-Test-Suite-Generation",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.01799",
+        "https://arxiv.org/html/2604.01799",
+        "https://arxiv.org/pdf/2604.01799",
+        "https://doi.org/10.48550/arXiv.2604.01799"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

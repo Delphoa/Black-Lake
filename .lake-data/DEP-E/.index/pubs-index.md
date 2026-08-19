@@ -8436,3 +8436,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Factual Consistency of News Summarization by Contrastive Preference Optimization* | Feng, Huawen; Fan, Yan; Liu, Xiong; Lin, Ting-En; Yao, Zekun; Wu, Yuchuan; Huang, Fei; Li, Yongbin; Ma, Qianli | [arXiv:2310.19347](https://arxiv.org/abs/2310.19347) - [DOI](https://doi.org/10.18653/v1/2024.findings-emnlp.648) |
+
+
+## [DEP-E-20260819-TestDecision Sequential](../DEP-E-20260819-TestDecision%20Sequential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TestDecision: Sequential Test Suite Generation via Greedy Optimization and Reinforcement Learning* | Wang, Guoqing; Yang, Chengran; Zhou, Xiaoxuan; Sun, Zeyu; Wang, Bo; Lo, David; Hao, Dan | [arXiv:2604.01799](https://arxiv.org/abs/2604.01799) - [DOI](https://doi.org/10.48550/arXiv.2604.01799) |
