@@ -9444,3 +9444,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation* | Chen, Zixuan; Huo, Jing; Chen, Yangtao; Gao, Yang | [arXiv:2501.06605](https://arxiv.org/abs/2501.06605) - [DOI](https://doi.org/10.48550/arXiv.2501.06605) |
+
+
+## [DEP-E-20260819-An efficient multi-core](../DEP-E-20260819-An%20efficient%20multi-core/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An efficient multi-core implementation of a novel HSS-structured multifrontal solver using randomized sampling* | Ghysels, Pieter; Li, Xiaoye S.; Rouet, Francois-Henry; Williams, Samuel; Napov, Artem | [arXiv:1502.07405](https://arxiv.org/abs/1502.07405) - [DOI](https://doi.org/10.48550/arXiv.1502.07405) |
