@@ -8093,3 +8093,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Learned Proximal Alternating Minimization Algorithm and Its Induced Network for a Class of Two-block Nonconvex and Nonsmooth Optimization* | Chen, Yunmei; Liu, Lezhi; Zhang, Lei | [arXiv:2411.06333](https://arxiv.org/abs/2411.06333) - [DOI](https://doi.org/10.48550/arXiv.2411.06333) |
+
+
+## [DEP-E-20260819-PaperFit](../DEP-E-20260819-PaperFit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents* | Yu, Bihui; Xu, Xinglong; Jiang, Junjie; Cheng, Jiabei; Jia, Caijun; Li, Siyuan; He, Conghui; Wei, Jingxuan; Tan, Cheng | [arXiv:2605.10341](https://arxiv.org/abs/2605.10341) - [DOI](https://doi.org/10.48550/arXiv.2605.10341) |

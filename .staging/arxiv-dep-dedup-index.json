@@ -20954,6 +20954,29 @@
         "https://doi.org/10.48550/arXiv.2411.06333"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-PaperFit",
+        ".logs/20260819-Arxiv-PaperFit-Vision-in-the-Loop-Typesetting-LOG.md",
+        ".reports/BL-Arxiv-PaperFit-Vision-in-the-Loop-Typesetting-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.10341",
+      "arxiv_id": "2605.10341",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.10341",
+      "normalized_title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P181; draw 17674 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 7; focus exclusions 36; reselections 43; complete-source gate passed; all source files withheld locally.",
+      "slug": "PaperFit-Vision-in-the-Loop-Typesetting",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.10341",
+        "https://arxiv.org/html/2605.10341",
+        "https://arxiv.org/pdf/2605.10341",
+        "https://doi.org/10.48550/arXiv.2605.10341"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
