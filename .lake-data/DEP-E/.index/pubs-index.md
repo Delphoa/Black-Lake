@@ -9934,3 +9934,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence* | Mei, Wenjie; Zheng, Dongzhe; Li, Shihua | [arXiv:2411.02292](https://arxiv.org/abs/2411.02292) - [DOI](https://doi.org/10.48550/arXiv.2411.02292) |
+
+
+## [DEP-E-20260819-Multiobjective](../DEP-E-20260819-Multiobjective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods* | Wang, Xianpeng; Dong, Zhiming; Tang, Lixin; Zhang, Qingfu | [arXiv:2101.07548](https://arxiv.org/abs/2101.07548) - [DOI](https://doi.org/10.48550/arXiv.2101.07548) |
