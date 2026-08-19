@@ -11015,3 +11015,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Difficulty-Gated Fusion of Reasoning Views for Temporal Retrieval* | Jamie Holdcroft; Abdelrahman Abdallah; Adam Jatowt | [arXiv:2608.08940v1](https://arxiv.org/abs/2608.08940v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08940) |
+
+
+## [DEP-A-20260819-Search over Visual World](../DEP-A-20260819-Search%20over%20Visual%20World/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08075-whitepaper-review.md`](../DEP-A-20260819-Search%20over%20Visual%20World/2608.08075-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Search over the Visual World: Persistent Visual Memory, Layered Indexes, and Source-Grounded Evidence* | Sankalp Nagaonkar; Rohit Garg; Ankit Raj; Ashish Choithani; Ashutosh Trivedi | [arXiv:2608.08075v1](https://arxiv.org/abs/2608.08075v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08075) |
