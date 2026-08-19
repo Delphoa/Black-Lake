@@ -5272,3 +5272,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GoVector: An I/O-Efficient Caching Strategy for High-Dimensional Vector Nearest Neighbor Search* | Zhou, Yijie; Lin, Shengyuan; Gong, Shufeng; Yu, Song; Fan, Shuhao; Zhang, Yanfeng; Yu, Ge | [arXiv:2508.15694](https://arxiv.org/abs/2508.15694) - [DOI](https://doi.org/10.48550/arXiv.2508.15694) |
+
+
+## [DEP-E-20260819-A Hierarchical Gradient](../DEP-E-20260819-A%20Hierarchical%20Gradient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Hierarchical Gradient Tracking Algorithm for Mitigating Subnet-Drift in Fog Learning Networks* | Chen, Evan; Wang, Shiqiang; Brinton, Christopher G. | [arXiv:2409.17430](https://arxiv.org/abs/2409.17430) - [DOI](https://doi.org/10.48550/arXiv.2409.17430) |
