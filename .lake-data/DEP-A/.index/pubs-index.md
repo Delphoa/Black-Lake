@@ -11717,3 +11717,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents* | Qisheng Hu; Quanyu Long; Wenya Wang | [arXiv:2604.27003v1](https://arxiv.org/abs/2604.27003v1) - [DOI](https://doi.org/10.48550/arXiv.2604.27003) |
+
+
+## [DEP-A-20260819-What Must Generalist Agen](../DEP-A-20260819-What%20Must%20Generalist%20Agen/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.18746-whitepaper-review.md`](../DEP-A-20260819-What%20Must%20Generalist%20Agen/2606.18746-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *What Must Generalist Agents Remember?* | Khurram Yamin; Namrata Deka; Maitreyi Swaroop; Albert Ting; Jeff Schneider; Bryan Wilder | [arXiv:2606.18746v1](https://arxiv.org/abs/2606.18746v1) - [DOI](https://doi.org/10.48550/arXiv.2606.18746) |
