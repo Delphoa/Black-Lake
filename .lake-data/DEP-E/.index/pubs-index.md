@@ -5979,3 +5979,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Emergent Response Planning in LLMs* | Dong, Zhichen; Zhou, Zhanhui; Liu, Zhixuan; Yang, Chao; Lu, Chaochao | [arXiv:2502.06258](https://arxiv.org/abs/2502.06258) - [DOI](https://doi.org/10.48550/arXiv.2502.06258) |
+
+
+## [DEP-E-20260819-Improving Viability of](../DEP-E-20260819-Improving%20Viability%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Viability of Electric Taxis by Taxi Service Strategy Optimization: A Big Data Study of New York City* | Tseng, Chien-Ming; Chau, Sid Chi-Kin; Liu, Xue | [arXiv:1709.08463](https://arxiv.org/abs/1709.08463) - [DOI](https://doi.org/10.1109/TITS.2018.2839265) |
