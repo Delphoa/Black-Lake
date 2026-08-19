@@ -10167,6 +10167,29 @@
         "https://doi.org/10.48550/arXiv.2507.09989"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-OPERA Online Data Pruning",
+        ".logs/20260819-Arxiv-OPERA-Online-Data-Pruning-for-Efficient-LOG.md",
+        ".reports/BL-Arxiv-OPERA-Online-Data-Pruning-for-Efficient-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.17205",
+      "arxiv_id": "2603.17205",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.17205",
+      "normalized_title": "OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P12; draw 39016 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 18; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "OPERA-Online-Data-Pruning-for-Efficient",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.17205",
+        "https://arxiv.org/html/2603.17205",
+        "https://arxiv.org/pdf/2603.17205",
+        "https://doi.org/10.48550/arXiv.2603.17205"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

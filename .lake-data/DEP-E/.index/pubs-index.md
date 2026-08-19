@@ -4810,3 +4810,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving monotonic optimization in heterogeneous multi-agent reinforcement learning with optimal marginal deterministic policy gradient* | Yu, Xiaoyang; Lin, Youfang; Wang, Shuo; Han, Sheng | [arXiv:2507.09989](https://arxiv.org/abs/2507.09989) - [DOI](https://doi.org/10.48550/arXiv.2507.09989) |
+
+
+## [DEP-E-20260819-OPERA Online Data Pruning](../DEP-E-20260819-OPERA%20Online%20Data%20Pruning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation* | Fang, Haoyang; Zhang, Shuai; Ma, Yifei; Wang, Hengyi; Hu, Cuixiong; Kirchhoff, Katrin; Wang, Bernie; Karypis, George | [arXiv:2603.17205](https://arxiv.org/abs/2603.17205) - [DOI](https://doi.org/10.48550/arXiv.2603.17205) |
