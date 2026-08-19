@@ -19896,6 +19896,29 @@
         "https://doi.org/10.48550/arXiv.2511.16450"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous",
+        ".logs/20260819-Arxiv-FlowCast-ODE-Continuous-Hourly-Weather-LOG.md",
+        ".reports/BL-Arxiv-FlowCast-ODE-Continuous-Hourly-Weather-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.14775",
+      "arxiv_id": "2509.14775",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.14775",
+      "normalized_title": "FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Solver",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P135; draw 70688 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "FlowCast-ODE-Continuous-Hourly-Weather",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.14775",
+        "https://arxiv.org/html/2509.14775",
+        "https://arxiv.org/pdf/2509.14775",
+        "https://doi.org/10.48550/arXiv.2509.14775"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

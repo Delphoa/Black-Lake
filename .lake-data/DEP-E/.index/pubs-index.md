@@ -7771,3 +7771,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming* | Xu, Ziyue; Zhang, Zhihong; Roth, Holger R.; Chen, Chester; Cheng, Yan; Feng, Andrew | [arXiv:2511.16450](https://arxiv.org/abs/2511.16450) - [DOI](https://doi.org/10.48550/arXiv.2511.16450) |
+
+
+## [DEP-E-20260819-FlowCast-ODE Continuous](../DEP-E-20260819-FlowCast-ODE%20Continuous/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Solver* | He, Shuangshuang; Zhang, Yuanting; Liang, Hongli; Meng, Qingye; Yuan, Xingyuan; Wang, Shuo | [arXiv:2509.14775](https://arxiv.org/abs/2509.14775) - [DOI](https://doi.org/10.48550/arXiv.2509.14775) |
