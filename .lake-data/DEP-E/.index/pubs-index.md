@@ -6574,3 +6574,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Communication-Motion Planning in Wireless-Connected Robotic Networks: Overview and Design Guidelines* | Zhang, Bo; Wu, Yunlong; Yi, Xiaodong; Yang, Xuejun | [arXiv:1511.02299](https://arxiv.org/abs/1511.02299) - [DOI](https://doi.org/10.48550/arXiv.1511.02299) |
+
+
+## [DEP-E-20260819-On Multiplicative](../DEP-E-20260819-On%20Multiplicative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Multiplicative Integration with Recurrent Neural Networks* | Wu, Yuhuai; Zhang, Saizheng; Zhang, Ying; Bengio, Yoshua; Salakhutdinov, Ruslan | [arXiv:1606.06630](https://arxiv.org/abs/1606.06630) - [DOI](https://doi.org/10.48550/arXiv.1606.06630) |
