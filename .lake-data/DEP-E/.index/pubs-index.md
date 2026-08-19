@@ -8674,3 +8674,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Development of Occupancy Prediction Algorithm for Underground Parking Lots* | Wang, Shijie | [arXiv:2409.00923](https://arxiv.org/abs/2409.00923) - [DOI](https://doi.org/10.48550/arXiv.2409.00923) |
+
+
+## [DEP-E-20260819-SmallWorlds Assessing](../DEP-E-20260819-SmallWorlds%20Assessing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments* | Li, Xinyi; Xia, Zaishuo; Lu, Weyl; Hao, Chenjie; Chen, Yubei | [arXiv:2511.23465](https://arxiv.org/abs/2511.23465) - [DOI](https://doi.org/10.48550/arXiv.2511.23465) |
