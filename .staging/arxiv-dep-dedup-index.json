@@ -12536,6 +12536,29 @@
         "https://doi.org/10.48550/arXiv.2508.18824"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Foreground Object Search",
+        ".logs/20260819-Arxiv-Foreground-Object-Search-by-Distilling-Composite-LOG.md",
+        ".reports/BL-Arxiv-Foreground-Object-Search-by-Distilling-Composite-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.04990",
+      "arxiv_id": "2308.04990",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2308.04990",
+      "normalized_title": "Foreground Object Search by Distilling Composite Image Feature",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P115; draw 735 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 11; reselections 14; complete-source gate passed; all source files withheld locally.",
+      "slug": "Foreground-Object-Search-by-Distilling-Composite",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.04990",
+        "https://arxiv.org/html/2308.04990",
+        "https://arxiv.org/pdf/2308.04990",
+        "https://doi.org/10.48550/arXiv.2308.04990"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

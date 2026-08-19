@@ -5531,3 +5531,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness* | Chen, Sirui; Tian, Changxin; Hu, Binbin; Chen, Kunlong; Liu, Ziqi; Zhang, Zhiqiang; Zhou, Jun | [arXiv:2508.18824](https://arxiv.org/abs/2508.18824) - [DOI](https://doi.org/10.48550/arXiv.2508.18824) |
+
+
+## [DEP-E-20260819-Foreground Object Search](../DEP-E-20260819-Foreground%20Object%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Foreground Object Search by Distilling Composite Image Feature* | Zhang, Bo; Sui, Jiacheng; Niu, Li | [arXiv:2308.04990](https://arxiv.org/abs/2308.04990) - [DOI](https://doi.org/10.48550/arXiv.2308.04990) |
