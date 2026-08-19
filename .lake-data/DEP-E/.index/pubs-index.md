@@ -7820,3 +7820,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Counting How the Seconds Count: Understanding Algorithm-User Interplay in TikTok via ML-driven Analysis of Video Content* | Masood, Maleeha; Kannan, Shreya; Liu, Zikun; Vasisht, Deepak; Gupta, Indranil | [arXiv:2503.20030](https://arxiv.org/abs/2503.20030) - [DOI](https://doi.org/10.48550/arXiv.2503.20030) |
+
+
+## [DEP-E-20260819-Data Mixing Optimization](../DEP-E-20260819-Data%20Mixing%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models* | Li, Yuan; Liu, Zhengzhong; Xing, Eric | [arXiv:2508.11953](https://arxiv.org/abs/2508.11953) - [DOI](https://doi.org/10.48550/arXiv.2508.11953) |
