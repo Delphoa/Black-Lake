@@ -10137,3 +10137,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Fast Algorithm for Onboard Atmospheric Powered Descent Guidance* | Chen, Yushu; Yang, Guangwen; Wang, Lu; Gan, Qingzhong; Chen, Haipeng; Xu, Quanyong | [arXiv:2209.04157](https://arxiv.org/abs/2209.04157) - [DOI](https://doi.org/10.1109/TAES.2023.3271961) |
+
+
+## [DEP-E-20260819-Dendritic Localized](../DEP-E-20260819-Dendritic%20Localized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dendritic Localized Learning: Toward Biologically Plausible Algorithm* | Lv, Changze; Xu, Jingwen; Lu, Yiyang; Wang, Xiaohua; Wang, Zhenghua; Xu, Zhibo; Yu, Di; Du, Xin; Zheng, Xiaoqing; Huang, Xuanjing | [arXiv:2501.09976](https://arxiv.org/abs/2501.09976) - [DOI](https://doi.org/10.48550/arXiv.2501.09976) |
