@@ -11699,3 +11699,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs* | Ying Liu; Yi Ye; Quanyu Feng; Mingxi Ye; Mingtao Zhang; Haoyang Li; Chen Jason Zhang; Qing Li | [arXiv:2607.08269v1](https://arxiv.org/abs/2607.08269v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08269) |
+
+
+## [DEP-A-20260819-Hierarchical Evidence Dri](../DEP-A-20260819-Hierarchical%20Evidence%20Dri/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.04625-whitepaper-review.md`](../DEP-A-20260819-Hierarchical%20Evidence%20Dri/2607.04625-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Evidence-Driven Reasoning for Long Document Understanding* | Junyu Xiong; Yonghui Wang; Rongjian Gu; Chenyu Liu; Bing Yin; Wengang Zhou; Houqiang Li | [arXiv:2607.04625v1](https://arxiv.org/abs/2607.04625v1) - [DOI](https://doi.org/10.48550/arXiv.2607.04625) |
