@@ -11546,3 +11546,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory* | Ruizhe Li; Licheng Zhang; Benfeng Xu; Mingxuan Du; Zheren Fu; Weidong Chen | [arXiv:2608.12888v1](https://arxiv.org/abs/2608.12888v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12888) |
+
+
+## [DEP-A-20260819-Try Once Then Optimal](../DEP-A-20260819-Try%20Once%20Then%20Optimal/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23702-whitepaper-review.md`](../DEP-A-20260819-Try%20Once%20Then%20Optimal/2607.23702-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Try Once, Then Optimal: De-Redundified Procedure Memory for Cross-Episode Exploration Amortization* | Haizhou Ge; Haochen Ouyang; Zhixing Chen; Yufei Jia; Yue Li; Lu Shi; Lei Han; Guyue Zhou; Ruqi Huang | [arXiv:2607.23702v1](https://arxiv.org/abs/2607.23702v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23702) |
