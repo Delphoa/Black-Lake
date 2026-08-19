@@ -6679,3 +6679,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Urban Rail Transit System Operation Optimization A Game Theoretical Methodology* | Ma, Jiao; Li, Changle; Dong, Weiwei; Liu, Zhe; Luan, Tom H.; Zhu, Lina; Xiong, Lei | [arXiv:1701.01810](https://arxiv.org/abs/1701.01810) - [DOI](https://doi.org/10.48550/arXiv.1701.01810) |
+
+
+## [DEP-E-20260819-Boosting Large Language](../DEP-E-20260819-Boosting%20Large%20Language/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis* | Ding, Xuanwen; Zhou, Jie; Dou, Liang; Chen, Qin; Wu, Yuanbin; Chen, Chengcai; He, Liang | [arXiv:2405.05496](https://arxiv.org/abs/2405.05496) - [DOI](https://doi.org/10.48550/arXiv.2405.05496) |
