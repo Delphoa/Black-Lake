@@ -10032,3 +10032,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling* | Li, Yizhi; Gu, Qingshui; Wen, Zhoufutu; Li, Ziniu; Xing, Tianshun; Guo, Shuyue; Zheng, Tianyu; Zhou, Xin; Qu, Xingwei; Zhou, Wangchunshu; Zhang, Zheng; Shen, Wei; Liu, Qian; Lin, Chenghua; Yang, Jian; Zhang, Ge; Huang, Wenhao | [arXiv:2508.17445](https://arxiv.org/abs/2508.17445) - [DOI](https://doi.org/10.48550/arXiv.2508.17445) |
+
+
+## [DEP-E-20260819-ReMoDiffuse](../DEP-E-20260819-ReMoDiffuse/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model* | Zhang, Mingyuan; Guo, Xinying; Pan, Liang; Cai, Zhongang; Hong, Fangzhou; Li, Huirong; Yang, Lei; Liu, Ziwei | [arXiv:2304.01116](https://arxiv.org/abs/2304.01116) - [DOI](https://doi.org/10.48550/arXiv.2304.01116) |
