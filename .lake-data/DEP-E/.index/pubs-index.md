@@ -4803,3 +4803,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel Training Protocol for Performance Predictors of Evolutionary Neural Architecture Search Algorithms* | Sun, Yanan; Sun, Xian; Fang, Yuhan; Yen, Gary | [arXiv:2008.13187](https://arxiv.org/abs/2008.13187) - [DOI](https://doi.org/10.48550/arXiv.2008.13187) |
+
+
+## [DEP-E-20260819-Improving monotonic](../DEP-E-20260819-Improving%20monotonic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving monotonic optimization in heterogeneous multi-agent reinforcement learning with optimal marginal deterministic policy gradient* | Yu, Xiaoyang; Lin, Youfang; Wang, Shuo; Han, Sheng | [arXiv:2507.09989](https://arxiv.org/abs/2507.09989) - [DOI](https://doi.org/10.48550/arXiv.2507.09989) |
