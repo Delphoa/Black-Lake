@@ -5146,3 +5146,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process* | Wang, Shiqiang; Urgaonkar, Rahul; Zafer, Murtaza; He, Ting; Chan, Kevin; Leung, Kin K. | [arXiv:1506.05261](https://arxiv.org/abs/1506.05261) - [DOI](https://doi.org/10.48550/arXiv.1506.05261) |
+
+
+## [DEP-E-20260819-MSSSeg Learning](../DEP-E-20260819-MSSSeg%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MSSSeg: Learning Multi-Scale Structural Complexity for Self-Supervised Segmentation* | Li, Haotang; Qi, Zhenyu; Qin, Hao; Yang, Huanrui; Peng, Kebin; Guo, Qing; He, Sen | [arXiv:2512.23997](https://arxiv.org/abs/2512.23997) - [DOI](https://doi.org/10.48550/arXiv.2512.23997) |
