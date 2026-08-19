@@ -14054,6 +14054,29 @@
         "https://doi.org/10.48550/arXiv.2505.12791"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Number Adaptive Formation",
+        ".logs/20260819-Arxiv-Number-Adaptive-Formation-Flight-Planning-via-LOG.md",
+        ".reports/BL-Arxiv-Number-Adaptive-Formation-Flight-Planning-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.18636",
+      "arxiv_id": "2509.18636",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.18636",
+      "normalized_title": "Number Adaptive Formation Flight Planning via Affine Deformable Guidance in Narrow Environments",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P181; draw 23067 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 65; reselections 70; complete-source gate passed; all source files withheld locally.",
+      "slug": "Number-Adaptive-Formation-Flight-Planning-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.18636",
+        "https://arxiv.org/html/2509.18636",
+        "https://arxiv.org/pdf/2509.18636",
+        "https://doi.org/10.48550/arXiv.2509.18636"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

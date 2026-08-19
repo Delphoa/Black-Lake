@@ -5993,3 +5993,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unlearning for Federated Online Learning to Rank: A Reproducibility Study* | Tao, Yiling; Wang, Shuyi; Yang, Jiaxi; Zuccon, Guido | [arXiv:2505.12791](https://arxiv.org/abs/2505.12791) - [DOI](https://doi.org/10.48550/arXiv.2505.12791) |
+
+
+## [DEP-E-20260819-Number Adaptive Formation](../DEP-E-20260819-Number%20Adaptive%20Formation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Number Adaptive Formation Flight Planning via Affine Deformable Guidance in Narrow Environments* | Zhou, Yuan; Hou, Jialiang; Xu, Guangtong; Gao, Fei | [arXiv:2509.18636](https://arxiv.org/abs/2509.18636) - [DOI](https://doi.org/10.48550/arXiv.2509.18636) |
