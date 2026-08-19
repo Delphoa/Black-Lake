@@ -4999,3 +4999,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Anisotropic multicomponent topology optimization for additive manufacturing with build orientation design and stress-constrained interfaces* | Zhou, Yuqing; Nomura, Tsuyoshi; Saitou, Kazuhiro | [arXiv:1911.10393](https://arxiv.org/abs/1911.10393) - [DOI](https://doi.org/10.48550/arXiv.1911.10393) |
+
+
+## [DEP-E-20260819-Earth-o1 A Grid-free](../DEP-E-20260819-Earth-o1%20A%20Grid-free/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Earth-o1: A Grid-free Observation-native Atmospheric World Model* | Gong, Junchao; Xu, Kaiyi; Wei, Wangxu; Tu, Siwei; Xu, Jingyi; Liu, Zili; Fan, Hang; Zhou, Zhiwang; Han, Tao; Xiao, Yi; Gu, Xinyu; Li, Zhangrui; Zhang, Wenlong; Chen, Hao; Yang, Xiaokang; Wang, Yaqiang; Cheng, Lijing; Gentine, Pierre; Ouyang, Wanli; Zhang, Feng; Tan, Zhe-Min; Zhou, Bowen; Ling, Fenghua; Fei, Ben; Bai, Lei | [arXiv:2605.06337](https://arxiv.org/abs/2605.06337) - [DOI](https://doi.org/10.48550/arXiv.2605.06337) |

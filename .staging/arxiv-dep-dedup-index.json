@@ -10788,6 +10788,29 @@
         "https://doi.org/10.48550/arXiv.1911.10393"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Earth-o1 A Grid-free",
+        ".logs/20260819-Arxiv-Earth-o1-A-Grid-free-Observation-native-LOG.md",
+        ".reports/BL-Arxiv-Earth-o1-A-Grid-free-Observation-native-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.06337",
+      "arxiv_id": "2605.06337",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.06337",
+      "normalized_title": "Earth-o1: A Grid-free Observation-native Atmospheric World Model",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P39; draw 349 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 15; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "Earth-o1-A-Grid-free-Observation-native",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.06337",
+        "https://arxiv.org/html/2605.06337",
+        "https://arxiv.org/pdf/2605.06337",
+        "https://doi.org/10.48550/arXiv.2605.06337"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
