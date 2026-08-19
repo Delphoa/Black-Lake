@@ -13410,6 +13410,29 @@
         "https://doi.org/10.48550/arXiv.2604.13453"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-E mathbf 3 MoP Efficient",
+        ".logs/20260819-Arxiv-E-mathbf-3-MoP-Efficient-Motion-Planning-LOG.md",
+        ".reports/BL-Arxiv-E-mathbf-3-MoP-Efficient-Motion-Planning-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2012.08892",
+      "arxiv_id": "2012.08892",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2012.08892",
+      "normalized_title": "E$ \\mathbf{^3} $MoP: Efficient Motion Planning Based on Heuristic-Guided Motion Primitives Pruning and Path Optimization With Sparse-Banded Structure",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P153; draw 6193 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "E-mathbf-3-MoP-Efficient-Motion-Planning",
+      "source_urls": [
+        "https://arxiv.org/abs/2012.08892",
+        "https://arxiv.org/html/2012.08892",
+        "https://arxiv.org/pdf/2012.08892",
+        "https://doi.org/10.48550/arXiv.2012.08892"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

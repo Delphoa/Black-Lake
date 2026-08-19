@@ -5797,3 +5797,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FAST: A Synergistic Framework of Attention and State-space Models for Spatiotemporal Traffic Prediction* | Li, Xinjin; Cao, Jinghan; Wang, Mengyue; Wu, Yue; Yan, Longxiang; Zhou, Yeyang; Sha, Ziqi; Ma, Yu | [arXiv:2604.13453](https://arxiv.org/abs/2604.13453) - [DOI](https://doi.org/10.48550/arXiv.2604.13453) |
+
+
+## [DEP-E-20260819-E mathbf 3 MoP Efficient](../DEP-E-20260819-E%20mathbf%203%20MoP%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *E$ \mathbf{^3} $MoP: Efficient Motion Planning Based on Heuristic-Guided Motion Primitives Pruning and Path Optimization With Sparse-Banded Structure* | Wen, Jian; Zhang, Xuebo; Gao, Haiming; Yuan, Jing; Fang, Yongchun | [arXiv:2012.08892](https://arxiv.org/abs/2012.08892) - [DOI](https://doi.org/10.48550/arXiv.2012.08892) |
