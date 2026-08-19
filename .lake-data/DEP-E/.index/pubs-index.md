@@ -8975,3 +8975,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evaluating Retrieval-Augmented Generation Strategies for Large Language Models in Travel Mode Choice Prediction* | Xu, Yiming; Jiao, Junfeng | [arXiv:2508.17527](https://arxiv.org/abs/2508.17527) - [DOI](https://doi.org/10.48550/arXiv.2508.17527) |
+
+
+## [DEP-E-20260819-Towards](../DEP-E-20260819-Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization* | Liu, Hanchao; Zhang, Fang-Lue; Zhang, Shining; Mu, Tai-Jiang; Hu, Shi-Min | [arXiv:2605.08054](https://arxiv.org/abs/2605.08054) - [DOI](https://doi.org/10.48550/arXiv.2605.08054) |
