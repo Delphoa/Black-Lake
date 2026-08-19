@@ -12158,3 +12158,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Ontology-Grounded Project Memory for Coding Agents* | James Adam | [arXiv:2608.13662v1](https://arxiv.org/abs/2608.13662v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13662) |
+
+
+## [DEP-A-20260819-Governed Persistent Memor](../DEP-A-20260819-Governed%20Persistent%20Memor/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12476-whitepaper-review.md`](../DEP-A-20260819-Governed%20Persistent%20Memor/2608.12476-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents* | Guodong Xu | [arXiv:2608.12476v1](https://arxiv.org/abs/2608.12476v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12476) |
