@@ -8044,3 +8044,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models* | Fei, Senyu; Wang, Siyin; Ji, Li; Li, Ao; Zhang, Shiduo; Liu, Liming; Hou, Jinlong; Gong, Jingjing; Zhao, Xianzhong; Qiu, Xipeng | [arXiv:2511.15605](https://arxiv.org/abs/2511.15605) - [DOI](https://doi.org/10.48550/arXiv.2511.15605) |
+
+
+## [DEP-E-20260819-Language model fusion for](../DEP-E-20260819-Language%20model%20fusion%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Language model fusion for streaming end to end speech recognition* | Cabrera, Rodrigo; Liu, Xiaofeng; Ghodsi, Mohammadreza; Matteson, Zebulun; Weinstein, Eugene; Kannan, Anjuli | [arXiv:2104.04487](https://arxiv.org/abs/2104.04487) - [DOI](https://doi.org/10.48550/arXiv.2104.04487) |
