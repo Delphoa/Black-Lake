@@ -11357,3 +11357,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TensorCast: The Missing Tensor Management Layer in Large Language Model Infrastructure* | Yuhan Zhou; Yuchu Luo; Hao Nie; Wangrunze Lv; Yu Zhou; Yibo Zhu; Daxin Jiang; Chenren Xu | [arXiv:2608.06007v1](https://arxiv.org/abs/2608.06007v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06007) |
+
+
+## [DEP-A-20260819-PLoRA NDP Enhanced Pooled](../DEP-A-20260819-PLoRA%20NDP%20Enhanced%20Pooled/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.05483-whitepaper-review.md`](../DEP-A-20260819-PLoRA%20NDP%20Enhanced%20Pooled/2608.05483-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PLoRA: An NDP-Enhanced Pooled-Memory System for Cost-Efficient Multi-LoRA Serving* | Zhongkai Yu; Ohm Rishabh Venkatachalam; Zheng Wang; Yikai Li; Yichen Lin; Zihao Yu; Yuke Wang; Liu Liu; Xulong Tang; Shuyi Pei; Yangwook Kang; Yufei Ding | [arXiv:2608.05483v1](https://arxiv.org/abs/2608.05483v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05483) |
