@@ -8324,3 +8324,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FGGM: Fisher-Guided Gradient Masking for Continual Learning* | Tan, Chao-Hong; Chen, Qian; Wang, Wen; Ma, Yukun; Zhang, Chong; Deng, Chong; Zhang, Qinglin; Li, Xiangang; Ye, Jieping | [arXiv:2601.18261](https://arxiv.org/abs/2601.18261) - [DOI](https://doi.org/10.48550/arXiv.2601.18261) |
+
+
+## [DEP-E-20260819-Large-Scale Bandwidth and](../DEP-E-20260819-Large-Scale%20Bandwidth%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large-Scale Bandwidth and Power Optimization for Multi-Modal Edge Intelligence Autonomous Driving* | Li, Xinrao; Zhang, Tong; Wang, Shuai; Zhu, Guangxu; Wang, Rui; Chang, Tsung-Hui | [arXiv:2210.09659](https://arxiv.org/abs/2210.09659) - [DOI](https://doi.org/10.48550/arXiv.2210.09659) |
