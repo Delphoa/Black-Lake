@@ -6483,3 +6483,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Offline Model-Based Optimization: Comprehensive Review* | Kim, Minsu; Gu, Jiayao; Yuan, Ye; Yun, Taeyoung; Liu, Zixuan; Bengio, Yoshua; Chen, Can | [arXiv:2503.17286](https://arxiv.org/abs/2503.17286) - [DOI](https://doi.org/10.48550/arXiv.2503.17286) |
+
+
+## [DEP-E-20260819-SDPO Segment-Level Direct](../DEP-E-20260819-SDPO%20Segment-Level%20Direct/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SDPO: Segment-Level Direct Preference Optimization for Social Agents* | Kong, Aobo; Ma, Wentao; Zhao, Shiwan; Li, Yongbin; Wu, Yuchuan; Wang, Ke; Liu, Xiaoqian; Li, Qicheng; Qin, Yong; Huang, Fei | [arXiv:2501.01821](https://arxiv.org/abs/2501.01821) - [DOI](https://doi.org/10.48550/arXiv.2501.01821) |
