@@ -6861,3 +6861,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimization of institutional incentives for cooperation in structured populations* | Wang, Shengxian; Chen, Xiaojie; Xiao, Zhilong; Szolnoki, Attila; Vasconcelos, Vítor V. | [arXiv:2301.06472](https://arxiv.org/abs/2301.06472) - [DOI](https://doi.org/10.1098/rsif.2022.0653) |
+
+
+## [DEP-E-20260819-Sample Complexity of](../DEP-E-20260819-Sample%20Complexity%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds* | Xu, Zhenghao; Ji, Xiang; Chen, Minshuo; Wang, Mengdi; Zhao, Tuo | [arXiv:2309.13915](https://arxiv.org/abs/2309.13915) - [DOI](https://doi.org/10.48550/arXiv.2309.13915) |

@@ -16906,6 +16906,29 @@
         "https://doi.org/10.1098/rsif.2022.0653"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Sample Complexity of",
+        ".logs/20260819-Arxiv-Sample-Complexity-of-Neural-Policy-Mirror-LOG.md",
+        ".reports/BL-Arxiv-Sample-Complexity-of-Neural-Policy-Mirror-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2309.13915",
+      "arxiv_id": "2309.13915",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2309.13915",
+      "normalized_title": "Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P05; draw 56735 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 6; focus exclusions 40; reselections 46; complete-source gate passed; all source files withheld locally.",
+      "slug": "Sample-Complexity-of-Neural-Policy-Mirror",
+      "source_urls": [
+        "https://arxiv.org/abs/2309.13915",
+        "https://arxiv.org/html/2309.13915",
+        "https://arxiv.org/pdf/2309.13915",
+        "https://doi.org/10.48550/arXiv.2309.13915"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
