@@ -9248,3 +9248,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Unified DNN Weight Compression Framework Using Reweighted Optimization Methods* | Zhang, Tianyun; Ma, Xiaolong; Zhan, Zheng; Zhou, Shanglin; Qin, Minghai; Sun, Fei; Chen, Yen-Kuang; Ding, Caiwen; Fardad, Makan; Wang, Yanzhi | [arXiv:2004.05531](https://arxiv.org/abs/2004.05531) - [DOI](https://doi.org/10.48550/arXiv.2004.05531) |
+
+
+## [DEP-E-20260819-Hierarchical Trajec 02606](../DEP-E-20260819-Hierarchical%20Trajec%2002606/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Trajectory Planning for Autonomous Driving in Low-speed Driving Scenarios Based on RRT and Optimization* | Chen, Yuying; Ye, Haoyang; Liu, Ming | [arXiv:1904.02606](https://arxiv.org/abs/1904.02606) - [DOI](https://doi.org/10.48550/arXiv.1904.02606) |
