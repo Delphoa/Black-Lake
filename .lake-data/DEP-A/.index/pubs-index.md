@@ -11978,3 +11978,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation* | Alexander Boesgaard Lorup | [arXiv:2607.28495v1](https://arxiv.org/abs/2607.28495v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28495) |
+
+
+## [DEP-A-20260819-CACHE UK Stability Aware](../DEP-A-20260819-CACHE%20UK%20Stability%20Aware/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28292-whitepaper-review.md`](../DEP-A-20260819-CACHE%20UK%20Stability%20Aware/2607.28292-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CACHE-UK: A Stability-Aware Memory Editor for Sequentially Updated Quantized LLMs in Finance* | Anubhav Lakra; Yue Feng | [arXiv:2607.28292v1](https://arxiv.org/abs/2607.28292v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28292) |
