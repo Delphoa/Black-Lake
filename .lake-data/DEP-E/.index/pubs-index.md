@@ -6980,3 +6980,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LFMamba: Light Field Image Super-Resolution with State Space Model* | xia, Wang; Lu, Yao; Wang, Shunzhou; Wang, Ziqi; Xia, Peiqi; Zhou, Tianfei | [arXiv:2406.12463](https://arxiv.org/abs/2406.12463) - [DOI](https://doi.org/10.48550/arXiv.2406.12463) |
+
+
+## [DEP-E-20260819-RISE Self-Improving Robot](../DEP-E-20260819-RISE%20Self-Improving%20Robot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RISE: Self-Improving Robot Policy with Compositional World Model* | Yang, Jiazhi; Lin, Kunyang; Li, Jinwei; Zhang, Wencong; Lin, Tianwei; Wu, Longyan; Su, Zhizhong; Zhao, Hao; Zhang, Ya-Qin; Chen, Li; Luo, Ping; Yue, Xiangyu; Li, Hongyang | [arXiv:2602.11075](https://arxiv.org/abs/2602.11075) - [DOI](https://doi.org/10.48550/arXiv.2602.11075) |
