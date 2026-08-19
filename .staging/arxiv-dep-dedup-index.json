@@ -10509,7 +10509,7 @@
       ],
       "arxiv_base_id": "2403.18036",
       "arxiv_id": "2403.18036v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/6ae5c4b1",
       "deposit_date": "20260819",
       "doi": "10.48550/arXiv.2403.18036",
       "normalized_title": "Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance",

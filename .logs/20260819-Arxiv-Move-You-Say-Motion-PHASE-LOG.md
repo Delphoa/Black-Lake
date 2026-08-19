@@ -7,7 +7,7 @@
 - DEP date: 2026-08-19
 - Job type: source-first arXiv review with extraction-cache acceleration
 - Overall trajectory: approximately 15 minutes against a 4–12 minute expected range
-- Result: source-integrity gate passed; public-safe artifacts drafted; repository submission pending at log creation
+- Result: source-integrity gate passed; public-safe artifacts committed and pushed; Slack notification pending
 - Source locality: original PDFs, full-paper HTML, metadata, extracted text, caches, and acquisition records remain local and are not part of the public artifact set.
 
 ## Phase Metrics
@@ -21,7 +21,7 @@
 | Source-first review | 60–240 seconds | approximately 105 seconds | PDF, full HTML, metadata, abstract, project page, and official code evidence reviewed |
 | Related DEP exploration | 15–90 seconds | approximately 25 seconds | Three concrete overlap entries selected and inspected |
 | Artifact drafting | 60–300 seconds | approximately 180 seconds | All required public-safe artifacts drafted |
-| Validation and submission | 60–240 seconds | pending | Allowlist, JSON, schema, repository, and Slack checks remain |
+| Validation and submission | 60–240 seconds | approximately 30 seconds | Allowlist, JSON, schema, direct push, and remote read-back passed; Slack notification pending |
 
 ## Extraction Cache
 
@@ -57,8 +57,8 @@
 - Existing match: none
 - Duplicate exclusions: 0
 - Reselections: 0
-- Artifact status at drafting: deposited pending repository commit
-- Commit or PR reference: to be filled after remote submission
+- Artifact status: deposited; direct commit and push complete
+- Commit reference: https://github.com/Delphoa/Black-Lake/commit/6ae5c4b1
 
 ## Expected Versus Observed Trajectory
 
@@ -68,4 +68,4 @@ Selection, deduplication, repair, and cache phases remained within their expecte
 
 - The local source archive had no usable source package for this paper; implementation-level claims are based on the paper, public HTML, project page, and official repository README.
 - No experiments, checkpoints, or restricted datasets were executed.
-- Repository submission, remote read-back, and Slack notification must be completed before the run is final.
+- Slack notification remains to be completed before the run is final.
