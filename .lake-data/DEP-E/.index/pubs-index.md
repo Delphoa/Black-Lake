@@ -5587,3 +5587,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Support-Set Algorithm for Optimization Problems with Nonnegative and Orthogonal Constraints* | Wang, Lei; Liu, Xin; Chen, Xiaojun | [arXiv:2511.03443](https://arxiv.org/abs/2511.03443) - [DOI](https://doi.org/10.48550/arXiv.2511.03443) |
+
+
+## [DEP-E-20260819-Understanding Curriculum](../DEP-E-20260819-Understanding%20Curriculum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Understanding Curriculum Learning in Policy Optimization for Online Combinatorial Optimization* | Zhou, Runlong; He, Zelin; Tian, Yuandong; Wu, Yi; Du, Simon S. | [arXiv:2202.05423](https://arxiv.org/abs/2202.05423) - [DOI](https://doi.org/10.48550/arXiv.2202.05423) |

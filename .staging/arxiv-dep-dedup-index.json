@@ -12720,6 +12720,29 @@
         "https://doi.org/10.48550/arXiv.2511.03443"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Understanding Curriculum",
+        ".logs/20260819-Arxiv-Understanding-Curriculum-Learning-in-Policy-LOG.md",
+        ".reports/BL-Arxiv-Understanding-Curriculum-Learning-in-Policy-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2202.05423",
+      "arxiv_id": "2202.05423",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2202.05423",
+      "normalized_title": "Understanding Curriculum Learning in Policy Optimization for Online Combinatorial Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P123; draw 17355 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Understanding-Curriculum-Learning-in-Policy",
+      "source_urls": [
+        "https://arxiv.org/abs/2202.05423",
+        "https://arxiv.org/html/2202.05423",
+        "https://arxiv.org/pdf/2202.05423",
+        "https://doi.org/10.48550/arXiv.2202.05423"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
