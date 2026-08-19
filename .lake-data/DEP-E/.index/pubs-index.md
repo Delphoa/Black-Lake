@@ -8716,3 +8716,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network* | Ruan, Gan; Minku, Leandro L.; Xu, Zhao; Yao, Xin | [arXiv:2201.04361](https://arxiv.org/abs/2201.04361) - [DOI](https://doi.org/10.48550/arXiv.2201.04361) |
+
+
+## [DEP-E-20260819-RAPID-Graph Recursive](../DEP-E-20260819-RAPID-Graph%20Recursive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAPID-Graph: Recursive All-Pairs Shortest Paths Using Processing-in-Memory for Dynamic Programming on Graphs* | Chen, Yanru; Li, Zheyu; Fan, Keming; Tian, Runyang; Hsu, John; Xu, Weihong; Zhou, Minxuan; Rosing, Tajana | [arXiv:2601.19907](https://arxiv.org/abs/2601.19907) - [DOI](https://doi.org/10.48550/arXiv.2601.19907) |
