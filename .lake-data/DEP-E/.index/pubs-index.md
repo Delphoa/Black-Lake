@@ -8275,3 +8275,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization* | Wang, Serena; Gupta, Maya; You, Seungil | [arXiv:1806.11202](https://arxiv.org/abs/1806.11202) - [DOI](https://doi.org/10.48550/arXiv.1806.11202) |
+
+
+## [DEP-E-20260819-Adaptive Consensus ADMM](../DEP-E-20260819-Adaptive%20Consensus%20ADMM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive Consensus ADMM for Distributed Optimization* | Xu, Zheng; Taylor, Gavin; Li, Hao; Figueiredo, Mario; Yuan, Xiaoming; Goldstein, Tom | [arXiv:1706.02869](https://arxiv.org/abs/1706.02869) - [DOI](https://doi.org/10.48550/arXiv.1706.02869) |
