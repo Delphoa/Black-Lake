@@ -9080,3 +9080,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Energy-Workload Coupled Migration Optimization Strategy for Virtual Power Plants with Data Centers Considering Fuzzy Chance Constraints* | Wu, Jia-Kai; Liu, Zhi-Wei; Zhao, Yong; Wang, Yan-Wu; Qu, Fan-Rong; Li, Chaojie | [arXiv:2511.08619](https://arxiv.org/abs/2511.08619) - [DOI](https://doi.org/10.48550/arXiv.2511.08619) |
+
+
+## [DEP-E-20260819-RAGPerf An End-to-End](../DEP-E-20260819-RAGPerf%20An%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems* | Li, Shaobo; Zhou, Yirui; Xu, Yuan; Chen, Kevin; Waddington, Daniel; Sundararaman, Swaminathan; Franke, Hubertus; Huang, Jian | [arXiv:2603.10765](https://arxiv.org/abs/2603.10765) - [DOI](https://doi.org/10.48550/arXiv.2603.10765) |
