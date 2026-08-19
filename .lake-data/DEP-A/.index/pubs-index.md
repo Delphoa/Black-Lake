@@ -12293,3 +12293,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents* | Wenjie Wang; Wenhe Si; Xinyue Xu; Yue Xu | [arXiv:2608.16551v1](https://arxiv.org/abs/2608.16551v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16551) |
+
+
+## [DEP-A-20260820-MELD Protocol Merging Kno](../DEP-A-20260820-MELD%20Protocol%20Merging%20Kno/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.16357-whitepaper-review.md`](../DEP-A-20260820-MELD%20Protocol%20Merging%20Kno/2608.16357-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories* | Lauri Lovén; Jaakko Sauvola; Jukka Riekki; Sasu Tarkoma | [arXiv:2608.16357v1](https://arxiv.org/abs/2608.16357v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16357) |
