@@ -6875,3 +6875,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference* | Nijkamp, Erik; Pang, Bo; Han, Tian; Zhou, Linqi; Zhu, Song-Chun; Wu, Ying Nian | [arXiv:1912.01909](https://arxiv.org/abs/1912.01909) - [DOI](https://doi.org/10.48550/arXiv.1912.01909) |
+
+
+## [DEP-E-20260819-How to Evaluate the Next](../DEP-E-20260819-How%20to%20Evaluate%20the%20Next/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How to Evaluate the Next System: Automatic Dialogue Evaluation from the Perspective of Continual Learning* | Li, Lu; He, Zhongheng; Zhou, Xiangyang; Yu, Dianhai | [arXiv:1912.04664](https://arxiv.org/abs/1912.04664) - [DOI](https://doi.org/10.48550/arXiv.1912.04664) |
