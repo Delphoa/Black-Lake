@@ -5048,3 +5048,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Generative Imagination in Object-Centric World Models* | Lin, Zhixuan; Wu, Yi-Fu; Peri, Skand; Fu, Bofeng; Jiang, Jindong; Ahn, Sungjin | [arXiv:2010.02054](https://arxiv.org/abs/2010.02054) - [DOI](https://doi.org/10.48550/arXiv.2010.02054) |
+
+
+## [DEP-E-20260819-DA-NAS Data Adapted](../DEP-E-20260819-DA-NAS%20Data%20Adapted/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search* | Dai, Xiyang; Chen, Dongdong; Liu, Mengchen; Chen, Yinpeng; Yuan, Lu | [arXiv:2003.12563](https://arxiv.org/abs/2003.12563) - [DOI](https://doi.org/10.48550/arXiv.2003.12563) |
