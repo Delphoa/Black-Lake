@@ -5839,3 +5839,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Reasoning through Process Supervision with Monte Carlo Tree Search* | Li, Shuangtao; Dong, Shuaihao; Luan, Kexin; Di, Xinhan; Ding, Chaofan | [arXiv:2501.01478](https://arxiv.org/abs/2501.01478) - [DOI](https://doi.org/10.48550/arXiv.2501.01478) |
+
+
+## [DEP-E-20260819-Fast Fourier Correlation](../DEP-E-20260819-Fast%20Fourier%20Correlation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast Fourier Correlation is a Highly Efficient and Accurate Feature Attribution Algorithm from the Perspective of Control Theory and Game Theory* | Liu, Zechen; Zhang, Feiyang; Song, Wei; Li, Xiang; Wei, Wei | [arXiv:2504.02016](https://arxiv.org/abs/2504.02016) - [DOI](https://doi.org/10.48550/arXiv.2504.02016) |

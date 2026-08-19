@@ -13548,6 +13548,29 @@
         "https://doi.org/10.48550/arXiv.2501.01478"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation",
+        ".logs/20260819-Arxiv-Fast-Fourier-Correlation-is-a-Highly-Efficient-LOG.md",
+        ".reports/BL-Arxiv-Fast-Fourier-Correlation-is-a-Highly-Efficient-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2504.02016",
+      "arxiv_id": "2504.02016",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2504.02016",
+      "normalized_title": "Fast Fourier Correlation is a Highly Efficient and Accurate Feature Attribution Algorithm from the Perspective of Control Theory and Game Theory",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P159; draw 58919 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Fast-Fourier-Correlation-is-a-Highly-Efficient",
+      "source_urls": [
+        "https://arxiv.org/abs/2504.02016",
+        "https://arxiv.org/html/2504.02016",
+        "https://arxiv.org/pdf/2504.02016",
+        "https://doi.org/10.48550/arXiv.2504.02016"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
