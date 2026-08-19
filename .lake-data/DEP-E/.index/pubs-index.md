@@ -9948,3 +9948,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices* | Li, Sijia; Kwon, Young D.; Lee, Lik-Hang; Hui, Pan | [arXiv:2504.00174](https://arxiv.org/abs/2504.00174) - [DOI](https://doi.org/10.48550/arXiv.2504.00174) |
+
+
+## [DEP-E-20260819-UDON Uncertainty-weighted](../DEP-E-20260819-UDON%20Uncertainty-weighted/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UDON: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints* | Zhao, Hongrui; Zhou, Xunlan; Ivanovic, Boris; Mehr, Negar | [arXiv:2509.12702](https://arxiv.org/abs/2509.12702) - [DOI](https://doi.org/10.48550/arXiv.2509.12702) |
