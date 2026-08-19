@@ -18999,6 +18999,29 @@
         "https://doi.org/10.48550/arXiv.2606.13376"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG",
+        ".logs/20260819-Arxiv-AdaVideoRAG-Omni-Contextual-Adaptive-Retrieval-LOG.md",
+        ".reports/BL-Arxiv-AdaVideoRAG-Omni-Contextual-Adaptive-Retrieval-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.13589",
+      "arxiv_id": "2506.13589",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2506.13589",
+      "normalized_title": "AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P96; draw 11279 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 5; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "AdaVideoRAG-Omni-Contextual-Adaptive-Retrieval",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.13589",
+        "https://arxiv.org/html/2506.13589",
+        "https://arxiv.org/pdf/2506.13589",
+        "https://doi.org/10.48550/arXiv.2506.13589"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

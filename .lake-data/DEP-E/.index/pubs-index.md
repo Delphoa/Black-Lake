@@ -7498,3 +7498,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold* | Zhou, Yang; Wang, Ziheng; Lu, Yuqin; Liu, Haofeng; Liang, Jun; He, Shengfeng; Li, Jing | [arXiv:2606.13376](https://arxiv.org/abs/2606.13376) - [DOI](https://doi.org/10.48550/arXiv.2606.13376) |
+
+
+## [DEP-E-20260819-AdaVideoRAG](../DEP-E-20260819-AdaVideoRAG/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding* | Xue, Zhucun; Zhang, Jiangning; Xie, Xurong; Cai, Yuxuan; Liu, Yong; Li, Xiangtai; Tao, Dacheng | [arXiv:2506.13589](https://arxiv.org/abs/2506.13589) - [DOI](https://doi.org/10.48550/arXiv.2506.13589) |
