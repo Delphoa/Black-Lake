@@ -8660,3 +8660,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Robust Optimization for Mitigating Reward Hacking with Correlated Proxies* | Liu, Zixuan; Sun, Xiaolin; Zheng, Zizhan | [arXiv:2604.12086](https://arxiv.org/abs/2604.12086) - [DOI](https://doi.org/10.48550/arXiv.2604.12086) |
+
+
+## [DEP-E-20260819-Hypercube-Based](../DEP-E-20260819-Hypercube-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hypercube-Based Retrieval-Augmented Generation for Scientific Question-Answering* | Shi, Jimeng; Zhou, Sizhe; Jin, Bowen; Hu, Wei; Tian, Runchu; Wang, Shaowen; Narasimhan, Giri; Han, Jiawei | [arXiv:2505.19288](https://arxiv.org/abs/2505.19288) - [DOI](https://doi.org/10.48550/arXiv.2505.19288) |
