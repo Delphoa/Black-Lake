@@ -5643,3 +5643,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KAC: Kolmogorov-Arnold Classifier for Continual Learning* | Hu, Yusong; Liang, Zichen; Yang, Fei; Hou, Qibin; Liu, Xialei; Cheng, Ming-Ming | [arXiv:2503.21076](https://arxiv.org/abs/2503.21076) - [DOI](https://doi.org/10.48550/arXiv.2503.21076) |
+
+
+## [DEP-E-20260819-Shadow in the Cache](../DEP-E-20260819-Shadow%20in%20the%20Cache/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference* | Luo, Zhifan; Shao, Shuo; Zhang, Su; Zhou, Lijing; Hu, Yuke; Zhao, Chenxu; Liu, Zhihao; Qin, Zhan | [arXiv:2508.09442](https://arxiv.org/abs/2508.09442) - [DOI](https://doi.org/10.48550/arXiv.2508.09442) |
