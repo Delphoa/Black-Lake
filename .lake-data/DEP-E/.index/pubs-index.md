@@ -8653,3 +8653,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path* | Yan, Xu; Mou, Lili; Li, Ge; Chen, Yunchuan; Peng, Hao; Jin, Zhi | [arXiv:1508.03720](https://arxiv.org/abs/1508.03720) - [DOI](https://doi.org/10.48550/arXiv.1508.03720) |
+
+
+## [DEP-E-20260819-Robust Optimization 12086](../DEP-E-20260819-Robust%20Optimization%2012086/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust Optimization for Mitigating Reward Hacking with Correlated Proxies* | Liu, Zixuan; Sun, Xiaolin; Zheng, Zizhan | [arXiv:2604.12086](https://arxiv.org/abs/2604.12086) - [DOI](https://doi.org/10.48550/arXiv.2604.12086) |
