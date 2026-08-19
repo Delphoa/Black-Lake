@@ -6539,3 +6539,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Improved Quantum Algorithm for 3-Tuple Lattice Sieving* | Engelberts, Lynn; Chen, Yanlin; Gilani, Amin Shiraz; van Hoof, Maya-Iggy; Jeffery, Stacey; de Wolf, Ronald | [arXiv:2510.08473](https://arxiv.org/abs/2510.08473) - [DOI](https://doi.org/10.48550/arXiv.2510.08473) |
+
+
+## [DEP-E-20260819-Enhancing LLM Reasoning](../DEP-E-20260819-Enhancing%20LLM%20Reasoning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing LLM Reasoning with Reward-guided Tree Search* | Jiang, Jinhao; Chen, Zhipeng; Min, Yingqian; Chen, Jie; Cheng, Xiaoxue; Wang, Jiapeng; Tang, Yiru; Sun, Haoxiang; Deng, Jia; Zhao, Wayne Xin; Liu, Zheng; Yan, Dong; Xie, Jian; Wang, Zhongyuan; Wen, Ji-Rong | [arXiv:2411.11694](https://arxiv.org/abs/2411.11694) - [DOI](https://doi.org/10.48550/arXiv.2411.11694) |
