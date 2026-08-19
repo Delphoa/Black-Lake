@@ -11690,3 +11690,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PM-Bench: Evaluating Prospective Memory in LLM Agents* | Genglin Liu; Saadia Gabriel | [arXiv:2607.12385v1](https://arxiv.org/abs/2607.12385v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12385) |
+
+
+## [DEP-A-20260819-PolyUQuest Verifiable Str](../DEP-A-20260819-PolyUQuest%20Verifiable%20Str/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.08269-whitepaper-review.md`](../DEP-A-20260819-PolyUQuest%20Verifiable%20Str/2607.08269-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs* | Ying Liu; Yi Ye; Quanyu Feng; Mingxi Ye; Mingtao Zhang; Haoyang Li; Chen Jason Zhang; Qing Li | [arXiv:2607.08269v1](https://arxiv.org/abs/2607.08269v1) - [DOI](https://doi.org/10.48550/arXiv.2607.08269) |
