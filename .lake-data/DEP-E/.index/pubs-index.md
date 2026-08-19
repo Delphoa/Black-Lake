@@ -6119,3 +6119,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling* | Zhou, Yujia; Dou, Zhicheng; Zhu, Yutao; Wen, Ji-Rong | [arXiv:2111.12614](https://arxiv.org/abs/2111.12614) - [DOI](https://doi.org/10.48550/arXiv.2111.12614) |
+
+
+## [DEP-E-20260819-Reverse Preference](../DEP-E-20260819-Reverse%20Preference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reverse Preference Optimization for Complex Instruction Following* | Huang, Xiang; Lin, Ting-En; Fang, Feiteng; Wu, Yuchuan; Li, Hangyu; Qu, Yuzhong; Huang, Fei; Li, Yongbin | [arXiv:2505.22172](https://arxiv.org/abs/2505.22172) - [DOI](https://doi.org/10.48550/arXiv.2505.22172) |
