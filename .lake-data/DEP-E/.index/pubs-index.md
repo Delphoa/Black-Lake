@@ -8317,3 +8317,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-objective optimization and explanation for stroke risk assessment in Shanxi province* | Ma, Jing; Sun, Yiyang; Liu, Junjie; Huang, Huaxiong; Zhou, Xiaoshuang; Xu, Shixin | [arXiv:2107.14060](https://arxiv.org/abs/2107.14060) - [DOI](https://doi.org/10.48550/arXiv.2107.14060) |
+
+
+## [DEP-E-20260819-FGGM Fisher-Guided](../DEP-E-20260819-FGGM%20Fisher-Guided/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FGGM: Fisher-Guided Gradient Masking for Continual Learning* | Tan, Chao-Hong; Chen, Qian; Wang, Wen; Ma, Yukun; Zhang, Chong; Deng, Chong; Zhang, Qinglin; Li, Xiangang; Ye, Jieping | [arXiv:2601.18261](https://arxiv.org/abs/2601.18261) - [DOI](https://doi.org/10.48550/arXiv.2601.18261) |
