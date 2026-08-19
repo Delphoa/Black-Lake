@@ -12275,3 +12275,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *D$^2$ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory* | Xule Liu; Yijun Liu; Chao Li; Shao Kun | [arXiv:2608.17756v1](https://arxiv.org/abs/2608.17756v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17756) |
+
+
+## [DEP-A-20260820-Explicit State Elicitatio](../DEP-A-20260820-Explicit%20State%20Elicitatio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.17247-whitepaper-review.md`](../DEP-A-20260820-Explicit%20State%20Elicitatio/2608.17247-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification* | Yihang Chen; Pin Qian; Su Wang; Chong Peng; Huan Xu; Shuaiting Li; Yiqi Sun | [arXiv:2608.17247v1](https://arxiv.org/abs/2608.17247v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17247) |
