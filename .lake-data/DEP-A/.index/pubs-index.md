@@ -10889,3 +10889,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Measuring Concept Content in Text from LLM Activations: ESG Evidence from Concept Vectors and Linear Probes* | Luc Hazenoot; Zhaochun Ren; Amirhossein Zohrehvand | [arXiv:2608.07208v1](https://arxiv.org/abs/2608.07208v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07208) |
+
+
+## [DEP-A-20260819-FutureBridge Token Select](../DEP-A-20260819-FutureBridge%20Token%20Select/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06819-whitepaper-review.md`](../DEP-A-20260819-FutureBridge%20Token%20Select/2608.06819-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FutureBridge: Token Selection Beyond Local Preference in Collaborative Decoding* | Quanquan Li; Hongbo Zhang; Yihe Chi; Jingyu Li; Xidong Xi; Liuyang Song; Hongzhen Zhang; Yuxiang Huang; Jing Ke; Siyuan Ma; Junyi Lin; Guitao Cao | [arXiv:2608.06819v1](https://arxiv.org/abs/2608.06819v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06819) |
