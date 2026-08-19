@@ -7386,3 +7386,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Student Competency Assessment and Presentation Methods Based on Algorithm Courses* | Zhang, Yingqi; Zheng, Ninghan; Li, Shanshan; Liu, Weidong | [arXiv:2606.00200](https://arxiv.org/abs/2606.00200) - [DOI](https://doi.org/10.1109/FIE63693.2025.11328247) |
+
+
+## [DEP-E-20260819-Learning Large](../DEP-E-20260819-Learning%20Large/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Large Neighborhood Search Policy for Integer Programming* | Wu, Yaoxin; Song, Wen; Cao, Zhiguang; Zhang, Jie | [arXiv:2111.03466](https://arxiv.org/abs/2111.03466) - [DOI](https://doi.org/10.48550/arXiv.2111.03466) |
