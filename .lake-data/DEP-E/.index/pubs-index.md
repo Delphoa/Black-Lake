@@ -6805,3 +6805,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Social Diversity Reduces the Complexity and Cost of Fostering Fairness* | Cimpeanu, Theodor; Di Stefano, Alessandro; Perret, Cedric; Han, The Anh | [arXiv:2211.10517](https://arxiv.org/abs/2211.10517) - [DOI](https://doi.org/10.1016/j.chaos.2022.113051) |
+
+
+## [DEP-E-20260819-Learn from Global](../DEP-E-20260819-Learn%20from%20Global/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN* | Ouyang, Kaichen; Ke, Zong; Fu, Shengwei; Liu, Lingjie; Zhao, Puning; Hu, Dayu | [arXiv:2412.17629](https://arxiv.org/abs/2412.17629) - [DOI](https://doi.org/10.48550/arXiv.2412.17629) |
