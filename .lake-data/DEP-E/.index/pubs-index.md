@@ -9206,3 +9206,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation* | Li, Ming; Zhang, Weiwei; Yang, Guang; Wang, Chengjia; Zhang, Heye; Liu, Huafeng; Zheng, Wei; Li, Shuo | [arXiv:1907.11292](https://arxiv.org/abs/1907.11292) - [DOI](https://doi.org/10.48550/arXiv.1907.11292) |
+
+
+## [DEP-E-20260819-Qwen-RobotWorld Technical](../DEP-E-20260819-Qwen-RobotWorld%20Technical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation* | Zhang, Jie; Chen, Xiaoyue; Chen, Anzhe; Liu, Dayiheng; Li, Deqing; Zhou, Gengze; Yin, Hale; Yuan, Haoqi; Li, Haoyang; Li, Jiahao; Zhang, Jiazhao; Zhou, Jingren; Gao, Kaiyuan; Yan, Kun; Jiang, Lihan; Tang, Ningyuan; Lin, Pei; Peng, Qihang; Yin, Shengming; Wu, Tianhe; Yan, Tianyi; Xu, Xiao; Shu, Yan; Zhang, Yanran; Wang, Ye; Wang, Yi; Chen, Yilei; Xu, Yixian; Huang, Yiyang; Chen, Yuxiang; Zhang, Zekai; Wang, Zhendong; Lei, Zixing; Liang, Zhixuan; Liu, Zihao; Zhou, Zikai; Lv, Chenxu; Chen, Xiong-Hui; Wu, Chenfei | [arXiv:2606.17030](https://arxiv.org/abs/2606.17030) - [DOI](https://doi.org/10.48550/arXiv.2606.17030) |

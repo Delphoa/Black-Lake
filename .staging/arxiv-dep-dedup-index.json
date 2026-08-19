@@ -24611,6 +24611,29 @@
         "https://doi.org/10.48550/arXiv.1907.11292"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld Technical",
+        ".logs/20260819-Arxiv-Qwen-RobotWorld-Technical-Report-Unifying-LOG.md",
+        ".reports/BL-Arxiv-Qwen-RobotWorld-Technical-Report-Unifying-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.17030",
+      "arxiv_id": "2606.17030",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.17030",
+      "normalized_title": "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P340; draw 10394 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 19; focus exclusions 93; reselections 113; complete-source gate passed; all source files withheld locally.",
+      "slug": "Qwen-RobotWorld-Technical-Report-Unifying",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.17030",
+        "https://arxiv.org/html/2606.17030",
+        "https://arxiv.org/pdf/2606.17030",
+        "https://doi.org/10.48550/arXiv.2606.17030"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
