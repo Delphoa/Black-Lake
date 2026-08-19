@@ -6091,3 +6091,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation* | Li, Jiaming; Chen, Yukun; Liu, Ziqiang; Tan, Minghuan; Zhang, Lei; Li, Yunshui; Luo, Run; Chen, Longze; Luo, Jing; Argha, Ahmadreza; Alinejad-Rokny, Hamid; Zhou, Wei; Yang, Min | [arXiv:2506.02347](https://arxiv.org/abs/2506.02347) - [DOI](https://doi.org/10.48550/arXiv.2506.02347) |
+
+
+## [DEP-E-20260819-Cross-layer Optimization](../DEP-E-20260819-Cross-layer%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach* | Ma, Yuzhe; Roy, Subhendu; Miao, Jin; Chen, Jiamin; Yu, Bei | [arXiv:1807.07023](https://arxiv.org/abs/1807.07023) - [DOI](https://doi.org/10.48550/arXiv.1807.07023) |

@@ -14376,6 +14376,29 @@
         "https://doi.org/10.48550/arXiv.2506.02347"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Cross-layer Optimization",
+        ".logs/20260819-Arxiv-Cross-layer-Optimization-for-High-Speed-Adders-LOG.md",
+        ".reports/BL-Arxiv-Cross-layer-Optimization-for-High-Speed-Adders-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1807.07023",
+      "arxiv_id": "1807.07023",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1807.07023",
+      "normalized_title": "Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P195; draw 3478 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Cross-layer-Optimization-for-High-Speed-Adders",
+      "source_urls": [
+        "https://arxiv.org/abs/1807.07023",
+        "https://arxiv.org/html/1807.07023",
+        "https://arxiv.org/pdf/1807.07023",
+        "https://doi.org/10.48550/arXiv.1807.07023"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
