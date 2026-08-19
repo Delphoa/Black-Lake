@@ -5013,3 +5013,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies* | Zhou, Fan; Pan, Chen; Ma, Lintao; Liu, Yu; Wang, Shiyu; Zhang, James; Zhu, Xinxin; Hu, Xuanwei; Hu, Yunhua; Zheng, Yangfei; Lei, Lei; Hu, Yun | [arXiv:2302.05650](https://arxiv.org/abs/2302.05650) - [DOI](https://doi.org/10.48550/arXiv.2302.05650) |
+
+
+## [DEP-E-20260819-Decoupling Constraint](../DEP-E-20260819-Decoupling%20Constraint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupling Constraints from Two Directions for Evolutionary Constrained Multi-objective Optimization* | Sun, Ruiqing; Feng, Dawei; Zhou, Xing; Li, Lianghao; Qi, Sheng; Ding, Bo; Wang, Yijie; Wang, Rui; Wang, Huaimin | [arXiv:2512.23945](https://arxiv.org/abs/2512.23945) - [DOI](https://doi.org/10.48550/arXiv.2512.23945) |
