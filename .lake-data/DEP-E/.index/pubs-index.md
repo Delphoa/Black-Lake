@@ -4775,3 +4775,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm* | Kong, Yiting; Guan, Yang; Duan, Jingliang; Li, Shengbo Eben; Sun, Qi; Nie, Bingbing | [arXiv:2103.04535](https://arxiv.org/abs/2103.04535) - [DOI](https://doi.org/10.48550/arXiv.2103.04535) |
+
+
+## [DEP-E-20260819-Make Domain Shift a](../DEP-E-20260819-Make%20Domain%20Shift%20a/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Make Domain Shift a Catastrophic Forgetting Alleviator in Class-Incremental Learning* | Chen, Wei; Zhou, Yi | [arXiv:2501.00237](https://arxiv.org/abs/2501.00237) - [DOI](https://doi.org/10.48550/arXiv.2501.00237) |
