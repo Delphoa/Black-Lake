@@ -6959,3 +6959,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation* | Geng, Runpeng; Wang, Yanting; Chen, Ying; Jia, Jinyuan | [arXiv:2508.18652](https://arxiv.org/abs/2508.18652) - [DOI](https://doi.org/10.48550/arXiv.2508.18652) |
+
+
+## [DEP-E-20260819-Accurate Peak Detection](../DEP-E-20260819-Accurate%20Peak%20Detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning* | Ma, Zeyuan; Lian, Hongqiao; Qiu, Wenjie; Gong, Yue-Jiao | [arXiv:2503.18066](https://arxiv.org/abs/2503.18066) - [DOI](https://doi.org/10.48550/arXiv.2503.18066) |
