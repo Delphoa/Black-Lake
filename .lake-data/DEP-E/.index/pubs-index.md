@@ -6567,3 +6567,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Practical Poisoning Attacks against Retrieval-Augmented Generation* | Zhang, Baolei; Chen, Yuxi; Liu, Zhuqing; Nie, Lihai; Li, Tong; Liu, Zheli; Fang, Minghong | [arXiv:2504.03957](https://arxiv.org/abs/2504.03957) - [DOI](https://doi.org/10.48550/arXiv.2504.03957) |
+
+
+## [DEP-E-20260819-Joint](../DEP-E-20260819-Joint/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Communication-Motion Planning in Wireless-Connected Robotic Networks: Overview and Design Guidelines* | Zhang, Bo; Wu, Yunlong; Yi, Xiaodong; Yang, Xuejun | [arXiv:1511.02299](https://arxiv.org/abs/1511.02299) - [DOI](https://doi.org/10.48550/arXiv.1511.02299) |
