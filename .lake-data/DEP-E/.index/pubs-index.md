@@ -8100,3 +8100,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents* | Yu, Bihui; Xu, Xinglong; Jiang, Junjie; Cheng, Jiabei; Jia, Caijun; Li, Siyuan; He, Conghui; Wei, Jingxuan; Tan, Cheng | [arXiv:2605.10341](https://arxiv.org/abs/2605.10341) - [DOI](https://doi.org/10.48550/arXiv.2605.10341) |
+
+
+## [DEP-E-20260819-STGCN-LSTM for Olympic](../DEP-E-20260819-STGCN-LSTM%20for%20Olympic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STGCN-LSTM for Olympic Medal Prediction: Dynamic Power Modeling and Causal Policy Optimization* | Wang, Yiquan; Wang, Jiaying; Huang, Tin-Yeh; Yang, Jingyi; Xu, Zihao | [arXiv:2501.17711](https://arxiv.org/abs/2501.17711) - [DOI](https://doi.org/10.48550/arXiv.2501.17711) |
