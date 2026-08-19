@@ -7974,3 +7974,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Balanced Graph Edge Partition with Effective Local Search* | Guo, Zhenyu; Xiao, Mingyu; Zhou, Yi; Zhang, Dongxiang; Tan, Kian-Lee | [arXiv:2012.09451](https://arxiv.org/abs/2012.09451) - [DOI](https://doi.org/10.48550/arXiv.2012.09451) |
+
+
+## [DEP-E-20260819-SEAL-Tag Self-Tag](../DEP-E-20260819-SEAL-Tag%20Self-Tag/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation* | Xie, Jin; Li, Songze; Cheng, Guang | [arXiv:2603.17292](https://arxiv.org/abs/2603.17292) - [DOI](https://doi.org/10.48550/arXiv.2603.17292) |
