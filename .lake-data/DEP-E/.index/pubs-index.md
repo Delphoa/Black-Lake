@@ -4950,3 +4950,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation* | Wang, Shuting; Liu, Jiongnan; Song, Shiren; Cheng, Jiehan; Fu, Yuqi; Guo, Peidong; Fang, Kun; Zhu, Yutao; Dou, Zhicheng | [arXiv:2406.05654](https://arxiv.org/abs/2406.05654) - [DOI](https://doi.org/10.48550/arXiv.2406.05654) |
+
+
+## [DEP-E-20260819-Efficient Offline Policy](../DEP-E-20260819-Efficient%20Offline%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Offline Policy Optimization with a Learned Model* | Liu, Zichen; Li, Siyi; Lee, Wee Sun; Yan, Shuicheng; Xu, Zhongwen | [arXiv:2210.05980](https://arxiv.org/abs/2210.05980) - [DOI](https://doi.org/10.48550/arXiv.2210.05980) |

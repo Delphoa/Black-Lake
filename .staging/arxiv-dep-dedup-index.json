@@ -10627,6 +10627,29 @@
         "https://doi.org/10.48550/arXiv.2406.05654"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Efficient Offline Policy",
+        ".logs/20260819-Arxiv-Efficient-Offline-Policy-Optimization-with-a-LOG.md",
+        ".reports/BL-Arxiv-Efficient-Offline-Policy-Optimization-with-a-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2210.05980",
+      "arxiv_id": "2210.05980",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2210.05980",
+      "normalized_title": "Efficient Offline Policy Optimization with a Learned Model",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P32; draw 31120 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 22; reselections 22; complete-source gate passed; all source files withheld locally.",
+      "slug": "Efficient-Offline-Policy-Optimization-with-a",
+      "source_urls": [
+        "https://arxiv.org/abs/2210.05980",
+        "https://arxiv.org/html/2210.05980",
+        "https://arxiv.org/pdf/2210.05980",
+        "https://doi.org/10.48550/arXiv.2210.05980"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
