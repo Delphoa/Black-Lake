@@ -16262,6 +16262,29 @@
         "https://doi.org/10.48550/arXiv.2007.02352"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-IKOL Inverse kinematics",
+        ".logs/20260819-Arxiv-IKOL-Inverse-kinematics-optimization-layer-for-LOG.md",
+        ".reports/BL-Arxiv-IKOL-Inverse-kinematics-optimization-layer-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2302.01058",
+      "arxiv_id": "2302.01058",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2302.01058",
+      "normalized_title": "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P277; draw 14160 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 8; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "IKOL-Inverse-kinematics-optimization-layer-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.01058",
+        "https://arxiv.org/html/2302.01058",
+        "https://arxiv.org/pdf/2302.01058",
+        "https://doi.org/10.48550/arXiv.2302.01058"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

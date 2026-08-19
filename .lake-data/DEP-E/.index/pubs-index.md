@@ -6665,3 +6665,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Mission schedule of agile satellites based on Proximal Policy Optimization Algorithm* | Liu, Xinrui | [arXiv:2007.02352](https://arxiv.org/abs/2007.02352) - [DOI](https://doi.org/10.48550/arXiv.2007.02352) |
+
+
+## [DEP-E-20260819-IKOL Inverse kinematics](../DEP-E-20260819-IKOL%20Inverse%20kinematics/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation* | Zhang, Juze; Shi, Ye; Ma, Yuexin; Xu, Lan; Yu, Jingyi; Wang, Jingya | [arXiv:2302.01058](https://arxiv.org/abs/2302.01058) - [DOI](https://doi.org/10.48550/arXiv.2302.01058) |
