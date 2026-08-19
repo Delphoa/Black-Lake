@@ -9990,3 +9990,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Active and Passive Beamforming Optimization for Beyond Diagonal RIS-aided Multi-User Communications* | Zhou, Xiaohua; Fang, Tianyu; Mao, Yijie | [arXiv:2501.10227](https://arxiv.org/abs/2501.10227) - [DOI](https://doi.org/10.1109/LCOMM.2025.3528968) |
+
+
+## [DEP-E-20260819-Trustworthiness in](../DEP-E-20260819-Trustworthiness%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Trustworthiness in Retrieval-Augmented Generation Systems: A Survey* | Zhou, Yujia; Zhang, Wenbo; Shao, Jingying; Liu, Yan; Li, Xiaoxi; Jin, Jiajie; Qian, Hongjin; Liu, Zheng; Li, Chaozhuo; Zhang, Jason Chen; Dou, Zhicheng; Yu, Philip S.; Mao, Jiaxin | [arXiv:2409.10102](https://arxiv.org/abs/2409.10102) - [DOI](https://doi.org/10.48550/arXiv.2409.10102) |
