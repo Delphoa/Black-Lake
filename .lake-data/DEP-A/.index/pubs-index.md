@@ -10763,3 +10763,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG* | Gyuwan Kim; Cheoneum Park; Tao Yang | [arXiv:2608.07458v1](https://arxiv.org/abs/2608.07458v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07458) |
+
+
+## [DEP-A-20260819-Test Time Scaling Reusabl](../DEP-A-20260819-Test%20Time%20Scaling%20Reusabl/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07213-whitepaper-review.md`](../DEP-A-20260819-Test%20Time%20Scaling%20Reusabl/2608.07213-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Test-Time Scaling to Reusable Memory: Measuring Crystallization in Text-to-SQL* | Jiaqian Wang; Yutao Qi; Wenjin Hou; Yuanxi Che; Muning Wen | [arXiv:2608.07213v1](https://arxiv.org/abs/2608.07213v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07213) |
