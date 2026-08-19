@@ -10801,3 +10801,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A parallel structured divide-and-conquer algorithm for symmetric tridiagonal eigenvalue problems* | Liao, Xia; Li, Shengguo; Lu, Yutong; Roman, Jose E. | [arXiv:2008.01990](https://arxiv.org/abs/2008.01990) - [DOI](https://doi.org/10.48550/arXiv.2008.01990) |
+
+## [DEP-A-20260820-A RAG Scaling Intake](../DEP-A-20260820-A%20RAG%20Scaling%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20RAG%20Scaling%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces* | Du, Mingxuan; Xu, Benfeng; Zhu, Chiwei; Wang, Shaohan; Wang, Pengyu; Wang, Xiaorui; Mao, Zhendong | [arXiv:2602.03442](https://arxiv.org/abs/2602.03442) - [DOI](https://doi.org/10.48550/arXiv.2602.03442) |
