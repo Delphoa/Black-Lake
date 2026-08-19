@@ -6035,3 +6035,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation* | Guo, Jiaxin; Luo, Yuanchang; Wei, Daimeng; Zhang, Ling; Li, Zongyao; Shang, Hengchao; Rao, Zhiqiang; Li, Shaojun; Yang, Jinlong; Wu, Zhanglin; Yang, Hao | [arXiv:2501.08523](https://arxiv.org/abs/2501.08523) - [DOI](https://doi.org/10.48550/arXiv.2501.08523) |
+
+
+## [DEP-E-20260819-ACORN Adaptive](../DEP-E-20260819-ACORN%20Adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation* | Zhou, Zhongquan; Li, Shuhao; Yue, Zixian | [arXiv:2505.06628](https://arxiv.org/abs/2505.06628) - [DOI](https://doi.org/10.48550/arXiv.2505.06628) |

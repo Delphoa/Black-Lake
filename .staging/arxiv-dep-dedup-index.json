@@ -14192,6 +14192,29 @@
         "https://doi.org/10.48550/arXiv.2501.08523"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ACORN Adaptive",
+        ".logs/20260819-Arxiv-ACORN-Adaptive-Contrastive-Optimization-for-Safe-LOG.md",
+        ".reports/BL-Arxiv-ACORN-Adaptive-Contrastive-Optimization-for-Safe-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.06628",
+      "arxiv_id": "2505.06628",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.06628",
+      "normalized_title": "ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P187; draw 59337 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "ACORN-Adaptive-Contrastive-Optimization-for-Safe",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.06628",
+        "https://arxiv.org/html/2505.06628",
+        "https://arxiv.org/pdf/2505.06628",
+        "https://doi.org/10.48550/arXiv.2505.06628"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
