@@ -5867,3 +5867,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay* | Lu, Fanbin; Zhong, Zhisheng; Liu, Shu; Fu, Chi-Wing; Jia, Jiaya | [arXiv:2505.16282](https://arxiv.org/abs/2505.16282) - [DOI](https://doi.org/10.48550/arXiv.2505.16282) |
+
+
+## [DEP-E-20260819-Data-driven Modeling of](../DEP-E-20260819-Data-driven%20Modeling%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data-driven Modeling of Parameterized Nonlinear Fluid Dynamical Systems with a Dynamics-embedded Conditional Generative Adversarial Network* | Rostamijavanani, Abdolvahhab; Li, Shanwu; Yang, Yongchao | [arXiv:2412.17978](https://arxiv.org/abs/2412.17978) - [DOI](https://doi.org/10.48550/arXiv.2412.17978) |
