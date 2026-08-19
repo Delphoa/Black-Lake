@@ -8555,3 +8555,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Multi-Symplectic Lanczos Algorithm and Its Applications to Color Image Processing* | Jia, Zhigang; Liu, Xuan; Zhao, Mei-Xiang | [arXiv:2005.01299](https://arxiv.org/abs/2005.01299) - [DOI](https://doi.org/10.48550/arXiv.2005.01299) |
+
+
+## [DEP-E-20260819-Stereo World Model](../DEP-E-20260819-Stereo%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stereo World Model: Camera-Guided Stereo Video Generation* | Sun, Yang-Tian; Huang, Zehuan; Niu, Yifan; Ma, Lin; Cao, Yan-Pei; Ma, Yuewen; Qi, Xiaojuan | [arXiv:2603.17375](https://arxiv.org/abs/2603.17375) - [DOI](https://doi.org/10.48550/arXiv.2603.17375) |
