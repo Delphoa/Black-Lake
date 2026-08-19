@@ -4845,3 +4845,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search* | Behdin, Kayhan; Song, Qingquan; Vasudevan, Sriram; Sheng, Jian; Ma, Xiaojing; Zhou, Z; Zhu, Chuanrui; Li, Guoyao; Nguyen, Chanh; Ghosh, Sayan; Sang, Hejian; Baarzi, Ata Fatahi; Ramachandran, Sundara Raman; Wang, Xiaoqing; Lan, Qing; S, Vinay Y; Guo, Qi; Johnson, Caleb; Wang, Zhipeng; Borisyuk, Fedor | [arXiv:2510.22101](https://arxiv.org/abs/2510.22101) - [DOI](https://doi.org/10.48550/arXiv.2510.22101) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented](../DEP-E-20260819-Retrieval-Augmented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented Foundation Models for Water Level Prediction in the Everglades* | Rangaraj, Rahuul; Shi, Jimeng; Paudel, Rajendra; Narasimhan, Giri; Wu, Yanzhao | [arXiv:2508.04888](https://arxiv.org/abs/2508.04888) - [DOI](https://doi.org/10.1145/3770855.3818897) |

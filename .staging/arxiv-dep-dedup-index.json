@@ -10282,6 +10282,29 @@
         "https://doi.org/10.48550/arXiv.2510.22101"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented",
+        ".logs/20260819-Arxiv-Retrieval-Augmented-Foundation-Models-for-Water-LOG.md",
+        ".reports/BL-Arxiv-Retrieval-Augmented-Foundation-Models-for-Water-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.04888",
+      "arxiv_id": "2508.04888",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3770855.3818897",
+      "normalized_title": "Retrieval-Augmented Foundation Models for Water Level Prediction in the Everglades",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P17; draw 40286 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 13; reselections 14; complete-source gate passed; all source files withheld locally.",
+      "slug": "Retrieval-Augmented-Foundation-Models-for-Water",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.04888",
+        "https://arxiv.org/html/2508.04888",
+        "https://arxiv.org/pdf/2508.04888",
+        "https://doi.org/10.1145/3770855.3818897"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
