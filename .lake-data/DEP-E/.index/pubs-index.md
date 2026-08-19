@@ -5160,3 +5160,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization* | Liu, Zequn; Wu, Kehan; Xie, Shufang; Guo, Zekun; Zhang, Wei; Qin, Tao; Liu, Renhe; Xia, Yingce | [arXiv:2603.20262](https://arxiv.org/abs/2603.20262) - [DOI](https://doi.org/10.48550/arXiv.2603.20262) |
+
+
+## [DEP-E-20260819-TopologyGAN Topology](../DEP-E-20260819-TopologyGAN%20Topology/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields Over the Initial Domain* | Nie, Zhenguo; Lin, Tong; Jiang, Haoliang; Kara, Levent Burak | [arXiv:2003.04685](https://arxiv.org/abs/2003.04685) - [DOI](https://doi.org/10.48550/arXiv.2003.04685) |

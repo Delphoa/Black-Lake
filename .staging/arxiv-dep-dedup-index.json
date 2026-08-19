@@ -11317,6 +11317,29 @@
         "https://doi.org/10.48550/arXiv.2603.20262"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-TopologyGAN Topology",
+        ".logs/20260819-Arxiv-TopologyGAN-Topology-Optimization-Using-LOG.md",
+        ".reports/BL-Arxiv-TopologyGAN-Topology-Optimization-Using-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2003.04685",
+      "arxiv_id": "2003.04685",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2003.04685",
+      "normalized_title": "TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields Over the Initial Domain",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P62; draw 1796 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "TopologyGAN-Topology-Optimization-Using",
+      "source_urls": [
+        "https://arxiv.org/abs/2003.04685",
+        "https://arxiv.org/html/2003.04685",
+        "https://arxiv.org/pdf/2003.04685",
+        "https://doi.org/10.48550/arXiv.2003.04685"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
