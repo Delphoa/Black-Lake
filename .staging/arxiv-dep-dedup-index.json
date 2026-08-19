@@ -27808,6 +27808,29 @@
         "https://doi.org/10.48550/arXiv.2410.19297"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Beyond Monolithic",
+        ".logs/20260819-Arxiv-Beyond-Monolithic-Architectures-A-Multi-Agent-LOG.md",
+        ".reports/BL-Arxiv-Beyond-Monolithic-Architectures-A-Multi-Agent-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.04703",
+      "arxiv_id": "2601.04703",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2601.04703",
+      "normalized_title": "Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P479; draw 8662 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 18; reselections 20; complete-source gate passed; all source files withheld locally.",
+      "slug": "Beyond-Monolithic-Architectures-A-Multi-Agent",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.04703",
+        "https://arxiv.org/html/2601.04703",
+        "https://arxiv.org/pdf/2601.04703",
+        "https://doi.org/10.48550/arXiv.2601.04703"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

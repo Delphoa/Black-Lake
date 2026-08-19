@@ -10179,3 +10179,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction* | Liu, Xiaoman | [arXiv:2410.19297](https://arxiv.org/abs/2410.19297) - [DOI](https://doi.org/10.48550/arXiv.2410.19297) |
+
+
+## [DEP-E-20260819-Beyond Monolithic](../DEP-E-20260819-Beyond%20Monolithic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search* | Chen, Yiqun; Yan, Lingyong; Yang, Zixuan; Zhang, Erhan; Zhao, Jiashu; Wang, Shuaiqiang; Yin, Dawei; Mao, Jiaxin | [arXiv:2601.04703](https://arxiv.org/abs/2601.04703) - [DOI](https://doi.org/10.48550/arXiv.2601.04703) |
