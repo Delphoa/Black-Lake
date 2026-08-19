@@ -22955,6 +22955,29 @@
         "https://doi.org/10.1007/s11704-025-50302-6"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-FACT Feature Adaptive",
+        ".logs/20260819-Arxiv-FACT-Feature-Adaptive-Continual-learning-Tracker-LOG.md",
+        ".reports/BL-Arxiv-FACT-Feature-Adaptive-Continual-learning-Tracker-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.07904",
+      "arxiv_id": "2409.07904",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2409.07904",
+      "normalized_title": "FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P268; draw 69318 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 2; focus exclusions 16; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "FACT-Feature-Adaptive-Continual-learning-Tracker",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.07904",
+        "https://arxiv.org/html/2409.07904",
+        "https://arxiv.org/pdf/2409.07904",
+        "https://doi.org/10.48550/arXiv.2409.07904"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

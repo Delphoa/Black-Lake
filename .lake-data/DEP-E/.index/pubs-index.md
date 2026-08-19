@@ -8702,3 +8702,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey on Memory-Efficient Transformer-Based Model Training in AI for Science* | Tian, Kaiyuan; Qiao, Linbo; Liu, Baihui; Jiang, Gongqingjian; Li, Shanshan; Li, Dongsheng | [arXiv:2501.11847](https://arxiv.org/abs/2501.11847) - [DOI](https://doi.org/10.1007/s11704-025-50302-6) |
+
+
+## [DEP-E-20260819-FACT Feature Adaptive](../DEP-E-20260819-FACT%20Feature%20Adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking* | Song, Rongzihan; Weng, Zhenyu; Zhuang, Huiping; Ren, Jinchang; Chen, Yongming; Lin, Zhiping | [arXiv:2409.07904](https://arxiv.org/abs/2409.07904) - [DOI](https://doi.org/10.48550/arXiv.2409.07904) |
