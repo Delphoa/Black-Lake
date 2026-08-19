@@ -6651,3 +6651,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Approximation Algorithms and Hardness of the k-Route Cut Problem* | Chuzhoy, Julia; Makarychev, Yury; Vijayaraghavan, Aravindan; Zhou, Yuan | [arXiv:1112.3611](https://arxiv.org/abs/1112.3611) - [DOI](https://doi.org/10.48550/arXiv.1112.3611) |
+
+
+## [DEP-E-20260819-R-Transformer Recurrent](../DEP-E-20260819-R-Transformer%20Recurrent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *R-Transformer: Recurrent Neural Network Enhanced Transformer* | Wang, Zhiwei; Ma, Yao; Liu, Zitao; Tang, Jiliang | [arXiv:1907.05572](https://arxiv.org/abs/1907.05572) - [DOI](https://doi.org/10.48550/arXiv.1907.05572) |
