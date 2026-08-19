@@ -8191,3 +8191,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SNPSFuzzer: A Fast Greybox Fuzzer for Stateful Network Protocols using Snapshots* | Li, Junqiang; Li, Senyi; Sun, Gang; Chen, Ting; Yu, Hongfang | [arXiv:2202.03643](https://arxiv.org/abs/2202.03643) - [DOI](https://doi.org/10.48550/arXiv.2202.03643) |
+
+
+## [DEP-E-20260819-Improving Context](../DEP-E-20260819-Improving%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Context Fidelity via Native Retrieval-Augmented Reasoning* | Wang, Suyuchen; Wang, Jinlin; Wang, Xinyu; Li, Shiqi; Tang, Xiangru; Hong, Sirui; Chang, Xiao-Wen; Wu, Chenglin; Liu, Bang | [arXiv:2509.13683](https://arxiv.org/abs/2509.13683) - [DOI](https://doi.org/10.48550/arXiv.2509.13683) |
