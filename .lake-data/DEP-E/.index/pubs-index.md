@@ -6028,3 +6028,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization* | Chen, Yan; Li, Tao; Zong, Xiaofeng | [arXiv:2407.02765](https://arxiv.org/abs/2407.02765) - [DOI](https://doi.org/10.48550/arXiv.2407.02765) |
+
+
+## [DEP-E-20260819-Doc-Guided Sent2Sent A](../DEP-E-20260819-Doc-Guided%20Sent2Sent%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation* | Guo, Jiaxin; Luo, Yuanchang; Wei, Daimeng; Zhang, Ling; Li, Zongyao; Shang, Hengchao; Rao, Zhiqiang; Li, Shaojun; Yang, Jinlong; Wu, Zhanglin; Yang, Hao | [arXiv:2501.08523](https://arxiv.org/abs/2501.08523) - [DOI](https://doi.org/10.48550/arXiv.2501.08523) |
