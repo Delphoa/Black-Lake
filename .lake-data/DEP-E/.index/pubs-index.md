@@ -7316,3 +7316,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space* | Guo, Yiyang; Li, Ruizhe; Hui, Mude; Guo, Hanzhong; Zhang, Chen; Cai, Chuangjian; Wan, Le; Wang, Shangfei | [arXiv:2410.20824](https://arxiv.org/abs/2410.20824) - [DOI](https://doi.org/10.48550/arXiv.2410.20824) |
+
+
+## [DEP-E-20260819-Earlier Tokens Contribute](../DEP-E-20260819-Earlier%20Tokens%20Contribute/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective* | Shao, Ruichen; Li, Bei; Liu, Gangao; Chen, Yang; Zhou, Xiang; Wang, Jingang; Cai, Xunliang; Li, Peng | [arXiv:2502.14340](https://arxiv.org/abs/2502.14340) - [DOI](https://doi.org/10.48550/arXiv.2502.14340) |

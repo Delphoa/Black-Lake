@@ -18401,6 +18401,29 @@
         "https://doi.org/10.48550/arXiv.2410.20824"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Earlier Tokens Contribute",
+        ".logs/20260819-Arxiv-Earlier-Tokens-Contribute-More-Learning-Direct-LOG.md",
+        ".reports/BL-Arxiv-Earlier-Tokens-Contribute-More-Learning-Direct-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2502.14340",
+      "arxiv_id": "2502.14340",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2502.14340",
+      "normalized_title": "Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P70; draw 46897 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "Earlier-Tokens-Contribute-More-Learning-Direct",
+      "source_urls": [
+        "https://arxiv.org/abs/2502.14340",
+        "https://arxiv.org/html/2502.14340",
+        "https://arxiv.org/pdf/2502.14340",
+        "https://doi.org/10.48550/arXiv.2502.14340"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
