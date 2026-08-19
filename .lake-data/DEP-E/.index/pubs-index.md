@@ -5447,3 +5447,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey of Direct Preference Optimization* | Liu, Shunyu; Fang, Wenkai; Hu, Zetian; Zhang, Junjie; Zhou, Yang; Zhang, Kongcheng; Tu, Rongcheng; Lin, Ting-En; Huang, Fei; Song, Mingli; Li, Yongbin; Tao, Dacheng | [arXiv:2503.11701](https://arxiv.org/abs/2503.11701) - [DOI](https://doi.org/10.48550/arXiv.2503.11701) |
+
+
+## [DEP-E-20260819-GIPO Gaussian Importance](../DEP-E-20260819-GIPO%20Gaussian%20Importance/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GIPO: Gaussian Importance Sampling Policy Optimization* | Lu, Chengxuan; Zhang, Zhenquan; Wang, Shukuan; Lin, Qunzhi; Sun, Baigui; Liu, Yang | [arXiv:2603.03955](https://arxiv.org/abs/2603.03955) - [DOI](https://doi.org/10.48550/arXiv.2603.03955) |
