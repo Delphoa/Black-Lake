@@ -9871,3 +9871,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Energy-Constrained Computation Offloading in Space-Air-Ground Integrated Networks using Distributionally Robust Optimization* | Chen, Yali; Ai, Bo; Niu, Yong; Zhang, Hongliang; Han, Zhu | [arXiv:2206.02319](https://arxiv.org/abs/2206.02319) - [DOI](https://doi.org/10.48550/arXiv.2206.02319) |
+
+
+## [DEP-E-20260819-Communication- and](../DEP-E-20260819-Communication-%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Communication- and Computation-Efficient Distributed Submodular Optimization in Robot Mesh Networks* | Xu, Zirui; Garimella, Sandilya Sai; Tzoumas, Vasileios | [arXiv:2407.10382](https://arxiv.org/abs/2407.10382) - [DOI](https://doi.org/10.48550/arXiv.2407.10382) |

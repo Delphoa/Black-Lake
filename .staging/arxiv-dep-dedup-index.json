@@ -26796,6 +26796,29 @@
         "https://doi.org/10.48550/arXiv.2206.02319"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Communication- and",
+        ".logs/20260819-Arxiv-Communication-and-Computation-Efficient-LOG.md",
+        ".reports/BL-Arxiv-Communication-and-Computation-Efficient-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.10382",
+      "arxiv_id": "2407.10382",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.10382",
+      "normalized_title": "Communication- and Computation-Efficient Distributed Submodular Optimization in Robot Mesh Networks",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P435; draw 14943 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 6; focus exclusions 22; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "Communication-and-Computation-Efficient",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.10382",
+        "https://arxiv.org/html/2407.10382",
+        "https://arxiv.org/pdf/2407.10382",
+        "https://doi.org/10.48550/arXiv.2407.10382"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
