@@ -10808,3 +10808,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemWM: Memory-Augmented Text-Based World Model* | Yujun Wang; Tao Zhang; Jinhe Bi; Aniri; Wenxuan Ye; Boliang Liu; Sikuan Yan; Shuning Wang; Xuebing Zhou; Sören Pirk; Hinrich Schütze; Yunpu Ma | [arXiv:2608.07107v1](https://arxiv.org/abs/2608.07107v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07107) |
+
+
+## [DEP-A-20260819-MemOPD Policy Distillatio](../DEP-A-20260819-MemOPD%20Policy%20Distillatio/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07068-whitepaper-review.md`](../DEP-A-20260819-MemOPD%20Policy%20Distillatio/2608.07068-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents* | Zhiyuan Liu; Tinghong Ye; Chenghao Liu; Yizhuo Li; Songfang Huang | [arXiv:2608.07068v1](https://arxiv.org/abs/2608.07068v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07068) |
