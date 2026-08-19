@@ -8233,3 +8233,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning* | He, Yinhan; Zhu, Yaochen; Shi, Mingjia; Zheng, Wendy; Su, Lin; Wang, Xiaoqing; Guo, Qi; Li, Jundong | [arXiv:2602.19049](https://arxiv.org/abs/2602.19049) - [DOI](https://doi.org/10.48550/arXiv.2602.19049) |
+
+
+## [DEP-E-20260819-Exploring the Potential](../DEP-E-20260819-Exploring%20the%20Potential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring the Potential of Flexible 8-bit Format: Design and Algorithm* | Zhang, Zhuoyi; Zhang, Yunchen; Shi, Gonglei; Shen, Yu; Gong, Ruihao; Xia, Xiaoxu; Zhang, Qi; Lu, Lewei; Liu, Xianglong | [arXiv:2310.13513](https://arxiv.org/abs/2310.13513) - [DOI](https://doi.org/10.48550/arXiv.2310.13513) |
