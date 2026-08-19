@@ -11393,3 +11393,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fewer Tokens, Smaller Cache: Reward-Coordinated Efficient Reasoning* | Qiyuan Zhu; Dezhi Li; Pengyu Cheng; Tianle Chen; Jiacheng Wang; Ruijie Shen; Hao Gu; Sida Lin; Zirui Liu; Jiacheng Liu; Sirui Han | [arXiv:2608.04771v1](https://arxiv.org/abs/2608.04771v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04771) |
+
+
+## [DEP-A-20260819-Training Free Hashing Bas](../DEP-A-20260819-Training%20Free%20Hashing%20Bas/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.04405-whitepaper-review.md`](../DEP-A-20260819-Training%20Free%20Hashing%20Bas/2608.04405-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Training-Free Hashing-Based Attention via Binary Principal Components* | Daohai Yu; Zhanpeng Zeng; Keyu Chen; Wenhao Li; Zhifeng Shen; Luxi Lin; Ruizhi Qiao; Xing Sun; Rongrong Ji | [arXiv:2608.04405v1](https://arxiv.org/abs/2608.04405v1) - [DOI](https://doi.org/10.48550/arXiv.2608.04405) |
