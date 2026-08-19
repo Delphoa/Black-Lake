@@ -11105,3 +11105,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TokenPilot: Cache-Efficient Context Management for LLM Agents* | Buqiang Xu; Zirui Xue; Dianmou Chen; Chenyang Fu; Chiyu Wu; Caiying Huang; Chen Jiang; Jizhan Fang; Xinle Deng; Yijun Chen; Yunzhi Yao; Xuehai Wang; Jin Shang; Gong Yu; Ningyu Zhang | [arXiv:2606.17016v1](https://arxiv.org/abs/2606.17016v1) - [DOI](https://doi.org/10.48550/arXiv.2606.17016) |
+
+
+## [DEP-A-20260819-Scheduling Mixed RL Rollo](../DEP-A-20260819-Scheduling%20Mixed%20RL%20Rollo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.11152-whitepaper-review.md`](../DEP-A-20260819-Scheduling%20Mixed%20RL%20Rollo/2608.11152-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scheduling Mixed RL Rollouts Beyond Prefix Locality* | Zetao Hong; Song Yuan; Yuanhao Ding; Yibo Zhu; Daxin Jiang; Zhibin Wang; Chen Tian | [arXiv:2608.11152v1](https://arxiv.org/abs/2608.11152v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11152) |
