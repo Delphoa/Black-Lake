@@ -7393,3 +7393,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning Large Neighborhood Search Policy for Integer Programming* | Wu, Yaoxin; Song, Wen; Cao, Zhiguang; Zhang, Jie | [arXiv:2111.03466](https://arxiv.org/abs/2111.03466) - [DOI](https://doi.org/10.48550/arXiv.2111.03466) |
+
+
+## [DEP-E-20260819-EBPO Empirical Bayes](../DEP-E-20260819-EBPO%20Empirical%20Bayes/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization* | Han, Kevin; Zhou, Yuhang; Gao, Mingze; Zhou, Gedi; Li, Serena; Kumar, Abhishek; Fan, Xiangjun; Li, Weiwei; Zhang, Lizhu | [arXiv:2602.05165](https://arxiv.org/abs/2602.05165) - [DOI](https://doi.org/10.48550/arXiv.2602.05165) |
