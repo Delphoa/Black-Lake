@@ -11420,3 +11420,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Tabular Learners with Context-Aware Semantic Embeddings* | Günther Schindler; Maximilian Schambach; Johannes Höhne | [arXiv:2608.03565v1](https://arxiv.org/abs/2608.03565v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03565) |
+
+
+## [DEP-A-20260819-Heterogeneous LLM Serving](../DEP-A-20260819-Heterogeneous%20LLM%20Serving/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03555-whitepaper-review.md`](../DEP-A-20260819-Heterogeneous%20LLM%20Serving/2608.03555-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention* | Hyungkyu Ham; Junhyeong Bae; Seungheon Lee; Myeongjae Jeon; Gwangsun Kim | [arXiv:2608.03555v1](https://arxiv.org/abs/2608.03555v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03555) |
