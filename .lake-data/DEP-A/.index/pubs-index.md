@@ -11339,3 +11339,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation* | Jiaxin Dai; Zehang Wei; Jiamin Yan; Xiang Xiang | [arXiv:2606.07924v1](https://arxiv.org/abs/2606.07924v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07924) |
+
+
+## [DEP-A-20260819-Retrofitting Linear Atten](../DEP-A-20260819-Retrofitting%20Linear%20Atten/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06628-whitepaper-review.md`](../DEP-A-20260819-Retrofitting%20Linear%20Atten/2608.06628-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrofitting Linear Attention into Diffusion Language Models* | Jinha Kim; Younghun Roh; Jaeyeon Kim | [arXiv:2608.06628v1](https://arxiv.org/abs/2608.06628v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06628) |
