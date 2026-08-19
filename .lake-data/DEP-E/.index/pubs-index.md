@@ -9906,3 +9906,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization* | Wang, Yibo; Huzhang, Guangda; Hu, Yuwei; Xia, Yu; Lu, Shiyin; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhang, Lijun | [arXiv:2602.13653](https://arxiv.org/abs/2602.13653) - [DOI](https://doi.org/10.48550/arXiv.2602.13653) |
+
+
+## [DEP-E-20260819-Inverse Neural Operator](../DEP-E-20260819-Inverse%20Neural%20Operator/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inverse Neural Operator for ODE Parameter Optimization* | Liu, Zhi-Song; Peng, Wenqing; Toropainen, Helmi; Kheder, Ammar; Rupp, Andreas; Froning, Holger; Lin, Xiaojie; Boy, Michael | [arXiv:2603.11854](https://arxiv.org/abs/2603.11854) - [DOI](https://doi.org/10.48550/arXiv.2603.11854) |
