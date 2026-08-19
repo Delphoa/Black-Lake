@@ -8128,3 +8128,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM* | Liu, Lian; Zhao, Shixin; Li, Bing; Ren, Haimeng; Xu, Zhaohui; Wang, Mengdi; Li, Xiaowei; Han, Yinhe; Wang, Ying | [arXiv:2502.16963](https://arxiv.org/abs/2502.16963) - [DOI](https://doi.org/10.48550/arXiv.2502.16963) |
+
+
+## [DEP-E-20260819-ThinkPilot Steering](../DEP-E-20260819-ThinkPilot%20Steering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ThinkPilot: Steering Reasoning Models via Automated Think-prefixes Optimization* | Li, Sunzhu; Lin, Zhiyu; Yang, Shuling; Zhao, Jiale; Chen, Wei | [arXiv:2510.12063](https://arxiv.org/abs/2510.12063) - [DOI](https://doi.org/10.48550/arXiv.2510.12063) |

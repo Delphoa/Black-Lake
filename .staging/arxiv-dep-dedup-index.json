@@ -21069,6 +21069,29 @@
         "https://doi.org/10.48550/arXiv.2502.16963"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ThinkPilot Steering",
+        ".logs/20260819-Arxiv-ThinkPilot-Steering-Reasoning-Models-via-LOG.md",
+        ".reports/BL-Arxiv-ThinkPilot-Steering-Reasoning-Models-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.12063",
+      "arxiv_id": "2510.12063",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2510.12063",
+      "normalized_title": "ThinkPilot: Steering Reasoning Models via Automated Think-prefixes Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P186; draw 20404 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 6; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "ThinkPilot-Steering-Reasoning-Models-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.12063",
+        "https://arxiv.org/html/2510.12063",
+        "https://arxiv.org/pdf/2510.12063",
+        "https://doi.org/10.48550/arXiv.2510.12063"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
