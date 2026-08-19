@@ -18976,6 +18976,29 @@
         "https://doi.org/10.1145/3581783.3612120"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MoVerse Real-Time Video",
+        ".logs/20260819-Arxiv-MoVerse-Real-Time-Video-World-Modeling-with-LOG.md",
+        ".reports/BL-Arxiv-MoVerse-Real-Time-Video-World-Modeling-with-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.13376",
+      "arxiv_id": "2606.13376",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.13376",
+      "normalized_title": "MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P95; draw 41919 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 18; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "MoVerse-Real-Time-Video-World-Modeling-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.13376",
+        "https://arxiv.org/html/2606.13376",
+        "https://arxiv.org/pdf/2606.13376",
+        "https://doi.org/10.48550/arXiv.2606.13376"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -7491,3 +7491,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Temporal Sentence Grounding in Streaming Videos* | Gan, Tian; Wang, Xiao; Sun, Yan; Wu, Jianlong; Guo, Qingpei; Nie, Liqiang | [arXiv:2308.07102](https://arxiv.org/abs/2308.07102) - [DOI](https://doi.org/10.1145/3581783.3612120) |
+
+
+## [DEP-E-20260819-MoVerse Real-Time Video](../DEP-E-20260819-MoVerse%20Real-Time%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold* | Zhou, Yang; Wang, Ziheng; Lu, Yuqin; Liu, Haofeng; Liang, Jun; He, Shengfeng; Li, Jing | [arXiv:2606.13376](https://arxiv.org/abs/2606.13376) - [DOI](https://doi.org/10.48550/arXiv.2606.13376) |
