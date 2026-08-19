@@ -19574,6 +19574,29 @@
         "https://doi.org/10.48550/arXiv.2603.25716"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ROS package search for",
+        ".logs/20260819-Arxiv-ROS-package-search-for-robot-software-LOG.md",
+        ".reports/BL-Arxiv-ROS-package-search-for-robot-software-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.14781",
+      "arxiv_id": "2312.14781",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2312.14781",
+      "normalized_title": "ROS package search for robot software development: a knowledge graph-based approach",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P121; draw 18715 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "ROS-package-search-for-robot-software",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.14781",
+        "https://arxiv.org/html/2312.14781",
+        "https://arxiv.org/pdf/2312.14781",
+        "https://doi.org/10.48550/arXiv.2312.14781"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

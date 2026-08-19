@@ -7673,3 +7673,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models* | Chen, Kaijin; Liang, Dingkang; Zhou, Xin; Ding, Yikang; Liu, Xiaoqiang; Wan, Pengfei; Bai, Xiang | [arXiv:2603.25716](https://arxiv.org/abs/2603.25716) - [DOI](https://doi.org/10.48550/arXiv.2603.25716) |
+
+
+## [DEP-E-20260819-ROS package search for](../DEP-E-20260819-ROS%20package%20search%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ROS package search for robot software development: a knowledge graph-based approach* | Wang, Shuo; Mao, Xinjun; Yang, Shuo; Wu, Menghan; Zhang, Zhang | [arXiv:2312.14781](https://arxiv.org/abs/2312.14781) - [DOI](https://doi.org/10.48550/arXiv.2312.14781) |
