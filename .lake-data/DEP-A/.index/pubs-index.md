@@ -11069,3 +11069,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN* | Killian Cressant; Pedro B. Velloso | [arXiv:2608.09596v1](https://arxiv.org/abs/2608.09596v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09596) |
+
+
+## [DEP-A-20260819-verdi retrieval is not](../DEP-A-20260819-verdi%20retrieval%20is%20not/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09537-whitepaper-review.md`](../DEP-A-20260819-verdi%20retrieval%20is%20not/2608.09537-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *verdi: retrieval is not transfer for continual world model optimization* | Junyu Wu; Shiqin Nie; Youyi Kou; Baohua Yin; Guocai Yao; Qingyu Chen; Jingheng Ma; Shiji Zhou; Hongyong Song; Mingchen Zhuge; Sen Cui; Changshui Zhang | [arXiv:2608.09537v1](https://arxiv.org/abs/2608.09537v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09537) |
