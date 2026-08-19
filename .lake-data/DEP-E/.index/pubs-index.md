@@ -4817,3 +4817,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation* | Fang, Haoyang; Zhang, Shuai; Ma, Yifei; Wang, Hengyi; Hu, Cuixiong; Kirchhoff, Katrin; Wang, Bernie; Karypis, George | [arXiv:2603.17205](https://arxiv.org/abs/2603.17205) - [DOI](https://doi.org/10.48550/arXiv.2603.17205) |
+
+
+## [DEP-E-20260819-Optimizing](../DEP-E-20260819-Optimizing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Retrieval-augmented Reader Models via Token Elimination* | Authors listed on the public arXiv record | [arXiv:2310.13682](https://arxiv.org/abs/2310.13682) - [DOI](https://doi.org/10.48550/arXiv.2310.13682) |
