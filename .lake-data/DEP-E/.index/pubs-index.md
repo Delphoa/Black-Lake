@@ -7848,3 +7848,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning* | GigaBrain Team; Wang, Boyuan; Li, Bohan; Ni, Chaojun; Huang, Guan; Zhao, Guosheng; Li, Hao; Li, Jie; Lv, Jindi; Liu, Jingyu; Feng, Lv; Yu, Mingming; Li, Peng; Deng, Qiuping; Liu, Tianze; Zhou, Xinyu; Chen, Xinze; Wang, Xiaofeng; Wang, Yang; Li, Yifan; Nie, Yifei; Li, Yilong; Zhou, Yukun; Ye, Yun; Liu, Zhichao; Zhu, Zheng | [arXiv:2602.12099](https://arxiv.org/abs/2602.12099) - [DOI](https://doi.org/10.48550/arXiv.2602.12099) |
+
+
+## [DEP-E-20260819-AnnaAgent Dynamic](../DEP-E-20260819-AnnaAgent%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation* | Wang, Ming; Wang, Peidong; Wu, Lin; Yang, Xiaocui; Wang, Daling; Feng, Shi; Chen, Yuxin; Wang, Bixuan; Zhang, Yifei | [arXiv:2506.00551](https://arxiv.org/abs/2506.00551) - [DOI](https://doi.org/10.18653/v1/2025.findings-acl.1192) |
