@@ -9878,3 +9878,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Communication- and Computation-Efficient Distributed Submodular Optimization in Robot Mesh Networks* | Xu, Zirui; Garimella, Sandilya Sai; Tzoumas, Vasileios | [arXiv:2407.10382](https://arxiv.org/abs/2407.10382) - [DOI](https://doi.org/10.48550/arXiv.2407.10382) |
+
+
+## [DEP-E-20260819-LPO Towards Accurate GUI](../DEP-E-20260819-LPO%20Towards%20Accurate%20GUI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization* | Tang, Jiaqi; Xia, Yu; Wu, Yi-Feng; Hu, Yuwei; Chen, Yuhui; Chen, Qing-Guo; Xu, Xiaogang; Wu, Xiangyu; Lu, Hao; Ma, Yanqing; Lu, Shiyin; Chen, Qifeng | [arXiv:2506.09373](https://arxiv.org/abs/2506.09373) - [DOI](https://doi.org/10.48550/arXiv.2506.09373) |
