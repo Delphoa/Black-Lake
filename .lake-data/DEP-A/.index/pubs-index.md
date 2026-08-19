@@ -11852,3 +11852,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Breaking the Loop: An Empirical Comparison of Strategies for Novelty and Freshness in YouTube Music* | Srivaths Ranganathan; Zihuan Diao; Bernardo Cunha; Joshua L. Moore; Robin Dumas; Murat Goksedef; Yanwei Song; Mukai Lu; Gergo Varady; Tracy Pesin | [arXiv:2607.23749v1](https://arxiv.org/abs/2607.23749v1) - [DOI](https://doi.org/10.1145/3773078.3831876) |
+
+
+## [DEP-A-20260819-MonoVoc Decoupling Geomet](../DEP-A-20260819-MonoVoc%20Decoupling%20Geomet/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.28300-whitepaper-review.md`](../DEP-A-20260819-MonoVoc%20Decoupling%20Geomet/2607.28300-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians* | Pouya Ardekhani; Zahra Dehghanian; Morteza Abolghasemi; Hamid R. Rabiee | [arXiv:2607.28300v1](https://arxiv.org/abs/2607.28300v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28300) |
