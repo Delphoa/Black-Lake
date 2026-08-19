@@ -7841,3 +7841,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Batch Multi-Fidelity Bayesian Optimization with Deep Auto-Regressive Networks* | Li, Shibo; Kirby, Robert M.; Zhe, Shandian | [arXiv:2106.09884](https://arxiv.org/abs/2106.09884) - [DOI](https://doi.org/10.48550/arXiv.2106.09884) |
+
+
+## [DEP-E-20260819-GigaBrain-0 5M a VLA That](../DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning* | GigaBrain Team; Wang, Boyuan; Li, Bohan; Ni, Chaojun; Huang, Guan; Zhao, Guosheng; Li, Hao; Li, Jie; Lv, Jindi; Liu, Jingyu; Feng, Lv; Yu, Mingming; Li, Peng; Deng, Qiuping; Liu, Tianze; Zhou, Xinyu; Chen, Xinze; Wang, Xiaofeng; Wang, Yang; Li, Yifan; Nie, Yifei; Li, Yilong; Zhou, Yukun; Ye, Yun; Liu, Zhichao; Zhu, Zheng | [arXiv:2602.12099](https://arxiv.org/abs/2602.12099) - [DOI](https://doi.org/10.48550/arXiv.2602.12099) |
