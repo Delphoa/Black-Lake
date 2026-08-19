@@ -9094,3 +9094,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling* | Zhang, Yansen; Kang, Qingcan; Chen, Yujie; Wang, Yufei; Han, Xiongwei; Zhong, Tao; Yuan, Mingxuan; Ma, Chen | [arXiv:2510.05115](https://arxiv.org/abs/2510.05115) - [DOI](https://doi.org/10.48550/arXiv.2510.05115) |
+
+
+## [DEP-E-20260819-Derivative-free tree](../DEP-E-20260819-Derivative-free%20tree/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Derivative-free tree optimization for complex systems* | Wei, Ye; Peng, Bo; Xie, Ruiwen; Chen, Yangtao; Qin, Yu; Wen, Peng; Bauer, Stefan; Tung, Po-Yen | [arXiv:2404.04062](https://arxiv.org/abs/2404.04062) - [DOI](https://doi.org/10.48550/arXiv.2404.04062) |

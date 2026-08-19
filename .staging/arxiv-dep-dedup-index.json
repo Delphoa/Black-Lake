@@ -24243,6 +24243,29 @@
         "https://doi.org/10.48550/arXiv.2510.05115"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Derivative-free tree",
+        ".logs/20260819-Arxiv-Derivative-free-tree-optimization-for-complex-LOG.md",
+        ".reports/BL-Arxiv-Derivative-free-tree-optimization-for-complex-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.04062",
+      "arxiv_id": "2404.04062",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2404.04062",
+      "normalized_title": "Derivative-free tree optimization for complex systems",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P324; draw 48551 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Derivative-free-tree-optimization-for-complex",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.04062",
+        "https://arxiv.org/html/2404.04062",
+        "https://arxiv.org/pdf/2404.04062",
+        "https://doi.org/10.48550/arXiv.2404.04062"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
