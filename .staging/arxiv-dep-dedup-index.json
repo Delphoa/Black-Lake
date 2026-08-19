@@ -12329,6 +12329,29 @@
         "https://doi.org/10.48550/arXiv.1805.00428"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-AdaReP Adaptive",
+        ".logs/20260819-Arxiv-AdaReP-Adaptive-Re-Planning-under-Model-Mismatch-LOG.md",
+        ".reports/BL-Arxiv-AdaReP-Adaptive-Re-Planning-under-Model-Mismatch-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.23079",
+      "arxiv_id": "2606.23079",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.23079",
+      "normalized_title": "AdaReP:Adaptive Re-Planning under Model Mismatch for Neural World-Model Predictive Control",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P106; draw 43207 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems, algorithmic research; duplicate exclusions 0; focus exclusions 11; reselections 11; complete-source gate passed; all source files withheld locally.",
+      "slug": "AdaReP-Adaptive-Re-Planning-under-Model-Mismatch",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.23079",
+        "https://arxiv.org/html/2606.23079",
+        "https://arxiv.org/pdf/2606.23079",
+        "https://doi.org/10.48550/arXiv.2606.23079"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

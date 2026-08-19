@@ -5468,3 +5468,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Explore Recurrent Neural Network for PUE Attack Detection in Practical CRN Models* | Dong, Qi; Chen, Yu; Li, Xiaohua; Zeng, Kai | [arXiv:1805.00428](https://arxiv.org/abs/1805.00428) - [DOI](https://doi.org/10.48550/arXiv.1805.00428) |
+
+
+## [DEP-E-20260819-AdaReP Adaptive](../DEP-E-20260819-AdaReP%20Adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaReP:Adaptive Re-Planning under Model Mismatch for Neural World-Model Predictive Control* | Cheng, Yutian; Ma, Xiaojian; Wang, Xianhao; Yang, Min; Su, Rongpeng; Liu, Hangxin; Chen, Xi; Li, Shuai; Li, Qing | [arXiv:2606.23079](https://arxiv.org/abs/2606.23079) - [DOI](https://doi.org/10.48550/arXiv.2606.23079) |
