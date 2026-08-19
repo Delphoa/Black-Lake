@@ -6427,3 +6427,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Learning of Deep Retrieval Model and Product Quantization based Embedding Index* | Zhang, Han; Shen, Hongwei; Qiu, Yiming; Jiang, Yunjiang; Wang, Songlin; Xu, Sulong; Xiao, Yun; Long, Bo; Yang, Wen-Yun | [arXiv:2105.03933](https://arxiv.org/abs/2105.03933) - [DOI](https://doi.org/10.1145/3404835.3462988) |
+
+
+## [DEP-E-20260819-Error Analysis of Elitist](../DEP-E-20260819-Error%20Analysis%20of%20Elitist/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Error Analysis of Elitist Randomized Search Heuristics* | Wang, Cong; Chen, Yu; He, Jun; Xie, Chengwang | [arXiv:1909.00894](https://arxiv.org/abs/1909.00894) - [DOI](https://doi.org/10.48550/arXiv.1909.00894) |

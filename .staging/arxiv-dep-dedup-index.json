@@ -15480,6 +15480,29 @@
         "https://doi.org/10.1145/3404835.3462988"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Error Analysis of Elitist",
+        ".logs/20260819-Arxiv-Error-Analysis-of-Elitist-Randomized-Search-LOG.md",
+        ".reports/BL-Arxiv-Error-Analysis-of-Elitist-Randomized-Search-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.00894",
+      "arxiv_id": "1909.00894",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1909.00894",
+      "normalized_title": "Error Analysis of Elitist Randomized Search Heuristics",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P243; draw 49680 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Error-Analysis-of-Elitist-Randomized-Search",
+      "source_urls": [
+        "https://arxiv.org/abs/1909.00894",
+        "https://arxiv.org/html/1909.00894",
+        "https://arxiv.org/pdf/1909.00894",
+        "https://doi.org/10.48550/arXiv.1909.00894"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
