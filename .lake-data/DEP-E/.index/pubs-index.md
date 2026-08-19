@@ -7596,3 +7596,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum Feature Optimization for Enhanced Clustering of Blockchain Transaction Data* | Tsai, Yun-Cheng; Chen, Samuel Yen-Chi | [arXiv:2505.16672](https://arxiv.org/abs/2505.16672) - [DOI](https://doi.org/10.48550/arXiv.2505.16672) |
+
+
+## [DEP-E-20260819-Curriculum Proximal](../DEP-E-20260819-Curriculum%20Proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections* | Peng, Zengqi; Zhou, Xiao; Wang, Yubin; Zheng, Lei; Liu, Ming; Ma, Jun | [arXiv:2308.16445](https://arxiv.org/abs/2308.16445) - [DOI](https://doi.org/10.48550/arXiv.2308.16445) |
