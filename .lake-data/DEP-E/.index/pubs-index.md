@@ -4922,3 +4922,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online Sequence Clustering Algorithm for Video Trajectory Analysis* | Yuemaier, Aximu; Chen, Xiaogang; Qian, Xingyu; Liang, Longfei; Li, Shunfeng; Song, Zhitang | [arXiv:2305.08418](https://arxiv.org/abs/2305.08418) - [DOI](https://doi.org/10.48550/arXiv.2305.08418) |
+
+
+## [DEP-E-20260819-Efficient Global](../DEP-E-20260819-Efficient%20Global/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography* | Yang, Bowen; Cheng, Jie; Xue, Bohuan; Jiao, Jianhao; Liu, Ming | [arXiv:2403.07631](https://arxiv.org/abs/2403.07631) - [DOI](https://doi.org/10.48550/arXiv.2403.07631) |
