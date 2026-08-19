@@ -17067,6 +17067,29 @@
         "https://doi.org/10.48550/arXiv.2601.01416"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value",
+        ".logs/20260819-Arxiv-Kernel-Taylor-Based-Value-Function-Approximation-LOG.md",
+        ".reports/BL-Arxiv-Kernel-Taylor-Based-Value-Function-Approximation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2006.02008",
+      "arxiv_id": "2006.02008",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2006.02008",
+      "normalized_title": "Kernel Taylor-Based Value Function Approximation for Continuous-State Markov Decision Processes",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P12; draw 17980 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 3; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Kernel-Taylor-Based-Value-Function-Approximation",
+      "source_urls": [
+        "https://arxiv.org/abs/2006.02008",
+        "https://arxiv.org/html/2006.02008",
+        "https://arxiv.org/pdf/2006.02008",
+        "https://doi.org/10.48550/arXiv.2006.02008"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

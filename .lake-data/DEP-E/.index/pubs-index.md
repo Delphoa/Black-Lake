@@ -6910,3 +6910,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval* | Zhou, Yue; Ding, Ran; Yang, Xue; Jiang, Xue; Liu, Xingzhao | [arXiv:2601.01416](https://arxiv.org/abs/2601.01416) - [DOI](https://doi.org/10.48550/arXiv.2601.01416) |
+
+
+## [DEP-E-20260819-Kernel Taylor-Based Value](../DEP-E-20260819-Kernel%20Taylor-Based%20Value/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kernel Taylor-Based Value Function Approximation for Continuous-State Markov Decision Processes* | Xu, Junhong; Yin, Kai; Liu, Lantao | [arXiv:2006.02008](https://arxiv.org/abs/2006.02008) - [DOI](https://doi.org/10.48550/arXiv.2006.02008) |
