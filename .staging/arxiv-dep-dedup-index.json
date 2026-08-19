@@ -17573,6 +17573,29 @@
         "https://doi.org/10.48550/arXiv.2505.14117"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-VehicleMemBench An",
+        ".logs/20260819-Arxiv-VehicleMemBench-An-Executable-Benchmark-for-LOG.md",
+        ".reports/BL-Arxiv-VehicleMemBench-An-Executable-Benchmark-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.23840",
+      "arxiv_id": "2603.23840",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.23840",
+      "normalized_title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P34; draw 42215 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 6; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "VehicleMemBench-An-Executable-Benchmark-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.23840",
+        "https://arxiv.org/html/2603.23840",
+        "https://arxiv.org/pdf/2603.23840",
+        "https://doi.org/10.48550/arXiv.2603.23840"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

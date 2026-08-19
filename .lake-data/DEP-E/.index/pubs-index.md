@@ -7064,3 +7064,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Collaborative Unlabeled Data Optimization* | Shang, Xinyi; Sun, Peng; Liu, Fengyuan; Lin, Tao | [arXiv:2505.14117](https://arxiv.org/abs/2505.14117) - [DOI](https://doi.org/10.48550/arXiv.2505.14117) |
+
+
+## [DEP-E-20260819-VehicleMemBench An](../DEP-E-20260819-VehicleMemBench%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents* | Chen, Yuhao; Xu, Yi; Ding, Xinyun; Fang, Xiang; Liu, Shuochen; Lin, Luxi; Zhang, Qingyu; Li, Ya; Liu, Quan; Xu, Tong | [arXiv:2603.23840](https://arxiv.org/abs/2603.23840) - [DOI](https://doi.org/10.48550/arXiv.2603.23840) |
