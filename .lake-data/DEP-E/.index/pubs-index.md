@@ -10256,3 +10256,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling* | Ma, Songchen; Li, Hongyi; Zhang, Weihao; Tan, Yonghao; Dong, Pingcheng; Liu, Yu; Liu, Lan; Jiao, Yuzhong; Liu, Xuejiao; Liang, Luhong; Cheng, Kwang-Ting | [arXiv:2603.27624](https://arxiv.org/abs/2603.27624) - [DOI](https://doi.org/10.48550/arXiv.2603.27624) |
+
+
+## [DEP-E-20260819-QIENet Quantitative](../DEP-E-20260819-QIENet%20Quantitative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QIENet: Quantitative irradiance estimation network using recurrent neural network based on satellite remote sensing data* | Nie, Longfeng; Chen, Yuntian; Zhang, Dongxiao; Liu, Xinyue; Yuan, Wentian | [arXiv:2312.00299](https://arxiv.org/abs/2312.00299) - [DOI](https://doi.org/10.48550/arXiv.2312.00299) |
