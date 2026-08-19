@@ -7344,3 +7344,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Movable Antenna Empowered Downlink NOMA Systems: Power Allocation and Antenna Position Optimization* | Zhou, Yufeng; Chen, Wen; Wu, Qingqing; Zhu, Xusheng; Cheng, Nan | [arXiv:2405.18692](https://arxiv.org/abs/2405.18692) - [DOI](https://doi.org/10.48550/arXiv.2405.18692) |
+
+
+## [DEP-E-20260819-A Taxonomy for Neural](../DEP-E-20260819-A%20Taxonomy%20for%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Taxonomy for Neural Memory Networks* | Ma, Ying; Principe, Jose | [arXiv:1805.00327](https://arxiv.org/abs/1805.00327) - [DOI](https://doi.org/10.1109/TNNLS.2019.2926466) |
