@@ -11735,3 +11735,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Does Memory Help Multi-Trajectory Inference for Tool-Use LLM Agents?* | Xinzhe Li; Yaguang Tao | [arXiv:2605.28224v1](https://arxiv.org/abs/2605.28224v1) - [DOI](https://doi.org/10.48550/arXiv.2605.28224) |
+
+
+## [DEP-A-20260819-SearchOS V1 Towards Robus](../DEP-A-20260819-SearchOS%20V1%20Towards%20Robus/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.15257-whitepaper-review.md`](../DEP-A-20260819-SearchOS%20V1%20Towards%20Robus/2607.15257-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration* | Yuyao Zhang; Junjie Gao; Zhengxian Wu; Jiaming Fan; Jin Zhang; Shihan Ma; Yao Yao; Weiran Qi; Chuyan Jin; Guiyu Ma; Xingzhong Xu; Kai Yang; Ji-Rong Wen; Zhicheng Dou | [arXiv:2607.15257v1](https://arxiv.org/abs/2607.15257v1) - [DOI](https://doi.org/10.48550/arXiv.2607.15257) |
