@@ -9927,3 +9927,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Wings: Learning Multimodal LLMs without Text-only Forgetting* | Zhang, Yi-Kai; Lu, Shiyin; Li, Yang; Ma, Yanqing; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhan, De-Chuan; Ye, Han-Jia | [arXiv:2406.03496](https://arxiv.org/abs/2406.03496) - [DOI](https://doi.org/10.48550/arXiv.2406.03496) |
+
+
+## [DEP-E-20260819-ControlSynth Neural ODEs](../DEP-E-20260819-ControlSynth%20Neural%20ODEs/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence* | Mei, Wenjie; Zheng, Dongzhe; Li, Shihua | [arXiv:2411.02292](https://arxiv.org/abs/2411.02292) - [DOI](https://doi.org/10.48550/arXiv.2411.02292) |
