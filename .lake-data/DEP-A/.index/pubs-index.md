@@ -11807,3 +11807,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AI Agents Do Not Fail Alone:The Context Fails First* | Fouad Bousetouane | [arXiv:2607.14275v1](https://arxiv.org/abs/2607.14275v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14275) |
+
+
+## [DEP-A-20260819-MemoHarness Agent Harness](../DEP-A-20260819-MemoHarness%20Agent%20Harness/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14159-whitepaper-review.md`](../DEP-A-20260819-MemoHarness%20Agent%20Harness/2607.14159-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemoHarness: Agent Harnesses That Learn from Experience* | Yue Huang; Wenjie Wang; Han Bao; Yuchen Ma; Xiaonan Luo; Yi Nian; Haomin Zhuang; Zheyuan Liu; Yue Zhao; Xiangliang Zhang | [arXiv:2607.14159v1](https://arxiv.org/abs/2607.14159v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14159) |
