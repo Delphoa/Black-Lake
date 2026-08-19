@@ -6854,3 +6854,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval* | Chen, Yuhan; Dai, Pengwen; Wang, Chuan; Wu, Dayan; Cao, Xiaochun | [arXiv:2603.25267](https://arxiv.org/abs/2603.25267) - [DOI](https://doi.org/10.48550/arXiv.2603.25267) |
+
+
+## [DEP-E-20260819-Optimization of 06472](../DEP-E-20260819-Optimization%20of%2006472/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization of institutional incentives for cooperation in structured populations* | Wang, Shengxian; Chen, Xiaojie; Xiao, Zhilong; Szolnoki, Attila; Vasconcelos, Vítor V. | [arXiv:2301.06472](https://arxiv.org/abs/2301.06472) - [DOI](https://doi.org/10.1098/rsif.2022.0653) |
