@@ -12113,3 +12113,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Thought-Aware KV Cache Compaction for Reasoning via Adaptive Attention Matching* | Yang Liu; Bin Chong; Chongyang Zhang; Hao Zheng; Jiayu Liang; Xu Kefu | [arXiv:2608.12331v1](https://arxiv.org/abs/2608.12331v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12331) |
+
+
+## [DEP-A-20260819-Handover Context Learning](../DEP-A-20260819-Handover%20Context%20Learning/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.14528-whitepaper-review.md`](../DEP-A-20260819-Handover%20Context%20Learning/2608.14528-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Handover of In-Context Learning State Across Session Boundaries* | Masahiro Kato; Taka Kato | [arXiv:2608.14528v1](https://arxiv.org/abs/2608.14528v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14528) |
