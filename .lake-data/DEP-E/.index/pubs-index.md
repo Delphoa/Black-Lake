@@ -6847,3 +6847,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Best-$k$ Search Algorithm for Neural Text Generation* | Xu, Jiacheng; Xiong, Caiming; Savarese, Silvio; Zhou, Yingbo | [arXiv:2211.11924](https://arxiv.org/abs/2211.11924) - [DOI](https://doi.org/10.48550/arXiv.2211.11924) |
+
+
+## [DEP-E-20260819-EagleNet Energy-Aware](../DEP-E-20260819-EagleNet%20Energy-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval* | Chen, Yuhan; Dai, Pengwen; Wang, Chuan; Wu, Dayan; Cao, Xiaochun | [arXiv:2603.25267](https://arxiv.org/abs/2603.25267) - [DOI](https://doi.org/10.48550/arXiv.2603.25267) |

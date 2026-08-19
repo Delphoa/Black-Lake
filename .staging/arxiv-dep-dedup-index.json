@@ -16860,6 +16860,29 @@
         "https://doi.org/10.48550/arXiv.2211.11924"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-EagleNet Energy-Aware",
+        ".logs/20260819-Arxiv-EagleNet-Energy-Aware-Fine-Grained-Relationship-LOG.md",
+        ".reports/BL-Arxiv-EagleNet-Energy-Aware-Fine-Grained-Relationship-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.25267",
+      "arxiv_id": "2603.25267",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.25267",
+      "normalized_title": "EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P03; draw 68872 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "EagleNet-Energy-Aware-Fine-Grained-Relationship",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.25267",
+        "https://arxiv.org/html/2603.25267",
+        "https://arxiv.org/pdf/2603.25267",
+        "https://doi.org/10.48550/arXiv.2603.25267"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
