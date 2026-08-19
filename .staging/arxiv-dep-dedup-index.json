@@ -12513,6 +12513,29 @@
         "https://doi.org/10.48550/arXiv.2602.01965"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Arrows of Math Reasoning",
+        ".logs/20260819-Arxiv-Arrows-of-Math-Reasoning-Data-Synthesis-for-LOG.md",
+        ".reports/BL-Arxiv-Arrows-of-Math-Reasoning-Data-Synthesis-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.18824",
+      "arxiv_id": "2508.18824",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2508.18824",
+      "normalized_title": "Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P114; draw 66210 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 18; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "Arrows-of-Math-Reasoning-Data-Synthesis-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.18824",
+        "https://arxiv.org/html/2508.18824",
+        "https://arxiv.org/pdf/2508.18824",
+        "https://doi.org/10.48550/arXiv.2508.18824"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

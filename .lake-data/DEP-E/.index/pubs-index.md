@@ -5524,3 +5524,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation* | Lau, Kwun Hang; Zhang, Fangyuan; Ruan, Boyu; Zhou, Yingli; Guo, Qintian; Zhang, Ruiyuan; Zhou, Xiaofang | [arXiv:2602.01965](https://arxiv.org/abs/2602.01965) - [DOI](https://doi.org/10.48550/arXiv.2602.01965) |
+
+
+## [DEP-E-20260819-Arrows of Math Reasoning](../DEP-E-20260819-Arrows%20of%20Math%20Reasoning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness* | Chen, Sirui; Tian, Changxin; Hu, Binbin; Chen, Kunlong; Liu, Ziqi; Zhang, Zhiqiang; Zhou, Jun | [arXiv:2508.18824](https://arxiv.org/abs/2508.18824) - [DOI](https://doi.org/10.48550/arXiv.2508.18824) |
