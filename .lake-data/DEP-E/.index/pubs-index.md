@@ -8982,3 +8982,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization* | Liu, Hanchao; Zhang, Fang-Lue; Zhang, Shining; Mu, Tai-Jiang; Hu, Shi-Min | [arXiv:2605.08054](https://arxiv.org/abs/2605.08054) - [DOI](https://doi.org/10.48550/arXiv.2605.08054) |
+
+
+## [DEP-E-20260819-CSPO Cross-Market](../DEP-E-20260819-CSPO%20Cross-Market/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization* | Lin, Sida; Chen, Yankai; Qi, Yiyan; Ma, Chenhao; Cao, Bokai; Zhang, Yifei; Liu, Xue; Guo, Jian | [arXiv:2503.22740](https://arxiv.org/abs/2503.22740) - [DOI](https://doi.org/10.48550/arXiv.2503.22740) |
