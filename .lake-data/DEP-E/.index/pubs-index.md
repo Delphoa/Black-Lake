@@ -7302,3 +7302,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learning an Effective Premise Retrieval Model for Efficient Mathematical Formalization* | Tao, Yicheng; Liu, Haotian; Wang, Shanwen; Xu, Hongteng | [arXiv:2501.13959](https://arxiv.org/abs/2501.13959) - [DOI](https://doi.org/10.48550/arXiv.2501.13959) |
+
+
+## [DEP-E-20260819-Automated Random](../DEP-E-20260819-Automated%20Random/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Automated Random Embedding for Practical Bayesian Optimization with Unknown Effective Dimension* | Qian, Hong; Shu, Xiang; Xia, Xiang; Liu, Xuhui; Fu, Yangde; Liang, Bei; Wang, Huibin; Dou, Liang | [arXiv:2605.23473](https://arxiv.org/abs/2605.23473) - [DOI](https://doi.org/10.48550/arXiv.2605.23473) |
