@@ -10067,3 +10067,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation* | Peng, Jian; Tang, Bo; Jiang, Hao; Li, Zhuo; Lei, Yinjie; Lin, Tao; Li, Haifeng | [arXiv:1912.09091](https://arxiv.org/abs/1912.09091) - [DOI](https://doi.org/10.1109/TNNLS.2021.3056201) |
+
+
+## [DEP-E-20260819-Supervised and](../DEP-E-20260819-Supervised%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Supervised and Unsupervised Neural Network Solver for First Order Hyperbolic Nonlinear PDEs* | Baba, Zakaria; Bayen, Alexandre M.; Canesse, Alexi; Monache, Maria Laura Delle; Drieux, Martin; Fu, Zhe; Lichtlé, Nathan; Liu, Zihe; Matin, Hossein Nick Zinat; Piccoli, Benedetto | [arXiv:2601.06388](https://arxiv.org/abs/2601.06388) - [DOI](https://doi.org/10.48550/arXiv.2601.06388) |
