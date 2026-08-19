@@ -6693,3 +6693,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Convergence Analysis and Assurance for Gaussian Message Passing Iterative Detector in Massive MU-MIMO Systems* | Liu, Lei; Yuen, Chau; Guan, Yong Liang; Li, Ying; Su, Yuping | [arXiv:1606.06408](https://arxiv.org/abs/1606.06408) - [DOI](https://doi.org/10.1109/TWC.2016.2585481) |
+
+
+## [DEP-E-20260819-ROBIN Robust and](../DEP-E-20260819-ROBIN%20Robust%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization* | Huang, Huayang; Wu, Yu; Wang, Qian | [arXiv:2411.03862](https://arxiv.org/abs/2411.03862) - [DOI](https://doi.org/10.48550/arXiv.2411.03862) |
