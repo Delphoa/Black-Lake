@@ -16285,6 +16285,29 @@
         "https://doi.org/10.48550/arXiv.2302.01058"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Urban Rail Transit System",
+        ".logs/20260819-Arxiv-Urban-Rail-Transit-System-Operation-Optimization-LOG.md",
+        ".reports/BL-Arxiv-Urban-Rail-Transit-System-Operation-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1701.01810",
+      "arxiv_id": "1701.01810",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1701.01810",
+      "normalized_title": "Urban Rail Transit System Operation Optimization A Game Theoretical Methodology",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P278; draw 6082 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 6; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "Urban-Rail-Transit-System-Operation-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/1701.01810",
+        "https://arxiv.org/html/1701.01810",
+        "https://arxiv.org/pdf/1701.01810",
+        "https://doi.org/10.48550/arXiv.1701.01810"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
