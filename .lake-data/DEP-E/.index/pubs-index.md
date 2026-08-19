@@ -10235,3 +10235,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Communication-Efficient Device Scheduling for Federated Learning Using Lyapunov Optimization* | Perazzone, Jake B.; Wang, Shiqiang; Ji, Mingyue; Chan, Kevin | [arXiv:2503.00569](https://arxiv.org/abs/2503.00569) - [DOI](https://doi.org/10.48550/arXiv.2503.00569) |
+
+
+## [DEP-E-20260819-Token-Operations-Oriented](../DEP-E-20260819-Token-Operations-Oriented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Token-Operations-Oriented Inference Optimization Techniques for Large Models* | Lian, Shiguo; Wang, Kai; Liu, Zhaoxiang; Liu, Wen; Hua, Minjie; Liu, Yutong; Yan, Jiangze; Wang, Xin; Wang, Cong; Zhang, Yilin; Shen, Yi; Huang, Jieyun; Zhao, Fang; Gao, Huanlin; Chen, Ping; Yang, Xinyu; Zhao, Kaikai; Li, Yantao; Zhao, Yao; Wang, Xinggang; Zhang, Huishuai; Zhao, Dongyan; Du, Junping; Chen, Tao; Gao, Xiang; Ma, Qinghuai | [arXiv:2606.20295](https://arxiv.org/abs/2606.20295) - [DOI](https://doi.org/10.48550/arXiv.2606.20295) |
