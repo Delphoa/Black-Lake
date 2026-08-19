@@ -4957,3 +4957,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Offline Policy Optimization with a Learned Model* | Liu, Zichen; Li, Siyi; Lee, Wee Sun; Yan, Shuicheng; Xu, Zhongwen | [arXiv:2210.05980](https://arxiv.org/abs/2210.05980) - [DOI](https://doi.org/10.48550/arXiv.2210.05980) |
+
+
+## [DEP-E-20260819-CWM An Open-Weights LLM](../DEP-E-20260819-CWM%20An%20Open-Weights%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CWM: An Open-Weights LLM for Research on Code Generation with World Models* | FAIR CodeGen team; Copet, Jade; Carbonneaux, Quentin; Cohen, Gal; Gehring, Jonas; Kahn, Jacob; Kossen, Jannik; Kreuk, Felix; McMilin, Emily; Meyer, Michel; Wei, Yuxiang; Zhang, David; Zheng, Kunhao; Armengol-Estapé, Jordi; Bashiri, Pedram; Beck, Maximilian; Chambon, Pierre; Charnalia, Abhishek; Cummins, Chris; Decugis, Juliette; Fisches, Zacharias V.; Fleuret, François; Gloeckle, Fabian; Gu, Alex; Hassid, Michael; Haziza, Daniel; Idrissi, Badr Youbi; Keller, Christian; Kindi, Rahul; Leather, Hugh; Maimon, Gallil; Markosyan, Aram; Massa, Francisco; Mazaré, Pierre-Emmanuel; Mella, Vegard; Murray, Naila; Muzumdar, Keyur; O'Hearn, Peter; Pagliardini, Matteo; Pedchenko, Dmitrii; Remez, Tal; Seeker, Volker; Selvi, Marco; Sultan, Oren; Wang, Sida; Wehrstedt, Luca; Yoran, Ori; Zhang, Lingming; Cohen, Taco; Adi, Yossi; Synnaeve, Gabriel | [arXiv:2510.02387](https://arxiv.org/abs/2510.02387) - [DOI](https://doi.org/10.48550/arXiv.2510.02387) |
