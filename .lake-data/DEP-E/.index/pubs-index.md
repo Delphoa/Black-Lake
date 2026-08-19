@@ -5027,3 +5027,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins* | Liu, Zhihao; Fernandez-Ayala, Victor Nan; Wang, Tianyu; Qin, Qiang; Wang, Xi Vincent; Dimarogonas, Dimos V.; Wang, Lihui | [arXiv:2606.08214](https://arxiv.org/abs/2606.08214) - [DOI](https://doi.org/10.48550/arXiv.2606.08214) |
+
+
+## [DEP-E-20260819-ONER Online Experience](../DEP-E-20260819-ONER%20Online%20Experience/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ONER: Online Experience Replay for Incremental Anomaly Detection* | Jin, Yizhou; Zhu, Jiahui; Wang, Guodong; Li, Shiwei; Zhang, Jinjin; Liu, Xinyue; Liu, Qingjie; Wang, Yunhong | [arXiv:2412.03907](https://arxiv.org/abs/2412.03907) - [DOI](https://doi.org/10.48550/arXiv.2412.03907) |
