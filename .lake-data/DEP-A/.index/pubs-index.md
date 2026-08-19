@@ -11501,3 +11501,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories* | Yifei Li; Heng Wang; Lingling Zhang; Muye Huang; Xinyu Zhang; Jiashuai Liu; Hang Yan; Rongman Xu | [arXiv:2608.12847v1](https://arxiv.org/abs/2608.12847v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12847) |
+
+
+## [DEP-A-20260819-LeanMem Simple Efficient](../DEP-A-20260819-LeanMem%20Simple%20Efficient/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.03463-whitepaper-review.md`](../DEP-A-20260819-LeanMem%20Simple%20Efficient/2608.03463-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LeanMem: Simple and Efficient Long-Term Memory for LLM Agents* | Yuxin Liao; Le Wu; Min Hou; Hao Liu; Han Wu; Zishu Wang | [arXiv:2608.03463v1](https://arxiv.org/abs/2608.03463v1) - [DOI](https://doi.org/10.48550/arXiv.2608.03463) |
