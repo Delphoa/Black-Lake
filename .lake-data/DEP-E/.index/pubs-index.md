@@ -10011,3 +10011,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AutoPP: Towards Automated Product Poster Generation and Optimization* | Fan, Jiahao; Qin, Yuxin; Feng, Wei; Chen, Yanyin; Li, Yaoyu; Ma, Ao; Li, Yixiu; Zhuang, Li; Bian, Haoyi; Zhang, Zheng; Lv, Jingjing; Shen, Junjie; Law, Ching | [arXiv:2512.21921](https://arxiv.org/abs/2512.21921) - [DOI](https://doi.org/10.48550/arXiv.2512.21921) |
+
+
+## [DEP-E-20260819-VDPC Variational Density](../DEP-E-20260819-VDPC%20Variational%20Density/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VDPC: Variational Density Peak Clustering Algorithm* | Wang, Yizhang; Wang, Di; Zhou, You; Zhang, Xiaofeng; Quek, Chai | [arXiv:2201.00641](https://arxiv.org/abs/2201.00641) - [DOI](https://doi.org/10.48550/arXiv.2201.00641) |
