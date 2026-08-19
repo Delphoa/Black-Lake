@@ -5636,3 +5636,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning* | Yao, Yihang; Liu, Zuxin; Cen, Zhepeng; Zhu, Jiacheng; Yu, Wenhao; Zhang, Tingnan; Zhao, Ding | [arXiv:2310.03718](https://arxiv.org/abs/2310.03718) - [DOI](https://doi.org/10.48550/arXiv.2310.03718) |
+
+
+## [DEP-E-20260819-KAC Kolmogorov-Arnold](../DEP-E-20260819-KAC%20Kolmogorov-Arnold/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KAC: Kolmogorov-Arnold Classifier for Continual Learning* | Hu, Yusong; Liang, Zichen; Yang, Fei; Hou, Qibin; Liu, Xialei; Cheng, Ming-Ming | [arXiv:2503.21076](https://arxiv.org/abs/2503.21076) - [DOI](https://doi.org/10.48550/arXiv.2503.21076) |
