@@ -8450,3 +8450,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Metric-Solver: Sliding Anchored Metric Depth Estimation from a Single Image* | Wen, Tao; Wang, Jiepeng; Chen, Yabo; Xu, Shugong; Zhang, Chi; Li, Xuelong | [arXiv:2504.12103](https://arxiv.org/abs/2504.12103) - [DOI](https://doi.org/10.48550/arXiv.2504.12103) |
+
+
+## [DEP-E-20260819-Vortex Efficient](../DEP-E-20260819-Vortex%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vortex: Efficient Sample-Free Dynamic Tensor Program Optimization via Hardware-aware Strategy Space Hierarchization* | Zhou, Yangjie; Zhu, Honglin; Qiu, Qian; Cui, Weihao; Liu, Zihan; Guo, Cong; Feng, Siyuan; Meng, Jintao; Lan, Haidong; Leng, Jingwen; Zhu, Wenxi; Deng, Minwen | [arXiv:2409.01075](https://arxiv.org/abs/2409.01075) - [DOI](https://doi.org/10.48550/arXiv.2409.01075) |
