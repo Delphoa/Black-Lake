@@ -22748,6 +22748,29 @@
         "https://doi.org/10.48550/arXiv.2505.24133"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DriveFuture Future-Aware",
+        ".logs/20260819-Arxiv-DriveFuture-Future-Aware-Latent-World-Models-for-LOG.md",
+        ".reports/BL-Arxiv-DriveFuture-Future-Aware-Latent-World-Models-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2605.09701",
+      "arxiv_id": "2605.09701",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2605.09701",
+      "normalized_title": "DriveFuture: Future-Aware Latent World Models for Autonomous Driving",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P259; draw 54176 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 6; focus exclusions 45; reselections 51; complete-source gate passed; all source files withheld locally.",
+      "slug": "DriveFuture-Future-Aware-Latent-World-Models-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2605.09701",
+        "https://arxiv.org/html/2605.09701",
+        "https://arxiv.org/pdf/2605.09701",
+        "https://doi.org/10.48550/arXiv.2605.09701"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

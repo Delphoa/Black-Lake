@@ -8639,3 +8639,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *R-KV: Redundancy-aware KV Cache Compression for Reasoning Models* | Cai, Zefan; Xiao, Wen; Sun, Hanshi; Luo, Cheng; Zhang, Yikai; Wan, Ke; Li, Yucheng; Zhou, Yeyang; Chang, Li-Wen; Gu, Jiuxiang; Dong, Zhen; Anandkumar, Anima; Asi, Abedelkadir; Hu, Junjie | [arXiv:2505.24133](https://arxiv.org/abs/2505.24133) - [DOI](https://doi.org/10.48550/arXiv.2505.24133) |
+
+
+## [DEP-E-20260819-DriveFuture Future-Aware](../DEP-E-20260819-DriveFuture%20Future-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DriveFuture: Future-Aware Latent World Models for Autonomous Driving* | Hong, Yufeng; Zhou, Xiaotian; Li, Yingyan; Zhou, Xiangpo; Liu, Lin; Luo, Yadan; Xu, Shaoqing; Yang, Lei; Song, Ziying | [arXiv:2605.09701](https://arxiv.org/abs/2605.09701) - [DOI](https://doi.org/10.48550/arXiv.2605.09701) |
