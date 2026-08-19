@@ -6889,3 +6889,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation* | Lyu, Zhongyuan; Hu, Shuoyu; Liu, Lujie; Yang, Hongxia; LI, Ming | [arXiv:2602.02029](https://arxiv.org/abs/2602.02029) - [DOI](https://doi.org/10.48550/arXiv.2602.02029) |
+
+
+## [DEP-E-20260819-Maestro Learning to](../DEP-E-20260819-Maestro%20Learning%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs* | Yang, Wei; Pang, Jiacheng; Li, Shixuan; Bogdan, Paul; Tu, Stephen; Thomason, Jesse | [arXiv:2511.06134](https://arxiv.org/abs/2511.06134) - [DOI](https://doi.org/10.48550/arXiv.2511.06134) |

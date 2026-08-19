@@ -16998,6 +16998,29 @@
         "https://doi.org/10.48550/arXiv.2602.02029"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Maestro Learning to",
+        ".logs/20260819-Arxiv-Maestro-Learning-to-Collaborate-via-Conditional-LOG.md",
+        ".reports/BL-Arxiv-Maestro-Learning-to-Collaborate-via-Conditional-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.06134",
+      "arxiv_id": "2511.06134",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2511.06134",
+      "normalized_title": "Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P09; draw 49356 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 11; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "Maestro-Learning-to-Collaborate-via-Conditional",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.06134",
+        "https://arxiv.org/html/2511.06134",
+        "https://arxiv.org/pdf/2511.06134",
+        "https://doi.org/10.48550/arXiv.2511.06134"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
