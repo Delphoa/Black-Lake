@@ -10753,3 +10753,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Better and Faster End-to-End Model for Streaming ASR* | Li, Bo; Gulati, Anmol; Yu, Jiahui; Sainath, Tara N.; Chiu, Chung-Cheng; Narayanan, Arun; Chang, Shuo-Yiin; Pang, Ruoming; He, Yanzhang; Qin, James; Han, Wei; Liang, Qiao; Zhang, Yu; Strohman, Trevor; Wu, Yonghui | [arXiv:2011.10798](https://arxiv.org/abs/2011.10798) - [DOI](https://doi.org/10.48550/arXiv.2011.10798) |
+
+## [DEP-A-20260820-A Distributed Intake](../DEP-A-20260820-A%20Distributed%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Distributed%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles* | Yang, Weiyi; Liu, Xiaolu; He, Lei; Du, Yonghao; Chen, Yingwu | [arXiv:2503.08416](https://arxiv.org/abs/2503.08416) - [DOI](https://doi.org/10.48550/arXiv.2503.08416) |
