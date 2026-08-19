@@ -15319,6 +15319,29 @@
         "https://doi.org/10.48550/arXiv.2601.07296"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Heterogeneous Team",
+        ".logs/20260819-Arxiv-Heterogeneous-Team-Coordination-on-Partially-LOG.md",
+        ".reports/BL-Arxiv-Heterogeneous-Team-Coordination-on-Partially-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.22482",
+      "arxiv_id": "2410.22482",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2410.22482",
+      "normalized_title": "Heterogeneous Team Coordination on Partially Observable Graphs with Realistic Communication",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P236; draw 31024 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 3; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Heterogeneous-Team-Coordination-on-Partially",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.22482",
+        "https://arxiv.org/html/2410.22482",
+        "https://arxiv.org/pdf/2410.22482",
+        "https://doi.org/10.48550/arXiv.2410.22482"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

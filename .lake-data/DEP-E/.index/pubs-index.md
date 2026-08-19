@@ -6378,3 +6378,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LRAS: Advanced Legal Reasoning with Agentic Search* | Zhou, Yujin; Cao, Chuxue; Yang, Jinluan; Wu, Lijun; He, Conghui; Han, Sirui; Guo, Yike | [arXiv:2601.07296](https://arxiv.org/abs/2601.07296) - [DOI](https://doi.org/10.48550/arXiv.2601.07296) |
+
+
+## [DEP-E-20260819-Heterogeneous Team](../DEP-E-20260819-Heterogeneous%20Team/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heterogeneous Team Coordination on Partially Observable Graphs with Realistic Communication* | Zhou, Yanlin; Limbu, Manshi; Wang, Xuan; Shishika, Daigo; Xiao, Xuesu | [arXiv:2410.22482](https://arxiv.org/abs/2410.22482) - [DOI](https://doi.org/10.48550/arXiv.2410.22482) |
