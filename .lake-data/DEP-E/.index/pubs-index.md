@@ -8849,3 +8849,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning* | Zhang, Han; Wang, Songlin; Zhang, Kang; Tang, Zhiling; Jiang, Yunjiang; Xiao, Yun; Yan, Weipeng; Yang, Wen-Yun | [arXiv:2006.02282](https://arxiv.org/abs/2006.02282) - [DOI](https://doi.org/10.48550/arXiv.2006.02282) |
+
+
+## [DEP-E-20260819-Serp-Mamba Advancing](../DEP-E-20260819-Serp-Mamba%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model* | Wang, Hongqiu; Chen, Yixian; Chen, Wu; Xu, Huihui; Zhao, Haoyu; Sheng, Bin; Fu, Huazhu; Yang, Guang; Zhu, Lei | [arXiv:2409.04356](https://arxiv.org/abs/2409.04356) - [DOI](https://doi.org/10.48550/arXiv.2409.04356) |
