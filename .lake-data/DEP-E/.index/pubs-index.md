@@ -8072,3 +8072,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer* | Chen, Yaojian; Liu, Yong; Shi, Xinmin; Song, Jiawei; Liu, Xin; Gan, Lin; Guo, Chu; Fu, Haohuan; Gao, Jie; Chen, Dexun; Yang, Guangwen | [arXiv:2205.00393](https://arxiv.org/abs/2205.00393) - [DOI](https://doi.org/10.1145/3572848.3577529) |
+
+
+## [DEP-E-20260819-Interpreting Neural](../DEP-E-20260819-Interpreting%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Duan, Haocheng; Guo, Yuxin; Bi, Jieyi; Xie, Anqi; Li, Sirui; Ma, Yining; Wu, Cathy | [arXiv:2606.19741](https://arxiv.org/abs/2606.19741) - [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
