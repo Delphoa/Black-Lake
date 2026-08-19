@@ -4691,3 +4691,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Survey of Design Paradigms for Social Robots* | Frieske, Rita; Mo, Xiaoyu; Fang, Yini; Nieles, Jay; Shi, Bertram E. | [arXiv:2407.20556](https://arxiv.org/abs/2407.20556) - [DOI](https://doi.org/10.48550/arXiv.2407.20556) |
+
+
+## [DEP-E-20260819-Prior-Guided DETR for](../DEP-E-20260819-Prior-Guided%20DETR%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Prior-Guided DETR for Ultrasound Nodule Detection* | Wang, Jingjing; Xiao, Zhuo; Yao, Xinning; Liu, Bo; Niu, Lijuan; Bai, Xiangzhi; Zhou, Fugen | [arXiv:2601.02212](https://arxiv.org/abs/2601.02212) - [DOI](https://doi.org/10.48550/arXiv.2601.02212) |

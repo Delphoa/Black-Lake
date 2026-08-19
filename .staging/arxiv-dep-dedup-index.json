@@ -9776,6 +9776,29 @@
         "https://doi.org/10.48550/arXiv.2407.20556"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Prior-Guided DETR for",
+        ".logs/20260819-Arxiv-Prior-Guided-DETR-for-Ultrasound-Nodule-LOG.md",
+        ".reports/BL-Arxiv-Prior-Guided-DETR-for-Ultrasound-Nodule-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.02212",
+      "arxiv_id": "2601.02212",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2601.02212",
+      "normalized_title": "Prior-Guided DETR for Ultrasound Nodule Detection",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P05; draw 717 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Prior-Guided-DETR-for-Ultrasound-Nodule",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.02212",
+        "https://arxiv.org/html/2601.02212",
+        "https://arxiv.org/pdf/2601.02212",
+        "https://doi.org/10.48550/arXiv.2601.02212"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
