@@ -10995,6 +10995,29 @@
         "https://doi.org/10.1109/EMBC40787.2023.10340288"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Accelerating Min-Max",
+        ".logs/20260819-Arxiv-Accelerating-Min-Max-Optimization-via-Power-Law-LOG.md",
+        ".reports/BL-Arxiv-Accelerating-Min-Max-Optimization-via-Power-Law-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.01764",
+      "arxiv_id": "2606.01764",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.01764",
+      "normalized_title": "Accelerating Min-Max Optimization via Power-Law Stepsizes",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P48; draw 39998 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 8; reselections 9; complete-source gate passed; all source files withheld locally.",
+      "slug": "Accelerating-Min-Max-Optimization-via-Power-Law",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.01764",
+        "https://arxiv.org/html/2606.01764",
+        "https://arxiv.org/pdf/2606.01764",
+        "https://doi.org/10.48550/arXiv.2606.01764"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

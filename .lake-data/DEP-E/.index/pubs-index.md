@@ -5062,3 +5062,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Deep Learning-based in silico Framework for Optimization on Retinal Prosthetic Stimulation* | Wu, Yuli; Karetic, Ivan; Stegmaier, Johannes; Walter, Peter; Merhof, Dorit | [arXiv:2302.03570](https://arxiv.org/abs/2302.03570) - [DOI](https://doi.org/10.1109/EMBC40787.2023.10340288) |
+
+
+## [DEP-E-20260819-Accelerating Min-Max](../DEP-E-20260819-Accelerating%20Min-Max/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating Min-Max Optimization via Power-Law Stepsizes* | Wu, Yue; Zheng, Weiqiang; Cai, Yang; Luo, Haipeng | [arXiv:2606.01764](https://arxiv.org/abs/2606.01764) - [DOI](https://doi.org/10.48550/arXiv.2606.01764) |
