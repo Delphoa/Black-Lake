@@ -7050,3 +7050,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval* | Yang, Kaixing; Zhou, Xukun; Tang, Xulong; Diao, Ran; Liu, Hongyan; He, Jun; Fan, Zhaoxin | [arXiv:2310.10300](https://arxiv.org/abs/2310.10300) - [DOI](https://doi.org/10.48550/arXiv.2310.10300) |
+
+
+## [DEP-E-20260819-Fast Block Linear System](../DEP-E-20260819-Fast%20Block%20Linear%20System/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast Block Linear System Solver Using Q-Learning Schduling for Unified Dynamic Power System Simulations* | Chen, Yingshi; Song, Xinli; Dai, HanYang; Liu, Tao; Zhong, Wuzhi; Wu, Guoyang | [arXiv:2110.05843](https://arxiv.org/abs/2110.05843) - [DOI](https://doi.org/10.48550/arXiv.2110.05843) |
