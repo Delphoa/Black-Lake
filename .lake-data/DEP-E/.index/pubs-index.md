@@ -4915,3 +4915,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Trajectory Planning of Floating-Base Multi-Link Robot for Maneuvering in Confined Environments* | Chen, Yicheng; Li, Jinjie; Liu, Haokun; Luo, Zicheng; Kaneko, Kotaro; Zhao, Moju | [arXiv:2602.22459](https://arxiv.org/abs/2602.22459) - [DOI](https://doi.org/10.1109/TASE.2026.3669051) |
+
+
+## [DEP-E-20260819-Online Sequence](../DEP-E-20260819-Online%20Sequence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online Sequence Clustering Algorithm for Video Trajectory Analysis* | Yuemaier, Aximu; Chen, Xiaogang; Qian, Xingyu; Liang, Longfei; Li, Shunfeng; Song, Zhitang | [arXiv:2305.08418](https://arxiv.org/abs/2305.08418) - [DOI](https://doi.org/10.48550/arXiv.2305.08418) |
