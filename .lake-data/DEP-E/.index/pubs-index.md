@@ -6560,3 +6560,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improved Learning Rates for Stochastic Optimization* | Li, Shaojie; Tang, Pengwei; Liu, Yong | [arXiv:2107.08686](https://arxiv.org/abs/2107.08686) - [DOI](https://doi.org/10.48550/arXiv.2107.08686) |
+
+
+## [DEP-E-20260819-Practical Poisoning](../DEP-E-20260819-Practical%20Poisoning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Practical Poisoning Attacks against Retrieval-Augmented Generation* | Zhang, Baolei; Chen, Yuxi; Liu, Zhuqing; Nie, Lihai; Li, Tong; Liu, Zheli; Fang, Minghong | [arXiv:2504.03957](https://arxiv.org/abs/2504.03957) - [DOI](https://doi.org/10.48550/arXiv.2504.03957) |
