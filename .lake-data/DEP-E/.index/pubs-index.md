@@ -4943,3 +4943,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Visual-inertial state estimation based on Chebyshev polynomial optimization* | Zhang, Hongyu; Zhu, Maoran; Cai, Qi; Wu, Yuanxin | [arXiv:2404.01150](https://arxiv.org/abs/2404.01150) - [DOI](https://doi.org/10.48550/arXiv.2404.01150) |
+
+
+## [DEP-E-20260819-DomainRAG A Chinese](../DEP-E-20260819-DomainRAG%20A%20Chinese/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation* | Wang, Shuting; Liu, Jiongnan; Song, Shiren; Cheng, Jiehan; Fu, Yuqi; Guo, Peidong; Fang, Kun; Zhu, Yutao; Dou, Zhicheng | [arXiv:2406.05654](https://arxiv.org/abs/2406.05654) - [DOI](https://doi.org/10.48550/arXiv.2406.05654) |
