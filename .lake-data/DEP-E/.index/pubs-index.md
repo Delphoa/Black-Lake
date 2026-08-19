@@ -6707,3 +6707,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes: Theory to Algorithms* | Zhou, Xingyu; Wu, Fei; Tan, Jian; Sun, Yin; Shroff, Ness | [arXiv:1710.04357](https://arxiv.org/abs/1710.04357) - [DOI](https://doi.org/10.48550/arXiv.1710.04357) |
+
+
+## [DEP-E-20260819-Learning to Sequence and](../DEP-E-20260819-Learning%20to%20Sequence%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning to Sequence and Blend Robot Skills via Differentiable Optimization* | Jaquier, Noémie; Zhou, You; Starke, Julia; Asfour, Tamim | [arXiv:2206.00559](https://arxiv.org/abs/2206.00559) - [DOI](https://doi.org/10.48550/arXiv.2206.00559) |
