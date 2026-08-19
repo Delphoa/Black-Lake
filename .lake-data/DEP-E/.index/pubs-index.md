@@ -5713,3 +5713,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Model Evolution Under Zeroth-Order Optimization: A Neural Tangent Kernel Perspective* | Zhang, Chen; Cheng, Yuxin; Ding, Chenchen; Wang, Shuqi; Lei, Jingreng; Yu, Runsheng; WU, Yik-Chung; Wong, Ngai | [arXiv:2603.21169](https://arxiv.org/abs/2603.21169) - [DOI](https://doi.org/10.48550/arXiv.2603.21169) |
+
+
+## [DEP-E-20260819-Step-level Optimization](../DEP-E-20260819-Step-level%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Step-level Optimization for Efficient Computer-use Agents* | Authors listed on the public arXiv record | [arXiv:2604.27151](https://arxiv.org/abs/2604.27151) - [DOI](https://doi.org/10.48550/arXiv.2604.27151) |
