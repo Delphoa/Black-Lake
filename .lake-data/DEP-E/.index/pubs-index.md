@@ -8086,3 +8086,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Coalitional Permutation Manipulations in the Gale-Shapley Algorithm* | Shen, Weiran; Deng, Yuan; Tang, Pingzhong | [arXiv:1502.07823](https://arxiv.org/abs/1502.07823) - [DOI](https://doi.org/10.48550/arXiv.1502.07823) |
+
+
+## [DEP-E-20260819-A Learned Proximal](../DEP-E-20260819-A%20Learned%20Proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Learned Proximal Alternating Minimization Algorithm and Its Induced Network for a Class of Two-block Nonconvex and Nonsmooth Optimization* | Chen, Yunmei; Liu, Lezhi; Zhang, Lei | [arXiv:2411.06333](https://arxiv.org/abs/2411.06333) - [DOI](https://doi.org/10.48550/arXiv.2411.06333) |
