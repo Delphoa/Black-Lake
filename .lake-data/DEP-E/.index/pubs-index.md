@@ -7918,3 +7918,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Direct Estimation of Regional Wall Thicknesses via Residual Recurrent Neural Network* | Xue, Wufeng; Nachum, Ilanit Ben; Pandey, Sachin; Warrington, James; Leung, Stephanie; Li, Shuo | [arXiv:1705.09728](https://arxiv.org/abs/1705.09728) - [DOI](https://doi.org/10.48550/arXiv.1705.09728) |
+
+
+## [DEP-E-20260819-SACO Sequence-Aware](../DEP-E-20260819-SACO%20Sequence-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SACO: Sequence-Aware Constrained Optimization Framework for Coupon Distribution in E-commerce* | Kong, Li; Wang, Bingzhe; Chen, Zhou; Hu, Suhan; Ma, Yuchao; Qi, Qi; Song, Suoyuan; Jin, Bicheng | [arXiv:2508.09198](https://arxiv.org/abs/2508.09198) - [DOI](https://doi.org/10.48550/arXiv.2508.09198) |
