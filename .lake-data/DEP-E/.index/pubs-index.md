@@ -9360,3 +9360,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Deep Hierarchy Quantization Compression algorithm based on Dynamic Sampling* | Jiang, Wan; Liu, Gang; Chen, Xiaofeng; Zhou, Yipeng | [arXiv:2212.14760](https://arxiv.org/abs/2212.14760) - [DOI](https://doi.org/10.48550/arXiv.2212.14760) |
+
+
+## [DEP-E-20260819-LoRC Low-Rank Compression](../DEP-E-20260819-LoRC%20Low-Rank%20Compression/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy* | Zhang, Rongzhi; Wang, Kuang; Liu, Liyuan; Wang, Shuohang; Cheng, Hao; Zhang, Chao; Shen, Yelong | [arXiv:2410.03111](https://arxiv.org/abs/2410.03111) - [DOI](https://doi.org/10.48550/arXiv.2410.03111) |

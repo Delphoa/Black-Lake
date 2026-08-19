@@ -25117,6 +25117,29 @@
         "https://doi.org/10.48550/arXiv.2212.14760"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-LoRC Low-Rank Compression",
+        ".logs/20260819-Arxiv-LoRC-Low-Rank-Compression-for-LLMs-KV-LOG.md",
+        ".reports/BL-Arxiv-LoRC-Low-Rank-Compression-for-LLMs-KV-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.03111",
+      "arxiv_id": "2410.03111",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2410.03111",
+      "normalized_title": "LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P362; draw 44459 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 6; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "LoRC-Low-Rank-Compression-for-LLMs-KV",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.03111",
+        "https://arxiv.org/html/2410.03111",
+        "https://arxiv.org/pdf/2410.03111",
+        "https://doi.org/10.48550/arXiv.2410.03111"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
