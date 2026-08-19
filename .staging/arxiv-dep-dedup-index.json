@@ -19942,6 +19942,29 @@
         "https://doi.org/10.48550/arXiv.2606.00133"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Few-Shot Continual",
+        ".logs/20260819-Arxiv-Few-Shot-Continual-Learning-for-3D-Brain-LOG.md",
+        ".reports/BL-Arxiv-Few-Shot-Continual-Learning-for-3D-Brain-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.23533",
+      "arxiv_id": "2602.23533",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.23533",
+      "normalized_title": "Few-Shot Continual Learning for 3D Brain MRI with Frozen Foundation Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P137; draw 70680 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 14; reselections 15; complete-source gate passed; all source files withheld locally.",
+      "slug": "Few-Shot-Continual-Learning-for-3D-Brain",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.23533",
+        "https://arxiv.org/html/2602.23533",
+        "https://arxiv.org/pdf/2602.23533",
+        "https://doi.org/10.48550/arXiv.2602.23533"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
