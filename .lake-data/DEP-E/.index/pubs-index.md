@@ -5202,3 +5202,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Constrained Variational Policy Optimization for Safe Reinforcement Learning* | Liu, Zuxin; Cen, Zhepeng; Isenbaev, Vladislav; Liu, Wei; Wu, Zhiwei Steven; Li, Bo; Zhao, Ding | [arXiv:2201.11927](https://arxiv.org/abs/2201.11927) - [DOI](https://doi.org/10.48550/arXiv.2201.11927) |
+
+
+## [DEP-E-20260819-Is Non-IID Data a Threat](../DEP-E-20260819-Is%20Non-IID%20Data%20a%20Threat/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is Non-IID Data a Threat in Federated Online Learning to Rank?* | Wang, Shuyi; Zuccon, Guido | [arXiv:2204.09272](https://arxiv.org/abs/2204.09272) - [DOI](https://doi.org/10.48550/arXiv.2204.09272) |
