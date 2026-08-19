@@ -8807,3 +8807,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization* | Su, Yupeng; Zhang, Ruijie; Liu, Ziyue; Zhao, Yequan; Zhang, Zheng | [arXiv:2605.11396](https://arxiv.org/abs/2605.11396) - [DOI](https://doi.org/10.48550/arXiv.2605.11396) |
+
+
+## [DEP-E-20260819-Agent2World Learning to](../DEP-E-20260819-Agent2World%20Learning%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback* | Hu, Mengkang; Xia, Bowei; Wu, Yuran; Yu, Ailing; Zou, Yude; Chen, Qiguang; Wang, Shijian; Jin, Jiarui; Li, Kexin; Jiao, Wenxiang; Lu, Yuan; Luo, Ping | [arXiv:2512.22336](https://arxiv.org/abs/2512.22336) - [DOI](https://doi.org/10.48550/arXiv.2512.22336) |

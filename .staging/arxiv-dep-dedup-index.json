@@ -23300,6 +23300,29 @@
         "https://doi.org/10.48550/arXiv.2605.11396"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Agent2World Learning to",
+        ".logs/20260819-Arxiv-Agent2World-Learning-to-Generate-Symbolic-World-LOG.md",
+        ".reports/BL-Arxiv-Agent2World-Learning-to-Generate-Symbolic-World-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.22336",
+      "arxiv_id": "2512.22336",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2512.22336",
+      "normalized_title": "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P283; draw 15895 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 5; focus exclusions 22; reselections 27; complete-source gate passed; all source files withheld locally.",
+      "slug": "Agent2World-Learning-to-Generate-Symbolic-World",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.22336",
+        "https://arxiv.org/html/2512.22336",
+        "https://arxiv.org/pdf/2512.22336",
+        "https://doi.org/10.48550/arXiv.2512.22336"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
