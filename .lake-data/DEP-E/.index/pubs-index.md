@@ -6140,3 +6140,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Pensieve Paradigm: Stateful Language Models Mastering Their Own Context* | Liu, Xiaoyuan; Liang, Tian; Ma, Dongyang; Zhou, Deyu; Mi, Haitao; He, Pinjia; Wang, Yan | [arXiv:2602.12108](https://arxiv.org/abs/2602.12108) - [DOI](https://doi.org/10.48550/arXiv.2602.12108) |
+
+
+## [DEP-E-20260819-Distributed Quantum](../DEP-E-20260819-Distributed%20Quantum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Quantum Discrete Logarithm Algorithm* | Xu, Renjie; Qiu, Daowen; Xiao, Ligang; Luo, Le; Zhou, Xu | [arXiv:2603.26160](https://arxiv.org/abs/2603.26160) - [DOI](https://doi.org/10.48550/arXiv.2603.26160) |
