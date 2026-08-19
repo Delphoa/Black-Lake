@@ -9458,3 +9458,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks* | Chen, Tailun; He, Yu; Wang, Yan; Shao, Shuo; Zheng, Haolun; Liu, Zhihao; Li, Jinfeng; Qin, Zhizhen; Chen, Yuefeng; Chu, Zhixuan; Qin, Zhan; Ren, Kui | [arXiv:2512.08289](https://arxiv.org/abs/2512.08289) - [DOI](https://doi.org/10.48550/arXiv.2512.08289) |
+
+
+## [DEP-E-20260819-BubbleRAG Evidence-Driven](../DEP-E-20260819-BubbleRAG%20Evidence-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs* | Pan, Duyi; Lou, Tianao; Li, Xin; Song, Haoze; Wu, Yiwen; Deng, Mengyi; Yang, Mingyu; Wang, Wei | [arXiv:2603.20309](https://arxiv.org/abs/2603.20309) - [DOI](https://doi.org/10.48550/arXiv.2603.20309) |
