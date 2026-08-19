@@ -7554,3 +7554,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Robust Optimization for Fairness with Noisy Protected Groups* | Wang, Serena; Guo, Wenshuo; Narasimhan, Harikrishna; Cotter, Andrew; Gupta, Maya; Jordan, Michael I. | [arXiv:2002.09343](https://arxiv.org/abs/2002.09343) - [DOI](https://doi.org/10.48550/arXiv.2002.09343) |
+
+
+## [DEP-E-20260819-A Survey on Inference](../DEP-E-20260819-A%20Survey%20on%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey on Inference Optimization Techniques for Mixture of Experts Models* | Liu, Jiacheng; Tang, Peng; Wang, Wenfeng; Ren, Yuhang; Hou, Xiaofeng; Heng, Pheng-Ann; Guo, Minyi; Li, Chao | [arXiv:2412.14219](https://arxiv.org/abs/2412.14219) - [DOI](https://doi.org/10.1145/3794845) |
