@@ -7477,3 +7477,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations* | Neyshabur, Behnam; Wu, Yuhuai; Salakhutdinov, Ruslan; Srebro, Nathan | [arXiv:1605.07154](https://arxiv.org/abs/1605.07154) - [DOI](https://doi.org/10.48550/arXiv.1605.07154) |
+
+
+## [DEP-E-20260819-CLUE Non-parametric](../DEP-E-20260819-CLUE%20Non-parametric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLUE: Non-parametric Verification from Experience via Hidden-State Clustering* | Liang, Zhenwen; Li, Ruosen; Zhou, Yujun; Song, Linfeng; Yu, Dian; Du, Xinya; Mi, Haitao; Yu, Dong | [arXiv:2510.01591](https://arxiv.org/abs/2510.01591) - [DOI](https://doi.org/10.48550/arXiv.2510.01591) |
