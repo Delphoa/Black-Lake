@@ -10123,3 +10123,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration* | Yang, Zheming; Ji, Wen; Guo, Qi; Hu, Dieli; Zhao, Chang; Li, Xiaowei; Zhao, Xuanlei; Zhao, Yi; Gong, Chaoyu; You, Yang | [arXiv:2502.04078](https://arxiv.org/abs/2502.04078) - [DOI](https://doi.org/10.48550/arXiv.2502.04078) |
+
+
+## [DEP-E-20260819-Adaptive dynamic](../DEP-E-20260819-Adaptive%20dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive dynamic programming for nonaffine nonlinear optimal control problem with state constraints* | Duan, Jingliang; Liu, Zhengyu; Li, Shengbo Eben; Sun, Qi; Jia, Zhenzhong; Cheng, Bo | [arXiv:1911.11397](https://arxiv.org/abs/1911.11397) - [DOI](https://doi.org/10.1016/j.neucom.2021.04.134) |

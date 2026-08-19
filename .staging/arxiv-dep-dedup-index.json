@@ -27624,6 +27624,29 @@
         "https://doi.org/10.48550/arXiv.2502.04078"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Adaptive dynamic",
+        ".logs/20260819-Arxiv-Adaptive-dynamic-programming-for-nonaffine-LOG.md",
+        ".reports/BL-Arxiv-Adaptive-dynamic-programming-for-nonaffine-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1911.11397",
+      "arxiv_id": "1911.11397",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1016/j.neucom.2021.04.134",
+      "normalized_title": "Adaptive dynamic programming for nonaffine nonlinear optimal control problem with state constraints",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P471; draw 53154 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adaptive-dynamic-programming-for-nonaffine",
+      "source_urls": [
+        "https://arxiv.org/abs/1911.11397",
+        "https://arxiv.org/html/1911.11397",
+        "https://arxiv.org/pdf/1911.11397",
+        "https://doi.org/10.1016/j.neucom.2021.04.134"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
