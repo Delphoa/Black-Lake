@@ -11593,6 +11593,29 @@
         "https://doi.org/10.48550/arXiv.2502.16886"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Online Continual Learning",
+        ".logs/20260819-Arxiv-Online-Continual-Learning-with-Contrastive-LOG.md",
+        ".reports/BL-Arxiv-Online-Continual-Learning-with-Contrastive-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2207.13516",
+      "arxiv_id": "2207.13516",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2207.13516",
+      "normalized_title": "Online Continual Learning with Contrastive Vision Transformer",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P74; draw 12287 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 16; reselections 17; complete-source gate passed; all source files withheld locally.",
+      "slug": "Online-Continual-Learning-with-Contrastive",
+      "source_urls": [
+        "https://arxiv.org/abs/2207.13516",
+        "https://arxiv.org/html/2207.13516",
+        "https://arxiv.org/pdf/2207.13516",
+        "https://doi.org/10.48550/arXiv.2207.13516"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
