@@ -10970,3 +10970,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents* | Zihao Deng; Yining Zhu; Leiming Wang; Jingfei Lu; Junbo Wang; Chuncheng Ran; Yu Yang; Dixuan Yang; Jikun Shen | [arXiv:2608.09044v1](https://arxiv.org/abs/2608.09044v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09044) |
+
+
+## [DEP-A-20260819-Don t Scroll Back](../DEP-A-20260819-Don%20t%20Scroll%20Back/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09043-whitepaper-review.md`](../DEP-A-20260819-Don%20t%20Scroll%20Back/2608.09043-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Don't Scroll Back: Missing-Evidence Memory for Streaming Dialogue Summarization* | Hyangsuk Min; Hwanjun Song | [arXiv:2608.09043v1](https://arxiv.org/abs/2608.09043v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09043) |
