@@ -9430,3 +9430,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unified Dominance Graph for Interval-Predicate Approximate Nearest Neighbor Search* | Lau, Kwun Hang; Zhang, Ruiyuan; Li, Elton Chun-Chai; Chan, Wun Yu; Cheng, Xiaojun; Zhou, Xiaofang | [arXiv:2606.24204](https://arxiv.org/abs/2606.24204) - [DOI](https://doi.org/10.48550/arXiv.2606.24204) |
+
+
+## [DEP-E-20260819-Stochastic Gradient MCMC](../DEP-E-20260819-Stochastic%20Gradient%20MCMC/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stochastic Gradient MCMC for State Space Models* | Aicher, Christopher; Ma, Yi-An; Foti, Nicholas J.; Fox, Emily B. | [arXiv:1810.09098](https://arxiv.org/abs/1810.09098) - [DOI](https://doi.org/10.48550/arXiv.1810.09098) |
