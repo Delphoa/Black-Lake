@@ -7351,3 +7351,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Taxonomy for Neural Memory Networks* | Ma, Ying; Principe, Jose | [arXiv:1805.00327](https://arxiv.org/abs/1805.00327) - [DOI](https://doi.org/10.1109/TNNLS.2019.2926466) |
+
+
+## [DEP-E-20260819-Offline Multi-Agent](../DEP-E-20260819-Offline%20Multi-Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization* | Liu, Zongkai; Lin, Qian; Yu, Chao; Wu, Xiawei; Liang, Yile; Li, Donghui; Ding, Xuetao | [arXiv:2412.07639](https://arxiv.org/abs/2412.07639) - [DOI](https://doi.org/10.48550/arXiv.2412.07639) |
