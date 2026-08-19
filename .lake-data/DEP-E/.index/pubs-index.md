@@ -8366,3 +8366,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning* | Liu, Xiaoqian; Wang, Ke; Li, Yongbin; Wu, Yuchuan; Ma, Wentao; Kong, Aobo; Huang, Fei; Jiao, Jianbin; Zhang, Junge | [arXiv:2502.12486](https://arxiv.org/abs/2502.12486) - [DOI](https://doi.org/10.48550/arXiv.2502.12486) |
+
+
+## [DEP-E-20260819-DynamicPO Dynamic](../DEP-E-20260819-DynamicPO%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynamicPO: Dynamic Preference Optimization for Recommendation* | Hu, Xingyu; Zhang, Kai; Wu, Jiancan; Wang, Shuli; Wang, Chi; Chen, Wenshuai; Zhu, Yinhua; Wang, Haitao; Wang, Xingxing; Wang, Xiang | [arXiv:2605.00327](https://arxiv.org/abs/2605.00327) - [DOI](https://doi.org/10.48550/arXiv.2605.00327) |
