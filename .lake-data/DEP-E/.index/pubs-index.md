@@ -5300,3 +5300,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Perception-Aware Policy Optimization for Multimodal Reasoning* | Wang, Zhenhailong; Guo, Xuehang; Stoica, Sofia; Xu, Haiyang; Wang, Hongru; Ha, Hyeonjeong; Chen, Xiusi; Chen, Yangyi; Yan, Ming; Huang, Fei; Ji, Heng | [arXiv:2507.06448](https://arxiv.org/abs/2507.06448) - [DOI](https://doi.org/10.48550/arXiv.2507.06448) |
+
+
+## [DEP-E-20260819-Decentralized](../DEP-E-20260819-Decentralized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decentralized Sum-of-Nonconvex Optimization* | Liu, Zhuanghua; Low, Bryan Kian Hsiang | [arXiv:2402.02356](https://arxiv.org/abs/2402.02356) - [DOI](https://doi.org/10.48550/arXiv.2402.02356) |
