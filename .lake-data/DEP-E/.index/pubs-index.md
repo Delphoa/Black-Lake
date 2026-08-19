@@ -8289,3 +8289,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems* | Ye, Hancheng; Gao, Zhengqi; Ma, Mingyuan; Wang, Qinsi; Fu, Yuzhe; Chung, Ming-Yu; Lin, Yueqian; Liu, Zhijian; Zhang, Jianyi; Zhuo, Danyang; Chen, Yiran | [arXiv:2510.12872](https://arxiv.org/abs/2510.12872) - [DOI](https://doi.org/10.48550/arXiv.2510.12872) |
+
+
+## [DEP-E-20260819-CoopGuard Stateful](../DEP-E-20260819-CoopGuard%20Stateful/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks* | Li, Siyuan; Liu, Zehao; Lin, Xi; Mao, Qinghua; Chen, Yuliang; Li, Haoyu; Wu, Jun; Li, Jianhua; Su, Xiu | [arXiv:2604.04060](https://arxiv.org/abs/2604.04060) - [DOI](https://doi.org/10.48550/arXiv.2604.04060) |
