@@ -11060,3 +11060,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HaloMark: A Spectral Threshold for Embedding-Vector Watermarking under C2PA* | Tarun Sharma | [arXiv:2608.08645v1](https://arxiv.org/abs/2608.08645v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08645) |
+
+
+## [DEP-A-20260819-LEED Local Embedding Evol](../DEP-A-20260819-LEED%20Local%20Embedding%20Evol/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09596-whitepaper-review.md`](../DEP-A-20260819-LEED%20Local%20Embedding%20Evol/2608.09596-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN* | Killian Cressant; Pedro B. Velloso | [arXiv:2608.09596v1](https://arxiv.org/abs/2608.09596v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09596) |
