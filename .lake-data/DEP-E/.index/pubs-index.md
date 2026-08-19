@@ -4852,3 +4852,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented Foundation Models for Water Level Prediction in the Everglades* | Rangaraj, Rahuul; Shi, Jimeng; Paudel, Rajendra; Narasimhan, Giri; Wu, Yanzhao | [arXiv:2508.04888](https://arxiv.org/abs/2508.04888) - [DOI](https://doi.org/10.1145/3770855.3818897) |
+
+
+## [DEP-E-20260819-Farthest Greedy Path](../DEP-E-20260819-Farthest%20Greedy%20Path/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Farthest Greedy Path Sampling for Two-shot Recommender Search* | Cao, Yufan; Zhang, Tunhou; Wen, Wei; Yan, Feng; Li, Hai; Chen, Yiran | [arXiv:2310.20705](https://arxiv.org/abs/2310.20705) - [DOI](https://doi.org/10.48550/arXiv.2310.20705) |
