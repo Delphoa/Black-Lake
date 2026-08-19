@@ -7295,3 +7295,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Random gradient extrapolation for distributed and stochastic optimization* | Lan, Guanghui; Zhou, Yi | [arXiv:1711.05762](https://arxiv.org/abs/1711.05762) - [DOI](https://doi.org/10.48550/arXiv.1711.05762) |
+
+
+## [DEP-E-20260819-Learning an Effective](../DEP-E-20260819-Learning%20an%20Effective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning an Effective Premise Retrieval Model for Efficient Mathematical Formalization* | Tao, Yicheng; Liu, Haotian; Wang, Shanwen; Xu, Hongteng | [arXiv:2501.13959](https://arxiv.org/abs/2501.13959) - [DOI](https://doi.org/10.48550/arXiv.2501.13959) |

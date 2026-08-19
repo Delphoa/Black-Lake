@@ -18332,6 +18332,29 @@
         "https://doi.org/10.48550/arXiv.1711.05762"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Learning an Effective",
+        ".logs/20260819-Arxiv-Learning-an-Effective-Premise-Retrieval-Model-LOG.md",
+        ".reports/BL-Arxiv-Learning-an-Effective-Premise-Retrieval-Model-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.13959",
+      "arxiv_id": "2501.13959",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2501.13959",
+      "normalized_title": "Learning an Effective Premise Retrieval Model for Efficient Mathematical Formalization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P67; draw 29859 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 4; focus exclusions 25; reselections 29; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-an-Effective-Premise-Retrieval-Model",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.13959",
+        "https://arxiv.org/html/2501.13959",
+        "https://arxiv.org/pdf/2501.13959",
+        "https://doi.org/10.48550/arXiv.2501.13959"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
