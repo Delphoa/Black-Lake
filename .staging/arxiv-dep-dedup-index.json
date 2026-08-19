@@ -20471,6 +20471,29 @@
         "https://doi.org/10.48550/arXiv.2308.04126"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Improving General",
+        ".logs/20260819-Arxiv-Improving-General-Role-Playing-Agents-via-LOG.md",
+        ".reports/BL-Arxiv-Improving-General-Role-Playing-Agents-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.27025",
+      "arxiv_id": "2606.27025",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.27025",
+      "normalized_title": "Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P160; draw 29636 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Improving-General-Role-Playing-Agents-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.27025",
+        "https://arxiv.org/html/2606.27025",
+        "https://arxiv.org/pdf/2606.27025",
+        "https://doi.org/10.48550/arXiv.2606.27025"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

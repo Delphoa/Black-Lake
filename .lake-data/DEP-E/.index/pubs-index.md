@@ -7946,3 +7946,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation* | Yu, Dongyang; Wang, Shihao; Fang, Yuan; An, Wangpeng | [arXiv:2308.04126](https://arxiv.org/abs/2308.04126) - [DOI](https://doi.org/10.48550/arXiv.2308.04126) |
+
+
+## [DEP-E-20260819-Improving General](../DEP-E-20260819-Improving%20General/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization* | Xu, Zhenhua; Chen, Dongsheng; Li, Jian; Lin, Yitong; Wang, Zhebo; Wu, Jiafu; Jin, Yizhang; Wang, Chengjie; Han, Meng; Wang, Yabiao | [arXiv:2606.27025](https://arxiv.org/abs/2606.27025) - [DOI](https://doi.org/10.48550/arXiv.2606.27025) |
