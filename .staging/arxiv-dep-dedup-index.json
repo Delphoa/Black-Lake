@@ -17389,6 +17389,29 @@
         "https://doi.org/10.48550/arXiv.2605.10230"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-DRIVE Distributional and",
+        ".logs/20260819-Arxiv-DRIVE-Distributional-and-Retrieval-Augmented-LOG.md",
+        ".reports/BL-Arxiv-DRIVE-Distributional-and-Retrieval-Augmented-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.14192",
+      "arxiv_id": "2606.14192",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.14192",
+      "normalized_title": "DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P26; draw 50600 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 7; focus exclusions 32; reselections 39; complete-source gate passed; all source files withheld locally.",
+      "slug": "DRIVE-Distributional-and-Retrieval-Augmented",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.14192",
+        "https://arxiv.org/html/2606.14192",
+        "https://arxiv.org/pdf/2606.14192",
+        "https://doi.org/10.48550/arXiv.2606.14192"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
