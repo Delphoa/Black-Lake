@@ -8765,3 +8765,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Distributionally Robust Boosting Algorithm* | Blanchet, Jose; Kang, Yang; Zhang, Fan; Hu, Zhangyi | [arXiv:1905.07845](https://arxiv.org/abs/1905.07845) - [DOI](https://doi.org/10.1109/WSC40007.2019.9004804) |
+
+
+## [DEP-E-20260819-Movable Antenna-Aided](../DEP-E-20260819-Movable%20Antenna-Aided/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Movable Antenna-Aided Secure LEO Satellite Networks: Joint Antenna Position and Beamforming Optimization* | Luo, Suhong; Tang, Pan; Zhang, Jianhua; Wang, Ji; Li, Yixuan; Ding, Zihang; Li, Xingwang | [arXiv:2605.18099](https://arxiv.org/abs/2605.18099) - [DOI](https://doi.org/10.48550/arXiv.2605.18099) |
