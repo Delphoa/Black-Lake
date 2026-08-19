@@ -6329,3 +6329,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration* | Wang, Sen; Liu, Bangwei; Gao, Zhenkun; Ma, Lizhuang; Wang, Xuhong; Xie, Yuan; Tan, Xin | [arXiv:2601.10744](https://arxiv.org/abs/2601.10744) - [DOI](https://doi.org/10.48550/arXiv.2601.10744) |
+
+
+## [DEP-E-20260819-M 4 -SAM Multi-Modal](../DEP-E-20260819-M%204%20-SAM%20Multi-Modal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection* | Liu, Jiyuan; Lin, Jia; Zhou, Xiaofei; Cong, Runmin; Liu, Deyang; Liu, Zhi | [arXiv:2605.11760](https://arxiv.org/abs/2605.11760) - [DOI](https://doi.org/10.48550/arXiv.2605.11760) |
