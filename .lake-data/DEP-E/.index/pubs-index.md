@@ -13,6 +13,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Reviewed publications
 
+## [DEP-E-20260820-Quantum Repeater](../DEP-E-20260820-Quantum%20Repeater/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Absorption-emission quantum repeater using diamond quantum memories* | Taichi Fujiwara; Yuhei Sekiguchi; Raustin Reyes; Toshiharu Makino; Hiromitsu Kato; Hideo Kosaka | [arXiv:2608.17470v1](https://arxiv.org/abs/2608.17470); [DOI](https://doi.org/10.48550/arXiv.2608.17470) | [DEP-E](../DEP-E-20260820-Quantum%20Repeater/README.md) |
+
 ## [DEP-E-20260818-DHR Retrieval](../DEP-E-20260818-DHR%20Retrieval/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |
