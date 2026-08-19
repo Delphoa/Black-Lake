@@ -9612,3 +9612,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval* | Ma, Guangyuan; Ma, Yongliang; Wu, Xing; Su, Zhenpeng; Zhou, Ming; Hu, Songlin | [arXiv:2408.10613](https://arxiv.org/abs/2408.10613) - [DOI](https://doi.org/10.48550/arXiv.2408.10613) |
+
+
+## [DEP-E-20260819-Rethinking Memory](../DEP-E-20260819-Rethinking%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents* | Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; Tan, Zhen; Wang, Yu; Wei, Tianxin; Wu, Shanglin; Xu, Ruiyao; Yang, Liangwei; Yang, Rui; Yang, Wooseong; Yeh, Chin-Yuan; Zhang, Hanrong; Zhang, Haozhen; Zhu, Siqi; Zou, Henry Peng; Zhao, Wanjia; Wang, Song; Xu, Wujiang; Ke, Zixuan; Hui, Zheng; Li, Dawei; Wu, Yaozu; He, Langzhou; Wang, Chen; Xu, Xiongxiao; Huang, Baixiang; Tan, Juntao; Heinecke, Shelby; Wang, Huan; Xiong, Caiming; Metwally, Ahmed A.; Yan, Jun; Lee, Chen-Yu; Zeng, Hanqing; Xia, Yinglong; Wei, Xiaokai; Payani, Ali; Wang, Yu; Ma, Haitong; Wang, Wenya; Wang, Chenguang; Zhang, Yu; Wang, Xin Eric; Zhang, Yongfeng; You, Jiaxuan; Tong, Hanghang; Luo, Xiao; Liu, Xue; Sun, Yizhou; Wang, Wei; McAuley, Julian; Zou, James; Han, Jiawei; Yu, Philip S.; Shu, Kai | [arXiv:2602.06052](https://arxiv.org/abs/2602.06052) - [DOI](https://doi.org/10.48550/arXiv.2602.06052) |
