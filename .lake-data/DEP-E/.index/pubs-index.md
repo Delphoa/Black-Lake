@@ -10116,3 +10116,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Energy-Delay Tradeoff in Helper-Assisted NOMA-MEC Systems: A Four-Sided Matching Algorithm* | Ren, Mengmeng; Yang, Long; Jiang, Hai; Chen, Jian; Zhou, Yuchen | [arXiv:2301.10624](https://arxiv.org/abs/2301.10624) - [DOI](https://doi.org/10.48550/arXiv.2301.10624) |
+
+
+## [DEP-E-20260819-CDIO Cross-Domain](../DEP-E-20260819-CDIO%20Cross-Domain/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration* | Yang, Zheming; Ji, Wen; Guo, Qi; Hu, Dieli; Zhao, Chang; Li, Xiaowei; Zhao, Xuanlei; Zhao, Yi; Gong, Chaoyu; You, Yang | [arXiv:2502.04078](https://arxiv.org/abs/2502.04078) - [DOI](https://doi.org/10.48550/arXiv.2502.04078) |
