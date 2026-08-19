@@ -5307,3 +5307,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decentralized Sum-of-Nonconvex Optimization* | Liu, Zhuanghua; Low, Bryan Kian Hsiang | [arXiv:2402.02356](https://arxiv.org/abs/2402.02356) - [DOI](https://doi.org/10.48550/arXiv.2402.02356) |
+
+
+## [DEP-E-20260819-MambaDS Near-Surface](../DEP-E-20260819-MambaDS%20Near-Surface/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling* | Liu, Zili; Chen, Hao; Bai, Lei; Li, Wenyuan; Ouyang, Wanli; Zou, Zhengxia; Shi, Zhenwei | [arXiv:2408.10854](https://arxiv.org/abs/2408.10854) - [DOI](https://doi.org/10.48550/arXiv.2408.10854) |

@@ -11800,6 +11800,29 @@
         "https://doi.org/10.48550/arXiv.2402.02356"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MambaDS Near-Surface",
+        ".logs/20260819-Arxiv-MambaDS-Near-Surface-Meteorological-Field-LOG.md",
+        ".reports/BL-Arxiv-MambaDS-Near-Surface-Meteorological-Field-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2408.10854",
+      "arxiv_id": "2408.10854",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2408.10854",
+      "normalized_title": "MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P83; draw 61058 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 12; reselections 12; complete-source gate passed; all source files withheld locally.",
+      "slug": "MambaDS-Near-Surface-Meteorological-Field",
+      "source_urls": [
+        "https://arxiv.org/abs/2408.10854",
+        "https://arxiv.org/html/2408.10854",
+        "https://arxiv.org/pdf/2408.10854",
+        "https://doi.org/10.48550/arXiv.2408.10854"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
