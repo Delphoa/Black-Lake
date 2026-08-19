@@ -19022,6 +19022,29 @@
         "https://doi.org/10.48550/arXiv.2506.13589"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Bit Rate Matching",
+        ".logs/20260819-Arxiv-Bit-Rate-Matching-Algorithm-Optimization-in-JPEG-LOG.md",
+        ".reports/BL-Arxiv-Bit-Rate-Matching-Algorithm-Optimization-in-JPEG-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2402.17487",
+      "arxiv_id": "2402.17487",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2402.17487",
+      "normalized_title": "Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P97; draw 16705 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 7; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "Bit-Rate-Matching-Algorithm-Optimization-in-JPEG",
+      "source_urls": [
+        "https://arxiv.org/abs/2402.17487",
+        "https://arxiv.org/html/2402.17487",
+        "https://arxiv.org/pdf/2402.17487",
+        "https://doi.org/10.48550/arXiv.2402.17487"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

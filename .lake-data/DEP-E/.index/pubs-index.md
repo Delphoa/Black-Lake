@@ -7505,3 +7505,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding* | Xue, Zhucun; Zhang, Jiangning; Xie, Xurong; Cai, Yuxuan; Liu, Yong; Li, Xiangtai; Tao, Dacheng | [arXiv:2506.13589](https://arxiv.org/abs/2506.13589) - [DOI](https://doi.org/10.48550/arXiv.2506.13589) |
+
+
+## [DEP-E-20260819-Bit Rate Matching](../DEP-E-20260819-Bit%20Rate%20Matching/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model* | Jia, Panqi; Koyuncu, A. Burakhan; Mao, Jue; Cui, Ze; Ma, Yi; Guo, Tiansheng; Solovyev, Timofey; Karabutov, Alexander; Zhao, Yin; Wang, Jing; Alshina, Elena; Kaup, Andre | [arXiv:2402.17487](https://arxiv.org/abs/2402.17487) - [DOI](https://doi.org/10.48550/arXiv.2402.17487) |
