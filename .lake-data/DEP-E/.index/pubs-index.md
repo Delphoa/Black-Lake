@@ -9423,3 +9423,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent* | Wang, Shuche; Tan, Vincent Y. F. | [arXiv:2407.14111](https://arxiv.org/abs/2407.14111) - [DOI](https://doi.org/10.48550/arXiv.2407.14111) |
+
+
+## [DEP-E-20260819-Unified Dominance Graph](../DEP-E-20260819-Unified%20Dominance%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unified Dominance Graph for Interval-Predicate Approximate Nearest Neighbor Search* | Lau, Kwun Hang; Zhang, Ruiyuan; Li, Elton Chun-Chai; Chan, Wun Yu; Cheng, Xiaojun; Zhou, Xiaofang | [arXiv:2606.24204](https://arxiv.org/abs/2606.24204) - [DOI](https://doi.org/10.48550/arXiv.2606.24204) |
