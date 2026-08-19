@@ -7715,3 +7715,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Reliability Performance of Diffusion-based Molecular Communication With Adaptive Threshold Variation Algorithm* | He, Peng; Mao, Yuming; Liu, Qiang; Yang, Kun | [arXiv:1508.00982](https://arxiv.org/abs/1508.00982) - [DOI](https://doi.org/10.48550/arXiv.1508.00982) |
+
+
+## [DEP-E-20260819-Co-design Hardware and](../DEP-E-20260819-Co-design%20Hardware%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Co-design Hardware and Algorithm for Vector Search* | Jiang, Wenqi; Li, Shigang; Zhu, Yu; Licht, Johannes de Fine; He, Zhenhao; Shi, Runbin; Renggli, Cedric; Zhang, Shuai; Rekatsinas, Theodoros; Hoefler, Torsten; Alonso, Gustavo | [arXiv:2306.11182](https://arxiv.org/abs/2306.11182) - [DOI](https://doi.org/10.48550/arXiv.2306.11182) |
