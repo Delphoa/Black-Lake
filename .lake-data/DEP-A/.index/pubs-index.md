@@ -11789,3 +11789,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CatalogAgent: A Supervisor-mediated Self-Learning System Enabling Context Engineering for GenAI Models* | Zhu Cheng; Zhenming Wang; Tang; Dan Liu; Bryan Zhang; Athanasios N. Nikolakopoulos; Pranav Souri Itabada; Jing Zhang; Chih-Chi Chou; Peng Gao; Fatemeh Mansoori; Bharat Bojja; Sarath Chander; Sameer Thombare; Umit Batur; Tarik Arici | [arXiv:2607.14396v1](https://arxiv.org/abs/2607.14396v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14396) |
+
+
+## [DEP-A-20260819-Why Git Is Memory](../DEP-A-20260819-Why%20Git%20Is%20Memory/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14390-whitepaper-review.md`](../DEP-A-20260819-Why%20Git%20Is%20Memory/2607.14390-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Why Git Is the Memory Solution for the Agentic Development Lifecycle* | Frank Guo | [arXiv:2607.14390v1](https://arxiv.org/abs/2607.14390v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14390) |
