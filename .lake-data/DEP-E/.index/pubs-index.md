@@ -6070,3 +6070,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer* | Du, Guodong; Fang, Zitao; Li, Jing; Li, Junlin; Jiang, Runhua; Yu, Shuyang; Guo, Yifei; Chen, Yangneng; Goh, Sim Kuan; Tang, Ho-Kin; He, Daojing; Liu, Honghai; Zhang, Min | [arXiv:2505.18713](https://arxiv.org/abs/2505.18713) - [DOI](https://doi.org/10.48550/arXiv.2505.18713) |
+
+
+## [DEP-E-20260819-An Efficient Dynamic](../DEP-E-20260819-An%20Efficient%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Dynamic Programming Algorithm for STR-IC-SEQ-EC-LCS Problem* | Zhu, Daxin; Wang, Lei; Wu, Yingjie; Wang, Xiaodong | [arXiv:1506.00063](https://arxiv.org/abs/1506.00063) - [DOI](https://doi.org/10.48550/arXiv.1506.00063) |
