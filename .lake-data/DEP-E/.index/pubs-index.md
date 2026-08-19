@@ -6994,3 +6994,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Quantum SMT Solver for Bit-Vector Theory* | Lin, Shang-Wei; Chen, Si-Han; Wang, Tzu-Fan; Chen, Yean-Ru | [arXiv:2303.09353](https://arxiv.org/abs/2303.09353) - [DOI](https://doi.org/10.48550/arXiv.2303.09353) |
+
+
+## [DEP-E-20260819-GPU Optimization for](../DEP-E-20260819-GPU%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GPU Optimization for High-Quality Kinetic Fluid Simulation* | Chen, Yixin; Li, Wei; Fan, Rui; Liu, Xiaopei | [arXiv:2101.11856](https://arxiv.org/abs/2101.11856) - [DOI](https://doi.org/10.48550/arXiv.2101.11856) |

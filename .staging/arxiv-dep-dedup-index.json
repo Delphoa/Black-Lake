@@ -17343,6 +17343,29 @@
         "https://doi.org/10.48550/arXiv.2303.09353"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-GPU Optimization for",
+        ".logs/20260819-Arxiv-GPU-Optimization-for-High-Quality-Kinetic-Fluid-LOG.md",
+        ".reports/BL-Arxiv-GPU-Optimization-for-High-Quality-Kinetic-Fluid-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2101.11856",
+      "arxiv_id": "2101.11856",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2101.11856",
+      "normalized_title": "GPU Optimization for High-Quality Kinetic Fluid Simulation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P24; draw 66115 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 13; reselections 14; complete-source gate passed; all source files withheld locally.",
+      "slug": "GPU-Optimization-for-High-Quality-Kinetic-Fluid",
+      "source_urls": [
+        "https://arxiv.org/abs/2101.11856",
+        "https://arxiv.org/html/2101.11856",
+        "https://arxiv.org/pdf/2101.11856",
+        "https://doi.org/10.48550/arXiv.2101.11856"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
