@@ -5874,3 +5874,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data-driven Modeling of Parameterized Nonlinear Fluid Dynamical Systems with a Dynamics-embedded Conditional Generative Adversarial Network* | Rostamijavanani, Abdolvahhab; Li, Shanwu; Yang, Yongchao | [arXiv:2412.17978](https://arxiv.org/abs/2412.17978) - [DOI](https://doi.org/10.48550/arXiv.2412.17978) |
+
+
+## [DEP-E-20260819-MambaPupil Bidirectional](../DEP-E-20260819-MambaPupil%20Bidirectional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking* | Wang, Zhong; Wan, Zengyu; Han, Han; Liao, Bohao; Wu, Yuliang; Zhai, Wei; Cao, Yang; Zha, Zheng-jun | [arXiv:2404.12083](https://arxiv.org/abs/2404.12083) - [DOI](https://doi.org/10.48550/arXiv.2404.12083) |
