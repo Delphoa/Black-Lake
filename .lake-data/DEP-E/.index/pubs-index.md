@@ -6077,3 +6077,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Dynamic Programming Algorithm for STR-IC-SEQ-EC-LCS Problem* | Zhu, Daxin; Wang, Lei; Wu, Yingjie; Wang, Xiaodong | [arXiv:1506.00063](https://arxiv.org/abs/1506.00063) - [DOI](https://doi.org/10.48550/arXiv.1506.00063) |
+
+
+## [DEP-E-20260819-Contrastive Neural](../DEP-E-20260819-Contrastive%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Contrastive Neural Architecture Search with Neural Architecture Comparators* | Chen, Yaofo; Guo, Yong; Chen, Qi; Li, Minli; Zeng, Wei; Wang, Yaowei; Tan, Mingkui | [arXiv:2103.05471](https://arxiv.org/abs/2103.05471) - [DOI](https://doi.org/10.48550/arXiv.2103.05471) |
