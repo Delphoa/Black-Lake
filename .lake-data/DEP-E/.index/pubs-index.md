@@ -7540,3 +7540,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions* | Han, Pengchao; Huang, Xi; Fang, Yi; Han, Guojun | [arXiv:2512.19972](https://arxiv.org/abs/2512.19972) - [DOI](https://doi.org/10.1109/TNSE.2025.3572362) |
+
+
+## [DEP-E-20260819-Evaluation of](../DEP-E-20260819-Evaluation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluation of Retrieval-Augmented Generation: A Survey* | Yu, Hao; Gan, Aoran; Zhang, Kai; Tong, Shiwei; Liu, Qi; Liu, Zhaofeng | [arXiv:2405.07437](https://arxiv.org/abs/2405.07437) - [DOI](https://doi.org/10.1007/978-981-96-1024-2_8) |
