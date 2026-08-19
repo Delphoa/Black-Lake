@@ -7827,3 +7827,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models* | Li, Yuan; Liu, Zhengzhong; Xing, Eric | [arXiv:2508.11953](https://arxiv.org/abs/2508.11953) - [DOI](https://doi.org/10.48550/arXiv.2508.11953) |
+
+
+## [DEP-E-20260819-Puzzle it Out](../DEP-E-20260819-Puzzle%20it%20Out/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning* | Li, Sijia; Li, Xinran; Chen, Shibo; Zhang, Jun | [arXiv:2601.07463](https://arxiv.org/abs/2601.07463) - [DOI](https://doi.org/10.48550/arXiv.2601.07463) |
