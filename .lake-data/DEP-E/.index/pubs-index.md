@@ -8611,3 +8611,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepSPoC: A Deep Learning-Based PDE Solver Governed by Sequential Propagation of Chaos* | Du, Kai; Xie, Yongle; Zhou, Tao; Zhou, Yuancheng | [arXiv:2408.16403](https://arxiv.org/abs/2408.16403) - [DOI](https://doi.org/10.48550/arXiv.2408.16403) |
+
+
+## [DEP-E-20260819-The LOB Recreation Model](../DEP-E-20260819-The%20LOB%20Recreation%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network* | Shi, Zijian; Chen, Yu; Cartlidge, John | [arXiv:2103.01670](https://arxiv.org/abs/2103.01670) - [DOI](https://doi.org/10.48550/arXiv.2103.01670) |
