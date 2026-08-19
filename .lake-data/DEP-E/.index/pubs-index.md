@@ -7421,3 +7421,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library* | Kong, Minwei; Qu, Ao; Guo, Xiaotong; Ouyang, Wenbin; Jiang, Chonghe; Zheng, Han; Ma, Yining; Zhuang, Dingyi; Tang, Yuhan; Li, Junyi; Wang, Shenhao; Koutsopoulos, Haris; Wang, Hai; Wu, Cathy; Zhao, Jinhua | [arXiv:2510.18428](https://arxiv.org/abs/2510.18428) - [DOI](https://doi.org/10.48550/arXiv.2510.18428) |
+
+
+## [DEP-E-20260819-Unsupervised](../DEP-E-20260819-Unsupervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unsupervised Self-training Algorithm Based on Deep Learning for Optical Aerial Images Change Detection* | Zhou, Yuan; Li, Xiangrui | [arXiv:2010.07469](https://arxiv.org/abs/2010.07469) - [DOI](https://doi.org/10.48550/arXiv.2010.07469) |
