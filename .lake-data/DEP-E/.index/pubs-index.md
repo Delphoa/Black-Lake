@@ -6455,3 +6455,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization* | Shi, Yuchen; Cai, Yuzheng; Cai, Siqi; Xu, Zihan; Chen, Lichao; Qin, Yulei; Zhou, Zhijian; Fei, Xiang; Qiu, Chaofan; Tan, Xiaoyu; Li, Gang; Li, Zongyi; Lin, Haojia; Cai, Guocan; Mao, Yong; Wu, Yunsheng; Li, Ke; Sun, Xing | [arXiv:2512.24615](https://arxiv.org/abs/2512.24615) - [DOI](https://doi.org/10.48550/arXiv.2512.24615) |
+
+
+## [DEP-E-20260819-Listwise Policy](../DEP-E-20260819-Listwise%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex* | Qu, Yun; Wang, Qi; Mao, Yixiu; Zou, Heming; Jiang, Yuhang; Li, Yingyue; Xu, Wutong; Cai, Lizhou; Liu, Weijie; Bai, Clive; Yang, Kai; Chen, Yangkun; Yang, Saiyong; Ji, Xiangyang | [arXiv:2605.06139](https://arxiv.org/abs/2605.06139) - [DOI](https://doi.org/10.48550/arXiv.2605.06139) |
