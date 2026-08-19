@@ -8569,3 +8569,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ManuRAG: Multi-modal Retrieval Augmented Generation for Manufacturing Question Answering (Early Version)* | Li, Yunqing; Dong, Zihan; Ameri, Farhad; Zhang, Jianbang | [arXiv:2601.15434](https://arxiv.org/abs/2601.15434) - [DOI](https://doi.org/10.48550/arXiv.2601.15434) |
+
+
+## [DEP-E-20260819-Accelerating Federated](../DEP-E-20260819-Accelerating%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating Federated Edge Learning via Topology Optimization* | Huang, Shanfeng; Zhang, Zezhong; Wang, Shuai; Wang, Rui; Huang, Kaibin | [arXiv:2204.00489](https://arxiv.org/abs/2204.00489) - [DOI](https://doi.org/10.48550/arXiv.2204.00489) |
