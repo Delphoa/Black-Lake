@@ -6525,3 +6525,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Fast LLM Fine-tuning through Zeroth-Order Optimization with Projected Gradient-Aligned Perturbations* | Mi, Zhendong; Tan, Qitao; Zhang, Grace Li; Xu, Zhaozhuo; Yuan, Geng; Huang, Shaoyi | [arXiv:2510.18228](https://arxiv.org/abs/2510.18228) - [DOI](https://doi.org/10.48550/arXiv.2510.18228) |
+
+
+## [DEP-E-20260819-Cognitive Structure](../DEP-E-20260819-Cognitive%20Structure/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cognitive Structure Generation: From Educational Priors to Policy Optimization* | Gu, Hengnian; Chen, Zhifu; Chen, Yuxin; Zhou, Jin Peng; Zhou, Dongdai | [arXiv:2508.12647](https://arxiv.org/abs/2508.12647) - [DOI](https://doi.org/10.48550/arXiv.2508.12647) |
