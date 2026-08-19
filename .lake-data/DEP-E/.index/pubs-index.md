@@ -9983,3 +9983,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction* | Zhang, Qin-Yi; Wang, Hong; Liu, Siyao; Lin, Haichuan; Cao, Linying; Zhou, Xiao-Hu; Chen, Chen; Wang, Shuangyi; Hou, Zeng-Guang | [arXiv:2601.09251](https://arxiv.org/abs/2601.09251) - [DOI](https://doi.org/10.1609/aaai.v40i2.37129) |
+
+
+## [DEP-E-20260819-Joint Active and Passive](../DEP-E-20260819-Joint%20Active%20and%20Passive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Active and Passive Beamforming Optimization for Beyond Diagonal RIS-aided Multi-User Communications* | Zhou, Xiaohua; Fang, Tianyu; Mao, Yijie | [arXiv:2501.10227](https://arxiv.org/abs/2501.10227) - [DOI](https://doi.org/10.1109/LCOMM.2025.3528968) |
