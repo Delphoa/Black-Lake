@@ -10200,3 +10200,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models* | Wu, Xuan; Wang, Di; Wu, Chunguo; Wen, Lijie; Miao, Chunyan; Xiao, Yubin; Zhou, You | [arXiv:2505.12627](https://arxiv.org/abs/2505.12627) - [DOI](https://doi.org/10.48550/arXiv.2505.12627) |
+
+
+## [DEP-E-20260819-An Efficient Iterative](../DEP-E-20260819-An%20Efficient%20Iterative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Iterative Algorithm for Qubit Mapping via Layer-Weight Assignment and Search Space Reduction* | Xu, Kang; Li, Zeyang; Liu, Xinjian; Li, Dandan; Wang, Yukun | [arXiv:2502.07536](https://arxiv.org/abs/2502.07536) - [DOI](https://doi.org/10.48550/arXiv.2502.07536) |
