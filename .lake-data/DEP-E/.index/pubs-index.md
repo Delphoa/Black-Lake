@@ -9052,3 +9052,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A proximal-proximal majorization-minimization algorithm for nonconvex tuning-free robust regression problems* | Tang, Peipei; Wang, Chengjing; Jiang, Bo | [arXiv:2106.13683](https://arxiv.org/abs/2106.13683) - [DOI](https://doi.org/10.48550/arXiv.2106.13683) |
+
+
+## [DEP-E-20260819-QwenLong-CPRS Towards](../DEP-E-20260819-QwenLong-CPRS%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization* | Shen, Weizhou; Li, Chenliang; Wan, Fanqi; Liao, Shengyi; Lai, Shaopeng; Zhang, Bo; Shi, Yingcheng; Wu, Yuning; Fu, Gang; Li, Zhansheng; Yang, Bin; Zhang, Ji; Huang, Fei; Zhou, Jingren; Yan, Ming | [arXiv:2505.18092](https://arxiv.org/abs/2505.18092) - [DOI](https://doi.org/10.48550/arXiv.2505.18092) |
