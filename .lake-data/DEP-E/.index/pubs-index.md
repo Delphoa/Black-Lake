@@ -7876,3 +7876,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Building A Coding Assistant via the Retrieval-Augmented Language Model* | Li, Xinze; Wang, Hanbin; Liu, Zhenghao; Yu, Shi; Wang, Shuo; Yan, Yukun; Fu, Yukai; Gu, Yu; Yu, Ge | [arXiv:2410.16229](https://arxiv.org/abs/2410.16229) - [DOI](https://doi.org/10.48550/arXiv.2410.16229) |
+
+
+## [DEP-E-20260819-Efficient approximation](../DEP-E-20260819-Efficient%20approximation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient approximation of Earth Mover's Distance Based on Nearest Neighbor Search* | Meng, Guangyu; Zhou, Ruyu; Liu, Liu; Liang, Peixian; Liu, Fang; Chen, Danny; Niemier, Michael; Hu, X. Sharon | [arXiv:2401.07378](https://arxiv.org/abs/2401.07378) - [DOI](https://doi.org/10.48550/arXiv.2401.07378) |
