@@ -4824,3 +4824,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimizing Retrieval-augmented Reader Models via Token Elimination* | Authors listed on the public arXiv record | [arXiv:2310.13682](https://arxiv.org/abs/2310.13682) - [DOI](https://doi.org/10.48550/arXiv.2310.13682) |
+
+
+## [DEP-E-20260819-Multi-Domain Virtual](../DEP-E-20260819-Multi-Domain%20Virtual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Domain Virtual Network Embedding Algorithm based on Horizontal Federated Learning* | Zhang, Peiying; Chen, Ning; Li, Shibao; Choo, Kim-Kwang Raymond; Jiang, Chunxiao | [arXiv:2205.14665](https://arxiv.org/abs/2205.14665) - [DOI](https://doi.org/10.48550/arXiv.2205.14665) |
