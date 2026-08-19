@@ -16561,6 +16561,29 @@
         "https://doi.org/10.54254/2755-2721/75/20240503"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-APQ Joint Search for",
+        ".logs/20260819-Arxiv-APQ-Joint-Search-for-Network-Architecture-LOG.md",
+        ".reports/BL-Arxiv-APQ-Joint-Search-for-Network-Architecture-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2006.08509",
+      "arxiv_id": "2006.08509",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2006.08509",
+      "normalized_title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P290; draw 29657 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 4; focus exclusions 49; reselections 53; complete-source gate passed; all source files withheld locally.",
+      "slug": "APQ-Joint-Search-for-Network-Architecture",
+      "source_urls": [
+        "https://arxiv.org/abs/2006.08509",
+        "https://arxiv.org/html/2006.08509",
+        "https://arxiv.org/pdf/2006.08509",
+        "https://doi.org/10.48550/arXiv.2006.08509"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

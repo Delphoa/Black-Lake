@@ -6756,3 +6756,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Utilizing the LightGBM Algorithm for Operator User Credit Assessment Research* | Li, Shaojie; Dong, Xinqi; Ma, Danqing; Dang, Bo; Zang, Hengyi; Gong, Yulu | [arXiv:2403.14483](https://arxiv.org/abs/2403.14483) - [DOI](https://doi.org/10.54254/2755-2721/75/20240503) |
+
+
+## [DEP-E-20260819-APQ Joint Search for](../DEP-E-20260819-APQ%20Joint%20Search%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *APQ: Joint Search for Network Architecture, Pruning and Quantization Policy* | Wang, Tianzhe; Wang, Kuan; Cai, Han; Lin, Ji; Liu, Zhijian; Han, Song | [arXiv:2006.08509](https://arxiv.org/abs/2006.08509) - [DOI](https://doi.org/10.48550/arXiv.2006.08509) |
