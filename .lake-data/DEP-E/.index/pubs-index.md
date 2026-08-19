@@ -9185,3 +9185,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Long Short-Term Memory Networks for CSI300 Volatility Prediction with Baidu Search Volume* | Zhou, Yu-Long; Han, Ren-Jie; Xu, Qian; Zhang, Wei-Ke | [arXiv:1805.11954](https://arxiv.org/abs/1805.11954) - [DOI](https://doi.org/10.1002/cpe.4721) |
+
+
+## [DEP-E-20260819-A Fast Tree Algorithm for](../DEP-E-20260819-A%20Fast%20Tree%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Tree Algorithm for Electric Field Calculation in Electrical Discharge Simulations* | Zhuang, Chijie; Zhang, Yong; Zhou, Xin; Zeng, Rong; He, Jinliang; Liu, Lei | [arXiv:1710.05781](https://arxiv.org/abs/1710.05781) - [DOI](https://doi.org/10.1109/TMAG.2017.2756991) |
