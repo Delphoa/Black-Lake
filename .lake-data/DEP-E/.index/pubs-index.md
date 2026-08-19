@@ -9276,3 +9276,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation* | Hou, Yanning; Yuan, Duanyang; Zhou, Sihang; Chen, Xiaoshu; Liang, Ke; Wang, Siwei; Liu, Xinwang; Huang, Jian | [arXiv:2604.20844](https://arxiv.org/abs/2604.20844) - [DOI](https://doi.org/10.48550/arXiv.2604.20844) |
+
+
+## [DEP-E-20260819-Online Learning Based](../DEP-E-20260819-Online%20Learning%20Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online Learning Based Mobile Robot Controller Adaptation for Slip Reduction* | Gao, Huidong; Zhou, Rui; Tomizuka, Masayoshi; Xu, Zhuo | [arXiv:2301.13283](https://arxiv.org/abs/2301.13283) - [DOI](https://doi.org/10.48550/arXiv.2301.13283) |
