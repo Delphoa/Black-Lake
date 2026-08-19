@@ -6049,3 +6049,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DecEx-RAG: Boosting Agentic Retrieval-Augmented Generation with Decision and Execution Optimization via Process Supervision* | Leng, Yongqi; Lei, Yikun; Liu, Xikai; Zhong, Meizhi; Xiong, Bojian; Zhang, Yurong; Gao, Yan; Wu, Yi; Hu, Yao; Xiong, Deyi | [arXiv:2510.05691](https://arxiv.org/abs/2510.05691) - [DOI](https://doi.org/10.48550/arXiv.2510.05691) |
+
+
+## [DEP-E-20260819-Calibrated Dataset](../DEP-E-20260819-Calibrated%20Dataset/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Calibrated Dataset Condensation for Faster Hyperparameter Search* | Ding, Mucong; Xu, Yuancheng; Rabbani, Tahseen; Liu, Xiaoyu; Gravelle, Brian; Ranadive, Teresa; Tuan, Tai-Ching; Huang, Furong | [arXiv:2405.17535](https://arxiv.org/abs/2405.17535) - [DOI](https://doi.org/10.48550/arXiv.2405.17535) |
