@@ -10130,3 +10130,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adaptive dynamic programming for nonaffine nonlinear optimal control problem with state constraints* | Duan, Jingliang; Liu, Zhengyu; Li, Shengbo Eben; Sun, Qi; Jia, Zhenzhong; Cheng, Bo | [arXiv:1911.11397](https://arxiv.org/abs/1911.11397) - [DOI](https://doi.org/10.1016/j.neucom.2021.04.134) |
+
+
+## [DEP-E-20260819-A Fast Algorithm for](../DEP-E-20260819-A%20Fast%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Algorithm for Onboard Atmospheric Powered Descent Guidance* | Chen, Yushu; Yang, Guangwen; Wang, Lu; Gan, Qingzhong; Chen, Haipeng; Xu, Quanyong | [arXiv:2209.04157](https://arxiv.org/abs/2209.04157) - [DOI](https://doi.org/10.1109/TAES.2023.3271961) |

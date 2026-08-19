@@ -27647,6 +27647,29 @@
         "https://doi.org/10.1016/j.neucom.2021.04.134"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Fast Algorithm for",
+        ".logs/20260819-Arxiv-A-Fast-Algorithm-for-Onboard-Atmospheric-Powered-LOG.md",
+        ".reports/BL-Arxiv-A-Fast-Algorithm-for-Onboard-Atmospheric-Powered-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.04157",
+      "arxiv_id": "2209.04157",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/TAES.2023.3271961",
+      "normalized_title": "A Fast Algorithm for Onboard Atmospheric Powered Descent Guidance",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P472; draw 69508 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 5; focus exclusions 17; reselections 22; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Fast-Algorithm-for-Onboard-Atmospheric-Powered",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.04157",
+        "https://arxiv.org/html/2209.04157",
+        "https://arxiv.org/pdf/2209.04157",
+        "https://doi.org/10.1109/TAES.2023.3271961"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
