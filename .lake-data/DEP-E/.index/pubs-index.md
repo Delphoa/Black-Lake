@@ -7043,3 +7043,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented TLAPS Proof Generation with Large Language Models* | Zhou, Yuhao | [arXiv:2501.03073](https://arxiv.org/abs/2501.03073) - [DOI](https://doi.org/10.48550/arXiv.2501.03073) |
+
+
+## [DEP-E-20260819-BeatDance A Beat-Based](../DEP-E-20260819-BeatDance%20A%20Beat-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval* | Yang, Kaixing; Zhou, Xukun; Tang, Xulong; Diao, Ran; Liu, Hongyan; He, Jun; Fan, Zhaoxin | [arXiv:2310.10300](https://arxiv.org/abs/2310.10300) - [DOI](https://doi.org/10.48550/arXiv.2310.10300) |
