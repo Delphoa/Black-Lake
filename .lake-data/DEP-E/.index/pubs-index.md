@@ -5321,3 +5321,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploring the Meaningfulness of Nearest Neighbor Search in High-Dimensional Space* | Chen, Zhonghan; Zhang, Ruiyuan; Zhao, Xi; Cheng, Xiaojun; Zhou, Xiaofang | [arXiv:2410.05752](https://arxiv.org/abs/2410.05752) - [DOI](https://doi.org/10.48550/arXiv.2410.05752) |
+
+
+## [DEP-E-20260819-Deep Hashing Learning for](../DEP-E-20260819-Deep%20Hashing%20Learning%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images* | Song, Weiwei; Li, Shutao; Benediktsson, Jon Atli | [arXiv:1909.04614](https://arxiv.org/abs/1909.04614) - [DOI](https://doi.org/10.48550/arXiv.1909.04614) |
