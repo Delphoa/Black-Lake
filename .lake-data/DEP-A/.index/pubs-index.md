@@ -12005,3 +12005,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *InferScale: GPU-Native KV Injection for Personalized LLM Serving* | Peter Li; Prashant Pandey | [arXiv:2607.27090v1](https://arxiv.org/abs/2607.27090v1) - [DOI](https://doi.org/10.48550/arXiv.2607.27090) |
+
+
+## [DEP-A-20260819-SCALPEL Semantic Cross mo](../DEP-A-20260819-SCALPEL%20Semantic%20Cross%20mo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.26885-whitepaper-review.md`](../DEP-A-20260819-SCALPEL%20Semantic%20Cross%20mo/2607.26885-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation* | Yunzhan Fu; Enyu Bao; Xiangyu Shen; Yihao Wu; Chunbo Jiang; Fangli Guan; Liqi Yan | [arXiv:2607.26885v1](https://arxiv.org/abs/2607.26885v1) - [DOI](https://doi.org/10.48550/arXiv.2607.26885) |
