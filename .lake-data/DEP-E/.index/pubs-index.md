@@ -6245,3 +6245,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Theoretical and Empirical Analysis of Lehmer Codes to Search Permutation Spaces with Evolutionary Algorithms* | Ma, Yuxuan; Santucci, Valentino; Witt, Carsten | [arXiv:2511.19089](https://arxiv.org/abs/2511.19089) - [DOI](https://doi.org/10.48550/arXiv.2511.19089) |
+
+
+## [DEP-E-20260819-Inference of collective](../DEP-E-20260819-Inference%20of%20collective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inference of collective Gaussian hidden Markov models* | Singh, Rahul; Chen, Yongxin | [arXiv:2107.11662](https://arxiv.org/abs/2107.11662) - [DOI](https://doi.org/10.48550/arXiv.2107.11662) |
