@@ -6406,3 +6406,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Escher-Loop: Mutual Evolution by Closed-Loop Self-Referential Optimization* | Liu, Ziyang; Guo, Xinyan; Wei, Xuchen; Hao, Han; Yang, Liu | [arXiv:2604.23472](https://arxiv.org/abs/2604.23472) - [DOI](https://doi.org/10.48550/arXiv.2604.23472) |
+
+
+## [DEP-E-20260819-Federated Split Learning](../DEP-E-20260819-Federated%20Split%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Split Learning for Resource-Constrained Robots in Industrial IoT: Framework Comparison, Optimization Strategies, and Future Directions* | Ni, Wanli; Tian, Hui; Wang, Shuai; Li, Chengyang; Sun, Lei; Yang, Zhaohui | [arXiv:2510.05713](https://arxiv.org/abs/2510.05713) - [DOI](https://doi.org/10.48550/arXiv.2510.05713) |
