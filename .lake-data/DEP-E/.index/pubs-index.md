@@ -8989,3 +8989,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization* | Lin, Sida; Chen, Yankai; Qi, Yiyan; Ma, Chenhao; Cao, Bokai; Zhang, Yifei; Liu, Xue; Guo, Jian | [arXiv:2503.22740](https://arxiv.org/abs/2503.22740) - [DOI](https://doi.org/10.48550/arXiv.2503.22740) |
+
+
+## [DEP-E-20260819-Supported Trust Region](../DEP-E-20260819-Supported%20Trust%20Region/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Supported Trust Region Optimization for Offline Reinforcement Learning* | Mao, Yixiu; Zhang, Hongchang; Chen, Chen; Xu, Yi; Ji, Xiangyang | [arXiv:2311.08935](https://arxiv.org/abs/2311.08935) - [DOI](https://doi.org/10.48550/arXiv.2311.08935) |
