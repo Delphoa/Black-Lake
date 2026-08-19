@@ -10907,3 +10907,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exact Adaptive Hybrid Retrieval Without Fixed Top-L Cutoffs* | Chunran Zhang | [arXiv:2608.07152v1](https://arxiv.org/abs/2608.07152v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07152) |
+
+
+## [DEP-A-20260819-Classification Recommenda](../DEP-A-20260819-Classification%20Recommenda/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06928-whitepaper-review.md`](../DEP-A-20260819-Classification%20Recommenda/2608.06928-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation* | Qingrui Li; Haowei Lou; Chengkai Huang; Quan Z. Sheng; Lina Yao | [arXiv:2608.06928v1](https://arxiv.org/abs/2608.06928v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06928) |
