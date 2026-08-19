@@ -8590,3 +8590,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Parallel-mentoring for Offline Model-based Optimization* | Chen, Can; Beckham, Christopher; Liu, Zixuan; Liu, Xue; Pal, Christopher | [arXiv:2309.11592](https://arxiv.org/abs/2309.11592) - [DOI](https://doi.org/10.48550/arXiv.2309.11592) |
+
+
+## [DEP-E-20260819-Improving Sequence](../DEP-E-20260819-Improving%20Sequence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes* | Qin, Yujia; Qi, Fanchao; Ouyang, Sicong; Liu, Zhiyuan; Yang, Cheng; Wang, Yasheng; Liu, Qun; Sun, Maosong | [arXiv:1910.08910](https://arxiv.org/abs/1910.08910) - [DOI](https://doi.org/10.1109/TASLP.2020.3012060) |
