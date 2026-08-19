@@ -6343,3 +6343,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Duality-free Methods for Stochastic Composition Optimization* | Liu, Liu; Liu, Ji; Tao, Dacheng | [arXiv:1710.09554](https://arxiv.org/abs/1710.09554) - [DOI](https://doi.org/10.48550/arXiv.1710.09554) |
+
+
+## [DEP-E-20260819-From Answer to Think](../DEP-E-20260819-From%20Answer%20to%20Think/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From <Answer> to <Think>: Multidimensional Supervision of Reasoning Process for LLM Optimization* | Wang, Beining; Su, Weihang; Tian, Hongtao; Yang, Tao; Zhou, Yujia; Yao, Ting; Ai, Qingyao; Liu, Yiqun | [arXiv:2510.11457](https://arxiv.org/abs/2510.11457) - [DOI](https://doi.org/10.48550/arXiv.2510.11457) |
