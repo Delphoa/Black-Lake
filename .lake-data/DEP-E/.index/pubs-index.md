@@ -9710,3 +9710,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoRA-VLM: Robust Retrieval-Augmented Vision Language Models* | Qi, Jingyuan; Xu, Zhiyang; Shao, Rulin; Chen, Yang; Di, Jin; Cheng, Yu; Wang, Qifan; Huang, Lifu | [arXiv:2410.08876](https://arxiv.org/abs/2410.08876) - [DOI](https://doi.org/10.48550/arXiv.2410.08876) |
+
+
+## [DEP-E-20260819-Minimax Optimal Online](../DEP-E-20260819-Minimax%20Optimal%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Minimax Optimal Online Imitation Learning via Replay Estimation* | Swamy, Gokul; Rajaraman, Nived; Peng, Matthew; Choudhury, Sanjiban; Bagnell, J. Andrew; Wu, Zhiwei Steven; Jiao, Jiantao; Ramchandran, Kannan | [arXiv:2205.15397](https://arxiv.org/abs/2205.15397) - [DOI](https://doi.org/10.48550/arXiv.2205.15397) |
