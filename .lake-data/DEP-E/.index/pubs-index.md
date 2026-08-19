@@ -5769,3 +5769,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Data-driven identification of nonlinear dynamical systems with LSTM autoencoders and Normalizing Flows* | Rostamijavanani, Abdolvahhab; Li, Shanwu; Yang, Yongchao | [arXiv:2503.03977](https://arxiv.org/abs/2503.03977) - [DOI](https://doi.org/10.48550/arXiv.2503.03977) |
+
+
+## [DEP-E-20260819-Subspace-based](../DEP-E-20260819-Subspace-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Subspace-based compressive sensing algorithm for raypath separation in a shallow-water waveguide* | Jiang, Longyu; Zhang, Zhe; Jin, Rui; Zhou, Xiao; Roux, Philippe | [arXiv:2103.14236](https://arxiv.org/abs/2103.14236) - [DOI](https://doi.org/10.48550/arXiv.2103.14236) |
