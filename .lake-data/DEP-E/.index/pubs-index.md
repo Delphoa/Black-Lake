@@ -8604,3 +8604,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Training Networks in Null Space of Feature Covariance for Continual Learning* | Wang, Shipeng; Li, Xiaorong; Sun, Jian; Xu, Zongben | [arXiv:2103.07113](https://arxiv.org/abs/2103.07113) - [DOI](https://doi.org/10.48550/arXiv.2103.07113) |
+
+
+## [DEP-E-20260819-DeepSPoC A Deep](../DEP-E-20260819-DeepSPoC%20A%20Deep/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepSPoC: A Deep Learning-Based PDE Solver Governed by Sequential Propagation of Chaos* | Du, Kai; Xie, Yongle; Zhou, Tao; Zhou, Yuancheng | [arXiv:2408.16403](https://arxiv.org/abs/2408.16403) - [DOI](https://doi.org/10.48550/arXiv.2408.16403) |
