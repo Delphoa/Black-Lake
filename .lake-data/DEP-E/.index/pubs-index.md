@@ -7120,3 +7120,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum memory error correction computation based on Chamon model* | Zhao, Jian; Wu, Yu-Chun; Guo, Guo-Ping | [arXiv:2303.05267](https://arxiv.org/abs/2303.05267) - [DOI](https://doi.org/10.48550/arXiv.2303.05267) |
+
+
+## [DEP-E-20260819-Memory Efficient Temporal](../DEP-E-20260819-Memory%20Efficient%20Temporal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation* | Hu, Xinyue; Gu, Lin; Liu, Liangchen; Li, Ruijiang; Su, Chang; Harada, Tatsuya; Zhu, Yingying | [arXiv:2208.06554](https://arxiv.org/abs/2208.06554) - [DOI](https://doi.org/10.48550/arXiv.2208.06554) |
