@@ -6168,3 +6168,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction* | Wang, Shengkun; Bai, YangXiao; Fu, Kaiqun; Wang, Linhan; Lu, Chang-Tien; Ji, Taoran | [arXiv:2310.18706](https://arxiv.org/abs/2310.18706) - [DOI](https://doi.org/10.1145/3625007.3627488) |
+
+
+## [DEP-E-20260819-MoEMambaMIL](../DEP-E-20260819-MoEMambaMIL/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis* | Xie, Dongqing; Wu, Yonghuang | [arXiv:2603.06378](https://arxiv.org/abs/2603.06378) - [DOI](https://doi.org/10.48550/arXiv.2603.06378) |
