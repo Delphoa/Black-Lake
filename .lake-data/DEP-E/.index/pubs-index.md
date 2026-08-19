@@ -6896,3 +6896,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs* | Yang, Wei; Pang, Jiacheng; Li, Shixuan; Bogdan, Paul; Tu, Stephen; Thomason, Jesse | [arXiv:2511.06134](https://arxiv.org/abs/2511.06134) - [DOI](https://doi.org/10.48550/arXiv.2511.06134) |
+
+
+## [DEP-E-20260819-An Efficient Algori 05613](../DEP-E-20260819-An%20Efficient%20Algori%2005613/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Algorithm for Deep Stochastic Contextual Bandits* | Authors listed on the public arXiv record | [arXiv:2104.05613](https://arxiv.org/abs/2104.05613) - [DOI](https://doi.org/10.48550/arXiv.2104.05613) |
