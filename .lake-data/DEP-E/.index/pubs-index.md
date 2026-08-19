@@ -8226,3 +8226,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Barycode-based GJK Algorithm* | Zhang, Yu; Wu, Yangming; Wang, Xigui; Zhou, Xiaocheng | [arXiv:2011.09117](https://arxiv.org/abs/2011.09117) - [DOI](https://doi.org/10.48550/arXiv.2011.09117) |
+
+
+## [DEP-E-20260819-IAPO Information-Aware](../DEP-E-20260819-IAPO%20Information-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning* | He, Yinhan; Zhu, Yaochen; Shi, Mingjia; Zheng, Wendy; Su, Lin; Wang, Xiaoqing; Guo, Qi; Li, Jundong | [arXiv:2602.19049](https://arxiv.org/abs/2602.19049) - [DOI](https://doi.org/10.48550/arXiv.2602.19049) |
