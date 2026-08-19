@@ -8898,3 +8898,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity* | Evmorfos, Spilios; Xu, Zhaoyi; Petropulu, Athina | [arXiv:2407.19736](https://arxiv.org/abs/2407.19736) - [DOI](https://doi.org/10.48550/arXiv.2407.19736) |
+
+
+## [DEP-E-20260819-Multi-Modal UAV Detection](../DEP-E-20260819-Multi-Modal%20UAV%20Detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Modal UAV Detection, Classification and Tracking Algorithm -- Technical Report for CVPR 2024 UG2 Challenge* | Deng, Tianchen; Zhou, Yi; Wu, Wenhua; Li, Mingrui; Huang, Jingwei; Liu, Shuhong; Song, Yanzeng; Zuo, Hao; Wang, Yanbo; Yue, Yutao; Wang, Hesheng; Chen, Weidong | [arXiv:2405.16464](https://arxiv.org/abs/2405.16464) - [DOI](https://doi.org/10.48550/arXiv.2405.16464) |

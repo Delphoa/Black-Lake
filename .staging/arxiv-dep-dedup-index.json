@@ -23599,6 +23599,29 @@
         "https://doi.org/10.48550/arXiv.2407.19736"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection",
+        ".logs/20260819-Arxiv-Multi-Modal-UAV-Detection-Classification-and-LOG.md",
+        ".reports/BL-Arxiv-Multi-Modal-UAV-Detection-Classification-and-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2405.16464",
+      "arxiv_id": "2405.16464",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2405.16464",
+      "normalized_title": "Multi-Modal UAV Detection, Classification and Tracking Algorithm -- Technical Report for CVPR 2024 UG2 Challenge",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P296; draw 26982 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 7; focus exclusions 27; reselections 34; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-Modal-UAV-Detection-Classification-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2405.16464",
+        "https://arxiv.org/html/2405.16464",
+        "https://arxiv.org/pdf/2405.16464",
+        "https://doi.org/10.48550/arXiv.2405.16464"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
