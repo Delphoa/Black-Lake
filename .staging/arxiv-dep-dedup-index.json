@@ -18700,6 +18700,29 @@
         "https://doi.org/10.1109/TCDS.2026.3698720"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Bayesian Structure",
+        ".logs/20260819-Arxiv-Bayesian-Structure-Learning-for-Markov-Random-LOG.md",
+        ".reports/BL-Arxiv-Bayesian-Structure-Learning-for-Markov-Random-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1206.1088",
+      "arxiv_id": "1206.1088",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1206.1088",
+      "normalized_title": "Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P83; draw 13705 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 6; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Bayesian-Structure-Learning-for-Markov-Random",
+      "source_urls": [
+        "https://arxiv.org/abs/1206.1088",
+        "https://arxiv.org/html/1206.1088",
+        "https://arxiv.org/pdf/1206.1088",
+        "https://doi.org/10.48550/arXiv.1206.1088"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

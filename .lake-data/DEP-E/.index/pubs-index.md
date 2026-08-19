@@ -7407,3 +7407,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning* | Zhong, Yan; Zhao, Ruoyu; Wang, Chao; Guo, Qinghai; Zhang, Jianguo; Lu, Zhichao; Leng, Luziwei | [arXiv:2410.17268](https://arxiv.org/abs/2410.17268) - [DOI](https://doi.org/10.1109/TCDS.2026.3698720) |
+
+
+## [DEP-E-20260819-Bayesian Structure](../DEP-E-20260819-Bayesian%20Structure/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior* | Chen, Yutian; Welling, Max | [arXiv:1206.1088](https://arxiv.org/abs/1206.1088) - [DOI](https://doi.org/10.48550/arXiv.1206.1088) |
