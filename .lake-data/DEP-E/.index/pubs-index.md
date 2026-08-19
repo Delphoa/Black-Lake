@@ -8954,3 +8954,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions* | Huang, Zhengjun; Liu, Wenxuan; Tian, Zhoujin; Chen, Wei; Chen, Junle; Wu, Yuqian; Zhang, Fangyuan; Guo, Qintian; Zhou, Xiaofang | [arXiv:2606.07402](https://arxiv.org/abs/2606.07402) - [DOI](https://doi.org/10.48550/arXiv.2606.07402) |
+
+
+## [DEP-E-20260819-EvoBrain Continual](../DEP-E-20260819-EvoBrain%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks* | Zhou, Yangxuan; Zhao, Sha; Wang, Jiquan; Li, Shijian; Pan, Gang | [arXiv:2606.01767](https://arxiv.org/abs/2606.01767) - [DOI](https://doi.org/10.48550/arXiv.2606.01767) |
