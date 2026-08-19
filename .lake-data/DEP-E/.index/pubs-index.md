@@ -7897,3 +7897,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation* | Zhang, Tianyi; Cao, Wenhan; Liu, Chang; Lyu, Yao; Li, Shengbo Eben | [arXiv:2604.10057](https://arxiv.org/abs/2604.10057) - [DOI](https://doi.org/10.48550/arXiv.2604.10057) |
+
+
+## [DEP-E-20260819-EraRAG Efficient and](../DEP-E-20260819-EraRAG%20Efficient%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora* | Zhang, Fangyuan; Huang, Zhengjun; Zhou, Yingli; Guo, Qintian; Li, Zhixun; Luo, Wensheng; Jiang, Di; Fang, Yixiang; Zhou, Xiaofang | [arXiv:2506.20963](https://arxiv.org/abs/2506.20963) - [DOI](https://doi.org/10.48550/arXiv.2506.20963) |
