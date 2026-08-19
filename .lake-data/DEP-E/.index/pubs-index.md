@@ -8240,3 +8240,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Exploring the Potential of Flexible 8-bit Format: Design and Algorithm* | Zhang, Zhuoyi; Zhang, Yunchen; Shi, Gonglei; Shen, Yu; Gong, Ruihao; Xia, Xiaoxu; Zhang, Qi; Lu, Lewei; Liu, Xianglong | [arXiv:2310.13513](https://arxiv.org/abs/2310.13513) - [DOI](https://doi.org/10.48550/arXiv.2310.13513) |
+
+
+## [DEP-E-20260819-MergeDJD A Fast](../DEP-E-20260819-MergeDJD%20A%20Fast/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MergeDJD: A Fast Constructive Algorithm with Piece Merging for the Two-Dimensional Irregular Bin Packing Problem* | Zhou, Yi; Fu, Haocheng; Liu, Yiping; Mao, Jian; Fu, Zhang-Hua; Wang, Yuyi | [arXiv:2603.00484](https://arxiv.org/abs/2603.00484) - [DOI](https://doi.org/10.48550/arXiv.2603.00484) |
