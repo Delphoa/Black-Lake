@@ -6511,3 +6511,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *STIMULUS: Achieving Fast Convergence and Low Sample Complexity in Stochastic Multi-Objective Learning* | Liu, Zhuqing; Dong, Chaosheng; Momma, Michinari; Shao, Simone; Xu, Shaoyuan; Gao, Yan; Yang, Haibo; Liu, Jia | [arXiv:2506.19883](https://arxiv.org/abs/2506.19883) - [DOI](https://doi.org/10.48550/arXiv.2506.19883) |
+
+
+## [DEP-E-20260819-Sliding-Window](../DEP-E-20260819-Sliding-Window/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sliding-Window Optimization on an Ambiguity-Clearness Graph for Multi-object Tracking* | Guo, Qi; Dan, Le; Yin, Dong; Ji, Xiangyang | [arXiv:1511.08913](https://arxiv.org/abs/1511.08913) - [DOI](https://doi.org/10.48550/arXiv.1511.08913) |
