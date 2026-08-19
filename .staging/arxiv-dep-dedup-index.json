@@ -11018,6 +11018,29 @@
         "https://doi.org/10.48550/arXiv.2606.01764"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Mobile Converged Networks",
+        ".logs/20260819-Arxiv-Mobile-Converged-Networks-Framework-Optimization-LOG.md",
+        ".reports/BL-Arxiv-Mobile-Converged-Networks-Framework-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1606.07164",
+      "arxiv_id": "1606.07164",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1109/MWC.2014.7000969",
+      "normalized_title": "Mobile Converged Networks: Framework, Optimization and Challenges",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P49; draw 20152 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Mobile-Converged-Networks-Framework-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/1606.07164",
+        "https://arxiv.org/html/1606.07164",
+        "https://arxiv.org/pdf/1606.07164",
+        "https://doi.org/10.1109/MWC.2014.7000969"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

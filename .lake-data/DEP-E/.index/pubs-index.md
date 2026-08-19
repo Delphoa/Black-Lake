@@ -5069,3 +5069,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Accelerating Min-Max Optimization via Power-Law Stepsizes* | Wu, Yue; Zheng, Weiqiang; Cai, Yang; Luo, Haipeng | [arXiv:2606.01764](https://arxiv.org/abs/2606.01764) - [DOI](https://doi.org/10.48550/arXiv.2606.01764) |
+
+
+## [DEP-E-20260819-Mobile Converged Networks](../DEP-E-20260819-Mobile%20Converged%20Networks/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mobile Converged Networks: Framework, Optimization and Challenges* | Han, Tao; Yang, Yang; Ge, Xiaohu; Mao, Guoqiang | [arXiv:1606.07164](https://arxiv.org/abs/1606.07164) - [DOI](https://doi.org/10.1109/MWC.2014.7000969) |
