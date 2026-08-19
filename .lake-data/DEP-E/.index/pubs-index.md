@@ -10221,3 +10221,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Proximal Oracles for Optimization and Sampling* | Liang, Jiaming; Chen, Yongxin | [arXiv:2404.02239](https://arxiv.org/abs/2404.02239) - [DOI](https://doi.org/10.48550/arXiv.2404.02239) |
+
+
+## [DEP-E-20260819-Don t Let It Hallucinate](../DEP-E-20260819-Don%20t%20Let%20It%20Hallucinate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning* | Qin, Yuehan; Li, Shawn; Nian, Yi; Yu, Xinyan Velocity; Zhao, Yue; Ma, Xuezhe | [arXiv:2504.06438](https://arxiv.org/abs/2504.06438) - [DOI](https://doi.org/10.48550/arXiv.2504.06438) |
