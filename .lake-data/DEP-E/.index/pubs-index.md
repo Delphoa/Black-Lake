@@ -9577,3 +9577,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs* | Fan, Zhuochen; Cai, Yalun; Liu, Zirui; Guo, Jiarui; Fan, Xin; Yang, Tong; Cui, Bin | [arXiv:2405.15193](https://arxiv.org/abs/2405.15193) - [DOI](https://doi.org/10.48550/arXiv.2405.15193) |
+
+
+## [DEP-E-20260819-Enhancing LLM Agents for](../DEP-E-20260819-Enhancing%20LLM%20Agents%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay* | Chen, Yuyang; Zhao, Kaiyan; Wang, Yiming; Yang, Ming; Zhang, Jian; Niu, Xiaoguang | [arXiv:2410.12236](https://arxiv.org/abs/2410.12236) - [DOI](https://doi.org/10.48550/arXiv.2410.12236) |
