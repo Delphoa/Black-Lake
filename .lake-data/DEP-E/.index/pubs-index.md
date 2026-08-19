@@ -9542,3 +9542,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning* | Liu, Yuan; Li, Haoran; Tian, Shuai; Qin, Yuxing; Chen, Yuhui; Zheng, Yupeng; Huang, Yongzhen; Zhao, Dongbin | [arXiv:2602.10503](https://arxiv.org/abs/2602.10503) - [DOI](https://doi.org/10.48550/arXiv.2602.10503) |
+
+
+## [DEP-E-20260819-DeepVerse 4D](../DEP-E-20260819-DeepVerse%204D/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepVerse: 4D Autoregressive Video Generation as a World Model* | Chen, Junyi; Zhu, Haoyi; He, Xianglong; Wang, Yifan; Zhou, Jianjun; Chang, Wenzheng; Zhou, Yang; Li, Zizun; Fu, Zhoujie; Pang, Jiangmiao; He, Tong | [arXiv:2506.01103](https://arxiv.org/abs/2506.01103) - [DOI](https://doi.org/10.48550/arXiv.2506.01103) |
