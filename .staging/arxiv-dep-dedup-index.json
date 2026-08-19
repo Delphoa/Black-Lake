@@ -12559,6 +12559,29 @@
         "https://doi.org/10.48550/arXiv.2308.04990"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-HM-NAS Efficient Neural",
+        ".logs/20260819-Arxiv-HM-NAS-Efficient-Neural-Architecture-Search-via-LOG.md",
+        ".reports/BL-Arxiv-HM-NAS-Efficient-Neural-Architecture-Search-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1909.00122",
+      "arxiv_id": "1909.00122",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1909.00122",
+      "normalized_title": "HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P116; draw 23137 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "HM-NAS-Efficient-Neural-Architecture-Search-via",
+      "source_urls": [
+        "https://arxiv.org/abs/1909.00122",
+        "https://arxiv.org/html/1909.00122",
+        "https://arxiv.org/pdf/1909.00122",
+        "https://doi.org/10.48550/arXiv.1909.00122"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -5538,3 +5538,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Foreground Object Search by Distilling Composite Image Feature* | Zhang, Bo; Sui, Jiacheng; Niu, Li | [arXiv:2308.04990](https://arxiv.org/abs/2308.04990) - [DOI](https://doi.org/10.48550/arXiv.2308.04990) |
+
+
+## [DEP-E-20260819-HM-NAS Efficient Neural](../DEP-E-20260819-HM-NAS%20Efficient%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking* | Yan, Shen; Fang, Biyi; Zhang, Faen; Zheng, Yu; Zeng, Xiao; Xu, Hui; Zhang, Mi | [arXiv:1909.00122](https://arxiv.org/abs/1909.00122) - [DOI](https://doi.org/10.48550/arXiv.1909.00122) |
