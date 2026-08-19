@@ -9799,6 +9799,29 @@
         "https://doi.org/10.48550/arXiv.2601.02212"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Safe Reinforcement",
+        ".logs/20260819-Arxiv-Safe-Reinforcement-Learning-with-Instantaneous-LOG.md",
+        ".reports/BL-Arxiv-Safe-Reinforcement-Learning-with-Instantaneous-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.14470",
+      "arxiv_id": "2312.14470",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2312.14470",
+      "normalized_title": "Safe Reinforcement Learning with Instantaneous Constraints: The Role of Aggressive Exploration",
+      "notes": "Job BLAD-2200-20260819-7C79A486 item BLAD-2200-20260819-7C79A486-P06; draw 49710 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Safe-Reinforcement-Learning-with-Instantaneous",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.14470",
+        "https://arxiv.org/html/2312.14470",
+        "https://arxiv.org/pdf/2312.14470",
+        "https://doi.org/10.48550/arXiv.2312.14470"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

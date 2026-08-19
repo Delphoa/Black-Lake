@@ -4698,3 +4698,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Prior-Guided DETR for Ultrasound Nodule Detection* | Wang, Jingjing; Xiao, Zhuo; Yao, Xinning; Liu, Bo; Niu, Lijuan; Bai, Xiangzhi; Zhou, Fugen | [arXiv:2601.02212](https://arxiv.org/abs/2601.02212) - [DOI](https://doi.org/10.48550/arXiv.2601.02212) |
+
+
+## [DEP-E-20260819-Safe Reinforcement](../DEP-E-20260819-Safe%20Reinforcement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Safe Reinforcement Learning with Instantaneous Constraints: The Role of Aggressive Exploration* | Wei, Honghao; Liu, Xin; Ying, Lei | [arXiv:2312.14470](https://arxiv.org/abs/2312.14470) - [DOI](https://doi.org/10.48550/arXiv.2312.14470) |
