@@ -10745,3 +10745,11 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Latent Prediction for Language Models* | Chang Shi; Tim Pearce; Manan Tomar; Siddhartha Sen; John Langford | [arXiv:2608.05806v1](https://arxiv.org/abs/2608.05806v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05806) |
+
+## [DEP-A-20260820-A Better and Intake](../DEP-A-20260820-A%20Better%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Better%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Better and Faster End-to-End Model for Streaming ASR* | Li, Bo; Gulati, Anmol; Yu, Jiahui; Sainath, Tara N.; Chiu, Chung-Cheng; Narayanan, Arun; Chang, Shuo-Yiin; Pang, Ruoming; He, Yanzhang; Qin, James; Han, Wei; Liang, Qiao; Zhang, Yu; Strohman, Trevor; Wu, Yonghui | [arXiv:2011.10798](https://arxiv.org/abs/2011.10798) - [DOI](https://doi.org/10.48550/arXiv.2011.10798) |
