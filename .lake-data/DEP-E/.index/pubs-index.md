@@ -8758,3 +8758,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hypersphere Optimization: Approximated Gradient-Based Binary Optimization on Smooth Manifold for Photonic Inverse Design* | Liu, Zhaocheng | [arXiv:2209.02129](https://arxiv.org/abs/2209.02129) - [DOI](https://doi.org/10.48550/arXiv.2209.02129) |
+
+
+## [DEP-E-20260819-A Distributionally Robust](../DEP-E-20260819-A%20Distributionally%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Distributionally Robust Boosting Algorithm* | Blanchet, Jose; Kang, Yang; Zhang, Fan; Hu, Zhangyi | [arXiv:1905.07845](https://arxiv.org/abs/1905.07845) - [DOI](https://doi.org/10.1109/WSC40007.2019.9004804) |
