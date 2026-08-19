@@ -7218,3 +7218,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unfolding the Alternating Optimization for Blind Super Resolution* | Luo, Zhengxiong; Huang, Yan; Li, Shang; Wang, Liang; Tan, Tieniu | [arXiv:2010.02631](https://arxiv.org/abs/2010.02631) - [DOI](https://doi.org/10.48550/arXiv.2010.02631) |
+
+
+## [DEP-E-20260819-Rethinking Key-Value](../DEP-E-20260819-Rethinking%20Key-Value/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving* | Gao, Wei; Zhou, Xinyu; Sun, Peng; Zhang, Tianwei; Wen, Yonggang | [arXiv:2503.24000](https://arxiv.org/abs/2503.24000) - [DOI](https://doi.org/10.48550/arXiv.2503.24000) |

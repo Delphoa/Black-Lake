@@ -18079,6 +18079,29 @@
         "https://doi.org/10.48550/arXiv.2010.02631"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Rethinking Key-Value",
+        ".logs/20260819-Arxiv-Rethinking-Key-Value-Cache-Compression-LOG.md",
+        ".reports/BL-Arxiv-Rethinking-Key-Value-Cache-Compression-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.24000",
+      "arxiv_id": "2503.24000",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2503.24000",
+      "normalized_title": "Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P56; draw 24719 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 2; focus exclusions 23; reselections 26; complete-source gate passed; all source files withheld locally.",
+      "slug": "Rethinking-Key-Value-Cache-Compression",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.24000",
+        "https://arxiv.org/html/2503.24000",
+        "https://arxiv.org/pdf/2503.24000",
+        "https://doi.org/10.48550/arXiv.2503.24000"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
