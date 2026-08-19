@@ -8352,3 +8352,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning* | Xu, Mufan; Liang, Gewen; Chen, Kehai; Wang, Wei; Zhou, Xun; Yang, Muyun; Zhao, Tiejun; Zhang, Min | [arXiv:2503.05193](https://arxiv.org/abs/2503.05193) - [DOI](https://doi.org/10.48550/arXiv.2503.05193) |
+
+
+## [DEP-E-20260819-Human Cognition in](../DEP-E-20260819-Human%20Cognition%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Human Cognition in Machines: A Unified Perspective of World Models* | Rupprecht, Timothy; Zhao, Pu; Taherin, Amir; Akbari, Arash; Akbari, Arman; He, Yumei; Imtiaz, Tooba; Duffy, Sean; Lin, Juyi; Chen, Yixiao; Chowdhury, Rahul; Nan, Enfu; Shen, Yixin; Cao, Yifan; Zeng, Haochen; Chen, Weiwei; Yuan, Geng; Dy, Jennifer; Ostadabbas, Sarah; Zhang, Xuan; Kaeli, David; Yeh, Edmund; Wang, Yanzhi | [arXiv:2604.16592](https://arxiv.org/abs/2604.16592) - [DOI](https://doi.org/10.48550/arXiv.2604.16592) |
