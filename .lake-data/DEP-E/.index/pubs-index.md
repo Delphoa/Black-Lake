@@ -10102,3 +10102,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation* | Wang, Shihai; Chen, Tao | [arXiv:2604.21380](https://arxiv.org/abs/2604.21380) - [DOI](https://doi.org/10.48550/arXiv.2604.21380) |
+
+
+## [DEP-E-20260819-TAO-Attack Toward](../DEP-E-20260819-TAO-Attack%20Toward/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models* | Xu, Zhi; Li, Jiaqi; Zhang, Xiaotong; Yu, Hong; Liu, Han | [arXiv:2603.03081](https://arxiv.org/abs/2603.03081) - [DOI](https://doi.org/10.48550/arXiv.2603.03081) |
