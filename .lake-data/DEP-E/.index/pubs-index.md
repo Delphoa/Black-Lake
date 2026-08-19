@@ -9941,3 +9941,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods* | Wang, Xianpeng; Dong, Zhiming; Tang, Lixin; Zhang, Qingfu | [arXiv:2101.07548](https://arxiv.org/abs/2101.07548) - [DOI](https://doi.org/10.48550/arXiv.2101.07548) |
+
+
+## [DEP-E-20260819-MetaCLBench Meta](../DEP-E-20260819-MetaCLBench%20Meta/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices* | Li, Sijia; Kwon, Young D.; Lee, Lik-Hang; Hui, Pan | [arXiv:2504.00174](https://arxiv.org/abs/2504.00174) - [DOI](https://doi.org/10.48550/arXiv.2504.00174) |
