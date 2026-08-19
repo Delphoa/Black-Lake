@@ -6371,3 +6371,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *OpenYield: An Open-Source SRAM Yield Analysis and Optimization Benchmark Suite* | Shen, Shan; Li, Xingyang; Liu, Zhuohua; Ma, Junhao; Wang, Yikai; Wu, Yiheng; Sun, Yuquan; Xing, Wei W. | [arXiv:2508.04106](https://arxiv.org/abs/2508.04106) - [DOI](https://doi.org/10.48550/arXiv.2508.04106) |
+
+
+## [DEP-E-20260819-LRAS Advanced Legal](../DEP-E-20260819-LRAS%20Advanced%20Legal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LRAS: Advanced Legal Reasoning with Agentic Search* | Zhou, Yujin; Cao, Chuxue; Yang, Jinluan; Wu, Lijun; He, Conghui; Han, Sirui; Guo, Yike | [arXiv:2601.07296](https://arxiv.org/abs/2601.07296) - [DOI](https://doi.org/10.48550/arXiv.2601.07296) |
