@@ -6749,3 +6749,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling* | Li, Baolu; Qian, Jingyu; Guo, Rui; Chen, Yilun; Liu, Hanpeng; Lin, Yuan; Zhou, Junhong; Liu, Ruixin; Yang, Liu; Zheng, Yutong; Zhang, Zhenli; Li, Sean; Zheng, Chaoda; Wang, Boyang; Tenglong; Gu; Ding, Zhuangzhuang; Zheng, Pengkun; Zhang, Yu; Liu, Xianming | [arXiv:2605.24892](https://arxiv.org/abs/2605.24892) - [DOI](https://doi.org/10.48550/arXiv.2605.24892) |
+
+
+## [DEP-E-20260819-Utilizing the LightGBM](../DEP-E-20260819-Utilizing%20the%20LightGBM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Utilizing the LightGBM Algorithm for Operator User Credit Assessment Research* | Li, Shaojie; Dong, Xinqi; Ma, Danqing; Dang, Bo; Zang, Hengyi; Gong, Yulu | [arXiv:2403.14483](https://arxiv.org/abs/2403.14483) - [DOI](https://doi.org/10.54254/2755-2721/75/20240503) |
