@@ -8520,3 +8520,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MobileWorldBench: Towards Semantic World Modeling For Mobile Agents* | Li, Shufan; Kallidromitis, Konstantinos; Gokul, Akash; Kato, Yusuke; Kozuka, Kazuki; Grover, Aditya | [arXiv:2512.14014](https://arxiv.org/abs/2512.14014) - [DOI](https://doi.org/10.48550/arXiv.2512.14014) |
+
+
+## [DEP-E-20260819-Deep Reinforcement](../DEP-E-20260819-Deep%20Reinforcement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Reinforcement Learning Based Intelligent Reflecting Surface Optimization for TDD MultiUser MIMO Systems* | Zhao, Fengyu; Chen, Wen; Liu, Ziwei; Li, Jun; Wu, Qingqing | [arXiv:2307.15393](https://arxiv.org/abs/2307.15393) - [DOI](https://doi.org/10.48550/arXiv.2307.15393) |
