@@ -12077,3 +12077,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeltaLog: Deferred Materialization of Recurrent States for Linear Attention Decoding* | Junqing Lin; Jingwei Sun; Guangzhong Sun | [arXiv:2608.15533v1](https://arxiv.org/abs/2608.15533v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15533) |
+
+
+## [DEP-A-20260819-LOCAL Enabling Learning d](../DEP-A-20260819-LOCAL%20Enabling%20Learning%20d/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.15241-whitepaper-review.md`](../DEP-A-20260819-LOCAL%20Enabling%20Learning%20d/2608.15241-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LOCAL: Enabling Learning On-device Contiguously for Agent LLMs* | Xinxin Liu; Jiaxin Li; Zibo Wang; Yun Ji; Zhangqi Zhu; Qing Hu; Zhibin Wang; Rong Gu; Sheng Zhong; Chen Tian | [arXiv:2608.15241v1](https://arxiv.org/abs/2608.15241v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15241) |
