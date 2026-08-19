@@ -9773,3 +9773,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimality Analysis and Block Sparse Algorithm for Complex Compressed Sensing* | Zhang, Hui; Liu, Xin; Xiu, Naihua | [arXiv:2208.14666](https://arxiv.org/abs/2208.14666) - [DOI](https://doi.org/10.48550/arXiv.2208.14666) |
+
+
+## [DEP-E-20260819-VPO Aligning](../DEP-E-20260819-VPO%20Aligning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VPO: Aligning Text-to-Video Generation Models with Prompt Optimization* | Cheng, Jiale; Lyu, Ruiliang; Gu, Xiaotao; Liu, Xiao; Xu, Jiazheng; Lu, Yida; Teng, Jiayan; Yang, Zhuoyi; Dong, Yuxiao; Tang, Jie; Wang, Hongning; Huang, Minlie | [arXiv:2503.20491](https://arxiv.org/abs/2503.20491) - [DOI](https://doi.org/10.48550/arXiv.2503.20491) |
