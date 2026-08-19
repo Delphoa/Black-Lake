@@ -7561,3 +7561,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey on Inference Optimization Techniques for Mixture of Experts Models* | Liu, Jiacheng; Tang, Peng; Wang, Wenfeng; Ren, Yuhang; Hou, Xiaofeng; Heng, Pheng-Ann; Guo, Minyi; Li, Chao | [arXiv:2412.14219](https://arxiv.org/abs/2412.14219) - [DOI](https://doi.org/10.1145/3794845) |
+
+
+## [DEP-E-20260819-Inferring Reward Machines](../DEP-E-20260819-Inferring%20Reward%20Machines/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inferring Reward Machines and Transition Machines from Partially Observable Markov Decision Processes* | Wu, Yuly; Liu, Jiamou; Zhang, Libo | [arXiv:2508.01947](https://arxiv.org/abs/2508.01947) - [DOI](https://doi.org/10.48550/arXiv.2508.01947) |

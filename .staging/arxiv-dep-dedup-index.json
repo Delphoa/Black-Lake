@@ -19206,6 +19206,29 @@
         "https://doi.org/10.1145/3794845"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Inferring Reward Machines",
+        ".logs/20260819-Arxiv-Inferring-Reward-Machines-and-Transition-LOG.md",
+        ".reports/BL-Arxiv-Inferring-Reward-Machines-and-Transition-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.01947",
+      "arxiv_id": "2508.01947",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2508.01947",
+      "normalized_title": "Inferring Reward Machines and Transition Machines from Partially Observable Markov Decision Processes",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P105; draw 40753 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 29; reselections 31; complete-source gate passed; all source files withheld locally.",
+      "slug": "Inferring-Reward-Machines-and-Transition",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.01947",
+        "https://arxiv.org/html/2508.01947",
+        "https://arxiv.org/pdf/2508.01947",
+        "https://doi.org/10.48550/arXiv.2508.01947"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
