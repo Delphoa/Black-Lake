@@ -12927,6 +12927,29 @@
         "https://doi.org/10.48550/arXiv.2508.09442"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Online Learning with",
+        ".logs/20260819-Arxiv-Online-Learning-with-Cumulative-Oversampling-LOG.md",
+        ".reports/BL-Arxiv-Online-Learning-with-Cumulative-Oversampling-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2004.11963",
+      "arxiv_id": "2004.11963",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2004.11963",
+      "normalized_title": "Online Learning with Cumulative Oversampling: Application to Budgeted Influence Maximization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P132; draw 20203 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 4; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Online-Learning-with-Cumulative-Oversampling",
+      "source_urls": [
+        "https://arxiv.org/abs/2004.11963",
+        "https://arxiv.org/html/2004.11963",
+        "https://arxiv.org/pdf/2004.11963",
+        "https://doi.org/10.48550/arXiv.2004.11963"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
