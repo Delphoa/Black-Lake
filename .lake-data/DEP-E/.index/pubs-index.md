@@ -7176,3 +7176,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RGL: A Graph-Centric, Modular Framework for Efficient Retrieval-Augmented Generation on Graphs* | Li, Yuan; Hu, Jun; Jiang, Jiaxin; Liu, Zemin; Hooi, Bryan; He, Bingsheng | [arXiv:2503.19314](https://arxiv.org/abs/2503.19314) - [DOI](https://doi.org/10.48550/arXiv.2503.19314) |
+
+
+## [DEP-E-20260819-A Spatial Mapping](../DEP-E-20260819-A%20Spatial%20Mapping/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Spatial Mapping Algorithm with Applications in Deep Learning-Based Structure Classification* | Corcoran, Thomas; Zamora-Resendiz, Rafael; Liu, Xinlian; Crivelli, Silvia | [arXiv:1802.02532](https://arxiv.org/abs/1802.02532) - [DOI](https://doi.org/10.48550/arXiv.1802.02532) |
