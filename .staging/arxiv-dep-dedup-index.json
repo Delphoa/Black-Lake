@@ -27509,6 +27509,29 @@
         "https://doi.org/10.48550/arXiv.2601.09241"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Think Before You Act",
+        ".logs/20260819-Arxiv-Think-Before-You-Act-Decision-Transformers-with-LOG.md",
+        ".reports/BL-Arxiv-Think-Before-You-Act-Decision-Transformers-with-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2305.16338",
+      "arxiv_id": "2305.16338",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2305.16338",
+      "normalized_title": "Think Before You Act: Decision Transformers with Working Memory",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P466; draw 34389 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 5; focus exclusions 16; reselections 22; complete-source gate passed; all source files withheld locally.",
+      "slug": "Think-Before-You-Act-Decision-Transformers-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2305.16338",
+        "https://arxiv.org/html/2305.16338",
+        "https://arxiv.org/pdf/2305.16338",
+        "https://doi.org/10.48550/arXiv.2305.16338"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

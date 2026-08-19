@@ -10088,3 +10088,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation* | Ren, Jing; Li, Bowen; Xu, Ziqi; Zhang, Xikun; Fayek, Haytham; Li, Xiaodong | [arXiv:2601.09241](https://arxiv.org/abs/2601.09241) - [DOI](https://doi.org/10.48550/arXiv.2601.09241) |
+
+
+## [DEP-E-20260819-Think Before You Act](../DEP-E-20260819-Think%20Before%20You%20Act/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think Before You Act: Decision Transformers with Working Memory* | Kang, Jikun; Laroche, Romain; Yuan, Xingdi; Trischler, Adam; Liu, Xue; Fu, Jie | [arXiv:2305.16338](https://arxiv.org/abs/2305.16338) - [DOI](https://doi.org/10.48550/arXiv.2305.16338) |
