@@ -11924,3 +11924,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes* | Jie Li; Chenxin Jia; Jinliang Shen; Cunzhuang Liu; Ruiyi Ding; Jianwen Xian; Kang He; Chengru Song | [arXiv:2608.13057v2](https://arxiv.org/abs/2608.13057v2) - [DOI](https://doi.org/10.48550/arXiv.2608.13057) |
+
+
+## [DEP-A-20260819-FlashDrive Flash Vision L](../DEP-A-20260819-FlashDrive%20Flash%20Vision%20L/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12932-whitepaper-review.md`](../DEP-A-20260819-FlashDrive%20Flash%20Vision%20L/2608.12932-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving* | Zekai Li; Yihao Liang; Hongfei Zhang; Jian Chen; Yesheng Liang; Zhijian Liu | [arXiv:2608.12932v1](https://arxiv.org/abs/2608.12932v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12932) |
