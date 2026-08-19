@@ -6210,3 +6210,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MEPG:Multi-Expert Planning and Generation for Compositionally-Rich Image Generation* | Zhao, Yuan; Liu, Lin | [arXiv:2509.04126](https://arxiv.org/abs/2509.04126) - [DOI](https://doi.org/10.48550/arXiv.2509.04126) |
+
+
+## [DEP-E-20260819-GatePro Parameter-Free](../DEP-E-20260819-GatePro%20Parameter-Free/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models* | Zheng, Chen; Cai, Yuhang; Liu, Deyi; Ma, Jin; Ma, Yiyuan; Yang, Yuan; Liu, Jing; Zeng, Yutao; Zhou, Xun; Qiao, Siyuan | [arXiv:2510.13079](https://arxiv.org/abs/2510.13079) - [DOI](https://doi.org/10.48550/arXiv.2510.13079) |
