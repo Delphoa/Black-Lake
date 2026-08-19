@@ -11663,3 +11663,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning* | Qiyang Xie; Jialun Wu; Xinjie He; Su Liu; Shuai Xiao; Zhiyuan Lin; Weikai Zhou | [arXiv:2606.04442v1](https://arxiv.org/abs/2606.04442v1) - [DOI](https://doi.org/10.48550/arXiv.2606.04442) |
+
+
+## [DEP-A-20260819-User as Code Executable](../DEP-A-20260819-User%20as%20Code%20Executable/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.16707-whitepaper-review.md`](../DEP-A-20260819-User%20as%20Code%20Executable/2606.16707-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *User as Code: Executable Memory for Personalized Agents* | Bojie Li | [arXiv:2606.16707v1](https://arxiv.org/abs/2606.16707v1) - [DOI](https://doi.org/10.48550/arXiv.2606.16707) |
