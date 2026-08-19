@@ -20862,6 +20862,29 @@
         "https://doi.org/10.48550/arXiv.2405.14338"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Lifetime-based",
+        ".logs/20260819-Arxiv-Lifetime-based-Optimization-for-Simulating-LOG.md",
+        ".reports/BL-Arxiv-Lifetime-based-Optimization-for-Simulating-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2205.00393",
+      "arxiv_id": "2205.00393",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3572848.3577529",
+      "normalized_title": "Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P177; draw 55198 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Lifetime-based-Optimization-for-Simulating",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.00393",
+        "https://arxiv.org/html/2205.00393",
+        "https://arxiv.org/pdf/2205.00393",
+        "https://doi.org/10.1145/3572848.3577529"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -8065,3 +8065,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models* | Liu, Jiuming; Han, Jinru; Liu, Lihao; Aviles-Rivero, Angelica I.; Jiang, Chaokang; Liu, Zhe; Wang, Hesheng | [arXiv:2405.14338](https://arxiv.org/abs/2405.14338) - [DOI](https://doi.org/10.48550/arXiv.2405.14338) |
+
+
+## [DEP-E-20260819-Lifetime-based](../DEP-E-20260819-Lifetime-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer* | Chen, Yaojian; Liu, Yong; Shi, Xinmin; Song, Jiawei; Liu, Xin; Gan, Lin; Guo, Chu; Fu, Haohuan; Gao, Jie; Chen, Dexun; Yang, Guangwen | [arXiv:2205.00393](https://arxiv.org/abs/2205.00393) - [DOI](https://doi.org/10.1145/3572848.3577529) |
