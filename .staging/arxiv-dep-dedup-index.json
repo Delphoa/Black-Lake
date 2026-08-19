@@ -26129,6 +26129,29 @@
         "https://doi.org/10.48550/arXiv.2605.15980"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-MAO-ARAG Multi-Agent",
+        ".logs/20260819-Arxiv-MAO-ARAG-Multi-Agent-Orchestration-for-Adaptive-LOG.md",
+        ".reports/BL-Arxiv-MAO-ARAG-Multi-Agent-Orchestration-for-Adaptive-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2508.01005",
+      "arxiv_id": "2508.01005",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2508.01005",
+      "normalized_title": "MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P406; draw 66126 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 3; focus exclusions 16; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "MAO-ARAG-Multi-Agent-Orchestration-for-Adaptive",
+      "source_urls": [
+        "https://arxiv.org/abs/2508.01005",
+        "https://arxiv.org/html/2508.01005",
+        "https://arxiv.org/pdf/2508.01005",
+        "https://doi.org/10.48550/arXiv.2508.01005"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

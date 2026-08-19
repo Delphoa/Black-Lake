@@ -9668,3 +9668,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization* | He, Xiaoxuan; Fu, Siming; Xue, Zeyue; Wang, Weijie; He, Ruizhe; Li, Yuming; Yin, Dacheng; Dong, Shuai; Huang, Haoyang; Wang, Hongfa; Duan, Nan; Zhuang, Bohan | [arXiv:2605.15980](https://arxiv.org/abs/2605.15980) - [DOI](https://doi.org/10.48550/arXiv.2605.15980) |
+
+
+## [DEP-E-20260819-MAO-ARAG Multi-Agent](../DEP-E-20260819-MAO-ARAG%20Multi-Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation* | Chen, Yiqun; Zhang, Erhan; Yan, Lingyong; Wang, Shuaiqiang; Huang, Jizhou; Yin, Dawei; Mao, Jiaxin | [arXiv:2508.01005](https://arxiv.org/abs/2508.01005) - [DOI](https://doi.org/10.48550/arXiv.2508.01005) |
