@@ -7939,3 +7939,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Avoid Catastrophic Forgetting with Rank-1 Fisher from Diffusion Models* | Wang, Zekun; Gupta, Anant; Dong, Zihan; MacLellan, Christopher J. | [arXiv:2509.23593](https://arxiv.org/abs/2509.23593) - [DOI](https://doi.org/10.48550/arXiv.2509.23593) |
+
+
+## [DEP-E-20260819-OmniDataComposer A](../DEP-E-20260819-OmniDataComposer%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation* | Yu, Dongyang; Wang, Shihao; Fang, Yuan; An, Wangpeng | [arXiv:2308.04126](https://arxiv.org/abs/2308.04126) - [DOI](https://doi.org/10.48550/arXiv.2308.04126) |

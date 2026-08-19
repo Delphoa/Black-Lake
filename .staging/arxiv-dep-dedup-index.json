@@ -20448,6 +20448,29 @@
         "https://doi.org/10.48550/arXiv.2509.23593"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-OmniDataComposer A",
+        ".logs/20260819-Arxiv-OmniDataComposer-A-Unified-Data-Structure-for-LOG.md",
+        ".reports/BL-Arxiv-OmniDataComposer-A-Unified-Data-Structure-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.04126",
+      "arxiv_id": "2308.04126",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2308.04126",
+      "normalized_title": "OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P159; draw 20464 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "OmniDataComposer-A-Unified-Data-Structure-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.04126",
+        "https://arxiv.org/html/2308.04126",
+        "https://arxiv.org/pdf/2308.04126",
+        "https://doi.org/10.48550/arXiv.2308.04126"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
