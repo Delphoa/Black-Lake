@@ -10817,3 +10817,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AKB-48: A Real-World Articulated Object Knowledge Base* | Liu, Liu; Xu, Wenqiang; Fu, Haoyuan; Qian, Sucheng; Han, Yang; Lu, Cewu | [arXiv:2202.08432](https://arxiv.org/abs/2202.08432) - [DOI](https://doi.org/10.48550/arXiv.2202.08432) |
+
+## [DEP-A-20260820-Absolute Zero Intake](../DEP-A-20260820-Absolute%20Zero%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Absolute%20Zero%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Absolute Zero: Reinforced Self-play Reasoning with Zero Data* | Zhao, Andrew; Wu, Yiran; Yue, Yang; Wu, Tong; Xu, Quentin; Yue, Yang; Lin, Matthieu; Wang, Shenzhi; Wu, Qingyun; Zheng, Zilong; Huang, Gao | [arXiv:2505.03335](https://arxiv.org/abs/2505.03335) - [DOI](https://doi.org/10.48550/arXiv.2505.03335) |
