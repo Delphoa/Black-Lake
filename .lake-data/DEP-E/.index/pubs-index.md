@@ -5965,3 +5965,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Quantum optimization with arbitrary connectivity using Rydberg atom arrays* | Nguyen, Minh-Thi; Liu, Jin-Guo; Wurtz, Jonathan; Lukin, Mikhail D.; Wang, Sheng-Tao; Pichler, Hannes | [arXiv:2209.03965](https://arxiv.org/abs/2209.03965) - [DOI](https://doi.org/10.1103/PRXQuantum.4.010316) |
+
+
+## [DEP-E-20260819-Modified Baum-Welch](../DEP-E-20260819-Modified%20Baum-Welch/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Modified Baum-Welch Algorithm for Joint Blind Channel Estimation and Turbo Equalization* | Chen, Chin-Hung; Karanov, Boris; Nikoloska, Ivana; van Houtum, Wim; Wu, Yan; Alvarado, Alex | [arXiv:2412.07907](https://arxiv.org/abs/2412.07907) - [DOI](https://doi.org/10.1109/IEEECONF62907.2025.10949109) |
