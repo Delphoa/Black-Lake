@@ -16584,6 +16584,29 @@
         "https://doi.org/10.48550/arXiv.2006.08509"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Pairwise Proximal Policy",
+        ".logs/20260819-Arxiv-Pairwise-Proximal-Policy-Optimization-Harnessing-LOG.md",
+        ".reports/BL-Arxiv-Pairwise-Proximal-Policy-Optimization-Harnessing-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.00212",
+      "arxiv_id": "2310.00212",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2310.00212",
+      "normalized_title": "Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P291; draw 9470 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 1; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Pairwise-Proximal-Policy-Optimization-Harnessing",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.00212",
+        "https://arxiv.org/html/2310.00212",
+        "https://arxiv.org/pdf/2310.00212",
+        "https://doi.org/10.48550/arXiv.2310.00212"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -6763,3 +6763,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *APQ: Joint Search for Network Architecture, Pruning and Quantization Policy* | Wang, Tianzhe; Wang, Kuan; Cai, Han; Lin, Ji; Liu, Zhijian; Han, Song | [arXiv:2006.08509](https://arxiv.org/abs/2006.08509) - [DOI](https://doi.org/10.48550/arXiv.2006.08509) |
+
+
+## [DEP-E-20260819-Pairwise Proximal Policy](../DEP-E-20260819-Pairwise%20Proximal%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment* | Wu, Tianhao; Zhu, Banghua; Zhang, Ruoyu; Wen, Zhaojin; Ramchandran, Kannan; Jiao, Jiantao | [arXiv:2310.00212](https://arxiv.org/abs/2310.00212) - [DOI](https://doi.org/10.48550/arXiv.2310.00212) |
