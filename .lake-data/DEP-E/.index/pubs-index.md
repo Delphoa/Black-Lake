@@ -8842,3 +8842,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time* | Chen, Yilong; Wang, Guoxia; Shang, Junyuan; Cui, Shiyao; Zhang, Zhenyu; Liu, Tingwen; Wang, Shuohuan; Sun, Yu; Yu, Dianhai; Wu, Hua | [arXiv:2408.03675](https://arxiv.org/abs/2408.03675) - [DOI](https://doi.org/10.48550/arXiv.2408.03675) |
+
+
+## [DEP-E-20260819-Towards Personalized and](../DEP-E-20260819-Towards%20Personalized%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning* | Zhang, Han; Wang, Songlin; Zhang, Kang; Tang, Zhiling; Jiang, Yunjiang; Xiao, Yun; Yan, Weipeng; Yang, Wen-Yun | [arXiv:2006.02282](https://arxiv.org/abs/2006.02282) - [DOI](https://doi.org/10.48550/arXiv.2006.02282) |
