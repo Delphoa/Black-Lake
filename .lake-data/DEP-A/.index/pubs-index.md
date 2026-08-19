@@ -12041,3 +12041,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN* | Tianhang Ding; Jianchun Liu; Hongli Xu | [arXiv:2608.16477v1](https://arxiv.org/abs/2608.16477v1) - [DOI](https://doi.org/10.48550/arXiv.2608.16477) |
+
+
+## [DEP-A-20260819-KV Pipe Relation Between](../DEP-A-20260819-KV%20Pipe%20Relation%20Between/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.15943-whitepaper-review.md`](../DEP-A-20260819-KV%20Pipe%20Relation%20Between/2608.15943-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KV-Pipe: On the Relation Between KV Sharing and Pipeline Parallel Efficiency in LLMs* | Maryam Dialameh; Hossein Rajabzadeh; Harish Krishnamoorthy Murali; Walid Ahmed; Weiwei Zhang; Hyock Ju Kwon | [arXiv:2608.15943v1](https://arxiv.org/abs/2608.15943v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15943) |
