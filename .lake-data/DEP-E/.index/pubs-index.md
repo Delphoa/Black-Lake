@@ -6266,3 +6266,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgriAgent: Contract-Driven Planning and Capability-Aware Tool Orchestration in Real-World Agriculture* | Yang, Bo; Zhang, Yu; Chen, Yunkui; Feng, Lanfei; Xu, Xiao; Aierken, Nueraili; Li, Shijian | [arXiv:2601.08308](https://arxiv.org/abs/2601.08308) - [DOI](https://doi.org/10.48550/arXiv.2601.08308) |
+
+
+## [DEP-E-20260819-Retrieval-GRPO A](../DEP-E-20260819-Retrieval-GRPO%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-GRPO: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search* | Liu, Xingxian; Li, Dongshuai; Wan, Jiahui; Wen, Tao; Ling, Gui; Yan, Yuliang; Lv, Fuyu; Ou, Dan; Tang, Haihong; Zheng, Bo | [arXiv:2511.13885](https://arxiv.org/abs/2511.13885) - [DOI](https://doi.org/10.48550/arXiv.2511.13885) |
