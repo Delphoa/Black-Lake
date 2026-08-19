@@ -7211,3 +7211,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation* | Wu, Yuheng; Gokmen, Berk; Xie, Zhouhua; Li, Peijing; Trippel, Caroline; Raina, Priyanka; Tambe, Thierry | [arXiv:2602.07032](https://arxiv.org/abs/2602.07032) - [DOI](https://doi.org/10.48550/arXiv.2602.07032) |
+
+
+## [DEP-E-20260819-Unfolding the Alternating](../DEP-E-20260819-Unfolding%20the%20Alternating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unfolding the Alternating Optimization for Blind Super Resolution* | Luo, Zhengxiong; Huang, Yan; Li, Shang; Wang, Liang; Tan, Tieniu | [arXiv:2010.02631](https://arxiv.org/abs/2010.02631) - [DOI](https://doi.org/10.48550/arXiv.2010.02631) |
