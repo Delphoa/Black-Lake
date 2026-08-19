@@ -4894,3 +4894,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TDR: Task-Decoupled Retrieval with Fine-Grained LLM Feedback for In-Context Learning* | Chen, Yifu; Huang, Bingchen; Wang, Zhiling; Du, Yuanchao; Luo, Junfeng; Shen, Lei; chen, Zhineng | [arXiv:2507.18340](https://arxiv.org/abs/2507.18340) - [DOI](https://doi.org/10.48550/arXiv.2507.18340) |
+
+
+## [DEP-E-20260819-A practice-oriented](../DEP-E-20260819-A%20practice-oriented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A practice-oriented overview of call center workforce planning* | Koole, Ger; Li, Siqao | [arXiv:2101.10122](https://arxiv.org/abs/2101.10122) - [DOI](https://doi.org/10.48550/arXiv.2101.10122) |
