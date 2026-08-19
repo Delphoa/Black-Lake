@@ -6602,3 +6602,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AniME: Adaptive Multi-Agent Planning for Long Animation Generation* | Zhang, Lisai; Xu, Baohan; Yang, Siqian; Yin, Mingyu; Liu, Jing; Xu, Chao; Wang, Siqi; Wu, Yidi; Hong, Yuxin; Zhang, Zihao; Liang, Yanzhang; Jiang, Yudong | [arXiv:2508.18781](https://arxiv.org/abs/2508.18781) - [DOI](https://doi.org/10.48550/arXiv.2508.18781) |
+
+
+## [DEP-E-20260819-Search-Based Path](../DEP-E-20260819-Search-Based%20Path/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Search-Based Path Planning Algorithm for Autonomous Parking:Multi-Heuristic Hybrid A** | Huang, Jihao; Liu, Zhitao; Chi, Xuemin; Hong, Feng; Su, Hongye | [arXiv:2210.08828](https://arxiv.org/abs/2210.08828) - [DOI](https://doi.org/10.48550/arXiv.2210.08828) |
