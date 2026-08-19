@@ -6392,3 +6392,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Active Learning over DNN: Automated Engineering Design Optimization for Fluid Dynamics Based on Self-Simulated Dataset* | Chen, Yang | [arXiv:2001.08075](https://arxiv.org/abs/2001.08075) - [DOI](https://doi.org/10.48550/arXiv.2001.08075) |
+
+
+## [DEP-E-20260819-Fast and Memory-Efficient](../DEP-E-20260819-Fast%20and%20Memory-Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast and Memory-Efficient Video Diffusion Using Streamlined Inference* | Zhan, Zheng; Wu, Yushu; Gong, Yifan; Meng, Zichong; Kong, Zhenglun; Yang, Changdi; Yuan, Geng; Zhao, Pu; Niu, Wei; Wang, Yanzhi | [arXiv:2411.01171](https://arxiv.org/abs/2411.01171) - [DOI](https://doi.org/10.48550/arXiv.2411.01171) |
