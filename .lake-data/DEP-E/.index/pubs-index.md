@@ -10277,3 +10277,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives* | Wu, Xuan; Wang, Di; Wen, Lijie; Xiao, Yubin; Wu, Chunguo; Wu, Yuesong; Yu, Chaoyu; Maskell, Douglas L.; Zhou, You | [arXiv:2406.00415](https://arxiv.org/abs/2406.00415) - [DOI](https://doi.org/10.48550/arXiv.2406.00415) |
+
+
+## [DEP-E-20260819-QMamba Post-Training](../DEP-E-20260819-QMamba%20Post-Training/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QMamba: Post-Training Quantization for Vision State Space Models* | Li, Yinglong; Liu, Xiaoyu; Li, Jiacheng; Xu, Ruikang; Chen, Yinda; Xiong, Zhiwei | [arXiv:2501.13624](https://arxiv.org/abs/2501.13624) - [DOI](https://doi.org/10.48550/arXiv.2501.13624) |

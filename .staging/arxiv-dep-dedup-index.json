@@ -28130,6 +28130,29 @@
         "https://doi.org/10.48550/arXiv.2406.00415"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-QMamba Post-Training",
+        ".logs/20260819-Arxiv-QMamba-Post-Training-Quantization-for-Vision-LOG.md",
+        ".reports/BL-Arxiv-QMamba-Post-Training-Quantization-for-Vision-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.13624",
+      "arxiv_id": "2501.13624",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2501.13624",
+      "normalized_title": "QMamba: Post-Training Quantization for Vision State Space Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P493; draw 59959 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 5; focus exclusions 13; reselections 18; complete-source gate passed; all source files withheld locally.",
+      "slug": "QMamba-Post-Training-Quantization-for-Vision",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.13624",
+        "https://arxiv.org/html/2501.13624",
+        "https://arxiv.org/pdf/2501.13624",
+        "https://doi.org/10.48550/arXiv.2501.13624"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
