@@ -9752,3 +9752,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos* | Ren, Xubin; Xu, Lingrui; Xia, Long; Wang, Shuaiqiang; Yin, Dawei; Huang, Chao | [arXiv:2502.01549](https://arxiv.org/abs/2502.01549) - [DOI](https://doi.org/10.48550/arXiv.2502.01549) |
+
+
+## [DEP-E-20260819-Evolving-RL End-to-End](../DEP-E-20260819-Evolving-RL%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability within Agents* | Fan, Zhiyuan; Jin, Wenwei; Zhang, Feng; Li, Bin; Dong, Yihong; Hu, Yao; Li, Jiawei | [arXiv:2605.10663](https://arxiv.org/abs/2605.10663) - [DOI](https://doi.org/10.48550/arXiv.2605.10663) |
