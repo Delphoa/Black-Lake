@@ -5454,3 +5454,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GIPO: Gaussian Importance Sampling Policy Optimization* | Lu, Chengxuan; Zhang, Zhenquan; Wang, Shukuan; Lin, Qunzhi; Sun, Baigui; Liu, Yang | [arXiv:2603.03955](https://arxiv.org/abs/2603.03955) - [DOI](https://doi.org/10.48550/arXiv.2603.03955) |
+
+
+## [DEP-E-20260819-Tug-of-War Between](../DEP-E-20260819-Tug-of-War%20Between/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models* | Jin, Zhuoran; Cao, Pengfei; Chen, Yubo; Liu, Kang; Jiang, Xiaojian; Xu, Jiexin; Li, Qiuxia; Zhao, Jun | [arXiv:2402.14409](https://arxiv.org/abs/2402.14409) - [DOI](https://doi.org/10.48550/arXiv.2402.14409) |
