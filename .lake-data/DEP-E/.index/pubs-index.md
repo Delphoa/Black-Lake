@@ -6175,3 +6175,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis* | Xie, Dongqing; Wu, Yonghuang | [arXiv:2603.06378](https://arxiv.org/abs/2603.06378) - [DOI](https://doi.org/10.48550/arXiv.2603.06378) |
+
+
+## [DEP-E-20260819-SwarmCVT Centroidal](../DEP-E-20260819-SwarmCVT%20Centroidal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics* | Gao, James; Lee, Jacob; Zhou, Yuting; Hu, Yunze; Liu, Chang; Zhu, Pingping | [arXiv:2410.02510](https://arxiv.org/abs/2410.02510) - [DOI](https://doi.org/10.48550/arXiv.2410.02510) |
