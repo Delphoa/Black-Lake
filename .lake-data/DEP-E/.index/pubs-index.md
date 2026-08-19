@@ -8779,3 +8779,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Black-Box Prompt Optimization: Aligning Large Language Models without Model Training* | Cheng, Jiale; Liu, Xiao; Zheng, Kehan; Ke, Pei; Wang, Hongning; Dong, Yuxiao; Tang, Jie; Huang, Minlie | [arXiv:2311.04155](https://arxiv.org/abs/2311.04155) - [DOI](https://doi.org/10.48550/arXiv.2311.04155) |
+
+
+## [DEP-E-20260819-SurvMamba State Space](../DEP-E-20260819-SurvMamba%20State%20Space/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction* | Chen, Ying; Xie, Jiajing; Lin, Yuxiang; Song, Yuhang; Yang, Wenxian; Yu, Rongshan | [arXiv:2404.08027](https://arxiv.org/abs/2404.08027) - [DOI](https://doi.org/10.48550/arXiv.2404.08027) |

@@ -23208,6 +23208,29 @@
         "https://doi.org/10.48550/arXiv.2311.04155"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-SurvMamba State Space",
+        ".logs/20260819-Arxiv-SurvMamba-State-Space-Model-with-Multi-grained-LOG.md",
+        ".reports/BL-Arxiv-SurvMamba-State-Space-Model-with-Multi-grained-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2404.08027",
+      "arxiv_id": "2404.08027",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2404.08027",
+      "normalized_title": "SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P279; draw 59708 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 11; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "SurvMamba-State-Space-Model-with-Multi-grained",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.08027",
+        "https://arxiv.org/html/2404.08027",
+        "https://arxiv.org/pdf/2404.08027",
+        "https://doi.org/10.48550/arXiv.2404.08027"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
