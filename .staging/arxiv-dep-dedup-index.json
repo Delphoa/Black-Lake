@@ -14560,6 +14560,29 @@
         "https://doi.org/10.48550/arXiv.2603.26160"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Anderson Acceleration for",
+        ".logs/20260819-Arxiv-Anderson-Acceleration-for-Geometry-Optimization-LOG.md",
+        ".reports/BL-Arxiv-Anderson-Acceleration-for-Geometry-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1805.05715",
+      "arxiv_id": "1805.05715",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3197517.3201290",
+      "normalized_title": "Anderson Acceleration for Geometry Optimization and Physics Simulation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P203; draw 69496 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Anderson-Acceleration-for-Geometry-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/1805.05715",
+        "https://arxiv.org/html/1805.05715",
+        "https://arxiv.org/pdf/1805.05715",
+        "https://doi.org/10.1145/3197517.3201290"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

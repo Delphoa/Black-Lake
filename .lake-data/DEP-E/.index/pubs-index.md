@@ -6147,3 +6147,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Distributed Quantum Discrete Logarithm Algorithm* | Xu, Renjie; Qiu, Daowen; Xiao, Ligang; Luo, Le; Zhou, Xu | [arXiv:2603.26160](https://arxiv.org/abs/2603.26160) - [DOI](https://doi.org/10.48550/arXiv.2603.26160) |
+
+
+## [DEP-E-20260819-Anderson Acceleration for](../DEP-E-20260819-Anderson%20Acceleration%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Anderson Acceleration for Geometry Optimization and Physics Simulation* | Peng, Yue; Deng, Bailin; Zhang, Juyong; Geng, Fanyu; Qin, Wenjie; Liu, Ligang | [arXiv:1805.05715](https://arxiv.org/abs/1805.05715) - [DOI](https://doi.org/10.1145/3197517.3201290) |
