@@ -6819,3 +6819,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Attention-based Long Short-Term Memory Framework for Detection of Bitcoin Scams* | Zhao, Puyang; Tian, Wei; Xiao, Lefu; Liu, Xinhui; Wu, Jingjin | [arXiv:2210.14408](https://arxiv.org/abs/2210.14408) - [DOI](https://doi.org/10.48550/arXiv.2210.14408) |
+
+
+## [DEP-E-20260819-Reimagination with](../DEP-E-20260819-Reimagination%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control* | Chen, Yuxin; Wei, Jianglan; Xu, Chenfeng; Li, Boyi; Tomizuka, Masayoshi; Bajcsy, Andrea; Tian, Ran | [arXiv:2506.16565](https://arxiv.org/abs/2506.16565) - [DOI](https://doi.org/10.48550/arXiv.2506.16565) |

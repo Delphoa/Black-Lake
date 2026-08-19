@@ -16768,6 +16768,29 @@
         "https://doi.org/10.48550/arXiv.2210.14408"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Reimagination with",
+        ".logs/20260819-Arxiv-Reimagination-with-Test-time-Observation-LOG.md",
+        ".reports/BL-Arxiv-Reimagination-with-Test-time-Observation-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.16565",
+      "arxiv_id": "2506.16565",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2506.16565",
+      "normalized_title": "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P299; draw 62812 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 8; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Reimagination-with-Test-time-Observation",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.16565",
+        "https://arxiv.org/html/2506.16565",
+        "https://arxiv.org/pdf/2506.16565",
+        "https://doi.org/10.48550/arXiv.2506.16565"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
