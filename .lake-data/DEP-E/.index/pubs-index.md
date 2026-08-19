@@ -7449,3 +7449,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography* | Yuluo, Yikuang; Wang, Ao; Kuan, Shen; Liu, Yujie; Liao, Wang; Chen, Ying; Zhong, Shuangyang; Huang, Yixing; Wang, Fuquan | [arXiv:2606.22525](https://arxiv.org/abs/2606.22525) - [DOI](https://doi.org/10.48550/arXiv.2606.22525) |
+
+
+## [DEP-E-20260819-Representation](../DEP-E-20260819-Representation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Representation Memorization for Fast Learning New Knowledge without Forgetting* | Mi, Fei; Lin, Tao; Faltings, Boi | [arXiv:2108.12596](https://arxiv.org/abs/2108.12596) - [DOI](https://doi.org/10.48550/arXiv.2108.12596) |
