@@ -11627,3 +11627,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes* | Aimilios Hadjiliasi; Louis Nisiotis | [arXiv:2608.13420v1](https://arxiv.org/abs/2608.13420v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13420) |
+
+
+## [DEP-A-20260819-SemanticZip Pilot Framewo](../DEP-A-20260819-SemanticZip%20Pilot%20Framewo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.24541-whitepaper-review.md`](../DEP-A-20260819-SemanticZip%20Pilot%20Framewo/2605.24541-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SemanticZip: A Pilot Framework for Lossy Text Compression with LLMs as Semantic Decompressors* | Natalia Trukhina; Vadim Vashkelis | [arXiv:2605.24541v1](https://arxiv.org/abs/2605.24541v1) - [DOI](https://doi.org/10.48550/arXiv.2605.24541) |
