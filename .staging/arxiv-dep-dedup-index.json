@@ -23990,6 +23990,29 @@
         "https://doi.org/10.48550/arXiv.2505.05916"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Masked Graph Learning",
+        ".logs/20260819-Arxiv-Masked-Graph-Learning-with-Recurrent-Alignment-LOG.md",
+        ".reports/BL-Arxiv-Masked-Graph-Learning-with-Recurrent-Alignment-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.16714",
+      "arxiv_id": "2407.16714",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.16714",
+      "normalized_title": "Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P313; draw 43842 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 2; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "Masked-Graph-Learning-with-Recurrent-Alignment",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.16714",
+        "https://arxiv.org/html/2407.16714",
+        "https://arxiv.org/pdf/2407.16714",
+        "https://doi.org/10.48550/arXiv.2407.16714"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

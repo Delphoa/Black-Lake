@@ -9017,3 +9017,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *IRNN: Innovation-driven Recurrent Neural Network for Time-Series Data Modeling and Prediction* | Zhou, Yifan; Wang, Yibo; Shang, Chao | [arXiv:2505.05916](https://arxiv.org/abs/2505.05916) - [DOI](https://doi.org/10.48550/arXiv.2505.05916) |
+
+
+## [DEP-E-20260819-Masked Graph Learning](../DEP-E-20260819-Masked%20Graph%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation* | Meng, Tao; Zhang, Fuchen; Shou, Yuntao; Shao, Hongen; Ai, Wei; Li, Keqin | [arXiv:2407.16714](https://arxiv.org/abs/2407.16714) - [DOI](https://doi.org/10.48550/arXiv.2407.16714) |
