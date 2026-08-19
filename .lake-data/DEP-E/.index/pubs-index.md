@@ -6658,3 +6658,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *R-Transformer: Recurrent Neural Network Enhanced Transformer* | Wang, Zhiwei; Ma, Yao; Liu, Zitao; Tang, Jiliang | [arXiv:1907.05572](https://arxiv.org/abs/1907.05572) - [DOI](https://doi.org/10.48550/arXiv.1907.05572) |
+
+
+## [DEP-E-20260819-Mission schedule of agile](../DEP-E-20260819-Mission%20schedule%20of%20agile/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mission schedule of agile satellites based on Proximal Policy Optimization Algorithm* | Liu, Xinrui | [arXiv:2007.02352](https://arxiv.org/abs/2007.02352) - [DOI](https://doi.org/10.48550/arXiv.2007.02352) |
