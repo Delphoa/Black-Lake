@@ -11114,3 +11114,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scheduling Mixed RL Rollouts Beyond Prefix Locality* | Zetao Hong; Song Yuan; Yuanhao Ding; Yibo Zhu; Daxin Jiang; Zhibin Wang; Chen Tian | [arXiv:2608.11152v1](https://arxiv.org/abs/2608.11152v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11152) |
+
+
+## [DEP-A-20260819-Neural Introspection Gati](../DEP-A-20260819-Neural%20Introspection%20Gati/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.10824-whitepaper-review.md`](../DEP-A-20260819-Neural%20Introspection%20Gati/2608.10824-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models* | Zhijie Wu; Kento Kawaharazuka; Kei Okada | [arXiv:2608.10824v1](https://arxiv.org/abs/2608.10824v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10824) |
