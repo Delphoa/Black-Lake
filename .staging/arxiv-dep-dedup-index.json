@@ -11639,6 +11639,29 @@
         "https://doi.org/10.48550/arXiv.2210.12777"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-VCORE Variance-Controlled",
+        ".logs/20260819-Arxiv-VCORE-Variance-Controlled-Optimization-based-LOG.md",
+        ".reports/BL-Arxiv-VCORE-Variance-Controlled-Optimization-based-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.27462",
+      "arxiv_id": "2510.27462",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2510.27462",
+      "normalized_title": "VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P76; draw 41106 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 15; reselections 17; complete-source gate passed; all source files withheld locally.",
+      "slug": "VCORE-Variance-Controlled-Optimization-based",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.27462",
+        "https://arxiv.org/html/2510.27462",
+        "https://arxiv.org/pdf/2510.27462",
+        "https://doi.org/10.48550/arXiv.2510.27462"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

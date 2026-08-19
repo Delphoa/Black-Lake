@@ -5258,3 +5258,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Retrieval-Augmented and Knowledge-Grounded Language Models for Faithful Clinical Medicine* | Liu, Fenglin; Yang, Bang; You, Chenyu; Wu, Xian; Ge, Shen; Liu, Zhangdaihong; Sun, Xu; Yang, Yang; Clifton, David A. | [arXiv:2210.12777](https://arxiv.org/abs/2210.12777) - [DOI](https://doi.org/10.48550/arXiv.2210.12777) |
+
+
+## [DEP-E-20260819-VCORE Variance-Controlled](../DEP-E-20260819-VCORE%20Variance-Controlled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision* | Gong, Xuan; Wang, Senmiao; Huang, Hanbo; Sun, Ruoyu; Liang, Shiyu | [arXiv:2510.27462](https://arxiv.org/abs/2510.27462) - [DOI](https://doi.org/10.48550/arXiv.2510.27462) |
