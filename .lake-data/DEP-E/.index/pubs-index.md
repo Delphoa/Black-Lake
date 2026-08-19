@@ -9437,3 +9437,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Stochastic Gradient MCMC for State Space Models* | Aicher, Christopher; Ma, Yi-An; Foti, Nicholas J.; Fox, Emily B. | [arXiv:1810.09098](https://arxiv.org/abs/1810.09098) - [DOI](https://doi.org/10.48550/arXiv.1810.09098) |
+
+
+## [DEP-E-20260819-RoboHorizon An](../DEP-E-20260819-RoboHorizon%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation* | Chen, Zixuan; Huo, Jing; Chen, Yangtao; Gao, Yang | [arXiv:2501.06605](https://arxiv.org/abs/2501.06605) - [DOI](https://doi.org/10.48550/arXiv.2501.06605) |
