@@ -20287,6 +20287,29 @@
         "https://doi.org/10.48550/arXiv.2605.16327"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Natural Gradient Gaussian",
+        ".logs/20260819-Arxiv-Natural-Gradient-Gaussian-Approximation-Filter-LOG.md",
+        ".reports/BL-Arxiv-Natural-Gradient-Gaussian-Approximation-Filter-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2604.10057",
+      "arxiv_id": "2604.10057",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2604.10057",
+      "normalized_title": "Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P152; draw 22325 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 0; focus exclusions 19; reselections 19; complete-source gate passed; all source files withheld locally.",
+      "slug": "Natural-Gradient-Gaussian-Approximation-Filter",
+      "source_urls": [
+        "https://arxiv.org/abs/2604.10057",
+        "https://arxiv.org/html/2604.10057",
+        "https://arxiv.org/pdf/2604.10057",
+        "https://doi.org/10.48550/arXiv.2604.10057"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

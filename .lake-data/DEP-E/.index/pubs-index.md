@@ -7890,3 +7890,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Differentiable Optimization Layered Safety-Critical Control for Risk-Aware Navigation via Conformal Prediction* | Dong, Jinyang; Wu, Shizhen; Fang, Yongchun | [arXiv:2605.16327](https://arxiv.org/abs/2605.16327) - [DOI](https://doi.org/10.48550/arXiv.2605.16327) |
+
+
+## [DEP-E-20260819-Natural Gradient Gaussian](../DEP-E-20260819-Natural%20Gradient%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation* | Zhang, Tianyi; Cao, Wenhan; Liu, Chang; Lyu, Yao; Li, Shengbo Eben | [arXiv:2604.10057](https://arxiv.org/abs/2604.10057) - [DOI](https://doi.org/10.48550/arXiv.2604.10057) |
