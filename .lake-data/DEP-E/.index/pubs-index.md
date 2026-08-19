@@ -9766,3 +9766,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization* | Liu, Tianyi; Li, Shiyang; Shi, Jianping; Zhou, Enlu; Zhao, Tuo | [arXiv:1806.01660](https://arxiv.org/abs/1806.01660) - [DOI](https://doi.org/10.48550/arXiv.1806.01660) |
+
+
+## [DEP-E-20260819-Optimality Analysis and](../DEP-E-20260819-Optimality%20Analysis%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimality Analysis and Block Sparse Algorithm for Complex Compressed Sensing* | Zhang, Hui; Liu, Xin; Xiu, Naihua | [arXiv:2208.14666](https://arxiv.org/abs/2208.14666) - [DOI](https://doi.org/10.48550/arXiv.2208.14666) |
