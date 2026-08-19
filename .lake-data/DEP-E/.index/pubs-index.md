@@ -8422,3 +8422,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Retrospective Language Agents via Joint Policy Gradient Optimization* | Feng, Xueyang; Lan, Bo; Dai, Quanyu; Wang, Lei; Tang, Jiakai; Chen, Xu; Dong, Zhenhua; Wen, Ji-Rong | [arXiv:2503.01490](https://arxiv.org/abs/2503.01490) - [DOI](https://doi.org/10.48550/arXiv.2503.01490) |
+
+
+## [DEP-E-20260819-Bi-level Multi-objective](../DEP-E-20260819-Bi-level%20Multi-objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search* | Wang, Chao; Jiao, Licheng; Zhao, Jiaxuan; Li, Lingling; Liu, Xu; Liu, Fang; Yang, Shuyuan | [arXiv:2302.02565](https://arxiv.org/abs/2302.02565) - [DOI](https://doi.org/10.48550/arXiv.2302.02565) |
