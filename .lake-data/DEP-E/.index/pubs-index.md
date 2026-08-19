@@ -9262,3 +9262,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation* | Li, Xiaodong; Yang, Ruochen; Wen, Shuang; Wang, Shen; Liu, Yueyang; Wang, Guoquan; Hu, Weisong; Luo, Qiang; Sheng, Jiawei; Liu, Tingwen; Cao, Jiangxia; Yang, Shuang; Liu, Zhaojie | [arXiv:2502.09375](https://arxiv.org/abs/2502.09375) - [DOI](https://doi.org/10.48550/arXiv.2502.09375) |
+
+
+## [DEP-E-20260819-Recurrent Model](../DEP-E-20260819-Recurrent%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recurrent Model Predictive Control* | Liu, Zhengyu; Duan, Jingliang; Wang, Wenxuan; Li, Shengbo Eben; Yin, Yuming; Lin, Ziyu; Sun, Qi; Cheng, Bo | [arXiv:2102.11736](https://arxiv.org/abs/2102.11736) - [DOI](https://doi.org/10.48550/arXiv.2102.11736) |

@@ -24795,6 +24795,29 @@
         "https://doi.org/10.48550/arXiv.2502.09375"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Recurrent Model",
+        ".logs/20260819-Arxiv-Recurrent-Model-Predictive-Control-LOG.md",
+        ".reports/BL-Arxiv-Recurrent-Model-Predictive-Control-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2102.11736",
+      "arxiv_id": "2102.11736",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2102.11736",
+      "normalized_title": "Recurrent Model Predictive Control",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P348; draw 44108 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 4; focus exclusions 24; reselections 28; complete-source gate passed; all source files withheld locally.",
+      "slug": "Recurrent-Model-Predictive-Control",
+      "source_urls": [
+        "https://arxiv.org/abs/2102.11736",
+        "https://arxiv.org/html/2102.11736",
+        "https://arxiv.org/pdf/2102.11736",
+        "https://doi.org/10.48550/arXiv.2102.11736"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
