@@ -11294,3 +11294,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QV-PIC: Query-Aware Visual Position-Independent Caching for Efficient RAG Serving* | Yilin Liu; Rui Meng; Wangze Ni; Jianxin Yan; Heng Cao; Libin Zheng; Peng Cheng; Jinfei Liu | [arXiv:2608.12121v1](https://arxiv.org/abs/2608.12121v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12121) |
+
+
+## [DEP-A-20260819-Consolidator Learning Per](../DEP-A-20260819-Consolidator%20Learning%20Per/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.11701-whitepaper-review.md`](../DEP-A-20260819-Consolidator%20Learning%20Per/2608.11701-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Consolidator: Learning Persistent Routed Memory Across Context Boundaries* | Sungwoo Goo; Hwi-yeol Yun; Sangkeun Jung | [arXiv:2608.11701v1](https://arxiv.org/abs/2608.11701v1) - [DOI](https://doi.org/10.48550/arXiv.2608.11701) |
