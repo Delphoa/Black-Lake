@@ -12212,3 +12212,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Aborted but Not Forgotten: KV-Cache Retention Breaks Rollback Consistency in Language Agents* | Guijia Zhang; Harry Yang | [arXiv:2608.15939v1](https://arxiv.org/abs/2608.15939v1) - [DOI](https://doi.org/10.48550/arXiv.2608.15939) |
+
+
+## [DEP-A-20260820-When Does Distributed AI](../DEP-A-20260820-When%20Does%20Distributed%20AI/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.14967-whitepaper-review.md`](../DEP-A-20260820-When%20Does%20Distributed%20AI/2608.14967-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Does Distributed AI Inference Need More Wide-Area Bandwidth? A Co-Design Evaluation of Optical, Packet, and Software Levers* | Prasanna C | [arXiv:2608.14967v1](https://arxiv.org/abs/2608.14967v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14967) |
