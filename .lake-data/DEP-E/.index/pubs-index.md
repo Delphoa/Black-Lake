@@ -9339,3 +9339,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Dynamic Maintenance of Kernel Density Estimation Data Structure: From Practice to Theory* | Liang, Jiehao; Song, Zhao; Xu, Zhaozhuo; Yin, Junze; Zhuo, Danyang | [arXiv:2208.03915](https://arxiv.org/abs/2208.03915) - [DOI](https://doi.org/10.48550/arXiv.2208.03915) |
+
+
+## [DEP-E-20260819-Accelerating Frank-Wolfe](../DEP-E-20260819-Accelerating%20Frank-Wolfe/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating Frank-Wolfe Algorithm using Low-Dimensional and Adaptive Data Structures* | Song, Zhao; Xu, Zhaozhuo; Yang, Yuanyuan; Zhang, Lichen | [arXiv:2207.09002](https://arxiv.org/abs/2207.09002) - [DOI](https://doi.org/10.48550/arXiv.2207.09002) |
