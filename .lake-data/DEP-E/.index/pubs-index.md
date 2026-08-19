@@ -6098,3 +6098,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach* | Ma, Yuzhe; Roy, Subhendu; Miao, Jin; Chen, Jiamin; Yu, Bei | [arXiv:1807.07023](https://arxiv.org/abs/1807.07023) - [DOI](https://doi.org/10.48550/arXiv.1807.07023) |
+
+
+## [DEP-E-20260819-One Filters All A](../DEP-E-20260819-One%20Filters%20All%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One Filters All: A Generalist Filter for State Estimation* | Liu, Shiqi; Cao, Wenhan; Liu, Chang; He, Zeyu; Zhang, Tianyi; Li, Shengbo Eben | [arXiv:2509.20051](https://arxiv.org/abs/2509.20051) - [DOI](https://doi.org/10.48550/arXiv.2509.20051) |
