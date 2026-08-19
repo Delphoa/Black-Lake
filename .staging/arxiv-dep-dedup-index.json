@@ -24358,6 +24358,29 @@
         "https://doi.org/10.48550/arXiv.1610.07380"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Pandora Towards General",
+        ".logs/20260819-Arxiv-Pandora-Towards-General-World-Model-with-Natural-LOG.md",
+        ".reports/BL-Arxiv-Pandora-Towards-General-World-Model-with-Natural-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2406.09455",
+      "arxiv_id": "2406.09455",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2406.09455",
+      "normalized_title": "Pandora: Towards General World Model with Natural Language Actions and Video States",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P329; draw 74663 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 7; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Pandora-Towards-General-World-Model-with-Natural",
+      "source_urls": [
+        "https://arxiv.org/abs/2406.09455",
+        "https://arxiv.org/html/2406.09455",
+        "https://arxiv.org/pdf/2406.09455",
+        "https://doi.org/10.48550/arXiv.2406.09455"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

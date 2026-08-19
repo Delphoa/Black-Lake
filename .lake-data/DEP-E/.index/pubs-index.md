@@ -9129,3 +9129,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Novel Learning Algorithm for B\"uchi Automata based on Family of DFAs and Classification Trees* | Li, Yong; Chen, Yu-Fang; Zhang, Lijun; Liu, Depeng | [arXiv:1610.07380](https://arxiv.org/abs/1610.07380) - [DOI](https://doi.org/10.48550/arXiv.1610.07380) |
+
+
+## [DEP-E-20260819-Pandora Towards General](../DEP-E-20260819-Pandora%20Towards%20General/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pandora: Towards General World Model with Natural Language Actions and Video States* | Xiang, Jiannan; Liu, Guangyi; Gu, Yi; Gao, Qiyue; Ning, Yuting; Zha, Yuheng; Feng, Zeyu; Tao, Tianhua; Hao, Shibo; Shi, Yemin; Liu, Zhengzhong; Xing, Eric P.; Hu, Zhiting | [arXiv:2406.09455](https://arxiv.org/abs/2406.09455) - [DOI](https://doi.org/10.48550/arXiv.2406.09455) |
