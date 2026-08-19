@@ -7694,3 +7694,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights* | Liu, Aiwei; Bai, Haoping; Lu, Zhiyun; Sun, Yanchao; Kong, Xiang; Wang, Simon; Shan, Jiulong; Jose, Albin Madappally; Liu, Xiaojiang; Wen, Lijie; Yu, Philip S.; Cao, Meng | [arXiv:2410.04350](https://arxiv.org/abs/2410.04350) - [DOI](https://doi.org/10.48550/arXiv.2410.04350) |
+
+
+## [DEP-E-20260819-VLA-JEPA Enhancing](../DEP-E-20260819-VLA-JEPA%20Enhancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model* | Sun, Jingwen; Zhang, Wenyao; Qi, Zekun; Ren, Shaojie; Liu, Zezhi; Zhu, Hanxin; Sun, Guangzhong; Jin, Xin; Chen, Zhibo | [arXiv:2602.10098](https://arxiv.org/abs/2602.10098) - [DOI](https://doi.org/10.48550/arXiv.2602.10098) |
