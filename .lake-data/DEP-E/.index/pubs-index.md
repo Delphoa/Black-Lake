@@ -8870,3 +8870,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks* | Phan, Huy; Chén, Oliver Y.; Koch, Philipp; Pham, Lam; McLoughlin, Ian; Mertins, Alfred; De Vos, Maarten | [arXiv:1811.01092](https://arxiv.org/abs/1811.01092) - [DOI](https://doi.org/10.48550/arXiv.1811.01092) |
+
+
+## [DEP-E-20260819-DeepNote Note-Centric](../DEP-E-20260819-DeepNote%20Note-Centric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepNote: Note-Centric Deep Retrieval-Augmented Generation* | Wang, Ruobing; Zhao, Qingfei; Yan, Yukun; Zha, Daren; Chen, Yuxuan; Yu, Shi; Liu, Zhenghao; Wang, Yixuan; Wang, Shuo; Han, Xu; Liu, Zhiyuan; Sun, Maosong | [arXiv:2410.08821](https://arxiv.org/abs/2410.08821) - [DOI](https://doi.org/10.48550/arXiv.2410.08821) |
