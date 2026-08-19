@@ -8282,3 +8282,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adaptive Consensus ADMM for Distributed Optimization* | Xu, Zheng; Taylor, Gavin; Li, Hao; Figueiredo, Mario; Yuan, Xiaoming; Goldstein, Tom | [arXiv:1706.02869](https://arxiv.org/abs/1706.02869) - [DOI](https://doi.org/10.48550/arXiv.1706.02869) |
+
+
+## [DEP-E-20260819-KVCOMM Online](../DEP-E-20260819-KVCOMM%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems* | Ye, Hancheng; Gao, Zhengqi; Ma, Mingyuan; Wang, Qinsi; Fu, Yuzhe; Chung, Ming-Yu; Lin, Yueqian; Liu, Zhijian; Zhang, Jianyi; Zhuo, Danyang; Chen, Yiran | [arXiv:2510.12872](https://arxiv.org/abs/2510.12872) - [DOI](https://doi.org/10.48550/arXiv.2510.12872) |
