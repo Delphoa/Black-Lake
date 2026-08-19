@@ -5825,3 +5825,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online Optimization for Learning to Communicate over Time-Correlated Channels* | Wu, Zheshun; Li, Junfan; Xu, Zenglin; Sun, Sumei; Liu, Jie | [arXiv:2409.00575](https://arxiv.org/abs/2409.00575) - [DOI](https://doi.org/10.48550/arXiv.2409.00575) |
+
+
+## [DEP-E-20260819-Odin Effective End-to-End](../DEP-E-20260819-Odin%20Effective%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Odin: Effective End-to-End SLA Decomposition for 5G/6G Network Slicing via Online Learning* | Cheng, Duo; Sheshadri, Ramanujan K; Kak, Ahan; Choi, Nakjung; Zhou, Xingyu; Ji, Bo | [arXiv:2509.13511](https://arxiv.org/abs/2509.13511) - [DOI](https://doi.org/10.48550/arXiv.2509.13511) |

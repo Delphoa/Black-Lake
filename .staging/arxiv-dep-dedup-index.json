@@ -13502,6 +13502,29 @@
         "https://doi.org/10.48550/arXiv.2409.00575"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Odin Effective End-to-End",
+        ".logs/20260819-Arxiv-Odin-Effective-End-to-End-SLA-Decomposition-LOG.md",
+        ".reports/BL-Arxiv-Odin-Effective-End-to-End-SLA-Decomposition-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2509.13511",
+      "arxiv_id": "2509.13511",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2509.13511",
+      "normalized_title": "Odin: Effective End-to-End SLA Decomposition for 5G/6G Network Slicing via Online Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P157; draw 32784 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 4; focus exclusions 32; reselections 37; complete-source gate passed; all source files withheld locally.",
+      "slug": "Odin-Effective-End-to-End-SLA-Decomposition",
+      "source_urls": [
+        "https://arxiv.org/abs/2509.13511",
+        "https://arxiv.org/html/2509.13511",
+        "https://arxiv.org/pdf/2509.13511",
+        "https://doi.org/10.48550/arXiv.2509.13511"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
