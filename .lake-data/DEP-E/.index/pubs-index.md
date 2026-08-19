@@ -9136,3 +9136,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Pandora: Towards General World Model with Natural Language Actions and Video States* | Xiang, Jiannan; Liu, Guangyi; Gu, Yi; Gao, Qiyue; Ning, Yuting; Zha, Yuheng; Feng, Zeyu; Tao, Tianhua; Hao, Shibo; Shi, Yemin; Liu, Zhengzhong; Xing, Eric P.; Hu, Zhiting | [arXiv:2406.09455](https://arxiv.org/abs/2406.09455) - [DOI](https://doi.org/10.48550/arXiv.2406.09455) |
+
+
+## [DEP-E-20260819-Transferable Optimization](../DEP-E-20260819-Transferable%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Transferable Optimization Network for Cross-Domain Image Reconstruction* | Chen, Yunmei; Ding, Chi; Ye, Xiaojing | [arXiv:2603.07831](https://arxiv.org/abs/2603.07831) - [DOI](https://doi.org/10.48550/arXiv.2603.07831) |
