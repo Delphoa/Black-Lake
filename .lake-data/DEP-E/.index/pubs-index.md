@@ -5251,3 +5251,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Online Continual Learning with Contrastive Vision Transformer* | Wang, Zhen; Liu, Liu; Kong, Yajing; Guo, Jiaxian; Tao, Dacheng | [arXiv:2207.13516](https://arxiv.org/abs/2207.13516) - [DOI](https://doi.org/10.48550/arXiv.2207.13516) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented and](../DEP-E-20260819-Retrieval-Augmented%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented and Knowledge-Grounded Language Models for Faithful Clinical Medicine* | Liu, Fenglin; Yang, Bang; You, Chenyu; Wu, Xian; Ge, Shen; Liu, Zhangdaihong; Sun, Xu; Yang, Yang; Clifton, David A. | [arXiv:2210.12777](https://arxiv.org/abs/2210.12777) - [DOI](https://doi.org/10.48550/arXiv.2210.12777) |
