@@ -11330,3 +11330,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation* | Zhipeng Song; Yizhi Zhou; Xiangyu Kong; Jiulong Jiao; Xuezhou Ye; Chunqi Gao; Xueqing Shi; Yu Wang; Yuhang Zhou; Heng Qi | [arXiv:2605.04495v2](https://arxiv.org/abs/2605.04495v2) - [DOI](https://doi.org/10.48550/arXiv.2605.04495) |
+
+
+## [DEP-A-20260819-Decoupling Semantics Logi](../DEP-A-20260819-Decoupling%20Semantics%20Logi/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2606.07924-whitepaper-review.md`](../DEP-A-20260819-Decoupling%20Semantics%20Logi/2606.07924-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation* | Jiaxin Dai; Zehang Wei; Jiamin Yan; Xiang Xiang | [arXiv:2606.07924v1](https://arxiv.org/abs/2606.07924v1) - [DOI](https://doi.org/10.48550/arXiv.2606.07924) |
