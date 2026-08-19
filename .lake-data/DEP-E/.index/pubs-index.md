@@ -8023,3 +8023,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving* | Liu, Xiaolu; Li, Yicong; Wang, Song; Chen, Junbo; Yao, Angela; Zhu, Jianke | [arXiv:2603.19675](https://arxiv.org/abs/2603.19675) - [DOI](https://doi.org/10.48550/arXiv.2603.19675) |
+
+
+## [DEP-E-20260819-Pantheon Personalized](../DEP-E-20260819-Pantheon%20Personalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization* | Cao, Jiangxia; Xu, Pengbo; Cheng, Yin; Guo, Kaiwei; Tang, Jian; Wang, Shijun; Leng, Dewei; Yang, Shuang; Liu, Zhaojie; Niu, Yanan; Zhou, Guorui; Gai, Kun | [arXiv:2505.13894](https://arxiv.org/abs/2505.13894) - [DOI](https://doi.org/10.48550/arXiv.2505.13894) |

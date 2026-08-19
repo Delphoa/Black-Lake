@@ -20724,6 +20724,29 @@
         "https://doi.org/10.48550/arXiv.2603.19675"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Pantheon Personalized",
+        ".logs/20260819-Arxiv-Pantheon-Personalized-Multi-objective-Ensemble-LOG.md",
+        ".reports/BL-Arxiv-Pantheon-Personalized-Multi-objective-Ensemble-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.13894",
+      "arxiv_id": "2505.13894",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.13894",
+      "normalized_title": "Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P171; draw 59773 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Pantheon-Personalized-Multi-objective-Ensemble",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.13894",
+        "https://arxiv.org/html/2505.13894",
+        "https://arxiv.org/pdf/2505.13894",
+        "https://doi.org/10.48550/arXiv.2505.13894"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
