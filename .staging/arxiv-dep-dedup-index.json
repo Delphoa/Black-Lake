@@ -12789,6 +12789,29 @@
         "https://doi.org/10.1016/j.jcss.2026.103756"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Neural Predictor for",
+        ".logs/20260819-Arxiv-Neural-Predictor-for-Neural-Architecture-Search-LOG.md",
+        ".reports/BL-Arxiv-Neural-Predictor-for-Neural-Architecture-Search-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1912.00848",
+      "arxiv_id": "1912.00848",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1912.00848",
+      "normalized_title": "Neural Predictor for Neural Architecture Search",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P126; draw 17242 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 38; reselections 40; complete-source gate passed; all source files withheld locally.",
+      "slug": "Neural-Predictor-for-Neural-Architecture-Search",
+      "source_urls": [
+        "https://arxiv.org/abs/1912.00848",
+        "https://arxiv.org/html/1912.00848",
+        "https://arxiv.org/pdf/1912.00848",
+        "https://doi.org/10.48550/arXiv.1912.00848"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
