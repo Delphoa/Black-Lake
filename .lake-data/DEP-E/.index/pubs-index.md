@@ -10109,3 +10109,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models* | Xu, Zhi; Li, Jiaqi; Zhang, Xiaotong; Yu, Hong; Liu, Han | [arXiv:2603.03081](https://arxiv.org/abs/2603.03081) - [DOI](https://doi.org/10.48550/arXiv.2603.03081) |
+
+
+## [DEP-E-20260819-Energy-Delay Tradeoff in](../DEP-E-20260819-Energy-Delay%20Tradeoff%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Delay Tradeoff in Helper-Assisted NOMA-MEC Systems: A Four-Sided Matching Algorithm* | Ren, Mengmeng; Yang, Long; Jiang, Hai; Chen, Jian; Zhou, Yuchen | [arXiv:2301.10624](https://arxiv.org/abs/2301.10624) - [DOI](https://doi.org/10.48550/arXiv.2301.10624) |
