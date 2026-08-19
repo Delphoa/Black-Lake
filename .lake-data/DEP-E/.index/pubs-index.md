@@ -9325,3 +9325,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Revisiting finite Abelian hidden subgroup problem and its distributed exact quantum algorithm* | Dong, Ziyuan; Fan, Xiang; Zhong, Tengxun; Qiu, Daowen | [arXiv:2512.22959](https://arxiv.org/abs/2512.22959) - [DOI](https://doi.org/10.48550/arXiv.2512.22959) |
+
+
+## [DEP-E-20260819-AgentKernelArena](../DEP-E-20260819-AgentKernelArena/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents* | Younesian, Sharareh; Ouyang, Wenwen; Rafati, Sina; Rezagholizadeh, Mehdi; Zhou, Sharon; Liu, Ji; Liu, Yue; Yang, Yuchen; Li, Hao; Liu, Ziqiong; Li, Dong; Appia, Vikram; Gu, Zhenyu; Barsoum, Emad | [arXiv:2605.16819](https://arxiv.org/abs/2605.16819) - [DOI](https://doi.org/10.48550/arXiv.2605.16819) |
