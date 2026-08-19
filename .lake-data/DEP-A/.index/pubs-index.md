@@ -11609,3 +11609,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Melo: A Production LLM-Powered Music Recommendation Agent* | Shijia Wang; Da Guo; Qiang Xiao; Fanghui Bi; Weisheng Li; Dongjing Wang; Chuanjiang Luo | [arXiv:2607.23718v1](https://arxiv.org/abs/2607.23718v1) - [DOI](https://doi.org/10.1145/3773078.3831935) |
+
+
+## [DEP-A-20260819-Alaya EVOKE Linear Scalin](../DEP-A-20260819-Alaya%20EVOKE%20Linear%20Scalin/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13546-whitepaper-review.md`](../DEP-A-20260819-Alaya%20EVOKE%20Linear%20Scalin/2608.13546-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Alaya-EVOKE: From Linear-Scaling Supervision to Endless World* | Yuanyang Yin; Gongxuan Wang; Yifan Zhan; Chuanhao Li; Kaipeng Zhang; Feng Zhao | [arXiv:2608.13546v1](https://arxiv.org/abs/2608.13546v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13546) |
