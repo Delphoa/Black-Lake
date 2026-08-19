@@ -4663,3 +4663,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training* | Kai Wang; Mingjia Shi; Yukun Zhou; Zekai Li; Zhihang Yuan; Yuzhang Shang; Xiaojiang Peng; Hanwang Zhang; Yang You | [arXiv:2405.17403v3](https://arxiv.org/abs/2405.17403v3) - [DOI](https://doi.org/10.48550/arXiv.2405.17403) |
+
+
+## [DEP-E-20260819-Improving Robust Fairness](../DEP-E-20260819-Improving%20Robust%20Fairness/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Robust Fairness via Balance Adversarial Training* | Sun, Chunyu; Xu, Chenye; Yao, Chengyuan; Liang, Siyuan; Wu, Yichao; Liang, Ding; Liu, XiangLong; Liu, Aishan | [arXiv:2209.07534](https://arxiv.org/abs/2209.07534) - [DOI](https://doi.org/10.48550/arXiv.2209.07534) |
