@@ -10053,3 +10053,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Rethink AI-based Power Grid Control: Diving Into Algorithm Design* | Zhou, Xiren; Wang, Siqi; Diao, Ruisheng; Bian, Desong; Duan, Jiahui; Shi, Di | [arXiv:2012.13026](https://arxiv.org/abs/2012.13026) - [DOI](https://doi.org/10.48550/arXiv.2012.13026) |
+
+
+## [DEP-E-20260819-DRL-Based Antenna](../DEP-E-20260819-DRL-Based%20Antenna/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRL-Based Antenna Position Optimization For MA-Assisted OTFS System Under Imperfect CSI* | Wang, Maoyuan; Zhang, Qian; Zhao, Yufei; Cheng, Xuejun; Dong, Zheng; Wang, Deqiang; Guan, Yong Liang | [arXiv:2604.23611](https://arxiv.org/abs/2604.23611) - [DOI](https://doi.org/10.48550/arXiv.2604.23611) |
