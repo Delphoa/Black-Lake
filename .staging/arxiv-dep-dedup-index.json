@@ -14284,6 +14284,29 @@
         "https://doi.org/10.48550/arXiv.1711.02395"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Neural Parameter Search",
+        ".logs/20260819-Arxiv-Neural-Parameter-Search-for-Slimmer-Fine-Tuned-LOG.md",
+        ".reports/BL-Arxiv-Neural-Parameter-Search-for-Slimmer-Fine-Tuned-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2505.18713",
+      "arxiv_id": "2505.18713",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2505.18713",
+      "normalized_title": "Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P191; draw 60490 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "Neural-Parameter-Search-for-Slimmer-Fine-Tuned",
+      "source_urls": [
+        "https://arxiv.org/abs/2505.18713",
+        "https://arxiv.org/html/2505.18713",
+        "https://arxiv.org/pdf/2505.18713",
+        "https://doi.org/10.48550/arXiv.2505.18713"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

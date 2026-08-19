@@ -6063,3 +6063,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beetle Antennae Search without Parameter Tuning (BAS-WPT) for Multi-objective Optimization* | Jiang, Xiangyuan; Li, Shuai | [arXiv:1711.02395](https://arxiv.org/abs/1711.02395) - [DOI](https://doi.org/10.48550/arXiv.1711.02395) |
+
+
+## [DEP-E-20260819-Neural Parameter Search](../DEP-E-20260819-Neural%20Parameter%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer* | Du, Guodong; Fang, Zitao; Li, Jing; Li, Junlin; Jiang, Runhua; Yu, Shuyang; Guo, Yifei; Chen, Yangneng; Goh, Sim Kuan; Tang, Ho-Kin; He, Daojing; Liu, Honghai; Zhang, Min | [arXiv:2505.18713](https://arxiv.org/abs/2505.18713) - [DOI](https://doi.org/10.48550/arXiv.2505.18713) |
