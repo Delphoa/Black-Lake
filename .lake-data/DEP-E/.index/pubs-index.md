@@ -9178,3 +9178,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Multi-scale Topology Optimization using Neural Networks* | Chen, Hongrui; Liu, Xingchen; Kara, Levent Burak | [arXiv:2404.08708](https://arxiv.org/abs/2404.08708) - [DOI](https://doi.org/10.48550/arXiv.2404.08708) |
+
+
+## [DEP-E-20260819-Long Short-Term Memory](../DEP-E-20260819-Long%20Short-Term%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long Short-Term Memory Networks for CSI300 Volatility Prediction with Baidu Search Volume* | Zhou, Yu-Long; Han, Ren-Jie; Xu, Qian; Zhang, Wei-Ke | [arXiv:1805.11954](https://arxiv.org/abs/1805.11954) - [DOI](https://doi.org/10.1002/cpe.4721) |
