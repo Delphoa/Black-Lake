@@ -9234,3 +9234,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Constructing Industrial-Scale Optimization Modeling Benchmark* | Li, Zhong; Lu, Hongliang; Wei, Tao; Chen, Yuxuan; Liu, Wenyu; Lan, Yuan; Zhang, Fan; Wen, Zaiwen | [arXiv:2602.10450](https://arxiv.org/abs/2602.10450) - [DOI](https://doi.org/10.48550/arXiv.2602.10450) |
+
+
+## [DEP-E-20260819-AlgoFormer An Efficient](../DEP-E-20260819-AlgoFormer%20An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures* | Gao, Yihang; Zheng, Chuanyang; Xie, Enze; Shi, Han; Hu, Tianyang; Li, Yu; Ng, Michael K.; Li, Zhenguo; Liu, Zhaoqiang | [arXiv:2402.13572](https://arxiv.org/abs/2402.13572) - [DOI](https://doi.org/10.48550/arXiv.2402.13572) |
