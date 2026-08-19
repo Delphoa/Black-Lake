@@ -6259,3 +6259,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism* | Zhou, Yujia; Zhu, Qiannan; Jin, Jiajie; Dou, Zhicheng | [arXiv:2402.10548](https://arxiv.org/abs/2402.10548) - [DOI](https://doi.org/10.48550/arXiv.2402.10548) |
+
+
+## [DEP-E-20260819-AgriAgent Contract-Driven](../DEP-E-20260819-AgriAgent%20Contract-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgriAgent: Contract-Driven Planning and Capability-Aware Tool Orchestration in Real-World Agriculture* | Yang, Bo; Zhang, Yu; Chen, Yunkui; Feng, Lanfei; Xu, Xiao; Aierken, Nueraili; Li, Shijian | [arXiv:2601.08308](https://arxiv.org/abs/2601.08308) - [DOI](https://doi.org/10.48550/arXiv.2601.08308) |
