@@ -6504,3 +6504,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization* | Liu, Zhihao; Wu, Yifan; Lou, Jian; Wang, Di; Zhou, Yuxi; Hu, Yuke | [arXiv:2605.29396](https://arxiv.org/abs/2605.29396) - [DOI](https://doi.org/10.48550/arXiv.2605.29396) |
+
+
+## [DEP-E-20260819-STIMULUS Achieving Fast](../DEP-E-20260819-STIMULUS%20Achieving%20Fast/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STIMULUS: Achieving Fast Convergence and Low Sample Complexity in Stochastic Multi-Objective Learning* | Liu, Zhuqing; Dong, Chaosheng; Momma, Michinari; Shao, Simone; Xu, Shaoyuan; Gao, Yan; Yang, Haibo; Liu, Jia | [arXiv:2506.19883](https://arxiv.org/abs/2506.19883) - [DOI](https://doi.org/10.48550/arXiv.2506.19883) |
