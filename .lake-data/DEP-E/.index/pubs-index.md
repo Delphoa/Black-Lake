@@ -9346,3 +9346,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Accelerating Frank-Wolfe Algorithm using Low-Dimensional and Adaptive Data Structures* | Song, Zhao; Xu, Zhaozhuo; Yang, Yuanyuan; Zhang, Lichen | [arXiv:2207.09002](https://arxiv.org/abs/2207.09002) - [DOI](https://doi.org/10.48550/arXiv.2207.09002) |
+
+
+## [DEP-E-20260819-Improving 08769](../DEP-E-20260819-Improving%2008769/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Levenberg-Marquardt Algorithm for Neural Networks* | Pooladzandi, Omead; Zhou, Yiming | [arXiv:2212.08769](https://arxiv.org/abs/2212.08769) - [DOI](https://doi.org/10.48550/arXiv.2212.08769) |
