@@ -6595,3 +6595,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Agentic AI Empowered Multi-UAV Trajectory Optimization in Low-Altitude Economy Networks* | Jiang, Feibo; Dong, Li; Pan, Xitao; Wang, Kezhi; Pan, Cunhua | [arXiv:2508.16379](https://arxiv.org/abs/2508.16379) - [DOI](https://doi.org/10.48550/arXiv.2508.16379) |
+
+
+## [DEP-E-20260819-AniME Adaptive](../DEP-E-20260819-AniME%20Adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AniME: Adaptive Multi-Agent Planning for Long Animation Generation* | Zhang, Lisai; Xu, Baohan; Yang, Siqian; Yin, Mingyu; Liu, Jing; Xu, Chao; Wang, Siqi; Wu, Yidi; Hong, Yuxin; Zhang, Zihao; Liang, Yanzhang; Jiang, Yudong | [arXiv:2508.18781](https://arxiv.org/abs/2508.18781) - [DOI](https://doi.org/10.48550/arXiv.2508.18781) |
