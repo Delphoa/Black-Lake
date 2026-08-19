@@ -8877,3 +8877,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepNote: Note-Centric Deep Retrieval-Augmented Generation* | Wang, Ruobing; Zhao, Qingfei; Yan, Yukun; Zha, Daren; Chen, Yuxuan; Yu, Shi; Liu, Zhenghao; Wang, Yixuan; Wang, Shuo; Han, Xu; Liu, Zhiyuan; Sun, Maosong | [arXiv:2410.08821](https://arxiv.org/abs/2410.08821) - [DOI](https://doi.org/10.48550/arXiv.2410.08821) |
+
+
+## [DEP-E-20260819-MCMC Informed Neural](../DEP-E-20260819-MCMC%20Informed%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems* | Haario, Heikki; Liu, Zhi-Song; Simon, Martin; Weichel, Hendrik | [arXiv:2603.10987](https://arxiv.org/abs/2603.10987) - [DOI](https://doi.org/10.48550/arXiv.2603.10987) |
