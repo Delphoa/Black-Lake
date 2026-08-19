@@ -5433,3 +5433,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Joint Pilot Optimization, Target Detection and Channel Estimation for Integrated Sensing and Communication Systems* | Huang, Zhe; Wang, Kexuan; Liu, An; Cai, Yunlong; Du, Rui; Han, Tony Xiao | [arXiv:2202.02688](https://arxiv.org/abs/2202.02688) - [DOI](https://doi.org/10.48550/arXiv.2202.02688) |
+
+
+## [DEP-E-20260819-Self-supervised](../DEP-E-20260819-Self-supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Self-supervised Hierarchical Visual Reasoning with World Model* | Xu, Yuanfei; Liu, Lin; Zhou, Wengang; Feng, Mingxiao; Li, Houqiang | [arXiv:2605.17537](https://arxiv.org/abs/2605.17537) - [DOI](https://doi.org/10.48550/arXiv.2605.17537) |
