@@ -9647,3 +9647,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Algorithm-Relative Trajectory Valuation in Policy Gradient Control* | Li, Shihao; Li, Jiachen; Xu, Jiamin; Martin, Christopher; Li, Wei; Chen, Dongmei | [arXiv:2511.07878](https://arxiv.org/abs/2511.07878) - [DOI](https://doi.org/10.48550/arXiv.2511.07878) |
+
+
+## [DEP-E-20260819-Disentangled World Models](../DEP-E-20260819-Disentangled%20World%20Models/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning* | Wang, Qi; Zhang, Zhipeng; Xie, Baao; Jin, Xin; Wang, Yunbo; Wang, Shiyu; Zheng, Liaomo; Yang, Xiaokang; Zeng, Wenjun | [arXiv:2503.08751](https://arxiv.org/abs/2503.08751) - [DOI](https://doi.org/10.48550/arXiv.2503.08751) |
