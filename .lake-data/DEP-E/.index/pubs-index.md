@@ -5377,3 +5377,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Full-attention based Neural Architecture Search using Context Auto-regression* | Zhou, Yuan; Wang, Haiyang; Huo, Shuwei; Wang, Boyu | [arXiv:2111.07139](https://arxiv.org/abs/2111.07139) - [DOI](https://doi.org/10.48550/arXiv.2111.07139) |
+
+
+## [DEP-E-20260819-Spectral Lens Activation](../DEP-E-20260819-Spectral%20Lens%20Activation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spectral Lens: Activation and Gradient Spectra as Diagnostics of LLM Optimization* | Liu, Andy Zeyi; Paquette, Elliot; Sous, John | [arXiv:2605.05683](https://arxiv.org/abs/2605.05683) - [DOI](https://doi.org/10.48550/arXiv.2605.05683) |
