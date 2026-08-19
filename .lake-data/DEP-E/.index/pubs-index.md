@@ -8247,3 +8247,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MergeDJD: A Fast Constructive Algorithm with Piece Merging for the Two-Dimensional Irregular Bin Packing Problem* | Zhou, Yi; Fu, Haocheng; Liu, Yiping; Mao, Jian; Fu, Zhang-Hua; Wang, Yuyi | [arXiv:2603.00484](https://arxiv.org/abs/2603.00484) - [DOI](https://doi.org/10.48550/arXiv.2603.00484) |
+
+
+## [DEP-E-20260819-UDuo Universal Dual](../DEP-E-20260819-UDuo%20Universal%20Dual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UDuo: Universal Dual Optimization Framework for Online Matching* | Li, Bin; Liu, Diwei; Hu, Zehong; Jia, Jia | [arXiv:2505.22243](https://arxiv.org/abs/2505.22243) - [DOI](https://doi.org/10.48550/arXiv.2505.22243) |
