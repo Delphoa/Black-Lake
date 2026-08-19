@@ -14606,6 +14606,29 @@
         "https://doi.org/10.48550/arXiv.1911.02404"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-ALERTA-Net A Temporal",
+        ".logs/20260819-Arxiv-ALERTA-Net-A-Temporal-Distance-Aware-Recurrent-LOG.md",
+        ".reports/BL-Arxiv-ALERTA-Net-A-Temporal-Distance-Aware-Recurrent-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.18706",
+      "arxiv_id": "2310.18706",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1145/3625007.3627488",
+      "normalized_title": "ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P205; draw 24800 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 3; focus exclusions 27; reselections 30; complete-source gate passed; all source files withheld locally.",
+      "slug": "ALERTA-Net-A-Temporal-Distance-Aware-Recurrent",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.18706",
+        "https://arxiv.org/html/2310.18706",
+        "https://arxiv.org/pdf/2310.18706",
+        "https://doi.org/10.1145/3625007.3627488"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
