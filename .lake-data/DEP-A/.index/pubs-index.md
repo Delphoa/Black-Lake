@@ -11942,3 +11942,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching* | Wenxiang Guo; Changhao Pan; Ziyue Jiang; Fei Wu; Zhou Zhao | [arXiv:2608.12951v1](https://arxiv.org/abs/2608.12951v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12951) |
+
+
+## [DEP-A-20260819-Comprehensive Empirical E](../DEP-A-20260819-Comprehensive%20Empirical%20E/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12812-whitepaper-review.md`](../DEP-A-20260819-Comprehensive%20Empirical%20E/2608.12812-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Comprehensive Empirical Evaluation of Vector Database Systems for Approximate Nearest Neighbor Search: Performance, Quality, and Resource Trade-offs* | Ashen Rashmiks; Tiroshan Madushanka | [arXiv:2608.12812v1](https://arxiv.org/abs/2608.12812v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12812) |
