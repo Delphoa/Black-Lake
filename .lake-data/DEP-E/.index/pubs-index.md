@@ -8338,3 +8338,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Local Differential Privacy for Bayesian Optimization* | Zhou, Xingyu; Tan, Jian | [arXiv:2010.06709](https://arxiv.org/abs/2010.06709) - [DOI](https://doi.org/10.48550/arXiv.2010.06709) |
+
+
+## [DEP-E-20260819-Matrix-game 2 0 An](../DEP-E-20260819-Matrix-game%202%200%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Matrix-game 2.0: An open-source real-time and streaming interactive world model* | He, Xianglong; Peng, Chunli; Liu, Zexiang; Wang, Boyang; Zhang, Yifan; Cui, Qi; Kang, Fei; Jiang, Biao; An, Mengyin; Ren, Yangyang; Xu, Baixin; Guo, Hao-Xiang; Gong, Kaixiong; Wu, Size; Li, Wei; Song, Xuchen; Liu, Yang; Li, Yangguang; Zhou, Yahui | [arXiv:2508.13009](https://arxiv.org/abs/2508.13009) - [DOI](https://doi.org/10.48550/arXiv.2508.13009) |
