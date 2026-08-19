@@ -7414,3 +7414,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior* | Chen, Yutian; Welling, Max | [arXiv:1206.1088](https://arxiv.org/abs/1206.1088) - [DOI](https://doi.org/10.48550/arXiv.1206.1088) |
+
+
+## [DEP-E-20260819-AlphaOPT Formulating](../DEP-E-20260819-AlphaOPT%20Formulating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library* | Kong, Minwei; Qu, Ao; Guo, Xiaotong; Ouyang, Wenbin; Jiang, Chonghe; Zheng, Han; Ma, Yining; Zhuang, Dingyi; Tang, Yuhan; Li, Junyi; Wang, Shenhao; Koutsopoulos, Haris; Wang, Hai; Wu, Cathy; Zhao, Jinhua | [arXiv:2510.18428](https://arxiv.org/abs/2510.18428) - [DOI](https://doi.org/10.48550/arXiv.2510.18428) |
