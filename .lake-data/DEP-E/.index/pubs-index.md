@@ -10214,3 +10214,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue* | Zhang, Feiyuan; Zhu, Dezhi; Ming, James; Jin, Yilun; Chai, Di; Yang, Liu; Tian, Han; Fan, Zhaoxin; Chen, Kai | [arXiv:2502.13847](https://arxiv.org/abs/2502.13847) - [DOI](https://doi.org/10.48550/arXiv.2502.13847) |
+
+
+## [DEP-E-20260819-Proximal Oracles for](../DEP-E-20260819-Proximal%20Oracles%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Proximal Oracles for Optimization and Sampling* | Liang, Jiaming; Chen, Yongxin | [arXiv:2404.02239](https://arxiv.org/abs/2404.02239) - [DOI](https://doi.org/10.48550/arXiv.2404.02239) |
