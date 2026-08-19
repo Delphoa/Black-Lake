@@ -10746,7 +10746,6 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 |---|---|---|
 | *Hierarchical Latent Prediction for Language Models* | Chang Shi; Tim Pearce; Manan Tomar; Siddhartha Sen; John Langford | [arXiv:2608.05806v1](https://arxiv.org/abs/2608.05806v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05806) |
 
-
 ## [DEP-A-20260819-risk KV cache compression](../DEP-A-20260819-risk%20KV%20cache%20compression/README.md)
 
 Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.01520-whitepaper-review.md`](../DEP-A-20260819-risk%20KV%20cache%20compression/2607.01520-whitepaper-review.md).
@@ -12383,3 +12382,163 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction* | Wang Warren Chen; Jiahao Zhang; Zhenjiang Li; Mingxu Wang; Lei Yi; Yuchen Kang; Shuo Sun; Ziping Chen; Jie Chen | [arXiv:2608.17584v1](https://arxiv.org/abs/2608.17584v1) - [DOI](https://doi.org/10.48550/arXiv.2608.17584) |
+
+## [DEP-A-20260820-A Better and Intake](../DEP-A-20260820-A%20Better%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Better%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Better and Faster End-to-End Model for Streaming ASR* | Li, Bo; Gulati, Anmol; Yu, Jiahui; Sainath, Tara N.; Chiu, Chung-Cheng; Narayanan, Arun; Chang, Shuo-Yiin; Pang, Ruoming; He, Yanzhang; Qin, James; Han, Wei; Liang, Qiao; Zhang, Yu; Strohman, Trevor; Wu, Yonghui | [arXiv:2011.10798](https://arxiv.org/abs/2011.10798) - [DOI](https://doi.org/10.48550/arXiv.2011.10798) |
+
+## [DEP-A-20260820-A Distributed Intake](../DEP-A-20260820-A%20Distributed%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Distributed%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles* | Yang, Weiyi; Liu, Xiaolu; He, Lei; Du, Yonghao; Chen, Yingwu | [arXiv:2503.08416](https://arxiv.org/abs/2503.08416) - [DOI](https://doi.org/10.48550/arXiv.2503.08416) |
+
+## [DEP-A-20260820-A Framework for Intake](../DEP-A-20260820-A%20Framework%20for%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Framework%20for%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Framework for Evaluating Snippet Generation for Dataset Search* | Wang, Xiaxia; Chen, Jinchi; Li, Shuxin; Cheng, Gong; Pan, Jeff Z.; Kharlamov, Evgeny; Qu, Yuzhong | [arXiv:1907.01183](https://arxiv.org/abs/1907.01183) - [DOI](https://doi.org/10.48550/arXiv.1907.01183) |
+
+## [DEP-A-20260820-A Policy Intake](../DEP-A-20260820-A%20Policy%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Policy%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Policy Optimization Method Towards Optimal-time Stability* | Wang, Shengjie; Lan, Fengbo; Zheng, Xiang; Cao, Yuxue; Oseni, Oluwatosin; Xu, Haotian; Zhang, Tao; Gao, Yang | [arXiv:2301.00521](https://arxiv.org/abs/2301.00521) - [DOI](https://doi.org/10.48550/arXiv.2301.00521) |
+
+## [DEP-A-20260820-A Self Supervised Intake](../DEP-A-20260820-A%20Self%20Supervised%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Self%20Supervised%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification* | Rao, Haocong; Wang, Siqi; Hu, Xiping; Tan, Mingkui; Guo, Yi; Cheng, Jun; Liu, Xinwang; Hu, Bin | [arXiv:2009.03671](https://arxiv.org/abs/2009.03671) - [DOI](https://doi.org/10.48550/arXiv.2009.03671) |
+
+## [DEP-A-20260820-A Simple and Intake](../DEP-A-20260820-A%20Simple%20and%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20Simple%20and%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding* | Feng, Di; Zhou, Yiyang; Xu, Chenfeng; Tomizuka, Masayoshi; Zhan, Wei | [arXiv:2103.04056](https://arxiv.org/abs/2103.04056) - [DOI](https://doi.org/10.48550/arXiv.2103.04056) |
+
+## [DEP-A-20260820-A parallel Intake](../DEP-A-20260820-A%20parallel%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20parallel%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A parallel structured divide-and-conquer algorithm for symmetric tridiagonal eigenvalue problems* | Liao, Xia; Li, Shengguo; Lu, Yutong; Roman, Jose E. | [arXiv:2008.01990](https://arxiv.org/abs/2008.01990) - [DOI](https://doi.org/10.48550/arXiv.2008.01990) |
+
+## [DEP-A-20260820-A RAG Scaling Intake](../DEP-A-20260820-A%20RAG%20Scaling%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-A%20RAG%20Scaling%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces* | Du, Mingxuan; Xu, Benfeng; Zhu, Chiwei; Wang, Shaohan; Wang, Pengyu; Wang, Xiaorui; Mao, Zhendong | [arXiv:2602.03442](https://arxiv.org/abs/2602.03442) - [DOI](https://doi.org/10.48550/arXiv.2602.03442) |
+
+## [DEP-A-20260820-AKB 48 Intake](../DEP-A-20260820-AKB%2048%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-AKB%2048%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AKB-48: A Real-World Articulated Object Knowledge Base* | Liu, Liu; Xu, Wenqiang; Fu, Haoyuan; Qian, Sucheng; Han, Yang; Lu, Cewu | [arXiv:2202.08432](https://arxiv.org/abs/2202.08432) - [DOI](https://doi.org/10.48550/arXiv.2202.08432) |
+
+## [DEP-A-20260820-Absolute Zero Intake](../DEP-A-20260820-Absolute%20Zero%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Absolute%20Zero%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Absolute Zero: Reinforced Self-play Reasoning with Zero Data* | Zhao, Andrew; Wu, Yiran; Yue, Yang; Wu, Tong; Xu, Quentin; Yue, Yang; Lin, Matthieu; Wang, Shenzhi; Wu, Qingyun; Zheng, Zilong; Huang, Gao | [arXiv:2505.03335](https://arxiv.org/abs/2505.03335) - [DOI](https://doi.org/10.48550/arXiv.2505.03335) |
+
+## [DEP-A-20260820-AcroFOD An Intake](../DEP-A-20260820-AcroFOD%20An%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-AcroFOD%20An%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection* | Gao, Yipeng; Yang, Lingxiao; Huang, Yunmu; Xie, Song; Li, Shiyong; Zheng, Wei-shi | [arXiv:2209.10904](https://arxiv.org/abs/2209.10904) - [DOI](https://doi.org/10.48550/arXiv.2209.10904) |
+
+## [DEP-A-20260820-Aerial RIS Intake](../DEP-A-20260820-Aerial%20RIS%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Aerial%20RIS%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aerial RIS-Enhanced Communications: Joint UAV Trajectory, Altitude Control, and Phase Shift Design* | Li, Bin; Yang, Dongdong; Liu, Lei; Niyato, Dusit | [arXiv:2510.24731](https://arxiv.org/abs/2510.24731) - [DOI](https://doi.org/10.48550/arXiv.2510.24731) |
+
+## [DEP-A-20260820-Algorithm Fairness Intake](../DEP-A-20260820-Algorithm%20Fairness%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Algorithm%20Fairness%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Algorithm Fairness in AI for Medicine and Healthcare* | Chen, Richard J.; Chen, Tiffany Y.; Lipkova, Jana; Wang, Judy J.; Williamson, Drew F. K.; Lu, Ming Y.; Sahai, Sharifa; Mahmood, Faisal | [arXiv:2110.00603](https://arxiv.org/abs/2110.00603) - [DOI](https://doi.org/10.48550/arXiv.2110.00603) |
+
+## [DEP-A-20260820-An improved FPT Intake](../DEP-A-20260820-An%20improved%20FPT%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-An%20improved%20FPT%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An improved FPT algorithm for Independent Feedback Vertex Set* | Li, Shaohua; Pilipczuk, Marcin | [arXiv:1803.00937](https://arxiv.org/abs/1803.00937) - [DOI](https://doi.org/10.48550/arXiv.1803.00937) |
+
+## [DEP-A-20260820-Analysis of Intake](../DEP-A-20260820-Analysis%20of%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Analysis%20of%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis of Nederlof's algorithm for subset sum* | Cao, Zhengjun; Chen, Zhen; Liu, Lihua | [arXiv:1807.02075](https://arxiv.org/abs/1807.02075) - [DOI](https://doi.org/10.48550/arXiv.1807.02075) |
+
+## [DEP-A-20260820-Are LLMs Capable Intake](../DEP-A-20260820-Are%20LLMs%20Capable%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Are%20LLMs%20Capable%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data* | Liu, Xiao; Wu, Zirui; Wu, Xueqing; Lu, Pan; Chang, Kai-Wei; Feng, Yansong | [arXiv:2402.17644](https://arxiv.org/abs/2402.17644) - [DOI](https://doi.org/10.48550/arXiv.2402.17644) |
+
+## [DEP-A-20260820-BigIssue A Intake](../DEP-A-20260820-BigIssue%20A%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-BigIssue%20A%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BigIssue: A Realistic Bug Localization Benchmark* | Kassianik, Paul; Nijkamp, Erik; Pang, Bo; Zhou, Yingbo; Xiong, Caiming | [arXiv:2207.10739](https://arxiv.org/abs/2207.10739) - [DOI](https://doi.org/10.48550/arXiv.2207.10739) |
+
+## [DEP-A-20260820-BraTS PEDs Results Intake](../DEP-A-20260820-BraTS%20PEDs%20Results%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-BraTS%20PEDs%20Results%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BraTS-PEDs: Results of the Multi-Consortium International Pediatric Brain Tumor Segmentation Challenge 2023* | Kazerooni, Anahita Fathi; Khalili, Nastaran; Liu, Xinyang; Haldar, Debanjan; Jiang, Zhifan; Zapaishchykova, Anna; Pavaine, Julija; Shah, Lubdha M.; Jones, Blaise V.; Sheth, Nakul; Prabhu, Sanjay P.; McAllister, Aaron S.; Tu, Wenxin; Nandolia, Khanak K.; Rodriguez, Andres F.; Shaikh, Ibraheem Salman; Montano, Mariana Sanchez; Lai, Hollie Anne; Adewole, Maruf; Albrecht, Jake; Anazodo, Udunna; Anderson, Hannah; Anwar, Syed Muhammed; Aristizabal, Alejandro; Bagheri, Sina; Baid, Ujjwal; Bergquist, Timothy; Borja, Austin J.; Calabrese, Evan; Chung, Verena; Conte, Gian-Marco; Eddy, James; Ezhov, Ivan; Familiar, Ariana M.; Farahani, Keyvan; Gandhi, Deep; Gottipati, Anurag; Haldar, Shuvanjan; Iglesias, Juan Eugenio; Janas, Anastasia; Elaine, Elaine; Karargyris, Alexandros; Kassem, Hasan; Khalili, Neda; Kofler, Florian; LaBella, Dominic; Van Leemput, Koen; Li, Hongwei B.; Maleki, Nazanin; Meier, Zeke; Menze, Bjoern; Moawad, Ahmed W.; Pati, Sarthak; Piraud, Marie; Poussaint, Tina; Reitman, Zachary J.; Rudie, Jeffrey D.; Saluja, Rachit; Sheller, MIcah; Shinohara, Russell Takeshi; Viswanathan, Karthik; Wang, Chunhao; Wiestler, Benedikt; Wiggins, Walter F.; Davatzikos, Christos; Storm, Phillip B.; Bornhorst, Miriam; Packer, Roger; Hummel, Trent; de Blank, Peter; Hoffman, Lindsey; Aboian, Mariam; Nabavizadeh, Ali; Ware, Jeffrey B.; Kann, Benjamin H.; Rood, Brian; Resnick, Adam; Bakas, Spyridon; Vossough, Arastoo; Linguraru, Marius George | [arXiv:2407.08855](https://arxiv.org/abs/2407.08855) - [DOI](https://doi.org/10.48550/arXiv.2407.08855) |
+
+## [DEP-A-20260820-Breaking the Intake](../DEP-A-20260820-Breaking%20the%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-Breaking%20the%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Breaking the Sample Complexity Barrier to Regret-Optimal Model-Free Reinforcement Learning* | Li, Gen; Shi, Laixi; Chen, Yuxin; Chi, Yuejie | [arXiv:2110.04645](https://arxiv.org/abs/2110.04645) - [DOI](https://doi.org/10.48550/arXiv.2110.04645) |
+
+## [DEP-A-20260820-CFP Efficient Intake](../DEP-A-20260820-CFP%20Efficient%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-CFP%20Efficient%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |

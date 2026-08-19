@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **984 publication reviews across 630 DEP-E entries**.
+- Current coverage: **985 publication reviews across 631 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-Quantum Repeater](../DEP-E-20260820-Quantum%20Repeater/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Absorption-emission quantum repeater using diamond quantum memories* | Taichi Fujiwara; Yuhei Sekiguchi; Raustin Reyes; Toshiharu Makino; Hiromitsu Kato; Hideo Kosaka | [arXiv:2608.17470v1](https://arxiv.org/abs/2608.17470); [DOI](https://doi.org/10.48550/arXiv.2608.17470) | [DEP-E](../DEP-E-20260820-Quantum%20Repeater/README.md) |
 
 ## [DEP-E-20260818-DHR Retrieval](../DEP-E-20260818-DHR%20Retrieval/README.md)
 
@@ -6833,3 +6839,3503 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization* | Hu, Yuchen; Chen, Chen; Wang, Siyin; Chng, Eng Siong; Zhang, Chao | [arXiv:2407.02243](https://arxiv.org/abs/2407.02243) - [DOI](https://doi.org/10.48550/arXiv.2407.02243) |
+
+
+## [DEP-E-20260819-texttt Complex-Edit](../DEP-E-20260819-texttt%20Complex-Edit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark* | Yang, Siwei; Hui, Mude; Zhao, Bingchen; Zhou, Yuyin; Ruiz, Nataniel; Xie, Cihang | [arXiv:2504.13143](https://arxiv.org/abs/2504.13143) - [DOI](https://doi.org/10.48550/arXiv.2504.13143) |
+
+
+## [DEP-E-20260819-Best- k Search Algorithm](../DEP-E-20260819-Best-%20k%20Search%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Best-$k$ Search Algorithm for Neural Text Generation* | Xu, Jiacheng; Xiong, Caiming; Savarese, Silvio; Zhou, Yingbo | [arXiv:2211.11924](https://arxiv.org/abs/2211.11924) - [DOI](https://doi.org/10.48550/arXiv.2211.11924) |
+
+
+## [DEP-E-20260819-EagleNet Energy-Aware](../DEP-E-20260819-EagleNet%20Energy-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval* | Chen, Yuhan; Dai, Pengwen; Wang, Chuan; Wu, Dayan; Cao, Xiaochun | [arXiv:2603.25267](https://arxiv.org/abs/2603.25267) - [DOI](https://doi.org/10.48550/arXiv.2603.25267) |
+
+
+## [DEP-E-20260819-Optimization of 06472](../DEP-E-20260819-Optimization%20of%2006472/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization of institutional incentives for cooperation in structured populations* | Wang, Shengxian; Chen, Xiaojie; Xiao, Zhilong; Szolnoki, Attila; Vasconcelos, Vítor V. | [arXiv:2301.06472](https://arxiv.org/abs/2301.06472) - [DOI](https://doi.org/10.1098/rsif.2022.0653) |
+
+
+## [DEP-E-20260819-Sample Complexity of](../DEP-E-20260819-Sample%20Complexity%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds* | Xu, Zhenghao; Ji, Xiang; Chen, Minshuo; Wang, Mengdi; Zhao, Tuo | [arXiv:2309.13915](https://arxiv.org/abs/2309.13915) - [DOI](https://doi.org/10.48550/arXiv.2309.13915) |
+
+
+## [DEP-E-20260819-Learning Multi-layer](../DEP-E-20260819-Learning%20Multi-layer/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference* | Nijkamp, Erik; Pang, Bo; Han, Tian; Zhou, Linqi; Zhu, Song-Chun; Wu, Ying Nian | [arXiv:1912.01909](https://arxiv.org/abs/1912.01909) - [DOI](https://doi.org/10.48550/arXiv.1912.01909) |
+
+
+## [DEP-E-20260819-How to Evaluate the Next](../DEP-E-20260819-How%20to%20Evaluate%20the%20Next/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How to Evaluate the Next System: Automatic Dialogue Evaluation from the Perspective of Continual Learning* | Li, Lu; He, Zhongheng; Zhou, Xiangyang; Yu, Dianhai | [arXiv:1912.04664](https://arxiv.org/abs/1912.04664) - [DOI](https://doi.org/10.48550/arXiv.1912.04664) |
+
+
+## [DEP-E-20260819-Canonical Intermediate](../DEP-E-20260819-Canonical%20Intermediate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation* | Lyu, Zhongyuan; Hu, Shuoyu; Liu, Lujie; Yang, Hongxia; LI, Ming | [arXiv:2602.02029](https://arxiv.org/abs/2602.02029) - [DOI](https://doi.org/10.48550/arXiv.2602.02029) |
+
+
+## [DEP-E-20260819-Maestro Learning to](../DEP-E-20260819-Maestro%20Learning%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs* | Yang, Wei; Pang, Jiacheng; Li, Shixuan; Bogdan, Paul; Tu, Stephen; Thomason, Jesse | [arXiv:2511.06134](https://arxiv.org/abs/2511.06134) - [DOI](https://doi.org/10.48550/arXiv.2511.06134) |
+
+
+## [DEP-E-20260819-An Efficient Algori 05613](../DEP-E-20260819-An%20Efficient%20Algori%2005613/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Algorithm for Deep Stochastic Contextual Bandits* | Authors listed on the public arXiv record | [arXiv:2104.05613](https://arxiv.org/abs/2104.05613) - [DOI](https://doi.org/10.48550/arXiv.2104.05613) |
+
+
+## [DEP-E-20260819-AirSpatialBot A](../DEP-E-20260819-AirSpatialBot%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval* | Zhou, Yue; Ding, Ran; Yang, Xue; Jiang, Xue; Liu, Xingzhao | [arXiv:2601.01416](https://arxiv.org/abs/2601.01416) - [DOI](https://doi.org/10.48550/arXiv.2601.01416) |
+
+
+## [DEP-E-20260819-Kernel Taylor-Based Value](../DEP-E-20260819-Kernel%20Taylor-Based%20Value/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Kernel Taylor-Based Value Function Approximation for Continuous-State Markov Decision Processes* | Xu, Junhong; Yin, Kai; Liu, Lantao | [arXiv:2006.02008](https://arxiv.org/abs/2006.02008) - [DOI](https://doi.org/10.48550/arXiv.2006.02008) |
+
+
+## [DEP-E-20260819-A Coupled Optimization](../DEP-E-20260819-A%20Coupled%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Coupled Optimization Framework for Correlated Equilibria in Normal-Form Game* | Li, Sarah H. Q.; Yu, Yue; Dörfler, Florian; Lygeros, John | [arXiv:2403.16223](https://arxiv.org/abs/2403.16223) - [DOI](https://doi.org/10.48550/arXiv.2403.16223) |
+
+
+## [DEP-E-20260819-Enhancing Large Vision](../DEP-E-20260819-Enhancing%20Large%20Vision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory* | Kou, Wei-Bin; Lin, Qingfeng; Tang, Ming; Lei, Jingreng; Wang, Shuai; Ye, Rongguang; Zhu, Guangxu; Wu, Yik-Chung | [arXiv:2501.01710](https://arxiv.org/abs/2501.01710) - [DOI](https://doi.org/10.48550/arXiv.2501.01710) |
+
+
+## [DEP-E-20260819-Overcoming Growth-Induced](../DEP-E-20260819-Overcoming%20Growth-Induced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Overcoming Growth-Induced Forgetting in Task-Agnostic Continual Learning* | Zhao, Yuqing; Cao, Jiannong; Saxena, Divya; Liu, Xiaoyun; Song, Changlin; Yuan, Bo; McCann, Julie | [arXiv:2408.10566](https://arxiv.org/abs/2408.10566) - [DOI](https://doi.org/10.48550/arXiv.2408.10566) |
+
+
+## [DEP-E-20260819-TANGO Time-Reversal](../DEP-E-20260819-TANGO%20Time-Reversal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems* | Huang, Zijie; Zhao, Wanjia; Gao, Jingdong; Hu, Ziniu; Luo, Xiao; Cao, Yadi; Chen, Yuanzhou; Sun, Yizhou; Wang, Wei | [arXiv:2310.06427](https://arxiv.org/abs/2310.06427) - [DOI](https://doi.org/10.48550/arXiv.2310.06427) |
+
+
+## [DEP-E-20260819-Visualization of](../DEP-E-20260819-Visualization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Visualization of Multi-Objective Switched Reluctance Machine Optimization at Multiple Operating Conditions with t-SNE* | Zhang, Shen; Zhang, Shibo; Li, Sufei; Du, Liang; Habetler, Thomas G. | [arXiv:1911.01024](https://arxiv.org/abs/1911.01024) - [DOI](https://doi.org/10.48550/arXiv.1911.01024) |
+
+
+## [DEP-E-20260819-UniC-RAG Universal](../DEP-E-20260819-UniC-RAG%20Universal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation* | Geng, Runpeng; Wang, Yanting; Chen, Ying; Jia, Jinyuan | [arXiv:2508.18652](https://arxiv.org/abs/2508.18652) - [DOI](https://doi.org/10.48550/arXiv.2508.18652) |
+
+
+## [DEP-E-20260819-Accurate Peak Detection](../DEP-E-20260819-Accurate%20Peak%20Detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning* | Ma, Zeyuan; Lian, Hongqiao; Qiu, Wenjie; Gong, Yue-Jiao | [arXiv:2503.18066](https://arxiv.org/abs/2503.18066) - [DOI](https://doi.org/10.48550/arXiv.2503.18066) |
+
+
+## [DEP-E-20260819-deGraphCS Embedding](../DEP-E-20260819-deGraphCS%20Embedding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search* | Zeng, Chen; Yu, Yue; Li, Shanshan; Xia, Xin; Wang, Zhiming; Geng, Mingyang; Xiao, Bailin; Dong, Wei; Liao, Xiangke | [arXiv:2103.13020](https://arxiv.org/abs/2103.13020) - [DOI](https://doi.org/10.48550/arXiv.2103.13020) |
+
+
+## [DEP-E-20260819-LFMamba Light Field Image](../DEP-E-20260819-LFMamba%20Light%20Field%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LFMamba: Light Field Image Super-Resolution with State Space Model* | xia, Wang; Lu, Yao; Wang, Shunzhou; Wang, Ziqi; Xia, Peiqi; Zhou, Tianfei | [arXiv:2406.12463](https://arxiv.org/abs/2406.12463) - [DOI](https://doi.org/10.48550/arXiv.2406.12463) |
+
+
+## [DEP-E-20260819-RISE Self-Improving Robot](../DEP-E-20260819-RISE%20Self-Improving%20Robot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RISE: Self-Improving Robot Policy with Compositional World Model* | Yang, Jiazhi; Lin, Kunyang; Li, Jinwei; Zhang, Wencong; Lin, Tianwei; Wu, Longyan; Su, Zhizhong; Zhao, Hao; Zhang, Ya-Qin; Chen, Li; Luo, Ping; Yue, Xiangyu; Li, Hongyang | [arXiv:2602.11075](https://arxiv.org/abs/2602.11075) - [DOI](https://doi.org/10.48550/arXiv.2602.11075) |
+
+
+## [DEP-E-20260819-A Quantum SMT Solver for](../DEP-E-20260819-A%20Quantum%20SMT%20Solver%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Quantum SMT Solver for Bit-Vector Theory* | Lin, Shang-Wei; Chen, Si-Han; Wang, Tzu-Fan; Chen, Yean-Ru | [arXiv:2303.09353](https://arxiv.org/abs/2303.09353) - [DOI](https://doi.org/10.48550/arXiv.2303.09353) |
+
+
+## [DEP-E-20260819-GPU Optimization for](../DEP-E-20260819-GPU%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GPU Optimization for High-Quality Kinetic Fluid Simulation* | Chen, Yixin; Li, Wei; Fan, Rui; Liu, Xiaopei | [arXiv:2101.11856](https://arxiv.org/abs/2101.11856) - [DOI](https://doi.org/10.48550/arXiv.2101.11856) |
+
+
+## [DEP-E-20260819-FORGE Fragment-Oriented](../DEP-E-20260819-FORGE%20Fragment-Oriented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FORGE: Fragment-Oriented Ranking and Generation for Context-Aware Molecular Optimization* | Zhang, Qingchuan; Cao, He; Li, Hao; Shao, Yanjun; Liu, Zhiyuan; Wang, Shihang; Xie, Shufang; Gao, Shenghua; Ye, Xinwu | [arXiv:2605.10230](https://arxiv.org/abs/2605.10230) - [DOI](https://doi.org/10.48550/arXiv.2605.10230) |
+
+
+## [DEP-E-20260819-DRIVE Distributional and](../DEP-E-20260819-DRIVE%20Distributional%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation* | Cui, Miduo; Wang, Haochen; Mao, Shangqin; Yang, Xun; Xie, Qianlong; Wang, Xingxing; Ge, Xuri; Zhou, Ying; Xu, Zhiwei | [arXiv:2606.14192](https://arxiv.org/abs/2606.14192) - [DOI](https://doi.org/10.48550/arXiv.2606.14192) |
+
+
+## [DEP-E-20260819-Frequency Fitness](../DEP-E-20260819-Frequency%20Fitness/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Frequency Fitness Assignment: Optimization without Bias for Good Solutions can be Efficient* | Weise, Thomas; Wu, Zhize; Li, Xinlu; Chen, Yan; Lässig, Jörg | [arXiv:2112.00229](https://arxiv.org/abs/2112.00229) - [DOI](https://doi.org/10.48550/arXiv.2112.00229) |
+
+
+## [DEP-E-20260819-Aerial World Model for](../DEP-E-20260819-Aerial%20World%20Model%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space* | Zhang, Weichen; Tang, Peizhi; Zeng, Xin; Man, Fanhang; Yu, Shiquan; Dai, Zichao; Zhao, Baining; Chen, Hongjin; Shang, Yu; Wu, Wei; Gao, Chen; Chen, Xinlei; Wang, Xin; Li, Yong; Zhu, Wenwu | [arXiv:2512.21887](https://arxiv.org/abs/2512.21887) - [DOI](https://doi.org/10.48550/arXiv.2512.21887) |
+
+
+## [DEP-E-20260819-Tiny Model Big Logic](../DEP-E-20260819-Tiny%20Model%20Big%20Logic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B* | Xu, Sen; Zhou, Yi; Wang, Wei; Min, Jixin; Yin, Zhibin; Dai, Yingwei; Liu, Shixi; Pang, Lianyu; Chen, Yirong; Zhang, Junlin | [arXiv:2511.06221](https://arxiv.org/abs/2511.06221) - [DOI](https://doi.org/10.48550/arXiv.2511.06221) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented TLAPS](../DEP-E-20260819-Retrieval-Augmented%20TLAPS/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented TLAPS Proof Generation with Large Language Models* | Zhou, Yuhao | [arXiv:2501.03073](https://arxiv.org/abs/2501.03073) - [DOI](https://doi.org/10.48550/arXiv.2501.03073) |
+
+
+## [DEP-E-20260819-BeatDance A Beat-Based](../DEP-E-20260819-BeatDance%20A%20Beat-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval* | Yang, Kaixing; Zhou, Xukun; Tang, Xulong; Diao, Ran; Liu, Hongyan; He, Jun; Fan, Zhaoxin | [arXiv:2310.10300](https://arxiv.org/abs/2310.10300) - [DOI](https://doi.org/10.48550/arXiv.2310.10300) |
+
+
+## [DEP-E-20260819-Fast Block Linear System](../DEP-E-20260819-Fast%20Block%20Linear%20System/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Fast Block Linear System Solver Using Q-Learning Schduling for Unified Dynamic Power System Simulations* | Chen, Yingshi; Song, Xinli; Dai, HanYang; Liu, Tao; Zhong, Wuzhi; Wu, Guoyang | [arXiv:2110.05843](https://arxiv.org/abs/2110.05843) - [DOI](https://doi.org/10.48550/arXiv.2110.05843) |
+
+
+## [DEP-E-20260819-Collaborative Unlabeled](../DEP-E-20260819-Collaborative%20Unlabeled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Collaborative Unlabeled Data Optimization* | Shang, Xinyi; Sun, Peng; Liu, Fengyuan; Lin, Tao | [arXiv:2505.14117](https://arxiv.org/abs/2505.14117) - [DOI](https://doi.org/10.48550/arXiv.2505.14117) |
+
+
+## [DEP-E-20260819-VehicleMemBench An](../DEP-E-20260819-VehicleMemBench%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents* | Chen, Yuhao; Xu, Yi; Ding, Xinyun; Fang, Xiang; Liu, Shuochen; Lin, Luxi; Zhang, Qingyu; Li, Ya; Liu, Quan; Xu, Tong | [arXiv:2603.23840](https://arxiv.org/abs/2603.23840) - [DOI](https://doi.org/10.48550/arXiv.2603.23840) |
+
+
+## [DEP-E-20260819-Joint Latency and Cost](../DEP-E-20260819-Joint%20Latency%20and%20Cost/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Latency and Cost Optimization for Erasure-coded Data Center Storage* | Xiang, Yu; Lan, Tian; Aggarwal, Vaneet; Chen, Yih-Farn R | [arXiv:1404.4975](https://arxiv.org/abs/1404.4975) - [DOI](https://doi.org/10.1109/TNET.2015.2466453) |
+
+
+## [DEP-E-20260819-WildWorld A Large-Scale](../DEP-E-20260819-WildWorld%20A%20Large-Scale/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG* | Li, Zhen; Meng, Zian; Shi, Shuwei; Peng, Wenshuo; Wu, Yuwei; Zheng, Bo; Li, Chuanhao; Zhang, Kaipeng | [arXiv:2603.23497](https://arxiv.org/abs/2603.23497) - [DOI](https://doi.org/10.48550/arXiv.2603.23497) |
+
+
+## [DEP-E-20260819-Read Pointer Meters in](../DEP-E-20260819-Read%20Pointer%20Meters%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Read Pointer Meters in complex environments based on a Human-like Alignment and Recognition Algorithm* | Shu, Yan; Liu, Shaohui; Xu, Honglei; Jiang, Feng | [arXiv:2302.14323](https://arxiv.org/abs/2302.14323) - [DOI](https://doi.org/10.1007/978-981-99-8761-0_13) |
+
+
+## [DEP-E-20260819-A Graph-native](../DEP-E-20260819-A%20Graph-native/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Graph-native Optimization Framework for Complex Graph Queries* | Lyu, Bingqing; Zhou, Xiaoli; Lai, Longbin; Yang, Yufan; Lou, Yunkai; Yu, Wenyuan; Zhou, Jingren | [arXiv:2503.22091](https://arxiv.org/abs/2503.22091) - [DOI](https://doi.org/10.48550/arXiv.2503.22091) |
+
+
+## [DEP-E-20260819-Simulated annealing for](../DEP-E-20260819-Simulated%20annealing%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Simulated annealing for optimization of graphs and sequences* | Liu, Xianggen; Li, Pengyong; Meng, Fandong; Zhou, Hao; Zhong, Huasong; Zhou, Jie; Mou, Lili; Song, Sen | [arXiv:2110.01384](https://arxiv.org/abs/2110.01384) - [DOI](https://doi.org/10.1016/j.neucom.2021.09.003) |
+
+
+## [DEP-E-20260819-PIS A Generalized](../DEP-E-20260819-PIS%20A%20Generalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching* | Yang, Weijie; Zhang, Xun; Jiang, Simin; Zhou, Yubao | [arXiv:2512.13732](https://arxiv.org/abs/2512.13732) - [DOI](https://doi.org/10.48550/arXiv.2512.13732) |
+
+
+## [DEP-E-20260819-Quantum memory error](../DEP-E-20260819-Quantum%20memory%20error/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum memory error correction computation based on Chamon model* | Zhao, Jian; Wu, Yu-Chun; Guo, Guo-Ping | [arXiv:2303.05267](https://arxiv.org/abs/2303.05267) - [DOI](https://doi.org/10.48550/arXiv.2303.05267) |
+
+
+## [DEP-E-20260819-Memory Efficient Temporal](../DEP-E-20260819-Memory%20Efficient%20Temporal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation* | Hu, Xinyue; Gu, Lin; Liu, Liangchen; Li, Ruijiang; Su, Chang; Harada, Tatsuya; Zhu, Yingying | [arXiv:2208.06554](https://arxiv.org/abs/2208.06554) - [DOI](https://doi.org/10.48550/arXiv.2208.06554) |
+
+
+## [DEP-E-20260819-An Efficient](../DEP-E-20260819-An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks* | Wu, Yuxiang; Zhao, Yu; Hu, Baotian; Minervini, Pasquale; Stenetorp, Pontus; Riedel, Sebastian | [arXiv:2210.16773](https://arxiv.org/abs/2210.16773) - [DOI](https://doi.org/10.48550/arXiv.2210.16773) |
+
+
+## [DEP-E-20260819-CogDDN A Cognitive](../DEP-E-20260819-CogDDN%20A%20Cognitive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking* | Huang, Yuehao; Liu, Liang; Lei, Shuangming; Ma, Yukai; Su, Hao; Mei, Jianbiao; Zhao, Pengxiang; Gu, Yaqing; Liu, Yong; Lv, Jiajun | [arXiv:2507.11334](https://arxiv.org/abs/2507.11334) - [DOI](https://doi.org/10.1145/3746027.3755832) |
+
+
+## [DEP-E-20260819-An](../DEP-E-20260819-An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Expectation-Maximization Algorithm-based Autoregressive Model for the Fuzzy Job Shop Scheduling Problem* | Wang, Yijian; Guo, Tongxian; Liu, Zhaoqiang | [arXiv:2502.00018](https://arxiv.org/abs/2502.00018) - [DOI](https://doi.org/10.48550/arXiv.2502.00018) |
+
+
+## [DEP-E-20260819-Effective Quantization](../DEP-E-20260819-Effective%20Quantization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Effective Quantization Methods for Recurrent Neural Networks* | He, Qinyao; Wen, He; Zhou, Shuchang; Wu, Yuxin; Yao, Cong; Zhou, Xinyu; Zou, Yuheng | [arXiv:1611.10176](https://arxiv.org/abs/1611.10176) - [DOI](https://doi.org/10.48550/arXiv.1611.10176) |
+
+
+## [DEP-E-20260819-Distributed Clock Skew](../DEP-E-20260819-Distributed%20Clock%20Skew/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Clock Skew and Offset Estimation in Wireless Sensor Networks: Asynchronous Algorithm and Convergence Analysis* | Du, Jian; Wu, Yik-Chung | [arXiv:1607.03830](https://arxiv.org/abs/1607.03830) - [DOI](https://doi.org/10.48550/arXiv.1607.03830) |
+
+
+## [DEP-E-20260819-Decidability of Liveness](../DEP-E-20260819-Decidability%20of%20Liveness/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decidability of Liveness on the TSO Memory Model* | Wang, Chao; Petri, Gustavo; Lv, Yi; Long, Teng; Liu, Zhiming | [arXiv:2107.09930](https://arxiv.org/abs/2107.09930) - [DOI](https://doi.org/10.48550/arXiv.2107.09930) |
+
+
+## [DEP-E-20260819-RGL A Graph-Centric](../DEP-E-20260819-RGL%20A%20Graph-Centric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RGL: A Graph-Centric, Modular Framework for Efficient Retrieval-Augmented Generation on Graphs* | Li, Yuan; Hu, Jun; Jiang, Jiaxin; Liu, Zemin; Hooi, Bryan; He, Bingsheng | [arXiv:2503.19314](https://arxiv.org/abs/2503.19314) - [DOI](https://doi.org/10.48550/arXiv.2503.19314) |
+
+
+## [DEP-E-20260819-A Spatial Mapping](../DEP-E-20260819-A%20Spatial%20Mapping/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Spatial Mapping Algorithm with Applications in Deep Learning-Based Structure Classification* | Corcoran, Thomas; Zamora-Resendiz, Rafael; Liu, Xinlian; Crivelli, Silvia | [arXiv:1802.02532](https://arxiv.org/abs/1802.02532) - [DOI](https://doi.org/10.48550/arXiv.1802.02532) |
+
+
+## [DEP-E-20260819-A-MAR Agent-based](../DEP-E-20260819-A-MAR%20Agent-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding* | Wang, Shuai; Zhu, Hongyi; Huang, Jia-Hong; Shen, Yixian; Zeng, Chengxi; Rudinac, Stevan; Kackovic, Monika; Wijnberg, Nachoem; Worring, Marcel | [arXiv:2604.19689](https://arxiv.org/abs/2604.19689) - [DOI](https://doi.org/10.48550/arXiv.2604.19689) |
+
+
+## [DEP-E-20260819-Learning ell 1 -based](../DEP-E-20260819-Learning%20ell%201%20-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning $\ell_1$-based analysis and synthesis sparsity priors using bi-level optimization* | Chen, Yunjin; Pock, Thomas; Bischof, Horst | [arXiv:1401.4105](https://arxiv.org/abs/1401.4105) - [DOI](https://doi.org/10.48550/arXiv.1401.4105) |
+
+
+## [DEP-E-20260819-The performance of the](../DEP-E-20260819-The%20performance%20of%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The performance of the amplitude-based model for complex phase retrieval* | Xia, Yu; Xu, Zhiqiang | [arXiv:2204.05492](https://arxiv.org/abs/2204.05492) - [DOI](https://doi.org/10.48550/arXiv.2204.05492) |
+
+
+## [DEP-E-20260819-LLM-FSM Scaling Large](../DEP-E-20260819-LLM-FSM%20Scaling%20Large/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation* | Wu, Yuheng; Gokmen, Berk; Xie, Zhouhua; Li, Peijing; Trippel, Caroline; Raina, Priyanka; Tambe, Thierry | [arXiv:2602.07032](https://arxiv.org/abs/2602.07032) - [DOI](https://doi.org/10.48550/arXiv.2602.07032) |
+
+
+## [DEP-E-20260819-Unfolding the Alternating](../DEP-E-20260819-Unfolding%20the%20Alternating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unfolding the Alternating Optimization for Blind Super Resolution* | Luo, Zhengxiong; Huang, Yan; Li, Shang; Wang, Liang; Tan, Tieniu | [arXiv:2010.02631](https://arxiv.org/abs/2010.02631) - [DOI](https://doi.org/10.48550/arXiv.2010.02631) |
+
+
+## [DEP-E-20260819-Rethinking Key-Value](../DEP-E-20260819-Rethinking%20Key-Value/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving* | Gao, Wei; Zhou, Xinyu; Sun, Peng; Zhang, Tianwei; Wen, Yonggang | [arXiv:2503.24000](https://arxiv.org/abs/2503.24000) - [DOI](https://doi.org/10.48550/arXiv.2503.24000) |
+
+
+## [DEP-E-20260819-Group-based control of](../DEP-E-20260819-Group-based%20control%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Group-based control of large-scale micro-robot swarms with on-board Physical Finite-State Machines* | Li, Siyu; Zefran, Milos; Paprotny, Igor | [arXiv:2208.08614](https://arxiv.org/abs/2208.08614) - [DOI](https://doi.org/10.48550/arXiv.2208.08614) |
+
+
+## [DEP-E-20260819-OMAD Object Model with](../DEP-E-20260819-OMAD%20Object%20Model%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval* | Xue, Han; Liu, Liu; Xu, Wenqiang; Fu, Haoyuan; Lu, Cewu | [arXiv:2112.07334](https://arxiv.org/abs/2112.07334) - [DOI](https://doi.org/10.48550/arXiv.2112.07334) |
+
+
+## [DEP-E-20260819-Difficulty-Estimated](../DEP-E-20260819-Difficulty-Estimated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Difficulty-Estimated Policy Optimization* | Zhao, Yu; Jiang, Fan; Liu, Tianle; Zeng, Bo; Liu, Yu; Wang, Longyue; Luo, Weihua | [arXiv:2602.06375](https://arxiv.org/abs/2602.06375) - [DOI](https://doi.org/10.48550/arXiv.2602.06375) |
+
+
+## [DEP-E-20260819-Vulseye Detect Smart](../DEP-E-20260819-Vulseye%20Detect%20Smart/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing* | Liang, Ruichao; Chen, Jing; Wu, Cong; He, Kun; Wu, Yueming; Cao, Ruochen; Du, Ruiying; Liu, Yang; Zhao, Ziming | [arXiv:2408.10116](https://arxiv.org/abs/2408.10116) - [DOI](https://doi.org/10.48550/arXiv.2408.10116) |
+
+
+## [DEP-E-20260819-A local search 4 3](../DEP-E-20260819-A%20local%20search%204%203/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A local search $4/3$-approximation algorithm for the minimum $3$-path partition problem* | Chen, Yong; Goebel, Randy; Lin, Guohui; Liu, Longcheng; Su, Bing; Tong, Weitian; Xu, Yao; Zhang, An | [arXiv:1812.09353](https://arxiv.org/abs/1812.09353) - [DOI](https://doi.org/10.48550/arXiv.1812.09353) |
+
+
+## [DEP-E-20260819-Quantum Recurrent Neural](../DEP-E-20260819-Quantum%20Recurrent%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Recurrent Neural Networks with Encoder-Decoder for Time-Dependent Partial Differential Equations* | Chen, Yuan; Khaliq, Abdul; Furati, Khaled M. | [arXiv:2502.13370](https://arxiv.org/abs/2502.13370) - [DOI](https://doi.org/10.48550/arXiv.2502.13370) |
+
+
+## [DEP-E-20260819-Improving Code](../DEP-E-20260819-Improving%20Code/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization* | Wu, Yuhan; Zhang, Huan; Cheng, Wei; Shen, Chen; Yang, Jingyue; Hu, Wei | [arXiv:2605.13229](https://arxiv.org/abs/2605.13229) - [DOI](https://doi.org/10.48550/arXiv.2605.13229) |
+
+
+## [DEP-E-20260819-Scalable Algorithm for](../DEP-E-20260819-Scalable%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable Algorithm for Dynamic Quasi-clique Detection* | Chen, Jingbang; Li, Weinuo; Zhou, Yingli; Wu, Hao; Wang, Can; Fang, Yixiang; Ma, Chenhao | [arXiv:2605.26235](https://arxiv.org/abs/2605.26235) - [DOI](https://doi.org/10.48550/arXiv.2605.26235) |
+
+
+## [DEP-E-20260819-Scaling the Long Video](../DEP-E-20260819-Scaling%20the%20Long%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism* | Chen, Tao; Zhang, Kun; Wu, Qiong; Chen, Xiao; Chang, Chao; Sun, Xiaoshuai; Zhou, Yiyi; Ji, Rongrong | [arXiv:2603.29252](https://arxiv.org/abs/2603.29252) - [DOI](https://doi.org/10.48550/arXiv.2603.29252) |
+
+
+## [DEP-E-20260819-Random gradient](../DEP-E-20260819-Random%20gradient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Random gradient extrapolation for distributed and stochastic optimization* | Lan, Guanghui; Zhou, Yi | [arXiv:1711.05762](https://arxiv.org/abs/1711.05762) - [DOI](https://doi.org/10.48550/arXiv.1711.05762) |
+
+
+## [DEP-E-20260819-Learning an Effective](../DEP-E-20260819-Learning%20an%20Effective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning an Effective Premise Retrieval Model for Efficient Mathematical Formalization* | Tao, Yicheng; Liu, Haotian; Wang, Shanwen; Xu, Hongteng | [arXiv:2501.13959](https://arxiv.org/abs/2501.13959) - [DOI](https://doi.org/10.48550/arXiv.2501.13959) |
+
+
+## [DEP-E-20260819-Automated Random](../DEP-E-20260819-Automated%20Random/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Automated Random Embedding for Practical Bayesian Optimization with Unknown Effective Dimension* | Qian, Hong; Shu, Xiang; Xia, Xiang; Liu, Xuhui; Fu, Yangde; Liang, Bei; Wang, Huibin; Dou, Liang | [arXiv:2605.23473](https://arxiv.org/abs/2605.23473) - [DOI](https://doi.org/10.48550/arXiv.2605.23473) |
+
+
+## [DEP-E-20260819-FreqMark Invisible Image](../DEP-E-20260819-FreqMark%20Invisible%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space* | Guo, Yiyang; Li, Ruizhe; Hui, Mude; Guo, Hanzhong; Zhang, Chen; Cai, Chuangjian; Wan, Le; Wang, Shangfei | [arXiv:2410.20824](https://arxiv.org/abs/2410.20824) - [DOI](https://doi.org/10.48550/arXiv.2410.20824) |
+
+
+## [DEP-E-20260819-Earlier Tokens Contribute](../DEP-E-20260819-Earlier%20Tokens%20Contribute/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective* | Shao, Ruichen; Li, Bei; Liu, Gangao; Chen, Yang; Zhou, Xiang; Wang, Jingang; Cai, Xunliang; Li, Peng | [arXiv:2502.14340](https://arxiv.org/abs/2502.14340) - [DOI](https://doi.org/10.48550/arXiv.2502.14340) |
+
+
+## [DEP-E-20260819-Bridging Large Language](../DEP-E-20260819-Bridging%20Large%20Language/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bridging Large Language Models and Optimization: A Unified Framework for Text-attributed Combinatorial Optimization* | Jiang, Xia; Wu, Yaoxin; Wang, Yuan; Zhang, Yingqian | [arXiv:2408.12214](https://arxiv.org/abs/2408.12214) - [DOI](https://doi.org/10.48550/arXiv.2408.12214) |
+
+
+## [DEP-E-20260819-The Evolution of](../DEP-E-20260819-The%20Evolution%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Evolution of Embedding Table Optimization and Multi-Epoch Training in Pinterest Ads Conversion* | Qiu, Andrew; Barhate, Shubham; Lui, Hin Wai; Su, Runze; Müller, Rafael Rios; Li, Kungang; Leng, Ling; Sun, Han; Ehsani, Shayan; Liu, Zhifang | [arXiv:2505.05605](https://arxiv.org/abs/2505.05605) - [DOI](https://doi.org/10.48550/arXiv.2505.05605) |
+
+
+## [DEP-E-20260819-Movable Antenna Empowered](../DEP-E-20260819-Movable%20Antenna%20Empowered/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Movable Antenna Empowered Downlink NOMA Systems: Power Allocation and Antenna Position Optimization* | Zhou, Yufeng; Chen, Wen; Wu, Qingqing; Zhu, Xusheng; Cheng, Nan | [arXiv:2405.18692](https://arxiv.org/abs/2405.18692) - [DOI](https://doi.org/10.48550/arXiv.2405.18692) |
+
+
+## [DEP-E-20260819-A Taxonomy for Neural](../DEP-E-20260819-A%20Taxonomy%20for%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Taxonomy for Neural Memory Networks* | Ma, Ying; Principe, Jose | [arXiv:1805.00327](https://arxiv.org/abs/1805.00327) - [DOI](https://doi.org/10.1109/TNNLS.2019.2926466) |
+
+
+## [DEP-E-20260819-Offline Multi-Agent](../DEP-E-20260819-Offline%20Multi-Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization* | Liu, Zongkai; Lin, Qian; Yu, Chao; Wu, Xiawei; Liang, Yile; Li, Donghui; Ding, Xuetao | [arXiv:2412.07639](https://arxiv.org/abs/2412.07639) - [DOI](https://doi.org/10.48550/arXiv.2412.07639) |
+
+
+## [DEP-E-20260819-The Devil is in the 07305](../DEP-E-20260819-The%20Devil%20is%20in%20the%2007305/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning* | Zhou, Xinyang; Wei, Fanyue; Duan, Lixin; Yao, Angela; Li, Wen | [arXiv:2501.07305](https://arxiv.org/abs/2501.07305) - [DOI](https://doi.org/10.48550/arXiv.2501.07305) |
+
+
+## [DEP-E-20260819-Unbiased Implicit](../DEP-E-20260819-Unbiased%20Implicit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unbiased Implicit Feedback via Bi-level Optimization* | Chen, Can; Ma, Chen; Chen, Xi; Song, Sirui; Liu, Hao; Liu, Xue | [arXiv:2206.00147](https://arxiv.org/abs/2206.00147) - [DOI](https://doi.org/10.48550/arXiv.2206.00147) |
+
+
+## [DEP-E-20260819-Adaptive Client Sampling](../DEP-E-20260819-Adaptive%20Client%20Sampling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive Client Sampling in Federated Learning via Online Learning with Bandit Feedback* | Zhao, Boxin; Wang, Lingxiao; Liu, Ziqi; Zhang, Zhiqiang; Zhou, Jun; Chen, Chaochao; Kolar, Mladen | [arXiv:2112.14332](https://arxiv.org/abs/2112.14332) - [DOI](https://doi.org/10.48550/arXiv.2112.14332) |
+
+
+## [DEP-E-20260819-Student Competency](../DEP-E-20260819-Student%20Competency/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Student Competency Assessment and Presentation Methods Based on Algorithm Courses* | Zhang, Yingqi; Zheng, Ninghan; Li, Shanshan; Liu, Weidong | [arXiv:2606.00200](https://arxiv.org/abs/2606.00200) - [DOI](https://doi.org/10.1109/FIE63693.2025.11328247) |
+
+
+## [DEP-E-20260819-Learning Large](../DEP-E-20260819-Learning%20Large/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Large Neighborhood Search Policy for Integer Programming* | Wu, Yaoxin; Song, Wen; Cao, Zhiguang; Zhang, Jie | [arXiv:2111.03466](https://arxiv.org/abs/2111.03466) - [DOI](https://doi.org/10.48550/arXiv.2111.03466) |
+
+
+## [DEP-E-20260819-EBPO Empirical Bayes](../DEP-E-20260819-EBPO%20Empirical%20Bayes/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization* | Han, Kevin; Zhou, Yuhang; Gao, Mingze; Zhou, Gedi; Li, Serena; Kumar, Abhishek; Fan, Xiangjun; Li, Weiwei; Zhang, Lizhu | [arXiv:2602.05165](https://arxiv.org/abs/2602.05165) - [DOI](https://doi.org/10.48550/arXiv.2602.05165) |
+
+
+## [DEP-E-20260819-SPikE-SSM A Sparse](../DEP-E-20260819-SPikE-SSM%20A%20Sparse/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning* | Zhong, Yan; Zhao, Ruoyu; Wang, Chao; Guo, Qinghai; Zhang, Jianguo; Lu, Zhichao; Leng, Luziwei | [arXiv:2410.17268](https://arxiv.org/abs/2410.17268) - [DOI](https://doi.org/10.1109/TCDS.2026.3698720) |
+
+
+## [DEP-E-20260819-Bayesian Structure](../DEP-E-20260819-Bayesian%20Structure/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior* | Chen, Yutian; Welling, Max | [arXiv:1206.1088](https://arxiv.org/abs/1206.1088) - [DOI](https://doi.org/10.48550/arXiv.1206.1088) |
+
+
+## [DEP-E-20260819-AlphaOPT Formulating](../DEP-E-20260819-AlphaOPT%20Formulating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library* | Kong, Minwei; Qu, Ao; Guo, Xiaotong; Ouyang, Wenbin; Jiang, Chonghe; Zheng, Han; Ma, Yining; Zhuang, Dingyi; Tang, Yuhan; Li, Junyi; Wang, Shenhao; Koutsopoulos, Haris; Wang, Hai; Wu, Cathy; Zhao, Jinhua | [arXiv:2510.18428](https://arxiv.org/abs/2510.18428) - [DOI](https://doi.org/10.48550/arXiv.2510.18428) |
+
+
+## [DEP-E-20260819-Unsupervised](../DEP-E-20260819-Unsupervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unsupervised Self-training Algorithm Based on Deep Learning for Optical Aerial Images Change Detection* | Zhou, Yuan; Li, Xiangrui | [arXiv:2010.07469](https://arxiv.org/abs/2010.07469) - [DOI](https://doi.org/10.48550/arXiv.2010.07469) |
+
+
+## [DEP-E-20260819-Can Media Act as a Soft](../DEP-E-20260819-Can%20Media%20Act%20as%20a%20Soft/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Can Media Act as a Soft Regulator of Safe AI Development? A Game Theoretical Analysis* | da Fonseca, Henrique Correia; Fernandes, António; Song, Zhao; Cimpeanu, Theodor; Balabanova, Nataliya; Bashir, Adeela; Bova, Paolo; Buscemi, Alessio; Di Stefano, Alessandro; Duong, Manh Hong; Domingos, Elias Fernandez; Ogbo, Ndidi Bianca; Powers, Simon T.; Proverbio, Daniele; Shamszaman, Zia Ush; Santos, Fernando P.; Han, The Anh; Krellner, Marcus | [arXiv:2509.02650](https://arxiv.org/abs/2509.02650) - [DOI](https://doi.org/10.48550/arXiv.2509.02650) |
+
+
+## [DEP-E-20260819-Image Clustering](../DEP-E-20260819-Image%20Clustering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Image Clustering Algorithm Based on Self-Supervised Pretrained Models and Latent Feature Distribution Optimization* | Zhu, Qiuyu; Hu, Liheng; Wang, Sijin | [arXiv:2408.01920](https://arxiv.org/abs/2408.01920) - [DOI](https://doi.org/10.48550/arXiv.2408.01920) |
+
+
+## [DEP-E-20260819-Projection-Volume](../DEP-E-20260819-Projection-Volume/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography* | Yuluo, Yikuang; Wang, Ao; Kuan, Shen; Liu, Yujie; Liao, Wang; Chen, Ying; Zhong, Shuangyang; Huang, Yixing; Wang, Fuquan | [arXiv:2606.22525](https://arxiv.org/abs/2606.22525) - [DOI](https://doi.org/10.48550/arXiv.2606.22525) |
+
+
+## [DEP-E-20260819-Representation](../DEP-E-20260819-Representation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Representation Memorization for Fast Learning New Knowledge without Forgetting* | Mi, Fei; Lin, Tao; Faltings, Boi | [arXiv:2108.12596](https://arxiv.org/abs/2108.12596) - [DOI](https://doi.org/10.48550/arXiv.2108.12596) |
+
+
+## [DEP-E-20260819-Computational Protein](../DEP-E-20260819-Computational%20Protein/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Computational Protein Design Using AND/OR Branch-and-Bound Search* | Zhou, Yichao; Wu, Yuexin; Zeng, Jianyang | [arXiv:1412.3138](https://arxiv.org/abs/1412.3138) - [DOI](https://doi.org/10.48550/arXiv.1412.3138) |
+
+
+## [DEP-E-20260819-Big-model Driven Few-shot](../DEP-E-20260819-Big-model%20Driven%20Few-shot/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Big-model Driven Few-shot Continual Learning* | Gu, Ziqi; Xu, Chunyan; Lu, Zihan; Liu, Xin; Dai, Anbo; Cui, Zhen | [arXiv:2309.00862](https://arxiv.org/abs/2309.00862) - [DOI](https://doi.org/10.48550/arXiv.2309.00862) |
+
+
+## [DEP-E-20260819-Path-Normalized](../DEP-E-20260819-Path-Normalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations* | Neyshabur, Behnam; Wu, Yuhuai; Salakhutdinov, Ruslan; Srebro, Nathan | [arXiv:1605.07154](https://arxiv.org/abs/1605.07154) - [DOI](https://doi.org/10.48550/arXiv.1605.07154) |
+
+
+## [DEP-E-20260819-CLUE Non-parametric](../DEP-E-20260819-CLUE%20Non-parametric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CLUE: Non-parametric Verification from Experience via Hidden-State Clustering* | Liang, Zhenwen; Li, Ruosen; Zhou, Yujun; Song, Linfeng; Yu, Dian; Du, Xinya; Mi, Haitao; Yu, Dong | [arXiv:2510.01591](https://arxiv.org/abs/2510.01591) - [DOI](https://doi.org/10.48550/arXiv.2510.01591) |
+
+
+## [DEP-E-20260819-Temporal Sentence](../DEP-E-20260819-Temporal%20Sentence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Temporal Sentence Grounding in Streaming Videos* | Gan, Tian; Wang, Xiao; Sun, Yan; Wu, Jianlong; Guo, Qingpei; Nie, Liqiang | [arXiv:2308.07102](https://arxiv.org/abs/2308.07102) - [DOI](https://doi.org/10.1145/3581783.3612120) |
+
+
+## [DEP-E-20260819-MoVerse Real-Time Video](../DEP-E-20260819-MoVerse%20Real-Time%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold* | Zhou, Yang; Wang, Ziheng; Lu, Yuqin; Liu, Haofeng; Liang, Jun; He, Shengfeng; Li, Jing | [arXiv:2606.13376](https://arxiv.org/abs/2606.13376) - [DOI](https://doi.org/10.48550/arXiv.2606.13376) |
+
+
+## [DEP-E-20260819-AdaVideoRAG](../DEP-E-20260819-AdaVideoRAG/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding* | Xue, Zhucun; Zhang, Jiangning; Xie, Xurong; Cai, Yuxuan; Liu, Yong; Li, Xiangtai; Tao, Dacheng | [arXiv:2506.13589](https://arxiv.org/abs/2506.13589) - [DOI](https://doi.org/10.48550/arXiv.2506.13589) |
+
+
+## [DEP-E-20260819-Bit Rate Matching](../DEP-E-20260819-Bit%20Rate%20Matching/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model* | Jia, Panqi; Koyuncu, A. Burakhan; Mao, Jue; Cui, Ze; Ma, Yi; Guo, Tiansheng; Solovyev, Timofey; Karabutov, Alexander; Zhao, Yin; Wang, Jing; Alshina, Elena; Kaup, Andre | [arXiv:2402.17487](https://arxiv.org/abs/2402.17487) - [DOI](https://doi.org/10.48550/arXiv.2402.17487) |
+
+
+## [DEP-E-20260819-ArchRAG Attributed](../DEP-E-20260819-ArchRAG%20Attributed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation* | Wang, Shu; Fang, Yixiang; Zhou, Yingli; Liu, Xilin; Ma, Yuchi | [arXiv:2502.09891](https://arxiv.org/abs/2502.09891) - [DOI](https://doi.org/10.1609/aaai.v40i19.38619) |
+
+
+## [DEP-E-20260819-Towards Practical](../DEP-E-20260819-Towards%20Practical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Practical Bayesian Parameter and State Estimation* | Erol, Yusuf Bugra; Wu, Yi; Li, Lei; Russell, Stuart | [arXiv:1603.08988](https://arxiv.org/abs/1603.08988) - [DOI](https://doi.org/10.48550/arXiv.1603.08988) |
+
+
+## [DEP-E-20260819-Bridge-RAG An Abstract](../DEP-E-20260819-Bridge-RAG%20An%20Abstract/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bridge-RAG: An Abstract Bridge Tree Based Retrieval Augmented Generation Algorithm* | Li, Zihang; Liu, Wenjun; Zong, Yikun; Tao, Jiawen; Dai, Siying; Ren, Songcheng; Liu, Zirui; Wang, Yuhang; Jiang, Yanbing; Yang, Tong | [arXiv:2603.26668](https://arxiv.org/abs/2603.26668) - [DOI](https://doi.org/10.48550/arXiv.2603.26668) |
+
+
+## [DEP-E-20260819-Rethinking Knowledge](../DEP-E-20260819-Rethinking%20Knowledge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions* | Han, Pengchao; Huang, Xi; Fang, Yi; Han, Guojun | [arXiv:2512.19972](https://arxiv.org/abs/2512.19972) - [DOI](https://doi.org/10.1109/TNSE.2025.3572362) |
+
+
+## [DEP-E-20260819-Evaluation of](../DEP-E-20260819-Evaluation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluation of Retrieval-Augmented Generation: A Survey* | Yu, Hao; Gan, Aoran; Zhang, Kai; Tong, Shiwei; Liu, Qi; Liu, Zhaofeng | [arXiv:2405.07437](https://arxiv.org/abs/2405.07437) - [DOI](https://doi.org/10.1007/978-981-96-1024-2_8) |
+
+
+## [DEP-E-20260819-Robust Optimization for](../DEP-E-20260819-Robust%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust Optimization for Fairness with Noisy Protected Groups* | Wang, Serena; Guo, Wenshuo; Narasimhan, Harikrishna; Cotter, Andrew; Gupta, Maya; Jordan, Michael I. | [arXiv:2002.09343](https://arxiv.org/abs/2002.09343) - [DOI](https://doi.org/10.48550/arXiv.2002.09343) |
+
+
+## [DEP-E-20260819-A Survey on Inference](../DEP-E-20260819-A%20Survey%20on%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey on Inference Optimization Techniques for Mixture of Experts Models* | Liu, Jiacheng; Tang, Peng; Wang, Wenfeng; Ren, Yuhang; Hou, Xiaofeng; Heng, Pheng-Ann; Guo, Minyi; Li, Chao | [arXiv:2412.14219](https://arxiv.org/abs/2412.14219) - [DOI](https://doi.org/10.1145/3794845) |
+
+
+## [DEP-E-20260819-Inferring Reward Machines](../DEP-E-20260819-Inferring%20Reward%20Machines/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inferring Reward Machines and Transition Machines from Partially Observable Markov Decision Processes* | Wu, Yuly; Liu, Jiamou; Zhang, Libo | [arXiv:2508.01947](https://arxiv.org/abs/2508.01947) - [DOI](https://doi.org/10.48550/arXiv.2508.01947) |
+
+
+## [DEP-E-20260819-Rethinking Translation](../DEP-E-20260819-Rethinking%20Translation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Translation Memory Augmented Neural Machine Translation* | Hao, Hongkun; Huang, Guoping; Liu, Lemao; Zhang, Zhirui; Shi, Shuming; Wang, Rui | [arXiv:2306.06948](https://arxiv.org/abs/2306.06948) - [DOI](https://doi.org/10.48550/arXiv.2306.06948) |
+
+
+## [DEP-E-20260819-Bidirectional Learning](../DEP-E-20260819-Bidirectional%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bidirectional Learning for Offline Infinite-width Model-based Optimization* | Chen, Can; Zhang, Yingxue; Fu, Jie; Liu, Xue; Coates, Mark | [arXiv:2209.07507](https://arxiv.org/abs/2209.07507) - [DOI](https://doi.org/10.48550/arXiv.2209.07507) |
+
+
+## [DEP-E-20260819-Accelerating LLM](../DEP-E-20260819-Accelerating%20LLM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System* | Fang, Yunhua; Xie, Rui; Haq, Asad Ul; Ma, Linsen; Maghraoui, Kaoutar El; Wang, Naigang; Wang, Meng; Liu, Liu; Zhang, Tong | [arXiv:2508.13231](https://arxiv.org/abs/2508.13231) - [DOI](https://doi.org/10.48550/arXiv.2508.13231) |
+
+
+## [DEP-E-20260819-Quantum Feature](../DEP-E-20260819-Quantum%20Feature/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum Feature Optimization for Enhanced Clustering of Blockchain Transaction Data* | Tsai, Yun-Cheng; Chen, Samuel Yen-Chi | [arXiv:2505.16672](https://arxiv.org/abs/2505.16672) - [DOI](https://doi.org/10.48550/arXiv.2505.16672) |
+
+
+## [DEP-E-20260819-Curriculum Proximal](../DEP-E-20260819-Curriculum%20Proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections* | Peng, Zengqi; Zhou, Xiao; Wang, Yubin; Zheng, Lei; Liu, Ming; Ma, Jun | [arXiv:2308.16445](https://arxiv.org/abs/2308.16445) - [DOI](https://doi.org/10.48550/arXiv.2308.16445) |
+
+
+## [DEP-E-20260819-Quantum-Inspired](../DEP-E-20260819-Quantum-Inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quantum-Inspired Classical Algorithm for Principal Component Regression* | Chen, Daniel; Xu, Yekun; Baheri, Betis; Bi, Chuan; Mao, Ying; Quan, Qiang; Xu, Shuai | [arXiv:2010.08626](https://arxiv.org/abs/2010.08626) - [DOI](https://doi.org/10.48550/arXiv.2010.08626) |
+
+
+## [DEP-E-20260819-Memory Consistent](../DEP-E-20260819-Memory%20Consistent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Consistent Unsupervised Off-the-Shelf Model Adaptation for Source-Relaxed Medical Image Segmentation* | Liu, Xiaofeng; Xing, Fangxu; Fakhri, Georges El; Woo, Jonghye | [arXiv:2209.07910](https://arxiv.org/abs/2209.07910) - [DOI](https://doi.org/10.48550/arXiv.2209.07910) |
+
+
+## [DEP-E-20260819-RoboWM-Bench A Benchmark](../DEP-E-20260819-RoboWM-Bench%20A%20Benchmark/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation* | Jiang, Feng; Chen, Yang; Xu, Kyle; Liu, Yuchen; Wang, Haifeng; Shen, Zhenhao; Lu, Jasper; Huang, Shengze; Wang, Yuanfei; Xie, Chen; Wu, Ruihai | [arXiv:2604.19092](https://arxiv.org/abs/2604.19092) - [DOI](https://doi.org/10.48550/arXiv.2604.19092) |
+
+
+## [DEP-E-20260819-HAO Hardware-aware neural](../DEP-E-20260819-HAO%20Hardware-aware%20neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HAO: Hardware-aware neural Architecture Optimization for Efficient Inference* | Dong, Zhen; Gao, Yizhao; Huang, Qijing; Wawrzynek, John; So, Hayden K. H.; Keutzer, Kurt | [arXiv:2104.12766](https://arxiv.org/abs/2104.12766) - [DOI](https://doi.org/10.48550/arXiv.2104.12766) |
+
+
+## [DEP-E-20260819-GDEPO Group Dual-dynamic](../DEP-E-20260819-GDEPO%20Group%20Dual-dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GDEPO: Group Dual-dynamic and Equal-right Advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning* | Yan, Zhengqing; Liu, Xinyang; Zhang, Yi; Guo, Fan; Jia, ChengXun; Wan, Junchen; Liu, Yao; Liu, Qi; Huang, Jihao; Song, Kang | [arXiv:2601.06795](https://arxiv.org/abs/2601.06795) - [DOI](https://doi.org/10.48550/arXiv.2601.06795) |
+
+
+## [DEP-E-20260819-Learning Plug-and-play](../DEP-E-20260819-Learning%20Plug-and-play/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Plug-and-play Memory for Guiding Video Diffusion Models* | Song, Selena; Xu, Ziming; Zhang, Zijun; Zhou, Kun; Guo, Jiaxian; Qin, Lianhui; Huang, Biwei | [arXiv:2511.19229](https://arxiv.org/abs/2511.19229) - [DOI](https://doi.org/10.48550/arXiv.2511.19229) |
+
+
+## [DEP-E-20260819-Discretion in the Loop](../DEP-E-20260819-Discretion%20in%20the%20Loop/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising* | Schechtman, Kara; Brandon, Benjamin; Stafford, Jenise; Li, Hannah; Liu, Lydia T. | [arXiv:2505.13325](https://arxiv.org/abs/2505.13325) - [DOI](https://doi.org/10.48550/arXiv.2505.13325) |
+
+
+## [DEP-E-20260819-Beyond Elicitation](../DEP-E-20260819-Beyond%20Elicitation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Elicitation: Provision-based Prompt Optimization for Knowledge-Intensive Tasks* | Xu, Yunzhe; Zhang, Zhuosheng; Liu, Zhe | [arXiv:2511.10465](https://arxiv.org/abs/2511.10465) - [DOI](https://doi.org/10.48550/arXiv.2511.10465) |
+
+
+## [DEP-E-20260819-Human-inspired](../DEP-E-20260819-Human-inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Human-inspired Perspectives: A Survey on AI Long-term Memory* | He, Zihong; Lin, Weizhe; Zheng, Hao; Zhang, Fan; Jones, Matt W.; Aitchison, Laurence; Xu, Xuhai; Liu, Miao; Kristensson, Per Ola; Shen, Junxiao | [arXiv:2411.00489](https://arxiv.org/abs/2411.00489) - [DOI](https://doi.org/10.48550/arXiv.2411.00489) |
+
+
+## [DEP-E-20260819-Out of Sight but Not Out](../DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models* | Chen, Kaijin; Liang, Dingkang; Zhou, Xin; Ding, Yikang; Liu, Xiaoqiang; Wan, Pengfei; Bai, Xiang | [arXiv:2603.25716](https://arxiv.org/abs/2603.25716) - [DOI](https://doi.org/10.48550/arXiv.2603.25716) |
+
+
+## [DEP-E-20260819-ROS package search for](../DEP-E-20260819-ROS%20package%20search%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ROS package search for robot software development: a knowledge graph-based approach* | Wang, Shuo; Mao, Xinjun; Yang, Shuo; Wu, Menghan; Zhang, Zhang | [arXiv:2312.14781](https://arxiv.org/abs/2312.14781) - [DOI](https://doi.org/10.48550/arXiv.2312.14781) |
+
+
+## [DEP-E-20260819-Verification and](../DEP-E-20260819-Verification%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation* | Kang, Shucheng; Chen, Yuxiao; Yang, Heng; Pavone, Marco | [arXiv:2303.10081](https://arxiv.org/abs/2303.10081) - [DOI](https://doi.org/10.48550/arXiv.2303.10081) |
+
+
+## [DEP-E-20260819-TIS-DPO Token-level](../DEP-E-20260819-TIS-DPO%20Token-level/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights* | Liu, Aiwei; Bai, Haoping; Lu, Zhiyun; Sun, Yanchao; Kong, Xiang; Wang, Simon; Shan, Jiulong; Jose, Albin Madappally; Liu, Xiaojiang; Wen, Lijie; Yu, Philip S.; Cao, Meng | [arXiv:2410.04350](https://arxiv.org/abs/2410.04350) - [DOI](https://doi.org/10.48550/arXiv.2410.04350) |
+
+
+## [DEP-E-20260819-VLA-JEPA Enhancing](../DEP-E-20260819-VLA-JEPA%20Enhancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model* | Sun, Jingwen; Zhang, Wenyao; Qi, Zekun; Ren, Shaojie; Liu, Zezhi; Zhu, Hanxin; Sun, Guangzhong; Jin, Xin; Chen, Zhibo | [arXiv:2602.10098](https://arxiv.org/abs/2602.10098) - [DOI](https://doi.org/10.48550/arXiv.2602.10098) |
+
+
+## [DEP-E-20260819-Deep Learning via](../DEP-E-20260819-Deep%20Learning%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Learning via Dynamical Systems: An Approximation Perspective* | Li, Qianxiao; Lin, Ting; Shen, Zuowei | [arXiv:1912.10382](https://arxiv.org/abs/1912.10382) - [DOI](https://doi.org/10.48550/arXiv.1912.10382) |
+
+
+## [DEP-E-20260819-Improving Reliability](../DEP-E-20260819-Improving%20Reliability/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Reliability Performance of Diffusion-based Molecular Communication With Adaptive Threshold Variation Algorithm* | He, Peng; Mao, Yuming; Liu, Qiang; Yang, Kun | [arXiv:1508.00982](https://arxiv.org/abs/1508.00982) - [DOI](https://doi.org/10.48550/arXiv.1508.00982) |
+
+
+## [DEP-E-20260819-Co-design Hardware and](../DEP-E-20260819-Co-design%20Hardware%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Co-design Hardware and Algorithm for Vector Search* | Jiang, Wenqi; Li, Shigang; Zhu, Yu; Licht, Johannes de Fine; He, Zhenhao; Shi, Runbin; Renggli, Cedric; Zhang, Shuai; Rekatsinas, Theodoros; Hoefler, Torsten; Alonso, Gustavo | [arXiv:2306.11182](https://arxiv.org/abs/2306.11182) - [DOI](https://doi.org/10.48550/arXiv.2306.11182) |
+
+
+## [DEP-E-20260819-Chunks as Arms](../DEP-E-20260819-Chunks%20as%20Arms/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization* | Duan, Shaohua; Huang, Pengcheng; Li, Xinze; Liu, Zhenghao; Yi, Xiaoyuan; Yan, Yukun; Wang, Shuo; Gu, Yu; Yu, Ge; Sun, Maosong | [arXiv:2508.13993](https://arxiv.org/abs/2508.13993) - [DOI](https://doi.org/10.48550/arXiv.2508.13993) |
+
+
+## [DEP-E-20260819-Improving API](../DEP-E-20260819-Improving%20API/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving API Documentation Comprehensibility via Continuous Optimization and Multilingual SDK* | Wang, Shujun; Tian, Yongqiang; He, Dengcheng | [arXiv:2303.13828](https://arxiv.org/abs/2303.13828) - [DOI](https://doi.org/10.48550/arXiv.2303.13828) |
+
+
+## [DEP-E-20260819-Regret Minimization](../DEP-E-20260819-Regret%20Minimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Regret Minimization Experience Replay in Off-Policy Reinforcement Learning* | Liu, Xu-Hui; Xue, Zhenghai; Pang, Jing-Cheng; Jiang, Shengyi; Xu, Feng; Yu, Yang | [arXiv:2105.07253](https://arxiv.org/abs/2105.07253) - [DOI](https://doi.org/10.48550/arXiv.2105.07253) |
+
+
+## [DEP-E-20260819-Sparse-dLLM Accelerating](../DEP-E-20260819-Sparse-dLLM%20Accelerating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction* | Song, Yuerong; Liu, Xiaoran; Li, Ruixiao; Liu, Zhigeng; Huang, Zengfeng; Guo, Qipeng; He, Ziwei; Qiu, Xipeng | [arXiv:2508.02558](https://arxiv.org/abs/2508.02558) - [DOI](https://doi.org/10.48550/arXiv.2508.02558) |
+
+
+## [DEP-E-20260819-Approximation algor 14520](../DEP-E-20260819-Approximation%20algor%2014520/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximation algorithms for $k$-submodular maximization subject to a knapsack constraint* | Xiao, Hao; Liu, Qian; Zhou, Yang; Li, Min | [arXiv:2306.14520](https://arxiv.org/abs/2306.14520) - [DOI](https://doi.org/10.48550/arXiv.2306.14520) |
+
+
+## [DEP-E-20260819-MO-SAE Multi-Objective](../DEP-E-20260819-MO-SAE%20Multi-Objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection* | Zhang, Lizhao; Kong, Shengsong; Guo, Tao; Li, Shaobo; Ji, Zhenzhou | [arXiv:2603.13895](https://arxiv.org/abs/2603.13895) - [DOI](https://doi.org/10.1109/SMC58881.2025.11343286) |
+
+
+## [DEP-E-20260819-Optimizing Federated](../DEP-E-20260819-Optimizing%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming* | Xu, Ziyue; Zhang, Zhihong; Roth, Holger R.; Chen, Chester; Cheng, Yan; Feng, Andrew | [arXiv:2511.16450](https://arxiv.org/abs/2511.16450) - [DOI](https://doi.org/10.48550/arXiv.2511.16450) |
+
+
+## [DEP-E-20260819-FlowCast-ODE Continuous](../DEP-E-20260819-FlowCast-ODE%20Continuous/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Solver* | He, Shuangshuang; Zhang, Yuanting; Liang, Hongli; Meng, Qingye; Yuan, Xingyuan; Wang, Shuo | [arXiv:2509.14775](https://arxiv.org/abs/2509.14775) - [DOI](https://doi.org/10.48550/arXiv.2509.14775) |
+
+
+## [DEP-E-20260819-World Models A](../DEP-E-20260819-World%20Models%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications* | Zidan, Arif Hassan; Pan, Yi; Jiang, Hanqi; Yan, Ruiyu; Ruan, Wei; Wu, Zihao; Chen, Lifeng; You, Weihang; Li, Xinliang; Chen, Bowen; Hu, Huawen; Wang, Peilong; Liu, Sizhuang; Zhang, Jing; Li, Siyuan; Liu, Zhengliang; Bao, Yu; Zhao, Lin; Sun, Lichao; Zhu, Dajiang; Li, Xiang; Lv, Jinglei; Li, Quanzheng; Liu, Wei; Liu, Tianming; Zhang, Wei | [arXiv:2606.00133](https://arxiv.org/abs/2606.00133) - [DOI](https://doi.org/10.48550/arXiv.2606.00133) |
+
+
+## [DEP-E-20260819-Few-Shot Continual](../DEP-E-20260819-Few-Shot%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-Shot Continual Learning for 3D Brain MRI with Frozen Foundation Models* | Chen, Chi-Sheng; Zhang, Xinyu; Chen, Guan-Ying; Xie, Qiuzhe; Zhang, Fan; Kuo, En-Jui | [arXiv:2602.23533](https://arxiv.org/abs/2602.23533) - [DOI](https://doi.org/10.48550/arXiv.2602.23533) |
+
+
+## [DEP-E-20260819-DoA-LF A Location](../DEP-E-20260819-DoA-LF%20A%20Location/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DoA-LF: A Location Fingerprint Positioning Algorithm with Millimeter-Wave* | Wei, Zhiqing; Zhao, Yadong; Liu, Xinyi; Feng, Zhiyong | [arXiv:2102.13297](https://arxiv.org/abs/2102.13297) - [DOI](https://doi.org/10.1109/ACCESS.2017.2753781) |
+
+
+## [DEP-E-20260819-Certifying the Right to](../DEP-E-20260819-Certifying%20the%20Right%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning* | Jiang, Yu; Tong, Xindi; Liu, Ziyao; Zhang, Xiaoxi; Lam, Kwok-Yan; Tan, Chee Wei | [arXiv:2512.23171](https://arxiv.org/abs/2512.23171) - [DOI](https://doi.org/10.1109/TIFS.2025.3636788) |
+
+
+## [DEP-E-20260819-BMAM Brain-inspired](../DEP-E-20260819-BMAM%20Brain-inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BMAM: Brain-inspired Multi-Agent Memory Framework* | Li, Yang; Liu, Jiaxiang; Wang, Yusong; Wu, Yujie; Xu, Mingkun | [arXiv:2601.20465](https://arxiv.org/abs/2601.20465) - [DOI](https://doi.org/10.48550/arXiv.2601.20465) |
+
+
+## [DEP-E-20260819-Counting How the Seconds](../DEP-E-20260819-Counting%20How%20the%20Seconds/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Counting How the Seconds Count: Understanding Algorithm-User Interplay in TikTok via ML-driven Analysis of Video Content* | Masood, Maleeha; Kannan, Shreya; Liu, Zikun; Vasisht, Deepak; Gupta, Indranil | [arXiv:2503.20030](https://arxiv.org/abs/2503.20030) - [DOI](https://doi.org/10.48550/arXiv.2503.20030) |
+
+
+## [DEP-E-20260819-Data Mixing Optimization](../DEP-E-20260819-Data%20Mixing%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models* | Li, Yuan; Liu, Zhengzhong; Xing, Eric | [arXiv:2508.11953](https://arxiv.org/abs/2508.11953) - [DOI](https://doi.org/10.48550/arXiv.2508.11953) |
+
+
+## [DEP-E-20260819-Puzzle it Out](../DEP-E-20260819-Puzzle%20it%20Out/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning* | Li, Sijia; Li, Xinran; Chen, Shibo; Zhang, Jun | [arXiv:2601.07463](https://arxiv.org/abs/2601.07463) - [DOI](https://doi.org/10.48550/arXiv.2601.07463) |
+
+
+## [DEP-E-20260819-Batch Multi-Fidelity](../DEP-E-20260819-Batch%20Multi-Fidelity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Batch Multi-Fidelity Bayesian Optimization with Deep Auto-Regressive Networks* | Li, Shibo; Kirby, Robert M.; Zhe, Shandian | [arXiv:2106.09884](https://arxiv.org/abs/2106.09884) - [DOI](https://doi.org/10.48550/arXiv.2106.09884) |
+
+
+## [DEP-E-20260819-GigaBrain-0 5M a VLA That](../DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning* | GigaBrain Team; Wang, Boyuan; Li, Bohan; Ni, Chaojun; Huang, Guan; Zhao, Guosheng; Li, Hao; Li, Jie; Lv, Jindi; Liu, Jingyu; Feng, Lv; Yu, Mingming; Li, Peng; Deng, Qiuping; Liu, Tianze; Zhou, Xinyu; Chen, Xinze; Wang, Xiaofeng; Wang, Yang; Li, Yifan; Nie, Yifei; Li, Yilong; Zhou, Yukun; Ye, Yun; Liu, Zhichao; Zhu, Zheng | [arXiv:2602.12099](https://arxiv.org/abs/2602.12099) - [DOI](https://doi.org/10.48550/arXiv.2602.12099) |
+
+
+## [DEP-E-20260819-AnnaAgent Dynamic](../DEP-E-20260819-AnnaAgent%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation* | Wang, Ming; Wang, Peidong; Wu, Lin; Yang, Xiaocui; Wang, Daling; Feng, Shi; Chen, Yuxin; Wang, Bixuan; Zhang, Yifei | [arXiv:2506.00551](https://arxiv.org/abs/2506.00551) - [DOI](https://doi.org/10.18653/v1/2025.findings-acl.1192) |
+
+
+## [DEP-E-20260819-CIER A Novel Experience](../DEP-E-20260819-CIER%20A%20Novel%20Experience/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CIER: A Novel Experience Replay Approach with Causal Inference in Deep Reinforcement Learning* | Wang, Jingwen; Du, Dehui; Li, Yida; Li, Yiyang; Chen, Yikang | [arXiv:2405.08380](https://arxiv.org/abs/2405.08380) - [DOI](https://doi.org/10.48550/arXiv.2405.08380) |
+
+
+## [DEP-E-20260819-ShadowNPU System and](../DEP-E-20260819-ShadowNPU%20System%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference* | Yin, Wangsong; Xu, Daliang; Xu, Mengwei; Huang, Gang; Liu, Xuanzhe | [arXiv:2508.16703](https://arxiv.org/abs/2508.16703) - [DOI](https://doi.org/10.48550/arXiv.2508.16703) |
+
+
+## [DEP-E-20260819-Building A Coding](../DEP-E-20260819-Building%20A%20Coding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building A Coding Assistant via the Retrieval-Augmented Language Model* | Li, Xinze; Wang, Hanbin; Liu, Zhenghao; Yu, Shi; Wang, Shuo; Yan, Yukun; Fu, Yukai; Gu, Yu; Yu, Ge | [arXiv:2410.16229](https://arxiv.org/abs/2410.16229) - [DOI](https://doi.org/10.48550/arXiv.2410.16229) |
+
+
+## [DEP-E-20260819-Efficient approximation](../DEP-E-20260819-Efficient%20approximation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient approximation of Earth Mover's Distance Based on Nearest Neighbor Search* | Meng, Guangyu; Zhou, Ruyu; Liu, Liu; Liang, Peixian; Liu, Fang; Chen, Danny; Niemier, Michael; Hu, X. Sharon | [arXiv:2401.07378](https://arxiv.org/abs/2401.07378) - [DOI](https://doi.org/10.48550/arXiv.2401.07378) |
+
+
+## [DEP-E-20260819-Differentiable](../DEP-E-20260819-Differentiable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Differentiable Optimization Layered Safety-Critical Control for Risk-Aware Navigation via Conformal Prediction* | Dong, Jinyang; Wu, Shizhen; Fang, Yongchun | [arXiv:2605.16327](https://arxiv.org/abs/2605.16327) - [DOI](https://doi.org/10.48550/arXiv.2605.16327) |
+
+
+## [DEP-E-20260819-Natural Gradient Gaussian](../DEP-E-20260819-Natural%20Gradient%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Natural Gradient Gaussian Approximation Filter on Lie Groups for Robot State Estimation* | Zhang, Tianyi; Cao, Wenhan; Liu, Chang; Lyu, Yao; Li, Shengbo Eben | [arXiv:2604.10057](https://arxiv.org/abs/2604.10057) - [DOI](https://doi.org/10.48550/arXiv.2604.10057) |
+
+
+## [DEP-E-20260819-EraRAG Efficient and](../DEP-E-20260819-EraRAG%20Efficient%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora* | Zhang, Fangyuan; Huang, Zhengjun; Zhou, Yingli; Guo, Qintian; Li, Zhixun; Luo, Wensheng; Jiang, Di; Fang, Yixiang; Zhou, Xiaofang | [arXiv:2506.20963](https://arxiv.org/abs/2506.20963) - [DOI](https://doi.org/10.48550/arXiv.2506.20963) |
+
+
+## [DEP-E-20260819-Reasoning in Trees](../DEP-E-20260819-Reasoning%20in%20Trees/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering* | Shi, Yuling; Sun, Maolin; Liu, Zijun; Yang, Mo; Fang, Yixiong; Sun, Tianran; Gu, Xiaodong | [arXiv:2601.11255](https://arxiv.org/abs/2601.11255) - [DOI](https://doi.org/10.48550/arXiv.2601.11255) |
+
+
+## [DEP-E-20260819-Direct Estimation of](../DEP-E-20260819-Direct%20Estimation%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Direct Estimation of Regional Wall Thicknesses via Residual Recurrent Neural Network* | Xue, Wufeng; Nachum, Ilanit Ben; Pandey, Sachin; Warrington, James; Leung, Stephanie; Li, Shuo | [arXiv:1705.09728](https://arxiv.org/abs/1705.09728) - [DOI](https://doi.org/10.48550/arXiv.1705.09728) |
+
+
+## [DEP-E-20260819-SACO Sequence-Aware](../DEP-E-20260819-SACO%20Sequence-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SACO: Sequence-Aware Constrained Optimization Framework for Coupon Distribution in E-commerce* | Kong, Li; Wang, Bingzhe; Chen, Zhou; Hu, Suhan; Ma, Yuchao; Qi, Qi; Song, Suoyuan; Jin, Bicheng | [arXiv:2508.09198](https://arxiv.org/abs/2508.09198) - [DOI](https://doi.org/10.48550/arXiv.2508.09198) |
+
+
+## [DEP-E-20260819-Optimization-Free](../DEP-E-20260819-Optimization-Free/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition* | Wang, Shuoyuan; Wang, Jindong; Xi, HuaJun; Zhang, Bob; Zhang, Lei; Wei, Hongxin | [arXiv:2310.18562](https://arxiv.org/abs/2310.18562) - [DOI](https://doi.org/10.48550/arXiv.2310.18562) |
+
+
+## [DEP-E-20260819-Avoid Catastrophic](../DEP-E-20260819-Avoid%20Catastrophic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Avoid Catastrophic Forgetting with Rank-1 Fisher from Diffusion Models* | Wang, Zekun; Gupta, Anant; Dong, Zihan; MacLellan, Christopher J. | [arXiv:2509.23593](https://arxiv.org/abs/2509.23593) - [DOI](https://doi.org/10.48550/arXiv.2509.23593) |
+
+
+## [DEP-E-20260819-OmniDataComposer A](../DEP-E-20260819-OmniDataComposer%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation* | Yu, Dongyang; Wang, Shihao; Fang, Yuan; An, Wangpeng | [arXiv:2308.04126](https://arxiv.org/abs/2308.04126) - [DOI](https://doi.org/10.48550/arXiv.2308.04126) |
+
+
+## [DEP-E-20260819-Improving General](../DEP-E-20260819-Improving%20General/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization* | Xu, Zhenhua; Chen, Dongsheng; Li, Jian; Lin, Yitong; Wang, Zhebo; Wu, Jiafu; Jin, Yizhang; Wang, Chengjie; Han, Meng; Wang, Yabiao | [arXiv:2606.27025](https://arxiv.org/abs/2606.27025) - [DOI](https://doi.org/10.48550/arXiv.2606.27025) |
+
+
+## [DEP-E-20260819-Optimal Convergence](../DEP-E-20260819-Optimal%20Convergence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimal Convergence Analysis of DDPM for General Distributions* | Jiao, Yuchen; Zhou, Yuchen; Li, Gen | [arXiv:2510.27562](https://arxiv.org/abs/2510.27562) - [DOI](https://doi.org/10.48550/arXiv.2510.27562) |
+
+
+## [DEP-E-20260819-Continual Learning of](../DEP-E-20260819-Continual%20Learning%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Continual Learning of Large Language Models: A Comprehensive Survey* | Shi, Haizhou; Xu, Zihao; Wang, Hengyi; Qin, Weiyi; Wang, Wenyuan; Wang, Yibin; Wang, Zifeng; Ebrahimi, Sayna; Wang, Hao | [arXiv:2404.16789](https://arxiv.org/abs/2404.16789) - [DOI](https://doi.org/10.48550/arXiv.2404.16789) |
+
+
+## [DEP-E-20260819-Enhancing Balanced Graph](../DEP-E-20260819-Enhancing%20Balanced%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Balanced Graph Edge Partition with Effective Local Search* | Guo, Zhenyu; Xiao, Mingyu; Zhou, Yi; Zhang, Dongxiang; Tan, Kian-Lee | [arXiv:2012.09451](https://arxiv.org/abs/2012.09451) - [DOI](https://doi.org/10.48550/arXiv.2012.09451) |
+
+
+## [DEP-E-20260819-SEAL-Tag Self-Tag](../DEP-E-20260819-SEAL-Tag%20Self-Tag/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation* | Xie, Jin; Li, Songze; Cheng, Guang | [arXiv:2603.17292](https://arxiv.org/abs/2603.17292) - [DOI](https://doi.org/10.48550/arXiv.2603.17292) |
+
+
+## [DEP-E-20260819-ShortCoder](../DEP-E-20260819-ShortCoder/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation* | Liu, Sicong; Huang, Yanxian; Liu, Mingwei; Chen, Jiachi; Shi, Ensheng; Ma, Yuchi; Zhang, Hongyu; Zhang, Yin; Wang, Yanlin | [arXiv:2601.09703](https://arxiv.org/abs/2601.09703) - [DOI](https://doi.org/10.48550/arXiv.2601.09703) |
+
+
+## [DEP-E-20260819-An Efficient Occupancy](../DEP-E-20260819-An%20Efficient%20Occupancy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training* | Zhang, Haiming; Xue, Ying; Yan, Xu; Zhang, Jiacheng; Qiu, Weichao; Bai, Dongfeng; Liu, Bingbing; Cui, Shuguang; Li, Zhen | [arXiv:2412.13772](https://arxiv.org/abs/2412.13772) - [DOI](https://doi.org/10.48550/arXiv.2412.13772) |
+
+
+## [DEP-E-20260819-Constrained Bayesian](../DEP-E-20260819-Constrained%20Bayesian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence* | Wang, Shengbo; Li, Ke | [arXiv:2312.03212](https://arxiv.org/abs/2312.03212) - [DOI](https://doi.org/10.48550/arXiv.2312.03212) |
+
+
+## [DEP-E-20260819-PISTO Proximal Inference](../DEP-E-20260819-PISTO%20Proximal%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PISTO: Proximal Inference for Stochastic Trajectory Optimization* | Yu, Hongzhe; Chang, Zinuo; Chen, Yongxin | [arXiv:2605.07215](https://arxiv.org/abs/2605.07215) - [DOI](https://doi.org/10.48550/arXiv.2605.07215) |
+
+
+## [DEP-E-20260819-Hybrid Beamforming](../DEP-E-20260819-Hybrid%20Beamforming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid Beamforming Optimization for DOA Estimation Based on the CRB Analysis* | Lin, Tian; Zhou, Xuemeng; Zhu, Yu; Jiang, Yi | [arXiv:2103.15357](https://arxiv.org/abs/2103.15357) - [DOI](https://doi.org/10.1109/LSP.2021.3092613) |
+
+
+## [DEP-E-20260819-DynFlowDrive Flow-Based](../DEP-E-20260819-DynFlowDrive%20Flow-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving* | Liu, Xiaolu; Li, Yicong; Wang, Song; Chen, Junbo; Yao, Angela; Zhu, Jianke | [arXiv:2603.19675](https://arxiv.org/abs/2603.19675) - [DOI](https://doi.org/10.48550/arXiv.2603.19675) |
+
+
+## [DEP-E-20260819-Pantheon Personalized](../DEP-E-20260819-Pantheon%20Personalized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization* | Cao, Jiangxia; Xu, Pengbo; Cheng, Yin; Guo, Kaiwei; Tang, Jian; Wang, Shijun; Leng, Dewei; Yang, Shuang; Liu, Zhaojie; Niu, Yanan; Zhou, Guorui; Gai, Kun | [arXiv:2505.13894](https://arxiv.org/abs/2505.13894) - [DOI](https://doi.org/10.48550/arXiv.2505.13894) |
+
+
+## [DEP-E-20260819-Federated Matrix](../DEP-E-20260819-Federated%20Matrix/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Matrix Factorization: Algorithm Design and Application to Data Clustering* | Wang, Shuai; Chang, Tsung-Hui | [arXiv:2002.04930](https://arxiv.org/abs/2002.04930) - [DOI](https://doi.org/10.48550/arXiv.2002.04930) |
+
+
+## [DEP-E-20260819-SRPO Self-Referential](../DEP-E-20260819-SRPO%20Self-Referential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models* | Fei, Senyu; Wang, Siyin; Ji, Li; Li, Ao; Zhang, Shiduo; Liu, Liming; Hou, Jinlong; Gong, Jingjing; Zhao, Xianzhong; Qiu, Xipeng | [arXiv:2511.15605](https://arxiv.org/abs/2511.15605) - [DOI](https://doi.org/10.48550/arXiv.2511.15605) |
+
+
+## [DEP-E-20260819-Language model fusion for](../DEP-E-20260819-Language%20model%20fusion%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Language model fusion for streaming end to end speech recognition* | Cabrera, Rodrigo; Liu, Xiaofeng; Ghodsi, Mohammadreza; Matteson, Zebulun; Weinstein, Eugene; Kannan, Anjuli | [arXiv:2104.04487](https://arxiv.org/abs/2104.04487) - [DOI](https://doi.org/10.48550/arXiv.2104.04487) |
+
+
+## [DEP-E-20260819-DOGR Leveraging](../DEP-E-20260819-DOGR%20Leveraging/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DOGR: Leveraging Document-Oriented Contrastive Learning in Generative Retrieval* | Lu, Penghao; Dong, Xin; Zhou, Yuansheng; Cheng, Lei; Yuan, Chuan; Mo, Linjian | [arXiv:2502.07219](https://arxiv.org/abs/2502.07219) - [DOI](https://doi.org/10.48550/arXiv.2502.07219) |
+
+
+## [DEP-E-20260819-MAMBA4D Efficient](../DEP-E-20260819-MAMBA4D%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models* | Liu, Jiuming; Han, Jinru; Liu, Lihao; Aviles-Rivero, Angelica I.; Jiang, Chaokang; Liu, Zhe; Wang, Hesheng | [arXiv:2405.14338](https://arxiv.org/abs/2405.14338) - [DOI](https://doi.org/10.48550/arXiv.2405.14338) |
+
+
+## [DEP-E-20260819-Lifetime-based](../DEP-E-20260819-Lifetime-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Lifetime-based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer* | Chen, Yaojian; Liu, Yong; Shi, Xinmin; Song, Jiawei; Liu, Xin; Gan, Lin; Guo, Chu; Fu, Haohuan; Gao, Jie; Chen, Dexun; Yang, Guangwen | [arXiv:2205.00393](https://arxiv.org/abs/2205.00393) - [DOI](https://doi.org/10.1145/3572848.3577529) |
+
+
+## [DEP-E-20260819-Interpreting Neural](../DEP-E-20260819-Interpreting%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Duan, Haocheng; Guo, Yuxin; Bi, Jieyi; Xie, Anqi; Li, Sirui; Ma, Yining; Wu, Cathy | [arXiv:2606.19741](https://arxiv.org/abs/2606.19741) - [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
+
+
+## [DEP-E-20260819-Coalitional Permutation](../DEP-E-20260819-Coalitional%20Permutation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Coalitional Permutation Manipulations in the Gale-Shapley Algorithm* | Shen, Weiran; Deng, Yuan; Tang, Pingzhong | [arXiv:1502.07823](https://arxiv.org/abs/1502.07823) - [DOI](https://doi.org/10.48550/arXiv.1502.07823) |
+
+
+## [DEP-E-20260819-A Learned Proximal](../DEP-E-20260819-A%20Learned%20Proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Learned Proximal Alternating Minimization Algorithm and Its Induced Network for a Class of Two-block Nonconvex and Nonsmooth Optimization* | Chen, Yunmei; Liu, Lezhi; Zhang, Lei | [arXiv:2411.06333](https://arxiv.org/abs/2411.06333) - [DOI](https://doi.org/10.48550/arXiv.2411.06333) |
+
+
+## [DEP-E-20260819-PaperFit](../DEP-E-20260819-PaperFit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents* | Yu, Bihui; Xu, Xinglong; Jiang, Junjie; Cheng, Jiabei; Jia, Caijun; Li, Siyuan; He, Conghui; Wei, Jingxuan; Tan, Cheng | [arXiv:2605.10341](https://arxiv.org/abs/2605.10341) - [DOI](https://doi.org/10.48550/arXiv.2605.10341) |
+
+
+## [DEP-E-20260819-STGCN-LSTM for Olympic](../DEP-E-20260819-STGCN-LSTM%20for%20Olympic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STGCN-LSTM for Olympic Medal Prediction: Dynamic Power Modeling and Causal Policy Optimization* | Wang, Yiquan; Wang, Jiaying; Huang, Tin-Yeh; Yang, Jingyi; Xu, Zihao | [arXiv:2501.17711](https://arxiv.org/abs/2501.17711) - [DOI](https://doi.org/10.48550/arXiv.2501.17711) |
+
+
+## [DEP-E-20260819-Adaptive 3D Gaussian](../DEP-E-20260819-Adaptive%203D%20Gaussian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation* | Gong, Han; Li, Qiyue; Li, Jie; Liu, Zhi | [arXiv:2507.14454](https://arxiv.org/abs/2507.14454) - [DOI](https://doi.org/10.48550/arXiv.2507.14454) |
+
+
+## [DEP-E-20260819-Segmentation-based Method](../DEP-E-20260819-Segmentation-based%20Method/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Segmentation-based Method combined with Dynamic Programming for Brain Midline Delineation* | Wang, Shen; Liang, Kongming; Pan, Chengwei; Ye, Chuyang; Li, Xiuli; Liu, Feng; Yu, Yizhou; Wang, Yizhou | [arXiv:2002.11918](https://arxiv.org/abs/2002.11918) - [DOI](https://doi.org/10.48550/arXiv.2002.11918) |
+
+
+## [DEP-E-20260819-Make LLM Inference](../DEP-E-20260819-Make%20LLM%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM* | Liu, Lian; Zhao, Shixin; Li, Bing; Ren, Haimeng; Xu, Zhaohui; Wang, Mengdi; Li, Xiaowei; Han, Yinhe; Wang, Ying | [arXiv:2502.16963](https://arxiv.org/abs/2502.16963) - [DOI](https://doi.org/10.48550/arXiv.2502.16963) |
+
+
+## [DEP-E-20260819-ThinkPilot Steering](../DEP-E-20260819-ThinkPilot%20Steering/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ThinkPilot: Steering Reasoning Models via Automated Think-prefixes Optimization* | Li, Sunzhu; Lin, Zhiyu; Yang, Shuling; Zhao, Jiale; Chen, Wei | [arXiv:2510.12063](https://arxiv.org/abs/2510.12063) - [DOI](https://doi.org/10.48550/arXiv.2510.12063) |
+
+
+## [DEP-E-20260819-Approximation algor 04699](../DEP-E-20260819-Approximation%20algor%2004699/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Approximation algorithms for the directed path partition problems* | Chen, Yong; Chen, Zhi-Zhong; Kennedy, Curtis; Lin, Guohui; Xu, Yao; Zhang, An | [arXiv:2107.04699](https://arxiv.org/abs/2107.04699) - [DOI](https://doi.org/10.48550/arXiv.2107.04699) |
+
+
+## [DEP-E-20260819-A Scalable Algorithm for](../DEP-E-20260819-A%20Scalable%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Scalable Algorithm for Active Learning* | Chen, Youguang; Wen, Zheyu; Biros, George | [arXiv:2409.07392](https://arxiv.org/abs/2409.07392) - [DOI](https://doi.org/10.48550/arXiv.2409.07392) |
+
+
+## [DEP-E-20260819-The bilateral solver for](../DEP-E-20260819-The%20bilateral%20solver%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The bilateral solver for quality estimation based multi-focus image fusion* | Guan, Jingwei; Chen, Yibo; Cham, Wai-kuen | [arXiv:1904.01417](https://arxiv.org/abs/1904.01417) - [DOI](https://doi.org/10.48550/arXiv.1904.01417) |
+
+
+## [DEP-E-20260819-A Joint Optimization of](../DEP-E-20260819-A%20Joint%20Optimization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Joint Optimization of Operational Cost and Performance Interference in Cloud Data Centers* | Jin, Xibo; Zhang, Fa; Wang, Lin; Hu, Songlin; Zhou, Biyu; Liu, Zhiyong | [arXiv:1404.2842](https://arxiv.org/abs/1404.2842) - [DOI](https://doi.org/10.48550/arXiv.1404.2842) |
+
+
+## [DEP-E-20260819-Modeling Unknown](../DEP-E-20260819-Modeling%20Unknown/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Modeling Unknown Stochastic Dynamical System via Autoencoder* | Xu, Zhongshu; Chen, Yuan; Chen, Qifan; Xiu, Dongbin | [arXiv:2312.10001](https://arxiv.org/abs/2312.10001) - [DOI](https://doi.org/10.1615/JMachLearnModelComput.2024055773) |
+
+
+## [DEP-E-20260819-PMPO Probabilistic Metric](../DEP-E-20260819-PMPO%20Probabilistic%20Metric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models* | Zhao, Chenzhuo; Liu, Ziqian; Wang, Xinda; Lu, Junting; Ruan, Chaoyi | [arXiv:2505.16307](https://arxiv.org/abs/2505.16307) - [DOI](https://doi.org/10.48550/arXiv.2505.16307) |
+
+
+## [DEP-E-20260819-An improved approximation](../DEP-E-20260819-An%20improved%20approximation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An improved approximation algorithm for maximizing a DR-submodular function over a convex set* | Du, Donglei; Liu, Zhicheng; Wu, Chenchen; Xu, Dachuan; Zhou, Yang | [arXiv:2203.14740](https://arxiv.org/abs/2203.14740) - [DOI](https://doi.org/10.48550/arXiv.2203.14740) |
+
+
+## [DEP-E-20260819-SNPSFuzzer A Fast Greybox](../DEP-E-20260819-SNPSFuzzer%20A%20Fast%20Greybox/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SNPSFuzzer: A Fast Greybox Fuzzer for Stateful Network Protocols using Snapshots* | Li, Junqiang; Li, Senyi; Sun, Gang; Chen, Ting; Yu, Hongfang | [arXiv:2202.03643](https://arxiv.org/abs/2202.03643) - [DOI](https://doi.org/10.48550/arXiv.2202.03643) |
+
+
+## [DEP-E-20260819-Improving Context](../DEP-E-20260819-Improving%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Context Fidelity via Native Retrieval-Augmented Reasoning* | Wang, Suyuchen; Wang, Jinlin; Wang, Xinyu; Li, Shiqi; Tang, Xiangru; Hong, Sirui; Chang, Xiao-Wen; Wu, Chenglin; Liu, Bang | [arXiv:2509.13683](https://arxiv.org/abs/2509.13683) - [DOI](https://doi.org/10.48550/arXiv.2509.13683) |
+
+
+## [DEP-E-20260819-Distributed Evolution](../DEP-E-20260819-Distributed%20Evolution/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributed Evolution Strategies for Black-box Stochastic Optimization* | He, Xiaoyu; Zheng, Zibin; Chen, Chuan; Zhou, Yuren; Luo, Chuan; Lin, Qingwei | [arXiv:2204.04450](https://arxiv.org/abs/2204.04450) - [DOI](https://doi.org/10.48550/arXiv.2204.04450) |
+
+
+## [DEP-E-20260819-When Machine Unlearning](../DEP-E-20260819-When%20Machine%20Unlearning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?* | Wang, Shang; Zhu, Tianqing; Ye, Dayong; Zhou, Wanlei | [arXiv:2410.15267](https://arxiv.org/abs/2410.15267) - [DOI](https://doi.org/10.48550/arXiv.2410.15267) |
+
+
+## [DEP-E-20260819-Truncated Proximal Policy](../DEP-E-20260819-Truncated%20Proximal%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Truncated Proximal Policy Optimization* | Fan, Tiantian; Liu, Lingjun; Yue, Yu; Chen, Jiaze; Wang, Chengyi; Yu, Qiying; Zhang, Chi; Lin, Zhiqi; Zhu, Ruofei; Yuan, Yufeng; Zuo, Xiaochen; Ma, Bole; Zhang, Mofan; Liu, Gaohong; Zhang, Ru; Zhou, Haotian; Xie, Cong; Zhu, Ruidong; Zhang, Zhi; Liu, Xin; Wang, Mingxuan; Yan, Lin; Wu, Yonghui | [arXiv:2506.15050](https://arxiv.org/abs/2506.15050) - [DOI](https://doi.org/10.48550/arXiv.2506.15050) |
+
+
+## [DEP-E-20260819-Barycode-based GJK](../DEP-E-20260819-Barycode-based%20GJK/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Barycode-based GJK Algorithm* | Zhang, Yu; Wu, Yangming; Wang, Xigui; Zhou, Xiaocheng | [arXiv:2011.09117](https://arxiv.org/abs/2011.09117) - [DOI](https://doi.org/10.48550/arXiv.2011.09117) |
+
+
+## [DEP-E-20260819-IAPO Information-Aware](../DEP-E-20260819-IAPO%20Information-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning* | He, Yinhan; Zhu, Yaochen; Shi, Mingjia; Zheng, Wendy; Su, Lin; Wang, Xiaoqing; Guo, Qi; Li, Jundong | [arXiv:2602.19049](https://arxiv.org/abs/2602.19049) - [DOI](https://doi.org/10.48550/arXiv.2602.19049) |
+
+
+## [DEP-E-20260819-Exploring the Potential](../DEP-E-20260819-Exploring%20the%20Potential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exploring the Potential of Flexible 8-bit Format: Design and Algorithm* | Zhang, Zhuoyi; Zhang, Yunchen; Shi, Gonglei; Shen, Yu; Gong, Ruihao; Xia, Xiaoxu; Zhang, Qi; Lu, Lewei; Liu, Xianglong | [arXiv:2310.13513](https://arxiv.org/abs/2310.13513) - [DOI](https://doi.org/10.48550/arXiv.2310.13513) |
+
+
+## [DEP-E-20260819-MergeDJD A Fast](../DEP-E-20260819-MergeDJD%20A%20Fast/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MergeDJD: A Fast Constructive Algorithm with Piece Merging for the Two-Dimensional Irregular Bin Packing Problem* | Zhou, Yi; Fu, Haocheng; Liu, Yiping; Mao, Jian; Fu, Zhang-Hua; Wang, Yuyi | [arXiv:2603.00484](https://arxiv.org/abs/2603.00484) - [DOI](https://doi.org/10.48550/arXiv.2603.00484) |
+
+
+## [DEP-E-20260819-UDuo Universal Dual](../DEP-E-20260819-UDuo%20Universal%20Dual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UDuo: Universal Dual Optimization Framework for Online Matching* | Li, Bin; Liu, Diwei; Hu, Zehong; Jia, Jia | [arXiv:2505.22243](https://arxiv.org/abs/2505.22243) - [DOI](https://doi.org/10.48550/arXiv.2505.22243) |
+
+
+## [DEP-E-20260819-An Online Prediction](../DEP-E-20260819-An%20Online%20Prediction/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Online Prediction Approach Based on Incremental Support Vector Machine for Dynamic Multiobjective Optimization* | Xu, Dejun; Jiang, Min; Hu, Weizhen; Li, Shaozi; Pan, Renhu; Yen, Gary G. | [arXiv:2102.12133](https://arxiv.org/abs/2102.12133) - [DOI](https://doi.org/10.48550/arXiv.2102.12133) |
+
+
+## [DEP-E-20260819-Analysis and Optimization](../DEP-E-20260819-Analysis%20and%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis and Optimization of Interference Nulling in Downlink Multi-Antenna HetNets with Offloading* | Wu, Yueping; Cui, Ying; Clerckx, Bruno | [arXiv:1502.07425](https://arxiv.org/abs/1502.07425) - [DOI](https://doi.org/10.48550/arXiv.1502.07425) |
+
+
+## [DEP-E-20260819-Quit When You Can](../DEP-E-20260819-Quit%20When%20You%20Can/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization* | Wang, Serena; Gupta, Maya; You, Seungil | [arXiv:1806.11202](https://arxiv.org/abs/1806.11202) - [DOI](https://doi.org/10.48550/arXiv.1806.11202) |
+
+
+## [DEP-E-20260819-Adaptive Consensus ADMM](../DEP-E-20260819-Adaptive%20Consensus%20ADMM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive Consensus ADMM for Distributed Optimization* | Xu, Zheng; Taylor, Gavin; Li, Hao; Figueiredo, Mario; Yuan, Xiaoming; Goldstein, Tom | [arXiv:1706.02869](https://arxiv.org/abs/1706.02869) - [DOI](https://doi.org/10.48550/arXiv.1706.02869) |
+
+
+## [DEP-E-20260819-KVCOMM Online](../DEP-E-20260819-KVCOMM%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems* | Ye, Hancheng; Gao, Zhengqi; Ma, Mingyuan; Wang, Qinsi; Fu, Yuzhe; Chung, Ming-Yu; Lin, Yueqian; Liu, Zhijian; Zhang, Jianyi; Zhuo, Danyang; Chen, Yiran | [arXiv:2510.12872](https://arxiv.org/abs/2510.12872) - [DOI](https://doi.org/10.48550/arXiv.2510.12872) |
+
+
+## [DEP-E-20260819-CoopGuard Stateful](../DEP-E-20260819-CoopGuard%20Stateful/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks* | Li, Siyuan; Liu, Zehao; Lin, Xi; Mao, Qinghua; Chen, Yuliang; Li, Haoyu; Wu, Jun; Li, Jianhua; Su, Xiu | [arXiv:2604.04060](https://arxiv.org/abs/2604.04060) - [DOI](https://doi.org/10.48550/arXiv.2604.04060) |
+
+
+## [DEP-E-20260819-One Step is Enough](../DEP-E-20260819-One%20Step%20is%20Enough/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms* | Zhao, Zijian; Li, Sen | [arXiv:2507.15351](https://arxiv.org/abs/2507.15351) - [DOI](https://doi.org/10.48550/arXiv.2507.15351) |
+
+
+## [DEP-E-20260819-A Scalable AI Approach](../DEP-E-20260819-A%20Scalable%20AI%20Approach/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Scalable AI Approach for Clinical Trial Cohort Optimization* | Liu, Xiong; Shi, Cheng; Deore, Uday; Wang, Yingbo; Tran, Myah; Khalil, Iya; Devarakonda, Murthy | [arXiv:2109.02808](https://arxiv.org/abs/2109.02808) - [DOI](https://doi.org/10.48550/arXiv.2109.02808) |
+
+
+## [DEP-E-20260819-Multi-objective](../DEP-E-20260819-Multi-objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-objective optimization and explanation for stroke risk assessment in Shanxi province* | Ma, Jing; Sun, Yiyang; Liu, Junjie; Huang, Huaxiong; Zhou, Xiaoshuang; Xu, Shixin | [arXiv:2107.14060](https://arxiv.org/abs/2107.14060) - [DOI](https://doi.org/10.48550/arXiv.2107.14060) |
+
+
+## [DEP-E-20260819-FGGM Fisher-Guided](../DEP-E-20260819-FGGM%20Fisher-Guided/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FGGM: Fisher-Guided Gradient Masking for Continual Learning* | Tan, Chao-Hong; Chen, Qian; Wang, Wen; Ma, Yukun; Zhang, Chong; Deng, Chong; Zhang, Qinglin; Li, Xiangang; Ye, Jieping | [arXiv:2601.18261](https://arxiv.org/abs/2601.18261) - [DOI](https://doi.org/10.48550/arXiv.2601.18261) |
+
+
+## [DEP-E-20260819-Large-Scale Bandwidth and](../DEP-E-20260819-Large-Scale%20Bandwidth%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Large-Scale Bandwidth and Power Optimization for Multi-Modal Edge Intelligence Autonomous Driving* | Li, Xinrao; Zhang, Tong; Wang, Shuai; Zhu, Guangxu; Wang, Rui; Chang, Tsung-Hui | [arXiv:2210.09659](https://arxiv.org/abs/2210.09659) - [DOI](https://doi.org/10.48550/arXiv.2210.09659) |
+
+
+## [DEP-E-20260819-Local Differential](../DEP-E-20260819-Local%20Differential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Local Differential Privacy for Bayesian Optimization* | Zhou, Xingyu; Tan, Jian | [arXiv:2010.06709](https://arxiv.org/abs/2010.06709) - [DOI](https://doi.org/10.48550/arXiv.2010.06709) |
+
+
+## [DEP-E-20260819-Matrix-game 2 0 An](../DEP-E-20260819-Matrix-game%202%200%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Matrix-game 2.0: An open-source real-time and streaming interactive world model* | He, Xianglong; Peng, Chunli; Liu, Zexiang; Wang, Boyang; Zhang, Yifan; Cui, Qi; Kang, Fei; Jiang, Biao; An, Mengyin; Ren, Yangyang; Xu, Baixin; Guo, Hao-Xiang; Gong, Kaixiong; Wu, Size; Li, Wei; Song, Xuchen; Liu, Yang; Li, Yangguang; Zhou, Yahui | [arXiv:2508.13009](https://arxiv.org/abs/2508.13009) - [DOI](https://doi.org/10.48550/arXiv.2508.13009) |
+
+
+## [DEP-E-20260819-Memory-augmented Query](../DEP-E-20260819-Memory-augmented%20Query/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning* | Xu, Mufan; Liang, Gewen; Chen, Kehai; Wang, Wei; Zhou, Xun; Yang, Muyun; Zhao, Tiejun; Zhang, Min | [arXiv:2503.05193](https://arxiv.org/abs/2503.05193) - [DOI](https://doi.org/10.48550/arXiv.2503.05193) |
+
+
+## [DEP-E-20260819-Human Cognition in](../DEP-E-20260819-Human%20Cognition%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Human Cognition in Machines: A Unified Perspective of World Models* | Rupprecht, Timothy; Zhao, Pu; Taherin, Amir; Akbari, Arash; Akbari, Arman; He, Yumei; Imtiaz, Tooba; Duffy, Sean; Lin, Juyi; Chen, Yixiao; Chowdhury, Rahul; Nan, Enfu; Shen, Yixin; Cao, Yifan; Zeng, Haochen; Chen, Weiwei; Yuan, Geng; Dy, Jennifer; Ostadabbas, Sarah; Zhang, Xuan; Kaeli, David; Yeh, Edmund; Wang, Yanzhi | [arXiv:2604.16592](https://arxiv.org/abs/2604.16592) - [DOI](https://doi.org/10.48550/arXiv.2604.16592) |
+
+
+## [DEP-E-20260819-EPO Explicit Policy](../DEP-E-20260819-EPO%20Explicit%20Policy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning* | Liu, Xiaoqian; Wang, Ke; Li, Yongbin; Wu, Yuchuan; Ma, Wentao; Kong, Aobo; Huang, Fei; Jiao, Jianbin; Zhang, Junge | [arXiv:2502.12486](https://arxiv.org/abs/2502.12486) - [DOI](https://doi.org/10.48550/arXiv.2502.12486) |
+
+
+## [DEP-E-20260819-DynamicPO Dynamic](../DEP-E-20260819-DynamicPO%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DynamicPO: Dynamic Preference Optimization for Recommendation* | Hu, Xingyu; Zhang, Kai; Wu, Jiancan; Wang, Shuli; Wang, Chi; Chen, Wenshuai; Zhu, Yinhua; Wang, Haitao; Wang, Xingxing; Wang, Xiang | [arXiv:2605.00327](https://arxiv.org/abs/2605.00327) - [DOI](https://doi.org/10.48550/arXiv.2605.00327) |
+
+
+## [DEP-E-20260819-SpectralMamba-UNet](../DEP-E-20260819-SpectralMamba-UNet/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation* | Zhang, Fuhao; Liu, Lei; Zhang, Jialin; Zhang, Ya-Nan; Mu, Nan | [arXiv:2602.23103](https://arxiv.org/abs/2602.23103) - [DOI](https://doi.org/10.48550/arXiv.2602.23103) |
+
+
+## [DEP-E-20260819-UAV-Enabled Mobile Edge](../DEP-E-20260819-UAV-Enabled%20Mobile%20Edge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UAV-Enabled Mobile Edge Computing: Offloading Optimization and Trajectory Design* | Zhou, Fuhui; Wu, Yongpeng; Sun, Haijian; Chu, Zheng | [arXiv:1802.03906](https://arxiv.org/abs/1802.03906) - [DOI](https://doi.org/10.48550/arXiv.1802.03906) |
+
+
+## [DEP-E-20260819-PhyMix Towards Physically](../DEP-E-20260819-PhyMix%20Towards%20Physically/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization* | Wu, Dongli; Hu, Jingyu; Hui, Ka-Hei; Wei, Xiaobao; Luo, Chengwen; Li, Jianqiang; Liu, Zhengzhe | [arXiv:2604.10125](https://arxiv.org/abs/2604.10125) - [DOI](https://doi.org/10.48550/arXiv.2604.10125) |
+
+
+## [DEP-E-20260819-Strategy-Aware](../DEP-E-20260819-Strategy-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Strategy-Aware Optimization Modeling with Reasoning LLMs* | Zhao, Ruiqing; Li, Fengzhi; Zuo, Yuan; Liu, Rui; Liu, Yansong; Ma, Yunfei; Meng, Fanyu; Feng, Junlan | [arXiv:2605.02545](https://arxiv.org/abs/2605.02545) - [DOI](https://doi.org/10.48550/arXiv.2605.02545) |
+
+
+## [DEP-E-20260819-An Improved FPT Algorithm](../DEP-E-20260819-An%20Improved%20FPT%20Algorithm/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Improved FPT Algorithm for the Flip Distance Problem* | Feng, Qilong; Li, Shaohua; Meng, Xiangzhong; Wang, Jianxin | [arXiv:1910.06185](https://arxiv.org/abs/1910.06185) - [DOI](https://doi.org/10.4230/LIPIcs.MFCS.2017.65) |
+
+
+## [DEP-E-20260819-Hurdle-IMDL An Imbalanced](../DEP-E-20260819-Hurdle-IMDL%20An%20Imbalanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hurdle-IMDL: An Imbalanced Learning Framework for Infrared Rainfall Retrieval* | Zhang, Fangjian; Zhuge, Xiaoyong; Wang, Wenlan; Xiao, Haixia; Zhu, Yuying; Cheng, Siyang | [arXiv:2510.20486](https://arxiv.org/abs/2510.20486) - [DOI](https://doi.org/10.48550/arXiv.2510.20486) |
+
+
+## [DEP-E-20260819-Improving Retrospective](../DEP-E-20260819-Improving%20Retrospective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Retrospective Language Agents via Joint Policy Gradient Optimization* | Feng, Xueyang; Lan, Bo; Dai, Quanyu; Wang, Lei; Tang, Jiakai; Chen, Xu; Dong, Zhenhua; Wen, Ji-Rong | [arXiv:2503.01490](https://arxiv.org/abs/2503.01490) - [DOI](https://doi.org/10.48550/arXiv.2503.01490) |
+
+
+## [DEP-E-20260819-Bi-level Multi-objective](../DEP-E-20260819-Bi-level%20Multi-objective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search* | Wang, Chao; Jiao, Licheng; Zhao, Jiaxuan; Li, Lingling; Liu, Xu; Liu, Fang; Yang, Shuyuan | [arXiv:2302.02565](https://arxiv.org/abs/2302.02565) - [DOI](https://doi.org/10.48550/arXiv.2302.02565) |
+
+
+## [DEP-E-20260819-Improving Factual](../DEP-E-20260819-Improving%20Factual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Factual Consistency of News Summarization by Contrastive Preference Optimization* | Feng, Huawen; Fan, Yan; Liu, Xiong; Lin, Ting-En; Yao, Zekun; Wu, Yuchuan; Huang, Fei; Li, Yongbin; Ma, Qianli | [arXiv:2310.19347](https://arxiv.org/abs/2310.19347) - [DOI](https://doi.org/10.18653/v1/2024.findings-emnlp.648) |
+
+
+## [DEP-E-20260819-TestDecision Sequential](../DEP-E-20260819-TestDecision%20Sequential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TestDecision: Sequential Test Suite Generation via Greedy Optimization and Reinforcement Learning* | Wang, Guoqing; Yang, Chengran; Zhou, Xiaoxuan; Sun, Zeyu; Wang, Bo; Lo, David; Hao, Dan | [arXiv:2604.01799](https://arxiv.org/abs/2604.01799) - [DOI](https://doi.org/10.48550/arXiv.2604.01799) |
+
+
+## [DEP-E-20260819-Metric-Solver Sliding](../DEP-E-20260819-Metric-Solver%20Sliding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Metric-Solver: Sliding Anchored Metric Depth Estimation from a Single Image* | Wen, Tao; Wang, Jiepeng; Chen, Yabo; Xu, Shugong; Zhang, Chi; Li, Xuelong | [arXiv:2504.12103](https://arxiv.org/abs/2504.12103) - [DOI](https://doi.org/10.48550/arXiv.2504.12103) |
+
+
+## [DEP-E-20260819-Vortex Efficient](../DEP-E-20260819-Vortex%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Vortex: Efficient Sample-Free Dynamic Tensor Program Optimization via Hardware-aware Strategy Space Hierarchization* | Zhou, Yangjie; Zhu, Honglin; Qiu, Qian; Cui, Weihao; Liu, Zihan; Guo, Cong; Feng, Siyuan; Meng, Jintao; Lan, Haidong; Leng, Jingwen; Zhu, Wenxi; Deng, Minwen | [arXiv:2409.01075](https://arxiv.org/abs/2409.01075) - [DOI](https://doi.org/10.48550/arXiv.2409.01075) |
+
+
+## [DEP-E-20260819-Tight query complexity](../DEP-E-20260819-Tight%20query%20complexity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tight query complexity bounds for learning graph partitions* | Liu, Xizhi; Mukherjee, Sayan | [arXiv:2112.07897](https://arxiv.org/abs/2112.07897) - [DOI](https://doi.org/10.48550/arXiv.2112.07897) |
+
+
+## [DEP-E-20260819-LLM-Powered Workflow](../DEP-E-20260819-LLM-Powered%20Workflow/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study* | Wang, Shuai; Yu, Yinan; Barr, Earl; Parthasarathy, Dhasarathy | [arXiv:2603.21439](https://arxiv.org/abs/2603.21439) - [DOI](https://doi.org/10.48550/arXiv.2603.21439) |
+
+
+## [DEP-E-20260819-Retrieval-Augmented 10150](../DEP-E-20260819-Retrieval-Augmented%2010150/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Retrieval-Augmented Generation with Hierarchical Knowledge* | Huang, Haoyu; Huang, Yongfeng; Yang, Junjie; Pan, Zhenyu; Chen, Yongqiang; Ma, Kaili; Chen, Hongzhi; Cheng, James | [arXiv:2503.10150](https://arxiv.org/abs/2503.10150) - [DOI](https://doi.org/10.48550/arXiv.2503.10150) |
+
+
+## [DEP-E-20260819-Analysis and Optimi 02227](../DEP-E-20260819-Analysis%20and%20Optimi%2002227/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Analysis and Optimization of Tail-Biting Spatially Coupled Protograph LDPC Codes for BICM-ID Systems* | Yang, Zhaojie; Fang, Yi; Zhang, Guohua; Lau, Francis C. M.; Mumtaz, Shahid; da Costa, Daniel B. | [arXiv:1911.02227](https://arxiv.org/abs/1911.02227) - [DOI](https://doi.org/10.1109/TVT.2019.2949600) |
+
+
+## [DEP-E-20260819-Nash Social Welfare with](../DEP-E-20260819-Nash%20Social%20Welfare%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps* | Bei, Xiaohui; Feng, Yuda; Hu, Yang; Li, Shi; Zhang, Ruilong | [arXiv:2504.09669](https://arxiv.org/abs/2504.09669) - [DOI](https://doi.org/10.48550/arXiv.2504.09669) |
+
+
+## [DEP-E-20260819-Learning to Encode](../DEP-E-20260819-Learning%20to%20Encode/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning to Encode Position for Transformer with Continuous Dynamical Model* | Liu, Xuanqing; Yu, Hsiang-Fu; Dhillon, Inderjit; Hsieh, Cho-Jui | [arXiv:2003.09229](https://arxiv.org/abs/2003.09229) - [DOI](https://doi.org/10.48550/arXiv.2003.09229) |
+
+
+## [DEP-E-20260819-WaterAdmin Orchestrating](../DEP-E-20260819-WaterAdmin%20Orchestrating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *WaterAdmin: Orchestrating Community Water Distribution Optimization via AI Agents* | Wen, Jiaqi; Tang, Pingbo; Ren, Shaolei; Yang, Jianyi | [arXiv:2604.10343](https://arxiv.org/abs/2604.10343) - [DOI](https://doi.org/10.48550/arXiv.2604.10343) |
+
+
+## [DEP-E-20260819-A Fast Minimization](../DEP-E-20260819-A%20Fast%20Minimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Minimization Algorithm for the Euler Elastica Model Based on a Bilinear Decomposition* | Liu, Zhifang; Sun, Baochen; Tai, Xue-Cheng; Wang, Qi; Chang, Huibin | [arXiv:2308.13471](https://arxiv.org/abs/2308.13471) - [DOI](https://doi.org/10.48550/arXiv.2308.13471) |
+
+
+## [DEP-E-20260819-MobileWorldBench Towards](../DEP-E-20260819-MobileWorldBench%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MobileWorldBench: Towards Semantic World Modeling For Mobile Agents* | Li, Shufan; Kallidromitis, Konstantinos; Gokul, Akash; Kato, Yusuke; Kozuka, Kazuki; Grover, Aditya | [arXiv:2512.14014](https://arxiv.org/abs/2512.14014) - [DOI](https://doi.org/10.48550/arXiv.2512.14014) |
+
+
+## [DEP-E-20260819-Deep Reinforcement](../DEP-E-20260819-Deep%20Reinforcement/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Reinforcement Learning Based Intelligent Reflecting Surface Optimization for TDD MultiUser MIMO Systems* | Zhao, Fengyu; Chen, Wen; Liu, Ziwei; Li, Jun; Wu, Qingqing | [arXiv:2307.15393](https://arxiv.org/abs/2307.15393) - [DOI](https://doi.org/10.48550/arXiv.2307.15393) |
+
+
+## [DEP-E-20260819-A Hybrid Video Anomaly](../DEP-E-20260819-A%20Hybrid%20Video%20Anomaly/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction* | Liu, Zhian; Nie, Yongwei; Long, Chengjiang; Zhang, Qing; Li, Guiqing | [arXiv:2108.06852](https://arxiv.org/abs/2108.06852) - [DOI](https://doi.org/10.48550/arXiv.2108.06852) |
+
+
+## [DEP-E-20260819-A Comparative Visual](../DEP-E-20260819-A%20Comparative%20Visual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization* | Huang, Yansong; Zhang, Zherui; Jiao, Ao; Ma, Yuxin; Cheng, Ran | [arXiv:2308.05640](https://arxiv.org/abs/2308.05640) - [DOI](https://doi.org/10.48550/arXiv.2308.05640) |
+
+
+## [DEP-E-20260819-An Efficient 13767](../DEP-E-20260819-An%20Efficient%2013767/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem* | Wang, Mingzhao; Zhou, You; Cao, Zhiguang; Xiao, Yubin; Wu, Xuan; Pang, Wei; Jiang, Yuan; Yang, Hui; Zhao, Peng; Li, Yuanshu | [arXiv:2501.13767](https://arxiv.org/abs/2501.13767) - [DOI](https://doi.org/10.48550/arXiv.2501.13767) |
+
+
+## [DEP-E-20260819-The Multi-Symplectic](../DEP-E-20260819-The%20Multi-Symplectic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Multi-Symplectic Lanczos Algorithm and Its Applications to Color Image Processing* | Jia, Zhigang; Liu, Xuan; Zhao, Mei-Xiang | [arXiv:2005.01299](https://arxiv.org/abs/2005.01299) - [DOI](https://doi.org/10.48550/arXiv.2005.01299) |
+
+
+## [DEP-E-20260819-Stereo World Model](../DEP-E-20260819-Stereo%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stereo World Model: Camera-Guided Stereo Video Generation* | Sun, Yang-Tian; Huang, Zehuan; Niu, Yifan; Ma, Lin; Cao, Yan-Pei; Ma, Yuewen; Qi, Xiaojuan | [arXiv:2603.17375](https://arxiv.org/abs/2603.17375) - [DOI](https://doi.org/10.48550/arXiv.2603.17375) |
+
+
+## [DEP-E-20260819-ManuRAG Multi-modal](../DEP-E-20260819-ManuRAG%20Multi-modal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ManuRAG: Multi-modal Retrieval Augmented Generation for Manufacturing Question Answering (Early Version)* | Li, Yunqing; Dong, Zihan; Ameri, Farhad; Zhang, Jianbang | [arXiv:2601.15434](https://arxiv.org/abs/2601.15434) - [DOI](https://doi.org/10.48550/arXiv.2601.15434) |
+
+
+## [DEP-E-20260819-Accelerating Federated](../DEP-E-20260819-Accelerating%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating Federated Edge Learning via Topology Optimization* | Huang, Shanfeng; Zhang, Zezhong; Wang, Shuai; Wang, Rui; Huang, Kaibin | [arXiv:2204.00489](https://arxiv.org/abs/2204.00489) - [DOI](https://doi.org/10.48550/arXiv.2204.00489) |
+
+
+## [DEP-E-20260819-Matrix-Monotonic](../DEP-E-20260819-Matrix-Monotonic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Matrix-Monotonic Optimization Part I: Single-Variable Optimization* | Xing, Chengwen; Wang, Shuai; Chen, Sheng; Ma, Shaodan; Poor, H. Vincent; Hanzo, Lajos | [arXiv:1810.11244](https://arxiv.org/abs/1810.11244) - [DOI](https://doi.org/10.48550/arXiv.1810.11244) |
+
+
+## [DEP-E-20260819-Parallel-mentoring for](../DEP-E-20260819-Parallel-mentoring%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parallel-mentoring for Offline Model-based Optimization* | Chen, Can; Beckham, Christopher; Liu, Zixuan; Liu, Xue; Pal, Christopher | [arXiv:2309.11592](https://arxiv.org/abs/2309.11592) - [DOI](https://doi.org/10.48550/arXiv.2309.11592) |
+
+
+## [DEP-E-20260819-Improving Sequence](../DEP-E-20260819-Improving%20Sequence/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Sequence Modeling Ability of Recurrent Neural Networks via Sememes* | Qin, Yujia; Qi, Fanchao; Ouyang, Sicong; Liu, Zhiyuan; Yang, Cheng; Wang, Yasheng; Liu, Qun; Sun, Maosong | [arXiv:1910.08910](https://arxiv.org/abs/1910.08910) - [DOI](https://doi.org/10.1109/TASLP.2020.3012060) |
+
+
+## [DEP-E-20260819-Training Networks in Null](../DEP-E-20260819-Training%20Networks%20in%20Null/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Training Networks in Null Space of Feature Covariance for Continual Learning* | Wang, Shipeng; Li, Xiaorong; Sun, Jian; Xu, Zongben | [arXiv:2103.07113](https://arxiv.org/abs/2103.07113) - [DOI](https://doi.org/10.48550/arXiv.2103.07113) |
+
+
+## [DEP-E-20260819-DeepSPoC A Deep](../DEP-E-20260819-DeepSPoC%20A%20Deep/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepSPoC: A Deep Learning-Based PDE Solver Governed by Sequential Propagation of Chaos* | Du, Kai; Xie, Yongle; Zhou, Tao; Zhou, Yuancheng | [arXiv:2408.16403](https://arxiv.org/abs/2408.16403) - [DOI](https://doi.org/10.48550/arXiv.2408.16403) |
+
+
+## [DEP-E-20260819-The LOB Recreation Model](../DEP-E-20260819-The%20LOB%20Recreation%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network* | Shi, Zijian; Chen, Yu; Cartlidge, John | [arXiv:2103.01670](https://arxiv.org/abs/2103.01670) - [DOI](https://doi.org/10.48550/arXiv.2103.01670) |
+
+
+## [DEP-E-20260819-Predictive Lagrangian](../DEP-E-20260819-Predictive%20Lagrangian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predictive Lagrangian Optimization for Constrained Reinforcement Learning* | Zhang, Tianqi; Yuan, Puzhen; Zhan, Guojian; Lin, Ziyu; Lyu, Yao; Qin, Zhenzhi; Duan, Jingliang; Zhang, Liping; Li, Shengbo Eben | [arXiv:2501.15217](https://arxiv.org/abs/2501.15217) - [DOI](https://doi.org/10.48550/arXiv.2501.15217) |
+
+
+## [DEP-E-20260819-MambaMap Online](../DEP-E-20260819-MambaMap%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaMap: Online Vectorized HD Map Construction using State Space Model* | Yang, Ruizi; Liu, Xiaolu; Chen, Junbo; Zhu, Jianke | [arXiv:2507.20224](https://arxiv.org/abs/2507.20224) - [DOI](https://doi.org/10.48550/arXiv.2507.20224) |
+
+
+## [DEP-E-20260819-R-KV Redundancy-aware KV](../DEP-E-20260819-R-KV%20Redundancy-aware%20KV/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *R-KV: Redundancy-aware KV Cache Compression for Reasoning Models* | Cai, Zefan; Xiao, Wen; Sun, Hanshi; Luo, Cheng; Zhang, Yikai; Wan, Ke; Li, Yucheng; Zhou, Yeyang; Chang, Li-Wen; Gu, Jiuxiang; Dong, Zhen; Anandkumar, Anima; Asi, Abedelkadir; Hu, Junjie | [arXiv:2505.24133](https://arxiv.org/abs/2505.24133) - [DOI](https://doi.org/10.48550/arXiv.2505.24133) |
+
+
+## [DEP-E-20260819-DriveFuture Future-Aware](../DEP-E-20260819-DriveFuture%20Future-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DriveFuture: Future-Aware Latent World Models for Autonomous Driving* | Hong, Yufeng; Zhou, Xiaotian; Li, Yingyan; Zhou, Xiangpo; Liu, Lin; Luo, Yadan; Xu, Shaoqing; Yang, Lei; Song, Ziying | [arXiv:2605.09701](https://arxiv.org/abs/2605.09701) - [DOI](https://doi.org/10.48550/arXiv.2605.09701) |
+
+
+## [DEP-E-20260819-Classifying Relations via](../DEP-E-20260819-Classifying%20Relations%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path* | Yan, Xu; Mou, Lili; Li, Ge; Chen, Yunchuan; Peng, Hao; Jin, Zhi | [arXiv:1508.03720](https://arxiv.org/abs/1508.03720) - [DOI](https://doi.org/10.48550/arXiv.1508.03720) |
+
+
+## [DEP-E-20260819-Robust Optimization 12086](../DEP-E-20260819-Robust%20Optimization%2012086/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Robust Optimization for Mitigating Reward Hacking with Correlated Proxies* | Liu, Zixuan; Sun, Xiaolin; Zheng, Zizhan | [arXiv:2604.12086](https://arxiv.org/abs/2604.12086) - [DOI](https://doi.org/10.48550/arXiv.2604.12086) |
+
+
+## [DEP-E-20260819-Hypercube-Based](../DEP-E-20260819-Hypercube-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hypercube-Based Retrieval-Augmented Generation for Scientific Question-Answering* | Shi, Jimeng; Zhou, Sizhe; Jin, Bowen; Hu, Wei; Tian, Runchu; Wang, Shaowen; Narasimhan, Giri; Han, Jiawei | [arXiv:2505.19288](https://arxiv.org/abs/2505.19288) - [DOI](https://doi.org/10.48550/arXiv.2505.19288) |
+
+
+## [DEP-E-20260819-Development of Occupancy](../DEP-E-20260819-Development%20of%20Occupancy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Development of Occupancy Prediction Algorithm for Underground Parking Lots* | Wang, Shijie | [arXiv:2409.00923](https://arxiv.org/abs/2409.00923) - [DOI](https://doi.org/10.48550/arXiv.2409.00923) |
+
+
+## [DEP-E-20260819-SmallWorlds Assessing](../DEP-E-20260819-SmallWorlds%20Assessing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments* | Li, Xinyi; Xia, Zaishuo; Lu, Weyl; Hao, Chenjie; Chen, Yubei | [arXiv:2511.23465](https://arxiv.org/abs/2511.23465) - [DOI](https://doi.org/10.48550/arXiv.2511.23465) |
+
+
+## [DEP-E-20260819-Memory Augmented Graph](../DEP-E-20260819-Memory%20Augmented%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Memory Augmented Graph Neural Networks for Sequential Recommendation* | Ma, Chen; Ma, Liheng; Zhang, Yingxue; Sun, Jianing; Liu, Xue; Coates, Mark | [arXiv:1912.11730](https://arxiv.org/abs/1912.11730) - [DOI](https://doi.org/10.48550/arXiv.1912.11730) |
+
+
+## [DEP-E-20260819-GEM Generating LiDAR](../DEP-E-20260819-GEM%20Generating%20LiDAR/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GEM: Generating LiDAR World Model via Deformable Mamba* | Wu, Yang; Liu, Zhaojiang; Meng, Qiang; Liu, Youquan; Weng, Renliang; Qian, Jianjun; Yang, Jian; Xie, Jin | [arXiv:2605.07326](https://arxiv.org/abs/2605.07326) - [DOI](https://doi.org/10.48550/arXiv.2605.07326) |
+
+
+## [DEP-E-20260819-A Survey on](../DEP-E-20260819-A%20Survey%20on/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey on Memory-Efficient Transformer-Based Model Training in AI for Science* | Tian, Kaiyuan; Qiao, Linbo; Liu, Baihui; Jiang, Gongqingjian; Li, Shanshan; Li, Dongsheng | [arXiv:2501.11847](https://arxiv.org/abs/2501.11847) - [DOI](https://doi.org/10.1007/s11704-025-50302-6) |
+
+
+## [DEP-E-20260819-FACT Feature Adaptive](../DEP-E-20260819-FACT%20Feature%20Adaptive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking* | Song, Rongzihan; Weng, Zhenyu; Zhuang, Huiping; Ren, Jinchang; Chen, Yongming; Lin, Zhiping | [arXiv:2409.07904](https://arxiv.org/abs/2409.07904) - [DOI](https://doi.org/10.48550/arXiv.2409.07904) |
+
+
+## [DEP-E-20260819-Evolutionary Optimization](../DEP-E-20260819-Evolutionary%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network* | Ruan, Gan; Minku, Leandro L.; Xu, Zhao; Yao, Xin | [arXiv:2201.04361](https://arxiv.org/abs/2201.04361) - [DOI](https://doi.org/10.48550/arXiv.2201.04361) |
+
+
+## [DEP-E-20260819-RAPID-Graph Recursive](../DEP-E-20260819-RAPID-Graph%20Recursive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAPID-Graph: Recursive All-Pairs Shortest Paths Using Processing-in-Memory for Dynamic Programming on Graphs* | Chen, Yanru; Li, Zheyu; Fan, Keming; Tian, Runyang; Hsu, John; Xu, Weihong; Zhou, Minxuan; Rosing, Tajana | [arXiv:2601.19907](https://arxiv.org/abs/2601.19907) - [DOI](https://doi.org/10.48550/arXiv.2601.19907) |
+
+
+## [DEP-E-20260819-Variable Division and](../DEP-E-20260819-Variable%20Division%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Variable Division and Optimization for Constrained Multiobjective Portfolio Problems* | Chen, Yi; Zhou, Aimin | [arXiv:2101.08552](https://arxiv.org/abs/2101.08552) - [DOI](https://doi.org/10.48550/arXiv.2101.08552) |
+
+
+## [DEP-E-20260819-SAVE Speech-Aware Video](../DEP-E-20260819-SAVE%20Speech-Aware%20Video/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval* | Zhao, Ruixiang; Xu, Zhihao; Lan, Bangxiang; Xin, Zijie; Liu, Jingyu; Li, Xirong | [arXiv:2603.08224](https://arxiv.org/abs/2603.08224) - [DOI](https://doi.org/10.48550/arXiv.2603.08224) |
+
+
+## [DEP-E-20260819-Remarks on Quantum](../DEP-E-20260819-Remarks%20on%20Quantum/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Remarks on Quantum Modular Exponentiation and Some Experimental Demonstrations of Shor's Algorithm* | Cao, Zhengjun; Cao, Zhenfu; Liu, Lihua | [arXiv:1408.6252](https://arxiv.org/abs/1408.6252) - [DOI](https://doi.org/10.48550/arXiv.1408.6252) |
+
+
+## [DEP-E-20260819-Is GraphRAG Needed From](../DEP-E-20260819-Is%20GraphRAG%20Needed%20From/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization* | Chen, Long; Razkenari, Ryan; Zhou, Yuxuan; Tian, Yuan; Ghosh, Rahul; Pappakrishnan, Venkatesh; Ahuja, Disha; Ravipati, Vidya Sagar | [arXiv:2606.25656](https://arxiv.org/abs/2606.25656) - [DOI](https://doi.org/10.48550/arXiv.2606.25656) |
+
+
+## [DEP-E-20260819-Hypersphere Optimization](../DEP-E-20260819-Hypersphere%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hypersphere Optimization: Approximated Gradient-Based Binary Optimization on Smooth Manifold for Photonic Inverse Design* | Liu, Zhaocheng | [arXiv:2209.02129](https://arxiv.org/abs/2209.02129) - [DOI](https://doi.org/10.48550/arXiv.2209.02129) |
+
+
+## [DEP-E-20260819-A Distributionally Robust](../DEP-E-20260819-A%20Distributionally%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Distributionally Robust Boosting Algorithm* | Blanchet, Jose; Kang, Yang; Zhang, Fan; Hu, Zhangyi | [arXiv:1905.07845](https://arxiv.org/abs/1905.07845) - [DOI](https://doi.org/10.1109/WSC40007.2019.9004804) |
+
+
+## [DEP-E-20260819-Movable Antenna-Aided](../DEP-E-20260819-Movable%20Antenna-Aided/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Movable Antenna-Aided Secure LEO Satellite Networks: Joint Antenna Position and Beamforming Optimization* | Luo, Suhong; Tang, Pan; Zhang, Jianhua; Wang, Ji; Li, Yixuan; Ding, Zihang; Li, Xingwang | [arXiv:2605.18099](https://arxiv.org/abs/2605.18099) - [DOI](https://doi.org/10.48550/arXiv.2605.18099) |
+
+
+## [DEP-E-20260819-Black-Box Prompt](../DEP-E-20260819-Black-Box%20Prompt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Black-Box Prompt Optimization: Aligning Large Language Models without Model Training* | Cheng, Jiale; Liu, Xiao; Zheng, Kehan; Ke, Pei; Wang, Hongning; Dong, Yuxiao; Tang, Jie; Huang, Minlie | [arXiv:2311.04155](https://arxiv.org/abs/2311.04155) - [DOI](https://doi.org/10.48550/arXiv.2311.04155) |
+
+
+## [DEP-E-20260819-SurvMamba State Space](../DEP-E-20260819-SurvMamba%20State%20Space/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction* | Chen, Ying; Xie, Jiajing; Lin, Yuxiang; Song, Yuhang; Yang, Wenxian; Yu, Rongshan | [arXiv:2404.08027](https://arxiv.org/abs/2404.08027) - [DOI](https://doi.org/10.48550/arXiv.2404.08027) |
+
+
+## [DEP-E-20260819-Differentiable Solver](../DEP-E-20260819-Differentiable%20Solver/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Differentiable Solver Search for Fast Diffusion Sampling* | Wang, Shuai; Li, Zexian; zhang, Qipeng; Song, Tianhui; Li, Xubin; Ge, Tiezheng; Zheng, Bo; Wang, Limin | [arXiv:2505.21114](https://arxiv.org/abs/2505.21114) - [DOI](https://doi.org/10.48550/arXiv.2505.21114) |
+
+
+## [DEP-E-20260819-A density peaks](../DEP-E-20260819-A%20density%20peaks/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A density peaks clustering algorithm with sparse search and K-d tree* | Shan, Yunxiao; Li, Shu; Li, Fuxiang; Cui, Yuxin; Li, Shuai; Zhou, Ming; Li, Xiang | [arXiv:2203.00973](https://arxiv.org/abs/2203.00973) - [DOI](https://doi.org/10.1109/ACCESS.2022.3190958) |
+
+
+## [DEP-E-20260819-MuonQ Enhancing Low-Bit](../DEP-E-20260819-MuonQ%20Enhancing%20Low-Bit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization* | Su, Yupeng; Zhang, Ruijie; Liu, Ziyue; Zhao, Yequan; Zhang, Zheng | [arXiv:2605.11396](https://arxiv.org/abs/2605.11396) - [DOI](https://doi.org/10.48550/arXiv.2605.11396) |
+
+
+## [DEP-E-20260819-Agent2World Learning to](../DEP-E-20260819-Agent2World%20Learning%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback* | Hu, Mengkang; Xia, Bowei; Wu, Yuran; Yu, Ailing; Zou, Yude; Chen, Qiguang; Wang, Shijian; Jin, Jiarui; Li, Kexin; Jiao, Wenxiang; Lu, Yuan; Luo, Ping | [arXiv:2512.22336](https://arxiv.org/abs/2512.22336) - [DOI](https://doi.org/10.48550/arXiv.2512.22336) |
+
+
+## [DEP-E-20260819-On Computational Limits](../DEP-E-20260819-On%20Computational%20Limits/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *On Computational Limits of Modern Hopfield Models: A Fine-Grained Complexity Analysis* | Hu, Jerry Yao-Chieh; Lin, Thomas; Song, Zhao; Liu, Han | [arXiv:2402.04520](https://arxiv.org/abs/2402.04520) - [DOI](https://doi.org/10.48550/arXiv.2402.04520) |
+
+
+## [DEP-E-20260819-SIMS Simulating Stylized](../DEP-E-20260819-SIMS%20Simulating%20Stylized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation* | Wang, Wenjia; Pan, Liang; Dou, Zhiyang; Mei, Jidong; Liao, Zhouyingcheng; Lou, Yuke; Wu, Yifan; Yang, Lei; Wang, Jingbo; Komura, Taku | [arXiv:2411.19921](https://arxiv.org/abs/2411.19921) - [DOI](https://doi.org/10.48550/arXiv.2411.19921) |
+
+
+## [DEP-E-20260819-Efficient Competitive](../DEP-E-20260819-Efficient%20Competitive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Competitive Self-Play Policy Optimization* | Zhong, Yuanyi; Zhou, Yuan; Peng, Jian | [arXiv:2009.06086](https://arxiv.org/abs/2009.06086) - [DOI](https://doi.org/10.48550/arXiv.2009.06086) |
+
+
+## [DEP-E-20260819-NACL A General and](../DEP-E-20260819-NACL%20A%20General%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time* | Chen, Yilong; Wang, Guoxia; Shang, Junyuan; Cui, Shiyao; Zhang, Zhenyu; Liu, Tingwen; Wang, Shuohuan; Sun, Yu; Yu, Dianhai; Wu, Hua | [arXiv:2408.03675](https://arxiv.org/abs/2408.03675) - [DOI](https://doi.org/10.48550/arXiv.2408.03675) |
+
+
+## [DEP-E-20260819-Towards Personalized and](../DEP-E-20260819-Towards%20Personalized%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning* | Zhang, Han; Wang, Songlin; Zhang, Kang; Tang, Zhiling; Jiang, Yunjiang; Xiao, Yun; Yan, Weipeng; Yang, Wen-Yun | [arXiv:2006.02282](https://arxiv.org/abs/2006.02282) - [DOI](https://doi.org/10.48550/arXiv.2006.02282) |
+
+
+## [DEP-E-20260819-Serp-Mamba Advancing](../DEP-E-20260819-Serp-Mamba%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model* | Wang, Hongqiu; Chen, Yixian; Chen, Wu; Xu, Huihui; Zhao, Haoyu; Sheng, Bin; Fu, Huazhu; Yang, Guang; Zhu, Lei | [arXiv:2409.04356](https://arxiv.org/abs/2409.04356) - [DOI](https://doi.org/10.48550/arXiv.2409.04356) |
+
+
+## [DEP-E-20260819-DeepOHeat-v1 Efficient](../DEP-E-20260819-DeepOHeat-v1%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepOHeat-v1: Efficient Operator Learning for Fast and Trustworthy Thermal Simulation and Optimization in 3D-IC Design* | Yu, Xinling; Liu, Ziyue; Li, Hai; Li, Yixing; Ai, Xin; Zeng, Zhiyu; Young, Ian; Zhang, Zheng | [arXiv:2504.03955](https://arxiv.org/abs/2504.03955) - [DOI](https://doi.org/10.48550/arXiv.2504.03955) |
+
+
+## [DEP-E-20260819-Unifying Isolated and](../DEP-E-20260819-Unifying%20Isolated%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks* | Phan, Huy; Chén, Oliver Y.; Koch, Philipp; Pham, Lam; McLoughlin, Ian; Mertins, Alfred; De Vos, Maarten | [arXiv:1811.01092](https://arxiv.org/abs/1811.01092) - [DOI](https://doi.org/10.48550/arXiv.1811.01092) |
+
+
+## [DEP-E-20260819-DeepNote Note-Centric](../DEP-E-20260819-DeepNote%20Note-Centric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepNote: Note-Centric Deep Retrieval-Augmented Generation* | Wang, Ruobing; Zhao, Qingfei; Yan, Yukun; Zha, Daren; Chen, Yuxuan; Yu, Shi; Liu, Zhenghao; Wang, Yixuan; Wang, Shuo; Han, Xu; Liu, Zhiyuan; Sun, Maosong | [arXiv:2410.08821](https://arxiv.org/abs/2410.08821) - [DOI](https://doi.org/10.48550/arXiv.2410.08821) |
+
+
+## [DEP-E-20260819-MCMC Informed Neural](../DEP-E-20260819-MCMC%20Informed%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems* | Haario, Heikki; Liu, Zhi-Song; Simon, Martin; Weichel, Hendrik | [arXiv:2603.10987](https://arxiv.org/abs/2603.10987) - [DOI](https://doi.org/10.48550/arXiv.2603.10987) |
+
+
+## [DEP-E-20260819-Evaluating Fairness in](../DEP-E-20260819-Evaluating%20Fairness%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago* | Liu, Yuhan; Zheng, Yuhan; Zhang, Siyuan; Liu, Lydia T. | [arXiv:2407.20522](https://arxiv.org/abs/2407.20522) - [DOI](https://doi.org/10.48550/arXiv.2407.20522) |
+
+
+## [DEP-E-20260819-Sensor Selection via](../DEP-E-20260819-Sensor%20Selection%20via/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity* | Evmorfos, Spilios; Xu, Zhaoyi; Petropulu, Athina | [arXiv:2407.19736](https://arxiv.org/abs/2407.19736) - [DOI](https://doi.org/10.48550/arXiv.2407.19736) |
+
+
+## [DEP-E-20260819-Multi-Modal UAV Detection](../DEP-E-20260819-Multi-Modal%20UAV%20Detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Modal UAV Detection, Classification and Tracking Algorithm -- Technical Report for CVPR 2024 UG2 Challenge* | Deng, Tianchen; Zhou, Yi; Wu, Wenhua; Li, Mingrui; Huang, Jingwei; Liu, Shuhong; Song, Yanzeng; Zuo, Hao; Wang, Yanbo; Yue, Yutao; Wang, Hesheng; Chen, Weidong | [arXiv:2405.16464](https://arxiv.org/abs/2405.16464) - [DOI](https://doi.org/10.48550/arXiv.2405.16464) |
+
+
+## [DEP-E-20260819-From Space-Time to](../DEP-E-20260819-From%20Space-Time%20to/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS* | Wu, Yu; Veerapaneni, Rishi; Li, Jiaoyang; Likhachev, Maxim | [arXiv:2404.15137](https://arxiv.org/abs/2404.15137) - [DOI](https://doi.org/10.48550/arXiv.2404.15137) |
+
+
+## [DEP-E-20260819-High-Assurance Separation](../DEP-E-20260819-High-Assurance%20Separation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *High-Assurance Separation Kernels: A Survey on Formal Methods* | Zhao, Yongwang; Sanan, David; Zhang, Fuyuan; Liu, Yang | [arXiv:1701.01535](https://arxiv.org/abs/1701.01535) - [DOI](https://doi.org/10.48550/arXiv.1701.01535) |
+
+
+## [DEP-E-20260819-Monte Carlo Tree Search](../DEP-E-20260819-Monte%20Carlo%20Tree%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Monte Carlo Tree Search based Space Transfer for Black-box Optimization* | Wang, Shukuan; Xue, Ke; Song, Lei; Huang, Xiaobin; Qian, Chao | [arXiv:2412.07186](https://arxiv.org/abs/2412.07186) - [DOI](https://doi.org/10.48550/arXiv.2412.07186) |
+
+
+## [DEP-E-20260819-AI-assisted Optimization](../DEP-E-20260819-AI-assisted%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AI-assisted Optimization of the ECCE Tracking System at the Electron Ion Collider* | Fanelli, C.; Papandreou, Z.; Suresh, K.; Adkins, J. K.; Akiba, Y.; Albataineh, A.; Amaryan, M.; Arsene, I. C.; Gayoso, C. Ayerbe; Bae, J.; Bai, X.; Baker, M. D.; Bashkanov, M.; Bellwied, R.; Benmokhtar, F.; Berdnikov, V.; Bernauer, J. C.; Bock, F.; Boeglin, W.; Borysova, M.; Brash, E.; Brindza, P.; Briscoe, W. J.; Brooks, M.; Bueltmann, S.; Bukhari, M. H. S.; Bylinkin, A.; Capobianco, R.; Chang, W. -C.; Cheon, Y.; Chen, K.; Chen, K. -F.; Cheng, K. -Y.; Chiu, M.; Chujo, T.; Citron, Z.; Cline, E.; Cohen, E.; Cormier, T.; Morales, Y. Corrales; Cotton, C.; Crafts, J.; Crawford, C.; Creekmore, S.; Cuevas, C.; Cunningham, J.; David, G.; Dean, C. T.; Demarteau, M.; Diehl, S.; Doshita, N.; Dupre, R.; Durham, J. M.; Dzhygadlo, R.; Ehlers, R.; Fassi, L. El; Emmert, A.; Ent, R.; Fatemi, R.; Fegan, S.; Finger, M.; Finger Jr., M.; Frantz, J.; Friedman, M.; Friscic, I.; Gangadharan, D.; Gardner, S.; Gates, K.; Geurts, F.; Gilman, R.; Glazier, D.; Glimos, E.; Goto, Y.; Grau, N.; Greene, S. V.; Guo, A. Q.; Guo, L.; Ha, S. K.; Haggerty, J.; Hayward, T.; He, X.; Hen, O.; Higinbotham, D. W.; Hoballah, M.; Horn, T.; Hoghmrtsyan, A.; Hsu, P. -h. J.; Huang, J.; Huber, G.; Hutson, A.; Hwang, K. Y.; Hyde, C.; Inaba, M.; Iwata, T.; Jo, H. S.; Joo, K.; Kalantarians, N.; Kalicy, G.; Kawade, K.; Kay, S. J. D.; Kim, A.; Kim, B.; Kim, C.; Kim, M.; Kim, Y.; Kim, Y.; Kistenev, E.; Klimenko, V.; Ko, S. H.; Korover, I.; Korsch, W.; Krintiras, G.; Kuhn, S.; Kuo, C. -M.; Kutz, T.; Lajoie, J.; Lawrence, D.; Lebedev, S.; Lee, H.; Lee, J. S. H.; Lee, S. W.; Lee, Y. -J.; Li, W.; Li, W. B.; Li, X.; Li, X.; Li, X.; Li, X.; Liang, Y. T.; Lim, S.; Lin, C. -h.; Lin, D. X.; Liu, K.; Liu, M. X.; Livingston, K.; Liyanage, N.; Llope, W. J.; Loizides, C.; Long, E.; Lu, R. -S.; Lu, Z.; Lynch, W.; Marchand, D.; Marcisovsky, M.; Markowitz, P.; Marukyan, H.; McGaughey, P.; Mihovilovic, M.; Milner, R. G.; Milov, A.; Miyachi, Y.; Mkrtchyan, A.; Monaghan, P.; Montgomery, R.; Morrison, D.; Movsisyan, A.; Mkrtchyan, H.; Mkrtchyan, A.; Camacho, C. Munoz; Murray, M.; Nagai, K.; Nagle, J.; Nakagawa, I.; Nattrass, C.; Nguyen, D.; Niccolai, S.; Nouicer, R.; Nukazuka, G.; Nycz, M.; Okorokov, V. A.; Oresic, S.; Osborn, J. D.; O'Shaughnessy, C.; Paganis, S.; Pate, S. F.; Patel, M.; Paus, C.; Penman, G.; Perdekamp, M. G.; Perepelitsa, D. V.; da Costa, H. Periera; Peters, K.; Phelps, W.; Piasetzky, E.; Pinkenburg, C.; Prochazka, I.; Protzman, T.; Purschke, M. L.; Putschke, J.; Pybus, J. R.; Rajput-Ghoshal, R.; Rasson, J.; Raue, B.; Read, K. F.; Roed, K.; Reed, R.; Reinhold, J.; Renner, E. L.; Richards, J.; Riedl, C.; Rinn, T.; Roche, J.; Roland, G. M.; Ron, G.; Rosati, M.; Royon, C.; Ryu, J.; Salur, S.; Santiesteban, N.; Santos, R.; Sarsour, M.; Schambach, J.; Schmidt, A.; Schmidt, N.; Schwarz, C.; Schwiening, J.; Seidl, R.; Sickles, A.; Simmerling, P.; Sirca, S.; Sharma, D.; Shi, Z.; Shibata, T. -A.; Shih, C. -W.; Shimizu, S.; Shrestha, U.; Slifer, K.; Smith, K.; Sokhan, D.; Soltz, R.; Sondheim, W.; Song, J.; Song, J.; Strakovsky, I. I.; Steinberg, P.; Stepanov, P.; Stevens, J.; Strube, J.; Sun, P.; Sun, X.; Tadevosyan, V.; Tang, W. -C.; Araya, S. Tapia; Tarafdar, S.; Teodorescu, L.; Timmins, A.; Tomasek, L.; Trotta, N.; Trotta, R.; Tveter, T. S.; Umaka, E.; Usman, A.; van Hecke, H. W.; Van Hulse, C.; Velkovska, J.; Voutier, E.; Wang, P. K.; Wang, Q.; Wang, Y.; Wang, Y.; Watts, D. P.; Wickramaarachchi, N.; Weinstein, L.; Williams, M.; Wong, C. -P.; Wood, L.; Wood, M. H.; Woody, C.; Wyslouch, B.; Xiao, Z.; Yamazaki, Y.; Yang, Y.; Ye, Z.; Yoo, H. D.; Yurov, M.; Zachariou, N.; Zajc, W. A.; Zha, W.; Zhang, J.; Zhang, Y.; Zhao, Y. X.; Zheng, X.; Zhuang, P. | [arXiv:2205.09185](https://arxiv.org/abs/2205.09185) - [DOI](https://doi.org/10.1016/j.nima.2022.167748) |
+
+
+## [DEP-E-20260819-UniGRec Unified](../DEP-E-20260819-UniGRec%20Unified/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UniGRec: Unified Generative Recommendation with Soft Identifiers for End-to-End Optimization* | Li, Jialei; Zhang, Yang; Bai, Yimeng; Zhu, Shuai; Xue, Ziqi; Zhao, Xiaoyan; Wang, Dingxian; Yang, Frank; Rabinovich, Andrew; He, Xiangnan | [arXiv:2601.17438](https://arxiv.org/abs/2601.17438) - [DOI](https://doi.org/10.48550/arXiv.2601.17438) |
+
+
+## [DEP-E-20260819-Dynamic Resilient](../DEP-E-20260819-Dynamic%20Resilient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation* | Yan, Zhijie; Li, Shufei; Zhang, Ze; Liu, Xin; Zheng, Yuhang; Wang, Zuoxu | [arXiv:2606.00576](https://arxiv.org/abs/2606.00576) - [DOI](https://doi.org/10.48550/arXiv.2606.00576) |
+
+
+## [DEP-E-20260819-M 3 Exam Benchmarking](../DEP-E-20260819-M%203%20Exam%20Benchmarking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions* | Huang, Zhengjun; Liu, Wenxuan; Tian, Zhoujin; Chen, Wei; Chen, Junle; Wu, Yuqian; Zhang, Fangyuan; Guo, Qintian; Zhou, Xiaofang | [arXiv:2606.07402](https://arxiv.org/abs/2606.07402) - [DOI](https://doi.org/10.48550/arXiv.2606.07402) |
+
+
+## [DEP-E-20260819-EvoBrain Continual](../DEP-E-20260819-EvoBrain%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks* | Zhou, Yangxuan; Zhao, Sha; Wang, Jiquan; Li, Shijian; Pan, Gang | [arXiv:2606.01767](https://arxiv.org/abs/2606.01767) - [DOI](https://doi.org/10.48550/arXiv.2606.01767) |
+
+
+## [DEP-E-20260819-An Inexact Augmented](../DEP-E-20260819-An%20Inexact%20Augmented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Inexact Augmented Lagrangian Algorithm for Training Leaky ReLU Neural Network with Group Sparsity* | Liu, Wei; Liu, Xin; Chen, Xiaojun | [arXiv:2205.05428](https://arxiv.org/abs/2205.05428) - [DOI](https://doi.org/10.48550/arXiv.2205.05428) |
+
+
+## [DEP-E-20260819-Evaluating](../DEP-E-20260819-Evaluating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evaluating Retrieval-Augmented Generation Strategies for Large Language Models in Travel Mode Choice Prediction* | Xu, Yiming; Jiao, Junfeng | [arXiv:2508.17527](https://arxiv.org/abs/2508.17527) - [DOI](https://doi.org/10.48550/arXiv.2508.17527) |
+
+
+## [DEP-E-20260819-Towards](../DEP-E-20260819-Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization* | Liu, Hanchao; Zhang, Fang-Lue; Zhang, Shining; Mu, Tai-Jiang; Hu, Shi-Min | [arXiv:2605.08054](https://arxiv.org/abs/2605.08054) - [DOI](https://doi.org/10.48550/arXiv.2605.08054) |
+
+
+## [DEP-E-20260819-CSPO Cross-Market](../DEP-E-20260819-CSPO%20Cross-Market/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization* | Lin, Sida; Chen, Yankai; Qi, Yiyan; Ma, Chenhao; Cao, Bokai; Zhang, Yifei; Liu, Xue; Guo, Jian | [arXiv:2503.22740](https://arxiv.org/abs/2503.22740) - [DOI](https://doi.org/10.48550/arXiv.2503.22740) |
+
+
+## [DEP-E-20260819-Supported Trust Region](../DEP-E-20260819-Supported%20Trust%20Region/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Supported Trust Region Optimization for Offline Reinforcement Learning* | Mao, Yixiu; Zhang, Hongchang; Chen, Chen; Xu, Yi; Ji, Xiangyang | [arXiv:2311.08935](https://arxiv.org/abs/2311.08935) - [DOI](https://doi.org/10.48550/arXiv.2311.08935) |
+
+
+## [DEP-E-20260819-AsymptoticNG A](../DEP-E-20260819-AsymptoticNG%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AsymptoticNG: A regularized natural gradient optimization algorithm with look-ahead strategy* | Tang, Zedong; Jiang, Fenlong; Song, Junke; Gong, Maoguo; Li, Hao; Yu, Fan; Wang, Zidong; Wang, Min | [arXiv:2012.13077](https://arxiv.org/abs/2012.13077) - [DOI](https://doi.org/10.48550/arXiv.2012.13077) |
+
+
+## [DEP-E-20260819-Repurposing Adversarial](../DEP-E-20260819-Repurposing%20Adversarial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Repurposing Adversarial Perturbations for Continual Learning: From Defense to Active Alignment* | Liu, Ran; Yu, Min; Liu, Mingqi; Jiang, Jianguo; Li, Gang; Li, Rongsheng; Li, Ning; Xu, Zhen; Huang, Weiqing; Liu, Ming | [arXiv:2606.02322](https://arxiv.org/abs/2606.02322) - [DOI](https://doi.org/10.48550/arXiv.2606.02322) |
+
+
+## [DEP-E-20260819-IRNN Innovation-driven](../DEP-E-20260819-IRNN%20Innovation-driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *IRNN: Innovation-driven Recurrent Neural Network for Time-Series Data Modeling and Prediction* | Zhou, Yifan; Wang, Yibo; Shang, Chao | [arXiv:2505.05916](https://arxiv.org/abs/2505.05916) - [DOI](https://doi.org/10.48550/arXiv.2505.05916) |
+
+
+## [DEP-E-20260819-Masked Graph Learning](../DEP-E-20260819-Masked%20Graph%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation* | Meng, Tao; Zhang, Fuchen; Shou, Yuntao; Shao, Hongen; Ai, Wei; Li, Keqin | [arXiv:2407.16714](https://arxiv.org/abs/2407.16714) - [DOI](https://doi.org/10.48550/arXiv.2407.16714) |
+
+
+## [DEP-E-20260819-Co-Layout LLM-driven](../DEP-E-20260819-Co-Layout%20LLM-driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Co-Layout: LLM-driven Co-optimization for Interior Layout* | Xiang, Chucheng; Bao, Ruchao; Feng, Biyin; Wu, Wenzheng; Liu, Zhongyuan; Guan, Yirui; Liu, Ligang | [arXiv:2511.12474](https://arxiv.org/abs/2511.12474) - [DOI](https://doi.org/10.48550/arXiv.2511.12474) |
+
+
+## [DEP-E-20260819-DSAS A Universal](../DEP-E-20260819-DSAS%20A%20Universal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DSAS: A Universal Plug-and-Play Framework for Attention Optimization in Multi-Document Question Answering* | Li, Jiakai; Wang, Rongzheng; Ma, Yizhuo; Liang, Shuang; Luo, Guangchun; Qin, Ke | [arXiv:2510.12251](https://arxiv.org/abs/2510.12251) - [DOI](https://doi.org/10.48550/arXiv.2510.12251) |
+
+
+## [DEP-E-20260819-TransHash](../DEP-E-20260819-TransHash/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval* | Chen, Yongbiao; Zhang, Sheng; Liu, Fangxin; Chang, Zhigang; Ye, Mang; Qi, Zhengwei | [arXiv:2105.01823](https://arxiv.org/abs/2105.01823) - [DOI](https://doi.org/10.48550/arXiv.2105.01823) |
+
+
+## [DEP-E-20260819-A proximal-proximal](../DEP-E-20260819-A%20proximal-proximal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A proximal-proximal majorization-minimization algorithm for nonconvex tuning-free robust regression problems* | Tang, Peipei; Wang, Chengjing; Jiang, Bo | [arXiv:2106.13683](https://arxiv.org/abs/2106.13683) - [DOI](https://doi.org/10.48550/arXiv.2106.13683) |
+
+
+## [DEP-E-20260819-QwenLong-CPRS Towards](../DEP-E-20260819-QwenLong-CPRS%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization* | Shen, Weizhou; Li, Chenliang; Wan, Fanqi; Liao, Shengyi; Lai, Shaopeng; Zhang, Bo; Shi, Yingcheng; Wu, Yuning; Fu, Gang; Li, Zhansheng; Yang, Bin; Zhang, Ji; Huang, Fei; Zhou, Jingren; Yan, Ming | [arXiv:2505.18092](https://arxiv.org/abs/2505.18092) - [DOI](https://doi.org/10.48550/arXiv.2505.18092) |
+
+
+## [DEP-E-20260819-OmniVTA Visuo-Tactile](../DEP-E-20260819-OmniVTA%20Visuo-Tactile/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation* | Zheng, Yuhang; Gu, Songen; Zheng, Yupeng; Li, Weize; Zang, Yujie; Tian, Shuai; Li, Xiang; Hao, Ce; Gao, Chen; Liu, Si; Li, Haoran; Chen, Yilun; Yan, Shuicheng; Ding, Wenchao | [arXiv:2603.19201](https://arxiv.org/abs/2603.19201) - [DOI](https://doi.org/10.48550/arXiv.2603.19201) |
+
+
+## [DEP-E-20260819-AMPO Automatic](../DEP-E-20260819-AMPO%20Automatic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AMPO: Automatic Multi-Branched Prompt Optimization* | Yang, Sheng; Wu, Yurong; Gao, Yan; Zhou, Zineng; Zhu, Bin Benjamin; Sun, Xiaodi; Lou, Jian-Guang; Ding, Zhiming; Hu, Anbang; Fang, Yuan; Li, Yunsong; Chen, Junyan; Yang, Linjun | [arXiv:2410.08696](https://arxiv.org/abs/2410.08696) - [DOI](https://doi.org/10.48550/arXiv.2410.08696) |
+
+
+## [DEP-E-20260819-Energy-Workload Coupled](../DEP-E-20260819-Energy-Workload%20Coupled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Workload Coupled Migration Optimization Strategy for Virtual Power Plants with Data Centers Considering Fuzzy Chance Constraints* | Wu, Jia-Kai; Liu, Zhi-Wei; Zhao, Yong; Wang, Yan-Wu; Qu, Fan-Rong; Li, Chaojie | [arXiv:2511.08619](https://arxiv.org/abs/2511.08619) - [DOI](https://doi.org/10.48550/arXiv.2511.08619) |
+
+
+## [DEP-E-20260819-RAGPerf An End-to-End](../DEP-E-20260819-RAGPerf%20An%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems* | Li, Shaobo; Zhou, Yirui; Xu, Yuan; Chen, Kevin; Waddington, Daniel; Sundararaman, Swaminathan; Franke, Hubertus; Huang, Jian | [arXiv:2603.10765](https://arxiv.org/abs/2603.10765) - [DOI](https://doi.org/10.48550/arXiv.2603.10765) |
+
+
+## [DEP-E-20260819-SAC-Opt Semantic Anchors](../DEP-E-20260819-SAC-Opt%20Semantic%20Anchors/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling* | Zhang, Yansen; Kang, Qingcan; Chen, Yujie; Wang, Yufei; Han, Xiongwei; Zhong, Tao; Yuan, Mingxuan; Ma, Chen | [arXiv:2510.05115](https://arxiv.org/abs/2510.05115) - [DOI](https://doi.org/10.48550/arXiv.2510.05115) |
+
+
+## [DEP-E-20260819-Derivative-free tree](../DEP-E-20260819-Derivative-free%20tree/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Derivative-free tree optimization for complex systems* | Wei, Ye; Peng, Bo; Xie, Ruiwen; Chen, Yangtao; Qin, Yu; Wen, Peng; Bauer, Stefan; Tung, Po-Yen | [arXiv:2404.04062](https://arxiv.org/abs/2404.04062) - [DOI](https://doi.org/10.48550/arXiv.2404.04062) |
+
+
+## [DEP-E-20260819-FT-CNN Algorithm-Based](../DEP-E-20260819-FT-CNN%20Algorithm-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FT-CNN: Algorithm-Based Fault Tolerance for Convolutional Neural Networks* | Zhao, Kai; Di, Sheng; Li, Sihuan; Liang, Xin; Zhai, Yujia; Chen, Jieyang; Ouyang, Kaiming; Cappello, Franck; Chen, Zizhong | [arXiv:2003.12203](https://arxiv.org/abs/2003.12203) - [DOI](https://doi.org/10.1109/TPDS.2020.3043449) |
+
+
+## [DEP-E-20260819-ST-GIN An Uncertainty](../DEP-E-20260819-ST-GIN%20An%20Uncertainty/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ST-GIN: An Uncertainty Quantification Approach in Traffic Data Imputation with Spatio-temporal Graph Attention and Bidirectional Recurrent United Neural Networks* | Wang, Zepu; Zhuang, Dingyi; Li, Yankai; Zhao, Jinhua; Sun, Peng; Wang, Shenhao; Hu, Yulin | [arXiv:2305.06480](https://arxiv.org/abs/2305.06480) - [DOI](https://doi.org/10.48550/arXiv.2305.06480) |
+
+
+## [DEP-E-20260819-PersonaMem-v2 Towards](../DEP-E-20260819-PersonaMem-v2%20Towards/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory* | Jiang, Bowen; Yuan, Yuan; Shen, Maohao; Hao, Zhuoqun; Xu, Zhangchen; Chen, Zichen; Liu, Ziyi; Vijjini, Anvesh Rao; He, Jiashu; Yu, Hanchao; Poovendran, Radha; Wornell, Gregory; Ungar, Lyle; Roth, Dan; Chen, Sihao; Taylor, Camillo Jose | [arXiv:2512.06688](https://arxiv.org/abs/2512.06688) - [DOI](https://doi.org/10.48550/arXiv.2512.06688) |
+
+
+## [DEP-E-20260819-A Novel Learning](../DEP-E-20260819-A%20Novel%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel Learning Algorithm for B\"uchi Automata based on Family of DFAs and Classification Trees* | Li, Yong; Chen, Yu-Fang; Zhang, Lijun; Liu, Depeng | [arXiv:1610.07380](https://arxiv.org/abs/1610.07380) - [DOI](https://doi.org/10.48550/arXiv.1610.07380) |
+
+
+## [DEP-E-20260819-Pandora Towards General](../DEP-E-20260819-Pandora%20Towards%20General/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Pandora: Towards General World Model with Natural Language Actions and Video States* | Xiang, Jiannan; Liu, Guangyi; Gu, Yi; Gao, Qiyue; Ning, Yuting; Zha, Yuheng; Feng, Zeyu; Tao, Tianhua; Hao, Shibo; Shi, Yemin; Liu, Zhengzhong; Xing, Eric P.; Hu, Zhiting | [arXiv:2406.09455](https://arxiv.org/abs/2406.09455) - [DOI](https://doi.org/10.48550/arXiv.2406.09455) |
+
+
+## [DEP-E-20260819-Transferable Optimization](../DEP-E-20260819-Transferable%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Transferable Optimization Network for Cross-Domain Image Reconstruction* | Chen, Yunmei; Ding, Chi; Ye, Xiaojing | [arXiv:2603.07831](https://arxiv.org/abs/2603.07831) - [DOI](https://doi.org/10.48550/arXiv.2603.07831) |
+
+
+## [DEP-E-20260819-Revisiting Optimal](../DEP-E-20260819-Revisiting%20Optimal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization* | Yuan, Kun; Huang, Xinmeng; Chen, Yiming; Zhang, Xiaohan; Zhang, Yingya; Pan, Pan | [arXiv:2210.07863](https://arxiv.org/abs/2210.07863) - [DOI](https://doi.org/10.48550/arXiv.2210.07863) |
+
+
+## [DEP-E-20260819-VIP-COP Context](../DEP-E-20260819-VIP-COP%20Context/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VIP-COP: Context Optimization for Tabular Foundation Models* | Chen, Yilong; Ding, Xueying; Akoglu, Leman | [arXiv:2605.12904](https://arxiv.org/abs/2605.12904) - [DOI](https://doi.org/10.48550/arXiv.2605.12904) |
+
+
+## [DEP-E-20260819-Efficient and Optimal](../DEP-E-20260819-Efficient%20and%20Optimal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient and Optimal Policy Gradient Algorithm for Corrupted Multi-armed Bandits* | Liu, Jiayuan; Wang, Siwei; Fang, Zhixuan | [arXiv:2502.14146](https://arxiv.org/abs/2502.14146) - [DOI](https://doi.org/10.48550/arXiv.2502.14146) |
+
+
+## [DEP-E-20260819-UAV s Rotor Micro-Doppler](../DEP-E-20260819-UAV%20s%20Rotor%20Micro-Doppler/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation* | Wei, Jiachen; Ma, Dingyou; He, Feiyang; Zhang, Qixun; Feng, Zhiyong; Liu, Zhengfeng; Liang, Taohong | [arXiv:2408.16415](https://arxiv.org/abs/2408.16415) - [DOI](https://doi.org/10.1109/TWC.2025.3578033) |
+
+
+## [DEP-E-20260819-Multi-scale Topology](../DEP-E-20260819-Multi-scale%20Topology/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-scale Topology Optimization using Neural Networks* | Chen, Hongrui; Liu, Xingchen; Kara, Levent Burak | [arXiv:2404.08708](https://arxiv.org/abs/2404.08708) - [DOI](https://doi.org/10.48550/arXiv.2404.08708) |
+
+
+## [DEP-E-20260819-Long Short-Term Memory](../DEP-E-20260819-Long%20Short-Term%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Long Short-Term Memory Networks for CSI300 Volatility Prediction with Baidu Search Volume* | Zhou, Yu-Long; Han, Ren-Jie; Xu, Qian; Zhang, Wei-Ke | [arXiv:1805.11954](https://arxiv.org/abs/1805.11954) - [DOI](https://doi.org/10.1002/cpe.4721) |
+
+
+## [DEP-E-20260819-A Fast Tree Algorithm for](../DEP-E-20260819-A%20Fast%20Tree%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Tree Algorithm for Electric Field Calculation in Electrical Discharge Simulations* | Zhuang, Chijie; Zhang, Yong; Zhou, Xin; Zeng, Rong; He, Jinliang; Liu, Lei | [arXiv:1710.05781](https://arxiv.org/abs/1710.05781) - [DOI](https://doi.org/10.1109/TMAG.2017.2756991) |
+
+
+## [DEP-E-20260819-DataSage Multi-agent](../DEP-E-20260819-DataSage%20Multi-agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DataSage: Multi-agent Collaboration for Insight Discovery with External Knowledge Retrieval, Multi-role Debating, and Multi-path Reasoning* | Liu, Xiaochuan; Song, Yuanfeng; Yin, Xiaoming; Chen, Xing | [arXiv:2511.14299](https://arxiv.org/abs/2511.14299) - [DOI](https://doi.org/10.48550/arXiv.2511.14299) |
+
+
+## [DEP-E-20260819-Recurrent Aggregation](../DEP-E-20260819-Recurrent%20Aggregation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation* | Li, Ming; Zhang, Weiwei; Yang, Guang; Wang, Chengjia; Zhang, Heye; Liu, Huafeng; Zheng, Wei; Li, Shuo | [arXiv:1907.11292](https://arxiv.org/abs/1907.11292) - [DOI](https://doi.org/10.48550/arXiv.1907.11292) |
+
+
+## [DEP-E-20260819-Qwen-RobotWorld Technical](../DEP-E-20260819-Qwen-RobotWorld%20Technical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation* | Zhang, Jie; Chen, Xiaoyue; Chen, Anzhe; Liu, Dayiheng; Li, Deqing; Zhou, Gengze; Yin, Hale; Yuan, Haoqi; Li, Haoyang; Li, Jiahao; Zhang, Jiazhao; Zhou, Jingren; Gao, Kaiyuan; Yan, Kun; Jiang, Lihan; Tang, Ningyuan; Lin, Pei; Peng, Qihang; Yin, Shengming; Wu, Tianhe; Yan, Tianyi; Xu, Xiao; Shu, Yan; Zhang, Yanran; Wang, Ye; Wang, Yi; Chen, Yilei; Xu, Yixian; Huang, Yiyang; Chen, Yuxiang; Zhang, Zekai; Wang, Zhendong; Lei, Zixing; Liang, Zhixuan; Liu, Zihao; Zhou, Zikai; Lv, Chenxu; Chen, Xiong-Hui; Wu, Chenfei | [arXiv:2606.17030](https://arxiv.org/abs/2606.17030) - [DOI](https://doi.org/10.48550/arXiv.2606.17030) |
+
+
+## [DEP-E-20260819-Rethinking Continual](../DEP-E-20260819-Rethinking%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethinking Continual Learning for Speech and Audio: A Representation-Centric Taxonomy and Open Problems* | Xiao, Yang; Wang, Siyi; Holden, Eun-Jung; Dang, Ting | [arXiv:2605.24863](https://arxiv.org/abs/2605.24863) - [DOI](https://doi.org/10.48550/arXiv.2605.24863) |
+
+
+## [DEP-E-20260819-Multi-Facet Recommender](../DEP-E-20260819-Multi-Facet%20Recommender/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-Facet Recommender Networks with Spherical Optimization* | Tan, Yanchao; Yang, Carl; Wei, Xiangyu; Ma, Yun; Zheng, Xiaolin | [arXiv:2103.14866](https://arxiv.org/abs/2103.14866) - [DOI](https://doi.org/10.48550/arXiv.2103.14866) |
+
+
+## [DEP-E-20260819-Constructing](../DEP-E-20260819-Constructing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Constructing Industrial-Scale Optimization Modeling Benchmark* | Li, Zhong; Lu, Hongliang; Wei, Tao; Chen, Yuxuan; Liu, Wenyu; Lan, Yuan; Zhang, Fan; Wen, Zaiwen | [arXiv:2602.10450](https://arxiv.org/abs/2602.10450) - [DOI](https://doi.org/10.48550/arXiv.2602.10450) |
+
+
+## [DEP-E-20260819-AlgoFormer An Efficient](../DEP-E-20260819-AlgoFormer%20An%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures* | Gao, Yihang; Zheng, Chuanyang; Xie, Enze; Shi, Han; Hu, Tianyang; Li, Yu; Ng, Michael K.; Li, Zhenguo; Liu, Zhaoqiang | [arXiv:2402.13572](https://arxiv.org/abs/2402.13572) - [DOI](https://doi.org/10.48550/arXiv.2402.13572) |
+
+
+## [DEP-E-20260819-A Unified DNN Weight](../DEP-E-20260819-A%20Unified%20DNN%20Weight/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Unified DNN Weight Compression Framework Using Reweighted Optimization Methods* | Zhang, Tianyun; Ma, Xiaolong; Zhan, Zheng; Zhou, Shanglin; Qin, Minghai; Sun, Fei; Chen, Yen-Kuang; Ding, Caiwen; Fardad, Makan; Wang, Yanzhi | [arXiv:2004.05531](https://arxiv.org/abs/2004.05531) - [DOI](https://doi.org/10.48550/arXiv.2004.05531) |
+
+
+## [DEP-E-20260819-Hierarchical Trajec 02606](../DEP-E-20260819-Hierarchical%20Trajec%2002606/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Trajectory Planning for Autonomous Driving in Low-speed Driving Scenarios Based on RRT and Optimization* | Chen, Yuying; Ye, Haoyang; Liu, Ming | [arXiv:1904.02606](https://arxiv.org/abs/1904.02606) - [DOI](https://doi.org/10.48550/arXiv.1904.02606) |
+
+
+## [DEP-E-20260819-FARM Frequency-Aware](../DEP-E-20260819-FARM%20Frequency-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation* | Li, Xiaodong; Yang, Ruochen; Wen, Shuang; Wang, Shen; Liu, Yueyang; Wang, Guoquan; Hu, Weisong; Luo, Qiang; Sheng, Jiawei; Liu, Tingwen; Cao, Jiangxia; Yang, Shuang; Liu, Zhaojie | [arXiv:2502.09375](https://arxiv.org/abs/2502.09375) - [DOI](https://doi.org/10.48550/arXiv.2502.09375) |
+
+
+## [DEP-E-20260819-Recurrent Model](../DEP-E-20260819-Recurrent%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Recurrent Model Predictive Control* | Liu, Zhengyu; Duan, Jingliang; Wang, Wenxuan; Li, Shengbo Eben; Yin, Yuming; Lin, Ziyu; Sun, Qi; Cheng, Bo | [arXiv:2102.11736](https://arxiv.org/abs/2102.11736) - [DOI](https://doi.org/10.48550/arXiv.2102.11736) |
+
+
+## [DEP-E-20260819-AtomicRAG Atom-Entity](../DEP-E-20260819-AtomicRAG%20Atom-Entity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation* | Hou, Yanning; Yuan, Duanyang; Zhou, Sihang; Chen, Xiaoshu; Liang, Ke; Wang, Siwei; Liu, Xinwang; Huang, Jian | [arXiv:2604.20844](https://arxiv.org/abs/2604.20844) - [DOI](https://doi.org/10.48550/arXiv.2604.20844) |
+
+
+## [DEP-E-20260819-Online Learning Based](../DEP-E-20260819-Online%20Learning%20Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online Learning Based Mobile Robot Controller Adaptation for Slip Reduction* | Gao, Huidong; Zhou, Rui; Tomizuka, Masayoshi; Xu, Zhuo | [arXiv:2301.13283](https://arxiv.org/abs/2301.13283) - [DOI](https://doi.org/10.48550/arXiv.2301.13283) |
+
+
+## [DEP-E-20260819-LongFlow Efficient KV](../DEP-E-20260819-LongFlow%20Efficient%20KV/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongFlow: Efficient KV Cache Compression for Reasoning Models* | Su, Yi; Tian, Zhenxu; Qiao, Dan; Zhou, Yuechi; Li, Juntao; Zhang, Min | [arXiv:2603.11504](https://arxiv.org/abs/2603.11504) - [DOI](https://doi.org/10.48550/arXiv.2603.11504) |
+
+
+## [DEP-E-20260819-DPM-Solver A Fast ODE](../DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps* | Lu, Cheng; Zhou, Yuhao; Bao, Fan; Chen, Jianfei; Li, Chongxuan; Zhu, Jun | [arXiv:2206.00927](https://arxiv.org/abs/2206.00927) - [DOI](https://doi.org/10.48550/arXiv.2206.00927) |
+
+
+## [DEP-E-20260819-Sparse Convolutional](../DEP-E-20260819-Sparse%20Convolutional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection* | Wang, Shenqi; Xu, Yingfu; Yousefzadeh, Amirreza; Eissa, Sherif; Corporaal, Henk; Corradi, Federico; Tang, Guangzhi | [arXiv:2506.13440](https://arxiv.org/abs/2506.13440) - [DOI](https://doi.org/10.48550/arXiv.2506.13440) |
+
+
+## [DEP-E-20260819-Train Less Learn More](../DEP-E-20260819-Train%20Less%20Learn%20More/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning* | Zhang, Zhi; Han, Zhen; Mavromatis, Costas; Zhu, Qi; Zhang, Yunyi; Guan, Sheng; Wang, Dingmin; Zhou, Xiong; Wang, Shuai; Adeshina, Soji; Ioannidis, Vassilis; Rangwala, Huzefa | [arXiv:2602.14338](https://arxiv.org/abs/2602.14338) - [DOI](https://doi.org/10.48550/arXiv.2602.14338) |
+
+
+## [DEP-E-20260819-Depth Reconstruction from](../DEP-E-20260819-Depth%20Reconstruction%20from/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Depth Reconstruction from Sparse Samples: Representation, Algorithm, and Sampling* | Liu, Lee-Kang; Chan, Stanley H.; Nguyen, Truong Q. | [arXiv:1407.3840](https://arxiv.org/abs/1407.3840) - [DOI](https://doi.org/10.48550/arXiv.1407.3840) |
+
+
+## [DEP-E-20260819-Revisiting finite Abelian](../DEP-E-20260819-Revisiting%20finite%20Abelian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting finite Abelian hidden subgroup problem and its distributed exact quantum algorithm* | Dong, Ziyuan; Fan, Xiang; Zhong, Tengxun; Qiu, Daowen | [arXiv:2512.22959](https://arxiv.org/abs/2512.22959) - [DOI](https://doi.org/10.48550/arXiv.2512.22959) |
+
+
+## [DEP-E-20260819-AgentKernelArena](../DEP-E-20260819-AgentKernelArena/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents* | Younesian, Sharareh; Ouyang, Wenwen; Rafati, Sina; Rezagholizadeh, Mehdi; Zhou, Sharon; Liu, Ji; Liu, Yue; Yang, Yuchen; Li, Hao; Liu, Ziqiong; Li, Dong; Appia, Vikram; Gu, Zhenyu; Barsoum, Emad | [arXiv:2605.16819](https://arxiv.org/abs/2605.16819) - [DOI](https://doi.org/10.48550/arXiv.2605.16819) |
+
+
+## [DEP-E-20260819-Dynamic Maintenance of](../DEP-E-20260819-Dynamic%20Maintenance%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Maintenance of Kernel Density Estimation Data Structure: From Practice to Theory* | Liang, Jiehao; Song, Zhao; Xu, Zhaozhuo; Yin, Junze; Zhuo, Danyang | [arXiv:2208.03915](https://arxiv.org/abs/2208.03915) - [DOI](https://doi.org/10.48550/arXiv.2208.03915) |
+
+
+## [DEP-E-20260819-Accelerating Frank-Wolfe](../DEP-E-20260819-Accelerating%20Frank-Wolfe/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Accelerating Frank-Wolfe Algorithm using Low-Dimensional and Adaptive Data Structures* | Song, Zhao; Xu, Zhaozhuo; Yang, Yuanyuan; Zhang, Lichen | [arXiv:2207.09002](https://arxiv.org/abs/2207.09002) - [DOI](https://doi.org/10.48550/arXiv.2207.09002) |
+
+
+## [DEP-E-20260819-Improving 08769](../DEP-E-20260819-Improving%2008769/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Levenberg-Marquardt Algorithm for Neural Networks* | Pooladzandi, Omead; Zhou, Yiming | [arXiv:2212.08769](https://arxiv.org/abs/2212.08769) - [DOI](https://doi.org/10.48550/arXiv.2212.08769) |
+
+
+## [DEP-E-20260819-Deep Hierarchy](../DEP-E-20260819-Deep%20Hierarchy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Deep Hierarchy Quantization Compression algorithm based on Dynamic Sampling* | Jiang, Wan; Liu, Gang; Chen, Xiaofeng; Zhou, Yipeng | [arXiv:2212.14760](https://arxiv.org/abs/2212.14760) - [DOI](https://doi.org/10.48550/arXiv.2212.14760) |
+
+
+## [DEP-E-20260819-LoRC Low-Rank Compression](../DEP-E-20260819-LoRC%20Low-Rank%20Compression/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy* | Zhang, Rongzhi; Wang, Kuang; Liu, Liyuan; Wang, Shuohang; Cheng, Hao; Zhang, Chao; Shen, Yelong | [arXiv:2410.03111](https://arxiv.org/abs/2410.03111) - [DOI](https://doi.org/10.48550/arXiv.2410.03111) |
+
+
+## [DEP-E-20260819-A Novel RFID](../DEP-E-20260819-A%20Novel%20RFID/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel RFID Authentication Protocol Based on A Block-Order-Modulus Variable Matrix Encryption Algorithm* | Wang, Yan; Liu, Ruiqi; Gao, Tong; Shu, Feng; Lei, Xuemei; Wu, Yongpeng; Gui, Guan; Wang, Jiangzhou | [arXiv:2312.10593](https://arxiv.org/abs/2312.10593) - [DOI](https://doi.org/10.48550/arXiv.2312.10593) |
+
+
+## [DEP-E-20260819-A optimization framework](../DEP-E-20260819-A%20optimization%20framework/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A optimization framework for herbal prescription planning based on deep reinforcement learning* | Yang, Kuo; Yu, Zecong; Su, Xin; He, Xiong; Wang, Ning; Zheng, Qiguang; Yu, Feidie; Liu, Zhuang; Wen, Tiancai; Zhou, Xuezhong | [arXiv:2304.12828](https://arxiv.org/abs/2304.12828) - [DOI](https://doi.org/10.48550/arXiv.2304.12828) |
+
+
+## [DEP-E-20260819-Imaginative World](../DEP-E-20260819-Imaginative%20World/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation* | Hu, Yue; Wu, Junzhe; Xu, Ruihan; Liu, Hang; Xi, Avery; Liu, Henry X.; Vasudevan, Ram; Ghaffari, Maani | [arXiv:2508.06990](https://arxiv.org/abs/2508.06990) - [DOI](https://doi.org/10.48550/arXiv.2508.06990) |
+
+
+## [DEP-E-20260819-Survey on Graph Neural](../DEP-E-20260819-Survey%20on%20Graph%20Neural/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Survey on Graph Neural Network Acceleration: An Algorithmic Perspective* | Liu, Xin; Yan, Mingyu; Deng, Lei; Li, Guoqi; Ye, Xiaochun; Fan, Dongrui; Pan, Shirui; Xie, Yuan | [arXiv:2202.04822](https://arxiv.org/abs/2202.04822) - [DOI](https://doi.org/10.48550/arXiv.2202.04822) |
+
+
+## [DEP-E-20260819-VimRAG Navigating Massive](../DEP-E-20260819-VimRAG%20Navigating%20Massive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph* | Wang, Qiuchen; Wang, Shihang; Zeng, Yu; Zhang, Qiang; Zhang, Fanrui; Guo, Zhuoning; Zhang, Bosi; Huang, Wenxuan; Chen, Lin; Chen, Zehui; Xie, Pengjun; Ding, Ruixue | [arXiv:2602.12735](https://arxiv.org/abs/2602.12735) - [DOI](https://doi.org/10.48550/arXiv.2602.12735) |
+
+
+## [DEP-E-20260819-LoViF 2026 The First](../DEP-E-20260819-LoViF%202026%20The%20First/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)* | Luo, Wei; Lu, Yiting; Li, Xin; Li, Haoran; Guan, Fengbin; Gao, Chen; Jin, Xin; Li, Yong; Chen, Zhibo; Wu, Sijing; Fu, Kang; Li, Yunhao; Xiao, Ziang; Duan, Huiyu; Liu, Jing; Hu, Qiang; Min, Xiongkuo; Zhai, Guangtao; Sun, Manxi; Guo, Zixuan; Li, Yun; Chen, Ziyang; Tsukada, Manabu; Li, Zhengyang; Du, Zhenglin; Wen, Yi; Jiao, Licheng; Liu, Fang; Li, Lingling; Ren, Yiwen; Song, Zhilong; Chen, Dubing; Zhou, Yucheng; Yan, Tianyi; Zheng, Huan | [arXiv:2605.05187](https://arxiv.org/abs/2605.05187) - [DOI](https://doi.org/10.48550/arXiv.2605.05187) |
+
+
+## [DEP-E-20260819-A Dual-Branch](../DEP-E-20260819-A%20Dual-Branch/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Dual-Branch Collaborative Framework for Joint Optimization of Underwater Image Enhancement and Object Detection* | Cao, Liyuan; Liu, Zheng; Liao, Guanghao; Yang, Yonghui; Li, Qi | [arXiv:2606.15857](https://arxiv.org/abs/2606.15857) - [DOI](https://doi.org/10.48550/arXiv.2606.15857) |
+
+
+## [DEP-E-20260819-A Mirror Descent-Based](../DEP-E-20260819-A%20Mirror%20Descent-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent* | Wang, Shuche; Tan, Vincent Y. F. | [arXiv:2407.14111](https://arxiv.org/abs/2407.14111) - [DOI](https://doi.org/10.48550/arXiv.2407.14111) |
+
+
+## [DEP-E-20260819-Unified Dominance Graph](../DEP-E-20260819-Unified%20Dominance%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unified Dominance Graph for Interval-Predicate Approximate Nearest Neighbor Search* | Lau, Kwun Hang; Zhang, Ruiyuan; Li, Elton Chun-Chai; Chan, Wun Yu; Cheng, Xiaojun; Zhou, Xiaofang | [arXiv:2606.24204](https://arxiv.org/abs/2606.24204) - [DOI](https://doi.org/10.48550/arXiv.2606.24204) |
+
+
+## [DEP-E-20260819-Stochastic Gradient MCMC](../DEP-E-20260819-Stochastic%20Gradient%20MCMC/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stochastic Gradient MCMC for State Space Models* | Aicher, Christopher; Ma, Yi-An; Foti, Nicholas J.; Fox, Emily B. | [arXiv:1810.09098](https://arxiv.org/abs/1810.09098) - [DOI](https://doi.org/10.48550/arXiv.1810.09098) |
+
+
+## [DEP-E-20260819-RoboHorizon An](../DEP-E-20260819-RoboHorizon%20An/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation* | Chen, Zixuan; Huo, Jing; Chen, Yangtao; Gao, Yang | [arXiv:2501.06605](https://arxiv.org/abs/2501.06605) - [DOI](https://doi.org/10.48550/arXiv.2501.06605) |
+
+
+## [DEP-E-20260819-An efficient multi-core](../DEP-E-20260819-An%20efficient%20multi-core/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An efficient multi-core implementation of a novel HSS-structured multifrontal solver using randomized sampling* | Ghysels, Pieter; Li, Xiaoye S.; Rouet, Francois-Henry; Williams, Samuel; Napov, Artem | [arXiv:1502.07405](https://arxiv.org/abs/1502.07405) - [DOI](https://doi.org/10.48550/arXiv.1502.07405) |
+
+
+## [DEP-E-20260819-MIRAGE Misleading](../DEP-E-20260819-MIRAGE%20Misleading/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks* | Chen, Tailun; He, Yu; Wang, Yan; Shao, Shuo; Zheng, Haolun; Liu, Zhihao; Li, Jinfeng; Qin, Zhizhen; Chen, Yuefeng; Chu, Zhixuan; Qin, Zhan; Ren, Kui | [arXiv:2512.08289](https://arxiv.org/abs/2512.08289) - [DOI](https://doi.org/10.48550/arXiv.2512.08289) |
+
+
+## [DEP-E-20260819-BubbleRAG Evidence-Driven](../DEP-E-20260819-BubbleRAG%20Evidence-Driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs* | Pan, Duyi; Lou, Tianao; Li, Xin; Song, Haoze; Wu, Yiwen; Deng, Mengyi; Yang, Mingyu; Wang, Wei | [arXiv:2603.20309](https://arxiv.org/abs/2603.20309) - [DOI](https://doi.org/10.48550/arXiv.2603.20309) |
+
+
+## [DEP-E-20260819-Structure Learning of](../DEP-E-20260819-Structure%20Learning%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Structure Learning of Deep Networks via DNA Computing Algorithm* | Zhong, Guoqiang; Li, Tao; Liu, Wenxue; Chen, Yang | [arXiv:1810.10687](https://arxiv.org/abs/1810.10687) - [DOI](https://doi.org/10.48550/arXiv.1810.10687) |
+
+
+## [DEP-E-20260819-Low-Complexity Inference](../DEP-E-20260819-Low-Complexity%20Inference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer* | Liu, Zhenrong; Huttunen, Janne M. J.; Honkala, Mikko | [arXiv:2505.08327](https://arxiv.org/abs/2505.08327) - [DOI](https://doi.org/10.48550/arXiv.2505.08327) |
+
+
+## [DEP-E-20260819-Scalable Distributed](../DEP-E-20260819-Scalable%20Distributed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models* | Chen, Yixin; Dey, Tonmoy; Kuhnle, Alan | [arXiv:2206.09563](https://arxiv.org/abs/2206.09563) - [DOI](https://doi.org/10.1613/jair.1.15484) |
+
+
+## [DEP-E-20260819-Customize Harmonic](../DEP-E-20260819-Customize%20Harmonic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths* | Wang, Shuaikang; Guo, Tiecheng; Guo, Meng | [arXiv:2507.09858](https://arxiv.org/abs/2507.09858) - [DOI](https://doi.org/10.48550/arXiv.2507.09858) |
+
+
+## [DEP-E-20260819-Performance bound of the](../DEP-E-20260819-Performance%20bound%20of%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Performance bound of the intensity-based model for noisy phase retrieval* | Huang, Meng; Xu, Zhiqiang | [arXiv:2004.08764](https://arxiv.org/abs/2004.08764) - [DOI](https://doi.org/10.48550/arXiv.2004.08764) |
+
+
+## [DEP-E-20260819-Semi-Supervised](../DEP-E-20260819-Semi-Supervised/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining* | Sun, Shangquan; Ren, Wenqi; Zhou, Juxiang; Wang, Shu; Gan, Jianhou; Cao, Xiaochun | [arXiv:2505.16811](https://arxiv.org/abs/2505.16811) - [DOI](https://doi.org/10.48550/arXiv.2505.16811) |
+
+
+## [DEP-E-20260819-EfficientViT Memory](../DEP-E-20260819-EfficientViT%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention* | Liu, Xinyu; Peng, Houwen; Zheng, Ningxin; Yang, Yuqing; Hu, Han; Yuan, Yixuan | [arXiv:2305.07027](https://arxiv.org/abs/2305.07027) - [DOI](https://doi.org/10.48550/arXiv.2305.07027) |
+
+
+## [DEP-E-20260819-Voice trigger detection](../DEP-E-20260819-Voice%20trigger%20detection/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Voice trigger detection from LVCSR hypothesis lattices using bidirectional lattice recurrent neural networks* | Jeon, Woojay; Liu, Leo; Mason, Henry | [arXiv:2003.00304](https://arxiv.org/abs/2003.00304) - [DOI](https://doi.org/10.1109/ICASSP.2019.8682617) |
+
+
+## [DEP-E-20260819-TAME A Trustworthy](../DEP-E-20260819-TAME%20A%20Trustworthy/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TAME: A Trustworthy Test-Time Evolution of Agent Memory with Systematic Benchmarking* | Cheng, Yu; Hu, Yongkang; Zhou, Jiuan; Zhang, Yushuo; Chen, Yihang; Zhou, Huichi; Chen, Mingang; Zhang, Zhizhong; Shao, Kun; Xie, Yuan; Yin, Zhaoxia | [arXiv:2602.03224](https://arxiv.org/abs/2602.03224) - [DOI](https://doi.org/10.48550/arXiv.2602.03224) |
+
+
+## [DEP-E-20260819-Road Curb Detection Using](../DEP-E-20260819-Road%20Curb%20Detection%20Using/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Road Curb Detection Using A Novel Tensor Voting Algorithm* | Zhu, Yilong; Han, Dong; Xue, Bohuan; Jiao, Jianhao; Zou, Zuhao; Liu, Ming; Fan, Rui | [arXiv:1911.12937](https://arxiv.org/abs/1911.12937) - [DOI](https://doi.org/10.48550/arXiv.1911.12937) |
+
+
+## [DEP-E-20260819-Towards Long-Lived Robots](../DEP-E-20260819-Towards%20Long-Lived%20Robots/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning* | Liu, Yuan; Li, Haoran; Tian, Shuai; Qin, Yuxing; Chen, Yuhui; Zheng, Yupeng; Huang, Yongzhen; Zhao, Dongbin | [arXiv:2602.10503](https://arxiv.org/abs/2602.10503) - [DOI](https://doi.org/10.48550/arXiv.2602.10503) |
+
+
+## [DEP-E-20260819-DeepVerse 4D](../DEP-E-20260819-DeepVerse%204D/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepVerse: 4D Autoregressive Video Generation as a World Model* | Chen, Junyi; Zhu, Haoyi; He, Xianglong; Wang, Yifan; Zhou, Jianjun; Chang, Wenzheng; Zhou, Yang; Li, Zizun; Fu, Zhoujie; Pang, Jiangmiao; He, Tong | [arXiv:2506.01103](https://arxiv.org/abs/2506.01103) - [DOI](https://doi.org/10.48550/arXiv.2506.01103) |
+
+
+## [DEP-E-20260819-An Algorithm for](../DEP-E-20260819-An%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Algorithm for Transmitting VR Video Based on Adaptive Modulation* | Feng, Jie; Wu, Yongpeng; Zhai, Guangtao; Liu, Ning; Zhang, Wenjun | [arXiv:1906.11402](https://arxiv.org/abs/1906.11402) - [DOI](https://doi.org/10.48550/arXiv.1906.11402) |
+
+
+## [DEP-E-20260819-A General Neural Backbone](../DEP-E-20260819-A%20General%20Neural%20Backbone/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention* | Huang, Peixin; Wu, Yaoxin; Ma, Yining; Wu, Cathy; Zhang, Wei; Song, Wen | [arXiv:2601.04509](https://arxiv.org/abs/2601.04509) - [DOI](https://doi.org/10.48550/arXiv.2601.04509) |
+
+
+## [DEP-E-20260819-How Mobile World Model](../DEP-E-20260819-How%20Mobile%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Mobile World Model Guides GUI Agents?* | Xu, Weikai; Huang, Kun; Feng, Yunren; Li, Jiaxing; Chen, Yuhan; Liu, Yuxuan; Jiang, Zhizheng; Qu, Heng; Gao, Pengzhi; Liu, Wei; Luan, Jian; Hu, Xiaolin; An, Bo | [arXiv:2605.10347](https://arxiv.org/abs/2605.10347) - [DOI](https://doi.org/10.48550/arXiv.2605.10347) |
+
+
+## [DEP-E-20260819-CuckooGraph A Scalable](../DEP-E-20260819-CuckooGraph%20A%20Scalable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs* | Fan, Zhuochen; Cai, Yalun; Liu, Zirui; Guo, Jiarui; Fan, Xin; Yang, Tong; Cui, Bin | [arXiv:2405.15193](https://arxiv.org/abs/2405.15193) - [DOI](https://doi.org/10.48550/arXiv.2405.15193) |
+
+
+## [DEP-E-20260819-Enhancing LLM Agents for](../DEP-E-20260819-Enhancing%20LLM%20Agents%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay* | Chen, Yuyang; Zhao, Kaiyan; Wang, Yiming; Yang, Ming; Zhang, Jian; Niu, Xiaoguang | [arXiv:2410.12236](https://arxiv.org/abs/2410.12236) - [DOI](https://doi.org/10.48550/arXiv.2410.12236) |
+
+
+## [DEP-E-20260819-Optimization-Inspired](../DEP-E-20260819-Optimization-Inspired/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization-Inspired Cross-Attention Transformer for Compressive Sensing* | Song, Jiechong; Mou, Chong; Wang, Shiqi; Ma, Siwei; Zhang, Jian | [arXiv:2304.13986](https://arxiv.org/abs/2304.13986) - [DOI](https://doi.org/10.48550/arXiv.2304.13986) |
+
+
+## [DEP-E-20260819-Federated Quantum Long](../DEP-E-20260819-Federated%20Quantum%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Quantum Long Short-term Memory (FedQLSTM)* | Chehimi, Mahdi; Chen, Samuel Yen-Chi; Saad, Walid; Yoo, Shinjae | [arXiv:2312.14309](https://arxiv.org/abs/2312.14309) - [DOI](https://doi.org/10.48550/arXiv.2312.14309) |
+
+
+## [DEP-E-20260819-PALUTE](../DEP-E-20260819-PALUTE/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PALUTE: Processing-In-Memory Acceleration via Lookup Table for Edge LLM Inference* | Tian, Runyang; Chen, Yanru; Xu, Weihong; Rosing, Tajana Šimunić | [arXiv:2606.08891](https://arxiv.org/abs/2606.08891) - [DOI](https://doi.org/10.48550/arXiv.2606.08891) |
+
+
+## [DEP-E-20260819-Task-level](../DEP-E-20260819-Task-level/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval* | Ma, Guangyuan; Ma, Yongliang; Wu, Xing; Su, Zhenpeng; Zhou, Ming; Hu, Songlin | [arXiv:2408.10613](https://arxiv.org/abs/2408.10613) - [DOI](https://doi.org/10.48550/arXiv.2408.10613) |
+
+
+## [DEP-E-20260819-Rethinking Memory](../DEP-E-20260819-Rethinking%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents* | Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; Tan, Zhen; Wang, Yu; Wei, Tianxin; Wu, Shanglin; Xu, Ruiyao; Yang, Liangwei; Yang, Rui; Yang, Wooseong; Yeh, Chin-Yuan; Zhang, Hanrong; Zhang, Haozhen; Zhu, Siqi; Zou, Henry Peng; Zhao, Wanjia; Wang, Song; Xu, Wujiang; Ke, Zixuan; Hui, Zheng; Li, Dawei; Wu, Yaozu; He, Langzhou; Wang, Chen; Xu, Xiongxiao; Huang, Baixiang; Tan, Juntao; Heinecke, Shelby; Wang, Huan; Xiong, Caiming; Metwally, Ahmed A.; Yan, Jun; Lee, Chen-Yu; Zeng, Hanqing; Xia, Yinglong; Wei, Xiaokai; Payani, Ali; Wang, Yu; Ma, Haitong; Wang, Wenya; Wang, Chenguang; Zhang, Yu; Wang, Xin Eric; Zhang, Yongfeng; You, Jiaxuan; Tong, Hanghang; Luo, Xiao; Liu, Xue; Sun, Yizhou; Wang, Wei; McAuley, Julian; Zou, James; Han, Jiawei; Yu, Philip S.; Shu, Kai | [arXiv:2602.06052](https://arxiv.org/abs/2602.06052) - [DOI](https://doi.org/10.48550/arXiv.2602.06052) |
+
+
+## [DEP-E-20260819-Global Adaptive Routing](../DEP-E-20260819-Global%20Adaptive%20Routing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Global Adaptive Routing Algorithm Without Additional Congestion Propagation Network* | Liu, Shaoli; Chen, Yunji; Chen, Tianshi; Li, Ling; Lu, Chao | [arXiv:1208.0384](https://arxiv.org/abs/1208.0384) - [DOI](https://doi.org/10.48550/arXiv.1208.0384) |
+
+
+## [DEP-E-20260819-How Do Adam and Training](../DEP-E-20260819-How%20Do%20Adam%20and%20Training/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Do Adam and Training Strategies Help BNNs Optimization?* | Liu, Zechun; Shen, Zhiqiang; Li, Shichao; Helwegen, Koen; Huang, Dong; Cheng, Kwang-Ting | [arXiv:2106.11309](https://arxiv.org/abs/2106.11309) - [DOI](https://doi.org/10.48550/arXiv.2106.11309) |
+
+
+## [DEP-E-20260819-VerIPO Cultivating Long](../DEP-E-20260819-VerIPO%20Cultivating%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization* | Li, Yunxin; Chen, Xinyu; Li, Zitao; Liu, Zhenyu; Wang, Longyue; Luo, Wenhan; Hu, Baotian; Zhang, Min | [arXiv:2505.19000](https://arxiv.org/abs/2505.19000) - [DOI](https://doi.org/10.48550/arXiv.2505.19000) |
+
+
+## [DEP-E-20260819-Algorithm-Relative](../DEP-E-20260819-Algorithm-Relative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Algorithm-Relative Trajectory Valuation in Policy Gradient Control* | Li, Shihao; Li, Jiachen; Xu, Jiamin; Martin, Christopher; Li, Wei; Chen, Dongmei | [arXiv:2511.07878](https://arxiv.org/abs/2511.07878) - [DOI](https://doi.org/10.48550/arXiv.2511.07878) |
+
+
+## [DEP-E-20260819-Disentangled World Models](../DEP-E-20260819-Disentangled%20World%20Models/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning* | Wang, Qi; Zhang, Zhipeng; Xie, Baao; Jin, Xin; Wang, Yunbo; Wang, Shiyu; Zheng, Liaomo; Yang, Xiaokang; Zeng, Wenjun | [arXiv:2503.08751](https://arxiv.org/abs/2503.08751) - [DOI](https://doi.org/10.48550/arXiv.2503.08751) |
+
+
+## [DEP-E-20260819-Parameterizing Federated](../DEP-E-20260819-Parameterizing%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parameterizing Federated Continual Learning for Reproducible Research* | Cox, Bart; Galjaard, Jeroen; Shankar, Aditya; Decouchant, Jérémie; Chen, Lydia Y. | [arXiv:2406.02015](https://arxiv.org/abs/2406.02015) - [DOI](https://doi.org/10.48550/arXiv.2406.02015) |
+
+
+## [DEP-E-20260819-Flash-GRPO Efficient](../DEP-E-20260819-Flash-GRPO%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization* | He, Xiaoxuan; Fu, Siming; Xue, Zeyue; Wang, Weijie; He, Ruizhe; Li, Yuming; Yin, Dacheng; Dong, Shuai; Huang, Haoyang; Wang, Hongfa; Duan, Nan; Zhuang, Bohan | [arXiv:2605.15980](https://arxiv.org/abs/2605.15980) - [DOI](https://doi.org/10.48550/arXiv.2605.15980) |
+
+
+## [DEP-E-20260819-MAO-ARAG Multi-Agent](../DEP-E-20260819-MAO-ARAG%20Multi-Agent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation* | Chen, Yiqun; Zhang, Erhan; Yan, Lingyong; Wang, Shuaiqiang; Huang, Jizhou; Yin, Dawei; Mao, Jiaxin | [arXiv:2508.01005](https://arxiv.org/abs/2508.01005) - [DOI](https://doi.org/10.48550/arXiv.2508.01005) |
+
+
+## [DEP-E-20260819-Enhancing the Cross-Size](../DEP-E-20260819-Enhancing%20the%20Cross-Size/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing the Cross-Size Generalization for Solving Vehicle Routing Problems via Continual Learning* | Li, Jingwen; Cao, Zhiguang; Wu, Yaoxin; Liu, Tang | [arXiv:2510.10262](https://arxiv.org/abs/2510.10262) - [DOI](https://doi.org/10.48550/arXiv.2510.10262) |
+
+
+## [DEP-E-20260819-Just Say What You Want](../DEP-E-20260819-Just%20Say%20What%20You%20Want/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Just Say What You Want: Only-prompting Self-rewarding Online Preference Optimization* | Xu, Ruijie; Liu, Zhihan; Liu, Yongfei; Yan, Shipeng; Wang, Zhaoran; Zhang, Zhi; He, Xuming | [arXiv:2409.17534](https://arxiv.org/abs/2409.17534) - [DOI](https://doi.org/10.48550/arXiv.2409.17534) |
+
+
+## [DEP-E-20260819-GDPO-SR Group Direct](../DEP-E-20260819-GDPO-SR%20Group%20Direct/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution* | Yi, Qiaosi; Li, Shuai; Wu, Rongyuan; Sun, Lingchen; Zhang, Zhengqiang; Zhang, Lei | [arXiv:2603.16769](https://arxiv.org/abs/2603.16769) - [DOI](https://doi.org/10.48550/arXiv.2603.16769) |
+
+
+## [DEP-E-20260819-Surrogate Ensemble in](../DEP-E-20260819-Surrogate%20Ensemble%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning* | Wu, Yuxin; Guo, Hongshu; Huang, Ting; Gong, Yue-Jiao; Ma, Zeyuan | [arXiv:2602.00540](https://arxiv.org/abs/2602.00540) - [DOI](https://doi.org/10.48550/arXiv.2602.00540) |
+
+
+## [DEP-E-20260819-RoRA-VLM Robust](../DEP-E-20260819-RoRA-VLM%20Robust/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoRA-VLM: Robust Retrieval-Augmented Vision Language Models* | Qi, Jingyuan; Xu, Zhiyang; Shao, Rulin; Chen, Yang; Di, Jin; Cheng, Yu; Wang, Qifan; Huang, Lifu | [arXiv:2410.08876](https://arxiv.org/abs/2410.08876) - [DOI](https://doi.org/10.48550/arXiv.2410.08876) |
+
+
+## [DEP-E-20260819-Minimax Optimal Online](../DEP-E-20260819-Minimax%20Optimal%20Online/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Minimax Optimal Online Imitation Learning via Replay Estimation* | Swamy, Gokul; Rajaraman, Nived; Peng, Matthew; Choudhury, Sanjiban; Bagnell, J. Andrew; Wu, Zhiwei Steven; Jiao, Jiantao; Ramchandran, Kannan | [arXiv:2205.15397](https://arxiv.org/abs/2205.15397) - [DOI](https://doi.org/10.48550/arXiv.2205.15397) |
+
+
+## [DEP-E-20260819-Distributional Successor](../DEP-E-20260819-Distributional%20Successor/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distributional Successor Features Enable Zero-Shot Policy Optimization* | Zhu, Chuning; Wang, Xinqi; Han, Tyler; Du, Simon S.; Gupta, Abhishek | [arXiv:2403.06328](https://arxiv.org/abs/2403.06328) - [DOI](https://doi.org/10.48550/arXiv.2403.06328) |
+
+
+## [DEP-E-20260819-HGOT Hierarchical Graph](../DEP-E-20260819-HGOT%20Hierarchical%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation* | Fang, Yihao; Thomas, Stephen W.; Zhu, Xiaodan | [arXiv:2402.09390](https://arxiv.org/abs/2402.09390) - [DOI](https://doi.org/10.48550/arXiv.2402.09390) |
+
+
+## [DEP-E-20260819-BERGEN A Benchmarking](../DEP-E-20260819-BERGEN%20A%20Benchmarking/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BERGEN: A Benchmarking Library for Retrieval-Augmented Generation* | Rau, David; Déjean, Hervé; Chirkova, Nadezhda; Formal, Thibault; Wang, Shuai; Nikoulina, Vassilina; Clinchant, Stéphane | [arXiv:2407.01102](https://arxiv.org/abs/2407.01102) - [DOI](https://doi.org/10.48550/arXiv.2407.01102) |
+
+
+## [DEP-E-20260819-Zeroth-Order Stochastic](../DEP-E-20260819-Zeroth-Order%20Stochastic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Zeroth-Order Stochastic Mirror Descent Algorithms for Minimax Excess Risk Optimization* | Gu, Zhihao; Xu, Zi | [arXiv:2408.12209](https://arxiv.org/abs/2408.12209) - [DOI](https://doi.org/10.48550/arXiv.2408.12209) |
+
+
+## [DEP-E-20260819-VideoRAG](../DEP-E-20260819-VideoRAG/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos* | Ren, Xubin; Xu, Lingrui; Xia, Long; Wang, Shuaiqiang; Yin, Dawei; Huang, Chao | [arXiv:2502.01549](https://arxiv.org/abs/2502.01549) - [DOI](https://doi.org/10.48550/arXiv.2502.01549) |
+
+
+## [DEP-E-20260819-Evolving-RL End-to-End](../DEP-E-20260819-Evolving-RL%20End-to-End/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability within Agents* | Fan, Zhiyuan; Jin, Wenwei; Zhang, Feng; Li, Bin; Dong, Yihong; Hu, Yao; Li, Jiawei | [arXiv:2605.10663](https://arxiv.org/abs/2605.10663) - [DOI](https://doi.org/10.48550/arXiv.2605.10663) |
+
+
+## [DEP-E-20260819-Towards Understanding](../DEP-E-20260819-Towards%20Understanding/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization* | Liu, Tianyi; Li, Shiyang; Shi, Jianping; Zhou, Enlu; Zhao, Tuo | [arXiv:1806.01660](https://arxiv.org/abs/1806.01660) - [DOI](https://doi.org/10.48550/arXiv.1806.01660) |
+
+
+## [DEP-E-20260819-Optimality Analysis and](../DEP-E-20260819-Optimality%20Analysis%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimality Analysis and Block Sparse Algorithm for Complex Compressed Sensing* | Zhang, Hui; Liu, Xin; Xiu, Naihua | [arXiv:2208.14666](https://arxiv.org/abs/2208.14666) - [DOI](https://doi.org/10.48550/arXiv.2208.14666) |
+
+
+## [DEP-E-20260819-VPO Aligning](../DEP-E-20260819-VPO%20Aligning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VPO: Aligning Text-to-Video Generation Models with Prompt Optimization* | Cheng, Jiale; Lyu, Ruiliang; Gu, Xiaotao; Liu, Xiao; Xu, Jiazheng; Lu, Yida; Teng, Jiayan; Yang, Zhuoyi; Dong, Yuxiao; Tang, Jie; Wang, Hongning; Huang, Minlie | [arXiv:2503.20491](https://arxiv.org/abs/2503.20491) - [DOI](https://doi.org/10.48550/arXiv.2503.20491) |
+
+
+## [DEP-E-20260819-EvolveGen Algorithmic](../DEP-E-20260819-EvolveGen%20Algorithmic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EvolveGen: Algorithmic Level Hardware Model Checking Benchmark Generation through Reinforcement Learning* | Hu, Guangyu; Zhou, Xiaofeng; Zhang, Wei; Zhang, Hongce | [arXiv:2602.22609](https://arxiv.org/abs/2602.22609) - [DOI](https://doi.org/10.48550/arXiv.2602.22609) |
+
+
+## [DEP-E-20260819-Joint Optimization of](../DEP-E-20260819-Joint%20Optimization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Optimization of Spectrum and Energy Efficiency Considering the C-V2X Security: A Deep Reinforcement Learning Approach* | Liu, Zhipeng; Han, Yinhui; Fan, Jianwei; Zhang, Lin; Lin, Yunzhi | [arXiv:2003.10620](https://arxiv.org/abs/2003.10620) - [DOI](https://doi.org/10.48550/arXiv.2003.10620) |
+
+
+## [DEP-E-20260819-Grounded Answers for](../DEP-E-20260819-Grounded%20Answers%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Grounded Answers for Multi-agent Decision-making Problem through Generative World Model* | Liu, Zeyang; Yang, Xinrui; Sun, Shiguang; Qian, Long; Wan, Lipeng; Chen, Xingyu; Lan, Xuguang | [arXiv:2410.02664](https://arxiv.org/abs/2410.02664) - [DOI](https://doi.org/10.48550/arXiv.2410.02664) |
+
+
+## [DEP-E-20260819-Tensor Robust Principal](../DEP-E-20260819-Tensor%20Robust%20Principal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization* | Lu, Canyi; Feng, Jiashi; Chen, Yudong; Liu, Wei; Lin, Zhouchen; Yan, Shuicheng | [arXiv:1708.04181](https://arxiv.org/abs/1708.04181) - [DOI](https://doi.org/10.48550/arXiv.1708.04181) |
+
+
+## [DEP-E-20260819-Convergence Analysis of](../DEP-E-20260819-Convergence%20Analysis%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Convergence Analysis of Distributed Inference with Vector-Valued Gaussian Belief Propagation* | Du, Jian; Ma, Shaodan; Wu, Yik-Chung; Kar, Soummya; Moura, José M. F. | [arXiv:1611.02010](https://arxiv.org/abs/1611.02010) - [DOI](https://doi.org/10.48550/arXiv.1611.02010) |
+
+
+## [DEP-E-20260819-Hierarchical World Models](../DEP-E-20260819-Hierarchical%20World%20Models/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical World Models as Visual Whole-Body Humanoid Controllers* | Hansen, Nicklas; S V, Jyothir; Sobal, Vlad; LeCun, Yann; Wang, Xiaolong; Su, Hao | [arXiv:2405.18418](https://arxiv.org/abs/2405.18418) - [DOI](https://doi.org/10.48550/arXiv.2405.18418) |
+
+
+## [DEP-E-20260819-RAPO Cross-Stage Prompt](../DEP-E-20260819-RAPO%20Cross-Stage%20Prompt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling* | Gao, Bingjie; Ma, Qianli; Wu, Xiaoxue; Yang, Shuai; Lan, Guanzhou; Zhao, Haonan; Chen, Jiaxuan; Liu, Qingyang; Qiao, Yu; Chen, Xinyuan; Wang, Yaohui; Niu, Li | [arXiv:2510.20206](https://arxiv.org/abs/2510.20206) - [DOI](https://doi.org/10.48550/arXiv.2510.20206) |
+
+
+## [DEP-E-20260819-DFWLayer Differentiable](../DEP-E-20260819-DFWLayer%20Differentiable/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DFWLayer: Differentiable Frank-Wolfe Optimization Layer* | Liu, Zixuan; Liu, Liu; Wang, Xueqian; Zhao, Peilin | [arXiv:2308.10806](https://arxiv.org/abs/2308.10806) - [DOI](https://doi.org/10.48550/arXiv.2308.10806) |
+
+
+## [DEP-E-20260819-A Multi-parameter](../DEP-E-20260819-A%20Multi-parameter/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Multi-parameter Updating Fourier Online Gradient Descent Algorithm for Large-scale Nonlinear Classification* | Chen, Yigying | [arXiv:2203.08349](https://arxiv.org/abs/2203.08349) - [DOI](https://doi.org/10.48550/arXiv.2203.08349) |
+
+
+## [DEP-E-20260819-Do Less Achieve More Do](../DEP-E-20260819-Do%20Less%20Achieve%20More%20Do/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?* | Yan, Renye; Cheng, Jikang; Sun, Shikun; Sun, Yi; Wu, You; Peng, Wei; Wang, Zongwei; Liang, Ling; Xing, Junliang; Cai, Yimao | [arXiv:2605.15855](https://arxiv.org/abs/2605.15855) - [DOI](https://doi.org/10.48550/arXiv.2605.15855) |
+
+
+## [DEP-E-20260819-Semantics-Enhanced](../DEP-E-20260819-Semantics-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantics-Enhanced Retrieval-Augmented Time Series Forecasting* | Zhou, Shiqiao; Wu, Zipeng; Schöner, Holger; Fouché, Edouard; Wilson, IAG; Wang, Shuo | [arXiv:2606.14941](https://arxiv.org/abs/2606.14941) - [DOI](https://doi.org/10.48550/arXiv.2606.14941) |
+
+
+## [DEP-E-20260819-Decentralized 07351](../DEP-E-20260819-Decentralized%2007351/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking* | Chen, Jun; Liu, Lina; Zhu, Tianyi; Liu, Yong; Dai, Guang; Jiang, Yunliang; Tsang, Ivor W. | [arXiv:2506.07351](https://arxiv.org/abs/2506.07351) - [DOI](https://doi.org/10.48550/arXiv.2506.07351) |
+
+
+## [DEP-E-20260819-Energy-Constrained](../DEP-E-20260819-Energy-Constrained/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Constrained Computation Offloading in Space-Air-Ground Integrated Networks using Distributionally Robust Optimization* | Chen, Yali; Ai, Bo; Niu, Yong; Zhang, Hongliang; Han, Zhu | [arXiv:2206.02319](https://arxiv.org/abs/2206.02319) - [DOI](https://doi.org/10.48550/arXiv.2206.02319) |
+
+
+## [DEP-E-20260819-Communication- and](../DEP-E-20260819-Communication-%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Communication- and Computation-Efficient Distributed Submodular Optimization in Robot Mesh Networks* | Xu, Zirui; Garimella, Sandilya Sai; Tzoumas, Vasileios | [arXiv:2407.10382](https://arxiv.org/abs/2407.10382) - [DOI](https://doi.org/10.48550/arXiv.2407.10382) |
+
+
+## [DEP-E-20260819-LPO Towards Accurate GUI](../DEP-E-20260819-LPO%20Towards%20Accurate%20GUI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization* | Tang, Jiaqi; Xia, Yu; Wu, Yi-Feng; Hu, Yuwei; Chen, Yuhui; Chen, Qing-Guo; Xu, Xiaogang; Wu, Xiangyu; Lu, Hao; Ma, Yanqing; Lu, Shiyin; Chen, Qifeng | [arXiv:2506.09373](https://arxiv.org/abs/2506.09373) - [DOI](https://doi.org/10.48550/arXiv.2506.09373) |
+
+
+## [DEP-E-20260819-EOE Evolutionary](../DEP-E-20260819-EOE%20Evolutionary/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EOE: Evolutionary Optimization of Experts for Training Language Models* | Chen, Yingshi | [arXiv:2509.24436](https://arxiv.org/abs/2509.24436) - [DOI](https://doi.org/10.48550/arXiv.2509.24436) |
+
+
+## [DEP-E-20260819-NEO Saving GPU Memory](../DEP-E-20260819-NEO%20Saving%20GPU%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference* | Jiang, Xuanlin; Zhou, Yang; Cao, Shiyi; Stoica, Ion; Yu, Minlan | [arXiv:2411.01142](https://arxiv.org/abs/2411.01142) - [DOI](https://doi.org/10.48550/arXiv.2411.01142) |
+
+
+## [DEP-E-20260819-Building Autonomous GUI](../DEP-E-20260819-Building%20Autonomous%20GUI/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization* | Wang, Yibo; Huzhang, Guangda; Hu, Yuwei; Xia, Yu; Lu, Shiyin; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhang, Lijun | [arXiv:2602.13653](https://arxiv.org/abs/2602.13653) - [DOI](https://doi.org/10.48550/arXiv.2602.13653) |
+
+
+## [DEP-E-20260819-Inverse Neural Operator](../DEP-E-20260819-Inverse%20Neural%20Operator/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Inverse Neural Operator for ODE Parameter Optimization* | Liu, Zhi-Song; Peng, Wenqing; Toropainen, Helmi; Kheder, Ammar; Rupp, Andreas; Froning, Holger; Lin, Xiaojie; Boy, Michael | [arXiv:2603.11854](https://arxiv.org/abs/2603.11854) - [DOI](https://doi.org/10.48550/arXiv.2603.11854) |
+
+
+## [DEP-E-20260819-Support-Proximity](../DEP-E-20260819-Support-Proximity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization* | Yang, Yonghan; Yuan, Ye; Sun, Zipeng; Du, Linfeng; He, Bowei; Wu, Haolun; Chen, Can; Liu, Xue | [arXiv:2605.11246](https://arxiv.org/abs/2605.11246) - [DOI](https://doi.org/10.48550/arXiv.2605.11246) |
+
+
+## [DEP-E-20260819-Wings Learning Multimodal](../DEP-E-20260819-Wings%20Learning%20Multimodal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Wings: Learning Multimodal LLMs without Text-only Forgetting* | Zhang, Yi-Kai; Lu, Shiyin; Li, Yang; Ma, Yanqing; Chen, Qing-Guo; Xu, Zhao; Luo, Weihua; Zhang, Kaifu; Zhan, De-Chuan; Ye, Han-Jia | [arXiv:2406.03496](https://arxiv.org/abs/2406.03496) - [DOI](https://doi.org/10.48550/arXiv.2406.03496) |
+
+
+## [DEP-E-20260819-ControlSynth Neural ODEs](../DEP-E-20260819-ControlSynth%20Neural%20ODEs/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence* | Mei, Wenjie; Zheng, Dongzhe; Li, Shihua | [arXiv:2411.02292](https://arxiv.org/abs/2411.02292) - [DOI](https://doi.org/10.48550/arXiv.2411.02292) |
+
+
+## [DEP-E-20260819-Multiobjective](../DEP-E-20260819-Multiobjective/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods* | Wang, Xianpeng; Dong, Zhiming; Tang, Lixin; Zhang, Qingfu | [arXiv:2101.07548](https://arxiv.org/abs/2101.07548) - [DOI](https://doi.org/10.48550/arXiv.2101.07548) |
+
+
+## [DEP-E-20260819-MetaCLBench Meta](../DEP-E-20260819-MetaCLBench%20Meta/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices* | Li, Sijia; Kwon, Young D.; Lee, Lik-Hang; Hui, Pan | [arXiv:2504.00174](https://arxiv.org/abs/2504.00174) - [DOI](https://doi.org/10.48550/arXiv.2504.00174) |
+
+
+## [DEP-E-20260819-UDON Uncertainty-weighted](../DEP-E-20260819-UDON%20Uncertainty-weighted/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UDON: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints* | Zhao, Hongrui; Zhou, Xunlan; Ivanovic, Boris; Mehr, Negar | [arXiv:2509.12702](https://arxiv.org/abs/2509.12702) - [DOI](https://doi.org/10.48550/arXiv.2509.12702) |
+
+
+## [DEP-E-20260819-Knowledge Graph](../DEP-E-20260819-Knowledge%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* | Wang, Shijie; Fan, Wenqi; Feng, Yue; Lin, Shanru; Ma, Xinyu; Wang, Shuaiqiang; Yin, Dawei | [arXiv:2501.02226](https://arxiv.org/abs/2501.02226) - [DOI](https://doi.org/10.48550/arXiv.2501.02226) |
+
+
+## [DEP-E-20260819-STEP Success-Rate-Aware](../DEP-E-20260819-STEP%20Success-Rate-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization* | Chen, Yuhan; Liu, Yuxuan; Zhang, Long; Gao, Pengzhi; Luan, Jian; Liu, Wei | [arXiv:2511.13091](https://arxiv.org/abs/2511.13091) - [DOI](https://doi.org/10.48550/arXiv.2511.13091) |
+
+
+## [DEP-E-20260819-Instant Continual](../DEP-E-20260819-Instant%20Continual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Instant Continual Learning of Neural Radiance Fields* | Po, Ryan; Dong, Zhengyang; Bergman, Alexander W.; Wetzstein, Gordon | [arXiv:2309.01811](https://arxiv.org/abs/2309.01811) - [DOI](https://doi.org/10.48550/arXiv.2309.01811) |
+
+
+## [DEP-E-20260819-HGATSolver A](../DEP-E-20260819-HGATSolver%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction* | Zhang, Qin-Yi; Wang, Hong; Liu, Siyao; Lin, Haichuan; Cao, Linying; Zhou, Xiao-Hu; Chen, Chen; Wang, Shuangyi; Hou, Zeng-Guang | [arXiv:2601.09251](https://arxiv.org/abs/2601.09251) - [DOI](https://doi.org/10.1609/aaai.v40i2.37129) |
+
+
+## [DEP-E-20260819-Joint Active and Passive](../DEP-E-20260819-Joint%20Active%20and%20Passive/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Active and Passive Beamforming Optimization for Beyond Diagonal RIS-aided Multi-User Communications* | Zhou, Xiaohua; Fang, Tianyu; Mao, Yijie | [arXiv:2501.10227](https://arxiv.org/abs/2501.10227) - [DOI](https://doi.org/10.1109/LCOMM.2025.3528968) |
+
+
+## [DEP-E-20260819-Trustworthiness in](../DEP-E-20260819-Trustworthiness%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Trustworthiness in Retrieval-Augmented Generation Systems: A Survey* | Zhou, Yujia; Zhang, Wenbo; Shao, Jingying; Liu, Yan; Li, Xiaoxi; Jin, Jiajie; Qian, Hongjin; Liu, Zheng; Li, Chaozhuo; Zhang, Jason Chen; Dou, Zhicheng; Yu, Philip S.; Mao, Jiaxin | [arXiv:2409.10102](https://arxiv.org/abs/2409.10102) - [DOI](https://doi.org/10.48550/arXiv.2409.10102) |
+
+
+## [DEP-E-20260819-Semantic Integrity](../DEP-E-20260819-Semantic%20Integrity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression* | Liu, Xiang; Tang, Zhenheng; Chen, Hong; Dong, Peijie; Li, Zeyu; Zhou, Xiuze; Li, Bo; Hu, Xuming; Chu, Xiaowen | [arXiv:2502.01941](https://arxiv.org/abs/2502.01941) - [DOI](https://doi.org/10.48550/arXiv.2502.01941) |
+
+
+## [DEP-E-20260819-AutoPP Towards Automated](../DEP-E-20260819-AutoPP%20Towards%20Automated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AutoPP: Towards Automated Product Poster Generation and Optimization* | Fan, Jiahao; Qin, Yuxin; Feng, Wei; Chen, Yanyin; Li, Yaoyu; Ma, Ao; Li, Yixiu; Zhuang, Li; Bian, Haoyi; Zhang, Zheng; Lv, Jingjing; Shen, Junjie; Law, Ching | [arXiv:2512.21921](https://arxiv.org/abs/2512.21921) - [DOI](https://doi.org/10.48550/arXiv.2512.21921) |
+
+
+## [DEP-E-20260819-VDPC Variational Density](../DEP-E-20260819-VDPC%20Variational%20Density/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VDPC: Variational Density Peak Clustering Algorithm* | Wang, Yizhang; Wang, Di; Zhou, You; Zhang, Xiaofeng; Quek, Chai | [arXiv:2201.00641](https://arxiv.org/abs/2201.00641) - [DOI](https://doi.org/10.48550/arXiv.2201.00641) |
+
+
+## [DEP-E-20260819-An Efficient Algori 08841](../DEP-E-20260819-An%20Efficient%20Algori%2008841/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Algorithm for Matrix-Valued and Vector-Valued Optimal Mass Transport* | Chen, Yongxin; Haber, Eldad; Yamamoto, Kaoru; Georgiou, Tryphon T.; Tannenbaum, Allen | [arXiv:1706.08841](https://arxiv.org/abs/1706.08841) - [DOI](https://doi.org/10.48550/arXiv.1706.08841) |
+
+
+## [DEP-E-20260819-TreePO Bridging the Gap](../DEP-E-20260819-TreePO%20Bridging%20the%20Gap/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling* | Li, Yizhi; Gu, Qingshui; Wen, Zhoufutu; Li, Ziniu; Xing, Tianshun; Guo, Shuyue; Zheng, Tianyu; Zhou, Xin; Qu, Xingwei; Zhou, Wangchunshu; Zhang, Zheng; Shen, Wei; Liu, Qian; Lin, Chenghua; Yang, Jian; Zhang, Ge; Huang, Wenhao | [arXiv:2508.17445](https://arxiv.org/abs/2508.17445) - [DOI](https://doi.org/10.48550/arXiv.2508.17445) |
+
+
+## [DEP-E-20260819-ReMoDiffuse](../DEP-E-20260819-ReMoDiffuse/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model* | Zhang, Mingyuan; Guo, Xinying; Pan, Liang; Cai, Zhongang; Hong, Fangzhou; Li, Huirong; Yang, Lei; Liu, Ziwei | [arXiv:2304.01116](https://arxiv.org/abs/2304.01116) - [DOI](https://doi.org/10.48550/arXiv.2304.01116) |
+
+
+## [DEP-E-20260819-Adversarial](../DEP-E-20260819-Adversarial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis* | Chen, Yu; He, Botao; Mao, Yuemin; Jakobsson, Arthur; Ke, Jeffrey; Aloimonos, Yiannis; Shi, Guanya; Choset, Howie; Mao, Jiayuan; Ichnowski, Jeffrey | [arXiv:2511.05809](https://arxiv.org/abs/2511.05809) - [DOI](https://doi.org/10.48550/arXiv.2511.05809) |
+
+
+## [DEP-E-20260819-Rethink AI-based Power](../DEP-E-20260819-Rethink%20AI-based%20Power/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Rethink AI-based Power Grid Control: Diving Into Algorithm Design* | Zhou, Xiren; Wang, Siqi; Diao, Ruisheng; Bian, Desong; Duan, Jiahui; Shi, Di | [arXiv:2012.13026](https://arxiv.org/abs/2012.13026) - [DOI](https://doi.org/10.48550/arXiv.2012.13026) |
+
+
+## [DEP-E-20260819-DRL-Based Antenna](../DEP-E-20260819-DRL-Based%20Antenna/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DRL-Based Antenna Position Optimization For MA-Assisted OTFS System Under Imperfect CSI* | Wang, Maoyuan; Zhang, Qian; Zhao, Yufei; Cheng, Xuejun; Dong, Zheng; Wang, Deqiang; Guan, Yong Liang | [arXiv:2604.23611](https://arxiv.org/abs/2604.23611) - [DOI](https://doi.org/10.48550/arXiv.2604.23611) |
+
+
+## [DEP-E-20260819-Overcoming Long-term](../DEP-E-20260819-Overcoming%20Long-term/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation* | Peng, Jian; Tang, Bo; Jiang, Hao; Li, Zhuo; Lei, Yinjie; Lin, Tao; Li, Haifeng | [arXiv:1912.09091](https://arxiv.org/abs/1912.09091) - [DOI](https://doi.org/10.1109/TNNLS.2021.3056201) |
+
+
+## [DEP-E-20260819-Supervised and](../DEP-E-20260819-Supervised%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Supervised and Unsupervised Neural Network Solver for First Order Hyperbolic Nonlinear PDEs* | Baba, Zakaria; Bayen, Alexandre M.; Canesse, Alexi; Monache, Maria Laura Delle; Drieux, Martin; Fu, Zhe; Lichtlé, Nathan; Liu, Zihe; Matin, Hossein Nick Zinat; Piccoli, Benedetto | [arXiv:2601.06388](https://arxiv.org/abs/2601.06388) - [DOI](https://doi.org/10.48550/arXiv.2601.06388) |
+
+
+## [DEP-E-20260819-Selective Weak](../DEP-E-20260819-Selective%20Weak/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Selective Weak Supervision for Neural Information Retrieval* | Zhang, Kaitao; Xiong, Chenyan; Liu, Zhenghao; Liu, Zhiyuan | [arXiv:2001.10382](https://arxiv.org/abs/2001.10382) - [DOI](https://doi.org/10.1145/3366423.3380131) |
+
+
+## [DEP-E-20260819-When to Trust A](../DEP-E-20260819-When%20to%20Trust%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation* | Ren, Jing; Li, Bowen; Xu, Ziqi; Zhang, Xikun; Fayek, Haytham; Li, Xiaodong | [arXiv:2601.09241](https://arxiv.org/abs/2601.09241) - [DOI](https://doi.org/10.48550/arXiv.2601.09241) |
+
+
+## [DEP-E-20260819-Think Before You Act](../DEP-E-20260819-Think%20Before%20You%20Act/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think Before You Act: Decision Transformers with Working Memory* | Kang, Jikun; Laroche, Romain; Yuan, Xingdi; Trischler, Adam; Liu, Xue; Fu, Jie | [arXiv:2305.16338](https://arxiv.org/abs/2305.16338) - [DOI](https://doi.org/10.48550/arXiv.2305.16338) |
+
+
+## [DEP-E-20260819-Conjecture and Inquiry](../DEP-E-20260819-Conjecture%20and%20Inquiry/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation* | Wang, Shihai; Chen, Tao | [arXiv:2604.21380](https://arxiv.org/abs/2604.21380) - [DOI](https://doi.org/10.48550/arXiv.2604.21380) |
+
+
+## [DEP-E-20260819-TAO-Attack Toward](../DEP-E-20260819-TAO-Attack%20Toward/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models* | Xu, Zhi; Li, Jiaqi; Zhang, Xiaotong; Yu, Hong; Liu, Han | [arXiv:2603.03081](https://arxiv.org/abs/2603.03081) - [DOI](https://doi.org/10.48550/arXiv.2603.03081) |
+
+
+## [DEP-E-20260819-Energy-Delay Tradeoff in](../DEP-E-20260819-Energy-Delay%20Tradeoff%20in/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Energy-Delay Tradeoff in Helper-Assisted NOMA-MEC Systems: A Four-Sided Matching Algorithm* | Ren, Mengmeng; Yang, Long; Jiang, Hai; Chen, Jian; Zhou, Yuchen | [arXiv:2301.10624](https://arxiv.org/abs/2301.10624) - [DOI](https://doi.org/10.48550/arXiv.2301.10624) |
+
+
+## [DEP-E-20260819-CDIO Cross-Domain](../DEP-E-20260819-CDIO%20Cross-Domain/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *CDIO: Cross-Domain Inference Optimization with Resource Preference Prediction for Edge-Cloud Collaboration* | Yang, Zheming; Ji, Wen; Guo, Qi; Hu, Dieli; Zhao, Chang; Li, Xiaowei; Zhao, Xuanlei; Zhao, Yi; Gong, Chaoyu; You, Yang | [arXiv:2502.04078](https://arxiv.org/abs/2502.04078) - [DOI](https://doi.org/10.48550/arXiv.2502.04078) |
+
+
+## [DEP-E-20260819-Adaptive dynamic](../DEP-E-20260819-Adaptive%20dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adaptive dynamic programming for nonaffine nonlinear optimal control problem with state constraints* | Duan, Jingliang; Liu, Zhengyu; Li, Shengbo Eben; Sun, Qi; Jia, Zhenzhong; Cheng, Bo | [arXiv:1911.11397](https://arxiv.org/abs/1911.11397) - [DOI](https://doi.org/10.1016/j.neucom.2021.04.134) |
+
+
+## [DEP-E-20260819-A Fast Algorithm for](../DEP-E-20260819-A%20Fast%20Algorithm%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Fast Algorithm for Onboard Atmospheric Powered Descent Guidance* | Chen, Yushu; Yang, Guangwen; Wang, Lu; Gan, Qingzhong; Chen, Haipeng; Xu, Quanyong | [arXiv:2209.04157](https://arxiv.org/abs/2209.04157) - [DOI](https://doi.org/10.1109/TAES.2023.3271961) |
+
+
+## [DEP-E-20260819-Dendritic Localized](../DEP-E-20260819-Dendritic%20Localized/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dendritic Localized Learning: Toward Biologically Plausible Algorithm* | Lv, Changze; Xu, Jingwen; Lu, Yiyang; Wang, Xiaohua; Wang, Zhenghua; Xu, Zhibo; Yu, Di; Du, Xin; Zheng, Xiaoqing; Huang, Xuanjing | [arXiv:2501.09976](https://arxiv.org/abs/2501.09976) - [DOI](https://doi.org/10.48550/arXiv.2501.09976) |
+
+
+## [DEP-E-20260819-Optimizing Memory](../DEP-E-20260819-Optimizing%20Memory/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms* | Zhou, Ao; Yang, Jianlei; Gao, Yeqi; Qiao, Tong; Qi, Yingjie; Wang, Xiaoyi; Chen, Yunli; Dai, Pengcheng; Zhao, Weisheng; Hu, Chunming | [arXiv:2104.03058](https://arxiv.org/abs/2104.03058) - [DOI](https://doi.org/10.48550/arXiv.2104.03058) |
+
+
+## [DEP-E-20260819-Distill-VQ Learning](../DEP-E-20260819-Distill-VQ%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings* | Xiao, Shitao; Liu, Zheng; Han, Weihao; Zhang, Jianjin; Lian, Defu; Gong, Yeyun; Chen, Qi; Yang, Fan; Sun, Hao; Shao, Yingxia; Deng, Denvy; Zhang, Qi; Xie, Xing | [arXiv:2204.00185](https://arxiv.org/abs/2204.00185) - [DOI](https://doi.org/10.48550/arXiv.2204.00185) |
+
+
+## [DEP-E-20260819-DIAL Decoupling Intent](../DEP-E-20260819-DIAL%20Decoupling%20Intent/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA* | Chen, Yi; Ge, Yuying; Zhou, Hui; Ding, Mingyu; Ge, Yixiao; Liu, Xihui | [arXiv:2603.29844](https://arxiv.org/abs/2603.29844) - [DOI](https://doi.org/10.48550/arXiv.2603.29844) |
+
+
+## [DEP-E-20260819-Online World Modeling](../DEP-E-20260819-Online%20World%20Modeling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online World Modeling Enables Real-World Inverse Reinforcement Learning from Observation* | Han, Tyler; Nemekhbold, Bat; Shen, Siyang; Baijal, Rohan; Ebock, Richard; Ravichandiran, Harine; Jung, Sanghun; Huang, Kevin; Boots, Byron | [arXiv:2602.24121](https://arxiv.org/abs/2602.24121) - [DOI](https://doi.org/10.48550/arXiv.2602.24121) |
+
+
+## [DEP-E-20260819-MambaCPU Enhanced](../DEP-E-20260819-MambaCPU%20Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction* | Liu, Xiaoman | [arXiv:2410.19297](https://arxiv.org/abs/2410.19297) - [DOI](https://doi.org/10.48550/arXiv.2410.19297) |
+
+
+## [DEP-E-20260819-Beyond Monolithic](../DEP-E-20260819-Beyond%20Monolithic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search* | Chen, Yiqun; Yan, Lingyong; Yang, Zixuan; Zhang, Erhan; Zhao, Jiashu; Wang, Shuaiqiang; Yin, Dawei; Mao, Jiaxin | [arXiv:2601.04703](https://arxiv.org/abs/2601.04703) - [DOI](https://doi.org/10.48550/arXiv.2601.04703) |
+
+
+## [DEP-E-20260819-MobileForge](../DEP-E-20260819-MobileForge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization* | Liu, Guangyi; Zhao, Pengxiang; Wu, Gao; Yin, Yiwen; Li, Mading; Liu, Liang; Liu, Congxiao; Qi, Zhang; Wang, Mengyan; Guo, Liang; Zhang, Jiangning; Liu, Yong | [arXiv:2606.19930](https://arxiv.org/abs/2606.19930) - [DOI](https://doi.org/10.48550/arXiv.2606.19930) |
+
+
+## [DEP-E-20260819-Efficient Heuristics](../DEP-E-20260819-Efficient%20Heuristics/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models* | Wu, Xuan; Wang, Di; Wu, Chunguo; Wen, Lijie; Miao, Chunyan; Xiao, Yubin; Zhou, You | [arXiv:2505.12627](https://arxiv.org/abs/2505.12627) - [DOI](https://doi.org/10.48550/arXiv.2505.12627) |
+
+
+## [DEP-E-20260819-An Efficient Iterative](../DEP-E-20260819-An%20Efficient%20Iterative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Iterative Algorithm for Qubit Mapping via Layer-Weight Assignment and Search Space Reduction* | Xu, Kang; Li, Zeyang; Liu, Xinjian; Li, Dandan; Wang, Yukun | [arXiv:2502.07536](https://arxiv.org/abs/2502.07536) - [DOI](https://doi.org/10.48550/arXiv.2502.07536) |
+
+
+## [DEP-E-20260819-DH-RAG A Dynamic](../DEP-E-20260819-DH-RAG%20A%20Dynamic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue* | Zhang, Feiyuan; Zhu, Dezhi; Ming, James; Jin, Yilun; Chai, Di; Yang, Liu; Tian, Han; Fan, Zhaoxin; Chen, Kai | [arXiv:2502.13847](https://arxiv.org/abs/2502.13847) - [DOI](https://doi.org/10.48550/arXiv.2502.13847) |
+
+
+## [DEP-E-20260819-Proximal Oracles for](../DEP-E-20260819-Proximal%20Oracles%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Proximal Oracles for Optimization and Sampling* | Liang, Jiaming; Chen, Yongxin | [arXiv:2404.02239](https://arxiv.org/abs/2404.02239) - [DOI](https://doi.org/10.48550/arXiv.2404.02239) |
+
+
+## [DEP-E-20260819-Don t Let It Hallucinate](../DEP-E-20260819-Don%20t%20Let%20It%20Hallucinate/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning* | Qin, Yuehan; Li, Shawn; Nian, Yi; Yu, Xinyan Velocity; Zhao, Yue; Ma, Xuezhe | [arXiv:2504.06438](https://arxiv.org/abs/2504.06438) - [DOI](https://doi.org/10.48550/arXiv.2504.06438) |
+
+
+## [DEP-E-20260819-Communication-Efficient](../DEP-E-20260819-Communication-Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Communication-Efficient Device Scheduling for Federated Learning Using Lyapunov Optimization* | Perazzone, Jake B.; Wang, Shiqiang; Ji, Mingyue; Chan, Kevin | [arXiv:2503.00569](https://arxiv.org/abs/2503.00569) - [DOI](https://doi.org/10.48550/arXiv.2503.00569) |
+
+
+## [DEP-E-20260819-Token-Operations-Oriented](../DEP-E-20260819-Token-Operations-Oriented/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Token-Operations-Oriented Inference Optimization Techniques for Large Models* | Lian, Shiguo; Wang, Kai; Liu, Zhaoxiang; Liu, Wen; Hua, Minjie; Liu, Yutong; Yan, Jiangze; Wang, Xin; Wang, Cong; Zhang, Yilin; Shen, Yi; Huang, Jieyun; Zhao, Fang; Gao, Huanlin; Chen, Ping; Yang, Xinyu; Zhao, Kaikai; Li, Yantao; Zhao, Yao; Wang, Xinggang; Zhang, Huishuai; Zhao, Dongyan; Du, Junping; Chen, Tao; Gao, Xiang; Ma, Qinghuai | [arXiv:2606.20295](https://arxiv.org/abs/2606.20295) - [DOI](https://doi.org/10.48550/arXiv.2606.20295) |
+
+
+## [DEP-E-20260819-Mind the Interference](../DEP-E-20260819-Mind%20the%20Interference/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models* | Tang, Longxiang; Tian, Zhuotao; Li, Kai; He, Chunming; Zhou, Hantao; Zhao, Hengshuang; Li, Xiu; Jia, Jiaya | [arXiv:2407.05342](https://arxiv.org/abs/2407.05342) - [DOI](https://doi.org/10.48550/arXiv.2407.05342) |
+
+
+## [DEP-E-20260819-Expert Streaming](../DEP-E-20260819-Expert%20Streaming/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling* | Ma, Songchen; Li, Hongyi; Zhang, Weihao; Tan, Yonghao; Dong, Pingcheng; Liu, Yu; Liu, Lan; Jiao, Yuzhong; Liu, Xuejiao; Liang, Luhong; Cheng, Kwang-Ting | [arXiv:2603.27624](https://arxiv.org/abs/2603.27624) - [DOI](https://doi.org/10.48550/arXiv.2603.27624) |
+
+
+## [DEP-E-20260819-QIENet Quantitative](../DEP-E-20260819-QIENet%20Quantitative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QIENet: Quantitative irradiance estimation network using recurrent neural network based on satellite remote sensing data* | Nie, Longfeng; Chen, Yuntian; Zhang, Dongxiao; Liu, Xinyue; Yuan, Wentian | [arXiv:2312.00299](https://arxiv.org/abs/2312.00299) - [DOI](https://doi.org/10.48550/arXiv.2312.00299) |
+
+
+## [DEP-E-20260819-MemMA Coordinating the](../DEP-E-20260819-MemMA%20Coordinating%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution* | Lin, Minhua; Zhang, Zhiwei; Lu, Hanqing; Liu, Hui; Tang, Xianfeng; He, Qi; Zhang, Xiang; Wang, Suhang | [arXiv:2603.18718](https://arxiv.org/abs/2603.18718) - [DOI](https://doi.org/10.48550/arXiv.2603.18718) |
+
+
+## [DEP-E-20260819-Neural Combinatorial](../DEP-E-20260819-Neural%20Combinatorial/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives* | Wu, Xuan; Wang, Di; Wen, Lijie; Xiao, Yubin; Wu, Chunguo; Wu, Yuesong; Yu, Chaoyu; Maskell, Douglas L.; Zhou, You | [arXiv:2406.00415](https://arxiv.org/abs/2406.00415) - [DOI](https://doi.org/10.48550/arXiv.2406.00415) |
+
+
+## [DEP-E-20260819-QMamba Post-Training](../DEP-E-20260819-QMamba%20Post-Training/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *QMamba: Post-Training Quantization for Vision State Space Models* | Li, Yinglong; Liu, Xiaoyu; Li, Jiacheng; Xu, Ruikang; Chen, Yinda; Xiong, Zhiwei | [arXiv:2501.13624](https://arxiv.org/abs/2501.13624) - [DOI](https://doi.org/10.48550/arXiv.2501.13624) |
+
+
+## [DEP-E-20260819-BRICKS-WM Building](../DEP-E-20260819-BRICKS-WM%20Building/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models* | Zhang, Shaowei; Cao, Jiahan; Zhou, Xunlan; Wan, Shenghua; Zhan, De-Chuan | [arXiv:2606.16489](https://arxiv.org/abs/2606.16489) - [DOI](https://doi.org/10.48550/arXiv.2606.16489) |
+
+
+## [DEP-E-20260819-Think-in-Memory Recalling](../DEP-E-20260819-Think-in-Memory%20Recalling/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory* | Liu, Lei; Yang, Xiaoyan; Shen, Yue; Hu, Binbin; Zhang, Zhiqiang; Gu, Jinjie; Zhang, Guannan | [arXiv:2311.08719](https://arxiv.org/abs/2311.08719) - [DOI](https://doi.org/10.48550/arXiv.2311.08719) |
+
+
+## [DEP-E-20260819-Toward Practical](../DEP-E-20260819-Toward%20Practical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Toward Practical Equilibrium Propagation: Brain-inspired Recurrent Neural Network with Feedback Regulation and Residual Connections* | Liu, Zhuo; Chen, Tao | [arXiv:2508.11659](https://arxiv.org/abs/2508.11659) - [DOI](https://doi.org/10.48550/arXiv.2508.11659) |
+
+
+## [DEP-E-20260819-Stratified and Time-aware](../DEP-E-20260819-Stratified%20and%20Time-aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stratified and Time-aware Sampling based Adaptive Ensemble Learning for Streaming Recommendations* | Zhao, Yan; Wang, Shoujin; Wang, Yan; Liu, Hongwei | [arXiv:2009.06824](https://arxiv.org/abs/2009.06824) - [DOI](https://doi.org/10.48550/arXiv.2009.06824) |
+
+
+## [DEP-E-20260819-LongScape Advancing](../DEP-E-20260819-LongScape%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE* | Shang, Yu; Jin, Lei; Ma, Yiding; Zhang, Xin; Gao, Chen; Wu, Wei; Li, Yong | [arXiv:2509.21790](https://arxiv.org/abs/2509.21790) - [DOI](https://doi.org/10.48550/arXiv.2509.21790) |
+
+
+## [DEP-E-20260819-EMPOWER Evolutionary](../DEP-E-20260819-EMPOWER%20Evolutionary/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning* | Chen, Yinda; He, Yangfan; Yang, Jing; Zhang, Dapeng; Yuan, Zhenlong; Khan, Muhammad Attique; Baili, Jamel; Yee, Por Lip | [arXiv:2508.17703](https://arxiv.org/abs/2508.17703) - [DOI](https://doi.org/10.48550/arXiv.2508.17703) |
+
+
+## [DEP-E-20260819-Dynamic Sampling that](../DEP-E-20260819-Dynamic%20Sampling%20that/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Sampling that Adapts: Self-Aware Iterative Data Persistent Optimization for Mathematical Reasoning* | Rao, Jun; Liu, Xuebo; Deng, Hexuan; Lin, Zepeng; Yu, Zixiong; Wei, Jiansheng; Meng, Xiaojun; Zhang, Min | [arXiv:2505.16176](https://arxiv.org/abs/2505.16176) - [DOI](https://doi.org/10.48550/arXiv.2505.16176) |
