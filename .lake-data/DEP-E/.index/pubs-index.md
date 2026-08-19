@@ -8184,3 +8184,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An improved approximation algorithm for maximizing a DR-submodular function over a convex set* | Du, Donglei; Liu, Zhicheng; Wu, Chenchen; Xu, Dachuan; Zhou, Yang | [arXiv:2203.14740](https://arxiv.org/abs/2203.14740) - [DOI](https://doi.org/10.48550/arXiv.2203.14740) |
+
+
+## [DEP-E-20260819-SNPSFuzzer A Fast Greybox](../DEP-E-20260819-SNPSFuzzer%20A%20Fast%20Greybox/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SNPSFuzzer: A Fast Greybox Fuzzer for Stateful Network Protocols using Snapshots* | Li, Junqiang; Li, Senyi; Sun, Gang; Chen, Ting; Yu, Hongfang | [arXiv:2202.03643](https://arxiv.org/abs/2202.03643) - [DOI](https://doi.org/10.48550/arXiv.2202.03643) |
