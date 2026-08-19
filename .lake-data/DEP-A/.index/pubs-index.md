@@ -10745,3 +10745,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hierarchical Latent Prediction for Language Models* | Chang Shi; Tim Pearce; Manan Tomar; Siddhartha Sen; John Langford | [arXiv:2608.05806v1](https://arxiv.org/abs/2608.05806v1) - [DOI](https://doi.org/10.48550/arXiv.2608.05806) |
+
+
+## [DEP-A-20260819-risk KV cache compression](../DEP-A-20260819-risk%20KV%20cache%20compression/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.01520-whitepaper-review.md`](../DEP-A-20260819-risk%20KV%20cache%20compression/2607.01520-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The risk of KV cache compression* | Lukas Haverbeck; Carmen Amo Alonso; Andres Felipe Posada-Moreno; Sebastian Trimpe; Marco Pavone | [arXiv:2607.01520v1](https://arxiv.org/abs/2607.01520v1) - [DOI](https://doi.org/10.48550/arXiv.2607.01520) |
