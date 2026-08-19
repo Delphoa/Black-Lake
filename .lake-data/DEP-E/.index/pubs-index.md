@@ -5139,3 +5139,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Planning with Logical Graph-based Language Model for Instruction Generation* | Zhang, Fan; Jin, Kebing; Zhuo, Hankz Hankui | [arXiv:2308.13782](https://arxiv.org/abs/2308.13782) - [DOI](https://doi.org/10.48550/arXiv.2308.13782) |
+
+
+## [DEP-E-20260819-Dynamic Service Migration](../DEP-E-20260819-Dynamic%20Service%20Migration/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process* | Wang, Shiqiang; Urgaonkar, Rahul; Zafer, Murtaza; He, Ting; Chan, Kevin; Leung, Kin K. | [arXiv:1506.05261](https://arxiv.org/abs/1506.05261) - [DOI](https://doi.org/10.48550/arXiv.1506.05261) |
