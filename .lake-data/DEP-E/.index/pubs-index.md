@@ -6973,3 +6973,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search* | Zeng, Chen; Yu, Yue; Li, Shanshan; Xia, Xin; Wang, Zhiming; Geng, Mingyang; Xiao, Bailin; Dong, Wei; Liao, Xiangke | [arXiv:2103.13020](https://arxiv.org/abs/2103.13020) - [DOI](https://doi.org/10.48550/arXiv.2103.13020) |
+
+
+## [DEP-E-20260819-LFMamba Light Field Image](../DEP-E-20260819-LFMamba%20Light%20Field%20Image/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *LFMamba: Light Field Image Super-Resolution with State Space Model* | xia, Wang; Lu, Yao; Wang, Shunzhou; Wang, Ziqi; Xia, Peiqi; Zhou, Tianfei | [arXiv:2406.12463](https://arxiv.org/abs/2406.12463) - [DOI](https://doi.org/10.48550/arXiv.2406.12463) |
