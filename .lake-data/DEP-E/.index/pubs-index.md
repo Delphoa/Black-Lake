@@ -5748,3 +5748,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *GD$^2$PO: Mitigating Multi-Reward Conflicts via Group-Dynamic reward-Decoupled Policy Optimization* | Liu, Haotian; Liu, Yihao; Ni, Jingwei; Huang, Siyuan; Liu, Xinpeng; Cheng, Pengyu; Song, Jiajun; Ding, Ruijin; Li, Junfeng; Yu, Zhechao; Zhou, Mengyu; Xu, Hongteng; Jiang, Xiaoxi; Jiang, Guanjun | [arXiv:2606.16771](https://arxiv.org/abs/2606.16771) - [DOI](https://doi.org/10.48550/arXiv.2606.16771) |
+
+
+## [DEP-E-20260819-EO-WM A Physically](../DEP-E-20260819-EO-WM%20A%20Physically/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting* | Luo, Junwei; Yuan, Shuai; Yang, Zhenya; Li, Yansheng; Liu, Zhe; Zhao, Hengshuang | [arXiv:2606.27277](https://arxiv.org/abs/2606.27277) - [DOI](https://doi.org/10.48550/arXiv.2606.27277) |
