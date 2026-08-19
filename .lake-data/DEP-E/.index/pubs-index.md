@@ -8800,3 +8800,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A density peaks clustering algorithm with sparse search and K-d tree* | Shan, Yunxiao; Li, Shu; Li, Fuxiang; Cui, Yuxin; Li, Shuai; Zhou, Ming; Li, Xiang | [arXiv:2203.00973](https://arxiv.org/abs/2203.00973) - [DOI](https://doi.org/10.1109/ACCESS.2022.3190958) |
+
+
+## [DEP-E-20260819-MuonQ Enhancing Low-Bit](../DEP-E-20260819-MuonQ%20Enhancing%20Low-Bit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization* | Su, Yupeng; Zhang, Ruijie; Liu, Ziyue; Zhao, Yequan; Zhang, Zheng | [arXiv:2605.11396](https://arxiv.org/abs/2605.11396) - [DOI](https://doi.org/10.48550/arXiv.2605.11396) |
