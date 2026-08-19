@@ -11483,3 +11483,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation* | Dongfang Li; Zixuan Liu; Junmai Wang; Jiahe Huang; Fuhao Li; Bonian Jia; Baotian Hu; Min Zhang | [arXiv:2608.12990v1](https://arxiv.org/abs/2608.12990v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12990) |
+
+
+## [DEP-A-20260819-RippleMem Isolated Retrie](../DEP-A-20260819-RippleMem%20Isolated%20Retrie/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13334-whitepaper-review.md`](../DEP-A-20260819-RippleMem%20Isolated%20Retrie/2608.13334-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory* | Jingbo Ji; Lingyi Li; Xilong Cheng; Yuhao Zhou; Wenji Zhang; Yuting Tan; Yunxiao Qin | [arXiv:2608.13334v1](https://arxiv.org/abs/2608.13334v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13334) |
