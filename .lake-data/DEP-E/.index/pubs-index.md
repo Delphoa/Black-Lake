@@ -5909,3 +5909,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design* | Tan, Yonghao; Dong, Pingcheng; Wu, Yongkun; Liu, Yu; Liu, Xuejiao; Luo, Peng; Liu, Shih-Yang; Huang, Xijie; Zhang, Dong; Liang, Luhong; Cheng, Kwang-Ting | [arXiv:2505.03748](https://arxiv.org/abs/2505.03748) - [DOI](https://doi.org/10.48550/arXiv.2505.03748) |
+
+
+## [DEP-E-20260819-Intelligent Reflecting](../DEP-E-20260819-Intelligent%20Reflecting/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Intelligent Reflecting Surface Enabled Sensing: Cram\'er-Rao Lower Bound Optimization* | Song, Xianxin; Xu, Jie; Liu, Fan; Han, Tony Xiao; Eldar, Yonina C. | [arXiv:2204.11071](https://arxiv.org/abs/2204.11071) - [DOI](https://doi.org/10.48550/arXiv.2204.11071) |
