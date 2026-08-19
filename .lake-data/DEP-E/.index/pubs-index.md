@@ -9101,3 +9101,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Derivative-free tree optimization for complex systems* | Wei, Ye; Peng, Bo; Xie, Ruiwen; Chen, Yangtao; Qin, Yu; Wen, Peng; Bauer, Stefan; Tung, Po-Yen | [arXiv:2404.04062](https://arxiv.org/abs/2404.04062) - [DOI](https://doi.org/10.48550/arXiv.2404.04062) |
+
+
+## [DEP-E-20260819-FT-CNN Algorithm-Based](../DEP-E-20260819-FT-CNN%20Algorithm-Based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FT-CNN: Algorithm-Based Fault Tolerance for Convolutional Neural Networks* | Zhao, Kai; Di, Sheng; Li, Sihuan; Liang, Xin; Zhai, Yujia; Chen, Jieyang; Ouyang, Kaiming; Cappello, Franck; Chen, Zizhong | [arXiv:2003.12203](https://arxiv.org/abs/2003.12203) - [DOI](https://doi.org/10.1109/TPDS.2020.3043449) |
