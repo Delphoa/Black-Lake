@@ -6868,3 +6868,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds* | Xu, Zhenghao; Ji, Xiang; Chen, Minshuo; Wang, Mengdi; Zhao, Tuo | [arXiv:2309.13915](https://arxiv.org/abs/2309.13915) - [DOI](https://doi.org/10.48550/arXiv.2309.13915) |
+
+
+## [DEP-E-20260819-Learning Multi-layer](../DEP-E-20260819-Learning%20Multi-layer/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Multi-layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference* | Nijkamp, Erik; Pang, Bo; Han, Tian; Zhou, Linqi; Zhu, Song-Chun; Wu, Ying Nian | [arXiv:1912.01909](https://arxiv.org/abs/1912.01909) - [DOI](https://doi.org/10.48550/arXiv.1912.01909) |
