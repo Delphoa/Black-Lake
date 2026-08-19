@@ -8254,3 +8254,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UDuo: Universal Dual Optimization Framework for Online Matching* | Li, Bin; Liu, Diwei; Hu, Zehong; Jia, Jia | [arXiv:2505.22243](https://arxiv.org/abs/2505.22243) - [DOI](https://doi.org/10.48550/arXiv.2505.22243) |
+
+
+## [DEP-E-20260819-An Online Prediction](../DEP-E-20260819-An%20Online%20Prediction/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Online Prediction Approach Based on Incremental Support Vector Machine for Dynamic Multiobjective Optimization* | Xu, Dejun; Jiang, Min; Hu, Weizhen; Li, Shaozi; Pan, Renhu; Yen, Gary G. | [arXiv:2102.12133](https://arxiv.org/abs/2102.12133) - [DOI](https://doi.org/10.48550/arXiv.2102.12133) |
