@@ -9563,3 +9563,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention* | Huang, Peixin; Wu, Yaoxin; Ma, Yining; Wu, Cathy; Zhang, Wei; Song, Wen | [arXiv:2601.04509](https://arxiv.org/abs/2601.04509) - [DOI](https://doi.org/10.48550/arXiv.2601.04509) |
+
+
+## [DEP-E-20260819-How Mobile World Model](../DEP-E-20260819-How%20Mobile%20World%20Model/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Mobile World Model Guides GUI Agents?* | Xu, Weikai; Huang, Kun; Feng, Yunren; Li, Jiaxing; Chen, Yuhan; Liu, Yuxuan; Jiang, Zhizheng; Qu, Heng; Gao, Pengzhi; Liu, Wei; Luan, Jian; Hu, Xiaolin; An, Bo | [arXiv:2605.10347](https://arxiv.org/abs/2605.10347) - [DOI](https://doi.org/10.48550/arXiv.2605.10347) |
