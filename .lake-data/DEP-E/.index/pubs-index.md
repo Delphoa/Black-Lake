@@ -5335,3 +5335,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Alada: Alternating Adaptation of Momentum Method for Memory-Efficient Matrix Optimization* | He, Xiaoyu; Cai, Yu; Jia, Jin; Huang, Canxi; Chen, Wenqing; Zheng, Zibin | [arXiv:2512.13034](https://arxiv.org/abs/2512.13034) - [DOI](https://doi.org/10.48550/arXiv.2512.13034) |
+
+
+## [DEP-E-20260819-PlanMoGPT Flow-Enhanced](../DEP-E-20260819-PlanMoGPT%20Flow-Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis* | Jin, Chuhao; Li, Haosen; Zhang, Bingzi; Liu, Che; Wang, Xiting; Song, Ruihua; Huang, Wenbing; Qin, Ying; Zhang, Fuzheng; Zhang, Di | [arXiv:2506.17912](https://arxiv.org/abs/2506.17912) - [DOI](https://doi.org/10.48550/arXiv.2506.17912) |
