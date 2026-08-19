@@ -11681,3 +11681,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MIRAGE: Defending Long-Form RAG Against Misinformation Pollution* | Saadeldine Eletter; Ruihong Zeng; Yuxia Wang; Maxim Panov; Aleksandr Rubashevskii; Preslav Nakov | [arXiv:2607.05069v1](https://arxiv.org/abs/2607.05069v1) - [DOI](https://doi.org/10.48550/arXiv.2607.05069) |
+
+
+## [DEP-A-20260819-PM Bench Evaluating Prosp](../DEP-A-20260819-PM%20Bench%20Evaluating%20Prosp/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.12385-whitepaper-review.md`](../DEP-A-20260819-PM%20Bench%20Evaluating%20Prosp/2607.12385-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PM-Bench: Evaluating Prospective Memory in LLM Agents* | Genglin Liu; Saadia Gabriel | [arXiv:2607.12385v1](https://arxiv.org/abs/2607.12385v1) - [DOI](https://doi.org/10.48550/arXiv.2607.12385) |
