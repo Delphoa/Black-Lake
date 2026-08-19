@@ -5699,3 +5699,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adversarial Attacks on Online Learning to Rank with Click Feedback* | Zuo, Jinhang; Zhang, Zhiyao; Wang, Zhiyong; Li, Shuai; Hajiesmaili, Mohammad; Wierman, Adam | [arXiv:2305.17071](https://arxiv.org/abs/2305.17071) - [DOI](https://doi.org/10.48550/arXiv.2305.17071) |
+
+
+## [DEP-E-20260819-DDAC-SpAM A Distributed](../DEP-E-20260819-DDAC-SpAM%20A%20Distributed/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DDAC-SpAM: A Distributed Algorithm for Fitting High-dimensional Sparse Additive Models with Feature Division and Decorrelation* | He, Yifan; Wu, Ruiyang; Zhou, Yong; Feng, Yang | [arXiv:2205.07932](https://arxiv.org/abs/2205.07932) - [DOI](https://doi.org/10.48550/arXiv.2205.07932) |
