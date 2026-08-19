@@ -9815,3 +9815,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Convergence Analysis of Distributed Inference with Vector-Valued Gaussian Belief Propagation* | Du, Jian; Ma, Shaodan; Wu, Yik-Chung; Kar, Soummya; Moura, José M. F. | [arXiv:1611.02010](https://arxiv.org/abs/1611.02010) - [DOI](https://doi.org/10.48550/arXiv.1611.02010) |
+
+
+## [DEP-E-20260819-Hierarchical World Models](../DEP-E-20260819-Hierarchical%20World%20Models/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical World Models as Visual Whole-Body Humanoid Controllers* | Hansen, Nicklas; S V, Jyothir; Sobal, Vlad; LeCun, Yann; Wang, Xiaolong; Su, Hao | [arXiv:2405.18418](https://arxiv.org/abs/2405.18418) - [DOI](https://doi.org/10.48550/arXiv.2405.18418) |
