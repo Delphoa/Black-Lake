@@ -8485,3 +8485,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Analysis and Optimization of Tail-Biting Spatially Coupled Protograph LDPC Codes for BICM-ID Systems* | Yang, Zhaojie; Fang, Yi; Zhang, Guohua; Lau, Francis C. M.; Mumtaz, Shahid; da Costa, Daniel B. | [arXiv:1911.02227](https://arxiv.org/abs/1911.02227) - [DOI](https://doi.org/10.1109/TVT.2019.2949600) |
+
+
+## [DEP-E-20260819-Nash Social Welfare with](../DEP-E-20260819-Nash%20Social%20Welfare%20with/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps* | Bei, Xiaohui; Feng, Yuda; Hu, Yang; Li, Shi; Zhang, Ruilong | [arXiv:2504.09669](https://arxiv.org/abs/2504.09669) - [DOI](https://doi.org/10.48550/arXiv.2504.09669) |

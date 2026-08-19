@@ -22242,6 +22242,29 @@
         "https://doi.org/10.1109/TVT.2019.2949600"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Nash Social Welfare with",
+        ".logs/20260819-Arxiv-Nash-Social-Welfare-with-Submodular-Valuations-LOG.md",
+        ".reports/BL-Arxiv-Nash-Social-Welfare-with-Submodular-Valuations-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2504.09669",
+      "arxiv_id": "2504.09669",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2504.09669",
+      "normalized_title": "Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P237; draw 41472 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 10; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "Nash-Social-Welfare-with-Submodular-Valuations",
+      "source_urls": [
+        "https://arxiv.org/abs/2504.09669",
+        "https://arxiv.org/html/2504.09669",
+        "https://arxiv.org/pdf/2504.09669",
+        "https://doi.org/10.48550/arXiv.2504.09669"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
