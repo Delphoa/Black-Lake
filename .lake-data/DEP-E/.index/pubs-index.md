@@ -8912,3 +8912,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS* | Wu, Yu; Veerapaneni, Rishi; Li, Jiaoyang; Likhachev, Maxim | [arXiv:2404.15137](https://arxiv.org/abs/2404.15137) - [DOI](https://doi.org/10.48550/arXiv.2404.15137) |
+
+
+## [DEP-E-20260819-High-Assurance Separation](../DEP-E-20260819-High-Assurance%20Separation/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *High-Assurance Separation Kernels: A Survey on Formal Methods* | Zhao, Yongwang; Sanan, David; Zhang, Fuyuan; Liu, Yang | [arXiv:1701.01535](https://arxiv.org/abs/1701.01535) - [DOI](https://doi.org/10.48550/arXiv.1701.01535) |
