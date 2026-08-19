@@ -12973,6 +12973,29 @@
         "https://doi.org/10.48550/arXiv.2404.07470"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Weathering Ongoing",
+        ".logs/20260819-Arxiv-Weathering-Ongoing-Uncertainty-Learning-and-LOG.md",
+        ".reports/BL-Arxiv-Weathering-Ongoing-Uncertainty-Learning-and-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2312.03263",
+      "arxiv_id": "2312.03263",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2312.03263",
+      "normalized_title": "Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P134; draw 58579 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems, algorithmic research; duplicate exclusions 6; focus exclusions 40; reselections 46; complete-source gate passed; all source files withheld locally.",
+      "slug": "Weathering-Ongoing-Uncertainty-Learning-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2312.03263",
+        "https://arxiv.org/html/2312.03263",
+        "https://arxiv.org/pdf/2312.03263",
+        "https://doi.org/10.48550/arXiv.2312.03263"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

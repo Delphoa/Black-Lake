@@ -5664,3 +5664,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalable Language Model with Generalized Continual Learning* | Peng, Bohao; Tian, Zhuotao; Liu, Shu; Yang, Mingchang; Jia, Jiaya | [arXiv:2404.07470](https://arxiv.org/abs/2404.07470) - [DOI](https://doi.org/10.48550/arXiv.2404.07470) |
+
+
+## [DEP-E-20260819-Weathering Ongoing](../DEP-E-20260819-Weathering%20Ongoing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment* | Puthumanaillam, Gokul; Liu, Xiangyu; Mehr, Negar; Ornik, Melkior | [arXiv:2312.03263](https://arxiv.org/abs/2312.03263) - [DOI](https://doi.org/10.48550/arXiv.2312.03263) |
