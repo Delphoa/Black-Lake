@@ -9689,3 +9689,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Just Say What You Want: Only-prompting Self-rewarding Online Preference Optimization* | Xu, Ruijie; Liu, Zhihan; Liu, Yongfei; Yan, Shipeng; Wang, Zhaoran; Zhang, Zhi; He, Xuming | [arXiv:2409.17534](https://arxiv.org/abs/2409.17534) - [DOI](https://doi.org/10.48550/arXiv.2409.17534) |
+
+
+## [DEP-E-20260819-GDPO-SR Group Direct](../DEP-E-20260819-GDPO-SR%20Group%20Direct/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution* | Yi, Qiaosi; Li, Shuai; Wu, Rongyuan; Sun, Lingchen; Zhang, Zhengqiang; Zhang, Lei | [arXiv:2603.16769](https://arxiv.org/abs/2603.16769) - [DOI](https://doi.org/10.48550/arXiv.2603.16769) |
