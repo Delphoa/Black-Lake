@@ -6924,3 +6924,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Coupled Optimization Framework for Correlated Equilibria in Normal-Form Game* | Li, Sarah H. Q.; Yu, Yue; Dörfler, Florian; Lygeros, John | [arXiv:2403.16223](https://arxiv.org/abs/2403.16223) - [DOI](https://doi.org/10.48550/arXiv.2403.16223) |
+
+
+## [DEP-E-20260819-Enhancing Large Vision](../DEP-E-20260819-Enhancing%20Large%20Vision/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory* | Kou, Wei-Bin; Lin, Qingfeng; Tang, Ming; Lei, Jingreng; Wang, Shuai; Ye, Rongguang; Zhu, Guangxu; Wu, Yik-Chung | [arXiv:2501.01710](https://arxiv.org/abs/2501.01710) - [DOI](https://doi.org/10.48550/arXiv.2501.01710) |
