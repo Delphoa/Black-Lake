@@ -8331,3 +8331,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Large-Scale Bandwidth and Power Optimization for Multi-Modal Edge Intelligence Autonomous Driving* | Li, Xinrao; Zhang, Tong; Wang, Shuai; Zhu, Guangxu; Wang, Rui; Chang, Tsung-Hui | [arXiv:2210.09659](https://arxiv.org/abs/2210.09659) - [DOI](https://doi.org/10.48550/arXiv.2210.09659) |
+
+
+## [DEP-E-20260819-Local Differential](../DEP-E-20260819-Local%20Differential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Local Differential Privacy for Bayesian Optimization* | Zhou, Xingyu; Tan, Jian | [arXiv:2010.06709](https://arxiv.org/abs/2010.06709) - [DOI](https://doi.org/10.48550/arXiv.2010.06709) |
