@@ -9297,3 +9297,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps* | Lu, Cheng; Zhou, Yuhao; Bao, Fan; Chen, Jianfei; Li, Chongxuan; Zhu, Jun | [arXiv:2206.00927](https://arxiv.org/abs/2206.00927) - [DOI](https://doi.org/10.48550/arXiv.2206.00927) |
+
+
+## [DEP-E-20260819-Sparse Convolutional](../DEP-E-20260819-Sparse%20Convolutional/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection* | Wang, Shenqi; Xu, Yingfu; Yousefzadeh, Amirreza; Eissa, Sherif; Corporaal, Henk; Corradi, Federico; Tang, Guangzhi | [arXiv:2506.13440](https://arxiv.org/abs/2506.13440) - [DOI](https://doi.org/10.48550/arXiv.2506.13440) |

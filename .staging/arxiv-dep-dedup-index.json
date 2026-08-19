@@ -24910,6 +24910,29 @@
         "https://doi.org/10.48550/arXiv.2206.00927"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Sparse Convolutional",
+        ".logs/20260819-Arxiv-Sparse-Convolutional-Recurrent-Learning-for-LOG.md",
+        ".reports/BL-Arxiv-Sparse-Convolutional-Recurrent-Learning-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.13440",
+      "arxiv_id": "2506.13440",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2506.13440",
+      "normalized_title": "Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P353; draw 28751 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 6; focus exclusions 29; reselections 35; complete-source gate passed; all source files withheld locally.",
+      "slug": "Sparse-Convolutional-Recurrent-Learning-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.13440",
+        "https://arxiv.org/html/2506.13440",
+        "https://arxiv.org/pdf/2506.13440",
+        "https://doi.org/10.48550/arXiv.2506.13440"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
