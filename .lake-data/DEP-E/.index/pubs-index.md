@@ -8576,3 +8576,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Accelerating Federated Edge Learning via Topology Optimization* | Huang, Shanfeng; Zhang, Zezhong; Wang, Shuai; Wang, Rui; Huang, Kaibin | [arXiv:2204.00489](https://arxiv.org/abs/2204.00489) - [DOI](https://doi.org/10.48550/arXiv.2204.00489) |
+
+
+## [DEP-E-20260819-Matrix-Monotonic](../DEP-E-20260819-Matrix-Monotonic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Matrix-Monotonic Optimization Part I: Single-Variable Optimization* | Xing, Chengwen; Wang, Shuai; Chen, Sheng; Ma, Shaodan; Poor, H. Vincent; Hanzo, Lajos | [arXiv:1810.11244](https://arxiv.org/abs/1810.11244) - [DOI](https://doi.org/10.48550/arXiv.1810.11244) |
