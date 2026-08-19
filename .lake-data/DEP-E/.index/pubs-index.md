@@ -9843,3 +9843,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Multi-parameter Updating Fourier Online Gradient Descent Algorithm for Large-scale Nonlinear Classification* | Chen, Yigying | [arXiv:2203.08349](https://arxiv.org/abs/2203.08349) - [DOI](https://doi.org/10.48550/arXiv.2203.08349) |
+
+
+## [DEP-E-20260819-Do Less Achieve More Do](../DEP-E-20260819-Do%20Less%20Achieve%20More%20Do/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?* | Yan, Renye; Cheng, Jikang; Sun, Shikun; Sun, Yi; Wu, You; Peng, Wei; Wang, Zongwei; Liang, Ling; Xing, Junliang; Cai, Yimao | [arXiv:2605.15855](https://arxiv.org/abs/2605.15855) - [DOI](https://doi.org/10.48550/arXiv.2605.15855) |
