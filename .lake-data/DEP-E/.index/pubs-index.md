@@ -5811,3 +5811,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FM-LoRA: Factorized Low-Rank Meta-Prompting for Continual Learning* | Yu, Xiaobing; Yang, Jin; Wu, Xiao; Qiu, Peijie; Liu, Xiaofeng | [arXiv:2504.08823](https://arxiv.org/abs/2504.08823) - [DOI](https://doi.org/10.48550/arXiv.2504.08823) |
+
+
+## [DEP-E-20260819-Optimization of](../DEP-E-20260819-Optimization%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization of Fast-Decodable Full-Rate STBC with Non-Vanishing Determinants* | Ren, Tian Peng; Guan, Yong Liang; Yuen, Chau; Zhou, Yue; Zhang, Er Yang | [arXiv:1103.2573](https://arxiv.org/abs/1103.2573) - [DOI](https://doi.org/10.1109/TCOMM.2011.050911.090148) |
