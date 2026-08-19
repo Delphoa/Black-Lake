@@ -5972,3 +5972,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Modified Baum-Welch Algorithm for Joint Blind Channel Estimation and Turbo Equalization* | Chen, Chin-Hung; Karanov, Boris; Nikoloska, Ivana; van Houtum, Wim; Wu, Yan; Alvarado, Alex | [arXiv:2412.07907](https://arxiv.org/abs/2412.07907) - [DOI](https://doi.org/10.1109/IEEECONF62907.2025.10949109) |
+
+
+## [DEP-E-20260819-Emergent Response](../DEP-E-20260819-Emergent%20Response/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Emergent Response Planning in LLMs* | Dong, Zhichen; Zhou, Zhanhui; Liu, Zhixuan; Yang, Chao; Lu, Chaochao | [arXiv:2502.06258](https://arxiv.org/abs/2502.06258) - [DOI](https://doi.org/10.48550/arXiv.2502.06258) |
