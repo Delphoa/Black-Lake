@@ -11753,3 +11753,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents* | Jifeng Gao; Kang Xia; Yi Zhang; Xiaobin Hong; Mingkai Lin; Xingshen Wei; Wenzhong Li; Sanglu Lu | [arXiv:2607.14651v1](https://arxiv.org/abs/2607.14651v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14651) |
+
+
+## [DEP-A-20260819-Bad Memory Evaluating Pro](../DEP-A-20260819-Bad%20Memory%20Evaluating%20Pro/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.14611-whitepaper-review.md`](../DEP-A-20260819-Bad%20Memory%20Evaluating%20Pro/2607.14611-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems* | Soham Gadgil; David Alexander; Sai Sunku; Franziska Roesner | [arXiv:2607.14611v1](https://arxiv.org/abs/2607.14611v1) - [DOI](https://doi.org/10.48550/arXiv.2607.14611) |
