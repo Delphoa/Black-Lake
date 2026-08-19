@@ -5818,3 +5818,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimization of Fast-Decodable Full-Rate STBC with Non-Vanishing Determinants* | Ren, Tian Peng; Guan, Yong Liang; Yuen, Chau; Zhou, Yue; Zhang, Er Yang | [arXiv:1103.2573](https://arxiv.org/abs/1103.2573) - [DOI](https://doi.org/10.1109/TCOMM.2011.050911.090148) |
+
+
+## [DEP-E-20260819-Online Optimization for](../DEP-E-20260819-Online%20Optimization%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Online Optimization for Learning to Communicate over Time-Correlated Channels* | Wu, Zheshun; Li, Junfan; Xu, Zenglin; Sun, Sumei; Liu, Jie | [arXiv:2409.00575](https://arxiv.org/abs/2409.00575) - [DOI](https://doi.org/10.48550/arXiv.2409.00575) |

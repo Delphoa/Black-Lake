@@ -13479,6 +13479,29 @@
         "https://doi.org/10.1109/TCOMM.2011.050911.090148"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Online Optimization for",
+        ".logs/20260819-Arxiv-Online-Optimization-for-Learning-to-Communicate-LOG.md",
+        ".reports/BL-Arxiv-Online-Optimization-for-Learning-to-Communicate-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.00575",
+      "arxiv_id": "2409.00575",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2409.00575",
+      "normalized_title": "Online Optimization for Learning to Communicate over Time-Correlated Channels",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P156; draw 74905 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 21; reselections 21; complete-source gate passed; all source files withheld locally.",
+      "slug": "Online-Optimization-for-Learning-to-Communicate",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.00575",
+        "https://arxiv.org/html/2409.00575",
+        "https://arxiv.org/pdf/2409.00575",
+        "https://doi.org/10.48550/arXiv.2409.00575"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
