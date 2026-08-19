@@ -6721,3 +6721,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving* | Zhou, Lijun; Luo, Hongcheng; Zhu, Zhenxin; Chi, Cheng; Tu, Mingfei; Xiong, Kaixin; Gong, Lei; Wu, Zhanqian; Zhang, Zehan; Li, Fangzhen; Li, Hao; Shen, Yingying; He, Jiale; Zhu, Haohui; Zhao, Shan; Wang, Kai; Zhan, Zhiwei; Pu, Yuechuan; Tan, Kaiyuan; Yang, Ruiling; Wang, Xianqi; Yan, Tianyi; Zhou, Jiawei; Zhang, Lei; Zhao, Jingyang; Zhou, Xi; Sun, Chitian; Wu, Chenming; Deng, Jiong; Xie, Hongwei; Lu, Ming; Ma, Kun; Chen, Long; Chen, Guang; Ye, Hangjun; Wang, Bing; Sun, Haiyang | [arXiv:2605.18137](https://arxiv.org/abs/2605.18137) - [DOI](https://doi.org/10.48550/arXiv.2605.18137) |
+
+
+## [DEP-E-20260819-A partitioned](../DEP-E-20260819-A%20partitioned/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A partitioned shift-without-invert algorithm to improve parallel eigensolution efficiency in real-space electronic transport* | Feldman, Baruch; Zhou, Yunkai | [arXiv:1606.01139](https://arxiv.org/abs/1606.01139) - [DOI](https://doi.org/10.1016/j.cpc.2016.05.015) |

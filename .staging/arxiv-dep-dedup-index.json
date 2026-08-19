@@ -16446,6 +16446,29 @@
         "https://doi.org/10.48550/arXiv.2605.18137"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A partitioned",
+        ".logs/20260819-Arxiv-A-partitioned-shift-without-invert-algorithm-to-LOG.md",
+        ".reports/BL-Arxiv-A-partitioned-shift-without-invert-algorithm-to-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1606.01139",
+      "arxiv_id": "1606.01139",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1016/j.cpc.2016.05.015",
+      "normalized_title": "A partitioned shift-without-invert algorithm to improve parallel eigensolution efficiency in real-space electronic transport",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P285; draw 4470 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-partitioned-shift-without-invert-algorithm-to",
+      "source_urls": [
+        "https://arxiv.org/abs/1606.01139",
+        "https://arxiv.org/html/1606.01139",
+        "https://arxiv.org/pdf/1606.01139",
+        "https://doi.org/10.1016/j.cpc.2016.05.015"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
