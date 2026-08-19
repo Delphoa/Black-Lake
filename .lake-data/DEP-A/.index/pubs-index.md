@@ -11636,3 +11636,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SemanticZip: A Pilot Framework for Lossy Text Compression with LLMs as Semantic Decompressors* | Natalia Trukhina; Vadim Vashkelis | [arXiv:2605.24541v1](https://arxiv.org/abs/2605.24541v1) - [DOI](https://doi.org/10.48550/arXiv.2605.24541) |
+
+
+## [DEP-A-20260819-MemORAI Memory Organizati](../DEP-A-20260819-MemORAI%20Memory%20Organizati/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2605.01386-whitepaper-review.md`](../DEP-A-20260819-MemORAI%20Memory%20Organizati/2605.01386-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents* | Hung Pham Van; Nguyen Manh Hieu; Khang Pham Tran Tuan; Nam Le Hai; Linh Ngo Van; Nguyen Thi Ngoc Diep; Trung Le | [arXiv:2605.01386v2](https://arxiv.org/abs/2605.01386v2) - [DOI](https://doi.org/10.48550/arXiv.2605.01386) |
