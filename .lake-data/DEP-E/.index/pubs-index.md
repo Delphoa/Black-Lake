@@ -9143,3 +9143,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Transferable Optimization Network for Cross-Domain Image Reconstruction* | Chen, Yunmei; Ding, Chi; Ye, Xiaojing | [arXiv:2603.07831](https://arxiv.org/abs/2603.07831) - [DOI](https://doi.org/10.48550/arXiv.2603.07831) |
+
+
+## [DEP-E-20260819-Revisiting Optimal](../DEP-E-20260819-Revisiting%20Optimal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization* | Yuan, Kun; Huang, Xinmeng; Chen, Yiming; Zhang, Xiaohan; Zhang, Yingya; Pan, Pan | [arXiv:2210.07863](https://arxiv.org/abs/2210.07863) - [DOI](https://doi.org/10.48550/arXiv.2210.07863) |
