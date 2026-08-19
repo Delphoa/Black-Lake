@@ -5755,3 +5755,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting* | Luo, Junwei; Yuan, Shuai; Yang, Zhenya; Li, Yansheng; Liu, Zhe; Zhao, Hengshuang | [arXiv:2606.27277](https://arxiv.org/abs/2606.27277) - [DOI](https://doi.org/10.48550/arXiv.2606.27277) |
+
+
+## [DEP-E-20260819-RoboStereo Dual-Tower 4D](../DEP-E-20260819-RoboStereo%20Dual-Tower%204D/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization* | Zhang, Ruicheng; Chen, Guangyu; Xu, Zunnan; Liu, Zihao; Zhong, Zhizhou; Zhang, Mingyang; Zhou, Jun; Li, Xiu | [arXiv:2603.12639](https://arxiv.org/abs/2603.12639) - [DOI](https://doi.org/10.48550/arXiv.2603.12639) |
