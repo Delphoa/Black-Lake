@@ -5034,3 +5034,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ONER: Online Experience Replay for Incremental Anomaly Detection* | Jin, Yizhou; Zhu, Jiahui; Wang, Guodong; Li, Shiwei; Zhang, Jinjin; Liu, Xinyue; Liu, Qingjie; Wang, Yunhong | [arXiv:2412.03907](https://arxiv.org/abs/2412.03907) - [DOI](https://doi.org/10.48550/arXiv.2412.03907) |
+
+
+## [DEP-E-20260819-A Novel Fuzzy Search](../DEP-E-20260819-A%20Novel%20Fuzzy%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Novel Fuzzy Search Approach over Encrypted Data with Improved Accuracy and Efficiency* | Cao, Jinkun; Zhu, Jinhao; Lin, Liwei; Xue, Zhengui; Ma, Ruhui; Guan, Haibing | [arXiv:1904.12111](https://arxiv.org/abs/1904.12111) - [DOI](https://doi.org/10.48550/arXiv.1904.12111) |
