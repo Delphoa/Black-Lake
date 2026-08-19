@@ -11951,3 +11951,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Comprehensive Empirical Evaluation of Vector Database Systems for Approximate Nearest Neighbor Search: Performance, Quality, and Resource Trade-offs* | Ashen Rashmiks; Tiroshan Madushanka | [arXiv:2608.12812v1](https://arxiv.org/abs/2608.12812v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12812) |
+
+
+## [DEP-A-20260819-Predictive Memory Localiz](../DEP-A-20260819-Predictive%20Memory%20Localiz/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12892-whitepaper-review.md`](../DEP-A-20260819-Predictive%20Memory%20Localiz/2608.12892-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals* | Jinhao Jing; Tian Zeyu; Lucas Qingyang Fang; Zhisheng Chen; Shuang Chen; Yuhao Luo; Qiannian Zhao | [arXiv:2608.12892v2](https://arxiv.org/abs/2608.12892v2) - [DOI](https://doi.org/10.48550/arXiv.2608.12892) |
