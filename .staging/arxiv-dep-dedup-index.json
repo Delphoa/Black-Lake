@@ -14353,6 +14353,29 @@
         "https://doi.org/10.48550/arXiv.2103.05471"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-STORYTELLER An Enhanced",
+        ".logs/20260819-Arxiv-STORYTELLER-An-Enhanced-Plot-Planning-Framework-LOG.md",
+        ".reports/BL-Arxiv-STORYTELLER-An-Enhanced-Plot-Planning-Framework-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2506.02347",
+      "arxiv_id": "2506.02347",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2506.02347",
+      "normalized_title": "STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P194; draw 68760 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 6; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "STORYTELLER-An-Enhanced-Plot-Planning-Framework",
+      "source_urls": [
+        "https://arxiv.org/abs/2506.02347",
+        "https://arxiv.org/html/2506.02347",
+        "https://arxiv.org/pdf/2506.02347",
+        "https://doi.org/10.48550/arXiv.2506.02347"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

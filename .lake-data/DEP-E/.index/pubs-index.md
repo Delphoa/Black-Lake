@@ -6084,3 +6084,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Contrastive Neural Architecture Search with Neural Architecture Comparators* | Chen, Yaofo; Guo, Yong; Chen, Qi; Li, Minli; Zeng, Wei; Wang, Yaowei; Tan, Mingkui | [arXiv:2103.05471](https://arxiv.org/abs/2103.05471) - [DOI](https://doi.org/10.48550/arXiv.2103.05471) |
+
+
+## [DEP-E-20260819-STORYTELLER An Enhanced](../DEP-E-20260819-STORYTELLER%20An%20Enhanced/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *STORYTELLER: An Enhanced Plot-Planning Framework for Coherent and Cohesive Story Generation* | Li, Jiaming; Chen, Yukun; Liu, Ziqiang; Tan, Minghuan; Zhang, Lei; Li, Yunshui; Luo, Run; Chen, Longze; Luo, Jing; Argha, Ahmadreza; Alinejad-Rokny, Hamid; Zhou, Wei; Yang, Min | [arXiv:2506.02347](https://arxiv.org/abs/2506.02347) - [DOI](https://doi.org/10.48550/arXiv.2506.02347) |
