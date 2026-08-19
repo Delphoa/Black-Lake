@@ -7057,3 +7057,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Fast Block Linear System Solver Using Q-Learning Schduling for Unified Dynamic Power System Simulations* | Chen, Yingshi; Song, Xinli; Dai, HanYang; Liu, Tao; Zhong, Wuzhi; Wu, Guoyang | [arXiv:2110.05843](https://arxiv.org/abs/2110.05843) - [DOI](https://doi.org/10.48550/arXiv.2110.05843) |
+
+
+## [DEP-E-20260819-Collaborative Unlabeled](../DEP-E-20260819-Collaborative%20Unlabeled/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Collaborative Unlabeled Data Optimization* | Shang, Xinyi; Sun, Peng; Liu, Fengyuan; Lin, Tao | [arXiv:2505.14117](https://arxiv.org/abs/2505.14117) - [DOI](https://doi.org/10.48550/arXiv.2505.14117) |
