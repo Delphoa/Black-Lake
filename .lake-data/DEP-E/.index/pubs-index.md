@@ -6469,3 +6469,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory* | Sun, Haoran; Li, Wenjie; Zhang, Yujie; Lin, Zekai; Zhang, Fanrui; Chen, Kaitao; He, Xingqi; Li, Yichen; Liu, Mianxin; Liu, Lei; Jiang, Yankai | [arXiv:2606.09365](https://arxiv.org/abs/2606.09365) - [DOI](https://doi.org/10.48550/arXiv.2606.09365) |
+
+
+## [DEP-E-20260819-A remark about orthogonal](../DEP-E-20260819-A%20remark%20about%20orthogonal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A remark about orthogonal matching pursuit algorithm* | Xu, Zhiqiang | [arXiv:1005.3093](https://arxiv.org/abs/1005.3093) - [DOI](https://doi.org/10.48550/arXiv.1005.3093) |
