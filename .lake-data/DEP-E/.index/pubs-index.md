@@ -8786,3 +8786,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction* | Chen, Ying; Xie, Jiajing; Lin, Yuxiang; Song, Yuhang; Yang, Wenxian; Yu, Rongshan | [arXiv:2404.08027](https://arxiv.org/abs/2404.08027) - [DOI](https://doi.org/10.48550/arXiv.2404.08027) |
+
+
+## [DEP-E-20260819-Differentiable Solver](../DEP-E-20260819-Differentiable%20Solver/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Differentiable Solver Search for Fast Diffusion Sampling* | Wang, Shuai; Li, Zexian; zhang, Qipeng; Song, Tianhui; Li, Xubin; Ge, Tiezheng; Zheng, Bo; Wang, Limin | [arXiv:2505.21114](https://arxiv.org/abs/2505.21114) - [DOI](https://doi.org/10.48550/arXiv.2505.21114) |
