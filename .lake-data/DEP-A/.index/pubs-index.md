@@ -10898,3 +10898,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *FutureBridge: Token Selection Beyond Local Preference in Collaborative Decoding* | Quanquan Li; Hongbo Zhang; Yihe Chi; Jingyu Li; Xidong Xi; Liuyang Song; Hongzhen Zhang; Yuxiang Huang; Jing Ke; Siyuan Ma; Junyi Lin; Guitao Cao | [arXiv:2608.06819v1](https://arxiv.org/abs/2608.06819v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06819) |
+
+
+## [DEP-A-20260819-Exact Adaptive Hybrid Ret](../DEP-A-20260819-Exact%20Adaptive%20Hybrid%20Ret/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07152-whitepaper-review.md`](../DEP-A-20260819-Exact%20Adaptive%20Hybrid%20Ret/2608.07152-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Exact Adaptive Hybrid Retrieval Without Fixed Top-L Cutoffs* | Chunran Zhang | [arXiv:2608.07152v1](https://arxiv.org/abs/2608.07152v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07152) |
