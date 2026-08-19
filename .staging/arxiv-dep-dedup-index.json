@@ -23737,6 +23737,29 @@
         "https://doi.org/10.48550/arXiv.2601.17438"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Dynamic Resilient",
+        ".logs/20260819-Arxiv-Dynamic-Resilient-Spatio-Semantic-Memory-with-LOG.md",
+        ".reports/BL-Arxiv-Dynamic-Resilient-Spatio-Semantic-Memory-with-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.00576",
+      "arxiv_id": "2606.00576",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.00576",
+      "normalized_title": "Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P302; draw 44599 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 1; focus exclusions 3; reselections 4; complete-source gate passed; all source files withheld locally.",
+      "slug": "Dynamic-Resilient-Spatio-Semantic-Memory-with",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.00576",
+        "https://arxiv.org/html/2606.00576",
+        "https://arxiv.org/pdf/2606.00576",
+        "https://doi.org/10.48550/arXiv.2606.00576"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -8940,3 +8940,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UniGRec: Unified Generative Recommendation with Soft Identifiers for End-to-End Optimization* | Li, Jialei; Zhang, Yang; Bai, Yimeng; Zhu, Shuai; Xue, Ziqi; Zhao, Xiaoyan; Wang, Dingxian; Yang, Frank; Rabinovich, Andrew; He, Xiangnan | [arXiv:2601.17438](https://arxiv.org/abs/2601.17438) - [DOI](https://doi.org/10.48550/arXiv.2601.17438) |
+
+
+## [DEP-E-20260819-Dynamic Resilient](../DEP-E-20260819-Dynamic%20Resilient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation* | Yan, Zhijie; Li, Shufei; Zhang, Ze; Liu, Xin; Zheng, Yuhang; Wang, Zuoxu | [arXiv:2606.00576](https://arxiv.org/abs/2606.00576) - [DOI](https://doi.org/10.48550/arXiv.2606.00576) |
