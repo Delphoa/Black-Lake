@@ -6105,3 +6105,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *One Filters All: A Generalist Filter for State Estimation* | Liu, Shiqi; Cao, Wenhan; Liu, Chang; He, Zeyu; Zhang, Tianyi; Li, Shengbo Eben | [arXiv:2509.20051](https://arxiv.org/abs/2509.20051) - [DOI](https://doi.org/10.48550/arXiv.2509.20051) |
+
+
+## [DEP-E-20260819-A Faster Branching](../DEP-E-20260819-A%20Faster%20Branching/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Faster Branching Algorithm for the Maximum $k$-Defective Clique Problem* | Luo, Chunyu; Zhou, Yi; Wang, Zhengren; Xiao, Mingyu | [arXiv:2407.16588](https://arxiv.org/abs/2407.16588) - [DOI](https://doi.org/10.48550/arXiv.2407.16588) |
