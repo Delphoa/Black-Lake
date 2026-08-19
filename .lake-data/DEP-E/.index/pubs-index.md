@@ -5741,3 +5741,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Construction and optimization of health behavior prediction model for the elderly in smart elderly care* | Guo, Qian; Chen, Peiyuan | [arXiv:2412.02062](https://arxiv.org/abs/2412.02062) - [DOI](https://doi.org/10.48550/arXiv.2412.02062) |
+
+
+## [DEP-E-20260819-GD 2 PO Mitigating](../DEP-E-20260819-GD%202%20PO%20Mitigating/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GD$^2$PO: Mitigating Multi-Reward Conflicts via Group-Dynamic reward-Decoupled Policy Optimization* | Liu, Haotian; Liu, Yihao; Ni, Jingwei; Huang, Siyuan; Liu, Xinpeng; Cheng, Pengyu; Song, Jiajun; Ding, Ruijin; Li, Junfeng; Yu, Zhechao; Zhou, Mengyu; Xu, Hongteng; Jiang, Xiaoxi; Jiang, Guanjun | [arXiv:2606.16771](https://arxiv.org/abs/2606.16771) - [DOI](https://doi.org/10.48550/arXiv.2606.16771) |
