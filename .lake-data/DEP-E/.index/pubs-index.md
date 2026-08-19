@@ -5426,3 +5426,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UnityMAS-O: A General RL Optimization Framework for LLM-Based Multi-Agent Systems* | Chen, Yiqun; Yang, Wei; Zhang, Erhan; Wang, Shijie; Liu, Qi; Niu, Zechun; Zhang, Bin; Li, Haitao; Li, Rui; Yan, Lingyong; Feng, Jinyuan; Qi, Biqing; Wei, Xiaochi; Gao, Yan; Wu, Yi; Hu, Yao; Mao, Jiaxin | [arXiv:2605.26646](https://arxiv.org/abs/2605.26646) - [DOI](https://doi.org/10.48550/arXiv.2605.26646) |
+
+
+## [DEP-E-20260819-Joint Pilot Optimization](../DEP-E-20260819-Joint%20Pilot%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Pilot Optimization, Target Detection and Channel Estimation for Integrated Sensing and Communication Systems* | Huang, Zhe; Wang, Kexuan; Liu, An; Cai, Yunlong; Du, Rui; Han, Tony Xiao | [arXiv:2202.02688](https://arxiv.org/abs/2202.02688) - [DOI](https://doi.org/10.48550/arXiv.2202.02688) |
