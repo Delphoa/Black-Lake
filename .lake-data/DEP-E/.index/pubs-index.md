@@ -10305,3 +10305,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Toward Practical Equilibrium Propagation: Brain-inspired Recurrent Neural Network with Feedback Regulation and Residual Connections* | Liu, Zhuo; Chen, Tao | [arXiv:2508.11659](https://arxiv.org/abs/2508.11659) - [DOI](https://doi.org/10.48550/arXiv.2508.11659) |
+
+
+## [DEP-E-20260819-Stratified and Time-aware](../DEP-E-20260819-Stratified%20and%20Time-aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stratified and Time-aware Sampling based Adaptive Ensemble Learning for Streaming Recommendations* | Zhao, Yan; Wang, Shoujin; Wang, Yan; Liu, Hongwei | [arXiv:2009.06824](https://arxiv.org/abs/2009.06824) - [DOI](https://doi.org/10.48550/arXiv.2009.06824) |

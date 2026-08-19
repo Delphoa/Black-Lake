@@ -28222,6 +28222,29 @@
         "https://doi.org/10.48550/arXiv.2508.11659"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Stratified and Time-aware",
+        ".logs/20260819-Arxiv-Stratified-and-Time-aware-Sampling-based-LOG.md",
+        ".reports/BL-Arxiv-Stratified-and-Time-aware-Sampling-based-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.06824",
+      "arxiv_id": "2009.06824",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2009.06824",
+      "normalized_title": "Stratified and Time-aware Sampling based Adaptive Ensemble Learning for Streaming Recommendations",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P497; draw 17835 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 6; reselections 8; complete-source gate passed; all source files withheld locally.",
+      "slug": "Stratified-and-Time-aware-Sampling-based",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.06824",
+        "https://arxiv.org/html/2009.06824",
+        "https://arxiv.org/pdf/2009.06824",
+        "https://doi.org/10.48550/arXiv.2009.06824"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
