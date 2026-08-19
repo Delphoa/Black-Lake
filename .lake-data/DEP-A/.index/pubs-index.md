@@ -12140,3 +12140,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict* | Lu Yang; Shusheng Xu; Zhuoran Li; Tongkai Yang; Longbo Huang | [arXiv:2608.13921v1](https://arxiv.org/abs/2608.13921v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13921) |
+
+
+## [DEP-A-20260819-MemoryLake MemoryArena Ma](../DEP-A-20260819-MemoryLake%20MemoryArena%20Ma/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.13883-whitepaper-review.md`](../DEP-A-20260819-MemoryLake%20MemoryArena%20Ma/2608.13883-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends* | Chaoqun Zhan; Qiang Zhou; Guannan Li; Zhenqiang Huang; Qianjin Wang | [arXiv:2608.13883v1](https://arxiv.org/abs/2608.13883v1) - [DOI](https://doi.org/10.48550/arXiv.2608.13883) |
