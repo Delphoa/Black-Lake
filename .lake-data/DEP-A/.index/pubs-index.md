@@ -11861,3 +11861,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians* | Pouya Ardekhani; Zahra Dehghanian; Morteza Abolghasemi; Hamid R. Rabiee | [arXiv:2607.28300v1](https://arxiv.org/abs/2607.28300v1) - [DOI](https://doi.org/10.48550/arXiv.2607.28300) |
+
+
+## [DEP-A-20260819-Spatial Memory Agent Expe](../DEP-A-20260819-Spatial%20Memory%20Agent%20Expe/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.12743-whitepaper-review.md`](../DEP-A-20260819-Spatial%20Memory%20Agent%20Expe/2608.12743-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence* | Haokai Zhang; Yuhang Ding; Yunshu Zhou; Xinze Du; Shengtao Zhang; Zhiyue Zhao; Yuling Xi; Hao Chen | [arXiv:2608.12743v1](https://arxiv.org/abs/2608.12743v1) - [DOI](https://doi.org/10.48550/arXiv.2608.12743) |
