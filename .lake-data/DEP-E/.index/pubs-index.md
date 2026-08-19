@@ -8058,3 +8058,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DOGR: Leveraging Document-Oriented Contrastive Learning in Generative Retrieval* | Lu, Penghao; Dong, Xin; Zhou, Yuansheng; Cheng, Lei; Yuan, Chuan; Mo, Linjian | [arXiv:2502.07219](https://arxiv.org/abs/2502.07219) - [DOI](https://doi.org/10.48550/arXiv.2502.07219) |
+
+
+## [DEP-E-20260819-MAMBA4D Efficient](../DEP-E-20260819-MAMBA4D%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models* | Liu, Jiuming; Han, Jinru; Liu, Lihao; Aviles-Rivero, Angelica I.; Jiang, Chaokang; Liu, Zhe; Wang, Hesheng | [arXiv:2405.14338](https://arxiv.org/abs/2405.14338) - [DOI](https://doi.org/10.48550/arXiv.2405.14338) |
