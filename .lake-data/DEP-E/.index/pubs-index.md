@@ -7365,3 +7365,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning* | Zhou, Xinyang; Wei, Fanyue; Duan, Lixin; Yao, Angela; Li, Wen | [arXiv:2501.07305](https://arxiv.org/abs/2501.07305) - [DOI](https://doi.org/10.48550/arXiv.2501.07305) |
+
+
+## [DEP-E-20260819-Unbiased Implicit](../DEP-E-20260819-Unbiased%20Implicit/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Unbiased Implicit Feedback via Bi-level Optimization* | Chen, Can; Ma, Chen; Chen, Xi; Song, Sirui; Liu, Hao; Liu, Xue | [arXiv:2206.00147](https://arxiv.org/abs/2206.00147) - [DOI](https://doi.org/10.48550/arXiv.2206.00147) |
