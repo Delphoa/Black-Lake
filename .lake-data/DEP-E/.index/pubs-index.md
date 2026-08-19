@@ -9304,3 +9304,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection* | Wang, Shenqi; Xu, Yingfu; Yousefzadeh, Amirreza; Eissa, Sherif; Corporaal, Henk; Corradi, Federico; Tang, Guangzhi | [arXiv:2506.13440](https://arxiv.org/abs/2506.13440) - [DOI](https://doi.org/10.48550/arXiv.2506.13440) |
+
+
+## [DEP-E-20260819-Train Less Learn More](../DEP-E-20260819-Train%20Less%20Learn%20More/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning* | Zhang, Zhi; Han, Zhen; Mavromatis, Costas; Zhu, Qi; Zhang, Yunyi; Guan, Sheng; Wang, Dingmin; Zhou, Xiong; Wang, Shuai; Adeshina, Soji; Ioannidis, Vassilis; Rangwala, Huzefa | [arXiv:2602.14338](https://arxiv.org/abs/2602.14338) - [DOI](https://doi.org/10.48550/arXiv.2602.14338) |
