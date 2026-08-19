@@ -7099,3 +7099,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Graph-native Optimization Framework for Complex Graph Queries* | Lyu, Bingqing; Zhou, Xiaoli; Lai, Longbin; Yang, Yufan; Lou, Yunkai; Yu, Wenyuan; Zhou, Jingren | [arXiv:2503.22091](https://arxiv.org/abs/2503.22091) - [DOI](https://doi.org/10.48550/arXiv.2503.22091) |
+
+
+## [DEP-E-20260819-Simulated annealing for](../DEP-E-20260819-Simulated%20annealing%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Simulated annealing for optimization of graphs and sequences* | Liu, Xianggen; Li, Pengyong; Meng, Fandong; Zhou, Hao; Zhong, Huasong; Zhou, Jie; Mou, Lili; Song, Sen | [arXiv:2110.01384](https://arxiv.org/abs/2110.01384) - [DOI](https://doi.org/10.1016/j.neucom.2021.09.003) |
