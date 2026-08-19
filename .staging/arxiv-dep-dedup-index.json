@@ -12444,6 +12444,29 @@
         "https://doi.org/10.48550/arXiv.2210.02206"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Multitask Identity-Aware",
+        ".logs/20260819-Arxiv-Multitask-Identity-Aware-Image-Steganography-via-LOG.md",
+        ".reports/BL-Arxiv-Multitask-Identity-Aware-Image-Steganography-via-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2107.05819",
+      "arxiv_id": "2107.05819",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2107.05819",
+      "normalized_title": "Multitask Identity-Aware Image Steganography via Minimax Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P111; draw 17379 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 24; reselections 26; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multitask-Identity-Aware-Image-Steganography-via",
+      "source_urls": [
+        "https://arxiv.org/abs/2107.05819",
+        "https://arxiv.org/html/2107.05819",
+        "https://arxiv.org/pdf/2107.05819",
+        "https://doi.org/10.48550/arXiv.2107.05819"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

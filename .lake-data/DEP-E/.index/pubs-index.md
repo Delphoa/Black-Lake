@@ -5503,3 +5503,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective* | Zhang, Zijian; Shu, Chang; Xiao, Ya; Shen, Yuan; Zhu, Di; Xiao, Jing; Chen, Youxin; Lau, Jey Han; Zhang, Qian; Lu, Zheng | [arXiv:2210.02206](https://arxiv.org/abs/2210.02206) - [DOI](https://doi.org/10.48550/arXiv.2210.02206) |
+
+
+## [DEP-E-20260819-Multitask Identity-Aware](../DEP-E-20260819-Multitask%20Identity-Aware/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multitask Identity-Aware Image Steganography via Minimax Optimization* | Cui, Jiabao; Zhang, Pengyi; Li, Songyuan; Zheng, Liangli; Bao, Cuizhu; Xia, Jupeng; Li, Xi | [arXiv:2107.05819](https://arxiv.org/abs/2107.05819) - [DOI](https://doi.org/10.48550/arXiv.2107.05819) |
