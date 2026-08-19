@@ -5559,3 +5559,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Investigating Rumor News Using Agreement-Aware Search* | Shang, Jingbo; Sun, Tianhang; Shen, Jiaming; Liu, Xingbang; Gruenheid, Anja; Korn, Flip; Lelkes, Adam; Yu, Cong; Han, Jiawei | [arXiv:1802.07398](https://arxiv.org/abs/1802.07398) - [DOI](https://doi.org/10.1145/3269206.3272020) |
+
+
+## [DEP-E-20260819-Enhancing Local Search](../DEP-E-20260819-Enhancing%20Local%20Search/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting* | Jiang, Menghua; Gao, Haokai; Chen, Shuhao; Chen, Yin | [arXiv:2512.05619](https://arxiv.org/abs/2512.05619) - [DOI](https://doi.org/10.48550/arXiv.2512.05619) |
