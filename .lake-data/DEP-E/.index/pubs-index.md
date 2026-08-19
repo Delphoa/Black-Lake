@@ -4754,3 +4754,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Algorithm for Device Detection and Channel Estimation in Asynchronous IoT Systems* | Liu, Liang; Liu, Ya-Feng | [arXiv:2010.09979](https://arxiv.org/abs/2010.09979) - [DOI](https://doi.org/10.48550/arXiv.2010.09979) |
+
+
+## [DEP-E-20260819-Multi-fidelity](../DEP-E-20260819-Multi-fidelity/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Multi-fidelity Reinforcement Learning Control for Complex Dynamical Systems* | Sun, Luning; Liu, Xin-Yang; Zhao, Siyan; Grover, Aditya; Wang, Jian-Xun; Thiagarajan, Jayaraman J. | [arXiv:2504.05588](https://arxiv.org/abs/2504.05588) - [DOI](https://doi.org/10.48550/arXiv.2504.05588) |

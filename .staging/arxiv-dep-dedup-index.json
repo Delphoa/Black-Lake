@@ -9983,6 +9983,29 @@
         "https://doi.org/10.48550/arXiv.2010.09979"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Multi-fidelity",
+        ".logs/20260819-Arxiv-Multi-fidelity-Reinforcement-Learning-Control-LOG.md",
+        ".reports/BL-Arxiv-Multi-fidelity-Reinforcement-Learning-Control-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2504.05588",
+      "arxiv_id": "2504.05588",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2504.05588",
+      "normalized_title": "Multi-fidelity Reinforcement Learning Control for Complex Dynamical Systems",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P04; draw 68216 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 32; reselections 34; complete-source gate passed; all source files withheld locally.",
+      "slug": "Multi-fidelity-Reinforcement-Learning-Control",
+      "source_urls": [
+        "https://arxiv.org/abs/2504.05588",
+        "https://arxiv.org/html/2504.05588",
+        "https://arxiv.org/pdf/2504.05588",
+        "https://doi.org/10.48550/arXiv.2504.05588"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
