@@ -9031,3 +9031,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Co-Layout: LLM-driven Co-optimization for Interior Layout* | Xiang, Chucheng; Bao, Ruchao; Feng, Biyin; Wu, Wenzheng; Liu, Zhongyuan; Guan, Yirui; Liu, Ligang | [arXiv:2511.12474](https://arxiv.org/abs/2511.12474) - [DOI](https://doi.org/10.48550/arXiv.2511.12474) |
+
+
+## [DEP-E-20260819-DSAS A Universal](../DEP-E-20260819-DSAS%20A%20Universal/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DSAS: A Universal Plug-and-Play Framework for Attention Optimization in Multi-Document Question Answering* | Li, Jiakai; Wang, Rongzheng; Ma, Yizhuo; Liang, Shuang; Luo, Guangchun; Qin, Ke | [arXiv:2510.12251](https://arxiv.org/abs/2510.12251) - [DOI](https://doi.org/10.48550/arXiv.2510.12251) |
