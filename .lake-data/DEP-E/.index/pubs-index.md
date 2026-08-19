@@ -6315,3 +6315,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *E$^2$AT: Multimodal Jailbreak Defense via Dynamic Joint Optimization for Multimodal Large Language Models* | Lu, Liming; Gu, Xiang; Pang, Shuchao; Liang, Siyuan; Zhu, Haotian; Zeng, Xiyu; Zheng, Xu; Zhou, Yongbin | [arXiv:2503.04833](https://arxiv.org/abs/2503.04833) - [DOI](https://doi.org/10.48550/arXiv.2503.04833) |
+
+
+## [DEP-E-20260819-Stochastic](../DEP-E-20260819-Stochastic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Stochastic Variance-Reduced Cubic Regularization for Nonconvex Optimization* | Wang, Zhe; Zhou, Yi; Liang, Yingbin; Lan, Guanghui | [arXiv:1802.07372](https://arxiv.org/abs/1802.07372) - [DOI](https://doi.org/10.48550/arXiv.1802.07372) |
