@@ -13295,6 +13295,29 @@
         "https://doi.org/10.48550/arXiv.2603.12639"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Data-driven",
+        ".logs/20260819-Arxiv-Data-driven-identification-of-nonlinear-LOG.md",
+        ".reports/BL-Arxiv-Data-driven-identification-of-nonlinear-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.03977",
+      "arxiv_id": "2503.03977",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2503.03977",
+      "normalized_title": "Data-driven identification of nonlinear dynamical systems with LSTM autoencoders and Normalizing Flows",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P148; draw 46787 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 2; focus exclusions 21; reselections 24; complete-source gate passed; all source files withheld locally.",
+      "slug": "Data-driven-identification-of-nonlinear",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.03977",
+        "https://arxiv.org/html/2503.03977",
+        "https://arxiv.org/pdf/2503.03977",
+        "https://doi.org/10.48550/arXiv.2503.03977"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

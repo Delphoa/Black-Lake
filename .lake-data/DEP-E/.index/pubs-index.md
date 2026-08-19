@@ -5762,3 +5762,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization* | Zhang, Ruicheng; Chen, Guangyu; Xu, Zunnan; Liu, Zihao; Zhong, Zhizhou; Zhang, Mingyang; Zhou, Jun; Li, Xiu | [arXiv:2603.12639](https://arxiv.org/abs/2603.12639) - [DOI](https://doi.org/10.48550/arXiv.2603.12639) |
+
+
+## [DEP-E-20260819-Data-driven](../DEP-E-20260819-Data-driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Data-driven identification of nonlinear dynamical systems with LSTM autoencoders and Normalizing Flows* | Rostamijavanani, Abdolvahhab; Li, Shanwu; Yang, Yongchao | [arXiv:2503.03977](https://arxiv.org/abs/2503.03977) - [DOI](https://doi.org/10.48550/arXiv.2503.03977) |
