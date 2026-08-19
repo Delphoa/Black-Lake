@@ -11132,3 +11132,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover* | Minwoo Kim; Soochang Song; Namyoon Lee; Bang Chul Jung; Yongjune Kim | [arXiv:2608.10545v1](https://arxiv.org/abs/2608.10545v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10545) |
+
+
+## [DEP-A-20260819-When Vision Becomes Text](../DEP-A-20260819-When%20Vision%20Becomes%20Text/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.10489-whitepaper-review.md`](../DEP-A-20260819-When%20Vision%20Becomes%20Text/2608.10489-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *When Vision Becomes Text: Visual Token Pruning via Cross-Modal Residual Guidance in VLMs* | Congyang Ou; Ruike Song; Yang Zhou; Libo Sun; Haokui Zhang; Zhenbo Luo | [arXiv:2608.10489v1](https://arxiv.org/abs/2608.10489v1) - [DOI](https://doi.org/10.48550/arXiv.2608.10489) |
