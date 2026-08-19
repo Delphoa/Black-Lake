@@ -5118,3 +5118,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization* | Huang, Xiaohan; Wang, Dongjie; Ning, Zhiyuan; Qiao, Ziyue; Long, Qingqing; Zhu, Haowei; Du, Yi; Wu, Min; Zhou, Yuanchun; Xiao, Meng | [arXiv:2504.17355](https://arxiv.org/abs/2504.17355) - [DOI](https://doi.org/10.48550/arXiv.2504.17355) |
+
+
+## [DEP-E-20260819-MedGround-R1 Advancing](../DEP-E-20260819-MedGround-R1%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization* | Xu, Huihui; Nie, Yuanpeng; Wang, Hualiang; Chen, Ying; Li, Wei; Ning, Junzhi; Liu, Lihao; Wang, Hongqiu; Zhu, Lei; Liu, Jiyao; Li, Xiaomeng; He, Junjun | [arXiv:2507.02994](https://arxiv.org/abs/2507.02994) - [DOI](https://doi.org/10.48550/arXiv.2507.02994) |
