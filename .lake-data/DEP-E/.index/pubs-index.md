@@ -9955,3 +9955,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *UDON: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints* | Zhao, Hongrui; Zhou, Xunlan; Ivanovic, Boris; Mehr, Negar | [arXiv:2509.12702](https://arxiv.org/abs/2509.12702) - [DOI](https://doi.org/10.48550/arXiv.2509.12702) |
+
+
+## [DEP-E-20260819-Knowledge Graph](../DEP-E-20260819-Knowledge%20Graph/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* | Wang, Shijie; Fan, Wenqi; Feng, Yue; Lin, Shanru; Ma, Xinyu; Wang, Shuaiqiang; Yin, Dawei | [arXiv:2501.02226](https://arxiv.org/abs/2501.02226) - [DOI](https://doi.org/10.48550/arXiv.2501.02226) |
