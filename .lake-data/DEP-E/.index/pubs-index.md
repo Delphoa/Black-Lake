@@ -5790,3 +5790,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight* | Dong, Yifei; Wu, Fengyi; Chen, Guangyu; Kong, Lingdong; Hu, Qiyu; Zhou, Yuxuan; Zhu, Xu; Sun, Jingdong; He, Jun-Yan; Dai, Qi; Hauptmann, Alexander G.; Cheng, Zhi-Qi | [arXiv:2510.08713](https://arxiv.org/abs/2510.08713) - [DOI](https://doi.org/10.48550/arXiv.2510.08713) |
+
+
+## [DEP-E-20260819-FAST A Synergistic](../DEP-E-20260819-FAST%20A%20Synergistic/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *FAST: A Synergistic Framework of Attention and State-space Models for Spatiotemporal Traffic Prediction* | Li, Xinjin; Cao, Jinghan; Wang, Mengyue; Wu, Yue; Yan, Longxiang; Zhou, Yeyang; Sha, Ziqi; Ma, Yu | [arXiv:2604.13453](https://arxiv.org/abs/2604.13453) - [DOI](https://doi.org/10.48550/arXiv.2604.13453) |
