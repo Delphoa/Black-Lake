@@ -18194,6 +18194,29 @@
         "https://doi.org/10.48550/arXiv.2408.10116"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A local search 4 3",
+        ".logs/20260819-Arxiv-A-local-search-4-3-approximation-algorithm-LOG.md",
+        ".reports/BL-Arxiv-A-local-search-4-3-approximation-algorithm-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1812.09353",
+      "arxiv_id": "1812.09353",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1812.09353",
+      "normalized_title": "A local search $4/3$-approximation algorithm for the minimum $3$-path partition problem",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P61; draw 42678 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 2; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-local-search-4-3-approximation-algorithm",
+      "source_urls": [
+        "https://arxiv.org/abs/1812.09353",
+        "https://arxiv.org/html/1812.09353",
+        "https://arxiv.org/pdf/1812.09353",
+        "https://doi.org/10.48550/arXiv.1812.09353"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -7253,3 +7253,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing* | Liang, Ruichao; Chen, Jing; Wu, Cong; He, Kun; Wu, Yueming; Cao, Ruochen; Du, Ruiying; Liu, Yang; Zhao, Ziming | [arXiv:2408.10116](https://arxiv.org/abs/2408.10116) - [DOI](https://doi.org/10.48550/arXiv.2408.10116) |
+
+
+## [DEP-E-20260819-A local search 4 3](../DEP-E-20260819-A%20local%20search%204%203/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A local search $4/3$-approximation algorithm for the minimum $3$-path partition problem* | Chen, Yong; Goebel, Randy; Lin, Guohui; Liu, Longcheng; Su, Bing; Tong, Weitian; Xu, Yao; Zhang, An | [arXiv:1812.09353](https://arxiv.org/abs/1812.09353) - [DOI](https://doi.org/10.48550/arXiv.1812.09353) |
