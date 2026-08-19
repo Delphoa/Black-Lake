@@ -7071,3 +7071,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents* | Chen, Yuhao; Xu, Yi; Ding, Xinyun; Fang, Xiang; Liu, Shuochen; Lin, Luxi; Zhang, Qingyu; Li, Ya; Liu, Quan; Xu, Tong | [arXiv:2603.23840](https://arxiv.org/abs/2603.23840) - [DOI](https://doi.org/10.48550/arXiv.2603.23840) |
+
+
+## [DEP-E-20260819-Joint Latency and Cost](../DEP-E-20260819-Joint%20Latency%20and%20Cost/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Joint Latency and Cost Optimization for Erasure-coded Data Center Storage* | Xiang, Yu; Lan, Tian; Aggarwal, Vaneet; Chen, Yih-Farn R | [arXiv:1404.4975](https://arxiv.org/abs/1404.4975) - [DOI](https://doi.org/10.1109/TNET.2015.2466453) |
