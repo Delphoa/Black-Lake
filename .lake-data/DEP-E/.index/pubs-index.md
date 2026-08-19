@@ -5125,3 +5125,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization* | Xu, Huihui; Nie, Yuanpeng; Wang, Hualiang; Chen, Ying; Li, Wei; Ning, Junzhi; Liu, Lihao; Wang, Hongqiu; Zhu, Lei; Liu, Jiyao; Li, Xiaomeng; He, Junjun | [arXiv:2507.02994](https://arxiv.org/abs/2507.02994) - [DOI](https://doi.org/10.48550/arXiv.2507.02994) |
+
+
+## [DEP-E-20260819-TaDA Training-free recipe](../DEP-E-20260819-TaDA%20Training-free%20recipe/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering* | Joshi, Vinay; Brahma, Pratik Prabhanjan; Liu, Zicheng; Barsoum, Emad | [arXiv:2506.04642](https://arxiv.org/abs/2506.04642) - [DOI](https://doi.org/10.48550/arXiv.2506.04642) |
