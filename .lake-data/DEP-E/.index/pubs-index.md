@@ -7925,3 +7925,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SACO: Sequence-Aware Constrained Optimization Framework for Coupon Distribution in E-commerce* | Kong, Li; Wang, Bingzhe; Chen, Zhou; Hu, Suhan; Ma, Yuchao; Qi, Qi; Song, Suoyuan; Jin, Bicheng | [arXiv:2508.09198](https://arxiv.org/abs/2508.09198) - [DOI](https://doi.org/10.48550/arXiv.2508.09198) |
+
+
+## [DEP-E-20260819-Optimization-Free](../DEP-E-20260819-Optimization-Free/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition* | Wang, Shuoyuan; Wang, Jindong; Xi, HuaJun; Zhang, Bob; Zhang, Lei; Wei, Hongxin | [arXiv:2310.18562](https://arxiv.org/abs/2310.18562) - [DOI](https://doi.org/10.48550/arXiv.2310.18562) |
