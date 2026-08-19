@@ -8751,3 +8751,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization* | Chen, Long; Razkenari, Ryan; Zhou, Yuxuan; Tian, Yuan; Ghosh, Rahul; Pappakrishnan, Venkatesh; Ahuja, Disha; Ravipati, Vidya Sagar | [arXiv:2606.25656](https://arxiv.org/abs/2606.25656) - [DOI](https://doi.org/10.48550/arXiv.2606.25656) |
+
+
+## [DEP-E-20260819-Hypersphere Optimization](../DEP-E-20260819-Hypersphere%20Optimization/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hypersphere Optimization: Approximated Gradient-Based Binary Optimization on Smooth Manifold for Photonic Inverse Design* | Liu, Zhaocheng | [arXiv:2209.02129](https://arxiv.org/abs/2209.02129) - [DOI](https://doi.org/10.48550/arXiv.2209.02129) |
