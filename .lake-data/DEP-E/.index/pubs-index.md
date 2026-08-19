@@ -7792,3 +7792,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Few-Shot Continual Learning for 3D Brain MRI with Frozen Foundation Models* | Chen, Chi-Sheng; Zhang, Xinyu; Chen, Guan-Ying; Xie, Qiuzhe; Zhang, Fan; Kuo, En-Jui | [arXiv:2602.23533](https://arxiv.org/abs/2602.23533) - [DOI](https://doi.org/10.48550/arXiv.2602.23533) |
+
+
+## [DEP-E-20260819-DoA-LF A Location](../DEP-E-20260819-DoA-LF%20A%20Location/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DoA-LF: A Location Fingerprint Positioning Algorithm with Millimeter-Wave* | Wei, Zhiqing; Zhao, Yadong; Liu, Xinyi; Feng, Zhiyong | [arXiv:2102.13297](https://arxiv.org/abs/2102.13297) - [DOI](https://doi.org/10.1109/ACCESS.2017.2753781) |
