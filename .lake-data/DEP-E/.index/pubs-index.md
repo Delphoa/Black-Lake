@@ -8772,3 +8772,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Movable Antenna-Aided Secure LEO Satellite Networks: Joint Antenna Position and Beamforming Optimization* | Luo, Suhong; Tang, Pan; Zhang, Jianhua; Wang, Ji; Li, Yixuan; Ding, Zihang; Li, Xingwang | [arXiv:2605.18099](https://arxiv.org/abs/2605.18099) - [DOI](https://doi.org/10.48550/arXiv.2605.18099) |
+
+
+## [DEP-E-20260819-Black-Box Prompt](../DEP-E-20260819-Black-Box%20Prompt/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Black-Box Prompt Optimization: Aligning Large Language Models without Model Training* | Cheng, Jiale; Liu, Xiao; Zheng, Kehan; Ke, Pei; Wang, Hongning; Dong, Yuxiao; Tang, Jie; Huang, Minlie | [arXiv:2311.04155](https://arxiv.org/abs/2311.04155) - [DOI](https://doi.org/10.48550/arXiv.2311.04155) |
