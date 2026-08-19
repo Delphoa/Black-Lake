@@ -10228,3 +10228,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning* | Qin, Yuehan; Li, Shawn; Nian, Yi; Yu, Xinyan Velocity; Zhao, Yue; Ma, Xuezhe | [arXiv:2504.06438](https://arxiv.org/abs/2504.06438) - [DOI](https://doi.org/10.48550/arXiv.2504.06438) |
+
+
+## [DEP-E-20260819-Communication-Efficient](../DEP-E-20260819-Communication-Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Communication-Efficient Device Scheduling for Federated Learning Using Lyapunov Optimization* | Perazzone, Jake B.; Wang, Shiqiang; Ji, Mingyue; Chan, Kevin | [arXiv:2503.00569](https://arxiv.org/abs/2503.00569) - [DOI](https://doi.org/10.48550/arXiv.2503.00569) |
