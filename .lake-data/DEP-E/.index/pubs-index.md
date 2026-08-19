@@ -5692,3 +5692,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cross-Layer Traffic Allocation and Contention Window Optimization for Wi-Fi 7 MLO: When DRL Meets LSTM* | Liu, Zhang; Wang, Xianbin; Lian, Shumin; Huang, Lianfen; Fu, Liqun; Zhang, Ying-Jun Angela | [arXiv:2603.18602](https://arxiv.org/abs/2603.18602) - [DOI](https://doi.org/10.48550/arXiv.2603.18602) |
+
+
+## [DEP-E-20260819-Adversarial Attacks on](../DEP-E-20260819-Adversarial%20Attacks%20on/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adversarial Attacks on Online Learning to Rank with Click Feedback* | Zuo, Jinhang; Zhang, Zhiyao; Wang, Zhiyong; Li, Shuai; Hajiesmaili, Mohammad; Wierman, Adam | [arXiv:2305.17071](https://arxiv.org/abs/2305.17071) - [DOI](https://doi.org/10.48550/arXiv.2305.17071) |
