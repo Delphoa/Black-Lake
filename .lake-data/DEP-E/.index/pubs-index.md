@@ -8618,3 +8618,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network* | Shi, Zijian; Chen, Yu; Cartlidge, John | [arXiv:2103.01670](https://arxiv.org/abs/2103.01670) - [DOI](https://doi.org/10.48550/arXiv.2103.01670) |
+
+
+## [DEP-E-20260819-Predictive Lagrangian](../DEP-E-20260819-Predictive%20Lagrangian/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Predictive Lagrangian Optimization for Constrained Reinforcement Learning* | Zhang, Tianqi; Yuan, Puzhen; Zhan, Guojian; Lin, Ziyu; Lyu, Yao; Qin, Zhenzhi; Duan, Jingliang; Zhang, Liping; Li, Shengbo Eben | [arXiv:2501.15217](https://arxiv.org/abs/2501.15217) - [DOI](https://doi.org/10.48550/arXiv.2501.15217) |
