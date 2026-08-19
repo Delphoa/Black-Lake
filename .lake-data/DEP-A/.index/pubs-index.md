@@ -12230,3 +12230,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths* | Seeyeon Kim; Juhyeong Jin; Joo-Young Kim | [arXiv:2608.14333v1](https://arxiv.org/abs/2608.14333v1) - [DOI](https://doi.org/10.48550/arXiv.2608.14333) |
+
+
+## [DEP-A-20260820-Decode Branch Transformer](../DEP-A-20260820-Decode%20Branch%20Transformer/README.md)
+
+Review status: substantively reviewed from the complete arXiv v2 paper and matching full-paper HTML on 2026-08-20. The owning review artifact is [`2608.12385-whitepaper-review.md`](../DEP-A-20260820-Decode%20Branch%20Transformer/2608.12385-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation* | Liming Liu; Mingze Wang; Tuo Zhao | [arXiv:2608.12385v2](https://arxiv.org/abs/2608.12385v2) - [DOI](https://doi.org/10.48550/arXiv.2608.12385) |
