@@ -11447,3 +11447,12 @@ Review status: substantively reviewed from the complete arXiv v2 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SAKI: Score-Aware Low-Rank Key Indexing with Random-Matrix Noise Correction for KV Retrieval* | Lin Zhang | [arXiv:2608.03228v2](https://arxiv.org/abs/2608.03228v2) - [DOI](https://doi.org/10.48550/arXiv.2608.03228) |
+
+
+## [DEP-A-20260819-AnchorKV Anchor Residual](../DEP-A-20260819-AnchorKV%20Anchor%20Residual/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.02901-whitepaper-review.md`](../DEP-A-20260819-AnchorKV%20Anchor%20Residual/2608.02901-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AnchorKV: Anchor-Residual KV Cache Compression* | Malik Khalaf; Yara Shamshoum; Nitzan Hodos; Yuval Sieradzki; Assaf Schuster | [arXiv:2608.02901v1](https://arxiv.org/abs/2608.02901v1) - [DOI](https://doi.org/10.48550/arXiv.2608.02901) |
