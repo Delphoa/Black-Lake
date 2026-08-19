@@ -10284,3 +10284,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QMamba: Post-Training Quantization for Vision State Space Models* | Li, Yinglong; Liu, Xiaoyu; Li, Jiacheng; Xu, Ruikang; Chen, Yinda; Xiong, Zhiwei | [arXiv:2501.13624](https://arxiv.org/abs/2501.13624) - [DOI](https://doi.org/10.48550/arXiv.2501.13624) |
+
+
+## [DEP-E-20260819-BRICKS-WM Building](../DEP-E-20260819-BRICKS-WM%20Building/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models* | Zhang, Shaowei; Cao, Jiahan; Zhou, Xunlan; Wan, Shenghua; Zhan, De-Chuan | [arXiv:2606.16489](https://arxiv.org/abs/2606.16489) - [DOI](https://doi.org/10.48550/arXiv.2606.16489) |

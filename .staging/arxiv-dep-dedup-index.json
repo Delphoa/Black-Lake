@@ -28153,6 +28153,29 @@
         "https://doi.org/10.48550/arXiv.2501.13624"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-BRICKS-WM Building",
+        ".logs/20260819-Arxiv-BRICKS-WM-Building-Reusability-via-Interface-LOG.md",
+        ".reports/BL-Arxiv-BRICKS-WM-Building-Reusability-via-Interface-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2606.16489",
+      "arxiv_id": "2606.16489",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2606.16489",
+      "normalized_title": "BRICKS-WM: Building Reusability via Interface Composition Kinetics for Structured World Models",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P494; draw 2084 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 6; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "BRICKS-WM-Building-Reusability-via-Interface",
+      "source_urls": [
+        "https://arxiv.org/abs/2606.16489",
+        "https://arxiv.org/html/2606.16489",
+        "https://arxiv.org/pdf/2606.16489",
+        "https://doi.org/10.48550/arXiv.2606.16489"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
