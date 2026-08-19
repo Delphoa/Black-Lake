@@ -11600,3 +11600,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Verification-Notebook Learning for Source-Aware Multimodal Misinformation Detection* | Junyuan Tan | [arXiv:2607.23581v1](https://arxiv.org/abs/2607.23581v1) - [DOI](https://doi.org/10.48550/arXiv.2607.23581) |
+
+
+## [DEP-A-20260819-Melo Production LLM Power](../DEP-A-20260819-Melo%20Production%20LLM%20Power/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2607.23718-whitepaper-review.md`](../DEP-A-20260819-Melo%20Production%20LLM%20Power/2607.23718-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Melo: A Production LLM-Powered Music Recommendation Agent* | Shijia Wang; Da Guo; Qiang Xiao; Fanghui Bi; Weisheng Li; Dongjing Wang; Chuanjiang Luo | [arXiv:2607.23718v1](https://arxiv.org/abs/2607.23718v1) - [DOI](https://doi.org/10.1145/3773078.3831935) |
