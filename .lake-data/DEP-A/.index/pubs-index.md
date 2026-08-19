@@ -10961,3 +10961,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MixFormer: Linear Transformer with Mixture of Memory Experts* | Yu Guo; Lei Duan | [arXiv:2608.09468v1](https://arxiv.org/abs/2608.09468v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09468) |
+
+
+## [DEP-A-20260819-Tree Experience Hierarchi](../DEP-A-20260819-Tree%20Experience%20Hierarchi/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.09044-whitepaper-review.md`](../DEP-A-20260819-Tree%20Experience%20Hierarchi/2608.09044-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents* | Zihao Deng; Yining Zhu; Leiming Wang; Jingfei Lu; Junbo Wang; Chuncheng Ran; Yu Yang; Dixuan Yang; Jikun Shen | [arXiv:2608.09044v1](https://arxiv.org/abs/2608.09044v1) - [DOI](https://doi.org/10.48550/arXiv.2608.09044) |
