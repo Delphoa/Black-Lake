@@ -7190,3 +7190,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding* | Wang, Shuai; Zhu, Hongyi; Huang, Jia-Hong; Shen, Yixian; Zeng, Chengxi; Rudinac, Stevan; Kackovic, Monika; Wijnberg, Nachoem; Worring, Marcel | [arXiv:2604.19689](https://arxiv.org/abs/2604.19689) - [DOI](https://doi.org/10.48550/arXiv.2604.19689) |
+
+
+## [DEP-E-20260819-Learning ell 1 -based](../DEP-E-20260819-Learning%20ell%201%20-based/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning $\ell_1$-based analysis and synthesis sparsity priors using bi-level optimization* | Chen, Yunjin; Pock, Thomas; Bischof, Horst | [arXiv:1401.4105](https://arxiv.org/abs/1401.4105) - [DOI](https://doi.org/10.48550/arXiv.1401.4105) |

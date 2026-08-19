@@ -17987,6 +17987,29 @@
         "https://doi.org/10.48550/arXiv.2604.19689"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Learning ell 1 -based",
+        ".logs/20260819-Arxiv-Learning-ell-1-based-analysis-and-synthesis-LOG.md",
+        ".reports/BL-Arxiv-Learning-ell-1-based-analysis-and-synthesis-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1401.4105",
+      "arxiv_id": "1401.4105",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1401.4105",
+      "normalized_title": "Learning $\\ell_1$-based analysis and synthesis sparsity priors using bi-level optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P52; draw 12931 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 3; reselections 3; complete-source gate passed; all source files withheld locally.",
+      "slug": "Learning-ell-1-based-analysis-and-synthesis",
+      "source_urls": [
+        "https://arxiv.org/abs/1401.4105",
+        "https://arxiv.org/html/1401.4105",
+        "https://arxiv.org/pdf/1401.4105",
+        "https://doi.org/10.48550/arXiv.1401.4105"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
