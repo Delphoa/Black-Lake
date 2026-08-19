@@ -13847,6 +13847,29 @@
         "https://doi.org/10.48550/arXiv.2507.15336"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Run-and-Inspect Method",
+        ".logs/20260819-Arxiv-Run-and-Inspect-Method-for-Nonconvex-LOG.md",
+        ".reports/BL-Arxiv-Run-and-Inspect-Method-for-Nonconvex-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1711.08172",
+      "arxiv_id": "1711.08172",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1711.08172",
+      "normalized_title": "Run-and-Inspect Method for Nonconvex Optimization and Global Optimality Bounds for R-Local Minimizers",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P172; draw 58940 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 2; reselections 2; complete-source gate passed; all source files withheld locally.",
+      "slug": "Run-and-Inspect-Method-for-Nonconvex",
+      "source_urls": [
+        "https://arxiv.org/abs/1711.08172",
+        "https://arxiv.org/html/1711.08172",
+        "https://arxiv.org/pdf/1711.08172",
+        "https://doi.org/10.48550/arXiv.1711.08172"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

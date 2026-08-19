@@ -5930,3 +5930,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design* | Wang, Jialiang; Liu, Hanmo; Di, Shimin; Wang, Zhili; Wang, Jiachuan; Chen, Lei; Zhou, Xiaofang | [arXiv:2507.15336](https://arxiv.org/abs/2507.15336) - [DOI](https://doi.org/10.48550/arXiv.2507.15336) |
+
+
+## [DEP-E-20260819-Run-and-Inspect Method](../DEP-E-20260819-Run-and-Inspect%20Method/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Run-and-Inspect Method for Nonconvex Optimization and Global Optimality Bounds for R-Local Minimizers* | Chen, Yifan; Sun, Yuejiao; Yin, Wotao | [arXiv:1711.08172](https://arxiv.org/abs/1711.08172) - [DOI](https://doi.org/10.48550/arXiv.1711.08172) |
