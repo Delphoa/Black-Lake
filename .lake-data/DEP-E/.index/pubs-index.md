@@ -6812,3 +6812,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN* | Ouyang, Kaichen; Ke, Zong; Fu, Shengwei; Liu, Lingjie; Zhao, Puning; Hu, Dayu | [arXiv:2412.17629](https://arxiv.org/abs/2412.17629) - [DOI](https://doi.org/10.48550/arXiv.2412.17629) |
+
+
+## [DEP-E-20260819-An Attention-based Long](../DEP-E-20260819-An%20Attention-based%20Long/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Attention-based Long Short-Term Memory Framework for Detection of Bitcoin Scams* | Zhao, Puyang; Tian, Wei; Xiao, Lefu; Liu, Xinhui; Wu, Jingjin | [arXiv:2210.14408](https://arxiv.org/abs/2210.14408) - [DOI](https://doi.org/10.48550/arXiv.2210.14408) |
