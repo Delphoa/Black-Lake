@@ -9640,3 +9640,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization* | Li, Yunxin; Chen, Xinyu; Li, Zitao; Liu, Zhenyu; Wang, Longyue; Luo, Wenhan; Hu, Baotian; Zhang, Min | [arXiv:2505.19000](https://arxiv.org/abs/2505.19000) - [DOI](https://doi.org/10.48550/arXiv.2505.19000) |
+
+
+## [DEP-E-20260819-Algorithm-Relative](../DEP-E-20260819-Algorithm-Relative/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Algorithm-Relative Trajectory Valuation in Policy Gradient Control* | Li, Shihao; Li, Jiachen; Xu, Jiamin; Martin, Christopher; Li, Wei; Chen, Dongmei | [arXiv:2511.07878](https://arxiv.org/abs/2511.07878) - [DOI](https://doi.org/10.48550/arXiv.2511.07878) |
