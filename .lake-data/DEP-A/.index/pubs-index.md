@@ -11195,3 +11195,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation* | Dongjie Xu; Kai Qian; Julius; Weijie Shi; Yuxuan Sun; Minghua Tang; Fenglei Jin; Hanchi Dong; Jiajie Xu | [arXiv:2608.08684v1](https://arxiv.org/abs/2608.08684v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08684) |
+
+
+## [DEP-A-20260819-VoxZip Semantic Anchored](../DEP-A-20260819-VoxZip%20Semantic%20Anchored/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.08569-whitepaper-review.md`](../DEP-A-20260819-VoxZip%20Semantic%20Anchored/2608.08569-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *VoxZip: Semantic-Anchored Temporal KV Cache Compression for Long-Context Audio Inference* | Wenxu Jia; Dongjie Fu; Xize Cheng; Fangming Feng; Linjun Li; Wenshi Chen; Yingming Li; Zhou Zhao; Tao Jin | [arXiv:2608.08569v1](https://arxiv.org/abs/2608.08569v1) - [DOI](https://doi.org/10.1145/3767308.3835719) |
