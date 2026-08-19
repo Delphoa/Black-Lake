@@ -11240,3 +11240,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *RotaryQuant: Fitting 120B MoE Models on Consumer Hardware via Fused Compressed-Space Attention* | Anthony. Lui; Mohamed. Elsaied; N.P. Savani | [arXiv:2608.08081v1](https://arxiv.org/abs/2608.08081v1) - [DOI](https://doi.org/10.48550/arXiv.2608.08081) |
+
+
+## [DEP-A-20260819-SPECTRA Pushing KV Cache](../DEP-A-20260819-SPECTRA%20Pushing%20KV%20Cache/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07915-whitepaper-review.md`](../DEP-A-20260819-SPECTRA%20Pushing%20KV%20Cache/2608.07915-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding* | Jiamu Zhang; Liang Wu; Kelly Wan; Hanjie Chen; Liangjie Hong | [arXiv:2608.07915v1](https://arxiv.org/abs/2608.07915v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07915) |
