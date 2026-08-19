@@ -5895,3 +5895,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Towards Concurrent Stateful Stream Processing on Multicore Processors (Technical Report)* | Zhang, Shuhao; Wu, Yingjun; Zhang, Feng; He, Bingsheng | [arXiv:1904.03800](https://arxiv.org/abs/1904.03800) - [DOI](https://doi.org/10.1109/ICDE48307.2020.00136) |
+
+
+## [DEP-E-20260819-AIM-Fair Advancing](../DEP-E-20260819-AIM-Fair%20Advancing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data* | Zhao, Zengqun; Liu, Ziquan; Cao, Yu; Gong, Shaogang; Patras, Ioannis | [arXiv:2503.05665](https://arxiv.org/abs/2503.05665) - [DOI](https://doi.org/10.48550/arXiv.2503.05665) |
