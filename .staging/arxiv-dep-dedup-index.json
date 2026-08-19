@@ -14146,6 +14146,29 @@
         "https://doi.org/10.48550/arXiv.2512.05270"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems",
+        ".logs/20260819-Arxiv-Graphon-Particle-Systems-Part-II-Dynamics-of-LOG.md",
+        ".reports/BL-Arxiv-Graphon-Particle-Systems-Part-II-Dynamics-of-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2407.02765",
+      "arxiv_id": "2407.02765",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2407.02765",
+      "normalized_title": "Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P185; draw 44619 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Graphon-Particle-Systems-Part-II-Dynamics-of",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.02765",
+        "https://arxiv.org/html/2407.02765",
+        "https://arxiv.org/pdf/2407.02765",
+        "https://doi.org/10.48550/arXiv.2407.02765"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
