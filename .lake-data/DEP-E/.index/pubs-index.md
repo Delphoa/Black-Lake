@@ -9976,3 +9976,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Instant Continual Learning of Neural Radiance Fields* | Po, Ryan; Dong, Zhengyang; Bergman, Alexander W.; Wetzstein, Gordon | [arXiv:2309.01811](https://arxiv.org/abs/2309.01811) - [DOI](https://doi.org/10.48550/arXiv.2309.01811) |
+
+
+## [DEP-E-20260819-HGATSolver A](../DEP-E-20260819-HGATSolver%20A/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction* | Zhang, Qin-Yi; Wang, Hong; Liu, Siyao; Lin, Haichuan; Cao, Linying; Zhou, Xiao-Hu; Chen, Chen; Wang, Shuangyi; Hou, Zeng-Guang | [arXiv:2601.09251](https://arxiv.org/abs/2601.09251) - [DOI](https://doi.org/10.1609/aaai.v40i2.37129) |

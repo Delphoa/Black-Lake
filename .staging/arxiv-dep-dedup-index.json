@@ -27141,6 +27141,29 @@
         "https://doi.org/10.48550/arXiv.2309.01811"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-HGATSolver A",
+        ".logs/20260819-Arxiv-HGATSolver-A-Heterogeneous-Graph-Attention-LOG.md",
+        ".reports/BL-Arxiv-HGATSolver-A-Heterogeneous-Graph-Attention-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2601.09251",
+      "arxiv_id": "2601.09251",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.1609/aaai.v40i2.37129",
+      "normalized_title": "HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P450; draw 42070 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 3; focus exclusions 7; reselections 10; complete-source gate passed; all source files withheld locally.",
+      "slug": "HGATSolver-A-Heterogeneous-Graph-Attention",
+      "source_urls": [
+        "https://arxiv.org/abs/2601.09251",
+        "https://arxiv.org/html/2601.09251",
+        "https://arxiv.org/pdf/2601.09251",
+        "https://doi.org/10.1609/aaai.v40i2.37129"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
