@@ -10025,3 +10025,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *An Efficient Algorithm for Matrix-Valued and Vector-Valued Optimal Mass Transport* | Chen, Yongxin; Haber, Eldad; Yamamoto, Kaoru; Georgiou, Tryphon T.; Tannenbaum, Allen | [arXiv:1706.08841](https://arxiv.org/abs/1706.08841) - [DOI](https://doi.org/10.48550/arXiv.1706.08841) |
+
+
+## [DEP-E-20260819-TreePO Bridging the Gap](../DEP-E-20260819-TreePO%20Bridging%20the%20Gap/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling* | Li, Yizhi; Gu, Qingshui; Wen, Zhoufutu; Li, Ziniu; Xing, Tianshun; Guo, Shuyue; Zheng, Tianyu; Zhou, Xin; Qu, Xingwei; Zhou, Wangchunshu; Zhang, Zheng; Shen, Wei; Liu, Qian; Lin, Chenghua; Yang, Jian; Zhang, Ge; Huang, Wenhao | [arXiv:2508.17445](https://arxiv.org/abs/2508.17445) - [DOI](https://doi.org/10.48550/arXiv.2508.17445) |
