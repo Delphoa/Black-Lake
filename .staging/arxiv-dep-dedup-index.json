@@ -25968,6 +25968,29 @@
         "https://doi.org/10.48550/arXiv.2602.06052"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Global Adaptive Routing",
+        ".logs/20260819-Arxiv-Global-Adaptive-Routing-Algorithm-Without-LOG.md",
+        ".reports/BL-Arxiv-Global-Adaptive-Routing-Algorithm-Without-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1208.0384",
+      "arxiv_id": "1208.0384",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1208.0384",
+      "normalized_title": "Global Adaptive Routing Algorithm Without Additional Congestion Propagation Network",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P399; draw 11850 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 4; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "Global-Adaptive-Routing-Algorithm-Without",
+      "source_urls": [
+        "https://arxiv.org/abs/1208.0384",
+        "https://arxiv.org/html/1208.0384",
+        "https://arxiv.org/pdf/1208.0384",
+        "https://doi.org/10.48550/arXiv.1208.0384"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

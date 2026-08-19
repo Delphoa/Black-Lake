@@ -9619,3 +9619,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents* | Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; Tan, Zhen; Wang, Yu; Wei, Tianxin; Wu, Shanglin; Xu, Ruiyao; Yang, Liangwei; Yang, Rui; Yang, Wooseong; Yeh, Chin-Yuan; Zhang, Hanrong; Zhang, Haozhen; Zhu, Siqi; Zou, Henry Peng; Zhao, Wanjia; Wang, Song; Xu, Wujiang; Ke, Zixuan; Hui, Zheng; Li, Dawei; Wu, Yaozu; He, Langzhou; Wang, Chen; Xu, Xiongxiao; Huang, Baixiang; Tan, Juntao; Heinecke, Shelby; Wang, Huan; Xiong, Caiming; Metwally, Ahmed A.; Yan, Jun; Lee, Chen-Yu; Zeng, Hanqing; Xia, Yinglong; Wei, Xiaokai; Payani, Ali; Wang, Yu; Ma, Haitong; Wang, Wenya; Wang, Chenguang; Zhang, Yu; Wang, Xin Eric; Zhang, Yongfeng; You, Jiaxuan; Tong, Hanghang; Luo, Xiao; Liu, Xue; Sun, Yizhou; Wang, Wei; McAuley, Julian; Zou, James; Han, Jiawei; Yu, Philip S.; Shu, Kai | [arXiv:2602.06052](https://arxiv.org/abs/2602.06052) - [DOI](https://doi.org/10.48550/arXiv.2602.06052) |
+
+
+## [DEP-E-20260819-Global Adaptive Routing](../DEP-E-20260819-Global%20Adaptive%20Routing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Global Adaptive Routing Algorithm Without Additional Congestion Propagation Network* | Liu, Shaoli; Chen, Yunji; Chen, Tianshi; Li, Ling; Lu, Chao | [arXiv:1208.0384](https://arxiv.org/abs/1208.0384) - [DOI](https://doi.org/10.48550/arXiv.1208.0384) |
