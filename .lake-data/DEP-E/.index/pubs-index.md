@@ -9024,3 +9024,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Masked Graph Learning with Recurrent Alignment for Multimodal Emotion Recognition in Conversation* | Meng, Tao; Zhang, Fuchen; Shou, Yuntao; Shao, Hongen; Ai, Wei; Li, Keqin | [arXiv:2407.16714](https://arxiv.org/abs/2407.16714) - [DOI](https://doi.org/10.48550/arXiv.2407.16714) |
+
+
+## [DEP-E-20260819-Co-Layout LLM-driven](../DEP-E-20260819-Co-Layout%20LLM-driven/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Co-Layout: LLM-driven Co-optimization for Interior Layout* | Xiang, Chucheng; Bao, Ruchao; Feng, Biyin; Wu, Wenzheng; Liu, Zhongyuan; Guan, Yirui; Liu, Ligang | [arXiv:2511.12474](https://arxiv.org/abs/2511.12474) - [DOI](https://doi.org/10.48550/arXiv.2511.12474) |

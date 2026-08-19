@@ -24013,6 +24013,29 @@
         "https://doi.org/10.48550/arXiv.2407.16714"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Co-Layout LLM-driven",
+        ".logs/20260819-Arxiv-Co-Layout-LLM-driven-Co-optimization-for-LOG.md",
+        ".reports/BL-Arxiv-Co-Layout-LLM-driven-Co-optimization-for-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2511.12474",
+      "arxiv_id": "2511.12474",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2511.12474",
+      "normalized_title": "Co-Layout: LLM-driven Co-optimization for Interior Layout",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P314; draw 64499 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 2; focus exclusions 14; reselections 16; complete-source gate passed; all source files withheld locally.",
+      "slug": "Co-Layout-LLM-driven-Co-optimization-for",
+      "source_urls": [
+        "https://arxiv.org/abs/2511.12474",
+        "https://arxiv.org/html/2511.12474",
+        "https://arxiv.org/pdf/2511.12474",
+        "https://doi.org/10.48550/arXiv.2511.12474"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
