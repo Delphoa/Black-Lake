@@ -24128,6 +24128,29 @@
         "https://doi.org/10.48550/arXiv.2505.18092"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-OmniVTA Visuo-Tactile",
+        ".logs/20260819-Arxiv-OmniVTA-Visuo-Tactile-World-Modeling-for-Contact-LOG.md",
+        ".reports/BL-Arxiv-OmniVTA-Visuo-Tactile-World-Modeling-for-Contact-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2603.19201",
+      "arxiv_id": "2603.19201",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2603.19201",
+      "normalized_title": "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P319; draw 38076 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 10; focus exclusions 28; reselections 38; complete-source gate passed; all source files withheld locally.",
+      "slug": "OmniVTA-Visuo-Tactile-World-Modeling-for-Contact",
+      "source_urls": [
+        "https://arxiv.org/abs/2603.19201",
+        "https://arxiv.org/html/2603.19201",
+        "https://arxiv.org/pdf/2603.19201",
+        "https://doi.org/10.48550/arXiv.2603.19201"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

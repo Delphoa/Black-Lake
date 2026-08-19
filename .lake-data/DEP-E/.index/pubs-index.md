@@ -9059,3 +9059,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization* | Shen, Weizhou; Li, Chenliang; Wan, Fanqi; Liao, Shengyi; Lai, Shaopeng; Zhang, Bo; Shi, Yingcheng; Wu, Yuning; Fu, Gang; Li, Zhansheng; Yang, Bin; Zhang, Ji; Huang, Fei; Zhou, Jingren; Yan, Ming | [arXiv:2505.18092](https://arxiv.org/abs/2505.18092) - [DOI](https://doi.org/10.48550/arXiv.2505.18092) |
+
+
+## [DEP-E-20260819-OmniVTA Visuo-Tactile](../DEP-E-20260819-OmniVTA%20Visuo-Tactile/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation* | Zheng, Yuhang; Gu, Songen; Zheng, Yupeng; Li, Weize; Zang, Yujie; Tian, Shuai; Li, Xiang; Hao, Ce; Gao, Chen; Liu, Si; Li, Haoran; Chen, Yilun; Yan, Shuicheng; Ding, Wenchao | [arXiv:2603.19201](https://arxiv.org/abs/2603.19201) - [DOI](https://doi.org/10.48550/arXiv.2603.19201) |
