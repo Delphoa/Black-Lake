@@ -9654,3 +9654,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning* | Wang, Qi; Zhang, Zhipeng; Xie, Baao; Jin, Xin; Wang, Yunbo; Wang, Shiyu; Zheng, Liaomo; Yang, Xiaokang; Zeng, Wenjun | [arXiv:2503.08751](https://arxiv.org/abs/2503.08751) - [DOI](https://doi.org/10.48550/arXiv.2503.08751) |
+
+
+## [DEP-E-20260819-Parameterizing Federated](../DEP-E-20260819-Parameterizing%20Federated/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Parameterizing Federated Continual Learning for Reproducible Research* | Cox, Bart; Galjaard, Jeroen; Shankar, Aditya; Decouchant, Jérémie; Chen, Lydia Y. | [arXiv:2406.02015](https://arxiv.org/abs/2406.02015) - [DOI](https://doi.org/10.48550/arXiv.2406.02015) |
