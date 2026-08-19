@@ -7813,3 +7813,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *BMAM: Brain-inspired Multi-Agent Memory Framework* | Li, Yang; Liu, Jiaxiang; Wang, Yusong; Wu, Yujie; Xu, Mingkun | [arXiv:2601.20465](https://arxiv.org/abs/2601.20465) - [DOI](https://doi.org/10.48550/arXiv.2601.20465) |
+
+
+## [DEP-E-20260819-Counting How the Seconds](../DEP-E-20260819-Counting%20How%20the%20Seconds/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Counting How the Seconds Count: Understanding Algorithm-User Interplay in TikTok via ML-driven Analysis of Video Content* | Masood, Maleeha; Kannan, Shreya; Liu, Zikun; Vasisht, Deepak; Gupta, Indranil | [arXiv:2503.20030](https://arxiv.org/abs/2503.20030) - [DOI](https://doi.org/10.48550/arXiv.2503.20030) |
