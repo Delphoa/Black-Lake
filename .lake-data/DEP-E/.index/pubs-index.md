@@ -5783,3 +5783,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cooperative Training of Fast Thinking Initializer and Slow Thinking Solver for Conditional Learning* | Xie, Jianwen; Zheng, Zilong; Fang, Xiaolin; Zhu, Song-Chun; Wu, Ying Nian | [arXiv:1902.02812](https://arxiv.org/abs/1902.02812) - [DOI](https://doi.org/10.48550/arXiv.1902.02812) |
+
+
+## [DEP-E-20260819-Towards Unified World](../DEP-E-20260819-Towards%20Unified%20World/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight* | Dong, Yifei; Wu, Fengyi; Chen, Guangyu; Kong, Lingdong; Hu, Qiyu; Zhou, Yuxuan; Zhu, Xu; Sun, Jingdong; He, Jun-Yan; Dai, Qi; Hauptmann, Alexander G.; Cheng, Zhi-Qi | [arXiv:2510.08713](https://arxiv.org/abs/2510.08713) - [DOI](https://doi.org/10.48550/arXiv.2510.08713) |
