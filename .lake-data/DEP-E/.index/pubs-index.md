@@ -8037,3 +8037,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Federated Matrix Factorization: Algorithm Design and Application to Data Clustering* | Wang, Shuai; Chang, Tsung-Hui | [arXiv:2002.04930](https://arxiv.org/abs/2002.04930) - [DOI](https://doi.org/10.48550/arXiv.2002.04930) |
+
+
+## [DEP-E-20260819-SRPO Self-Referential](../DEP-E-20260819-SRPO%20Self-Referential/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models* | Fei, Senyu; Wang, Siyin; Ji, Li; Li, Ao; Zhang, Shiduo; Liu, Liming; Hou, Jinlong; Gong, Jingjing; Zhao, Xianzhong; Qiu, Xipeng | [arXiv:2511.15605](https://arxiv.org/abs/2511.15605) - [DOI](https://doi.org/10.48550/arXiv.2511.15605) |
