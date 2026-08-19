@@ -10835,3 +10835,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *TA-RAG: Tone Awareness as a Design Imperative for Retrieval-Augmented Generation* | Yong-Bin Kang; Anthony McCosker | [arXiv:2608.06672v1](https://arxiv.org/abs/2608.06672v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06672) |
+
+
+## [DEP-A-20260819-Horizon Gap Planning Memo](../DEP-A-20260819-Horizon%20Gap%20Planning%20Memo/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.06663-whitepaper-review.md`](../DEP-A-20260819-Horizon%20Gap%20Planning%20Memo/2608.06663-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents* | Mingguang Chen; Licheng Wang; Bo Qu | [arXiv:2608.06663v1](https://arxiv.org/abs/2608.06663v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06663) |
