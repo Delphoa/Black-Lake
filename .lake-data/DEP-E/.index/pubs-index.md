@@ -8856,3 +8856,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model* | Wang, Hongqiu; Chen, Yixian; Chen, Wu; Xu, Huihui; Zhao, Haoyu; Sheng, Bin; Fu, Huazhu; Yang, Guang; Zhu, Lei | [arXiv:2409.04356](https://arxiv.org/abs/2409.04356) - [DOI](https://doi.org/10.48550/arXiv.2409.04356) |
+
+
+## [DEP-E-20260819-DeepOHeat-v1 Efficient](../DEP-E-20260819-DeepOHeat-v1%20Efficient/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepOHeat-v1: Efficient Operator Learning for Fast and Trustworthy Thermal Simulation and Optimization in 3D-IC Design* | Yu, Xinling; Liu, Ziyue; Li, Hai; Li, Yixing; Ai, Xin; Zeng, Zhiyu; Young, Ian; Zhang, Zheng | [arXiv:2504.03955](https://arxiv.org/abs/2504.03955) - [DOI](https://doi.org/10.48550/arXiv.2504.03955) |
