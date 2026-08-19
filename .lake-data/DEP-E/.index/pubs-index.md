@@ -7400,3 +7400,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization* | Han, Kevin; Zhou, Yuhang; Gao, Mingze; Zhou, Gedi; Li, Serena; Kumar, Abhishek; Fan, Xiangjun; Li, Weiwei; Zhang, Lizhu | [arXiv:2602.05165](https://arxiv.org/abs/2602.05165) - [DOI](https://doi.org/10.48550/arXiv.2602.05165) |
+
+
+## [DEP-E-20260819-SPikE-SSM A Sparse](../DEP-E-20260819-SPikE-SSM%20A%20Sparse/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning* | Zhong, Yan; Zhao, Ruoyu; Wang, Chao; Guo, Qinghai; Zhang, Jianguo; Lu, Zhichao; Leng, Luziwei | [arXiv:2410.17268](https://arxiv.org/abs/2410.17268) - [DOI](https://doi.org/10.1109/TCDS.2026.3698720) |
