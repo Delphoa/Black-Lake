@@ -6000,3 +6000,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Number Adaptive Formation Flight Planning via Affine Deformable Guidance in Narrow Environments* | Zhou, Yuan; Hou, Jialiang; Xu, Guangtong; Gao, Fei | [arXiv:2509.18636](https://arxiv.org/abs/2509.18636) - [DOI](https://doi.org/10.48550/arXiv.2509.18636) |
+
+
+## [DEP-E-20260819-BookRAG A Hierarchical](../DEP-E-20260819-BookRAG%20A%20Hierarchical/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents* | Wang, Shu; Zhou, Yingli; Fang, Yixiang | [arXiv:2512.03413](https://arxiv.org/abs/2512.03413) - [DOI](https://doi.org/10.48550/arXiv.2512.03413) |
