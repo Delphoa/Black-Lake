@@ -9332,3 +9332,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents* | Younesian, Sharareh; Ouyang, Wenwen; Rafati, Sina; Rezagholizadeh, Mehdi; Zhou, Sharon; Liu, Ji; Liu, Yue; Yang, Yuchen; Li, Hao; Liu, Ziqiong; Li, Dong; Appia, Vikram; Gu, Zhenyu; Barsoum, Emad | [arXiv:2605.16819](https://arxiv.org/abs/2605.16819) - [DOI](https://doi.org/10.48550/arXiv.2605.16819) |
+
+
+## [DEP-E-20260819-Dynamic Maintenance of](../DEP-E-20260819-Dynamic%20Maintenance%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dynamic Maintenance of Kernel Density Estimation Data Structure: From Practice to Theory* | Liang, Jiehao; Song, Zhao; Xu, Zhaozhuo; Yin, Junze; Zhuo, Danyang | [arXiv:2208.03915](https://arxiv.org/abs/2208.03915) - [DOI](https://doi.org/10.48550/arXiv.2208.03915) |
