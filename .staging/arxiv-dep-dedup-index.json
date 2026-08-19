@@ -17435,6 +17435,29 @@
         "https://doi.org/10.48550/arXiv.2112.00229"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Aerial World Model for",
+        ".logs/20260819-Arxiv-Aerial-World-Model-for-Long-horizon-Visual-LOG.md",
+        ".reports/BL-Arxiv-Aerial-World-Model-for-Long-horizon-Visual-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2512.21887",
+      "arxiv_id": "2512.21887",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2512.21887",
+      "normalized_title": "Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P28; draw 1918 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 3; focus exclusions 4; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "Aerial-World-Model-for-Long-horizon-Visual",
+      "source_urls": [
+        "https://arxiv.org/abs/2512.21887",
+        "https://arxiv.org/html/2512.21887",
+        "https://arxiv.org/pdf/2512.21887",
+        "https://doi.org/10.48550/arXiv.2512.21887"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

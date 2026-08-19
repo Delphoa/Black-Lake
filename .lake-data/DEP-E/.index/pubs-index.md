@@ -7022,3 +7022,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Frequency Fitness Assignment: Optimization without Bias for Good Solutions can be Efficient* | Weise, Thomas; Wu, Zhize; Li, Xinlu; Chen, Yan; Lässig, Jörg | [arXiv:2112.00229](https://arxiv.org/abs/2112.00229) - [DOI](https://doi.org/10.48550/arXiv.2112.00229) |
+
+
+## [DEP-E-20260819-Aerial World Model for](../DEP-E-20260819-Aerial%20World%20Model%20for/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space* | Zhang, Weichen; Tang, Peizhi; Zeng, Xin; Man, Fanhang; Yu, Shiquan; Dai, Zichao; Zhao, Baining; Chen, Hongjin; Shang, Yu; Wu, Wei; Gao, Chen; Chen, Xinlei; Wang, Xin; Li, Yong; Zhu, Wenwu | [arXiv:2512.21887](https://arxiv.org/abs/2512.21887) - [DOI](https://doi.org/10.48550/arXiv.2512.21887) |
