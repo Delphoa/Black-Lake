@@ -10853,3 +10853,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval* | Linhai Ma; Ethan F. Wei; Xueqing Peng; Yan Wang; Lingfei Qian; Víctor Gutiérrez-Basulto | [arXiv:2608.06614v1](https://arxiv.org/abs/2608.06614v1) - [DOI](https://doi.org/10.48550/arXiv.2608.06614) |
+
+
+## [DEP-A-20260819-Does More Retrieved Evide](../DEP-A-20260819-Does%20More%20Retrieved%20Evide/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07006-whitepaper-review.md`](../DEP-A-20260819-Does%20More%20Retrieved%20Evide/2608.07006-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?* | Jiankun Wang; Yisen Gao; Ziwei Zhang; Xingcheng Fu; Jiaxin Bai; Chen Gao | [arXiv:2608.07006v1](https://arxiv.org/abs/2608.07006v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07006) |
