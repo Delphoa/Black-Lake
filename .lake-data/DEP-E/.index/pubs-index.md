@@ -6686,3 +6686,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis* | Ding, Xuanwen; Zhou, Jie; Dou, Liang; Chen, Qin; Wu, Yuanbin; Chen, Chengcai; He, Liang | [arXiv:2405.05496](https://arxiv.org/abs/2405.05496) - [DOI](https://doi.org/10.48550/arXiv.2405.05496) |
+
+
+## [DEP-E-20260819-Convergence Analysis and](../DEP-E-20260819-Convergence%20Analysis%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Convergence Analysis and Assurance for Gaussian Message Passing Iterative Detector in Massive MU-MIMO Systems* | Liu, Lei; Yuen, Chau; Guan, Yong Liang; Li, Ying; Su, Yuping | [arXiv:1606.06408](https://arxiv.org/abs/1606.06408) - [DOI](https://doi.org/10.1109/TWC.2016.2585481) |
