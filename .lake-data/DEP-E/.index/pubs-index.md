@@ -10018,3 +10018,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *VDPC: Variational Density Peak Clustering Algorithm* | Wang, Yizhang; Wang, Di; Zhou, You; Zhang, Xiaofeng; Quek, Chai | [arXiv:2201.00641](https://arxiv.org/abs/2201.00641) - [DOI](https://doi.org/10.48550/arXiv.2201.00641) |
+
+
+## [DEP-E-20260819-An Efficient Algori 08841](../DEP-E-20260819-An%20Efficient%20Algori%2008841/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An Efficient Algorithm for Matrix-Valued and Vector-Valued Optimal Mass Transport* | Chen, Yongxin; Haber, Eldad; Yamamoto, Kaoru; Georgiou, Tryphon T.; Tannenbaum, Allen | [arXiv:1706.08841](https://arxiv.org/abs/1706.08841) - [DOI](https://doi.org/10.48550/arXiv.1706.08841) |
