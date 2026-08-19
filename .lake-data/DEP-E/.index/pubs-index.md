@@ -8429,3 +8429,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Bi-level Multi-objective Evolutionary Learning: A Case Study on Multi-task Graph Neural Topology Search* | Wang, Chao; Jiao, Licheng; Zhao, Jiaxuan; Li, Lingling; Liu, Xu; Liu, Fang; Yang, Shuyuan | [arXiv:2302.02565](https://arxiv.org/abs/2302.02565) - [DOI](https://doi.org/10.48550/arXiv.2302.02565) |
+
+
+## [DEP-E-20260819-Improving Factual](../DEP-E-20260819-Improving%20Factual/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Improving Factual Consistency of News Summarization by Contrastive Preference Optimization* | Feng, Huawen; Fan, Yan; Liu, Xiong; Lin, Ting-En; Yao, Zekun; Wu, Yuchuan; Huang, Fei; Li, Yongbin; Ma, Qianli | [arXiv:2310.19347](https://arxiv.org/abs/2310.19347) - [DOI](https://doi.org/10.18653/v1/2024.findings-emnlp.648) |

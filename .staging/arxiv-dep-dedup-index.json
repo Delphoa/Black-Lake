@@ -22058,6 +22058,29 @@
         "https://doi.org/10.48550/arXiv.2302.02565"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Improving Factual",
+        ".logs/20260819-Arxiv-Improving-Factual-Consistency-of-News-LOG.md",
+        ".reports/BL-Arxiv-Improving-Factual-Consistency-of-News-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2310.19347",
+      "arxiv_id": "2310.19347",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.18653/v1/2024.findings-emnlp.648",
+      "normalized_title": "Improving Factual Consistency of News Summarization by Contrastive Preference Optimization",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P229; draw 44629 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 7; focus exclusions 35; reselections 42; complete-source gate passed; all source files withheld locally.",
+      "slug": "Improving-Factual-Consistency-of-News",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.19347",
+        "https://arxiv.org/html/2310.19347",
+        "https://arxiv.org/pdf/2310.19347",
+        "https://doi.org/10.18653/v1/2024.findings-emnlp.648"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
