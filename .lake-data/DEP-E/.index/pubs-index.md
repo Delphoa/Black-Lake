@@ -9808,3 +9808,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization* | Lu, Canyi; Feng, Jiashi; Chen, Yudong; Liu, Wei; Lin, Zhouchen; Yan, Shuicheng | [arXiv:1708.04181](https://arxiv.org/abs/1708.04181) - [DOI](https://doi.org/10.48550/arXiv.1708.04181) |
+
+
+## [DEP-E-20260819-Convergence Analysis of](../DEP-E-20260819-Convergence%20Analysis%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Convergence Analysis of Distributed Inference with Vector-Valued Gaussian Belief Propagation* | Du, Jian; Ma, Shaodan; Wu, Yik-Chung; Kar, Soummya; Moura, José M. F. | [arXiv:1611.02010](https://arxiv.org/abs/1611.02010) - [DOI](https://doi.org/10.48550/arXiv.1611.02010) |
