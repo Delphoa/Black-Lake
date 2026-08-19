@@ -5881,3 +5881,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking* | Wang, Zhong; Wan, Zengyu; Han, Han; Liao, Bohao; Wu, Yuliang; Zhai, Wei; Cao, Yang; Zha, Zheng-jun | [arXiv:2404.12083](https://arxiv.org/abs/2404.12083) - [DOI](https://doi.org/10.48550/arXiv.2404.12083) |
+
+
+## [DEP-E-20260819-How Much Reasoning Do](../DEP-E-20260819-How%20Much%20Reasoning%20Do/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *How Much Reasoning Do Retrieval-Augmented Models Add beyond LLMs? A Benchmarking Framework for Multi-Hop Inference over Hybrid Knowledge* | Lin, Junhong; Zhang, Bing; Wang, Song; Liu, Ziyan; Gutfreund, Dan; Shun, Julian; Zhu, Yada | [arXiv:2602.10210](https://arxiv.org/abs/2602.10210) - [DOI](https://doi.org/10.48550/arXiv.2602.10210) |

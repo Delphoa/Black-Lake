@@ -13686,6 +13686,29 @@
         "https://doi.org/10.48550/arXiv.2404.12083"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do",
+        ".logs/20260819-Arxiv-How-Much-Reasoning-Do-Retrieval-Augmented-Models-LOG.md",
+        ".reports/BL-Arxiv-How-Much-Reasoning-Do-Retrieval-Augmented-Models-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2602.10210",
+      "arxiv_id": "2602.10210",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2602.10210",
+      "normalized_title": "How Much Reasoning Do Retrieval-Augmented Models Add beyond LLMs? A Benchmarking Framework for Multi-Hop Inference over Hybrid Knowledge",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P165; draw 14031 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "How-Much-Reasoning-Do-Retrieval-Augmented-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2602.10210",
+        "https://arxiv.org/html/2602.10210",
+        "https://arxiv.org/pdf/2602.10210",
+        "https://doi.org/10.48550/arXiv.2602.10210"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
