@@ -11064,6 +11064,29 @@
         "https://doi.org/10.48550/arXiv.2111.11986"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Theoretical Analysis of",
+        ".logs/20260819-Arxiv-Theoretical-Analysis-of-Impact-of-Delayed-LOG.md",
+        ".reports/BL-Arxiv-Theoretical-Analysis-of-Impact-of-Delayed-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2311.01229",
+      "arxiv_id": "2311.01229",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2311.01229",
+      "normalized_title": "Theoretical Analysis of Impact of Delayed Updates on Decentralized Federated Learning",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P51; draw 18877 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 12; reselections 13; complete-source gate passed; all source files withheld locally.",
+      "slug": "Theoretical-Analysis-of-Impact-of-Delayed",
+      "source_urls": [
+        "https://arxiv.org/abs/2311.01229",
+        "https://arxiv.org/html/2311.01229",
+        "https://arxiv.org/pdf/2311.01229",
+        "https://doi.org/10.48550/arXiv.2311.01229"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

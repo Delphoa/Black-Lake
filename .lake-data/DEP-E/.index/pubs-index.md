@@ -5083,3 +5083,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HERO: Hessian-Enhanced Robust Optimization for Unifying and Improving Generalization and Quantization Performance* | Yang, Huanrui; Yang, Xiaoxuan; Gong, Neil Zhenqiang; Chen, Yiran | [arXiv:2111.11986](https://arxiv.org/abs/2111.11986) - [DOI](https://doi.org/10.48550/arXiv.2111.11986) |
+
+
+## [DEP-E-20260819-Theoretical Analysis of](../DEP-E-20260819-Theoretical%20Analysis%20of/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Theoretical Analysis of Impact of Delayed Updates on Decentralized Federated Learning* | Zeng, Yong; Liu, Siyuan; Xu, Zhiwei; Tian, Jie | [arXiv:2311.01229](https://arxiv.org/abs/2311.01229) - [DOI](https://doi.org/10.48550/arXiv.2311.01229) |
