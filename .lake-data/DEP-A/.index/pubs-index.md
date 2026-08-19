@@ -10880,3 +10880,12 @@ Review status: substantively reviewed from the complete arXiv v1 paper and match
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering* | Xuye Liu; Yimu Wang; Peng Shi; Bo Xue; Xiangrui Ke; Songcheng Cai; Kath Choi; Di Wu; Freda Shi; Krzysztof Czarnecki | [arXiv:2608.07370v1](https://arxiv.org/abs/2608.07370v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07370) |
+
+
+## [DEP-A-20260819-Measuring Concept Content](../DEP-A-20260819-Measuring%20Concept%20Content/README.md)
+
+Review status: substantively reviewed from the complete arXiv v1 paper and matching full-paper HTML on 2026-08-19. The owning review artifact is [`2608.07208-whitepaper-review.md`](../DEP-A-20260819-Measuring%20Concept%20Content/2608.07208-whitepaper-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Measuring Concept Content in Text from LLM Activations: ESG Evidence from Concept Vectors and Linear Probes* | Luc Hazenoot; Zhaochun Ren; Amirhossein Zohrehvand | [arXiv:2608.07208v1](https://arxiv.org/abs/2608.07208v1) - [DOI](https://doi.org/10.48550/arXiv.2608.07208) |
