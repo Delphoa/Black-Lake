@@ -4901,3 +4901,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *A practice-oriented overview of call center workforce planning* | Koole, Ger; Li, Siqao | [arXiv:2101.10122](https://arxiv.org/abs/2101.10122) - [DOI](https://doi.org/10.48550/arXiv.2101.10122) |
+
+
+## [DEP-E-20260819-The Projected Power](../DEP-E-20260819-The%20Projected%20Power/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences* | Chen, Yuxin; Candes, Emmanuel | [arXiv:1609.05820](https://arxiv.org/abs/1609.05820) - [DOI](https://doi.org/10.48550/arXiv.1609.05820) |

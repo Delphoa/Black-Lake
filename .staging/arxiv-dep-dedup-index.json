@@ -10466,6 +10466,29 @@
         "https://doi.org/10.48550/arXiv.2101.10122"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-The Projected Power",
+        ".logs/20260819-Arxiv-The-Projected-Power-Method-An-Efficient-LOG.md",
+        ".reports/BL-Arxiv-The-Projected-Power-Method-An-Efficient-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1609.05820",
+      "arxiv_id": "1609.05820",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1609.05820",
+      "normalized_title": "The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P25; draw 12336 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 5; reselections 6; complete-source gate passed; all source files withheld locally.",
+      "slug": "The-Projected-Power-Method-An-Efficient",
+      "source_urls": [
+        "https://arxiv.org/abs/1609.05820",
+        "https://arxiv.org/html/1609.05820",
+        "https://arxiv.org/pdf/1609.05820",
+        "https://doi.org/10.48550/arXiv.1609.05820"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
