@@ -5594,3 +5594,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Understanding Curriculum Learning in Policy Optimization for Online Combinatorial Optimization* | Zhou, Runlong; He, Zelin; Tian, Yuandong; Wu, Yi; Du, Simon S. | [arXiv:2202.05423](https://arxiv.org/abs/2202.05423) - [DOI](https://doi.org/10.48550/arXiv.2202.05423) |
+
+
+## [DEP-E-20260819-HiP-AD Hierarchical and](../DEP-E-20260819-HiP-AD%20Hierarchical%20and/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder* | Tang, Yingqi; Xu, Zhuoran; Meng, Zhaotie; Cheng, Erkang | [arXiv:2503.08612](https://arxiv.org/abs/2503.08612) - [DOI](https://doi.org/10.48550/arXiv.2503.08612) |
