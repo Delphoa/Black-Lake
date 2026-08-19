@@ -8744,3 +8744,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Remarks on Quantum Modular Exponentiation and Some Experimental Demonstrations of Shor's Algorithm* | Cao, Zhengjun; Cao, Zhenfu; Liu, Lihua | [arXiv:1408.6252](https://arxiv.org/abs/1408.6252) - [DOI](https://doi.org/10.48550/arXiv.1408.6252) |
+
+
+## [DEP-E-20260819-Is GraphRAG Needed From](../DEP-E-20260819-Is%20GraphRAG%20Needed%20From/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization* | Chen, Long; Razkenari, Ryan; Zhou, Yuxuan; Tian, Yuan; Ghosh, Rahul; Pappakrishnan, Venkatesh; Ahuja, Disha; Ravipati, Vidya Sagar | [arXiv:2606.25656](https://arxiv.org/abs/2606.25656) - [DOI](https://doi.org/10.48550/arXiv.2606.25656) |
