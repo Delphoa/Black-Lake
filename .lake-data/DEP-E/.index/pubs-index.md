@@ -7169,3 +7169,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Decidability of Liveness on the TSO Memory Model* | Wang, Chao; Petri, Gustavo; Lv, Yi; Long, Teng; Liu, Zhiming | [arXiv:2107.09930](https://arxiv.org/abs/2107.09930) - [DOI](https://doi.org/10.48550/arXiv.2107.09930) |
+
+
+## [DEP-E-20260819-RGL A Graph-Centric](../DEP-E-20260819-RGL%20A%20Graph-Centric/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *RGL: A Graph-Centric, Modular Framework for Efficient Retrieval-Augmented Generation on Graphs* | Li, Yuan; Hu, Jun; Jiang, Jiaxin; Liu, Zemin; Hooi, Bryan; He, Bingsheng | [arXiv:2503.19314](https://arxiv.org/abs/2503.19314) - [DOI](https://doi.org/10.48550/arXiv.2503.19314) |
