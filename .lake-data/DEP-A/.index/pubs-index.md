@@ -10849,3 +10849,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Algorithm Fairness in AI for Medicine and Healthcare* | Chen, Richard J.; Chen, Tiffany Y.; Lipkova, Jana; Wang, Judy J.; Williamson, Drew F. K.; Lu, Ming Y.; Sahai, Sharifa; Mahmood, Faisal | [arXiv:2110.00603](https://arxiv.org/abs/2110.00603) - [DOI](https://doi.org/10.48550/arXiv.2110.00603) |
+
+## [DEP-A-20260820-An improved FPT Intake](../DEP-A-20260820-An%20improved%20FPT%20Intake/README.md)
+
+Review status: substantively re-reviewed from the complete canonical arXiv paper on 2026-08-20. The owning review artifact is [`whitepaper-intake-review.md`](../DEP-A-20260820-An%20improved%20FPT%20Intake/whitepaper-intake-review.md).
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *An improved FPT algorithm for Independent Feedback Vertex Set* | Li, Shaohua; Pilipczuk, Marcin | [arXiv:1803.00937](https://arxiv.org/abs/1803.00937) - [DOI](https://doi.org/10.48550/arXiv.1803.00937) |
