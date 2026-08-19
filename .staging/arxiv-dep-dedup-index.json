@@ -21897,6 +21897,29 @@
         "https://doi.org/10.48550/arXiv.2602.23103"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-UAV-Enabled Mobile Edge",
+        ".logs/20260819-Arxiv-UAV-Enabled-Mobile-Edge-Computing-Offloading-LOG.md",
+        ".reports/BL-Arxiv-UAV-Enabled-Mobile-Edge-Computing-Offloading-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1802.03906",
+      "arxiv_id": "1802.03906",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1802.03906",
+      "normalized_title": "UAV-Enabled Mobile Edge Computing: Offloading Optimization and Trajectory Design",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P222; draw 55248 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 0; focus exclusions 5; reselections 5; complete-source gate passed; all source files withheld locally.",
+      "slug": "UAV-Enabled-Mobile-Edge-Computing-Offloading",
+      "source_urls": [
+        "https://arxiv.org/abs/1802.03906",
+        "https://arxiv.org/html/1802.03906",
+        "https://arxiv.org/pdf/1802.03906",
+        "https://doi.org/10.48550/arXiv.1802.03906"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

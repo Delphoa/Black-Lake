@@ -8380,3 +8380,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation* | Zhang, Fuhao; Liu, Lei; Zhang, Jialin; Zhang, Ya-Nan; Mu, Nan | [arXiv:2602.23103](https://arxiv.org/abs/2602.23103) - [DOI](https://doi.org/10.48550/arXiv.2602.23103) |
+
+
+## [DEP-E-20260819-UAV-Enabled Mobile Edge](../DEP-E-20260819-UAV-Enabled%20Mobile%20Edge/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *UAV-Enabled Mobile Edge Computing: Offloading Optimization and Trajectory Design* | Zhou, Fuhui; Wu, Yongpeng; Sun, Haijian; Chu, Zheng | [arXiv:1802.03906](https://arxiv.org/abs/1802.03906) - [DOI](https://doi.org/10.48550/arXiv.1802.03906) |
