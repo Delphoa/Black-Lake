@@ -19068,6 +19068,29 @@
         "https://doi.org/10.1609/aaai.v40i19.38619"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Towards Practical",
+        ".logs/20260819-Arxiv-Towards-Practical-Bayesian-Parameter-and-State-LOG.md",
+        ".reports/BL-Arxiv-Towards-Practical-Bayesian-Parameter-and-State-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "1603.08988",
+      "arxiv_id": "1603.08988",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.1603.08988",
+      "normalized_title": "Towards Practical Bayesian Parameter and State Estimation",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P99; draw 5338 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories stateful systems; duplicate exclusions 1; focus exclusions 0; reselections 1; complete-source gate passed; all source files withheld locally.",
+      "slug": "Towards-Practical-Bayesian-Parameter-and-State",
+      "source_urls": [
+        "https://arxiv.org/abs/1603.08988",
+        "https://arxiv.org/html/1603.08988",
+        "https://arxiv.org/pdf/1603.08988",
+        "https://doi.org/10.48550/arXiv.1603.08988"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
