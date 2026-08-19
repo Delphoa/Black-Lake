@@ -10151,3 +10151,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms* | Zhou, Ao; Yang, Jianlei; Gao, Yeqi; Qiao, Tong; Qi, Yingjie; Wang, Xiaoyi; Chen, Yunli; Dai, Pengcheng; Zhao, Weisheng; Hu, Chunming | [arXiv:2104.03058](https://arxiv.org/abs/2104.03058) - [DOI](https://doi.org/10.48550/arXiv.2104.03058) |
+
+
+## [DEP-E-20260819-Distill-VQ Learning](../DEP-E-20260819-Distill-VQ%20Learning/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings* | Xiao, Shitao; Liu, Zheng; Han, Weihao; Zhang, Jianjin; Lian, Defu; Gong, Yeyun; Chen, Qi; Yang, Fan; Sun, Hao; Shao, Yingxia; Deng, Denvy; Zhang, Qi; Xie, Xing | [arXiv:2204.00185](https://arxiv.org/abs/2204.00185) - [DOI](https://doi.org/10.48550/arXiv.2204.00185) |
