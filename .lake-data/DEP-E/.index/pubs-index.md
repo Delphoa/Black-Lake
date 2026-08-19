@@ -5440,3 +5440,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Self-supervised Hierarchical Visual Reasoning with World Model* | Xu, Yuanfei; Liu, Lin; Zhou, Wengang; Feng, Mingxiao; Li, Houqiang | [arXiv:2605.17537](https://arxiv.org/abs/2605.17537) - [DOI](https://doi.org/10.48550/arXiv.2605.17537) |
+
+
+## [DEP-E-20260819-A Survey of Direct](../DEP-E-20260819-A%20Survey%20of%20Direct/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *A Survey of Direct Preference Optimization* | Liu, Shunyu; Fang, Wenkai; Hu, Zetian; Zhang, Junjie; Zhou, Yang; Zhang, Kongcheng; Tu, Rongcheng; Lin, Ting-En; Huang, Fei; Song, Mingli; Li, Yongbin; Tao, Dacheng | [arXiv:2503.11701](https://arxiv.org/abs/2503.11701) - [DOI](https://doi.org/10.48550/arXiv.2503.11701) |

@@ -12237,6 +12237,29 @@
         "https://doi.org/10.48550/arXiv.2605.17537"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-A Survey of Direct",
+        ".logs/20260819-Arxiv-A-Survey-of-Direct-Preference-Optimization-LOG.md",
+        ".reports/BL-Arxiv-A-Survey-of-Direct-Preference-Optimization-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2503.11701",
+      "arxiv_id": "2503.11701",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2503.11701",
+      "normalized_title": "A Survey of Direct Preference Optimization",
+      "notes": "Job BLAD-2200-20260819-9951C2C3 item BLAD-2200-20260819-9951C2C3-P102; draw 5812 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories algorithmic research; duplicate exclusions 1; focus exclusions 6; reselections 7; complete-source gate passed; all source files withheld locally.",
+      "slug": "A-Survey-of-Direct-Preference-Optimization",
+      "source_urls": [
+        "https://arxiv.org/abs/2503.11701",
+        "https://arxiv.org/html/2503.11701",
+        "https://arxiv.org/pdf/2503.11701",
+        "https://doi.org/10.48550/arXiv.2503.11701"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
