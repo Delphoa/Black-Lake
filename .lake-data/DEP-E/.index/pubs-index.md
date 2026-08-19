@@ -6609,3 +6609,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Search-Based Path Planning Algorithm for Autonomous Parking:Multi-Heuristic Hybrid A** | Huang, Jihao; Liu, Zhitao; Chi, Xuemin; Hong, Feng; Su, Hongye | [arXiv:2210.08828](https://arxiv.org/abs/2210.08828) - [DOI](https://doi.org/10.48550/arXiv.2210.08828) |
+
+
+## [DEP-E-20260819-Boosting One-Point](../DEP-E-20260819-Boosting%20One-Point/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Boosting One-Point Derivative-Free Online Optimization via Residual Feedback* | Zhang, Yan; Zhou, Yi; Ji, Kaiyi; Zavlanos, Michael M. | [arXiv:2010.07378](https://arxiv.org/abs/2010.07378) - [DOI](https://doi.org/10.48550/arXiv.2010.07378) |
