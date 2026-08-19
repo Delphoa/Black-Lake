@@ -25554,6 +25554,29 @@
         "https://doi.org/10.48550/arXiv.2507.09858"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/DEP-E-20260819-Performance bound of the",
+        ".logs/20260819-Arxiv-Performance-bound-of-the-intensity-based-model-LOG.md",
+        ".reports/BL-Arxiv-Performance-bound-of-the-intensity-based-model-20260819/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2004.08764",
+      "arxiv_id": "2004.08764",
+      "commit_or_pr": "",
+      "deposit_date": "20260819",
+      "doi": "10.48550/arXiv.2004.08764",
+      "normalized_title": "Performance bound of the intensity-based model for noisy phase retrieval",
+      "notes": "Job BLAD-2200-20260819-8DFEF0DE item BLAD-2200-20260819-8DFEF0DE-P381; draw 49991 of 75964 units; focus ML memory, stateful systems, and algorithmic research; matched categories ML memory; duplicate exclusions 4; focus exclusions 12; reselections 16; complete-source gate passed; all source files withheld locally.",
+      "slug": "Performance-bound-of-the-intensity-based-model",
+      "source_urls": [
+        "https://arxiv.org/abs/2004.08764",
+        "https://arxiv.org/html/2004.08764",
+        "https://arxiv.org/pdf/2004.08764",
+        "https://doi.org/10.48550/arXiv.2004.08764"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

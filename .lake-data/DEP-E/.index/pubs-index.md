@@ -9493,3 +9493,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths* | Wang, Shuaikang; Guo, Tiecheng; Guo, Meng | [arXiv:2507.09858](https://arxiv.org/abs/2507.09858) - [DOI](https://doi.org/10.48550/arXiv.2507.09858) |
+
+
+## [DEP-E-20260819-Performance bound of the](../DEP-E-20260819-Performance%20bound%20of%20the/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Performance bound of the intensity-based model for noisy phase retrieval* | Huang, Meng; Xu, Zhiqiang | [arXiv:2004.08764](https://arxiv.org/abs/2004.08764) - [DOI](https://doi.org/10.48550/arXiv.2004.08764) |
