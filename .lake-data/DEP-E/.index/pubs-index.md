@@ -8030,3 +8030,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization* | Cao, Jiangxia; Xu, Pengbo; Cheng, Yin; Guo, Kaiwei; Tang, Jian; Wang, Shijun; Leng, Dewei; Yang, Shuang; Liu, Zhaojie; Niu, Yanan; Zhou, Guorui; Gai, Kun | [arXiv:2505.13894](https://arxiv.org/abs/2505.13894) - [DOI](https://doi.org/10.48550/arXiv.2505.13894) |
+
+
+## [DEP-E-20260819-Federated Matrix](../DEP-E-20260819-Federated%20Matrix/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Federated Matrix Factorization: Algorithm Design and Application to Data Clustering* | Wang, Shuai; Chang, Tsung-Hui | [arXiv:2002.04930](https://arxiv.org/abs/2002.04930) - [DOI](https://doi.org/10.48550/arXiv.2002.04930) |
