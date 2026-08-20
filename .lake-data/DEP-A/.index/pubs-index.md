@@ -12590,3 +12590,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *SurgAtlas: A Large-Scale Surgical Video-Language Dataset with 2,391 Hours of Open and Minimally Invasive Surgery* | Filippos Bellos; Andre S. Gala-Garza; Miaowei Wang; Alyssa M. Hardin; Ahmad M. Hider; Yayuan Li; Jing Bi; Susan Liang; Chenliang Xu; Donald S. Likosky; Jason J. Corso | [arXiv:2606.25905v1](https://arxiv.org/abs/2606.25905v1) · [DOI](https://doi.org/10.48550/arXiv.2606.25905) |
+
+## [DEP-A-20260820-2606.19741 Interpreting N](../DEP-A-20260820-2606.19741%20Interpreting%20N/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.19741%20Interpreting%20N/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Haocheng Duan; Yuxin Guo; Jieyi Bi; Anqi Xie; Sirui Li; Yining Ma; Cathy Wu | [arXiv:2606.19741v1](https://arxiv.org/abs/2606.19741v1) · [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
