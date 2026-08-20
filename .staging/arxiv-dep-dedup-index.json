@@ -28324,11 +28324,11 @@
       ],
       "arxiv_base_id": "2603.15690",
       "arxiv_id": "2603.15690v1",
-      "commit_or_pr": "",
+      "commit_or_pr": "https://github.com/Delphoa/Black-Lake/commit/ae355272",
       "deposit_date": "20260820",
       "doi": "10.48550/arXiv.2603.15690",
       "normalized_title": "Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems",
-      "notes": "Uniform local archive draw; source integrity repaired before review; cache miss became cached with pypdf and html-regex; source files withheld locally; commit reference to be added after remote submission.",
+      "notes": "Uniform local archive draw; source integrity repaired before review; cache miss became cached with pypdf and html-regex; source files withheld locally; public artifacts submitted in commit ae355272.",
       "slug": "LSS-Runtime-Entropy",
       "source_urls": [
         "https://arxiv.org/abs/2603.15690",
@@ -28336,7 +28336,7 @@
         "https://arxiv.org/pdf/2603.15690",
         "https://doi.org/10.48550/arXiv.2603.15690"
       ],
-      "status": "submission_pending"
+      "status": "deposited"
     }
   ],
   "papers": [

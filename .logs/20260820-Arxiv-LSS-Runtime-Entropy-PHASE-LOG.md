@@ -37,7 +37,7 @@ Durations are elapsed or rounded operational measurements; public artifacts inte
 
 - Pre-write lookup: no matching ID, DOI, normalized title, slug, artifact path, memory marker, Black-Lake-Data search result, or 24-hour marker.
 - Entry fields: arXiv ID, arXiv-issued DOI, normalized title, slug, public artifact paths, source URLs, deposit date, status, and source-withheld notes.
-- Update status: generated entry pending final commit reference; commit/PR field will be populated after remote submission.
+- Update status: dedup entry now records the deposited status and primary remote commit reference.
 
 ## Expected vs Observed Trajectory
 
