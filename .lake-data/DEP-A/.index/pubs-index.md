@@ -12630,3 +12630,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Characterizing the Discrete Geometry of ReLU Networks* | Blake B. Gaines; Jinbo Bi | [arXiv:2606.07728v1](https://arxiv.org/abs/2606.07728v1) · [DOI](https://doi.org/10.48550/arXiv.2606.07728) |
+
+## [DEP-A-20260820-2606.02448 Diffusion-Base](../DEP-A-20260820-2606.02448%20Diffusion-Base/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.02448%20Diffusion-Base/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diffusion-Based Heart Sound Generation: Evaluation with Physiological Signal Metrics, Classifiers, and Expert Listening* | Xinqi Bao; Jia Bi; Xin Chen; Ernest Nlandu Kamavuako; Saikat Chatterjee | [arXiv:2606.02448v1](https://arxiv.org/abs/2606.02448v1) · [DOI](https://doi.org/10.48550/arXiv.2606.02448) |
