@@ -12686,3 +12686,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Do Phone-Use Agents Respect Your Privacy?* | Zhengyang Tang; Ke Ji; Xidong Wang; Zihan Ye; Xinyuan Wang; Yiduo Guo; Ziniu Li; Chenxin Li; Jingyuan Hu; Shunian Chen; Tongxu Luo; Jiaxi Bi; Zeyu Qin; Shaobo Wang; Xin Lai; Pengyuan Lyu; Junyi Li; Can Xu; Chengquan Zhang; Han Hu; Ming Yan; Benyou Wang | [arXiv:2604.00986v2](https://arxiv.org/abs/2604.00986v2) · [DOI](https://doi.org/10.48550/arXiv.2604.00986) |
+
+## [DEP-A-20260820-2603.27186 Hybrid Deep Le](../DEP-A-20260820-2603.27186%20Hybrid%20Deep%20Le/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2603.27186%20Hybrid%20Deep%20Le/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid Deep Learning with Temporal Data Augmentation for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries* | Yun Tian; Guili Wang; Jian Bi; Kaixin Han; Chenglu Wu; Zhiyi Lu; Chenhao Li; Liangwang Sun; Minyu Zhou; Chenchen Xu | [arXiv:2603.27186v1](https://arxiv.org/abs/2603.27186v1) · [DOI](https://doi.org/10.48550/arXiv.2603.27186) |
