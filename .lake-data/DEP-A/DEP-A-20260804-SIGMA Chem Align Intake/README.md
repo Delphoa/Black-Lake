@@ -1,66 +1,51 @@
 # DEP-A-20260804-SIGMA Chem Align Intake
 
-#molecular-generation #smiles #contrastive-learning #beam-search #chemical-graphs #dual-use #archival-intake #whitepaper-review
+#sigma #structure-invariant #generative #molecular #alignment #chemical #language #arxiv #whitepaper-review #remediation #evidence-audit
 
-Public deposition date: 2026-08-04. This DEP-A is a new, public-safe archival intake derived by reviewing `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align` at source commit `ba8a4ee74ef6128c7a43e7f27af4eee8b6a455bc`. The paired task indicator is `BL-DEPPAIR-20260804-7065CD5B`.
+Public deposition context: enhanced remediation dossier for [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1), stable arXiv v1. The source documents were verified from a locally archived full PDF and matching full-paper HTML and are withheld from the repository.
 
 ## Contents
 
 - `README.md`
-  - Classification, item inventory, summary, relevance, one-way provenance, associated records, and attribution.
+  - Classification, complete inventory, deposition context, associations, insights, and final attribution.
+- `corrected-whitepaper-review.md`
+  - Newly generated, whitepaper-grade full-paper review that passed semantic and structural revalidation.
+- `original-failed-review-sanitized.md`
+  - Public-safe preserved derivative of the original failed review, clearly labeled as ineligible.
+- `prior-work-log.md`
+  - Sanitized workflow history showing what completed before the earlier semantic gate stopped filing.
+- `failure-notes.md`
+  - Paper-specific failure codes, publication consequence, and preservation boundary.
+- `remediation-and-revalidation.md`
+  - Corrective tasks, attempt lineage, validation metrics, and evidence limits.
 - `whitepaper-intake-review.md`
-  - Whitepaper-grade review covering source integrity, technical and evidentiary reconstruction, claim vetting, quantitative boundaries, independent re-conceptualization, failure modes, hypotheses, replication, and complete coverage.
+  - Existing same-paper archival intake review retained unchanged as historical context.
 
 ## Summary of Items
 
-The review treats the complete DEP-E repository record as its primary object. It distinguishes source reporting, directly inspected primary evidence, reviewer inference, and hypothesis. It does not copy the source record or claim independent reproduction.
-
-The central durable finding is: SIGMA uses graph identity twice: token-level contrastive alignment teaches different SMILES traversals of the same graph to share latent trajectories, and IsoBeam removes isomorphic duplicates during decoding. The coherent identity mechanism improves benchmark exploration, but chemistry normalization, runtime cost, data splitting, code availability, and real utility remain unresolved.
+This dossier keeps the correction and the barrier together. The corrected review is the owning substantive artifact; the sanitized failed review is retained as non-authoritative process evidence. The work log and failure notes explain why structural validation alone was insufficient. The remediation record shows how table semantics, evidence language, and external primary-source context were corrected and revalidated.
 
 ## Insights and Relevance
 
-This package converts a complete research record into an archival evidence object whose claims stay attached to source identity, evaluation coordinates, limitations, and falsifiers. It is intended for future research planning, implementation gating, and provenance-aware comparison.
+The durable value is not only the corrected paper synthesis. It is the observable transition from a structurally complete but semantically ungrounded draft to a validated review whose result rows, headers, metrics, external context, and evidence layers can be audited. This makes the DEP useful for both research retrieval and workflow improvement.
 
-Passing the included review methodology supports auditability, observability, and traceable lineage. It does not certify correctness, security, clinical readiness, legal compliance, privacy, fairness, or production safety.
+The dossier supports auditability and traceable lineage. It does not certify correctness, reproduction, security, safety, clinical readiness, or production fitness.
 
-## Provenance Pair
+## Associated DEP Records
 
-- Paired task indicator: `BL-DEPPAIR-20260804-7065CD5B`
-- Direction: `DEP-E -> DEP-A`
-- Source DEP-E: `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align`
-- Source commit: `ba8a4ee74ef6128c7a43e7f27af4eee8b6a455bc`
-- Source action: review-only
-- Source DEP modified: no
-- Files moved: no
-- Existing files copied into DEP-A: no
-- New derived data generated: yes
-- DEP-A intake status: complete only after validation and repository submission
-- DEP-A deposition status: complete only after validation and repository submission
-- This one-way pair does not reclassify, transfer, supersede, or mutate the DEP-E.
+- [same-paper DEP-E research record](../../DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align/README.md) — Same arXiv identity; the DEP-E supplied the earlier research synthesis.
+- [same-paper earlier DEP-A intake artifact](whitepaper-intake-review.md) — The existing intake review is retained unchanged; this remediation adds a fresh full-paper review and workflow evidence.
 
 ## Attribution Block
 
-- Source DEP-E repository URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align
-  - Item: complete source record `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align` at `ba8a4ee74ef6128c7a43e7f27af4eee8b6a455bc`
-  - Notes: repository data was reviewed in place; no source DEP file was modified, moved, copied, renamed, deleted, or reclassified.
-- Source URL: https://arxiv.org/abs/2603.25062
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://arxiv.org/html/2603.25062
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://arxiv.org/pdf/2603.25062
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://doi.org/10.48550/arXiv.2603.25062
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry/fgbench_chemistry_manuscript.md
-  - Item: Canonical or primary public locator inspected or preserved by the source; no source document deposited.
-  - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Generated review: `whitepaper-intake-review.md`
-  - Item: new public-safe whitepaper-grade archival intake review
-  - Notes: original derived prose; validated before submission; source documents and private processing evidence were not uploaded.
+- Canonical paper: [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1)
+- Canonical PDF: https://arxiv.org/pdf/2603.25062v1
+- Canonical full-paper HTML: https://arxiv.org/html/2603.25062v1
+- Canonical DOI resolver: https://doi.org/10.48550/arXiv.2603.25062
+- Authors:
+  - [Xinyu Wang](https://arxiv.org/search/?query=Xinyu+Wang&searchtype=author)
+  - [Fei Dou](https://arxiv.org/search/?query=Fei+Dou&searchtype=author)
+  - [Jinbo Bi](https://arxiv.org/search/?query=Jinbo+Bi&searchtype=author)
+  - [Minghu Song](https://arxiv.org/search/?query=Minghu+Song&searchtype=author)
+- Source-document handling: the complete source PDF and full-paper HTML were verified locally and withheld from this repository.
+- Generated artifacts: all Markdown files in this dossier are derived public-safe review, failure, or workflow records; no source document, cache, validator JSON, or private ledger was uploaded.

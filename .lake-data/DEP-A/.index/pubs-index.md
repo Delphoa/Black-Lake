@@ -12694,3 +12694,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Hybrid Deep Learning with Temporal Data Augmentation for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries* | Yun Tian; Guili Wang; Jian Bi; Kaixin Han; Chenglu Wu; Zhiyi Lu; Chenhao Li; Liangwang Sun; Minyu Zhou; Chenchen Xu | [arXiv:2603.27186v1](https://arxiv.org/abs/2603.27186v1) · [DOI](https://doi.org/10.48550/arXiv.2603.27186) |
+
+## [DEP-A-20260804-SIGMA Chem Align Intake](../DEP-A-20260804-SIGMA%20Chem%20Align%20Intake/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260804-SIGMA%20Chem%20Align%20Intake/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning* | Xinyu Wang; Fei Dou; Jinbo Bi; Minghu Song | [arXiv:2603.25062v1](https://arxiv.org/abs/2603.25062v1) · [DOI](https://doi.org/10.48550/arXiv.2603.25062) |
