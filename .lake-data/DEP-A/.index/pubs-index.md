@@ -12550,3 +12550,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *AdaTurn: Budget-Aware Test-Time Scaling for Active Visual Perception Agents* | Susan Liang; Chao Huang; Filippos Bellos; Jing Bi; Jason J Corso; Chenliang Xu | [arXiv:2607.14547v1](https://arxiv.org/abs/2607.14547v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14547) |
+
+## [DEP-A-20260820-2607.14145 ToolAnchor](../DEP-A-20260820-2607.14145%20ToolAnchor/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.14145%20ToolAnchor/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability* | Weiting Liu; Jieyi Bi; Wanqi Zhou; Jianfeng Feng; Yining Ma; Ai Han; Wenlian Lu | [arXiv:2607.14145v1](https://arxiv.org/abs/2607.14145v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14145) |
