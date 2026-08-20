@@ -12558,3 +12558,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability* | Weiting Liu; Jieyi Bi; Wanqi Zhou; Jianfeng Feng; Yining Ma; Ai Han; Wenlian Lu | [arXiv:2607.14145v1](https://arxiv.org/abs/2607.14145v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14145) |
+
+## [DEP-A-20260820-2607.08025 PGD-NO](../DEP-A-20260820-2607.08025%20PGD-NO/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.08025%20PGD-NO/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations* | Weiheng Zhong; Jing Bi; Victor Oancea; Hadi Meidani | [arXiv:2607.08025v1](https://arxiv.org/abs/2607.08025v1) · [DOI](https://doi.org/10.48550/arXiv.2607.08025) |
