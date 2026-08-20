@@ -13,6 +13,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Reviewed publications
 
+## [DEP-E-20260820-GenPT Psychometrics](../DEP-E-20260820-GenPT%20Psychometrics/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *GenPT: Beyond Self-Report for Reliable LLM Psychometrics via Generative Projective Testing* | Ming Wang; Shuang Wu; Bixuan Wang; et al. | [arXiv:2606.00860](https://arxiv.org/abs/2606.00860) | [DEP-E](../DEP-E-20260820-GenPT%20Psychometrics/README.md) |
+
 ## [DEP-E-20260820-The-Influence-of-A-A723](../DEP-E-20260820-The-Influence-of-A-A723/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |
