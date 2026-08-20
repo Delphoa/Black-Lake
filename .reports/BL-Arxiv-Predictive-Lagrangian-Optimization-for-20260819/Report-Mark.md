@@ -98,7 +98,7 @@ The selected paper contributes a constrained, lagrangian, optimization perspecti
 - https://arxiv.org/html/2501.15217 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.15217 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.15217 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Contact%20Optimization%20for - related DEP: Contact Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Contact Optimization for/contact_optimization_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Contact%20Optimization%20for - related DEP: Contact Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Contact Optimization for/contact_optimization_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

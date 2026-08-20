@@ -95,7 +95,7 @@ The selected paper contributes a autofocusing, imaging, in-focus perspective. Dy
 - https://ar5iv.labs.arxiv.org/html/2003.06630 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.06630 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2003.06630 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

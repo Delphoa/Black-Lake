@@ -95,7 +95,7 @@ The selected paper contributes a complex, domains, equation perspective. The thr
 - https://arxiv.org/html/2007.11207 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2007.11207 - verified primary PDF; local copy withheld.
 - https://doi.org/10.4208/cicp.OA-2020-0179 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, affine, deformable perspective. The t
 - https://arxiv.org/html/2509.18636 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.18636 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.18636 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HiP-AD%20Hierarchical%20and - related DEP: HiP-AD Hierarchical and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HiP-AD Hierarchical and/hip_ad_hierarchical_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hierarchical%20Trajectory - related DEP: Hierarchical Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Trajectory/hierarchical_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HiP-AD%20Hierarchical%20and - related DEP: HiP-AD Hierarchical and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HiP-AD Hierarchical and/hip_ad_hierarchical_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hierarchical%20Trajectory - related DEP: Hierarchical Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Trajectory/hierarchical_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

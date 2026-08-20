@@ -96,7 +96,7 @@ CCL treats feature exchange as a collaboration primitive. XPRINT warns that prot
 - https://arxiv.org/abs/2111.10763 - canonical metadata, authors, version history, DOI, and public locators.
 - https://ar5iv.labs.arxiv.org/html/2111.10763 - verified full-paper fallback; local copy withheld.
 - https://arxiv.org/pdf/2111.10763 - verified PDF; local copy withheld.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related derived-signal privacy evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Device%20Tuning%20MTL - related device/cloud contract evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related representation-probing evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related derived-signal privacy evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Device%20Tuning%20MTL - related device/cloud contract evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related representation-probing evidence.
 - Source files: PDF, fallback full-paper HTML, metadata HTML, and integrity records; all withheld locally.

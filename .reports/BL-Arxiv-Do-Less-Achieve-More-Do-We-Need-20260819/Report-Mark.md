@@ -98,7 +98,7 @@ The selected paper contributes a achieve, diffusion, every-step perspective. The
 - https://arxiv.org/html/2605.15855 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.15855 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.15855 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Train%20Less%20Learn%20More - related DEP: Train Less Learn More - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Train Less Learn More/train_less_learn_more_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DRIFT%20Decoupled%20Rollouts - related DEP: DRIFT Decoupled Rollouts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIFT Decoupled Rollouts/drift_decoupled_rollouts_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data%20Mixing%20Optimization - related DEP: Data Mixing Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data Mixing Optimization/data_mixing_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Train%20Less%20Learn%20More - related DEP: Train Less Learn More - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Train Less Learn More/train_less_learn_more_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DRIFT%20Decoupled%20Rollouts - related DEP: DRIFT Decoupled Rollouts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIFT Decoupled Rollouts/drift_decoupled_rollouts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data%20Mixing%20Optimization - related DEP: Data Mixing Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data Mixing Optimization/data_mixing_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

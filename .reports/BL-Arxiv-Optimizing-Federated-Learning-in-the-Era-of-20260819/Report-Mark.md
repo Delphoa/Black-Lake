@@ -98,7 +98,7 @@ The selected paper contributes a era, federated, llms perspective. The three rel
 - https://arxiv.org/html/2511.16450 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.16450 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.16450 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Sparse%20Vector%20Recovery - related DEP: Sparse Vector Recovery - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery/sparse_vector_recovery_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Sparse%20Vector%20Recovery - related DEP: Sparse Vector Recovery - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery/sparse_vector_recovery_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

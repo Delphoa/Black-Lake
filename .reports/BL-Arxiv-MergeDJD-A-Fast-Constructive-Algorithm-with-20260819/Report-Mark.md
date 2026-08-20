@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bin, constructive perspective. The t
 - https://arxiv.org/html/2603.00484 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.00484 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.00484 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Dataset%20Baselines - related DEP: Dataset Baselines Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Dataset Baselines/dataset_baselines_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Dataset%20Baselines - related DEP: Dataset Baselines Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Dataset Baselines/dataset_baselines_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

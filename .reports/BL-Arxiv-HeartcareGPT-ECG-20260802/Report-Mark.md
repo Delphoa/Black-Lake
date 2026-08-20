@@ -36,9 +36,9 @@ The evidence supports a coherent representation-and-evaluation direction, not cl
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md` — reviews multi-scale, imbalance-aware ECG classification and lead-perturbation evidence; it provides a direct physiological-signal neighbor and a caution against equating reported gains with calibration, external generalization, or clinical readiness. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-MSAIC%20ECG/msaic_ecg_manuscript.md
-2. `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md` — reviews longitudinal medical image VQA, patient-level split discipline, structured clinical evaluation, and credentialed dataset governance; it grounds Heartcare-Bench’s multimodal evaluation ambitions in a comparable medical benchmark. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
-3. `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md` — examines audio-video fusion that improves one label setting but harms another, with missing/conflicting-modality and split concerns; it supplies a concrete warning that multimodal fusion must be evaluated by condition rather than assumed beneficial. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
+1. `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md` — reviews multi-scale, imbalance-aware ECG classification and lead-perturbation evidence; it provides a direct physiological-signal neighbor and a caution against equating reported gains with calibration, external generalization, or clinical readiness. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG/msaic_ecg_manuscript.md
+2. `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md` — reviews longitudinal medical image VQA, patient-level split discipline, structured clinical evaluation, and credentialed dataset governance; it grounds Heartcare-Bench’s multimodal evaluation ambitions in a comparable medical benchmark. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
+3. `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md` — examines audio-video fusion that improves one label setting but harms another, with missing/conflicting-modality and split concerns; it supplies a concrete warning that multimodal fusion must be evaluated by condition rather than assumed beneficial. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
 
 ## Synthesis Note
 
@@ -129,9 +129,9 @@ def route_report(confidence, modality_agreement, threshold=0.85):
 | S4 | https://doi.org/10.48550/arXiv.2506.05831 | Persistent paper identity | 2026-08-02 | arXiv-issued DOI |
 | S5 | https://github.com/ZJU4HealthCare/HeartcareGPT | Official code/repository surface and dataset description | 2026-08-02 | README inspected; code not executed |
 | S6 | https://physionet.org/content/ptb-xl/1.0.3/ | Public PTB-XL dataset context cited by the paper | 2026-08-02 | Referenced by the paper/repository; dataset not downloaded |
-| S7 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260715-MSAIC%20ECG/msaic_ecg_manuscript.md | ECG signal modeling, imbalance, perturbation, and clinical-evidence boundary | 2026-08-02 | Related processed DEP |
-| S8 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md | Medical multimodal benchmark, split discipline, and governance | 2026-08-02 | Related processed DEP |
-| S9 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md | Conditional fusion gains, missingness, and evaluation limits | 2026-08-02 | Related processed DEP |
+| S7 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG/msaic_ecg_manuscript.md | ECG signal modeling, imbalance, perturbation, and clinical-evidence boundary | 2026-08-02 | Related processed DEP |
+| S8 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md | Medical multimodal benchmark, split discipline, and governance | 2026-08-02 | Related processed DEP |
+| S9 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md | Conditional fusion gains, missingness, and evaluation limits | 2026-08-02 | Related processed DEP |
 
 ## Attribution Block
 

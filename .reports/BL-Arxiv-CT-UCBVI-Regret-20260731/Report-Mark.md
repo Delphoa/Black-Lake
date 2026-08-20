@@ -35,9 +35,9 @@ The PDF, metadata HTML, full-paper HTML, source-package status record, and acqui
 
 ## Related DEP Entries
 
-1. [GPMD Regularized RL DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md) — related through tabular policy improvement, convergence guarantees, and explicit approximation-error boundaries.
-2. [RRT-CBF Motion DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md) — related through finite-horizon continuous-time decision making and the gap between theoretical planning and safe execution.
-3. [SIM MARL Power DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power/sim_marl_power_manuscript.md) — related through learning under coupled dynamics and the need to separate source-reported policy gains from deployment evidence.
+1. [GPMD Regularized RL DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md) — related through tabular policy improvement, convergence guarantees, and explicit approximation-error boundaries.
+2. [RRT-CBF Motion DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md) — related through finite-horizon continuous-time decision making and the gap between theoretical planning and safe execution.
+3. [SIM MARL Power DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power/sim_marl_power_manuscript.md) — related through learning under coupled dynamics and the need to separate source-reported policy gains from deployment evidence.
 
 ## Synthesis Note
 

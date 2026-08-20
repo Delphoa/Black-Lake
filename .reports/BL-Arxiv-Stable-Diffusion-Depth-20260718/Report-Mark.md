@@ -200,9 +200,9 @@ These are deterministic review aids, not a reproduction of the paper or authoriz
   - Applies to: DEP-E container and publication-index rules.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: companion-repository dedup and layout authority.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-UAV%20Visual%20Localization/uav_visual_localization_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-UAV%20Visual%20Localization/uav_visual_localization_manuscript.md
   - Applies to: DINOv2, domain-gap, localization-metric, and abstention concept bridge.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: diffusion-prior and geometry-consistency concept bridge.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Stereo%20Lane%20Detection/stereo_lane_detection_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Stereo%20Lane%20Detection/stereo_lane_detection_manuscript.md
   - Applies to: adverse-condition, calibration, latency, recovery, and driving-geometry concept bridge.

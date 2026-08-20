@@ -98,7 +98,7 @@ The selected paper contributes a actions, general, language perspective. The thr
 - https://arxiv.org/html/2406.09455 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.09455 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.09455 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Stereo%20World%20Model - related DEP: Stereo World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stereo World Model/stereo_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench%20Towards - related DEP: MobileWorldBench Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench Towards/mobileworldbench_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Stereo%20World%20Model - related DEP: Stereo World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stereo World Model/stereo_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MobileWorldBench%20Towards - related DEP: MobileWorldBench Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench Towards/mobileworldbench_towards_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

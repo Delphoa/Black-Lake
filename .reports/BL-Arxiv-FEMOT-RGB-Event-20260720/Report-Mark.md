@@ -98,7 +98,7 @@ FEMOT makes synchronized frame-event evidence a tracking interface; iKalibr prov
 - https://arxiv.org/html/2606.14094 - full-paper evidence for dataset, method, experiments, and limitations; local copy withheld.
 - https://arxiv.org/pdf/2606.14094 - verified primary PDF; local copy withheld.
 - https://github.com/Event-AHU/FEMOT - author-stated code and benchmark locator; not executed or redistributed.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration - related calibration evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Stereo%20Lane%20Detection - related temporal perception evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related multimodal world-model evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration - related calibration evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Stereo%20Lane%20Detection - related temporal perception evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related multimodal world-model evidence.
 - Source files: verified PDF, official full-paper HTML, metadata HTML, and integrity records; all withheld locally.

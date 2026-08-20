@@ -98,7 +98,7 @@ The selected paper contributes a accelerator, clo-hdnn, computing perspective. T
 - https://arxiv.org/html/2507.17953 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.17953 - verified primary PDF; local copy withheld.
 - https://doi.org/10.23919/VLSITechnologyandCir65189.2025.11074827 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PlanMoGPT%20Flow-Enhanced - related DEP: PlanMoGPT Flow-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PlanMoGPT Flow-Enhanced/planmogpt_flow_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PlanMoGPT%20Flow-Enhanced - related DEP: PlanMoGPT Flow-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PlanMoGPT Flow-Enhanced/planmogpt_flow_enhanced_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

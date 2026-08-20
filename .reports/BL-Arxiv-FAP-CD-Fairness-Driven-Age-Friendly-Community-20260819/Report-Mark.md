@@ -98,7 +98,7 @@ The selected paper contributes a age-friendly, community, conditional perspectiv
 - https://arxiv.org/html/2412.16699 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.16699 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.16699 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

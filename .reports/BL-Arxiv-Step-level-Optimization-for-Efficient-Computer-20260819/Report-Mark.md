@@ -98,7 +98,7 @@ The selected paper contributes a agents, computer-use, optimization perspective.
 - https://arxiv.org/html/2604.27151 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.27151 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.27151 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Stealth%20Memory%20Injection - related DEP: Stealth Memory Trust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection/stealth_memory_trust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Stealth%20Memory%20Injection - related DEP: Stealth Memory Trust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection/stealth_memory_trust_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

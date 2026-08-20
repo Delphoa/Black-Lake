@@ -98,7 +98,7 @@ The selected paper contributes a end, fusion, language perspective. The three re
 - https://arxiv.org/html/2104.04487 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2104.04487 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2104.04487 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Cued%20Speech%20MLLM - related DEP: Cued Speech MLLM Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Cued Speech MLLM/cued_speech_mllm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Cued%20Speech%20MLLM - related DEP: Cued Speech MLLM Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Cued Speech MLLM/cued_speech_mllm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a cognitive, integrating, language perspective. T
 - https://arxiv.org/html/2402.10548 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.10548 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.10548 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PSSL%20Self-supervised - related DEP: PSSL Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PSSL Self-supervised/pssl_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Retrieval - related DEP: Learning Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Retrieval/learning_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PSSL%20Self-supervised - related DEP: PSSL Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PSSL Self-supervised/pssl_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Retrieval - related DEP: Learning Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Retrieval/learning_retrieval_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

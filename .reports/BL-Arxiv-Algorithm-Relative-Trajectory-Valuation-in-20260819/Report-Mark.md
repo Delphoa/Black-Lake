@@ -98,7 +98,7 @@ The selected paper contributes a algorithm-relative, control, gradient perspecti
 - https://arxiv.org/html/2511.07878 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.07878 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.07878 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20and%20Optimal - related DEP: Efficient and Optimal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient and Optimal/efficient_and_optimal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Retrospective - related DEP: Improving Retrospective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Retrospective/improving_retrospective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20and%20Optimal - related DEP: Efficient and Optimal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient and Optimal/efficient_and_optimal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Retrospective - related DEP: Improving Retrospective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Retrospective/improving_retrospective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

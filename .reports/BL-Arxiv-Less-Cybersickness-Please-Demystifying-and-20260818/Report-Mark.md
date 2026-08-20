@@ -97,7 +97,7 @@ The selected paper contributes a apps, cybersickness, demystifying perspective. 
 - https://arxiv.org/html/2406.09313 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.09313 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3660803 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Extended%20to%20Reality - related DEP: Extended to Reality - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Extended to Reality/extended_to_reality_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Extended%20to%20Reality - related DEP: Extended to Reality - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Extended to Reality/extended_to_reality_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

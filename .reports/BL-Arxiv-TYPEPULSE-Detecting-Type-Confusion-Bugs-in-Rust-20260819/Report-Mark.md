@@ -97,7 +97,7 @@ The selected paper contributes a bugs, confusion, detecting perspective. The thr
 - https://arxiv.org/html/2502.03271 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.03271 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.03271 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SAILFISH%20Vetting - related DEP: SAILFISH Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SAILFISH%20Vetting - related DEP: SAILFISH Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

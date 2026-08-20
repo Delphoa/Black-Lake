@@ -95,7 +95,7 @@ The selected paper contributes a adaptation, detection, fdg perspective. The thr
 - https://arxiv.org/html/2603.13666 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.13666 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.13666 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

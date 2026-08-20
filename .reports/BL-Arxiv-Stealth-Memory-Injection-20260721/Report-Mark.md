@@ -126,7 +126,7 @@ policy.authorize(plan.required_capabilities, evidence=evidence, fail_closed=True
 - https://arxiv.org/html/2607.05189v1 - complete full-paper evidence for method, experiments, results, limitations, appendices, and disclosures; local copy withheld.
 - https://arxiv.org/pdf/2607.05189v1 - complete 25-page source document verified locally and withheld.
 - https://doi.org/10.48550/arXiv.2607.05189 - canonical DOI resolver.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260717-FARMA%20Reasoning%20Poison - related forged-reasoning and memory-provenance analysis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Memory%20Defense%20Layers - related architecture-layer defense analysis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Agent%20Memory%20Forensics - related forensic analysis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-FARMA%20Reasoning%20Poison - related forged-reasoning and memory-provenance analysis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Memory%20Defense%20Layers - related architecture-layer defense analysis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Agent%20Memory%20Forensics - related forensic analysis.
 - Source files: PDF, full-paper HTML, metadata HTML, source archive, extracted text, renderings, and integrity records; all withheld locally.

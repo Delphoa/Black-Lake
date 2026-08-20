@@ -33,13 +33,13 @@ Theorem 1.1 associates a harmonic map into a simply connected non-compact inner 
 
 ## Related DEP Entries
 
-1. [Hyperbolic Catenaries - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md)
+1. [Hyperbolic Catenaries - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md)
    - **Source basis:** inspected manuscript and evidence ledger for arXiv:2211.15297v2.
    - **Relevance:** both analyse surface geometry through symmetry-compatible constructions; that deposit connects a variational curve law to minimal surfaces, while this one reconstructs Willmore geometry from constrained harmonic maps.
-2. [Integrals and Rigidity - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md)
+2. [Integrals and Rigidity - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md)
    - **Source basis:** inspected manuscript and evidence ledger for arXiv:2602.10393.
    - **Relevance:** both are theorem-led differential-geometry reviews that make hypotheses, equality cases, and unverified proof dependencies explicit.
-3. [Flag Hardy Operators - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
+3. [Flag Hardy Operators - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
    - **Source basis:** inspected manuscript and evidence ledger for arXiv:1702.07201.
    - **Relevance:** both use a decomposition adapted to the native geometry and identify a domain where the machinery is valid rather than assuming global applicability.
 

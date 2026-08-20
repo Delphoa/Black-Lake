@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, efficiency, eigensolution perspectiv
 - https://arxiv.org/html/1606.01139 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1606.01139 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1016/j.cpc.2016.05.015 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20parallel%20structured - related DEP: A parallel structured - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A parallel structured/a_parallel_structured_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Transport%20Convexity - related DEP: Transport Convexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Transport Convexity/transport_convexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20parallel%20structured - related DEP: A parallel structured - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A parallel structured/a_parallel_structured_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Transport%20Convexity - related DEP: Transport Convexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Transport Convexity/transport_convexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

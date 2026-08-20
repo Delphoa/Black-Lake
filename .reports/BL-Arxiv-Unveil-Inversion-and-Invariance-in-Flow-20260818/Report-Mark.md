@@ -97,7 +97,7 @@ The selected paper contributes a editing, flow, image perspective. The three rel
 - https://arxiv.org/html/2411.15843 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.15843 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.15843 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-An%20Item%20is%20Worth%20a%20Prompt - related DEP: An Item is Worth a Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt/an_item_is_worth_a_prompt_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-An%20Item%20is%20Worth%20a%20Prompt - related DEP: An Item is Worth a Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt/an_item_is_worth_a_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a dynamical, graphode, latent perspective. The th
 - https://arxiv.org/html/2310.06427 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.06427 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.06427 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven - related DEP: Data-driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven/data_driven_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity - related DEP: Multi-fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity/multi_fidelity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven - related DEP: Data-driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven/data_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-fidelity - related DEP: Multi-fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity/multi_fidelity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

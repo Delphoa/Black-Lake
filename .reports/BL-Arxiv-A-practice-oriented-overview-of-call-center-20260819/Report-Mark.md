@@ -98,7 +98,7 @@ The selected paper contributes a call, center, overview perspective. The three r
 - https://arxiv.org/html/2101.10122 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2101.10122 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2101.10122 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

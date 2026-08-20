@@ -98,7 +98,7 @@ The selected paper contributes a c-v2x, considering, efficiency perspective. The
 - https://arxiv.org/html/2003.10620 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.10620 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2003.10620 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Energy-Workload%20Coupled - related DEP: Energy-Workload Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Energy-Workload Coupled/energy_workload_coupled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20optimization%20framework - related DEP: A optimization framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A optimization framework/a_optimization_framework_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Energy-Workload%20Coupled - related DEP: Energy-Workload Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Energy-Workload Coupled/energy_workload_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20optimization%20framework - related DEP: A optimization framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A optimization framework/a_optimization_framework_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

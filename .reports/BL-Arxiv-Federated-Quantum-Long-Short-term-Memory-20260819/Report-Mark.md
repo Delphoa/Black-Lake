@@ -98,7 +98,7 @@ The selected paper contributes a federated, fedqlstm, long perspective. The thre
 - https://arxiv.org/html/2312.14309 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.14309 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.14309 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Attention-based%20Long - related DEP: An Attention-based Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Attention-based Long/an_attention_based_long_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Long%20Short-Term%20Memory - related DEP: Long Short-Term Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Long Short-Term Memory/long_short_term_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Attention-based%20Long - related DEP: An Attention-based Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Attention-based Long/an_attention_based_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Long%20Short-Term%20Memory - related DEP: Long Short-Term Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Long Short-Term Memory/long_short_term_memory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a general, llm-based, multi-agent perspective. Th
 - https://arxiv.org/html/2605.26646 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.26646 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.26646 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a d-ic, deepoheat-v1, design perspective. The thr
 - https://arxiv.org/html/2504.03955 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.03955 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.03955 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-A%20Survey%20on%20Trustworthy - related DEP: A Survey on Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy/a_survey_on_trustworthy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-A%20Survey%20of%20Trustworthy - related DEP: A Survey of Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy/a_survey_of_trustworthy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-A%20Survey%20on%20Trustworthy - related DEP: A Survey on Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy/a_survey_on_trustworthy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-A%20Survey%20of%20Trustworthy - related DEP: A Survey of Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy/a_survey_of_trustworthy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

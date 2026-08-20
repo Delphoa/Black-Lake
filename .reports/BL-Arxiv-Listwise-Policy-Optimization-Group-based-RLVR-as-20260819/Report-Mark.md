@@ -98,7 +98,7 @@ The selected paper contributes a group-based, listwise, llm perspective. The thr
 - https://arxiv.org/html/2605.06139 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.06139 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.06139 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-From%20Answer%20to%20Think - related DEP: From Answer to Think - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Answer to Think/from_answer_to_think_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-From%20Answer%20to%20Think - related DEP: From Answer to Think - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Answer to Think/from_answer_to_think_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

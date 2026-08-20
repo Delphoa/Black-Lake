@@ -95,7 +95,7 @@ The selected paper contributes a clock, explanation, mechanistic perspective. Th
 - https://arxiv.org/html/2306.17844 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.17844 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.17844 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

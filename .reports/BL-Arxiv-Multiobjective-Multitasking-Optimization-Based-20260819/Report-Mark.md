@@ -98,7 +98,7 @@ The selected paper contributes a decomposition, dual, multiobjective perspective
 - https://arxiv.org/html/2101.07548 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2101.07548 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2101.07548 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Variable%20Division%20and - related DEP: Variable Division and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Variable Division and/variable_division_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Variable%20Division%20and - related DEP: Variable Division and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Variable Division and/variable_division_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

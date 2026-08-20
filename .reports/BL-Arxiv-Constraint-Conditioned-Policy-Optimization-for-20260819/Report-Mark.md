@@ -98,7 +98,7 @@ The selected paper contributes a constraint-conditioned, optimization, policy pe
 - https://arxiv.org/html/2310.03718 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.03718 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.03718 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-An%20Item%20is%20Worth%20a%20Prompt - related DEP: An Item is Worth a Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt/an_item_is_worth_a_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-An%20Item%20is%20Worth%20a%20Prompt - related DEP: An Item is Worth a Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-An Item is Worth a Prompt/an_item_is_worth_a_prompt_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

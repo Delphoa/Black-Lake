@@ -98,7 +98,7 @@ The selected paper contributes a fine-tuning, language, mixing perspective. The 
 - https://arxiv.org/html/2508.11953 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.11953 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.11953 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DRIFT%20Decoupled%20Rollouts - related DEP: DRIFT Decoupled Rollouts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIFT Decoupled Rollouts/drift_decoupled_rollouts_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Fast%20LLM - related DEP: Towards Fast LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Fast LLM/towards_fast_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FlowPRO%20Reward-Free - related DEP: FlowPRO Reward-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowPRO Reward-Free/flowpro_reward_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DRIFT%20Decoupled%20Rollouts - related DEP: DRIFT Decoupled Rollouts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIFT Decoupled Rollouts/drift_decoupled_rollouts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Fast%20LLM - related DEP: Towards Fast LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Fast LLM/towards_fast_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FlowPRO%20Reward-Free - related DEP: FlowPRO Reward-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowPRO Reward-Free/flowpro_reward_free_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

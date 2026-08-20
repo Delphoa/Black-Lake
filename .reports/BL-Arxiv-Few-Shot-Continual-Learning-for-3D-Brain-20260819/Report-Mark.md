@@ -98,7 +98,7 @@ The selected paper contributes a brain, continual, few-shot perspective. The thr
 - https://arxiv.org/html/2602.23533 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.23533 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.23533 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Big-model%20Driven%20Few-shot - related DEP: Big-model Driven Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Big-model Driven Few-shot/big_model_driven_few_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Big-model%20Driven%20Few-shot - related DEP: Big-model Driven Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Big-model Driven Few-shot/big_model_driven_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a cache, compression, key-value perspective. The 
 - https://arxiv.org/html/2503.24000 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.24000 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.24000 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scaling%20Up%20Efficient - related DEP: Scaling Up Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling Up Efficient/scaling_up_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scaling%20Up%20Efficient - related DEP: Scaling Up Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling Up Efficient/scaling_up_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

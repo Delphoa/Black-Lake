@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, combinatorial, comprehensive perspe
 - https://arxiv.org/html/2406.00415 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.00415 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.00415 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhancing%20the%20Cross-Size - related DEP: Enhancing the Cross-Size - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing the Cross-Size/enhancing_the_cross_size_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Heuristics - related DEP: Efficient Heuristics - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Heuristics/efficient_heuristics_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Human-inspired - related DEP: Human-inspired - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Human-inspired/human_inspired_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhancing%20the%20Cross-Size - related DEP: Enhancing the Cross-Size - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing the Cross-Size/enhancing_the_cross_size_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Heuristics - related DEP: Efficient Heuristics - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Heuristics/efficient_heuristics_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Human-inspired - related DEP: Human-inspired - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Human-inspired/human_inspired_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

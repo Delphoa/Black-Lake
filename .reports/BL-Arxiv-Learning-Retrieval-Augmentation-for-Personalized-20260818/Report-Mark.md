@@ -97,7 +97,7 @@ The selected paper contributes a augmentation, dialogue, generation perspective.
 - https://arxiv.org/html/2406.18847 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.18847 - verified primary PDF; local copy withheld.
 - https://doi.org/10.18653/v1/2023.emnlp-main.154 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

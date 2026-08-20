@@ -97,7 +97,7 @@ The selected paper contributes a quantum, verification, autoq perspective. The t
 - https://arxiv.org/html/2411.09121 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.09121 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.09121 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -26,10 +26,22 @@ All durable deposits must live under `.lake-data/` using one of three DEP classe
 Use this naming convention:
 
 ```text
-.lake-data/DEP-E/DEP-E-YYYYMMDD-Short Description
-.lake-data/DEP-R/DEP-R-YYYYMMDD-Short Description
-.lake-data/DEP-A/DEP-A-YYYYMMDD-Short Description
+.lake-data/DEP-E/Series NNN/DEP-E-YYYYMMDD-Short Description
+.lake-data/DEP-R/Series NNN/DEP-R-YYYYMMDD-Short Description
+.lake-data/DEP-A/Series NNN/DEP-A-YYYYMMDD-Short Description
 ```
+
+`Series NNN` is allocated from the selected class's authoritative
+`.index/series-map.json`; it is not chosen manually. Each Series holds at most
+1,000 DEP objects. Repository writers must use
+[`automation-tools/dep_series.py`](automation-tools/dep_series.py) to resolve
+an existing DEP by stable identity or mapped path, or allocate a new DEP from
+an explicit stable identity while holding the shared deployment lock. Repairs
+retain the mapped ordinal and Series. The writer must update the map atomically
+with the DEP and any applicable publication index, and create the next Series
+only with its first object. See
+[`.lake-data/README.md`](.lake-data/README.md) for the fail-closed rollover
+contract.
 
 See [`.lake-data/README.md`](.lake-data/README.md) for class-selection, filing, and publication-index maintenance rules.
 
@@ -46,9 +58,9 @@ Requirements:
 Examples:
 
 ```text
-.lake-data/DEP-E/DEP-E-20260708-Agent Memory Study
-.lake-data/DEP-R/DEP-R-20260708-SEPCFG Paper
-.lake-data/DEP-A/DEP-A-20260708-Model Weights Index
+.lake-data/DEP-E/Series NNN/DEP-E-20260708-Agent Memory Study
+.lake-data/DEP-R/Series NNN/DEP-R-20260708-SEPCFG Paper
+.lake-data/DEP-A/Series NNN/DEP-A-20260708-Model Weights Index
 ```
 
 ## Required DEP Contents
@@ -63,7 +75,7 @@ Each DEP directory must include a `README.md` with:
 If a DEP includes a generated artifact such as a synthesis, manuscript report, extraction, index, dataset, or transformed document, preserve source provenance through canonical public URLs and the Attribution Block. Source documents downloaded by arXiv or research-paper automations remain local and must not be committed. A `.source/` directory may be used only when a separate task explicitly authorizes source deposition and redistribution rights have been reviewed.
 
 ```text
-.lake-data/DEP-E/DEP-E-YYYYMMDD-Short Description/
+.lake-data/DEP-E/Series NNN/DEP-E-YYYYMMDD-Short Description/
   README.md
   generated-artifact.md
   extracted-data.json

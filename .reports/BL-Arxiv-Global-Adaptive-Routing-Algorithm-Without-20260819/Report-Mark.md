@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, additional, algorithm perspective. Th
 - https://arxiv.org/html/1208.0384 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1208.0384 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1208.0384 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Tolling%20for%20Constraint - related DEP: Tolling for Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Tolling for Constraint/tolling_for_constraint_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learn%20from%20Global - related DEP: Learn from Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learn from Global/learn_from_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Tolling%20for%20Constraint - related DEP: Tolling for Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Tolling for Constraint/tolling_for_constraint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learn%20from%20Global - related DEP: Learn from Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learn from Global/learn_from_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a assessment, challenge, holistic perspective. Th
 - https://arxiv.org/html/2605.05187 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.05187 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.05187 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-MVA2023%20Small%20Object - related DEP: MVA2023 Small Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object/mva2023_small_object_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-MVA2023%20Small%20Object - related DEP: MVA2023 Small Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object/mva2023_small_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

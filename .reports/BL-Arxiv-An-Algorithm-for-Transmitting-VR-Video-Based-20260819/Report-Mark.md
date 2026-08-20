@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, algorithm, modulation perspective. Th
 - https://arxiv.org/html/1906.11402 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1906.11402 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1906.11402 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Adaptive%203D%20Gaussian - related DEP: Adaptive 3D Gaussian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive 3D Gaussian/adaptive_3d_gaussian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Online%20Sequence - related DEP: Online Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Sequence/online_sequence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Adaptive%203D%20Gaussian - related DEP: Adaptive 3D Gaussian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive 3D Gaussian/adaptive_3d_gaussian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Online%20Sequence - related DEP: Online Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Sequence/online_sequence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

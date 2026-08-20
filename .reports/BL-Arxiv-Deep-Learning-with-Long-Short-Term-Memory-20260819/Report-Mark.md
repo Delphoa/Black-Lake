@@ -98,7 +98,7 @@ The selected paper contributes a long, memory, prediction perspective. The three
 - https://arxiv.org/html/1810.10161 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1810.10161 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1810.10161 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

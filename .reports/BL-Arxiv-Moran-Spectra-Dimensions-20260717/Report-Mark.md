@@ -281,15 +281,15 @@ This turns assumptions into visible review objects. A passing finite gate still 
   - Applies to: journal, volume, article number, publication context, abstract, section snippets, and citation context.
   - Notes: Official publisher record; complete article was not line-compared with arXiv v1.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Context on multiscale harmonic analysis and theorem thresholds; not evidence for the selected theorem.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Context on Fourier/exponential reconstruction; not evidence for the selected theorem.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-FGLE%20Midpoint%20Scheme/fgle_midpoint_scheme_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGLE%20Midpoint%20Scheme/fgle_midpoint_scheme_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Context on nonlocal scale constructions and theorem-condition auditing; not evidence for the selected theorem.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

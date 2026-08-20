@@ -98,7 +98,7 @@ The selected paper contributes a forecasting, retrieval-augmented, semantics-enh
 - https://arxiv.org/html/2606.14941 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.14941 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.14941 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

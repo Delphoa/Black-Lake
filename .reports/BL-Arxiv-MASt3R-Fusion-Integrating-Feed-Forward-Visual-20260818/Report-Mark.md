@@ -95,7 +95,7 @@ The selected paper contributes a feed-forward, gnss, high-functionality perspect
 - https://arxiv.org/html/2509.20757 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.20757 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.20757 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

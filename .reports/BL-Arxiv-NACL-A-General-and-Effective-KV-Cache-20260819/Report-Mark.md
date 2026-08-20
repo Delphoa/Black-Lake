@@ -98,7 +98,7 @@ The selected paper contributes a cache, effective, eviction perspective. The thr
 - https://arxiv.org/html/2408.03675 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.03675 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.03675 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-TRACE%20Unlocking%20Effective - related DEP: TRACE Unlocking Effective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-TRACE Unlocking Effective/trace_unlocking_effective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-TRACE%20Unlocking%20Effective - related DEP: TRACE Unlocking Effective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-TRACE Unlocking Effective/trace_unlocking_effective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

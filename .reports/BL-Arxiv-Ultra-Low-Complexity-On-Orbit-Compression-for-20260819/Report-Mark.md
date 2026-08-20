@@ -98,7 +98,7 @@ The selected paper contributes a block, complexity, compression perspective. The
 - https://arxiv.org/html/2412.18417 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.18417 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.18417 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Deep%20Hashing%20Learning%20for - related DEP: Deep Hashing Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Hashing Learning for/deep_hashing_learning_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Deep%20Hashing%20Learning%20for - related DEP: Deep Hashing Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Hashing Learning for/deep_hashing_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

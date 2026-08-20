@@ -42,9 +42,9 @@ The source's own reporting contains two tensions. First, the sequential-planning
 
 ## Related DEP Entries
 
-1. [RRT-CBF Motion - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md) - Direct overlap in RRT planning, continuous motion generation, collision avoidance, execution tracking, and the distinction between simulated feasibility and physical safety.
-2. [SAGE-Nav Review - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260723-SAGE-Nav%20Review/sage_nav_manuscript.md) - A fast/slow architecture where semantic waypoints are planned asynchronously and consumed by a higher-frequency controller, paralleling the separation between primitive design and low-level group execution.
-3. [CrossMaps Rover Mapping - DEP-A](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md) - Confidence-aware semantic mapping supplies a persistent state layer for navigation, complementing a control paper that assumes the planner already has reliable robot and obstacle state.
+1. [RRT-CBF Motion - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md) - Direct overlap in RRT planning, continuous motion generation, collision avoidance, execution tracking, and the distinction between simulated feasibility and physical safety.
+2. [SAGE-Nav Review - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-SAGE-Nav%20Review/sage_nav_manuscript.md) - A fast/slow architecture where semantic waypoints are planned asynchronously and consumed by a higher-frequency controller, paralleling the separation between primitive design and low-level group execution.
+3. [CrossMaps Rover Mapping - DEP-A](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md) - Confidence-aware semantic mapping supplies a persistent state layer for navigation, complementing a control paper that assumes the planner already has reliable robot and obstacle state.
 
 ## Synthesis Note
 
@@ -183,13 +183,13 @@ The numbers are synthetic test thresholds, not physical specifications. The safe
 - Source URL: https://algorithmic-robotics.org/papers/65_Group_Control_Motion_Planni.pdf
   - Applies to: `Report-Mark.md`
   - Notes: WAFR public paper record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP on constrained RRT motion planning.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260723-SAGE-Nav%20Review/sage_nav_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-SAGE-Nav%20Review/sage_nav_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP on fast/slow semantic navigation planning.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260722-CrossMaps%20Rover%20Mapping/2606.16935-whitepaper-review.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP on confidence-aware rover mapping and state.
 - Source files: Withheld locally.

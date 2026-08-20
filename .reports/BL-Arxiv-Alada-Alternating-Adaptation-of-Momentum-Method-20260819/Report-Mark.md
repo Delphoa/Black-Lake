@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, alada, alternating perspective. The
 - https://arxiv.org/html/2512.13034 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.13034 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.13034 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

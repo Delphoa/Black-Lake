@@ -98,7 +98,7 @@ The selected paper contributes a context-aware, forge, fragment-oriented perspec
 - https://arxiv.org/html/2605.10230 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.10230 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.10230 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align - related DEP: SIGMA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-SIGMA%20Chem%20Align - related DEP: SIGMA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-SIGMA Chem Align/sigma_chem_align_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

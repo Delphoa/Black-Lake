@@ -95,7 +95,7 @@ The selected paper contributes a openonerec, report, technical perspective. The 
 - https://arxiv.org/html/2512.24762v1 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.24762 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.24762 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS - related DEP: 2D-RC OTFS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS - related DEP: 2D-RC OTFS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

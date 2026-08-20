@@ -95,7 +95,7 @@ The selected paper contributes a academic, construction, few-shot perspective. T
 - https://arxiv.org/html/2502.14192 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.14192 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.14192 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

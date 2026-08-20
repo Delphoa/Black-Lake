@@ -98,7 +98,7 @@ The selected paper contributes a computation, distributionally, energy-constrain
 - https://arxiv.org/html/2206.02319 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2206.02319 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2206.02319 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Task-level - related DEP: Task-level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Task-level/task_level_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Distributionally%20Robust - related DEP: A Distributionally Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Distributionally Robust/a_distributionally_robust_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Task-level - related DEP: Task-level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Task-level/task_level_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Distributionally%20Robust - related DEP: A Distributionally Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Distributionally Robust/a_distributionally_robust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

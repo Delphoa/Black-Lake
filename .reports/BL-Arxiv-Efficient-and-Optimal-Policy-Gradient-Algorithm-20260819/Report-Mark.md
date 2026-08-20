@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bandits, corrupted perspective. The 
 - https://arxiv.org/html/2502.14146 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.14146 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.14146 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Algori%2005613 - related DEP: An Efficient Algori 05613 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algori 05613/an_efficient_algori_05613_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Algori%2005613 - related DEP: An Efficient Algori 05613 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algori 05613/an_efficient_algori_05613_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

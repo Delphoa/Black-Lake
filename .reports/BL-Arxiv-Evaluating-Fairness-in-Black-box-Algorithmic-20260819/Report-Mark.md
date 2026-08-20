@@ -98,7 +98,7 @@ The selected paper contributes a algorithmic, black-box, case perspective. The t
 - https://arxiv.org/html/2407.20522 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.20522 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.20522 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Choosing%20the%20Better - related DEP: Choosing the Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Choosing the Better/choosing_the_better_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Black-Box%20Prompt - related DEP: Black-Box Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Black-Box Prompt/black_box_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Choosing%20the%20Better - related DEP: Choosing the Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Choosing the Better/choosing_the_better_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Black-Box%20Prompt - related DEP: Black-Box Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Black-Box Prompt/black_box_prompt_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

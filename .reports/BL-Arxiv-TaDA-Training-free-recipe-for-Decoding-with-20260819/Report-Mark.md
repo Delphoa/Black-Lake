@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, cache, compression perspective. The t
 - https://arxiv.org/html/2506.04642 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.04642 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.04642 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-VFM-Loc%20Zero-Shot - related DEP: VFM-Loc Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VFM-Loc Zero-Shot/vfm_loc_zero_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-VFM-Loc%20Zero-Shot - related DEP: VFM-Loc Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VFM-Loc Zero-Shot/vfm_loc_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

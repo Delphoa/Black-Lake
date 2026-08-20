@@ -98,7 +98,7 @@ The selected paper contributes a answer, llm, multidimensional perspective. The 
 - https://arxiv.org/html/2510.11457 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.11457 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.11457 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Think%20Fast%20Estimating - related DEP: Think Fast Estimating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating/think_fast_estimating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Think%20Fast%20Estimating - related DEP: Think Fast Estimating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating/think_fast_estimating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

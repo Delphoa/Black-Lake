@@ -98,7 +98,7 @@ The selected paper contributes a circuits, lifetime-based, optimization perspect
 - https://arxiv.org/html/2205.00393 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2205.00393 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3572848.3577529 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Simulating%20Classroom - related DEP: Simulating Classroom - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Simulating Classroom/simulating_classroom_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Simulating%20Classroom - related DEP: Simulating Classroom - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Simulating Classroom/simulating_classroom_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

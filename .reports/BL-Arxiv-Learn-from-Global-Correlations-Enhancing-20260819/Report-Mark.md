@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, correlations, enhancing perspective.
 - https://arxiv.org/html/2412.17629 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.17629 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.17629 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

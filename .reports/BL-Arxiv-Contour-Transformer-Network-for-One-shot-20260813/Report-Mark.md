@@ -95,7 +95,7 @@ The selected paper contributes a anatomical, contour, network perspective. The t
 - https://arxiv.org/html/2012.01480 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2012.01480 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2012.01480 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-One-shot%20neural%20band - related DEP: One-shot neural band - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-One-shot neural band/one_shot_neural_band_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-Inception%20Transformer - related DEP: Inception Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-Inception Transformer/inception_transformer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-One-shot%20neural%20band - related DEP: One-shot neural band - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-One-shot neural band/one_shot_neural_band_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-Inception%20Transformer - related DEP: Inception Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-Inception Transformer/inception_transformer_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

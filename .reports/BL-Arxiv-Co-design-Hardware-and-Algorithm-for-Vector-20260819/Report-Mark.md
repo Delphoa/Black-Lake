@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, co-design, hardware perspective. The
 - https://arxiv.org/html/2306.11182 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.11182 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.11182 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-APSQ%20Additive%20Partial%20Sum - related DEP: APSQ Additive Partial Sum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-APSQ Additive Partial Sum/apsq_additive_partial_sum_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF%20Efficient%20and - related DEP: Gen-NeRF Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF Efficient and/gen_nerf_efficient_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GoVector%20An%20I%20O-Efficient - related DEP: GoVector An I O-Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GoVector An I O-Efficient/govector_an_i_o_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-APSQ%20Additive%20Partial%20Sum - related DEP: APSQ Additive Partial Sum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-APSQ Additive Partial Sum/apsq_additive_partial_sum_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Gen-NeRF%20Efficient%20and - related DEP: Gen-NeRF Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF Efficient and/gen_nerf_efficient_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GoVector%20An%20I%20O-Efficient - related DEP: GoVector An I O-Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GoVector An I O-Efficient/govector_an_i_o_efficient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

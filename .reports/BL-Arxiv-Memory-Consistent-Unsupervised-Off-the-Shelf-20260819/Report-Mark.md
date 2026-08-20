@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, consistent, image perspective. The 
 - https://arxiv.org/html/2209.07910 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.07910 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.07910 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory%20Efficient%20Temporal - related DEP: Memory Efficient Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Efficient Temporal/memory_efficient_temporal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory%20Efficient%20Temporal - related DEP: Memory Efficient Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Efficient Temporal/memory_efficient_temporal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

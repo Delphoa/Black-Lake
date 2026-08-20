@@ -146,13 +146,13 @@ SMES, ELDR, KDFlow, and the llama.cpp runtime record occupy different layers of 
 - Source URL: https://arxiv.org/abs/2607.00466
   - Applies to: ELDR primary source basis as recorded by the related DEP.
   - Notes: Used only for related-entry context.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-KDFlow%20LLM%20Distill
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-KDFlow%20LLM%20Distill
   - Applies to: KDFlow related-entry synthesis.
   - Notes: Processed Black Lake DEP inspected from the live default branch.
 - Source URL: https://arxiv.org/abs/2603.01875
   - Applies to: KDFlow primary source basis as recorded by the related DEP.
   - Notes: Used only for related-entry context.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-LlamaCpp-Runtime
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-LlamaCpp-Runtime
   - Applies to: llama.cpp runtime related-entry synthesis.
   - Notes: Processed Black Lake DEP inspected from the live default branch.
 - Source URL: https://github.com/ggml-org/llama.cpp/releases/tag/b9789

@@ -97,7 +97,7 @@ The selected paper contributes a complex, integrating, knowledge perspective. Th
 - https://arxiv.org/html/2306.10275 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.10275 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.10275 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Multi-scale%20Deep%20Neural - related DEP: Multi-scale Deep Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Multi-scale Deep Neural/multi_scale_deep_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Multi-scale%20Deep%20Neural - related DEP: Multi-scale Deep Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Multi-scale Deep Neural/multi_scale_deep_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

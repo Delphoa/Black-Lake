@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, application, clustering perspective.
 - https://arxiv.org/html/2002.04930 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2002.04930 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2002.04930 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-Domain%20Virtual - related DEP: Multi-Domain Virtual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Domain Virtual/multi_domain_virtual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-Domain%20Virtual - related DEP: Multi-Domain Virtual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Domain Virtual/multi_domain_virtual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

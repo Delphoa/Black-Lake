@@ -98,7 +98,7 @@ The selected paper contributes a adversarial, domain, fields perspective. The th
 - https://arxiv.org/html/2003.04685 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.04685 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2003.04685 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Anisotropic - related DEP: Anisotropic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Anisotropic/anisotropic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Mobile%20Converged%20Networks - related DEP: Mobile Converged Networks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mobile Converged Networks/mobile_converged_networks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Anisotropic - related DEP: Anisotropic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Anisotropic/anisotropic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Mobile%20Converged%20Networks - related DEP: Mobile Converged Networks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mobile Converged Networks/mobile_converged_networks_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a challenges, converged, mobile perspective. The 
 - https://arxiv.org/html/1606.07164 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1606.07164 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/MWC.2014.7000969 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-No%20Free%20Charge%20Theorem%20a - related DEP: No Free Charge Theorem a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-No%20Free%20Charge%20Theorem%20a - related DEP: No Free Charge Theorem a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-No Free Charge Theorem a/no_free_charge_theorem_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

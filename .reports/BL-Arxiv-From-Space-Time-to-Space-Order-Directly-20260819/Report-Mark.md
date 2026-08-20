@@ -98,7 +98,7 @@ The selected paper contributes a planning, cbs, directly perspective. The three 
 - https://arxiv.org/html/2404.15137 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.15137 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.15137 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

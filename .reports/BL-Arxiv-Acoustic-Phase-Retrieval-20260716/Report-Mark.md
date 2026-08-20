@@ -158,14 +158,14 @@ def evidence_row(probe_plan, condition, residual, reconstruction_error):
   - Applies to: companion-repository layout used during deduplication.
   - Notes: Live companion repository authority.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
   - Source basis: https://arxiv.org/abs/2503.05063
   - Notes: Related DEP on physics-grounded MRI reconstruction and parameter-efficient representation.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR/irregular_clipped_sr_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR/irregular_clipped_sr_manuscript.md
   - Source basis: https://arxiv.org/abs/2106.01573 and https://doi.org/10.1109/ITW48936.2021.9611458
   - Notes: Related DEP on nonlinear measurement preprocessing and structured decoding.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
   - Source basis: https://arxiv.org/abs/2407.11420 and https://doi.org/10.1109/TRO.2025.3532506
   - Notes: Related DEP on sensor excitation, observability, calibration, and factor-graph refinement.

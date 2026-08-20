@@ -43,9 +43,9 @@ Reviewer interpretation: the durable contribution is a measurable warning that i
 
 ## Related DEP Entries
 
-1. [Context Backdoor Defense](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-Context%20Backdoor/context_backdoor_defense_manuscript.md) — selected because it turns hidden contextual compromise into a layered defensive design involving provenance, least privilege, runtime interlocks, and incident response. Its source basis is arXiv:2408.02882 and the deposited manuscript's full-paper evidence ledger.
-2. [TRACE Poison Detection](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md) — selected because it attributes downstream model behavior to recurring high-influence inputs and tests poisoned-corpus detection with explicit failure boundaries. Its source basis is arXiv:2606.25721v1 and the deposited review's mechanism/evaluation sections.
-3. [Document Fraud LLM](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md) — selected because it combines visual manipulation signals, semantic consistency checks, calibration, missingness accounting, and human review for image evidence. Its source basis is arXiv:2508.11021v1 and the deposited manuscript's result and governance sections.
+1. [Context Backdoor Defense](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor/context_backdoor_defense_manuscript.md) — selected because it turns hidden contextual compromise into a layered defensive design involving provenance, least privilege, runtime interlocks, and incident response. Its source basis is arXiv:2408.02882 and the deposited manuscript's full-paper evidence ledger.
+2. [TRACE Poison Detection](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md) — selected because it attributes downstream model behavior to recurring high-influence inputs and tests poisoned-corpus detection with explicit failure boundaries. Its source basis is arXiv:2606.25721v1 and the deposited review's mechanism/evaluation sections.
+3. [Document Fraud LLM](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md) — selected because it combines visual manipulation signals, semantic consistency checks, calibration, missingness accounting, and human review for image evidence. Its source basis is arXiv:2508.11021v1 and the deposited manuscript's result and governance sections.
 
 ## Synthesis Note
 
@@ -144,19 +144,19 @@ The selected paper exposes a hidden conditional behavior in an image-editing mod
 - Source URL: https://github.com/aiiu-lab/BackdoorImageEditing
   - Applies to: Evidence E5 and implementation relevance.
   - Notes: Authors' public repository; inspected for provenance and availability, not executed.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260720-Context%20Backdoor/context_backdoor_defense_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor/context_backdoor_defense_manuscript.md
   - Applies to: Related DEP Entry 1 and Evidence E6.
   - Notes: Deposited defensive review used for provenance, runtime-control, and context-integrity synthesis.
 - Source URL: https://arxiv.org/abs/2408.02882
   - Applies to: Related DEP Entry 1 source basis.
   - Notes: Primary paper locator preserved by the related DEP.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260729-TRACE%20Poison%20Detection/2606.25721-whitepaper-review.md
   - Applies to: Related DEP Entry 2 and Evidence E7.
   - Notes: Deposited review used for influence attribution and poisoned-corpus detection synthesis.
 - Source URL: https://arxiv.org/abs/2606.25721v1
   - Applies to: Related DEP Entry 2 source basis.
   - Notes: Primary paper locator preserved by the related DEP.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md
   - Applies to: Related DEP Entry 3 and Evidence E8.
   - Notes: Deposited review used for visual-forensics, calibration, missingness, and human-triage synthesis.
 - Source URL: https://arxiv.org/abs/2508.11021

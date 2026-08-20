@@ -35,9 +35,9 @@ Run date: 2026-07-26
 
 ## Related DEP Entries
 
-1. [MOCS Flexible Lengths](../../.lake-data/DEP-E/DEP-E-20260724-MOCS%20Flexible%20Lengths/mocs_flexible_lengths_manuscript.md) — formal generalized-Boolean-function construction, exact correlation identities, and instance-certificate boundaries.
-2. [4 Adic Complexity](../../.lake-data/DEP-E/DEP-E-20260721-4%20Adic%20Complexity/4_adic_complexity_manuscript.md) — finite-alphabet sequences, an algebraic complexity invariant, and a provenance-first boundary around unreplicated claims.
-3. [Integrals and Rigidity](../../.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md) — theorem-driven monotonicity, equality conditions, and explicit limits on independent proof assurance.
+1. [MOCS Flexible Lengths](../../.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOCS%20Flexible%20Lengths/mocs_flexible_lengths_manuscript.md) — formal generalized-Boolean-function construction, exact correlation identities, and instance-certificate boundaries.
+2. [4 Adic Complexity](../../.lake-data/DEP-E/Series%20001/DEP-E-20260721-4%20Adic%20Complexity/4_adic_complexity_manuscript.md) — finite-alphabet sequences, an algebraic complexity invariant, and a provenance-first boundary around unreplicated claims.
+3. [Integrals and Rigidity](../../.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md) — theorem-driven monotonicity, equality conditions, and explicit limits on independent proof assurance.
 
 ## Synthesis Note
 

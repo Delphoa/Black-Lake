@@ -95,7 +95,7 @@ The selected paper contributes a diverse, garments, generalizable perspective. T
 - https://arxiv.org/html/2412.01083 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.01083 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.01083 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Correspondence%20Insert - related DEP: APAP Correspondence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Correspondence Insert/apap_correspondence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Correspondence%20Insert - related DEP: APAP Correspondence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Correspondence Insert/apap_correspondence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

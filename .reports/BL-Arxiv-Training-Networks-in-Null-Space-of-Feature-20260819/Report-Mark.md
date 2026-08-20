@@ -98,7 +98,7 @@ The selected paper contributes a continual, covariance, feature perspective. The
 - https://arxiv.org/html/2103.07113 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.07113 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.07113 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20to%20Evaluate%20the%20Next - related DEP: How to Evaluate the Next - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How to Evaluate the Next/how_to_evaluate_the_next_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-KAC%20Kolmogorov-Arnold - related DEP: KAC Kolmogorov-Arnold - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-KAC Kolmogorov-Arnold/kac_kolmogorov_arnold_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Online%20Continual%20Learning - related DEP: Online Continual Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Continual Learning/online_continual_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20to%20Evaluate%20the%20Next - related DEP: How to Evaluate the Next - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How to Evaluate the Next/how_to_evaluate_the_next_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-KAC%20Kolmogorov-Arnold - related DEP: KAC Kolmogorov-Arnold - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-KAC Kolmogorov-Arnold/kac_kolmogorov_arnold_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Online%20Continual%20Learning - related DEP: Online Continual Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Continual Learning/online_continual_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

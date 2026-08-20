@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, automata, chi perspective. The three
 - https://arxiv.org/html/1610.07380 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1610.07380 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1610.07380 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RLET%20Reinforcement - related DEP: RLET Reinforcement - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RLET Reinforcement/rlet_reinforcement_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RLET%20Reinforcement - related DEP: RLET Reinforcement - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RLET Reinforcement/rlet_reinforcement_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

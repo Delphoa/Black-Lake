@@ -98,7 +98,7 @@ The selected paper contributes a compression, dnn, methods perspective. The thre
 - https://arxiv.org/html/2004.05531 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2004.05531 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2004.05531 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Active%20Learning%20over%20DNN - related DEP: Active Learning over DNN - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Active Learning over DNN/active_learning_over_dnn_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Active%20Learning%20over%20DNN - related DEP: Active Learning over DNN - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Active Learning over DNN/active_learning_over_dnn_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

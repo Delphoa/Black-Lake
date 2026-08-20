@@ -98,7 +98,7 @@ The selected paper contributes a bci, continual, eeg perspective. The three rela
 - https://arxiv.org/html/2606.01767 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.01767 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.01767 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-EEGFormer%20Towards - related DEP: EEGFormer Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-EEGFormer Towards/eegformer_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Few-Shot%20Continual - related DEP: Few-Shot Continual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Few-Shot Continual/few_shot_continual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-EEGFormer%20Towards - related DEP: EEGFormer Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-EEGFormer Towards/eegformer_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Few-Shot%20Continual - related DEP: Few-Shot Continual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Few-Shot Continual/few_shot_continual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

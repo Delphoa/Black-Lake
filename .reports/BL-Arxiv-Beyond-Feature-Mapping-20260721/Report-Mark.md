@@ -95,7 +95,7 @@ The selected paper contributes a hdrtv, sdrtv, priors perspective. Dynamical Dic
 - https://arxiv.org/html/2411.10775 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.10775 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.10775 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Deep%20ESN%20Memory - related DEP: Deep ESN - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Deep%20ESN%20Memory - related DEP: Deep ESN - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

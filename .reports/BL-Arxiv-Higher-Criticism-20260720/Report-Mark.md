@@ -147,7 +147,7 @@ def can_publish(result, simulation_error, tolerance):
 - https://arxiv.org/pdf/1411.1437 - verified cross-format primary paper; local file withheld.
 - https://doi.org/10.1214/15-AOS1312 - journal record for the published article.
 - https://doi.org/10.48550/arXiv.1411.1437 - persistent arXiv identity.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - finite-sample confidence synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Kernel%20Equivalence - hypothesis-direction and calibration synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Noisy%20Poisson%20Inference - misspecification and Type-I synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - finite-sample confidence synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Kernel%20Equivalence - hypothesis-direction and calibration synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Noisy%20Poisson%20Inference - misspecification and Type-I synthesis.
 - Source files: verified PDF, full-paper HTML, metadata HTML, and private repair records; all withheld locally. Zero source uploads. Job `BLAD-2200-20260720-8636EDC7`, item `BLAD-2200-20260720-8636EDC7-P01`.

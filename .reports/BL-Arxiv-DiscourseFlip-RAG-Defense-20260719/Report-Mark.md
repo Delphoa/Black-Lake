@@ -173,11 +173,11 @@ def quarantine(nodes):
   - Applies to: tables, equations, appendices, and configuration cross-checks; source file withheld locally.
 - Source URL: https://doi.org/10.48550/arXiv.2606.01212
   - Applies to: persistent paper identity.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260715-Self-Correcting%20RAG
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-Self-Correcting%20RAG
   - Applies to: evidence-portfolio and contradiction-aware generation synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Memory%20Defense%20Layers
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Memory%20Defense%20Layers
   - Applies to: architectural defense-layer and provenance synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Agent%20Memory%20Forensics
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Agent%20Memory%20Forensics
   - Applies to: graph/trajectory detection synthesis.
 - Source files: verified PDF, full-paper HTML, metadata HTML, source package, extracted text, and processing cache.
   - Applies to: complete-paper review and integrity validation.

@@ -35,9 +35,9 @@ The reported evaluation covers 31 UCI datasets with mixed numeric and categorica
 
 ## Related DEP Entries
 
-1. [DEP-E-20260720-Decentralized SSL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md) — concrete overlap through unlabeled-data utilization and the need to audit derived representations before claiming privacy or generalization.
-2. [DEP-E-20260716-Adversarial Label Noise](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md) — concrete overlap through label-distribution uncertainty, soft targets, calibration, and the distinction between a useful target and ground truth.
-3. [DEP-E-20260719-DUET Setwise CTR](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md) — concrete overlap through peer-generated pseudo-labels, correlated errors, disagreement telemetry, and promotion gates.
+1. [DEP-E-20260720-Decentralized SSL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md) — concrete overlap through unlabeled-data utilization and the need to audit derived representations before claiming privacy or generalization.
+2. [DEP-E-20260716-Adversarial Label Noise](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md) — concrete overlap through label-distribution uncertainty, soft targets, calibration, and the distinction between a useful target and ground truth.
+3. [DEP-E-20260719-DUET Setwise CTR](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md) — concrete overlap through peer-generated pseudo-labels, correlated errors, disagreement telemetry, and promotion gates.
 
 ## Synthesis Note
 
@@ -189,12 +189,12 @@ print(paired_delta([0.81, 0.79, 0.83], [0.78, 0.78, 0.80]))
 - Source URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
   - Applies to: license and distribution caution.
   - Notes: Linked from the arXiv record; license terms should be reviewed before redistribution.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md
   - Applies to: related-entry synthesis.
   - Notes: Live Black Lake manuscript inspected.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md
   - Applies to: related-entry synthesis.
   - Notes: Live Black Lake manuscript inspected.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md
   - Applies to: related-entry synthesis.
   - Notes: Live Black Lake manuscript inspected.

@@ -98,7 +98,7 @@ The selected paper contributes a forgetting, llms, multimodal perspective. The t
 - https://arxiv.org/html/2406.03496 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.03496 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.03496 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Avoid%20Catastrophic - related DEP: Avoid Catastrophic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Avoid Catastrophic/avoid_catastrophic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-InfoCL%20Alleviating - related DEP: InfoCL Alleviating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-InfoCL Alleviating/infocl_alleviating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Avoid%20Catastrophic - related DEP: Avoid Catastrophic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Avoid Catastrophic/avoid_catastrophic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-InfoCL%20Alleviating - related DEP: InfoCL Alleviating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-InfoCL Alleviating/infocl_alleviating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

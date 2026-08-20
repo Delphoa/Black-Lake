@@ -98,7 +98,7 @@ The selected paper contributes a amplitude-based, complex, performance perspecti
 - https://arxiv.org/html/2204.05492 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2204.05492 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2204.05492 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Aerial%20RIS-Enhanced - related DEP: Aerial RIS-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Aerial RIS-Enhanced/aerial_ris_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Aerial%20RIS-Enhanced - related DEP: Aerial RIS-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Aerial RIS-Enhanced/aerial_ris_enhanced_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

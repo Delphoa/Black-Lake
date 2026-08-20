@@ -98,7 +98,7 @@ The selected paper contributes a advanced, agentic, legal perspective. The three
 - https://arxiv.org/html/2601.07296 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.07296 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.07296 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-OpenClaw-Skill%20Collective - related DEP: OpenClaw-Skill Collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenClaw-Skill Collective/openclaw_skill_collective_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-OpenClaw-Skill%20Collective - related DEP: OpenClaw-Skill Collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenClaw-Skill Collective/openclaw_skill_collective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

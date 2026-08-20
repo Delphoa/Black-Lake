@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, adaptive, bitrate perspective. The 
 - https://arxiv.org/html/2507.14454 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.14454 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.14454 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-DreamGaussian%20Generative - related DEP: DreamGaussian Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-DreamGaussian Generative/dreamgaussian_generative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory%20Efficient%20Temporal - related DEP: Memory Efficient Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Efficient Temporal/memory_efficient_temporal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-DreamGaussian%20Generative - related DEP: DreamGaussian Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-DreamGaussian Generative/dreamgaussian_generative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory%20Efficient%20Temporal - related DEP: Memory Efficient Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Efficient Temporal/memory_efficient_temporal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

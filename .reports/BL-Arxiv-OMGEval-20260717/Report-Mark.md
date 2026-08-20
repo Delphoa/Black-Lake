@@ -42,9 +42,9 @@ Source claims above are attributed to the paper and official release. Reviewer i
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md — selected because it converts LLM-as-a-judge point ratings into calibrated prediction intervals and makes judge uncertainty actionable; its source basis is `arXiv:2509.18658`.
-2. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md — selected because it supplies finite-sample support and distribution-shift boundaries for turning benchmark scores into release gates; its source basis is `arXiv:2011.00716`.
-3. `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md — selected because it exposes how judge-mediated, on-policy preference data can improve relevance while amplifying judge bias and contaminating evaluation if test and training loops are not separated; its source basis is `arXiv:2505.15963`.
+1. `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md — selected because it converts LLM-as-a-judge point ratings into calibrated prediction intervals and makes judge uncertainty actionable; its source basis is `arXiv:2509.18658`.
+2. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md — selected because it supplies finite-sample support and distribution-shift boundaries for turning benchmark scores into release gates; its source basis is `arXiv:2011.00716`.
+3. `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md` — https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md — selected because it exposes how judge-mediated, on-policy preference data can improve relevance while amplifying judge bias and contaminating evaluation if test and training loops are not separated; its source basis is `arXiv:2505.15963`.
 
 ## Synthesis Note
 
@@ -162,11 +162,11 @@ These mock-ups are standard-library-only policy sketches, not statistical estima
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Notes: Live companion-repository authority read before related-context and dedup use.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
   - Source basis: https://arxiv.org/abs/2509.18658
 - Repository file: `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
   - Source basis: https://arxiv.org/abs/2011.00716
 - Repository file: `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md
   - Source basis: https://arxiv.org/abs/2505.15963

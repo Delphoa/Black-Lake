@@ -97,7 +97,7 @@ The selected paper contributes a algorithm, divide-and-conquer, eigenvalue persp
 - https://arxiv.org/html/2008.01990 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2008.01990 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TPDS.2020.3019471 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Automatically%20Planning - related DEP: Automatically Planning Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Automatically Planning/automatically_planning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Efficient%20LLM-based - related DEP: Efficient LLM-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Efficient LLM-based/efficient_llm_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Automatically%20Planning - related DEP: Automatically Planning Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Automatically Planning/automatically_planning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Efficient%20LLM-based - related DEP: Efficient LLM-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Efficient LLM-based/efficient_llm_based_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

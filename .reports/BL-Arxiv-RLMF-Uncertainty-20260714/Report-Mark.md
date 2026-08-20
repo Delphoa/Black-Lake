@@ -56,9 +56,9 @@ Static inspection confirms the central advantage formula and auxiliary-score pro
 
 ### Related DEP Entries
 
-1. [PAC Confidence - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence) - finite-sample confidence intervals, support, and distribution-envelope boundaries.
-2. [OViP Preference - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference) - on-policy failure-driven preference data and evaluator-loop governance.
-3. [ConMax Reasoning - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning) - confidence-shaped optimization using an auxiliary model to protect reasoning quality.
+1. [PAC Confidence - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence) - finite-sample confidence intervals, support, and distribution-envelope boundaries.
+2. [OViP Preference - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference) - on-policy failure-driven preference data and evaluator-loop governance.
+3. [ConMax Reasoning - DEP-E](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning) - confidence-shaped optimization using an auxiliary model to protect reasoning quality.
 
 ### Concept Bridge
 

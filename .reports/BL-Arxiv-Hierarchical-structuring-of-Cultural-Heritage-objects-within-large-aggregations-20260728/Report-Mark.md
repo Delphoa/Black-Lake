@@ -98,7 +98,7 @@ The selected paper contributes a hierarchical, structuring, cultural perspective
 - https://ar5iv.labs.arxiv.org/html/1306.2866 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1306.2866 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1306.2866 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Structure%20Aware%20Systems - related DEP: Structure-Aware Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Structure Aware Systems/structure-aware-systems.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Memory%20Depth - related DEP: Memory Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Memory Depth/memory-depth.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Structure%20Aware%20Systems - related DEP: Structure-Aware Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Structure Aware Systems/structure-aware-systems.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Memory%20Depth - related DEP: Memory Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Memory Depth/memory-depth.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

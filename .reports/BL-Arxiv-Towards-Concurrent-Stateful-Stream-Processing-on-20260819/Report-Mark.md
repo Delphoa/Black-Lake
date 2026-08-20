@@ -98,7 +98,7 @@ The selected paper contributes a concurrent, multicore, processing perspective. 
 - https://arxiv.org/html/1904.03800 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1904.03800 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/ICDE48307.2020.00136 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ReFreeKV%20Towards - related DEP: ReFreeKV Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ReFreeKV Towards/refreekv_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ReFreeKV%20Towards - related DEP: ReFreeKV Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ReFreeKV Towards/refreekv_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

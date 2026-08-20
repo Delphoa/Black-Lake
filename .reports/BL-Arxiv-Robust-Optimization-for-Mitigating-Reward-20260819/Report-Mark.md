@@ -98,7 +98,7 @@ The selected paper contributes a correlated, hacking, mitigating perspective. Th
 - https://arxiv.org/html/2604.12086 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.12086 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.12086 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GD%202%20PO%20Mitigating - related DEP: GD 2 PO Mitigating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GD 2 PO Mitigating/gd_2_po_mitigating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GD%202%20PO%20Mitigating - related DEP: GD 2 PO Mitigating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GD 2 PO Mitigating/gd_2_po_mitigating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

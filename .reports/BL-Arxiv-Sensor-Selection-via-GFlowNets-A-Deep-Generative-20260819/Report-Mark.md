@@ -98,7 +98,7 @@ The selected paper contributes a combinatorial, complexity, generative perspecti
 - https://arxiv.org/html/2407.19736 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.19736 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.19736 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

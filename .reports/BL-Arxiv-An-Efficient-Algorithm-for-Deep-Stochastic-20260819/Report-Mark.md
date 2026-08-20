@@ -98,7 +98,7 @@ The selected paper contributes a contextual, stochastic, algorithm perspective. 
 - https://arxiv.org/html/2104.05613 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2104.05613 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2104.05613 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Choosing%20the%20Better - related DEP: Choosing the Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Choosing the Better/choosing_the_better_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Choosing%20the%20Better - related DEP: Choosing the Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Choosing the Better/choosing_the_better_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

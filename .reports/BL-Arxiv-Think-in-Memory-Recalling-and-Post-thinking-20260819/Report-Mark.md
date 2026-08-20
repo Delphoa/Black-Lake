@@ -98,7 +98,7 @@ The selected paper contributes a enable, llms, long-term perspective. The three 
 - https://arxiv.org/html/2311.08719 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.08719 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.08719 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Implicit%20Bias - related DEP: How Implicit Bias - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Implicit Bias/how_implicit_bias_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Can%20Attention%20Enable%20MLPs - related DEP: Can Attention Enable MLPs - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Can Attention Enable MLPs/can_attention_enable_mlps_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Implicit%20Bias - related DEP: How Implicit Bias - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Implicit Bias/how_implicit_bias_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Can%20Attention%20Enable%20MLPs - related DEP: Can Attention Enable MLPs - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Can Attention Enable MLPs/can_attention_enable_mlps_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a architecture, neural, comparators perspective. 
 - https://arxiv.org/html/2103.05471 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.05471 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.05471 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

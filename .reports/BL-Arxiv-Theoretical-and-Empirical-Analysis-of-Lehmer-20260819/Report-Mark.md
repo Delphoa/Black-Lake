@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, codes, empirical perspective. The t
 - https://arxiv.org/html/2511.19089 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.19089 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.19089 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

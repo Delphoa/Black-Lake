@@ -95,7 +95,7 @@ The selected paper contributes a mimo, ris, channel perspective. The three relat
 - https://arxiv.org/html/2307.13237 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2307.13237 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/LWC.2023.3331489 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VG%20Navigable%20Space - related DEP: VG Navigable Space Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VG Navigable Space/vg_navigable_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VG%20Navigable%20Space - related DEP: VG Navigable Space Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VG Navigable Space/vg_navigable_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

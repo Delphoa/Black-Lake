@@ -95,7 +95,7 @@ The selected paper contributes a you, better, human-like perspective. The three 
 - https://arxiv.org/html/2502.18968 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.18968 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.18968 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGLE%20Midpoint%20Scheme - related DEP: FGLE Midpoint Scheme - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGLE%20Midpoint%20Scheme - related DEP: FGLE Midpoint Scheme - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

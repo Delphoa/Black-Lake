@@ -97,7 +97,7 @@ The selected paper contributes a anomaly, detection, drift perspective. The thre
 - https://arxiv.org/html/2310.14893 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.14893 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.14893 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

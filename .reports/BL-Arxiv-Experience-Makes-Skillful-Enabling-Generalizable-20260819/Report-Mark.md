@@ -98,7 +98,7 @@ The selected paper contributes a agent, enabling, experience perspective. The th
 - https://arxiv.org/html/2606.09365 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.09365 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.09365 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

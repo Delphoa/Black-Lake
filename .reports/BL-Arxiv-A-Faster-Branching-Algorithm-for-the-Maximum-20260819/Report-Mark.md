@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, branching, clique perspective. The t
 - https://arxiv.org/html/2407.16588 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.16588 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.16588 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Train%20Faster%20Perform - related DEP: Train Faster Perform - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Train Faster Perform/train_faster_perform_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Calibrated%20Dataset - related DEP: Calibrated Dataset - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Calibrated Dataset/calibrated_dataset_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Train%20Faster%20Perform - related DEP: Train Faster Perform - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Train Faster Perform/train_faster_perform_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Calibrated%20Dataset - related DEP: Calibrated Dataset - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Calibrated Dataset/calibrated_dataset_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

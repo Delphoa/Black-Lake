@@ -98,7 +98,7 @@ The selected paper contributes a actor-critic, algorithm, decision-making perspe
 - https://arxiv.org/html/2103.04535 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.04535 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.04535 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

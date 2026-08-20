@@ -97,7 +97,7 @@ The selected paper contributes a flow, instance, rigid perspective. The three re
 - https://arxiv.org/html/1904.08913 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1904.08913 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1904.08913 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Periodic%20Vibration - related DEP: Periodic Vibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Periodic Vibration/periodic_vibration_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Free%20Energy%20Surface - related DEP: Free Energy Surface - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Free Energy Surface/free_energy_surface_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Unveil%20Inversion%20and - related DEP: Unveil Inversion and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Unveil Inversion and/unveil_inversion_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Periodic%20Vibration - related DEP: Periodic Vibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Periodic Vibration/periodic_vibration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Free%20Energy%20Surface - related DEP: Free Energy Surface - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Free Energy Surface/free_energy_surface_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Unveil%20Inversion%20and - related DEP: Unveil Inversion and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Unveil Inversion and/unveil_inversion_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

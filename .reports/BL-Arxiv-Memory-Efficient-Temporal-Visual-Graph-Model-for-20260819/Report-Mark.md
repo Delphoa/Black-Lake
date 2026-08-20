@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, domain, graph perspective. The thre
 - https://arxiv.org/html/2208.06554 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.06554 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.06554 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA - related DEP: Medical Diff VQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA - related DEP: Medical Diff VQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

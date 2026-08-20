@@ -98,7 +98,7 @@ The selected paper contributes a architecture, m-fasterseg, network perspective.
 - https://arxiv.org/html/2112.07918 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2112.07918 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2112.07918 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a advanced, attacks, jailbreak perspective. The t
 - https://arxiv.org/html/2603.03081 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.03081 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.03081 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-E%202%20AT%20Multimodal - related DEP: E 2 AT Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-E 2 AT Multimodal/e_2_at_multimodal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-E%202%20AT%20Multimodal - related DEP: E 2 AT Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-E 2 AT Multimodal/e_2_at_multimodal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

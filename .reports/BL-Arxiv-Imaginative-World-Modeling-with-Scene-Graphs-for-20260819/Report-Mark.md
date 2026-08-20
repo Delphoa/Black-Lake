@@ -98,7 +98,7 @@ The selected paper contributes a agent, embodied, graphs perspective. The three 
 - https://arxiv.org/html/2508.06990 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.06990 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.06990 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld%20Technical - related DEP: Qwen-RobotWorld Technical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld Technical/qwen_robotworld_technical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Global%20Commander%20and - related DEP: Global Commander and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Global Commander and/global_commander_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Qwen-RobotWorld%20Technical - related DEP: Qwen-RobotWorld Technical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld Technical/qwen_robotworld_technical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Global%20Commander%20and - related DEP: Global Commander and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Global Commander and/global_commander_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

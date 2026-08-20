@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, asynchronous, clock perspective. The
 - https://arxiv.org/html/1607.03830 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1607.03830 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1607.03830 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Optimal%203D%20Directional - related DEP: Optimal 3D Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Optimal 3D Directional/optimal_3d_directional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Optimal%203D%20Directional - related DEP: Optimal 3D Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Optimal 3D Directional/optimal_3d_directional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a bmam, brain-inspired, memory perspective. The t
 - https://arxiv.org/html/2601.20465 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.20465 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.20465 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins - related DEP: RBA-FE A Robust Brain-Inspired A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RBA-FE A Robust Brain-Ins/rba_fe_a_robust_brain_ins_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins - related DEP: RBA-FE A Robust Brain-Inspired A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RBA-FE A Robust Brain-Ins/rba_fe_a_robust_brain_ins_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a adversarial, algorithm, dexterous perspective. 
 - https://arxiv.org/html/2511.05809 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.05809 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.05809 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a act, development, game perspective. The three r
 - https://arxiv.org/html/2509.02650 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.02650 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.02650 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Urban%20Rail%20Transit%20System - related DEP: Urban Rail Transit System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Urban Rail Transit System/urban_rail_transit_system_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Coupled%20Optimization - related DEP: A Coupled Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Coupled Optimization/a_coupled_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Urban%20Rail%20Transit%20System - related DEP: Urban Rail Transit System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Urban Rail Transit System/urban_rail_transit_system_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Coupled%20Optimization - related DEP: A Coupled Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Coupled Optimization/a_coupled_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

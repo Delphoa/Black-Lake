@@ -32,9 +32,9 @@ All claims above are paraphrases or reviewer interpretations tied to inspected e
 
 ## Related DEP Entries
 
-1. [Joint Sensing MEC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC/joint_sensing_mec_manuscript.md) - shares mixed discrete/continuous allocation across sensing and another constrained service objective.
-2. [2D-RC OTFS](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md) - connects learned wireless detection quality to representations that preserve physical signal geometry.
-3. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) - supplies operational guardrails needed before an optimized policy can influence a network.
+1. [Joint Sensing MEC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC/joint_sensing_mec_manuscript.md) - shares mixed discrete/continuous allocation across sensing and another constrained service objective.
+2. [2D-RC OTFS](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md) - connects learned wireless detection quality to representations that preserve physical signal geometry.
+3. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) - supplies operational guardrails needed before an optimized policy can influence a network.
 
 ## Synthesis Note
 

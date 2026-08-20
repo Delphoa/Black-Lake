@@ -30,9 +30,9 @@ Claims are paraphrased from inspected evidence; reviewer interpretations and lim
 
 ## Related DEP Entries
 
-1. [AV Emotion Fusion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md) - direct overlap in IEMOCAP, audiovisual emotion fusion, preprocessing, corruption, and consent boundaries.
-2. [VLM Probing](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) - fusion, modality dominance, representation leakage, and causal-ablation diagnostics.
-3. [KDFlow LLM Distill](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-KDFlow%20LLM%20Distill/kdflow_llm_distill_manuscript.md) - teacher/student versioning, parity checks, reproducible distillation, and systems accounting.
+1. [AV Emotion Fusion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md) - direct overlap in IEMOCAP, audiovisual emotion fusion, preprocessing, corruption, and consent boundaries.
+2. [VLM Probing](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) - fusion, modality dominance, representation leakage, and causal-ablation diagnostics.
+3. [KDFlow LLM Distill](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-KDFlow%20LLM%20Distill/kdflow_llm_distill_manuscript.md) - teacher/student versioning, parity checks, reproducible distillation, and systems accounting.
 
 ## Synthesis Note
 

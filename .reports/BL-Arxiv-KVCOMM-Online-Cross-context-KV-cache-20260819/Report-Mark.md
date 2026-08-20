@@ -98,7 +98,7 @@ The selected paper contributes a communication, cross-context, kv-cache perspect
 - https://arxiv.org/html/2510.12872 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.12872 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.12872 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O%20A%20General%20RL - related DEP: UnityMAS-O A General RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O A General RL/unitymas_o_a_general_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-UnityMAS-O%20A%20General%20RL - related DEP: UnityMAS-O A General RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O A General RL/unitymas_o_a_general_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

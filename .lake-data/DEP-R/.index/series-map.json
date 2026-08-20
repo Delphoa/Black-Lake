@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "record_kind": "dep_series_map",
+  "dep_class": "DEP-R",
+  "container_path": ".lake-data/DEP-R",
+  "series_capacity": 1000,
+  "series_name_format": "Series %03d",
+  "canonical_path_template": "{container_path}/{series_name}/{dep_name}",
+  "assignment_policy": "append_only_ordinal_v1",
+  "initialization": {
+    "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
+    "ordering": "unicode_casefold_then_exact_dep_name"
+  },
+  "entry_count": 1,
+  "next_ordinal": 2,
+  "active_series_number": 1,
+  "series": [
+    {
+      "series_number": 1,
+      "series_name": "Series 001",
+      "capacity_start": 1,
+      "capacity_end": 1000,
+      "entry_count": 1,
+      "sealed": false
+    }
+  ],
+  "entries": [
+    {
+      "ordinal": 1,
+      "object_identity": "DEP-R/DEP-R-20260729-J-Space Profile",
+      "dep_name": "DEP-R-20260729-J-Space Profile",
+      "series_number": 1,
+      "current_path": ".lake-data/DEP-R/Series 001/DEP-R-20260729-J-Space Profile",
+      "prior_paths": [
+        ".lake-data/DEP-R/DEP-R-20260729-J-Space Profile"
+      ]
+    }
+  ]
+}

@@ -98,7 +98,7 @@ The selected paper contributes a generation, human-scene, interactions perspecti
 - https://arxiv.org/html/2411.19921 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.19921 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.19921 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Simulating%20Classroom - related DEP: Simulating Classroom - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Simulating Classroom/simulating_classroom_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Lifetime-based - related DEP: Lifetime-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Lifetime-based/lifetime_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Simulating%20Classroom - related DEP: Simulating Classroom - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Simulating Classroom/simulating_classroom_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Lifetime-based - related DEP: Lifetime-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Lifetime-based/lifetime_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

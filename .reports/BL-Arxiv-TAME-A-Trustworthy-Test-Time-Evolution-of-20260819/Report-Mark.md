@@ -98,7 +98,7 @@ The selected paper contributes a agent, benchmarking, evolution perspective. The
 - https://arxiv.org/html/2602.03224 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.03224 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.03224 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AnnaAgent%20Dynamic - related DEP: AnnaAgent Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AnnaAgent Dynamic/annaagent_dynamic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AnnaAgent%20Dynamic - related DEP: AnnaAgent Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AnnaAgent Dynamic/annaagent_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

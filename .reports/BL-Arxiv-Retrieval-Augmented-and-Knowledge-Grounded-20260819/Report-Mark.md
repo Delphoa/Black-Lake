@@ -98,7 +98,7 @@ The selected paper contributes a clinical, faithful, knowledge-grounded perspect
 - https://arxiv.org/html/2210.12777 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.12777 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.12777 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Algorithm%20Fairness%20in%20AI - related DEP: Algorithm Fairness in AI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Algorithm Fairness in AI/algorithm_fairness_in_ai_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Algorithm%20Fairness%20in%20AI - related DEP: Algorithm Fairness in AI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Algorithm Fairness in AI/algorithm_fairness_in_ai_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

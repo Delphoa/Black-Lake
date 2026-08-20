@@ -98,7 +98,7 @@ The selected paper contributes a cache, compression, refreekv perspective. The t
 - https://arxiv.org/html/2502.16886 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.16886 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.16886 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

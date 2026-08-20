@@ -223,12 +223,12 @@ Only non-occluded, calibration-valid views should supply samples; uncertainty an
 - Source URL: https://github.com/Totoro97/Vid2Curve
   - Applies to: implementation evidence, dependencies, examples, outputs, and license.
   - Notes: Inspected at commit `47c379dec5cca2e2de123a392e0b1f93ceb1048a`; code was not executed.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260729-Correspondence%20Insert/apap_correspondence_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Correspondence%20Insert/apap_correspondence_manuscript.md
   - Applies to: correspondence-repair relationship and implementation synthesis.
   - Notes: Related processed artifact; its claims do not validate Vid2Curve.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
   - Applies to: calibration, observability, and provenance relationship.
   - Notes: Related processed artifact; its claims do not validate Vid2Curve.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-PaceVGGT%20Frame%20Pruning/2605.08371-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-PaceVGGT%20Frame%20Pruning/2605.08371-whitepaper-review.md
   - Applies to: frame-selection, geometry-coverage, and efficiency relationship.
   - Notes: Related processed artifact; its claims do not validate Vid2Curve.

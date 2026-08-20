@@ -98,7 +98,7 @@ The selected paper contributes a advancing, high-resolution, retinal perspective
 - https://arxiv.org/html/2409.04356 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.04356 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.04356 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Deep%20Learning-based%20in - related DEP: A Deep Learning-based in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Deep Learning-based in/a_deep_learning_based_in_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Deep%20Learning-based%20in - related DEP: A Deep Learning-based in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Deep Learning-based in/a_deep_learning_based_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

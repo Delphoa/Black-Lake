@@ -98,7 +98,7 @@ The selected paper contributes a generalization, hero, hessian-enhanced perspect
 - https://arxiv.org/html/2111.11986 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2111.11986 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2111.11986 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Robust%20Fairness - related DEP: Improving Robust Fairness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Robust Fairness/improving_robust_fairness_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Robust%20Fairness - related DEP: Improving Robust Fairness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Robust Fairness/improving_robust_fairness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

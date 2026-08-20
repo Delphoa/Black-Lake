@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, approximation, gaps perspective. Th
 - https://arxiv.org/html/2504.09669 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.09669 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.09669 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Approximation%20algor%2014520 - related DEP: Approximation algor 14520 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation algor 14520/approximation_algor_14520_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Approximation%20Algorithms - related DEP: Approximation Algorithms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation Algorithms/approximation_algorithms_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Approximation%20algor%2004699 - related DEP: Approximation algor 04699 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation algor 04699/approximation_algor_04699_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Approximation%20algor%2014520 - related DEP: Approximation algor 14520 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation algor 14520/approximation_algor_14520_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Approximation%20Algorithms - related DEP: Approximation Algorithms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation Algorithms/approximation_algorithms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Approximation%20algor%2004699 - related DEP: Approximation algor 04699 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation algor 04699/approximation_algor_04699_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

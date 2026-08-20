@@ -98,7 +98,7 @@ The selected paper contributes a correlation, cpu, enhanced perspective. The thr
 - https://arxiv.org/html/2410.19297 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.19297 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.19297 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SurvMamba%20State%20Space - related DEP: SurvMamba State Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SurvMamba State Space/survmamba_state_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SurvMamba%20State%20Space - related DEP: SurvMamba State Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SurvMamba State Space/survmamba_state_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

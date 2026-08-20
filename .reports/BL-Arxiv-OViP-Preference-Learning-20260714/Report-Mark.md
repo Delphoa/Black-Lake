@@ -61,9 +61,9 @@ The paper does not test PPO or GRPO combined with image-level contrastive object
 
 ## Exactly Three Related DEP Entries
 
-1. [VLM Probing manuscript](../../.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) - VALUE operationalizes fusion, modality importance, relation, leakage, and causal-evidence questions. Applied to OViP, those probes could test whether a better hallucination score corresponds to stronger use of visual evidence rather than answer-style shifts.
-2. [VideoWeave Geometry manuscript](../../.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) - VideoWeave treats generated media quality as a multi-signal consistency problem. Its evidence-gate framing transfers to OViP's diffusion negatives: realism is insufficient unless the requested semantic counterfactual is isolated and other content remains stable.
-3. [BA-LoRA Bias manuscript](../../.lake-data/DEP-E/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md) - BA-LoRA frames adaptation as preserving useful base behavior while reducing drift, collapse, and noisy overfit. OViP's LoRA training faces the same preservation problem across multimodal grounding, informativeness, and general capability.
+1. [VLM Probing manuscript](../../.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) - VALUE operationalizes fusion, modality importance, relation, leakage, and causal-evidence questions. Applied to OViP, those probes could test whether a better hallucination score corresponds to stronger use of visual evidence rather than answer-style shifts.
+2. [VideoWeave Geometry manuscript](../../.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) - VideoWeave treats generated media quality as a multi-signal consistency problem. Its evidence-gate framing transfers to OViP's diffusion negatives: realism is insufficient unless the requested semantic counterfactual is isolated and other content remains stable.
+3. [BA-LoRA Bias manuscript](../../.lake-data/DEP-E/Series%20001/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md) - BA-LoRA frames adaptation as preserving useful base behavior while reducing drift, collapse, and noisy overfit. OViP's LoRA training faces the same preservation problem across multimodal grounding, informativeness, and general capability.
 
 ## Synthesis Note
 

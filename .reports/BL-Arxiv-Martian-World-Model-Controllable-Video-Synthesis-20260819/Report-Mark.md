@@ -98,7 +98,7 @@ The selected paper contributes a accurate, controllable, martian perspective. Th
 - https://arxiv.org/html/2507.07978 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.07978 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.07978 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Controllable%20Dynamic - related DEP: Controllable Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic/controllable_dynamic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Controllable%20Dynamic - related DEP: Controllable Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic/controllable_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

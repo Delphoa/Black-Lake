@@ -98,7 +98,7 @@ The selected paper contributes a adversarial, conditional, data-driven perspecti
 - https://arxiv.org/html/2412.17978 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.17978 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.17978 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven - related DEP: Data-driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven/data_driven_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven - related DEP: Data-driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven/data_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

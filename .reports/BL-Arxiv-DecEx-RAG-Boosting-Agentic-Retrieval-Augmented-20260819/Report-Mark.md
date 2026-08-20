@@ -98,7 +98,7 @@ The selected paper contributes a agentic, boosting, decex-rag perspective. The t
 - https://arxiv.org/html/2510.05691 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.05691 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.05691 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

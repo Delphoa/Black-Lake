@@ -95,7 +95,7 @@ The selected paper contributes a dynamic, gaussian, periodic perspective. The th
 - https://arxiv.org/html/2311.18561 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.18561 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.18561 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Urban%20Visual%20Intelligence - related DEP: Urban Visual Intelligence Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Urban Visual Intelligence/urban_visual_intelligence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Urban%20Visual%20Intelligence - related DEP: Urban Visual Intelligence Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Urban Visual Intelligence/urban_visual_intelligence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

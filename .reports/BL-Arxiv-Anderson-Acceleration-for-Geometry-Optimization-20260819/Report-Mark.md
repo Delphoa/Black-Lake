@@ -98,7 +98,7 @@ The selected paper contributes a acceleration, anderson, geometry perspective. T
 - https://arxiv.org/html/1805.05715 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1805.05715 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3197517.3201290 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-ADiP%20Adaptive-Precision - related DEP: ADiP Adaptive-Precision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-ADiP Adaptive-Precision/adip_adaptive_precision_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SpeeD%20Time%20Steps - related DEP: SpeeD Time Steps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SpeeD Time Steps/speed_time_steps_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-ADiP%20Adaptive-Precision - related DEP: ADiP Adaptive-Precision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-ADiP Adaptive-Precision/adip_adaptive_precision_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SpeeD%20Time%20Steps - related DEP: SpeeD Time Steps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SpeeD Time Steps/speed_time_steps_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a consistency, contrastive, factual perspective. 
 - https://arxiv.org/html/2310.19347 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.19347 - verified primary PDF; local copy withheld.
 - https://doi.org/10.18653/v1/2024.findings-emnlp.648 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Code - related DEP: Improving Code - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Code/improving_code_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Chunks%20as%20Arms - related DEP: Chunks as Arms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Chunks as Arms/chunks_as_arms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Code - related DEP: Improving Code - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Code/improving_code_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Chunks%20as%20Arms - related DEP: Chunks as Arms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Chunks as Arms/chunks_as_arms_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

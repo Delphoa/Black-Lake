@@ -98,7 +98,7 @@ The selected paper contributes a agentkernelarena, agents, benchmarking perspect
 - https://arxiv.org/html/2605.16819 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.16819 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.16819 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GPU%20Optimization%20for - related DEP: GPU Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GPU Optimization for/gpu_optimization_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GPU%20Optimization%20for - related DEP: GPU Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GPU Optimization for/gpu_optimization_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

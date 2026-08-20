@@ -95,7 +95,7 @@ The selected paper contributes a data-free, inversion, llms perspective. The thr
 - https://arxiv.org/html/2601.15595 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.15595 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.15595 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Separate%20the%20Wheat%20from - related DEP: Separate the Wheat from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Separate the Wheat from/separate_the_wheat_from_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-ECHO%20Prune%20to%20act%20trace - related DEP: ECHO Prune to act trace - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace/echo_prune_to_act_trace_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Separate%20the%20Wheat%20from - related DEP: Separate the Wheat from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Separate the Wheat from/separate_the_wheat_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-ECHO%20Prune%20to%20act%20trace - related DEP: ECHO Prune to act trace - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace/echo_prune_to_act_trace_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

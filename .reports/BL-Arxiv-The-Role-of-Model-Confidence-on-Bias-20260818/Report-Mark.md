@@ -95,7 +95,7 @@ The selected paper contributes a bias, effects, measured perspective. The three 
 - https://arxiv.org/html/2506.16724 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.16724 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.16724 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ChartMuseum%20Testing - related DEP: ChartMuseum Testing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ChartMuseum Testing/chartmuseum_testing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Bias%20Behind%20the%20Wheel - related DEP: Bias Behind the Wheel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Bias Behind the Wheel/bias_behind_the_wheel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ChartMuseum%20Testing - related DEP: ChartMuseum Testing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ChartMuseum Testing/chartmuseum_testing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Bias%20Behind%20the%20Wheel - related DEP: Bias Behind the Wheel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Bias Behind the Wheel/bias_behind_the_wheel_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

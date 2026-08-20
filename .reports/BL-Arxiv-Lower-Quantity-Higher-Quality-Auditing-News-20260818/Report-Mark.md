@@ -97,7 +97,7 @@ The selected paper contributes a algorithmic, auditing, chronological perspectiv
 - https://arxiv.org/html/2406.17097 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.17097 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3687046 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-How%20to%20Understand%20Named - related DEP: How to Understand Named - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-How to Understand Named/how_to_understand_named_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-On%20Mechanism%20Underlying - related DEP: On Mechanism Underlying - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-On Mechanism Underlying/on_mechanism_underlying_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-How%20to%20Understand%20Named - related DEP: How to Understand Named - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-How to Understand Named/how_to_understand_named_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-On%20Mechanism%20Underlying - related DEP: On Mechanism Underlying - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-On Mechanism Underlying/on_mechanism_underlying_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

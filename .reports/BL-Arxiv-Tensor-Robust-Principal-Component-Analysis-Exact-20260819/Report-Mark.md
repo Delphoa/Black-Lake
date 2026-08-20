@@ -98,7 +98,7 @@ The selected paper contributes a component, convex, corrupted perspective. The t
 - https://arxiv.org/html/1708.04181 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1708.04181 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1708.04181 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Quantum-Inspired - related DEP: Quantum-Inspired - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum-Inspired/quantum_inspired_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum-Inspired - related DEP: Quantum-Inspired - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum-Inspired/quantum_inspired_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

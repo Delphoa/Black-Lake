@@ -95,7 +95,7 @@ The selected paper contributes a decision, fair, generative perspective. The thr
 - https://arxiv.org/html/2401.11288 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2401.11288 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2401.11288 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

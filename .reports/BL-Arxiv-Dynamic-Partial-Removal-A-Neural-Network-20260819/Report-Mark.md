@@ -98,7 +98,7 @@ The selected paper contributes a dynamic, heuristic, neighborhood perspective. T
 - https://arxiv.org/html/2005.09330 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2005.09330 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2005.09330 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-M-FasterSeg%20An%20Efficient - related DEP: M-FasterSeg An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-M-FasterSeg An Efficient/m_fasterseg_an_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Controllable%20Dynamic - related DEP: Controllable Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic/controllable_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-M-FasterSeg%20An%20Efficient - related DEP: M-FasterSeg An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-M-FasterSeg An Efficient/m_fasterseg_an_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Controllable%20Dynamic - related DEP: Controllable Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Controllable Dynamic/controllable_dynamic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

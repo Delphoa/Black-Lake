@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, doa-lf, fingerprint perspective. The
 - https://arxiv.org/html/2102.13297 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2102.13297 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/ACCESS.2017.2753781 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-RGB-T%20Semantic - related DEP: RGB-T Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-RGB-T Semantic/rgb_t_semantic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-RGB-T%20Semantic - related DEP: RGB-T Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-RGB-T Semantic/rgb_t_semantic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

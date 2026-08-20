@@ -97,7 +97,7 @@ The paper contributes a sentiment, missing, modalities perspective. The related 
 - https://arxiv.org/html/2605.16889 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.16889 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.16889 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Removal%20then%20Selection%20A - related DEP: Removal then Selection A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Removal then Selection A/removal_then_selection_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Removal%20then%20Selection%20A - related DEP: Removal then Selection A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Removal then Selection A/removal_then_selection_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

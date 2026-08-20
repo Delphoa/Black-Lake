@@ -98,7 +98,7 @@ The selected paper contributes a language, retrieval-augmented, robust perspecti
 - https://arxiv.org/html/2410.08876 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.08876 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.08876 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Building%20A%20Coding - related DEP: Building A Coding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Building A Coding/building_a_coding_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Evaluating - related DEP: Evaluating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Evaluating/evaluating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Building%20A%20Coding - related DEP: Building A Coding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Building A Coding/building_a_coding_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Evaluating - related DEP: Evaluating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Evaluating/evaluating_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

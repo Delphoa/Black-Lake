@@ -144,7 +144,7 @@ def hardware_ready(sim, device, tolerance):
 - https://arxiv.org/html/2603.14898 - complete architecture, experiments, methods, supplement, availability statements; verified local copy withheld.
 - https://arxiv.org/pdf/2603.14898 - cross-format primary evidence; verified local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.14898 - persistent identity.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-KDFlow%20LLM%20Distill - distillation-system synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CAP%20Rank%20Sparsity - structured-compression synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - end-to-end efficiency synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-KDFlow%20LLM%20Distill - distillation-system synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CAP%20Rank%20Sparsity - structured-compression synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - end-to-end efficiency synthesis.
 - Source files: verified PDF, official full-paper HTML, metadata HTML, and private verification records; all withheld locally. Zero source uploads. Job `BLAD-2200-20260720-8636EDC7`, item `BLAD-2200-20260720-8636EDC7-P02`.

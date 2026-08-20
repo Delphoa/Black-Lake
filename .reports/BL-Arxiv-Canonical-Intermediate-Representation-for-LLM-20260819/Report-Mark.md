@@ -98,7 +98,7 @@ The selected paper contributes a canonical, formulation, generation perspective.
 - https://arxiv.org/html/2602.02029 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.02029 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.02029 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O%20A%20General%20RL - related DEP: UnityMAS-O A General RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O A General RL/unitymas_o_a_general_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Efficient%20LLM-based - related DEP: Efficient LLM-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Efficient LLM-based/efficient_llm_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-UnityMAS-O%20A%20General%20RL - related DEP: UnityMAS-O A General RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UnityMAS-O A General RL/unitymas_o_a_general_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Efficient%20LLM-based - related DEP: Efficient LLM-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Efficient LLM-based/efficient_llm_based_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -97,7 +97,7 @@ The selected paper contributes a depression, detection, multimodal perspective. 
 - https://arxiv.org/html/2511.01892 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.01892 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.01892 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins - related DEP: RBA-FE A Robust Brain-Inspired A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RBA-FE A Robust Brain-Ins/rba_fe_a_robust_brain_ins_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-RBA-FE%20A%20Robust%20Brain-Ins - related DEP: RBA-FE A Robust Brain-Inspired A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RBA-FE A Robust Brain-Ins/rba_fe_a_robust_brain_ins_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

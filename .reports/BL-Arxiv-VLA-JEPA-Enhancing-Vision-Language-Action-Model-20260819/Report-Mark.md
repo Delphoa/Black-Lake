@@ -98,7 +98,7 @@ The selected paper contributes a enhancing, latent, vision-language-action persp
 - https://arxiv.org/html/2602.10098 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.10098 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.10098 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SparseWorld%20Enhancing - related DEP: SparseWorld Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SparseWorld Enhancing/sparseworld_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SparseWorld%20Enhancing - related DEP: SparseWorld Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SparseWorld Enhancing/sparseworld_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -97,7 +97,7 @@ The paper contributes a person, re-id, last perspective. The related DEPs overla
 - https://ar5iv.labs.arxiv.org/html/2105.15076 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2105.15076 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2105.15076 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SLFE%20Redundancy%20Review - related DEP: SLFE Redundancy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SLFE Redundancy Review/slfe_redundancy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SLFE%20Redundancy%20Review - related DEP: SLFE Redundancy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SLFE Redundancy Review/slfe_redundancy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

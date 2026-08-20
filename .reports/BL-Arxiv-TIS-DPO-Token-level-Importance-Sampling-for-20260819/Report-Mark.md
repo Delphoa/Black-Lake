@@ -98,7 +98,7 @@ The selected paper contributes a direct, estimated, importance perspective. The 
 - https://arxiv.org/html/2410.04350 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.04350 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.04350 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Survey%20of%20Direct - related DEP: A Survey of Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey of Direct/a_survey_of_direct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Earlier%20Tokens%20Contribute - related DEP: Earlier Tokens Contribute - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Earlier Tokens Contribute/earlier_tokens_contribute_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SDPO%20Segment-Level%20Direct - related DEP: SDPO Segment-Level Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SDPO Segment-Level Direct/sdpo_segment_level_direct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Survey%20of%20Direct - related DEP: A Survey of Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey of Direct/a_survey_of_direct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Earlier%20Tokens%20Contribute - related DEP: Earlier Tokens Contribute - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Earlier Tokens Contribute/earlier_tokens_contribute_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SDPO%20Segment-Level%20Direct - related DEP: SDPO Segment-Level Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SDPO Segment-Level Direct/sdpo_segment_level_direct_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

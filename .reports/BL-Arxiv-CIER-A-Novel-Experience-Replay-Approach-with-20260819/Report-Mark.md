@@ -98,7 +98,7 @@ The selected paper contributes a causal, cier, experience perspective. The three
 - https://arxiv.org/html/2405.08380 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.08380 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.08380 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Regret%20Minimization - related DEP: Regret Minimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Regret Minimization/regret_minimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Regret%20Minimization - related DEP: Regret Minimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Regret Minimization/regret_minimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, admm, consensus perspective. The thre
 - https://arxiv.org/html/1706.02869 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1706.02869 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1706.02869 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Random%20gradient - related DEP: Random gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Random gradient/random_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Random%20gradient - related DEP: Random gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Random gradient/random_gradient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

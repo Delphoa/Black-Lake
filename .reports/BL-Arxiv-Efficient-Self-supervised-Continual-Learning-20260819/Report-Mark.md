@@ -98,7 +98,7 @@ The selected paper contributes a continual, freezing, layer perspective. The thr
 - https://arxiv.org/html/2303.07477 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2303.07477 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2303.07477 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

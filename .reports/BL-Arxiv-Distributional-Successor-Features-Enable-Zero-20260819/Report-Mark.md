@@ -98,7 +98,7 @@ The selected paper contributes a distributional, enable, features perspective. T
 - https://arxiv.org/html/2403.06328 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.06328 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.06328 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Robust%20Zero-Shot - related DEP: Robust Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Robust Zero-Shot/robust_zero_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DRIVE%20Distributional%20and - related DEP: DRIVE Distributional and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIVE Distributional and/drive_distributional_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Robust%20Zero-Shot - related DEP: Robust Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Robust Zero-Shot/robust_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DRIVE%20Distributional%20and - related DEP: DRIVE Distributional and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRIVE Distributional and/drive_distributional_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

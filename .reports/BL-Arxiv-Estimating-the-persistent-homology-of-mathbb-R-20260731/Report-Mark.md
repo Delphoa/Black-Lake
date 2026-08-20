@@ -95,7 +95,7 @@ The selected paper contributes a multifiltrations, function-geometric, approxima
 - https://arxiv.org/html/2412.04162 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.04162 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.04162 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

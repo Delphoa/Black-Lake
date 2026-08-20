@@ -98,7 +98,7 @@ The selected paper contributes a bi-level, feedback, implicit perspective. The t
 - https://arxiv.org/html/2206.00147 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2206.00147 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2206.00147 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20ell%201%20-based - related DEP: Learning ell 1 -based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning ell 1 -based/learning_ell_1_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting%20Knowledge - related DEP: Non-Forgetting Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting Knowledge/non_forgetting_knowledge_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20ell%201%20-based - related DEP: Learning ell 1 -based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning ell 1 -based/learning_ell_1_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Non-Forgetting%20Knowledge - related DEP: Non-Forgetting Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting Knowledge/non_forgetting_knowledge_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

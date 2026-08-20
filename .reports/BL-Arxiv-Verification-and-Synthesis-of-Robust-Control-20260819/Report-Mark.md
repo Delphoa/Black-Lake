@@ -98,7 +98,7 @@ The selected paper contributes a barrier, control, functions perspective. The th
 - https://arxiv.org/html/2303.10081 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2303.10081 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2303.10081 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Visual-inertial%20state - related DEP: Visual-inertial state - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Visual-inertial state/visual_inertial_state_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Visual-inertial%20state - related DEP: Visual-inertial state - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Visual-inertial state/visual_inertial_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

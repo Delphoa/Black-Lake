@@ -102,7 +102,7 @@ DHR turns document structure into a retrieval control surface: document-level re
 - https://aclanthology.org/2021.findings-emnlp.19/ — publication record, pages, DOI, and software locator.
 - https://doi.org/10.18653/v1/2021.findings-emnlp.19 — publication DOI.
 - https://github.com/yeliu918/DHR — author-linked implementation context; code and data were not executed, collected, or redistributed.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260717-RAG%20Chunking%20Study — related DEP entry; source basis is the repository-relative manuscript path listed above.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260717-PlanRAG%20Query%20Trees — related DEP entry; source basis is the repository-relative manuscript path listed above.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260725-SchemaFirst%20Retrieval — related DEP entry; source basis is the repository-relative manuscript path listed above.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-RAG%20Chunking%20Study — related DEP entry; source basis is the repository-relative manuscript path listed above.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-PlanRAG%20Query%20Trees — related DEP entry; source basis is the repository-relative manuscript path listed above.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260725-SchemaFirst%20Retrieval — related DEP entry; source basis is the repository-relative manuscript path listed above.
 - Source files: verified PDF, full-paper HTML, metadata HTML, provenance, verification, receipts, and optional-source failure record remain local and were not uploaded or attached to Slack.

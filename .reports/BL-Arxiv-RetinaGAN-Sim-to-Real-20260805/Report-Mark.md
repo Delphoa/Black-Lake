@@ -220,12 +220,12 @@ This makes the uncertainty of 9/10 pushing trials or 29/30 door trials visible. 
 - Source URL: https://github.com/google-research/tensor2robot/blob/master/layers/film_resnet_model.py
   - Applies to: project-linked ResNet-FiLM component context.
   - Notes: Upstream component link, not an end-to-end RetinaGAN release.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260726-Habitat%20Synthetic%20Intake/whitepaper-intake-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-Habitat%20Synthetic%20Intake/whitepaper-intake-review.md
   - Applies to: synthetic-scene/reality-gap relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RetinaGAN.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking/spiking_pose_tracking_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Spiking%20Pose%20Tracking/spiking_pose_tracking_manuscript.md
   - Applies to: synthetic/real perception and domain-adaptation relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RetinaGAN.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260727-ManipulationNet%20An%20Intake/whitepaper-intake-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260727-ManipulationNet%20An%20Intake/whitepaper-intake-review.md
   - Applies to: physical manipulation benchmark and evaluation-governance relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RetinaGAN.

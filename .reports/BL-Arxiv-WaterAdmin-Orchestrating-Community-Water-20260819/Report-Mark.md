@@ -98,7 +98,7 @@ The selected paper contributes a agents, community, distribution perspective. Th
 - https://arxiv.org/html/2604.10343 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.10343 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.10343 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented - related DEP: Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented/retrieval_augmented_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-A%20novel%20metric%20for - related DEP: A novel metric for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-A novel metric for/a_novel_metric_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Retrieval-Augmented - related DEP: Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented/retrieval_augmented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-A%20novel%20metric%20for - related DEP: A novel metric for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-A novel metric for/a_novel_metric_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a bridging, efficacy, efficiency perspective. The
 - https://arxiv.org/html/2508.17445 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.17445 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.17445 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM%20for%20Olympic - related DEP: STGCN-LSTM for Olympic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM for Olympic/stgcn_lstm_for_olympic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Dynamic%20Partial%20Removal%20A - related DEP: Dynamic Partial Removal A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Partial Removal A/dynamic_partial_removal_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-STGCN-LSTM%20for%20Olympic - related DEP: STGCN-LSTM for Olympic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM for Olympic/stgcn_lstm_for_olympic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Dynamic%20Partial%20Removal%20A - related DEP: Dynamic Partial Removal A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Partial Removal A/dynamic_partial_removal_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

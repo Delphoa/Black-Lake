@@ -95,7 +95,7 @@ The selected paper contributes a hidden, long, market perspective. The three rel
 - https://arxiv.org/html/2104.09700 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2104.09700 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2104.09700 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

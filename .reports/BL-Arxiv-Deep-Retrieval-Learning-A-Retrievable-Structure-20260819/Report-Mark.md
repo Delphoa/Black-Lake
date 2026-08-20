@@ -98,7 +98,7 @@ The selected paper contributes a large-scale, recommendations, retrievable persp
 - https://arxiv.org/html/2007.07203 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2007.07203 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2007.07203 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Large-Scale - related DEP: Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Large-Scale/large_scale_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-EEGFormer%20Towards - related DEP: EEGFormer Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-EEGFormer Towards/eegformer_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Large-Scale - related DEP: Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Large-Scale/large_scale_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-EEGFormer%20Towards - related DEP: EEGFormer Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-EEGFormer Towards/eegformer_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

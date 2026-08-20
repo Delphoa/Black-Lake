@@ -98,7 +98,7 @@ The selected paper contributes a contact-rich, manipulation, modeling perspectiv
 - https://arxiv.org/html/2603.19201 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.19201 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.19201 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench%20A%20Benchmark - related DEP: RoboWM-Bench A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench A Benchmark/robowm_bench_a_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RoboWM-Bench%20A%20Benchmark - related DEP: RoboWM-Bench A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench A Benchmark/robowm_bench_a_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

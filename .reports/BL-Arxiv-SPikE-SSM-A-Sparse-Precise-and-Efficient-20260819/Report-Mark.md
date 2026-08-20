@@ -98,7 +98,7 @@ The selected paper contributes a long, precise, sequences perspective. The three
 - https://arxiv.org/html/2410.17268 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.17268 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TCDS.2026.3698720 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

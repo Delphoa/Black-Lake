@@ -95,7 +95,7 @@ The selected paper contributes a attacks, benign, jailbreak perspective. The thr
 - https://arxiv.org/html/2410.21083 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.21083 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.21083 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Stealth%20Memory%20Injection - related DEP: Stealth Memory Trust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection/stealth_memory_trust_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Stealth%20Memory%20Injection - related DEP: Stealth Memory Trust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Stealth Memory Injection/stealth_memory_trust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

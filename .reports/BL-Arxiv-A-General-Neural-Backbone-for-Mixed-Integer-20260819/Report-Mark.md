@@ -98,7 +98,7 @@ The selected paper contributes a attention, backbone, dual perspective. The thre
 - https://arxiv.org/html/2601.04509 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.04509 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.04509 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Traceable%20Group-Wise - related DEP: Traceable Group-Wise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Traceable Group-Wise/traceable_group_wise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-UDuo%20Universal%20Dual - related DEP: UDuo Universal Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UDuo Universal Dual/uduo_universal_dual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Traceable%20Group-Wise - related DEP: Traceable Group-Wise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Traceable Group-Wise/traceable_group_wise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-UDuo%20Universal%20Dual - related DEP: UDuo Universal Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UDuo Universal Dual/uduo_universal_dual_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

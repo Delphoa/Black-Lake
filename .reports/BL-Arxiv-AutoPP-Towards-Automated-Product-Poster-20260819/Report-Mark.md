@@ -98,7 +98,7 @@ The selected paper contributes a automated, autopp, generation perspective. The 
 - https://arxiv.org/html/2512.21921 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.21921 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.21921 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PhyMix%20Towards%20Physically - related DEP: PhyMix Towards Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PhyMix Towards Physically/phymix_towards_physically_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards - related DEP: Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards/towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PhyMix%20Towards%20Physically - related DEP: PhyMix Towards Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PhyMix Towards Physically/phymix_towards_physically_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards - related DEP: Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards/towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

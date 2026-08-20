@@ -95,7 +95,7 @@ The selected paper contributes a temporal, feature, diffusion perspective. Video
 - https://arxiv.org/html/2407.19547 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.19547 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.19547 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Hallo4%20Portrait%20Motion - related DEP: Hallo4 Portrait Motion - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Hallo4%20Portrait%20Motion - related DEP: Hallo4 Portrait Motion - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

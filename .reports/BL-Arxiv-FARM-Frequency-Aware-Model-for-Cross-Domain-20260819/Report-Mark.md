@@ -98,7 +98,7 @@ The selected paper contributes a cross-domain, farm, frequency-aware perspective
 - https://arxiv.org/html/2502.09375 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.09375 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.09375 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-AcroFOD%20An%20Adaptive - related DEP: AcroFOD An Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AcroFOD An Adaptive/acrofod_an_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-AcroFOD%20An%20Adaptive - related DEP: AcroFOD An Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AcroFOD An Adaptive/acrofod_an_adaptive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

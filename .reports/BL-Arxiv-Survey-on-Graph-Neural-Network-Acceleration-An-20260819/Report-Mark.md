@@ -98,7 +98,7 @@ The selected paper contributes a acceleration, algorithmic, graph perspective. T
 - https://arxiv.org/html/2202.04822 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2202.04822 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2202.04822 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-A%20Survey%20of%20Trustworthy - related DEP: A Survey of Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy/a_survey_of_trustworthy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-A%20Survey%20of%20Trustworthy - related DEP: A Survey of Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-A Survey of Trustworthy/a_survey_of_trustworthy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a formal, high-assurance, kernels perspective. Th
 - https://arxiv.org/html/1701.01535 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1701.01535 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1701.01535 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Survey%20on - related DEP: A Survey on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey on/a_survey_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Survey%20on - related DEP: A Survey on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey on/a_survey_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

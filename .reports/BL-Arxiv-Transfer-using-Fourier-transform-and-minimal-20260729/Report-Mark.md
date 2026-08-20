@@ -95,7 +95,7 @@ The selected paper contributes a transfer, fourier, map perspective. The three r
 - https://arxiv.org/html/2507.18329 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.18329 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.18329 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Hyperbolic%20Catenaries - related DEP: Hyperbolic Catenaries - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-NeMO%20Neural%20Map%20Growing - related DEP: NeMO Neural Map Growing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-NeMO Neural Map Growing/nemo_neural_map_growing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Hyperbolic%20Catenaries - related DEP: Hyperbolic Catenaries - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-NeMO%20Neural%20Map%20Growing - related DEP: NeMO Neural Map Growing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-NeMO Neural Map Growing/nemo_neural_map_growing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

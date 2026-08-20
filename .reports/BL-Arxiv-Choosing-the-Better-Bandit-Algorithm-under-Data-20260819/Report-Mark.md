@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bandit, better perspective. The thre
 - https://arxiv.org/html/2507.11891 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.11891 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.11891 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Does%20Travel%20Stage%20Matter - related DEP: Does Travel Stage Matter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Does Travel Stage Matter/does_travel_stage_matter_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

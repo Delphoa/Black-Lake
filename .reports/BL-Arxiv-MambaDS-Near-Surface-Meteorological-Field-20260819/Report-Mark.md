@@ -98,7 +98,7 @@ The selected paper contributes a constrained, downscaling, field perspective. Th
 - https://arxiv.org/html/2408.10854 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.10854 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.10854 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Swimba%20Switch%20Mamba%20Model - related DEP: Swimba Switch Mamba Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Swimba Switch Mamba Model/swimba_switch_mamba_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Swimba%20Switch%20Mamba%20Model - related DEP: Swimba Switch Mamba Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Swimba Switch Mamba Model/swimba_switch_mamba_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

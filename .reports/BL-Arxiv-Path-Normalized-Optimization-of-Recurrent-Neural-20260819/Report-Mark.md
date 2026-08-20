@@ -98,7 +98,7 @@ The selected paper contributes a activations, networks, neural perspective. The 
 - https://arxiv.org/html/1605.07154 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1605.07154 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1605.07154 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Effective%20Quantization - related DEP: Effective Quantization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Effective Quantization/effective_quantization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-On%20Multiplicative - related DEP: On Multiplicative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-On Multiplicative/on_multiplicative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Quantum%20Recurrent%20Neural - related DEP: Quantum Recurrent Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum Recurrent Neural/quantum_recurrent_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Effective%20Quantization - related DEP: Effective Quantization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Effective Quantization/effective_quantization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-On%20Multiplicative - related DEP: On Multiplicative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-On Multiplicative/on_multiplicative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum%20Recurrent%20Neural - related DEP: Quantum Recurrent Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum Recurrent Neural/quantum_recurrent_neural_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

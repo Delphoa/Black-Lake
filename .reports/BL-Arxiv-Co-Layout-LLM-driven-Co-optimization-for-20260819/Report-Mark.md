@@ -98,7 +98,7 @@ The selected paper contributes a co-layout, co-optimization, interior perspectiv
 - https://arxiv.org/html/2511.12474 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.12474 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.12474 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS%20Preventing - related DEP: SCAFFOLD-CEGIS Preventing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS Preventing/scaffold_cegis_preventing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AR-Med%20Automated - related DEP: AR-Med Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AR-Med Automated/ar_med_automated_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-SCAFFOLD-CEGIS%20Preventing - related DEP: SCAFFOLD-CEGIS Preventing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS Preventing/scaffold_cegis_preventing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AR-Med%20Automated - related DEP: AR-Med Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AR-Med Automated/ar_med_automated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a dynamic, hardware-aware, hierarchization perspe
 - https://arxiv.org/html/2409.01075 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.01075 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.01075 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HAO%20Hardware-aware%20neural - related DEP: HAO Hardware-aware neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HAO Hardware-aware neural/hao_hardware_aware_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HAO%20Hardware-aware%20neural - related DEP: HAO Hardware-aware neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HAO Hardware-aware neural/hao_hardware_aware_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

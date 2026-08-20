@@ -98,7 +98,7 @@ The selected paper contributes a augmented, corpora, erarag perspective. The thr
 - https://arxiv.org/html/2506.20963 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.20963 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.20963 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bridge-RAG%20An%20Abstract - related DEP: Bridge-RAG An Abstract - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridge-RAG An Abstract/bridge_rag_an_abstract_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fishing%20for%20Answers - related DEP: Fishing for Answers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fishing for Answers/fishing_for_answers_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bridge-RAG%20An%20Abstract - related DEP: Bridge-RAG An Abstract - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridge-RAG An Abstract/bridge_rag_an_abstract_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fishing%20for%20Answers - related DEP: Fishing for Answers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fishing for Answers/fishing_for_answers_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

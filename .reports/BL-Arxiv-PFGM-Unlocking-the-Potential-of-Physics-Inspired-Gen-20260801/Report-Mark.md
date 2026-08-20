@@ -97,7 +97,7 @@ The paper contributes a pfgm, generative, diffusion perspective. The related DEP
 - https://ar5iv.labs.arxiv.org/html/2302.04265 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.04265 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2302.04265 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Controlling%20the%20Fidelity - related DEP: Controlling the Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity/controlling_the_fidelity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Controlling%20the%20Fidelity - related DEP: Controlling the Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity/controlling_the_fidelity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

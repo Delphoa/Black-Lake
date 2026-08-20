@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, augmented, group perspective. The th
 - https://arxiv.org/html/2205.05428 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2205.05428 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2205.05428 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Path-Normalized - related DEP: Path-Normalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Path-Normalized/path_normalized_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Predictive%20Lagrangian - related DEP: Predictive Lagrangian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predictive Lagrangian/predictive_lagrangian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Path-Normalized - related DEP: Path-Normalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Path-Normalized/path_normalized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Predictive%20Lagrangian - related DEP: Predictive Lagrangian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predictive Lagrangian/predictive_lagrangian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

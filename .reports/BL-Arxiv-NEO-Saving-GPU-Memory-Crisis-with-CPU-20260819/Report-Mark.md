@@ -98,7 +98,7 @@ The selected paper contributes a cpu, crisis, gpu perspective. The three related
 - https://arxiv.org/html/2411.01142 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.01142 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.01142 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Make%20LLM%20Inference - related DEP: Make LLM Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make LLM Inference/make_llm_inference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Energy-Constrained - related DEP: Energy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Energy-Constrained/energy_constrained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Make%20LLM%20Inference - related DEP: Make LLM Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make LLM Inference/make_llm_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Energy-Constrained - related DEP: Energy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Energy-Constrained/energy_constrained_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

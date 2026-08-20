@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, group-based, less perspective. The th
 - https://arxiv.org/html/2602.14338 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.14338 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.14338 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Listwise%20Policy - related DEP: Listwise Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Listwise Policy/listwise_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Group-based%20control%20of - related DEP: Group-based control of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Group-based control of/group_based_control_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-ADReFT%20Adaptive%20Decision - related DEP: ADReFT Adaptive Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision/adreft_adaptive_decision_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Listwise%20Policy - related DEP: Listwise Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Listwise Policy/listwise_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Group-based%20control%20of - related DEP: Group-based control of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Group-based control of/group_based_control_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-ADReFT%20Adaptive%20Decision - related DEP: ADReFT Adaptive Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision/adreft_adaptive_decision_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

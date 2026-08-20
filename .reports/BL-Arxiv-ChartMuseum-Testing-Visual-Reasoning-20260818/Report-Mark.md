@@ -95,7 +95,7 @@ The selected paper contributes a capabilities, chartmuseum, reasoning perspectiv
 - https://arxiv.org/html/2505.13444 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.13444 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.13444 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL%20of%20Thoughts%20Navigating - related DEP: RL of Thoughts Navigating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL of Thoughts Navigating/rl_of_thoughts_navigating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL%20of%20Thoughts%20Navigating - related DEP: RL of Thoughts Navigating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL of Thoughts Navigating/rl_of_thoughts_navigating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a customize, fields, harmonic perspective. The th
 - https://arxiv.org/html/2507.09858 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.09858 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.09858 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hybrid%20Beamforming - related DEP: Hybrid Beamforming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hybrid Beamforming/hybrid_beamforming_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-TopologyGAN%20Topology - related DEP: TopologyGAN Topology - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TopologyGAN Topology/topologygan_topology_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hybrid%20Beamforming - related DEP: Hybrid Beamforming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hybrid Beamforming/hybrid_beamforming_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-TopologyGAN%20Topology - related DEP: TopologyGAN Topology - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TopologyGAN Topology/topologygan_topology_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

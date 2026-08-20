@@ -44,9 +44,9 @@ The source gate was applied before review. The selected unit initially contained
 
 Exactly three related entries were selected for concrete conceptual overlap:
 
-1. [DEP-A-20260717-CoReDiT Diffusion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md) - diffusion-transformer efficiency through spatially coherent token pruning, reconstruction, and timestep-adaptive schedules. It is a direct neighbor because both works allocate computation selectively across a diffusion process while preserving quality boundaries.
-2. [DEP-A-20260716-DiffuMask Pruning](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md) - diffusion-language token pruning through iterative mask prediction. It connects SpeeD's schedule-aware allocation to a representation-reduction setting where the reduction decision also changes downstream quality and cost.
-3. [DEP-E-20260718-Efficient FM Survey](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md) - lifecycle-wide resource-efficient foundation-model taxonomy. It supplies the broader accounting rule that speedup claims need workload, metric, denominator, hardware, and runtime context before they can be composed.
+1. [DEP-A-20260717-CoReDiT Diffusion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md) - diffusion-transformer efficiency through spatially coherent token pruning, reconstruction, and timestep-adaptive schedules. It is a direct neighbor because both works allocate computation selectively across a diffusion process while preserving quality boundaries.
+2. [DEP-A-20260716-DiffuMask Pruning](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md) - diffusion-language token pruning through iterative mask prediction. It connects SpeeD's schedule-aware allocation to a representation-reduction setting where the reduction decision also changes downstream quality and cost.
+3. [DEP-E-20260718-Efficient FM Survey](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md) - lifecycle-wide resource-efficient foundation-model taxonomy. It supplies the broader accounting rule that speedup claims need workload, metric, denominator, hardware, and runtime context before they can be composed.
 
 ## Synthesis Note
 
@@ -162,11 +162,11 @@ print(quality_cost_guard(20.0, 20.2, 100.0, 75.0))
   - Notes: arXiv DOI.
 - Source URL: https://github.com/NUS-HPC-AI-Lab/SpeeD
   - Applies to: official implementation scope, setup, tutorial, and repository context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-CoReDiT%20Diffusion/2605.14191-whitepaper-review.md
   - Applies to: related-entry bridge on spatial/timestep-aware diffusion-transformer pruning.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-DiffuMask%20Pruning/2604.06627-whitepaper-review.md
   - Applies to: related-entry bridge on diffusion-language token pruning.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md
   - Applies to: related-entry bridge on resource denominators and lifecycle efficiency.
 - Source files: withheld locally; no original PDF, HTML, metadata page, source package, cache, extracted text, rendering, provenance record, or verification report is redistributed.
   - Applies to: this Report-Mark and the deposited manuscript.

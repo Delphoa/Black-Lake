@@ -98,7 +98,7 @@ The selected paper contributes a freqmark, frequency, image perspective. The thr
 - https://arxiv.org/html/2410.20824 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.20824 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.20824 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ROBIN%20Robust%20and - related DEP: ROBIN Robust and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ROBIN Robust and/robin_robust_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-MelShield%20Robust - related DEP: MelShield Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-MelShield Robust/melshield_robust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ROBIN%20Robust%20and - related DEP: ROBIN Robust and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ROBIN Robust and/robin_robust_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-MelShield%20Robust - related DEP: MelShield Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-MelShield Robust/melshield_robust_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

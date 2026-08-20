@@ -31,9 +31,9 @@ The strongest reviewer interpretation is that the paper's durable contribution i
 | E3 | [Frontiers article](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2022.787421/full) and [PMC record](https://pmc.ncbi.nlm.nih.gov/articles/PMC9041419/) | Published version, review scope, article outline, abstract, and publisher context | High for publication context | No new independent benchmark evidence |
 | E4 | [fastml-science benchmark repository](https://github.com/fastmachinelearning/fastml-science) | Official community benchmark context with float and quantized jet-classification baselines | Medium | Companion implementation, not code for this review paper |
 | E5 | [hls4ml repository](https://github.com/fastmachinelearning/hls4ml) and [FastML Foundation](https://fastmachinelearning.org/) | Public community implementation ecosystem for low-latency FPGA inference and scientific deployment | Medium | Ecosystem context; not proof of the paper's claims |
-| E6 | [SpOctA manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-SpOctA%20Accelerator/spocta_accelerator_manuscript.md) | Sparse representation, map search, memory skew, and accelerator co-design | Medium | Related derived artifact, not primary evidence for this paper |
-| E7 | [ELiTeFormer review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260809-ELiTeFormer%20FPGA/2607.03652-whitepaper-review.md) | Low-precision model/hardware co-design, FPGA resource accounting, and reproduction boundaries | Medium | Related derived artifact, not primary evidence for this paper |
-| E8 | [Local AI Stack manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Local%20AI%20Stack/local-ai-research.md) | Runtime, accelerator, quantization, edge-power, and deployment-stack constraints | Medium | Broad cross-source synthesis, not a fast-ML benchmark |
+| E6 | [SpOctA manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-SpOctA%20Accelerator/spocta_accelerator_manuscript.md) | Sparse representation, map search, memory skew, and accelerator co-design | Medium | Related derived artifact, not primary evidence for this paper |
+| E7 | [ELiTeFormer review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20002/DEP-A-20260809-ELiTeFormer%20FPGA/2607.03652-whitepaper-review.md) | Low-precision model/hardware co-design, FPGA resource accounting, and reproduction boundaries | Medium | Related derived artifact, not primary evidence for this paper |
+| E8 | [Local AI Stack manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Local%20AI%20Stack/local-ai-research.md) | Runtime, accelerator, quantization, edge-power, and deployment-stack constraints | Medium | Broad cross-source synthesis, not a fast-ML benchmark |
 | E9 | [Black Lake README](https://github.com/Delphoa/Black-Lake/blob/main/README.md) and [DEP rules](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/README.md) | Public filing, source locality, DEP class, index, and attribution requirements | High | Repository policy only |
 | E10 | [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md) | Related-repository provenance and source-deposition boundary | High | Repository policy only |
 
@@ -143,11 +143,11 @@ def decide(stream_item, budget_ms):
   - Applies to: official low-latency FPGA inference ecosystem context.
 - Source URL: https://fastmachinelearning.org/
   - Applies to: current FastML community and project context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-SpOctA%20Accelerator/spocta_accelerator_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-SpOctA%20Accelerator/spocta_accelerator_manuscript.md
   - Applies to: related DEP 1.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260809-ELiTeFormer%20FPGA/2607.03652-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20002/DEP-A-20260809-ELiTeFormer%20FPGA/2607.03652-whitepaper-review.md
   - Applies to: related DEP 2.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Local%20AI%20Stack/local-ai-research.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Local%20AI%20Stack/local-ai-research.md
   - Applies to: related DEP 3.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md
   - Applies to: filing, source-locality, and public attribution rules.

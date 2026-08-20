@@ -98,7 +98,7 @@ The selected paper contributes a attacks, corruption, generation perspective. Th
 - https://arxiv.org/html/2508.18652 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.18652 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.18652 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Practical%20Poisoning - related DEP: Practical Poisoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Practical Poisoning/practical_poisoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DRAK%20Unlocking%20Molecular - related DEP: DRAK Unlocking Molecular - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRAK Unlocking Molecular/drak_unlocking_molecular_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Practical%20Poisoning - related DEP: Practical Poisoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Practical Poisoning/practical_poisoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DRAK%20Unlocking%20Molecular - related DEP: DRAK Unlocking Molecular - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DRAK Unlocking Molecular/drak_unlocking_molecular_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

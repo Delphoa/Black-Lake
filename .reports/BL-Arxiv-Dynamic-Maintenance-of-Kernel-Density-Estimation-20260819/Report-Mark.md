@@ -98,7 +98,7 @@ The selected paper contributes a density, dynamic, estimation perspective. The t
 - https://arxiv.org/html/2208.03915 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.03915 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.03915 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests; source basis `.lake-data/DEP-E/DEP-E-20260719-Kernel Equivalence/kernel_equivalence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests; source basis `.lake-data/DEP-E/DEP-E-20260719-Kernel Equivalence/kernel_equivalence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

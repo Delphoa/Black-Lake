@@ -98,7 +98,7 @@ The selected paper contributes a competitive, optimization, policy perspective. 
 - https://arxiv.org/html/2009.06086 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2009.06086 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2009.06086 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Absolute%20Zero%20Reinforced - related DEP: Absolute Zero Reinforced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Absolute Zero Reinforced/absolute_zero_reinforced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Absolute%20Zero%20Reinforced - related DEP: Absolute Zero Reinforced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Absolute Zero Reinforced/absolute_zero_reinforced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

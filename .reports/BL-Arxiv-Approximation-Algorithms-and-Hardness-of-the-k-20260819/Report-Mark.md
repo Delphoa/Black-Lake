@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, approximation, cut perspective. The
 - https://arxiv.org/html/1112.3611 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1112.3611 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1112.3611 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Near-Tight%20Approximation - related DEP: Near-Tight Approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Near-Tight Approximation/near_tight_approximation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Near-Tight%20Approximation - related DEP: Near-Tight Approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Near-Tight Approximation/near_tight_approximation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

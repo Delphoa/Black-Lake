@@ -98,7 +98,7 @@ The selected paper contributes a dynamic, incremental, machine perspective. The 
 - https://arxiv.org/html/2102.12133 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2102.12133 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2102.12133 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM%20for%20Olympic - related DEP: STGCN-LSTM for Olympic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM for Olympic/stgcn_lstm_for_olympic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-STGCN-LSTM%20for%20Olympic - related DEP: STGCN-LSTM for Olympic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STGCN-LSTM for Olympic/stgcn_lstm_for_olympic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

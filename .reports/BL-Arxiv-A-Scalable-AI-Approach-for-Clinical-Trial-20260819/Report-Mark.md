@@ -98,7 +98,7 @@ The selected paper contributes a clinical, cohort, optimization perspective. The
 - https://arxiv.org/html/2109.02808 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2109.02808 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2109.02808 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a asynchronous, continuous, event-inertial perspe
 - https://arxiv.org/html/2412.08909 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.08909 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/LRA.2025.3632120 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Vector-ICL%20In-context - related DEP: Vector-ICL In-context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Vector-ICL In-context/vector_icl_in_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Vector-ICL%20In-context - related DEP: Vector-ICL In-context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Vector-ICL In-context/vector_icl_in_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

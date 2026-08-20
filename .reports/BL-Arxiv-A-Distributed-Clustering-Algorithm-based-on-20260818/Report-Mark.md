@@ -97,7 +97,7 @@ The selected paper contributes a algorithm, clustering, coalition perspective. T
 - https://arxiv.org/html/2503.08416 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.08416 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.08416 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

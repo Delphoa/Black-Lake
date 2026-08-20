@@ -98,7 +98,7 @@ The selected paper contributes a ai-based, algorithm, control perspective. The t
 - https://arxiv.org/html/2012.13026 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2012.13026 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2012.13026 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20Projected%20Power - related DEP: The Projected Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Projected Power/the_projected_power_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20Projected%20Power - related DEP: The Projected Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Projected Power/the_projected_power_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -97,7 +97,7 @@ The selected paper contributes a shadow, attentive, decomposed perspective. The 
 - https://arxiv.org/html/2306.17358 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.17358 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.17358 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Mask%20Proposal%20Voting - related DEP: Mask Proposal Voting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Mask Proposal Voting/mask_proposal_voting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Mask%20Proposal%20Voting - related DEP: Mask Proposal Voting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Mask Proposal Voting/mask_proposal_voting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

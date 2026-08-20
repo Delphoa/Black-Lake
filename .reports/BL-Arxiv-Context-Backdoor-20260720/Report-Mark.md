@@ -97,7 +97,7 @@ Contextual examples are transient agent state with supply-chain properties. Memo
 - https://arxiv.org/abs/2408.02882 - canonical metadata, authors, date, DOI, abstract, and locators.
 - https://arxiv.org/html/2408.02882 - verified full-paper evidence for threat model, experiments, countermeasures, and limitations; local copy withheld.
 - https://arxiv.org/pdf/2408.02882 - verified PDF; local copy withheld.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Agent%20Memory%20Forensics - related forensic evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Control%20Surfaces - related control-placement evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Memory%20Defense%20Layers - related layered-memory defense evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Agent%20Memory%20Forensics - related forensic evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Control%20Surfaces - related control-placement evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Memory%20Defense%20Layers - related layered-memory defense evidence.
 - Source files: PDF, official full-paper HTML, metadata HTML, and integrity records; all withheld locally.

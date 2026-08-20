@@ -98,7 +98,7 @@ The selected paper contributes a add, benchmarking, how perspective. The three r
 - https://arxiv.org/html/2602.10210 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.10210 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.10210 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Tug-of-War%20Between - related DEP: Tug-of-War Between - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Tug-of-War Between/tug_of_war_between_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Tug-of-War%20Between - related DEP: Tug-of-War Between - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Tug-of-War Between/tug_of_war_between_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -150,10 +150,10 @@ def record_frontier(model_id, defense, audit, utility, source_status):
   - Applies to: CCS 2021 venue and publication metadata.
 - [Penn State publication record](https://pure.psu.edu/en/publications/encodermi-membership-inference-against-pre-trained-encoders-in-co)
   - Applies to: venue, page range, author, and DOI cross-check.
-- [MRMMIA Memory Attack DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260726-MRMMIA%20Memory%20Attack)
+- [MRMMIA Memory Attack DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-MRMMIA%20Memory%20Attack)
   - Applies to: related membership-inference and privacy-defense synthesis.
-- [4DContrast Contrastive DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-4DContrast%20Contrastive)
+- [4DContrast Contrastive DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-4DContrast%20Contrastive)
   - Applies to: related contrastive representation synthesis.
-- [Equivariant Contrastive DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Equivariant%20Contrastive)
+- [Equivariant Contrastive DEP](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Equivariant%20Contrastive)
   - Applies to: related augmentation and representation-invariance synthesis.
 - Source boundary: all local source documents and integrity companions were withheld; no source files were uploaded, committed, staged, or attached.

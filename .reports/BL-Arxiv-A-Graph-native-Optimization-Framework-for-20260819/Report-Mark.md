@@ -98,7 +98,7 @@ The selected paper contributes a complex, graph, graph-native perspective. The t
 - https://arxiv.org/html/2503.22091 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.22091 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.22091 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Reverse%20Preference - related DEP: Reverse Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reverse Preference/reverse_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Reverse%20Preference - related DEP: Reverse Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reverse Preference/reverse_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

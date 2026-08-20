@@ -98,7 +98,7 @@ The selected paper contributes a cdio, collaboration, cross-domain perspective. 
 - https://arxiv.org/html/2502.04078 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.04078 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.04078 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Transferable%20Optimization - related DEP: Transferable Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Transferable Optimization/transferable_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Transferable%20Optimization - related DEP: Transferable Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Transferable Optimization/transferable_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

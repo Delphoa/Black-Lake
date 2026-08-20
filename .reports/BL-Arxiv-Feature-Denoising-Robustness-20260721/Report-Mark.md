@@ -74,15 +74,15 @@ Important limits remain: feature noise is visualized but not quantitatively defi
 ## Related DEP Entries
 
 1. `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md
    - Relevance: Both works treat adversarial training as the main robustness engine and ask how model internals or targets should change under perturbation. The related DEP adds robust-overfitting, teacher calibration, and threat-transfer controls that the 2019 feature-denoising evaluation lacks.
    - Source basis: Its reviewed primary paper, *Label Noise in Adversarial Training*, including PGD/AutoAttack tables and the KD-AT-Auto method.
 2. `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness/vit_semantic_robustness_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness/vit_semantic_robustness_manuscript.md
    - Relevance: Both center representation geometry rather than output accuracy alone. Feature denoising attempts to suppress adversarial activation noise; PRM deliberately moves embeddings under bounded pixel changes, providing a complementary representation-level stress test.
    - Source basis: Its reviewed primary paper, *Are Vision Transformer Representations Semantically Meaningful?*, including representation-matching equations and Tables I-III.
 3. `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md
    - Relevance: Both translate filtering into trainable feature-space architecture and compare local versus global/non-local mixing. AFIDAF's image/Fourier allocation also highlights the need for parameter-, FLOP-, latency-, and task-matched controls.
    - Source basis: Its reviewed primary AFIDAF paper, especially the AFFNet/IDAF/AFIDAF controlled comparisons and downstream dense-prediction tables.
 

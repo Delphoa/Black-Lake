@@ -97,7 +97,7 @@ The selected paper contributes a acrofod, adaptive, cross-domain perspective. Th
 - https://arxiv.org/html/2209.10904 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.10904 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.10904 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-NLP-AKG%20Few-Shot - related DEP: NLP-AKG Few-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-NLP-AKG Few-Shot/nlp_akg_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-NLP-AKG%20Few-Shot - related DEP: NLP-AKG Few-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-NLP-AKG Few-Shot/nlp_akg_few_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -97,7 +97,7 @@ The selected paper contributes a human, optimization, physical perspective. The 
 - https://arxiv.org/html/2309.14761 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.14761 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.14761 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, classical, component perspective. Th
 - https://arxiv.org/html/2010.08626 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.08626 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.08626 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

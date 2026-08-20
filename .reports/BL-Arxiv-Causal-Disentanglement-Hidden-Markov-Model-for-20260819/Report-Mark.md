@@ -98,7 +98,7 @@ The selected paper contributes a causal, diagnosis, disentanglement perspective.
 - https://arxiv.org/html/2308.03027 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.03027 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.03027 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Inference%20of%20collective - related DEP: Inference of collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Inference of collective/inference_of_collective_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Inference%20of%20collective - related DEP: Inference of collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Inference of collective/inference_of_collective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

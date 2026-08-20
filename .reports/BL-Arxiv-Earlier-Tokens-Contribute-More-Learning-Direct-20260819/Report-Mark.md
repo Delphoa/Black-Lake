@@ -98,7 +98,7 @@ The selected paper contributes a contribute, decay, direct perspective. The thre
 - https://arxiv.org/html/2502.14340 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.14340 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.14340 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Survey%20of%20Direct - related DEP: A Survey of Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey of Direct/a_survey_of_direct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SDPO%20Segment-Level%20Direct - related DEP: SDPO Segment-Level Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SDPO Segment-Level Direct/sdpo_segment_level_direct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Survey%20of%20Direct - related DEP: A Survey of Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Survey of Direct/a_survey_of_direct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SDPO%20Segment-Level%20Direct - related DEP: SDPO Segment-Level Direct - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SDPO Segment-Level Direct/sdpo_segment_level_direct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

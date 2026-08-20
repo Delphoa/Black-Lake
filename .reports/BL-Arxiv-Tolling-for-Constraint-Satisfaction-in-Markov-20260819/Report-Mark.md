@@ -98,7 +98,7 @@ The selected paper contributes a congestion, constraint, decision perspective. T
 - https://arxiv.org/html/1903.00747 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1903.00747 - verified primary PDF; local copy withheld.
 - https://doi.org/10.23919/ACC.2019.8814925 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

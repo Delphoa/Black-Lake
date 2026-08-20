@@ -60,9 +60,9 @@ The evidence boundary is material. No code, raw figure values, seed schedule, co
 
 ## Related DEP Entries
 
-1. [Multi-Point ISAC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Multi-Point%20ISAC/multi_point_isac_manuscript.md) - distributed wireless coordination, coupled role/power allocation, and simulation evidence provide the closest non-RL systems comparison.
-2. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) - digital-twin testing, typed actions, authorization, monitoring, and rollback turn telecom AI into a guarded policy pipeline.
-3. [GPMD Regularized RL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md) - regularization geometry and explicit approximation-error floors sharpen the convergence questions left open by NVR-MAPPO.
+1. [Multi-Point ISAC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Multi-Point%20ISAC/multi_point_isac_manuscript.md) - distributed wireless coordination, coupled role/power allocation, and simulation evidence provide the closest non-RL systems comparison.
+2. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) - digital-twin testing, typed actions, authorization, monitoring, and rollback turn telecom AI into a guarded policy pipeline.
+3. [GPMD Regularized RL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md) - regularization geometry and explicit approximation-error floors sharpen the convergence questions left open by NVR-MAPPO.
 
 ## Validation Notes
 
@@ -171,9 +171,9 @@ This intentionally reports valid-run count with the mean so constraint failures 
 - Source URL: https://doi.org/10.48550/arXiv.2502.19675
   - Applies to: persistent identity.
   - Notes: arXiv-issued DOI.
-- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Multi-Point%20ISAC/multi_point_isac_manuscript.md
+- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Multi-Point%20ISAC/multi_point_isac_manuscript.md
   - Applies to: distributed wireless allocation synthesis.
-- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md
+- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md
   - Applies to: telecom AI operations and governance synthesis.
-- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+- Related source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
   - Applies to: policy-regularization and convergence synthesis.

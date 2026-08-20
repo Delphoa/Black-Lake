@@ -98,7 +98,7 @@ The selected paper contributes a arms, bandit-guided, chunks perspective. The th
 - https://arxiv.org/html/2508.13993 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.13993 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.13993 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-TIS-DPO%20Token-level - related DEP: TIS-DPO Token-level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TIS-DPO Token-level/tis_dpo_token_level_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Hamming%20Attention - related DEP: Hamming Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Hamming Attention/hamming_attention_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-TIS-DPO%20Token-level - related DEP: TIS-DPO Token-level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TIS-DPO Token-level/tis_dpo_token_level_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Hamming%20Attention - related DEP: Hamming Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Hamming Attention/hamming_attention_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

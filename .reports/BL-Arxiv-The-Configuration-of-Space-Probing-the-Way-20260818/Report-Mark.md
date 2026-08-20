@@ -97,7 +97,7 @@ The selected paper contributes a affected, communication, configuration perspect
 - https://arxiv.org/html/2602.12771 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.12771 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.12771 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

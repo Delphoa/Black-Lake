@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, majorization-minimization, nonconvex
 - https://arxiv.org/html/2106.13683 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2106.13683 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2106.13683 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Learned%20Proximal - related DEP: A Learned Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Learned Proximal/a_learned_proximal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Learned%20Proximal - related DEP: A Learned Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Learned Proximal/a_learned_proximal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

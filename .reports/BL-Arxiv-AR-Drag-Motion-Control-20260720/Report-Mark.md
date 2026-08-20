@@ -107,9 +107,9 @@ Exactly three current repository entries were selected:
 
 | Entry | Concrete Relevance | Source Basis |
 |---|---|---|
-| [VideoWeave Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) | Both methods distill video diffusion into a few-step student and inject training-time structure that should survive at inference. VideoWeave targets geometry latents; AR-Drag targets sequential history and trajectories. | Review of [arXiv:2606.14162](https://arxiv.org/abs/2606.14162) and its official project context |
-| [PackForcing Video](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md) | Both govern autoregressive-video KV history and confront compounding long-horizon errors. PackForcing bounds and compresses history; AR-Drag uses generated history to align training with inference. | Review of [arXiv:2603.25730v1](https://arxiv.org/abs/2603.25730v1) and author-linked code context |
-| [ISPA Video Memory](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md) | Both treat historical video context as a resource-constrained state. ISPA absorbs context into temporary parameters; AR-Drag retains a bounded generated-frame KV cache. | Review of [arXiv:2607.00712v1](https://arxiv.org/abs/2607.00712v1) |
+| [VideoWeave Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) | Both methods distill video diffusion into a few-step student and inject training-time structure that should survive at inference. VideoWeave targets geometry latents; AR-Drag targets sequential history and trajectories. | Review of [arXiv:2606.14162](https://arxiv.org/abs/2606.14162) and its official project context |
+| [PackForcing Video](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md) | Both govern autoregressive-video KV history and confront compounding long-horizon errors. PackForcing bounds and compresses history; AR-Drag uses generated history to align training with inference. | Review of [arXiv:2603.25730v1](https://arxiv.org/abs/2603.25730v1) and author-linked code context |
+| [ISPA Video Memory](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md) | Both treat historical video context as a resource-constrained state. ISPA absorbs context into temporary parameters; AR-Drag retains a bounded generated-frame KV cache. | Review of [arXiv:2607.00712v1](https://arxiv.org/abs/2607.00712v1) |
 
 ## Synthesis Note
 
@@ -215,11 +215,11 @@ def rank_disagreement(train: list[float], audit: list[float]) -> bool:
 - Official project page: https://kesenzhao.github.io/AR-Drag.github.io/
 - ICLR 2026 poster record: https://iclr.cc/virtual/2026/poster/10011557
 - OpenReview forum locator: https://openreview.net/forum?id=4Q55RwYte9
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
 - Related paper: https://arxiv.org/abs/2606.14162
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-PackForcing%20Video/2603.25730-whitepaper-review.md
 - Related paper: https://arxiv.org/abs/2603.25730v1
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-ISPA%20Video%20Memory/2607.00712-whitepaper-review.md
 - Related paper: https://arxiv.org/abs/2607.00712v1
 - Repository authority: https://github.com/Delphoa/Black-Lake/blob/main/README.md
 - DEP filing authority: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/README.md

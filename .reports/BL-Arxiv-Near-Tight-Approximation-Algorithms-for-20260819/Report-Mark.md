@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, approximation, bottleneck perspecti
 - https://arxiv.org/html/2605.05233 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.05233 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.05233 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Rauzy%20Neighbors - related DEP: Rauzy Neighbors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Rauzy Neighbors/rauzy_neighbors_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Rauzy%20Neighbors - related DEP: Rauzy Neighbors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Rauzy Neighbors/rauzy_neighbors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a base, design, fine-grained perspective. The thr
 - https://arxiv.org/html/2507.15336 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.15336 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.15336 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-TDR%20Task-Decoupled - related DEP: TDR Task-Decoupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TDR Task-Decoupled/tdr_task_decoupled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-TDR%20Task-Decoupled - related DEP: TDR Task-Decoupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TDR Task-Decoupled/tdr_task_decoupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

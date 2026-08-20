@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, applications, color perspective. The
 - https://arxiv.org/html/2005.01299 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2005.01299 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2005.01299 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-EnsIR%20An%20Ensemble - related DEP: EnsIR An Ensemble - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EnsIR An Ensemble/ensir_an_ensemble_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-EnsIR%20An%20Ensemble - related DEP: EnsIR An Ensemble - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EnsIR An Ensemble/ensir_an_ensemble_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

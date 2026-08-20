@@ -98,7 +98,7 @@ The selected paper contributes a optimization, oracles, proximal perspective. Th
 - https://arxiv.org/html/2404.02239 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.02239 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.02239 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Learned%20Proximal - related DEP: A Learned Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Learned Proximal/a_learned_proximal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Curriculum%20Proximal - related DEP: Curriculum Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Curriculum Proximal/curriculum_proximal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Mission%20schedule%20of%20agile - related DEP: Mission schedule of agile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mission schedule of agile/mission_schedule_of_agile_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Learned%20Proximal - related DEP: A Learned Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Learned Proximal/a_learned_proximal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Curriculum%20Proximal - related DEP: Curriculum Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Curriculum Proximal/curriculum_proximal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Mission%20schedule%20of%20agile - related DEP: Mission schedule of agile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mission schedule of agile/mission_schedule_of_agile_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a computing, design, edge perspective. The three 
 - https://arxiv.org/html/1802.03906 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1802.03906 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1802.03906 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Analysis%20and%20Optimization - related DEP: Analysis and Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Analysis and Optimization/analysis_and_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

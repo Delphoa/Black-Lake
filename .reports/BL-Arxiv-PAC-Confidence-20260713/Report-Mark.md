@@ -141,13 +141,13 @@ def shield(p_risk_upper, budget, state_fresh, cbf_feasible, fallback_ready):
   - Applies to: ICLR 2021 poster status, authors, abstract, keywords, and venue dates.
   - Notes: Official venue record.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: formal safe-planning and system-boundary synthesis.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
   - Applies to: efficient visual inference, calibration, and fail-safe inspection synthesis.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md
   - Applies to: OOD, shift monitoring, anomaly threshold, and calibration synthesis.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md
   - Applies to: repository layout, DEP-E naming, README, attribution, and commit standards.

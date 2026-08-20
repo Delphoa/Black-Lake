@@ -98,7 +98,7 @@ The selected paper contributes a automated, graphs, knowledge perspective. The t
 - https://arxiv.org/html/2501.08897 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.08897 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1002/marc.202500065 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Exploring%20the%20Potential - related DEP: Exploring the Potential - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Exploring the Potential/exploring_the_potential_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-AKB-48%20Articulation - related DEP: AKB-48 Articulation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AKB-48 Articulation/akb48_articulation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Exploring%20the%20Potential - related DEP: Exploring the Potential - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Exploring the Potential/exploring_the_potential_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-AKB-48%20Articulation - related DEP: AKB-48 Articulation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AKB-48 Articulation/akb48_articulation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

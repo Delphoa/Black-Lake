@@ -98,7 +98,7 @@ The selected paper contributes a bilateral, estimation, fusion perspective. The 
 - https://arxiv.org/html/1904.01417 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1904.01417 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1904.01417 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PIS%20A%20Generalized - related DEP: PIS A Generalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PIS A Generalized/pis_a_generalized_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Quantum%20SMT%20Solver%20for - related DEP: A Quantum SMT Solver for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Quantum SMT Solver for/a_quantum_smt_solver_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PIS%20A%20Generalized - related DEP: PIS A Generalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PIS A Generalized/pis_a_generalized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Quantum%20SMT%20Solver%20for - related DEP: A Quantum SMT Solver for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Quantum SMT Solver for/a_quantum_smt_solver_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

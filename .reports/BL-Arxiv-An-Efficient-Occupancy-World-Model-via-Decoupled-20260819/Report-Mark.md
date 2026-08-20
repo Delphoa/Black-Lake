@@ -98,7 +98,7 @@ The selected paper contributes a decoupled, dynamic, flow perspective. The three
 - https://arxiv.org/html/2412.13772 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.13772 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.13772 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

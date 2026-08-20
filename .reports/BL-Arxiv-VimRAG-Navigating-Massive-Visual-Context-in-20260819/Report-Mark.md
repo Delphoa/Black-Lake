@@ -98,7 +98,7 @@ The selected paper contributes a context, generation, graph perspective. The thr
 - https://arxiv.org/html/2602.12735 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.12735 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.12735 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Retrieval-Augmented - related DEP: Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Retrieval-Augmented/retrieval_augmented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Breaking%20the%20Static%20Graph - related DEP: Breaking the Static Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Breaking the Static Graph/breaking_the_static_graph_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Retrieval-Augmented - related DEP: Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Retrieval-Augmented/retrieval_augmented_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

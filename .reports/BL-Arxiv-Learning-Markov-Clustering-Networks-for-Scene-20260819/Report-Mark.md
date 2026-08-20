@@ -98,7 +98,7 @@ The selected paper contributes a clustering, detection, markov perspective. The 
 - https://arxiv.org/html/1805.08365 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1805.08365 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1805.08365 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-SCAN%20Enhance%20Time%20Series - related DEP: SCAN Enhance Time Series - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAN Enhance Time Series/scan_enhance_time_series_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

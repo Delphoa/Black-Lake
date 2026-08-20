@@ -95,7 +95,7 @@ The selected paper contributes a audio-video, cinematic, diagnosing perspective.
 - https://arxiv.org/html/2605.28035 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.28035 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.28035 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-UnityShots%20Memory-Driven - related DEP: UnityShots Memory-Driven Multi-S - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Voice%20Evaluation%20of - related DEP: Voice Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of/voice_evaluation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-UnityShots%20Memory-Driven - related DEP: UnityShots Memory-Driven Multi-S - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-UnityShots Memory-Driven/unityshots_memory_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Voice%20Evaluation%20of - related DEP: Voice Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of/voice_evaluation_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

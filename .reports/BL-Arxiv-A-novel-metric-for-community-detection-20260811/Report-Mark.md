@@ -95,7 +95,7 @@ The selected paper contributes a community, detection, metric perspective. The t
 - https://arxiv.org/html/1909.12467 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1909.12467 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1209/0295-5075/129/68002 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Network%20Analysis - related DEP: Network Analysis Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Network Analysis/network_analysis_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

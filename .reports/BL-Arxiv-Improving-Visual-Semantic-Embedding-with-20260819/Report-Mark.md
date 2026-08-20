@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, embedding, improving perspective. The
 - https://arxiv.org/html/2210.02206 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.02206 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.02206 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

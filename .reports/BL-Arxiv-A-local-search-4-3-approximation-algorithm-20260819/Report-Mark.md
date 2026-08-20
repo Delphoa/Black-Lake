@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, approximation, minimum perspective. 
 - https://arxiv.org/html/1812.09353 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1812.09353 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1812.09353 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Dual-mode%20Local%20Search - related DEP: A Dual-mode Local Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Dual-mode Local Search/a_dual_mode_local_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Dual-mode%20Local%20Search - related DEP: A Dual-mode Local Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Dual-mode Local Search/a_dual_mode_local_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

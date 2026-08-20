@@ -98,7 +98,7 @@ The selected paper contributes a complexity, heavy-tailed, noise perspective. Th
 - https://arxiv.org/html/2602.13413 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.13413 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.13413 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-4%20Adic%20Complexity - related DEP: 4 Adic Complexity Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity/4_adic_complexity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-4%20Adic%20Complexity - related DEP: 4 Adic Complexity Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity/4_adic_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

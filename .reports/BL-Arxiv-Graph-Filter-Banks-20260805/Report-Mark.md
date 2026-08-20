@@ -41,9 +41,9 @@ The source gate was applied before review. The local paper unit was initially pa
 
 Exactly three related entries were selected for concrete conceptual overlap:
 
-1. [DEP-A-20260802-Group Graph Fourier](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260802-Group%20Graph%20Fourier/2607.13338-whitepaper-review.md) - alternate graph Fourier construction with explicit harmonic-analysis invariants; it provides a direct contrast to Laplacian-band filtering and highlights the importance of basis and substrate assumptions.
-2. [DEP-A-20260726-SPIN Spectral Search](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md) - uses graph Laplacian energy as a retrieval signal; it connects the paper's spectral-band representation to downstream ranking and decision surfaces.
-3. [DEP-E-20260709-SANE Embeddings](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings/sane_embeddings_manuscript.md) - combines topology and attributes in a scalable graph representation; it provides a neighboring allocation problem in which locality, scale, and graph structure must remain visible.
+1. [DEP-A-20260802-Group Graph Fourier](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260802-Group%20Graph%20Fourier/2607.13338-whitepaper-review.md) - alternate graph Fourier construction with explicit harmonic-analysis invariants; it provides a direct contrast to Laplacian-band filtering and highlights the importance of basis and substrate assumptions.
+2. [DEP-A-20260726-SPIN Spectral Search](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md) - uses graph Laplacian energy as a retrieval signal; it connects the paper's spectral-band representation to downstream ranking and decision surfaces.
+3. [DEP-E-20260709-SANE Embeddings](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings/sane_embeddings_manuscript.md) - combines topology and attributes in a scalable graph representation; it provides a neighboring allocation problem in which locality, scale, and graph structure must remain visible.
 
 ## Synthesis Note
 
@@ -173,11 +173,11 @@ print({"nmse": error, "decision": decision})
 - Source URL: https://doi.org/10.1109/TSP.2019.2923142
   - Applies to: journal-publication metadata.
   - Notes: IEEE journal DOI.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260802-Group%20Graph%20Fourier/2607.13338-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260802-Group%20Graph%20Fourier/2607.13338-whitepaper-review.md
   - Applies to: related-entry bridge on graph Fourier structure.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-SPIN%20Spectral%20Search/2606.21535-whitepaper-review.md
   - Applies to: related-entry bridge on graph spectral retrieval.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings/sane_embeddings_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings/sane_embeddings_manuscript.md
   - Applies to: related-entry bridge on scalable graph representations.
 - Source files: withheld locally; no original PDF, HTML, metadata page, source package, cache, extracted text, rendering, provenance record, or verification report is redistributed.
   - Applies to: this Report-Mark and the deposited manuscript.

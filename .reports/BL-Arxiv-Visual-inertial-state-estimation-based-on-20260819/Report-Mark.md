@@ -98,7 +98,7 @@ The selected paper contributes a chebyshev, estimation, optimization perspective
 - https://arxiv.org/html/2404.01150 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.01150 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.01150 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

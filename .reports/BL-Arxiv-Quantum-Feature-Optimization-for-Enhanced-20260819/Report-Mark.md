@@ -98,7 +98,7 @@ The selected paper contributes a blockchain, clustering, enhanced perspective. T
 - https://arxiv.org/html/2505.16672 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.16672 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.16672 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Quantum%20optimization%20with - related DEP: Quantum optimization with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum optimization with/quantum_optimization_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum%20optimization%20with - related DEP: Quantum optimization with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum optimization with/quantum_optimization_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

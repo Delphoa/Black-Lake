@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, calculation, discharge perspective. 
 - https://arxiv.org/html/1710.05781 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1710.05781 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TMAG.2017.2756991 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Viability%20of - related DEP: Improving Viability of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Viability of/improving_viability_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Viability%20of - related DEP: Improving Viability of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Viability of/improving_viability_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

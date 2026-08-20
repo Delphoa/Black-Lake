@@ -98,7 +98,7 @@ The selected paper contributes a human-inspired, long-term, memory perspective. 
 - https://arxiv.org/html/2411.00489 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.00489 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.00489 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Explore%20with%20Long-term - related DEP: Explore with Long-term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Explore with Long-term/explore_with_long_term_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-MemShot%20Dialogue%20Memory - related DEP: MemShot Dialogue Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-MemShot Dialogue Memory/memshot_dialogue_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Explore%20with%20Long-term - related DEP: Explore with Long-term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Explore with Long-term/explore_with_long_term_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

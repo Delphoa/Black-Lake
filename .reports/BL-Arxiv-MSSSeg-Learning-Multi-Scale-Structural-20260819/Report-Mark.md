@@ -98,7 +98,7 @@ The selected paper contributes a complexity, mssseg, multi-scale perspective. Th
 - https://arxiv.org/html/2512.23997 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.23997 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.23997 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-DWRSeg%20Rethinking - related DEP: DWRSeg Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-DWRSeg Rethinking/dwrseg_rethinking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Self-supervised%20TransUNet - related DEP: Self-supervised TransUNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Self-supervised TransUNet/self_supervised_transunet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-DWRSeg%20Rethinking - related DEP: DWRSeg Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-DWRSeg Rethinking/dwrseg_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Self-supervised%20TransUNet - related DEP: Self-supervised TransUNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Self-supervised TransUNet/self_supervised_transunet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Dehomogenized%203D%20Topology - related DEP: 3D Dehomogenization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Dehomogenized 3D Topology/dehomogenized_3d_topology_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

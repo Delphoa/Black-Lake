@@ -98,7 +98,7 @@ The selected paper contributes a ambiguity-clearness, graph, multi-object perspe
 - https://arxiv.org/html/1511.08913 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1511.08913 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1511.08913 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DRMOT%20Tracking - related DEP: DRMOT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DRMOT Tracking/drmot_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Payload%20trajectory - related DEP: Payload trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Payload trajectory/payload_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-DRMOT%20Tracking - related DEP: DRMOT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DRMOT Tracking/drmot_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Payload%20trajectory - related DEP: Payload trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Payload trajectory/payload_trajectory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

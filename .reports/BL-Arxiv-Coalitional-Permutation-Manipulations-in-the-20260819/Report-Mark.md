@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, coalitional, gale-shapley perspectiv
 - https://arxiv.org/html/1502.07823 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1502.07823 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1502.07823 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Theoretical%20and%20Empirical - related DEP: Theoretical and Empirical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Theoretical and Empirical/theoretical_and_empirical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Theoretical%20and%20Empirical - related DEP: Theoretical and Empirical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Theoretical and Empirical/theoretical_and_empirical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

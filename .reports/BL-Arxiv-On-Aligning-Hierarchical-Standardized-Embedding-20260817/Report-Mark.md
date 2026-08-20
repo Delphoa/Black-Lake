@@ -95,7 +95,7 @@ The selected paper contributes a aligning, audio-visual, embedding perspective. 
 - https://arxiv.org/html/2606.11602 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.11602 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.11602 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

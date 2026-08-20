@@ -98,7 +98,7 @@ The selected paper contributes a dynamical, emulators, informed perspective. The
 - https://arxiv.org/html/2603.10987 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.10987 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.10987 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20Multi-layer - related DEP: Learning Multi-layer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Multi-layer/learning_multi_layer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20Multi-layer - related DEP: Learning Multi-layer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Multi-layer/learning_multi_layer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

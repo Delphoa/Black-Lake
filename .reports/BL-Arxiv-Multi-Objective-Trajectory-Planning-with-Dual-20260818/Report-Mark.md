@@ -97,7 +97,7 @@ The selected paper contributes a dual-encoder, multi-objective, planning perspec
 - https://arxiv.org/html/2403.17353 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.17353 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.17353 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

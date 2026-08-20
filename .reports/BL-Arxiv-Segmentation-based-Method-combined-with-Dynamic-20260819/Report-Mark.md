@@ -98,7 +98,7 @@ The selected paper contributes a brain, combined, delineation perspective. The t
 - https://arxiv.org/html/2002.11918 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2002.11918 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2002.11918 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Few-Shot%20Continual - related DEP: Few-Shot Continual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Few-Shot Continual/few_shot_continual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-BraTS-PEDs%20Results%20of%20the - related DEP: BraTS-PEDs Results of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-BraTS-PEDs Results of the/brats_peds_results_of_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Few-Shot%20Continual - related DEP: Few-Shot Continual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Few-Shot Continual/few_shot_continual_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a advancing, context-aware, embodied perspective.
 - https://arxiv.org/html/2509.21790 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.21790 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.21790 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RoboHorizon%20An - related DEP: RoboHorizon An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboHorizon An/robohorizon_an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Aerial%20World%20Model%20for - related DEP: Aerial World Model for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Aerial World Model for/aerial_world_model_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Imaginative%20World - related DEP: Imaginative World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Imaginative World/imaginative_world_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RoboHorizon%20An - related DEP: RoboHorizon An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboHorizon An/robohorizon_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Aerial%20World%20Model%20for - related DEP: Aerial World Model for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Aerial World Model for/aerial_world_model_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Imaginative%20World - related DEP: Imaginative World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Imaginative World/imaginative_world_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

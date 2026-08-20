@@ -98,7 +98,7 @@ The selected paper contributes a belief, convergence, distributed perspective. T
 - https://arxiv.org/html/1611.02010 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1611.02010 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1611.02010 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Convergence%20Analysis%20and - related DEP: Convergence Analysis and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Convergence Analysis and/convergence_analysis_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Distributed%20Clock%20Skew - related DEP: Distributed Clock Skew - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Clock Skew/distributed_clock_skew_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Inference%20of%20collective - related DEP: Inference of collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Inference of collective/inference_of_collective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Convergence%20Analysis%20and - related DEP: Convergence Analysis and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Convergence Analysis and/convergence_analysis_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Distributed%20Clock%20Skew - related DEP: Distributed Clock Skew - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Clock Skew/distributed_clock_skew_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Inference%20of%20collective - related DEP: Inference of collective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Inference of collective/inference_of_collective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

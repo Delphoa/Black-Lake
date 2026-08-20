@@ -95,7 +95,7 @@ The selected paper contributes a agentic, compositional, design perspective. The
 - https://arxiv.org/html/2510.14980 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.14980 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.14980 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

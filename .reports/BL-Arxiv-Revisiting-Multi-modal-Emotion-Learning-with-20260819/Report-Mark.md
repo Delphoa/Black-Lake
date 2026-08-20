@@ -98,7 +98,7 @@ The selected paper contributes a broad, emotion, fusion perspective. The three r
 - https://arxiv.org/html/2404.17858 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.17858 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.17858 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Revisiting%20Trace%20Norm - related DEP: Revisiting Trace Norm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Revisiting Trace Norm/revisiting_trace_norm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Revisiting%20Trace%20Norm - related DEP: Revisiting Trace Norm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Revisiting Trace Norm/revisiting_trace_norm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

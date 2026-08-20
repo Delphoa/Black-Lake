@@ -195,14 +195,14 @@ Run this only on synthetic/public examples or authorized retrospective data; pai
   - Applies to: `Report-Mark.md`
   - Notes: Live companion-repository authority used for dedup context.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related multimodal probing and relation-evidence synthesis; source basis arXiv:2005.07310.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related visual grounding, hallucination, and coverage synthesis; source basis arXiv:2505.15963.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related paired-visual geometry consistency synthesis; source basis arXiv:2606.14162.

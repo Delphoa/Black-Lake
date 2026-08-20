@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, mass, matrix-valued perspective. The
 - https://arxiv.org/html/1706.08841 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1706.08841 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1706.08841 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20partitioned - related DEP: A partitioned - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A partitioned/a_partitioned_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Convergence%20Analysis%20of - related DEP: Convergence Analysis of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Convergence Analysis of/convergence_analysis_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20and%20Optimal - related DEP: Efficient and Optimal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient and Optimal/efficient_and_optimal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20partitioned - related DEP: A partitioned - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A partitioned/a_partitioned_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Convergence%20Analysis%20of - related DEP: Convergence Analysis of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Convergence Analysis of/convergence_analysis_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20and%20Optimal - related DEP: Efficient and Optimal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient and Optimal/efficient_and_optimal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

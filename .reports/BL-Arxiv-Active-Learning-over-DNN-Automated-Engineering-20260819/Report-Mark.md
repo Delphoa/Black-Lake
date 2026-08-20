@@ -98,7 +98,7 @@ The selected paper contributes a active, automated, design perspective. The thre
 - https://arxiv.org/html/2001.08075 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2001.08075 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2001.08075 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

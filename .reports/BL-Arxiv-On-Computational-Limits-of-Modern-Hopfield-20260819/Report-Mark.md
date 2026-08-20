@@ -98,7 +98,7 @@ The selected paper contributes a complexity, computational, fine-grained perspec
 - https://arxiv.org/html/2402.04520 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.04520 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.04520 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

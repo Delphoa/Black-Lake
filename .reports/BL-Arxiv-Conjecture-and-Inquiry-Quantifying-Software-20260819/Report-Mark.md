@@ -98,7 +98,7 @@ The selected paper contributes a conjecture, elicitation, inquiry perspective. T
 - https://arxiv.org/html/2604.21380 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.21380 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.21380 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beyond%20Elicitation - related DEP: Beyond Elicitation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Elicitation/beyond_elicitation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Polydisc%20version%20of - related DEP: Polydisc version of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Polydisc version of/polydisc_version_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beyond%20Elicitation - related DEP: Beyond Elicitation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Elicitation/beyond_elicitation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Polydisc%20version%20of - related DEP: Polydisc version of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Polydisc version of/polydisc_version_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

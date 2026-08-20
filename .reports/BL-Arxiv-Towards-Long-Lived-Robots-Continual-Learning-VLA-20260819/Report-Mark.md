@@ -98,7 +98,7 @@ The selected paper contributes a continual, fine-tuning, long-lived perspective.
 - https://arxiv.org/html/2602.10503 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.10503 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.10503 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Semi-parametric%20Memory - related DEP: Semi-parametric Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Semi-parametric Memory/semi_parametric_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Semi-parametric%20Memory - related DEP: Semi-parametric Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Semi-parametric Memory/semi_parametric_memory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a big-model, continual, driven perspective. The t
 - https://arxiv.org/html/2309.00862 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.00862 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.00862 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Boosting%20Large%20Language - related DEP: Boosting Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting Large Language/boosting_large_language_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn%20A%204%2066%20TFLOPS%20W - related DEP: Clo-HDnn A 4 66 TFLOPS W - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W/clo_hdnn_a_4_66_tflops_w_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Boosting%20Large%20Language - related DEP: Boosting Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting Large Language/boosting_large_language_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Clo-HDnn%20A%204%2066%20TFLOPS%20W - related DEP: Clo-HDnn A 4 66 TFLOPS W - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W/clo_hdnn_a_4_66_tflops_w_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

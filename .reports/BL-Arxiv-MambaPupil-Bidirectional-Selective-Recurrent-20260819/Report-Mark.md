@@ -98,7 +98,7 @@ The selected paper contributes a bidirectional, event-based, eye perspective. Th
 - https://arxiv.org/html/2404.12083 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.12083 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.12083 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-From%20Sim-to-Real%20Toward - related DEP: From Sim-to-Real Toward - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Sim-to-Real Toward/from_sim_to_real_toward_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-From%20Sim-to-Real%20Toward - related DEP: From Sim-to-Real Toward - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Sim-to-Real Toward/from_sim_to_real_toward_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

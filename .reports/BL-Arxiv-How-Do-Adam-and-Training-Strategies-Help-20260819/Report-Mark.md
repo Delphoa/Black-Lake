@@ -98,7 +98,7 @@ The selected paper contributes a adam, bnns, help perspective. The three related
 - https://arxiv.org/html/2106.11309 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2106.11309 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2106.11309 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Federated%20Split%20Learning - related DEP: Federated Split Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Split Learning/federated_split_learning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Federated%20Split%20Learning - related DEP: Federated Split Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Split Learning/federated_split_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

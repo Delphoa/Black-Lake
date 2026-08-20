@@ -98,7 +98,7 @@ The selected paper contributes a arbitrary, conditioned, flow perspective. The t
 - https://arxiv.org/html/2512.13732 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.13732 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.13732 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Unveil%20Inversion%20and - related DEP: Unveil Inversion and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Unveil Inversion and/unveil_inversion_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Unveil%20Inversion%20and - related DEP: Unveil Inversion and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Unveil Inversion and/unveil_inversion_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

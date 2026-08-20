@@ -40,9 +40,9 @@ The paper's own evidence supports a plausible mechanism and reports strong metri
 
 ## Related DEP Entries
 
-1. [Hallo4 Portrait Motion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260721-Hallo4%20Portrait%20Motion/hallo4_portrait_motion_manuscript.md) - directly overlaps portrait animation, audio-conditioned motion, temporal representation, preference alignment, identity preservation, and synthetic-media safety. Source basis: the live manuscript's method, metric, and reproducibility sections.
-2. [MoGIC Boosting Motion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion/mogic_boosting_motion_manuscript.md) - overlaps the translation of intention or high-level descriptions into motion, with explicit planning and evaluation boundaries. Source basis: the live manuscript's problem, mechanism, and safe implementation sections.
-3. [VideoWeave Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) - overlaps latent video conditioning, temporal consistency, geometry-aware controls, and the need for evaluation beyond visual appeal. Source basis: the live manuscript's method, metric, and deployment-boundary sections.
+1. [Hallo4 Portrait Motion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Hallo4%20Portrait%20Motion/hallo4_portrait_motion_manuscript.md) - directly overlaps portrait animation, audio-conditioned motion, temporal representation, preference alignment, identity preservation, and synthetic-media safety. Source basis: the live manuscript's method, metric, and reproducibility sections.
+2. [MoGIC Boosting Motion](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion/mogic_boosting_motion_manuscript.md) - overlaps the translation of intention or high-level descriptions into motion, with explicit planning and evaluation boundaries. Source basis: the live manuscript's problem, mechanism, and safe implementation sections.
+3. [VideoWeave Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) - overlaps latent video conditioning, temporal consistency, geometry-aware controls, and the need for evaluation beyond visual appeal. Source basis: the live manuscript's method, metric, and deployment-boundary sections.
 
 ## Synthesis Note
 

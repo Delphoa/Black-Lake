@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, nonnegative, optimization perspectiv
 - https://arxiv.org/html/2511.03443 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.03443 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.03443 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20parallel%20structured - related DEP: A parallel structured - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A parallel structured/a_parallel_structured_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20parallel%20structured - related DEP: A parallel structured - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A parallel structured/a_parallel_structured_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

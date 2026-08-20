@@ -98,7 +98,7 @@ The selected paper contributes a generation, retrieval-augmented, survey perspec
 - https://arxiv.org/html/2409.10102 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.10102 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.10102 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Evaluation%20of - related DEP: Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Evaluation of/evaluation_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RAGPerf%20An%20End-to-End - related DEP: RAGPerf An End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAGPerf An End-to-End/ragperf_an_end_to_end_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Evaluation%20of - related DEP: Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Evaluation of/evaluation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RAGPerf%20An%20End-to-End - related DEP: RAGPerf An End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAGPerf An End-to-End/ragperf_an_end_to_end_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

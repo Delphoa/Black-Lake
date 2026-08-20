@@ -98,7 +98,7 @@ The selected paper contributes a contrastive, personalized, pssl perspective. Th
 - https://arxiv.org/html/2111.12614 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2111.12614 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2111.12614 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Contrastive%20Neural - related DEP: Contrastive Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Contrastive Neural/contrastive_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Contrastive%20Neural - related DEP: Contrastive Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Contrastive Neural/contrastive_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, gaussian, inference perspective. Th
 - https://arxiv.org/html/2308.14985 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.14985 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.14985 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Hyperbolic%20Catenaries - related DEP: Hyperbolic Catenaries - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Hyperbolic%20Catenaries - related DEP: Hyperbolic Catenaries - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Hyperbolic Catenaries/hyperbolic_catenaries_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

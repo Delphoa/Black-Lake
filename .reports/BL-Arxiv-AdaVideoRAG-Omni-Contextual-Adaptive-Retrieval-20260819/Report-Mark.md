@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, adavideorag, long perspective. The th
 - https://arxiv.org/html/2506.13589 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.13589 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.13589 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scaling%20the%20Long%20Video - related DEP: Scaling the Long Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling the Long Video/scaling_the_long_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scaling%20the%20Long%20Video - related DEP: Scaling the Long Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling the Long Video/scaling_the_long_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

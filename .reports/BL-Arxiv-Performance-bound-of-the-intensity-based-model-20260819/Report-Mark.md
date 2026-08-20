@@ -98,7 +98,7 @@ The selected paper contributes a bound, intensity-based, noisy perspective. The 
 - https://arxiv.org/html/2004.08764 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2004.08764 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2004.08764 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20performance%20of%20the - related DEP: The performance of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The performance of the/the_performance_of_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Noisy%20Poisson%20Inference - related DEP: Noisy Poisson Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference/noisy_poisson_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20performance%20of%20the - related DEP: The performance of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The performance of the/the_performance_of_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Noisy%20Poisson%20Inference - related DEP: Noisy Poisson Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Noisy Poisson Inference/noisy_poisson_inference_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -27,15 +27,15 @@ On the paper's test set, the reported HOTA is 33.24 for DRTrack versus 15.13 for
 | E3 | [full-paper HTML](https://arxiv.org/html/2602.04692) | Equations for format/IoU reward, RGBD similarity, association cost, and implementation settings. | High-confidence mechanism reconstruction. |
 | E4 | [full-paper HTML](https://arxiv.org/html/2602.04692) | Tables 3–5, HOTA/DetA/AssA results, depth ablation, GRPO ablation, and alpha sensitivity. | High-confidence transcription; medium generalization confidence. |
 | E5 | [official repository](https://github.com/chen-si-jia/DRMOT) | Public release state, README promise, asset, and license. | Medium-confidence implementation availability; code was not executed. |
-| E6 | [FEMOT Tracking DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking/femot_tracking_manuscript.md) | Multimodal tracking, association metrics, sensor fusion, and governance boundaries. | Related synthesis only; not validation of DRMOT. |
-| E7 | [Language-to-Space DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md) | Language-to-3D grounding and auditable spatial reasoning. | Related synthesis only; no joint experiment. |
-| E8 | [Pixel-Point Transfer DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md) | Calibrated RGB-D correspondence, geometric integrity, and cross-modal transfer. | Related synthesis only; no joint experiment. |
+| E6 | [FEMOT Tracking DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking/femot_tracking_manuscript.md) | Multimodal tracking, association metrics, sensor fusion, and governance boundaries. | Related synthesis only; not validation of DRMOT. |
+| E7 | [Language-to-Space DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md) | Language-to-3D grounding and auditable spatial reasoning. | Related synthesis only; no joint experiment. |
+| E8 | [Pixel-Point Transfer DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md) | Calibrated RGB-D correspondence, geometric integrity, and cross-modal transfer. | Related synthesis only; no joint experiment. |
 
 ## Related DEP Entries
 
-1. [DEP-E-20260720-FEMOT Tracking](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking) — direct overlap on multi-object tracking, multimodal sensor fusion, identity association, HOTA-style evaluation, and governance-aware deployment limits. Basis: E6 manuscript sections on benchmark design, fusion, association, and safe implementation.
-2. [DEP-E-20260727-Language-to-Space](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space) — direct overlap on translating language into 3D spatial grounding and retaining abstention/provenance boundaries. Basis: E7 manuscript source metadata, grounding analysis, and implementation constraints.
-3. [DEP-E-20260718-Pixel Point Transfer](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer) — direct overlap on RGB-D geometry, calibrated correspondence, modality adapters, and tests for projection/depth errors. Basis: E8 manuscript mechanism, correspondence gate, and replication checklist.
+1. [DEP-E-20260720-FEMOT Tracking](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking) — direct overlap on multi-object tracking, multimodal sensor fusion, identity association, HOTA-style evaluation, and governance-aware deployment limits. Basis: E6 manuscript sections on benchmark design, fusion, association, and safe implementation.
+2. [DEP-E-20260727-Language-to-Space](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Language-to-Space) — direct overlap on translating language into 3D spatial grounding and retaining abstention/provenance boundaries. Basis: E7 manuscript source metadata, grounding analysis, and implementation constraints.
+3. [DEP-E-20260718-Pixel Point Transfer](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer) — direct overlap on RGB-D geometry, calibrated correspondence, modality adapters, and tests for projection/depth errors. Basis: E8 manuscript mechanism, correspondence gate, and replication checklist.
 
 ## Synthesis Note
 
@@ -132,11 +132,11 @@ def validate_run(run):
   - Applies to: stable paper identifier.
 - Source URL: https://github.com/chen-si-jia/DRMOT
   - Applies to: official repository availability and license context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking/femot_tracking_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking/femot_tracking_manuscript.md
   - Applies to: E6 and multimodal tracking synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md
   - Applies to: E7 and language-to-space synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
   - Applies to: E8 and RGB-D correspondence synthesis.
 - Source files: withheld locally.
   - Applies to: all Report-Mark sections.

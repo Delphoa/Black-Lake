@@ -97,7 +97,7 @@ The selected paper contributes a algorithm, approximate, core perspective. The t
 - https://arxiv.org/html/2312.01712 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.01712 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.01712 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator/spocta_accelerator_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Latent-IMH%20Efficient - related DEP: Latent-IMH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Latent-IMH Efficient/latent_imh_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator/spocta_accelerator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Latent-IMH%20Efficient - related DEP: Latent-IMH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Latent-IMH Efficient/latent_imh_efficient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a innovation-driven, irnn, modeling perspective. 
 - https://arxiv.org/html/2505.05916 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.05916 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.05916 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-R-Transformer%20Recurrent - related DEP: R-Transformer Recurrent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-Transformer Recurrent/r_transformer_recurrent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-R-Transformer%20Recurrent - related DEP: R-Transformer Recurrent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-Transformer Recurrent/r_transformer_recurrent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

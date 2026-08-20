@@ -98,7 +98,7 @@ The selected paper contributes a augmented, black-box, diffusion perspective. Th
 - https://arxiv.org/html/2605.11246 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.11246 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.11246 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Black-Box%20Prompt - related DEP: Black-Box Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Black-Box Prompt/black_box_prompt_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Black-Box%20Prompt - related DEP: Black-Box Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Black-Box Prompt/black_box_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Distributed%20Evolution - related DEP: Distributed Evolution - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Evolution/distributed_evolution_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

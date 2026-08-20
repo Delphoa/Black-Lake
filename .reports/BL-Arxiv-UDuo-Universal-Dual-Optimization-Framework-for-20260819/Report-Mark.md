@@ -98,7 +98,7 @@ The selected paper contributes a dual, matching, online perspective. The three r
 - https://arxiv.org/html/2505.22243 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.22243 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.22243 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Traceable%20Group-Wise - related DEP: Traceable Group-Wise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Traceable Group-Wise/traceable_group_wise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Payload%20trajectory - related DEP: Payload trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Payload trajectory/payload_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Boosting%20One-Point - related DEP: Boosting One-Point - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting One-Point/boosting_one_point_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Traceable%20Group-Wise - related DEP: Traceable Group-Wise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Traceable Group-Wise/traceable_group_wise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Payload%20trajectory - related DEP: Payload trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Payload trajectory/payload_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Boosting%20One-Point - related DEP: Boosting One-Point - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting One-Point/boosting_one_point_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

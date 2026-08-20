@@ -146,12 +146,12 @@ Dependencies: Python 3.9+ only. These snippets use synthetic metadata or numbers
 - Source URL: https://inspirehep.net/files/6079bd5e0f489200fe499b61fb425df5
   - Applies to: `Report-Mark.md`
   - Notes: Open-access complete journal paper used for version comparison.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-Structure%20Aware%20Systems/structure-aware-systems.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Structure%20Aware%20Systems/structure-aware-systems.md
   - Applies to: `Report-Mark.md`
   - Notes: Related condition-number/quantum-linear-system context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Deep%20ESN%20Memory/deep_esn_memory_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Deep%20ESN%20Memory/deep_esn_memory_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related time-series-memory context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR/irregular_clipped_sr_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR/irregular_clipped_sr_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related structured-regression context.

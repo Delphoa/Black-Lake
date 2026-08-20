@@ -160,9 +160,9 @@ def review_prediction(aggregate_f1, specialized_recall, calibrated, shift_ok):
 - https://arxiv.org/html/2012.04373 - official full-paper HTML route attempted during repair; returned 404 and was not accepted as evidence.
 - https://ar5iv.labs.arxiv.org/html/2012.04373 - approved full-paper HTML fallback; cross-checked against the verified local full-paper document.
 - https://github.com/zliucr/CrossNER - author-linked code and dataset repository; README, dependency notes, sample commands, and license visibility inspected.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-DoubleTransfer%20MEDIQA/doubletransfer_mediqa_manuscript.md - related DEP manuscript used for transfer and distribution-shift synthesis.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260721-Dataset%20Baselines/dataset_baselines_manuscript.md - related DEP manuscript used for dataset and baseline governance synthesis.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md - related DEP manuscript used for benchmark and slice-evaluation synthesis.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DoubleTransfer%20MEDIQA/doubletransfer_mediqa_manuscript.md - related DEP manuscript used for transfer and distribution-shift synthesis.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Dataset%20Baselines/dataset_baselines_manuscript.md - related DEP manuscript used for dataset and baseline governance synthesis.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md - related DEP manuscript used for benchmark and slice-evaluation synthesis.
 - https://github.com/Delphoa/Black-Lake/blob/main/README.md - live repository deposition and public-safety rules.
 - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/README.md - live DEP-E filing and publication-index rules.
 - https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md - live companion-repository context rules.

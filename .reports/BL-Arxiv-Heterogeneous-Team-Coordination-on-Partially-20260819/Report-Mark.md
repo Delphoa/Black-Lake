@@ -98,7 +98,7 @@ The selected paper contributes a communication, coordination, graphs perspective
 - https://arxiv.org/html/2410.22482 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.22482 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.22482 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Weathering%20Ongoing - related DEP: Weathering Ongoing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Weathering Ongoing/weathering_ongoing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Weathering%20Ongoing - related DEP: Weathering Ongoing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Weathering Ongoing/weathering_ongoing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

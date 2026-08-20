@@ -98,7 +98,7 @@ The selected paper contributes a search, agentic, architectures perspective. The
 - https://arxiv.org/html/2601.04703 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.04703 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.04703 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DataSage%20Multi-agent - related DEP: DataSage Multi-agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DataSage Multi-agent/datasage_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DataSage%20Multi-agent - related DEP: DataSage Multi-agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DataSage Multi-agent/datasage_multi_agent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

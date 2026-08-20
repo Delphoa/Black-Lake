@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, compression, dynamic perspective. Th
 - https://arxiv.org/html/2212.14760 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2212.14760 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2212.14760 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scalable%20Algorithm%20for - related DEP: Scalable Algorithm for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Algorithm for/scalable_algorithm_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Depth%20Reconstruction%20from - related DEP: Depth Reconstruction from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Depth Reconstruction from/depth_reconstruction_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scalable%20Algorithm%20for - related DEP: Scalable Algorithm for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Algorithm for/scalable_algorithm_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Depth%20Reconstruction%20from - related DEP: Depth Reconstruction from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Depth Reconstruction from/depth_reconstruction_from_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

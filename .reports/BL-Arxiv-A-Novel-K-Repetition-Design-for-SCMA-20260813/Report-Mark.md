@@ -95,7 +95,7 @@ The selected paper contributes a design, k-repetition, novel perspective. The th
 - https://arxiv.org/html/2205.08149 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2205.08149 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2205.08149 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-A%20novel%20metric%20for - related DEP: A novel metric for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-A novel metric for/a_novel_metric_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-A%20novel%20metric%20for - related DEP: A novel metric for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-A novel metric for/a_novel_metric_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

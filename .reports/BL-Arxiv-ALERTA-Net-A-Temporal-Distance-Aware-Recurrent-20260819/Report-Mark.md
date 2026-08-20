@@ -98,7 +98,7 @@ The selected paper contributes a alerta-net, distance-aware, movement perspectiv
 - https://arxiv.org/html/2310.18706 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.18706 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3625007.3627488 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

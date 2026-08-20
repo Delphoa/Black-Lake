@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, assessment, competency perspective. 
 - https://arxiv.org/html/2606.00200 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.00200 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/FIE63693.2025.11328247 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Utilizing%20the%20LightGBM - related DEP: Utilizing the LightGBM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Utilizing the LightGBM/utilizing_the_lightgbm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Utilizing%20the%20LightGBM - related DEP: Utilizing the LightGBM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Utilizing the LightGBM/utilizing_the_lightgbm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

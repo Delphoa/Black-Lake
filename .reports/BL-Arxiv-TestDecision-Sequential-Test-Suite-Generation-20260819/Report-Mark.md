@@ -98,7 +98,7 @@ The selected paper contributes a generation, greedy, optimization perspective. T
 - https://arxiv.org/html/2604.01799 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.01799 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.01799 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Offline%20Multi-Agent - related DEP: Offline Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Offline Multi-Agent/offline_multi_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Farthest%20Greedy%20Path - related DEP: Farthest Greedy Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Farthest Greedy Path/farthest_greedy_path_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Offline%20Multi-Agent - related DEP: Offline Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Offline Multi-Agent/offline_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Farthest%20Greedy%20Path - related DEP: Farthest Greedy Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Farthest Greedy Path/farthest_greedy_path_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

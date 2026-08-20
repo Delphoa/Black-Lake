@@ -98,7 +98,7 @@ The selected paper contributes a event-based, frame, general perspective. The th
 - https://arxiv.org/html/2406.08090 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.08090 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3680528.3687649 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-RetinaGAN%20Sim-to-Real - related DEP: RetinaGAN Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-RetinaGAN Sim-to-Real/retinagan_sim_to_real_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Shuffled%20Autoregress - related DEP: Shuffled Autoregression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Shuffled Autoregress/shuffled_autoregression_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-RetinaGAN%20Sim-to-Real - related DEP: RetinaGAN Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-RetinaGAN Sim-to-Real/retinagan_sim_to_real_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Shuffled%20Autoregress - related DEP: Shuffled Autoregression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Shuffled Autoregress/shuffled_autoregression_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

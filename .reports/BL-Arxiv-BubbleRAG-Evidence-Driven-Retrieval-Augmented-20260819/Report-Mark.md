@@ -98,7 +98,7 @@ The selected paper contributes a black-box, bubblerag, evidence-driven perspecti
 - https://arxiv.org/html/2603.20309 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.20309 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.20309 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MIRAGE%20Misleading - related DEP: MIRAGE Misleading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MIRAGE Misleading/mirage_misleading_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AtomicRAG%20Atom-Entity - related DEP: AtomicRAG Atom-Entity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AtomicRAG Atom-Entity/atomicrag_atom_entity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MIRAGE%20Misleading - related DEP: MIRAGE Misleading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MIRAGE Misleading/mirage_misleading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AtomicRAG%20Atom-Entity - related DEP: AtomicRAG Atom-Entity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AtomicRAG Atom-Entity/atomicrag_atom_entity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

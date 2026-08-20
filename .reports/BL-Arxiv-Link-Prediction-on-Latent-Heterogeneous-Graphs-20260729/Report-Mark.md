@@ -95,7 +95,7 @@ The selected paper contributes a heterogeneous, latent, information perspective.
 - https://ar5iv.labs.arxiv.org/html/2302.10432 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.10432 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2302.10432 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-MI-Motion%20Review - related DEP: MI-Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-MI-Motion Review/mi_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

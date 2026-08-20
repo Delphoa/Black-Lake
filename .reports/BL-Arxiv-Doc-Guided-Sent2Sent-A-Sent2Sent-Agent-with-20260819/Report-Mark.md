@@ -98,7 +98,7 @@ The selected paper contributes a doc-guided, sent2sent, agent perspective. The t
 - https://arxiv.org/html/2501.08523 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.08523 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.08523 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Personalized%20Safety%20in - related DEP: Personalized Safety in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Personalized Safety in/personalized_safety_in_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

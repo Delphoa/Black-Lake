@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, best-, generation perspective. The t
 - https://arxiv.org/html/2211.11924 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2211.11924 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2211.11924 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Dual-mode%20Local%20Search - related DEP: A Dual-mode Local Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Dual-mode Local Search/a_dual_mode_local_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Dual-mode%20Local%20Search - related DEP: A Dual-mode Local Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Dual-mode Local Search/a_dual_mode_local_search_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

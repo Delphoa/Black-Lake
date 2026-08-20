@@ -98,7 +98,7 @@ The selected paper contributes a deciphering, molecule, optimization perspective
 - https://arxiv.org/html/2603.20262 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.20262 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.20262 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20ML%20Science - related DEP: Fast ML Science - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast ML Science/fast_ml_science_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20ML%20Science - related DEP: Fast ML Science - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast ML Science/fast_ml_science_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGBench%20Chemistry - related DEP: FGBench Chemistry - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGBench Chemistry/fgbench_chemistry_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

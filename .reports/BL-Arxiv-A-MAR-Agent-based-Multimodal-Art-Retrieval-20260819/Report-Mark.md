@@ -98,7 +98,7 @@ The selected paper contributes a a-mar, agent-based, art perspective. The three 
 - https://arxiv.org/html/2604.19689 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.19689 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.19689 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AgentEconomist - related DEP: AgentEconomist - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AgentEconomist/agent_economist_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AirSpatialBot%20A - related DEP: AirSpatialBot A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AirSpatialBot A/airspatialbot_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AgentEconomist - related DEP: AgentEconomist - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AgentEconomist/agent_economist_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AirSpatialBot%20A - related DEP: AirSpatialBot A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AirSpatialBot A/airspatialbot_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

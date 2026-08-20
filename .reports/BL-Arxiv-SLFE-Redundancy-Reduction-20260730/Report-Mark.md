@@ -28,9 +28,9 @@ The paper evaluates five graph applications over seven real graphs on an eight-n
 
 ## Related DEP Entries
 
-1. [`DEP-A-20260726-FeLoG Feedback Graph`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260726-FeLoG%20Feedback%20Graph) — concrete overlap in active-frontier control, distributed resource placement, communication overlap, and measurable scheduling state.
-2. [`DEP-A-20260715-ObjectCache Layerwise Obj`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260715-ObjectCache%20Layerwise%20Obj) — concrete overlap in eliminating redundant work by reusing immutable state and scheduling it around downstream computation.
-3. [`DEP-A-20260715-MemGraphRAG Memory based`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/DEP-A-20260715-MemGraphRAG%20Memory%20based) — concrete overlap in using reusable global graph context to correct decisions that are poor when made only locally.
+1. [`DEP-A-20260726-FeLoG Feedback Graph`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-FeLoG%20Feedback%20Graph) — concrete overlap in active-frontier control, distributed resource placement, communication overlap, and measurable scheduling state.
+2. [`DEP-A-20260715-ObjectCache Layerwise Obj`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-ObjectCache%20Layerwise%20Obj) — concrete overlap in eliminating redundant work by reusing immutable state and scheduling it around downstream computation.
+3. [`DEP-A-20260715-MemGraphRAG Memory based`](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-MemGraphRAG%20Memory%20based) — concrete overlap in using reusable global graph context to correct decisions that are poor when made only locally.
 
 ## Synthesis Note
 

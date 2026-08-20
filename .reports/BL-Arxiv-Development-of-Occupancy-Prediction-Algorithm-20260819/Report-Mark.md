@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, development, lots perspective. The t
 - https://arxiv.org/html/2409.00923 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.00923 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.00923 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Search-Based%20Path - related DEP: Search-Based Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Search-Based Path/search_based_path_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Occupancy - related DEP: An Efficient Occupancy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Occupancy/an_efficient_occupancy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Search-Based%20Path - related DEP: Search-Based Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Search-Based Path/search_based_path_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Occupancy - related DEP: An Efficient Occupancy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Occupancy/an_efficient_occupancy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

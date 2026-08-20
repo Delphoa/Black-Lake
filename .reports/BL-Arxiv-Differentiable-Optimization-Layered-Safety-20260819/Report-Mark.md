@@ -98,7 +98,7 @@ The selected paper contributes a conformal, control, differentiable perspective.
 - https://arxiv.org/html/2605.16327 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.16327 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.16327 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal - related DEP: Judge Conformal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20to%20Sequence%20and - related DEP: Learning to Sequence and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning to Sequence and/learning_to_sequence_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-CogDDN%20A%20Cognitive - related DEP: CogDDN A Cognitive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CogDDN A Cognitive/cogddn_a_cognitive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal - related DEP: Judge Conformal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20to%20Sequence%20and - related DEP: Learning to Sequence and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning to Sequence and/learning_to_sequence_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-CogDDN%20A%20Cognitive - related DEP: CogDDN A Cognitive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CogDDN A Cognitive/cogddn_a_cognitive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

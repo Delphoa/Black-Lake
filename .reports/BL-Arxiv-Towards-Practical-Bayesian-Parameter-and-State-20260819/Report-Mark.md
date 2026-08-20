@@ -98,7 +98,7 @@ The selected paper contributes a bayesian, estimation, parameter perspective. Th
 - https://arxiv.org/html/1603.08988 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1603.08988 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1603.08988 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-One%20Filters%20All%20A - related DEP: One Filters All A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Filters All A/one_filters_all_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-One%20Filters%20All%20A - related DEP: One Filters All A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Filters All A/one_filters_all_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a fusion, generation, infinite perspective. The t
 - https://arxiv.org/html/2308.04126 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.04126 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.04126 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

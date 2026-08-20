@@ -82,15 +82,15 @@ The paper provides a compelling architecture hypothesis and unusually useful vis
 ## Related DEP Entries
 
 1. `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE/semantic_skill_moe_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE/semantic_skill_moe_manuscript.md
    - Relevance: Both separate semantic context from action generation and try to keep action chunks internally consistent. The related DEP adds skill-conditioned routing, route stability, rare-skill coverage, and independent action admissibility.
    - Source basis: Its reviewed primary paper, *Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation*, including offline skill labels, chunk-consistent routing, physical-task results, and routing limitations.
 2. `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
    - Relevance: FAVLA assumes coherent camera, proprioception, and force timing. The related DEP provides spatiotemporal calibration, excitation, drift, residual, versioning, and downstream evidence concepts needed to make multi-rate fusion auditable.
    - Source basis: Its reviewed iKalibr paper, official implementation, sensor-suite experiments, timing-offset estimates, limitations, and calibration-evidence proposal.
 3. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
    - Relevance: FAVLA proposes learned action chunks, while RRT-CBF distinguishes high task performance from admissible motion through explicit barrier constraints, state/solver checks, tracking, and fallback.
    - Source basis: Its reviewed primary motion-planning paper, CBF-QP formulation, MPC tracking, manipulator examples, and explicit simulation-to-deployment limits.
 

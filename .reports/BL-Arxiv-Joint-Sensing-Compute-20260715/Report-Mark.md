@@ -44,17 +44,17 @@ Primary public locators are https://arxiv.org/abs/2210.17025, https://arxiv.org/
 
 Exactly three entries were selected on concrete conceptual overlap:
 
-1. [Self-Learned IDC DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md)
+1. [Self-Learned IDC DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
    - Relevance: connects camera/radar/LiDAR observations, state representation, and measured control latency to constrained decisions. It extends AoI from network freshness into state-to-action freshness.
    - Source basis: the DEP's inspected arXiv HTML/source and source-reported SUMO results for arXiv:2110.12359.
 
-2. [RRT-CBF Motion DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md)
+2. [RRT-CBF Motion DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
    - Relevance: treats state age, solver feasibility, barrier margins, latency, and fallback as evidence for control safety. It supplies hard admissibility concerns missing from a weighted AoI-energy objective.
    - Source basis: the DEP's complete 20-page arXiv review of arXiv:2410.00343 and simulation evidence.
 
-3. [iKalibr Calibration DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md)
+3. [iKalibr Calibration DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`
    - Relevance: shows that timestamps and spatial calibration are upstream prerequisites for meaningful freshness. Its progressive parameter batches also provide a concrete comparison to decomposed iterative optimization.
    - Source basis: the DEP's verified PDF/HTML/source review, journal metadata, and official implementation inspection for arXiv:2407.11420.

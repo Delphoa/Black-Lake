@@ -98,7 +98,7 @@ The selected paper contributes a fast, fine-tuning, gradient-aligned perspective
 - https://arxiv.org/html/2510.18228 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.18228 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.18228 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Aligned%20but%20Fragile - related DEP: Aligned but Fragile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Aligned but Fragile/aligned_but_fragile_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Aligned%20but%20Fragile - related DEP: Aligned but Fragile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Aligned but Fragile/aligned_but_fragile_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

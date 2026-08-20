@@ -98,7 +98,7 @@ The selected paper contributes a approximate, dominance, graph perspective. The 
 - https://arxiv.org/html/2606.24204 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.24204 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.24204 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Theoretical%20Analysis%20Of - related DEP: A Theoretical Analysis Of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Theoretical Analysis Of/a_theoretical_analysis_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20approximation - related DEP: Efficient approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient approximation/efficient_approximation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Theoretical%20Analysis%20Of - related DEP: A Theoretical Analysis Of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Theoretical Analysis Of/a_theoretical_analysis_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20approximation - related DEP: Efficient approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient approximation/efficient_approximation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

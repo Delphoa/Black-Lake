@@ -98,7 +98,7 @@ The selected paper contributes a centroidal, path, planning perspective. The thr
 - https://arxiv.org/html/2410.02510 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.02510 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.02510 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Agentic%20Neuro-Symbolic - related DEP: Agentic Neuro-Symbolic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agentic Neuro-Symbolic/agentic_neuro_symbolic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Agentic%20Neuro-Symbolic - related DEP: Agentic Neuro-Symbolic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agentic Neuro-Symbolic/agentic_neuro_symbolic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

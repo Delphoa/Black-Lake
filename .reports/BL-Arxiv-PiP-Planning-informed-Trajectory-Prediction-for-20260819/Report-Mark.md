@@ -98,7 +98,7 @@ The selected paper contributes a autonomous, driving, pip perspective. The three
 - https://arxiv.org/html/2003.11476 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.11476 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1007/978-3-030-58589-1_36 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Occ3D%20A%20Large-Scale%203D - related DEP: Occ3D A Large-Scale 3D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Occ3D A Large-Scale 3D/occ3d_a_large_scale_3d_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

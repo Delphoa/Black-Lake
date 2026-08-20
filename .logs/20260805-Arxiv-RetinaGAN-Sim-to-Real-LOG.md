@@ -94,12 +94,12 @@ Exactly three related entries were inspected and used. Their claims do not indep
 - Source URL: https://retinagan.github.io/
   - Applies to: author project context, task examples, videos, and public component links.
   - Notes: Official project page; it does not expose an author-released RetinaGAN implementation.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260726-Habitat%20Synthetic%20Intake/whitepaper-intake-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260726-Habitat%20Synthetic%20Intake/whitepaper-intake-review.md
   - Applies to: synthetic-scene and reality-gap relationship.
   - Notes: Related processed artifact; not validation of RetinaGAN.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking/spiking_pose_tracking_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Spiking%20Pose%20Tracking/spiking_pose_tracking_manuscript.md
   - Applies to: synthetic/real perception and domain-adaptation relationship.
   - Notes: Related processed artifact; not validation of RetinaGAN.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260727-ManipulationNet%20An%20Intake/whitepaper-intake-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260727-ManipulationNet%20An%20Intake/whitepaper-intake-review.md
   - Applies to: physical robot benchmark and evaluation-governance relationship.
   - Notes: Related processed artifact; not validation of RetinaGAN.

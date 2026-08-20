@@ -98,7 +98,7 @@ The selected paper contributes a elicitation, knowledge-intensive, optimization 
 - https://arxiv.org/html/2511.10465 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.10465 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.10465 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient - related DEP: An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient/an_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient - related DEP: An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient/an_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a estimation, filter, filters perspective. The th
 - https://arxiv.org/html/2509.20051 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.20051 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.20051 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Visual-inertial%20state - related DEP: Visual-inertial state - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Visual-inertial state/visual_inertial_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Visual-inertial%20state - related DEP: Visual-inertial state - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Visual-inertial state/visual_inertial_state_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

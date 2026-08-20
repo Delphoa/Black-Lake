@@ -97,7 +97,7 @@ The selected paper contributes a brain, brats-peds, challenge perspective. The t
 - https://arxiv.org/html/2407.08855 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.08855 - verified primary PDF; local copy withheld.
 - https://doi.org/10.59275/j.melba.2025-f6fg - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-MVA2023%20Small%20Object - related DEP: MVA2023 Small Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object/mva2023_small_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-MVA2023%20Small%20Object - related DEP: MVA2023 Small Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-MVA2023 Small Object/mva2023_small_object_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

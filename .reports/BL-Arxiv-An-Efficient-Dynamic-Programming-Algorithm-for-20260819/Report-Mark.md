@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, dynamic, problem perspective. The th
 - https://arxiv.org/html/1506.00063 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1506.00063 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1506.00063 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Language-to-Space - related DEP: Language-to-Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Language-to-Space/language_to_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

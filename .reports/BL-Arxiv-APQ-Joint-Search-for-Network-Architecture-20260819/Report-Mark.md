@@ -98,7 +98,7 @@ The selected paper contributes a apq, architecture, joint perspective. The three
 - https://arxiv.org/html/2006.08509 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2006.08509 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2006.08509 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DA-NAS%20Data%20Adapted - related DEP: DA-NAS Data Adapted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DA-NAS Data Adapted/da_nas_data_adapted_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DA-NAS%20Data%20Adapted - related DEP: DA-NAS Data Adapted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DA-NAS Data Adapted/da_nas_data_adapted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

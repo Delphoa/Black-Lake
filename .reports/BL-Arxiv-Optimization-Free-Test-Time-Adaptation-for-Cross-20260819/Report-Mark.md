@@ -98,7 +98,7 @@ The selected paper contributes a activity, adaptation, cross-person perspective.
 - https://arxiv.org/html/2310.18562 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.18562 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.18562 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Reimagination%20with - related DEP: Reimagination with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reimagination with/reimagination_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Reimagination%20with - related DEP: Reimagination with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reimagination with/reimagination_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a accelerating, cache, dynamic perspective. The t
 - https://arxiv.org/html/2508.13231 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.13231 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.13231 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20Min-Max - related DEP: Accelerating Min-Max - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Min-Max/accelerating_min_max_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet - related DEP: HSD FTI-FDet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20Min-Max - related DEP: Accelerating Min-Max - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Min-Max/accelerating_min_max_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet - related DEP: HSD FTI-FDet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

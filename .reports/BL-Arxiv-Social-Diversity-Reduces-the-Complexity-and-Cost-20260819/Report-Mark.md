@@ -98,7 +98,7 @@ The selected paper contributes a complexity, cost, diversity perspective. The th
 - https://arxiv.org/html/2211.10517 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2211.10517 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1016/j.chaos.2022.113051 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Arrows%20of%20Math%20Reasoning - related DEP: Arrows of Math Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Arrows of Math Reasoning/arrows_of_math_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Arrows%20of%20Math%20Reasoning - related DEP: Arrows of Math Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Arrows of Math Reasoning/arrows_of_math_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Hierarchical%20Perceptual - related DEP: Hierarchical Perceptual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Hierarchical Perceptual/hierarchical_perceptual_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

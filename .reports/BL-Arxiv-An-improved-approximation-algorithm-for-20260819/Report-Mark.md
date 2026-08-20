@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, approximation, convex perspective. T
 - https://arxiv.org/html/2203.14740 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2203.14740 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2203.14740 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-HiKonv%20Maximizing%20the - related DEP: HiKonv Maximizing the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-HiKonv Maximizing the/hikonv_maximizing_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20local%20search%204%203 - related DEP: A local search 4 3 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A local search 4 3/a_local_search_4_3_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-HiKonv%20Maximizing%20the - related DEP: HiKonv Maximizing the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-HiKonv Maximizing the/hikonv_maximizing_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20local%20search%204%203 - related DEP: A local search 4 3 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A local search 4 3/a_local_search_4_3_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

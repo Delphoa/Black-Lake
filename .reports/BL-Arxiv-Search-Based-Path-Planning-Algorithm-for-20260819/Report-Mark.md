@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, autonomous, hybrid perspective. The 
 - https://arxiv.org/html/2210.08828 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.08828 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.08828 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Coverage%20Goal%20Selector - related DEP: Coverage Goal Selector - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Coverage Goal Selector/coverage_goal_selector_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Coverage%20Goal%20Selector - related DEP: Coverage Goal Selector - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Coverage Goal Selector/coverage_goal_selector_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

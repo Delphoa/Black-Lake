@@ -98,7 +98,7 @@ The selected paper contributes a fast, generation, global perspective. The three
 - https://arxiv.org/html/2208.04248 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.04248 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.04248 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Self-Supervised%20Gait - related DEP: A Self-Supervised Gait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Self-Supervised Gait/a_self_supervised_gait_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Higher%20Criticism - related DEP: Higher Criticism Tests - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Higher Criticism/higher_criticism_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Generative%20AI-enabled - related DEP: Generative AI-enabled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Generative AI-enabled/generative_ai_enabled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Self-Supervised%20Gait - related DEP: A Self-Supervised Gait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Self-Supervised Gait/a_self_supervised_gait_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Higher%20Criticism - related DEP: Higher Criticism Tests - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Higher Criticism/higher_criticism_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

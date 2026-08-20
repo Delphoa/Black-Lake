@@ -69,9 +69,9 @@ The paper supports a routing policy, not a default replacement. A weak prior is 
 
 ## Related DEP Entries
 
-1. [Stable Diffusion Depth manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md) - The reviewed SSD work steals a frozen Stable Diffusion prior for adverse-condition monocular depth. The concrete overlap is transfer under source-target mismatch: both papers rely on a prior retaining useful structure outside its nominal generation task, and both require explicit geometry, reliability, and failure validation. Source basis: arXiv `2403.05056` and its inspected official artifacts.
-2. [WKGM MRI Reconstruction manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction/wkgm_mri_reconstruction_manuscript.md) - WKGM learns a score prior in weighted k-space and repeatedly applies acquired-sample data consistency, making it a direct medical-imaging analogue of balancing prior structure against observations. Source basis: arXiv `2205.03883v4` and the cited journal/code records.
-3. [Acoustic Phase Retrieval manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md) - The acoustic method adds controlled reference measurements so a nonlinear phaseless problem becomes identifiable and well conditioned. It supplies an analytic complement to the paper's empirical claim that more informative measurements reduce prior sensitivity. Source basis: arXiv `1803.11323v1` and its cited journal metadata.
+1. [Stable Diffusion Depth manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md) - The reviewed SSD work steals a frozen Stable Diffusion prior for adverse-condition monocular depth. The concrete overlap is transfer under source-target mismatch: both papers rely on a prior retaining useful structure outside its nominal generation task, and both require explicit geometry, reliability, and failure validation. Source basis: arXiv `2403.05056` and its inspected official artifacts.
+2. [WKGM MRI Reconstruction manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction/wkgm_mri_reconstruction_manuscript.md) - WKGM learns a score prior in weighted k-space and repeatedly applies acquired-sample data consistency, making it a direct medical-imaging analogue of balancing prior structure against observations. Source basis: arXiv `2205.03883v4` and the cited journal/code records.
+3. [Acoustic Phase Retrieval manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md) - The acoustic method adds controlled reference measurements so a nonlinear phaseless problem becomes identifiable and well conditioned. It supplies an analytic complement to the paper's empirical claim that more informative measurements reduce prior sensitivity. Source basis: arXiv `1803.11323v1` and its cited journal metadata.
 
 ## Synthesis Note
 
@@ -191,13 +191,13 @@ def route(info_score: float, disagreement: float, high_stakes: bool) -> str:
 - Source URL: https://github.com/jjia131/weak-diffusion-priors-inverse-problem/commit/0f787b44274f07b9f7657cff9305a7608f69472a
   - Applies to: `Report-Mark.md`
   - Notes: Pinned code revision used for inspection.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 1 of 3.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction/wkgm_mri_reconstruction_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction/wkgm_mri_reconstruction_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 2 of 3.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 3 of 3.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

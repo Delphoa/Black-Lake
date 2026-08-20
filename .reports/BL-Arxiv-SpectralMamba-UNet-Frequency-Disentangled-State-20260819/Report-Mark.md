@@ -98,7 +98,7 @@ The selected paper contributes a consistent, frequency-disentangled, image persp
 - https://arxiv.org/html/2602.23103 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.23103 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.23103 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory%20Consistent - related DEP: Memory Consistent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Consistent/memory_consistent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoEMambaMIL - related DEP: MoEMambaMIL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoEMambaMIL/moemambamil_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MambaDS%20Near-Surface - related DEP: MambaDS Near-Surface - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MambaDS Near-Surface/mambads_near_surface_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory%20Consistent - related DEP: Memory Consistent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Consistent/memory_consistent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoEMambaMIL - related DEP: MoEMambaMIL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoEMambaMIL/moemambamil_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MambaDS%20Near-Surface - related DEP: MambaDS Near-Surface - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MambaDS Near-Surface/mambads_near_surface_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

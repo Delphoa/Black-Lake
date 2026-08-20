@@ -236,19 +236,19 @@ def transfer_deltas(rows: list[SliceResult]) -> dict[str, float]:
 - Source URL: https://github.com/allenai/scibert
   - Applies to: SciBERT model and implementation context.
   - Notes: Component repository; no paper-specific DoubleTransfer workflow was identified.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
   - Applies to: heterogeneous fusion evidence and matched-ablation design.
   - Notes: Related DEP entry; primary basis arXiv:2006.08129v1.
 - Source URL: https://arxiv.org/abs/2006.08129
   - Applies to: primary source basis recorded by the AV Emotion Fusion DEP.
   - Notes: Related-paper locator; the current review relied on the inspected DEP for synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
   - Applies to: teacher/student transfer, adapters, domain shift, and transferred-bias controls.
   - Notes: Related DEP entry; primary basis arXiv:2104.04687v3.
 - Source URL: https://arxiv.org/abs/2104.04687v3
   - Applies to: primary source basis recorded by the Pixel-Point Transfer DEP.
   - Notes: Related-paper locator; the current review relied on the inspected DEP for synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
   - Applies to: medical QA governance, leakage, calibration, and abstention.
   - Notes: Related DEP entry; primary basis arXiv:2307.11986v2.
 - Source URL: https://arxiv.org/abs/2307.11986v2

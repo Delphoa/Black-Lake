@@ -98,7 +98,7 @@ The selected paper contributes a complex, imagine, integrating perspective. The 
 - https://arxiv.org/html/2510.14406 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.14406 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.14406 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Scale%20Simulation%20of - related DEP: Multi-Scale Simulation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Scale Simulation of/multi_scale_simulation_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Scale%20Simulation%20of - related DEP: Multi-Scale Simulation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Scale Simulation of/multi_scale_simulation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Deep%20Learning%20for - related DEP: Deep Learning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Deep Learning for/deep_learning_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

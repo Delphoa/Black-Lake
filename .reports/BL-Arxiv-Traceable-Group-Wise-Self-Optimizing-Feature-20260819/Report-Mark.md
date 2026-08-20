@@ -98,7 +98,7 @@ The selected paper contributes a dual, feature, group-wise perspective. The thre
 - https://arxiv.org/html/2306.16893 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.16893 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.16893 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Model%20Evolution%20Under - related DEP: Model Evolution Under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Model Evolution Under/model_evolution_under_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -29,9 +29,9 @@ The paper addresses language-guided human motion generation in a 3D scene. Its c
 
 ## Related DEP Entries
 
-1. [AR-Drag Motion](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion) — motion control and sequence responsiveness provide a deployment-oriented comparison for language-conditioned motion.
-2. [Habitat Synthetic Scenes](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Habitat%20Synthetic%20Scenes) — scene scale and realism frame the data-coverage constraints of affordance learning.
-3. [NaLA A 3D Native LLM](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM) — native 3D language grounding provides a conceptual bridge to spatial intermediate representations.
+1. [AR-Drag Motion](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion) — motion control and sequence responsiveness provide a deployment-oriented comparison for language-conditioned motion.
+2. [Habitat Synthetic Scenes](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Habitat%20Synthetic%20Scenes) — scene scale and realism frame the data-coverage constraints of affordance learning.
+3. [NaLA A 3D Native LLM](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM) — native 3D language grounding provides a conceptual bridge to spatial intermediate representations.
 
 ## Synthesis Note
 

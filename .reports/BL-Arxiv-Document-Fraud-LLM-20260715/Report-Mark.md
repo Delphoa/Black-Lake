@@ -75,9 +75,9 @@ The source supports the statement that GPT-O1 provided the best reported ranking
 
 ## Exactly Three Related DEP Entries
 
-1. [`VLM Probing`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`; primary basis arXiv:2005.07310v2. It contributes architecture-aware probes, random-weight controls, mismatch tests, attention caveats, and the principle that aggregate downstream performance is not sufficient evidence about internal multimodal behavior.
-2. [`PAC Confidence`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`; primary basis arXiv:2011.00716v5. It contributes support-aware intervals, simultaneous coverage, decision budgets, and an explicit on-distribution envelope for deciding when a score can safely trigger anything beyond review.
-3. [`RLMF Uncertainty`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty/rlmf_uncertainty_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`; primary basis arXiv:2606.32032v1. It contributes a careful separation between expressed confidence, sampled-consistency proxies, factual correctness, support, linguistic uncertainty, and user reliance.
+1. [`VLM Probing`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`; primary basis arXiv:2005.07310v2. It contributes architecture-aware probes, random-weight controls, mismatch tests, attention caveats, and the principle that aggregate downstream performance is not sufficient evidence about internal multimodal behavior.
+2. [`PAC Confidence`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`; primary basis arXiv:2011.00716v5. It contributes support-aware intervals, simultaneous coverage, decision budgets, and an explicit on-distribution envelope for deciding when a score can safely trigger anything beyond review.
+3. [`RLMF Uncertainty`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty/rlmf_uncertainty_manuscript.md) — repository path `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`; primary basis arXiv:2606.32032v1. It contributes a careful separation between expressed confidence, sampled-consistency proxies, factual correctness, support, linguistic uncertainty, and user reliance.
 
 ## Synthesis Note
 
@@ -209,13 +209,13 @@ def supported(delta: float, minimum_effect: float = 0.05) -> bool:
 - Source URL: https://arxiv.org/abs/2503.20084
   - Applies to: lineage context named by the selected arXiv record.
   - Notes: No inference about misconduct, intent, or exact overlap.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
   - Applies to: representation-probing bridge.
   - Notes: Related processed DEP; primary basis arXiv:2005.07310v2.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
   - Applies to: support-aware confidence and decision-gate bridge.
   - Notes: Related processed DEP; primary basis arXiv:2011.00716v5.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty/rlmf_uncertainty_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty/rlmf_uncertainty_manuscript.md
   - Applies to: uncertainty-semantics and proxy-governance bridge.
   - Notes: Related processed DEP; primary basis arXiv:2606.32032v1.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

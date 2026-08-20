@@ -98,7 +98,7 @@ The selected paper contributes a constrained, coupon, distribution perspective. 
 - https://arxiv.org/html/2508.09198 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.09198 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.09198 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

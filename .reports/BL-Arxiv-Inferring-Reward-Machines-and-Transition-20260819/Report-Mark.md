@@ -98,7 +98,7 @@ The selected paper contributes a machines, decision, inferring perspective. The 
 - https://arxiv.org/html/2508.01947 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.01947 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.01947 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Kernel%20Taylor-Based%20Value - related DEP: Kernel Taylor-Based Value - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kernel Taylor-Based Value/kernel_taylor_based_value_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a disentangled, distracting, knowledge perspectiv
 - https://arxiv.org/html/2503.08751 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.08751 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.08751 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

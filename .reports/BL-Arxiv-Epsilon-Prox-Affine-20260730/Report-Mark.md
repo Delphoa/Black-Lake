@@ -300,12 +300,12 @@ Dependencies: Python 3.10+ standard library only. These examples are illustrativ
 - Source URL: https://proceedings.mlr.press/v48/wangh16.html
   - Applies to: follow-up research context on epigraph projections.
   - Notes: Primary proceedings record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-Sparse%20SSN%20PMM/sparse_ssn_pmm_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Sparse%20SSN%20PMM/sparse_ssn_pmm_manuscript.md
   - Applies to: related DEP bridge.
   - Notes: Proximal/semismooth structured solver synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-CAP%20Rank%20Sparsity/cap_rank_sparsity_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CAP%20Rank%20Sparsity/cap_rank_sparsity_manuscript.md
   - Applies to: related DEP bridge.
   - Notes: ADMM and thresholding-operator synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
   - Applies to: related DEP bridge.
   - Notes: Convex regularizer and generalized Bregman-geometry synthesis.

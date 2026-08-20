@@ -188,12 +188,12 @@ This synthetic example treats stochastic variation as a review signal, not calib
 - Source URL: https://github.com/yqx7150/WKGM
   - Applies to: official implementation availability, README usage statement, entry points, and configuration evidence.
   - Notes: Repository inspected but not cloned or executed; no root dependency lock or license file was found.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
   - Applies to: related accelerated-MRI representation and evaluation bridge.
   - Notes: Processed DEP evidence; does not validate WKGM.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian/residual_gaussian_cbct_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian/residual_gaussian_cbct_manuscript.md
   - Applies to: related sparse medical inverse-reconstruction and detail-preservation bridge.
   - Notes: Processed DEP evidence; does not validate WKGM.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
   - Applies to: related Fourier/Hankel inverse-problem and conditioning bridge.
   - Notes: Processed DEP evidence; does not validate WKGM.

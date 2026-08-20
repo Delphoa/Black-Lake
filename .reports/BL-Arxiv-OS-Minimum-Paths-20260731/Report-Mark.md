@@ -30,9 +30,9 @@ This is a theorem and algorithm paper rather than an empirical benchmark paper. 
 
 ## Related DEP Entries
 
-1. [SLFE Redundancy Review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-SLFE%20Redundancy%20Review/slfe_redundancy_manuscript.md) — it derives a topology-guided signal to avoid redundant graph computation. The overlap is structural information constraining which graph work is necessary; SLFE is systems scheduling, whereas this paper is exact metric realization.
-2. [Moran Spectra](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Moran%20Spectra/moran_spectra_manuscript.md) — it constructs and classifies objects from a compact invariant while preserving non-uniqueness in the solution family. The overlap is the distinction between a forced structural scaffold and remaining realization freedom.
-3. [Integrals and Rigidity](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md) — it uses sharp constraints to identify when geometry is forced. The overlap is a rigidity pattern: observable boundary or metric data imposes global structural consequences only under stated hypotheses.
+1. [SLFE Redundancy Review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SLFE%20Redundancy%20Review/slfe_redundancy_manuscript.md) — it derives a topology-guided signal to avoid redundant graph computation. The overlap is structural information constraining which graph work is necessary; SLFE is systems scheduling, whereas this paper is exact metric realization.
+2. [Moran Spectra](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Moran%20Spectra/moran_spectra_manuscript.md) — it constructs and classifies objects from a compact invariant while preserving non-uniqueness in the solution family. The overlap is the distinction between a forced structural scaffold and remaining realization freedom.
+3. [Integrals and Rigidity](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity/integrals_and_rigidity_manuscript.md) — it uses sharp constraints to identify when geometry is forced. The overlap is a rigidity pattern: observable boundary or metric data imposes global structural consequences only under stated hypotheses.
 
 ## Synthesis Note
 

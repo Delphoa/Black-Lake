@@ -97,7 +97,7 @@ The selected paper contributes a audio-visual, co-speech, cosh-dit perspective. 
 - https://arxiv.org/html/2503.09942 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.09942 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.09942 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

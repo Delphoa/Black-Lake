@@ -98,7 +98,7 @@ The selected paper contributes a context, dynamic, infty perspective. The three 
 - https://arxiv.org/html/2505.18092 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.18092 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.18092 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Fast%20LLM - related DEP: Towards Fast LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Fast LLM/towards_fast_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Fast%20LLM - related DEP: Towards Fast LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Fast LLM/towards_fast_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

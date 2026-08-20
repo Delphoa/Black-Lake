@@ -98,7 +98,7 @@ The selected paper contributes a collaborative, optimization, unlabeled perspect
 - https://arxiv.org/html/2505.14117 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.14117 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.14117 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-COST-EFF%20Collaborative - related DEP: COST-EFF Collaborative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-COST-EFF Collaborative/cost_eff_collaborative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-COST-EFF%20Collaborative - related DEP: COST-EFF Collaborative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-COST-EFF Collaborative/cost_eff_collaborative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

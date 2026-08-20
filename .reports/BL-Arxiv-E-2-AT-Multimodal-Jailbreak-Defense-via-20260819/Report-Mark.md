@@ -98,7 +98,7 @@ The selected paper contributes a multimodal, defense, dynamic perspective. The t
 - https://arxiv.org/html/2503.04833 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.04833 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.04833 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, baum-welch, blind perspective. The t
 - https://arxiv.org/html/2412.07907 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.07907 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/IEEECONF62907.2025.10949109 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a benchmarking, circuits, design perspective. The
 - https://arxiv.org/html/2502.03159 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.03159 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.03159 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

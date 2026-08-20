@@ -98,7 +98,7 @@ The selected paper contributes a answers, decision-making, generative perspectiv
 - https://arxiv.org/html/2410.02664 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.02664 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.02664 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Agent2World%20Learning%20to - related DEP: Agent2World Learning to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agent2World Learning to/agent2world_learning_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Generative - related DEP: Improving Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Generative/improving_generative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Agent2World%20Learning%20to - related DEP: Agent2World Learning to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agent2World Learning to/agent2world_learning_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Generative - related DEP: Improving Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Generative/improving_generative_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

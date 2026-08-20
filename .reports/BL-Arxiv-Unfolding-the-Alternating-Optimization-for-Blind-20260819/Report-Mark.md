@@ -98,7 +98,7 @@ The selected paper contributes a alternating, blind, optimization perspective. T
 - https://arxiv.org/html/2010.02631 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.02631 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.02631 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Alada%20Alternating - related DEP: Alada Alternating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Alada Alternating/alada_alternating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Modified%20Baum-Welch - related DEP: Modified Baum-Welch - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Modified Baum-Welch/modified_baum_welch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Alada%20Alternating - related DEP: Alada Alternating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Alada Alternating/alada_alternating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Modified%20Baum-Welch - related DEP: Modified Baum-Welch - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Modified Baum-Welch/modified_baum_welch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

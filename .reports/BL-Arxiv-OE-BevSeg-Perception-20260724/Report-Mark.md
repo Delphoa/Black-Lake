@@ -92,17 +92,17 @@ The public repository is inspectable but not paper-matched. `train.sh` uses the 
 Exactly three related entries were selected:
 
 1. `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
    - Relevance: HERMES uses a shared six-camera BEV representation for 3D understanding and future point-cloud generation, extending OE-BevSeg's spatial interface into a world-model setting.
    - Source basis: HERMES manuscript and its primary paper at https://arxiv.org/abs/2501.14729.
 
 2. `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth/stable_diffusion_depth_manuscript.md
    - Relevance: The review uses nuScenes night/rain slices and demonstrates why adverse-condition claims need aggregate condition metrics rather than selected images.
    - Source basis: Stable Diffusion Depth manuscript and its primary paper at https://arxiv.org/abs/2403.05056.
 
 3. `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
    - Relevance: iKalibr supplies the spatial/temporal calibration and residual-provenance layer that camera/radar/LiDAR BEV fusion presupposes.
    - Source basis: iKalibr manuscript and its primary paper at https://arxiv.org/abs/2407.11420.
 

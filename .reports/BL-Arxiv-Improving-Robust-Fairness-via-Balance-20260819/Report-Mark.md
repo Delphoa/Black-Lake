@@ -97,7 +97,7 @@ The selected paper contributes a adversarial, balance, fairness perspective. The
 - https://arxiv.org/html/2209.07534 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.07534 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.07534 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Failure%20Cases%20Are%20Better - related DEP: Failure Cases Are Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better/failure_cases_are_better_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Failure%20Cases%20Are%20Better - related DEP: Failure Cases Are Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better/failure_cases_are_better_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

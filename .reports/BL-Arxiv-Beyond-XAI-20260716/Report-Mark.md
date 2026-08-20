@@ -168,14 +168,14 @@ The card is descriptive. Production use needs confidence intervals, subgroup met
   - Applies to: `Report-Mark.md`
   - Notes: Live companion-repository authority used for dedup context.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related model-probing and evidence-boundary synthesis; source basis arXiv:2005.07310 and DOI:10.1007/978-3-030-58539-6_34.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260708-Agent State Review/agent_state_review.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260708-Agent%20State%20Review/agent_state_review.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-Agent%20State%20Review/agent_state_review.md
   - Applies to: `Report-Mark.md`
   - Notes: Related runtime-state, evidence-replay, and safety-monitoring synthesis; source basis includes arXiv:2607.02510, arXiv:2607.02514, and arXiv:2607.02509.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md
   - Applies to: `Report-Mark.md`
   - Notes: Related high-stakes multimodal evaluation and saliency-boundary synthesis; source basis arXiv:2307.11986 and DOI:10.1145/3580305.3599819.

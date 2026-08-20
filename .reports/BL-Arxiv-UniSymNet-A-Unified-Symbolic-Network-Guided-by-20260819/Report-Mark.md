@@ -97,7 +97,7 @@ The selected paper contributes a guided, network, symbolic perspective. The thre
 - https://arxiv.org/html/2505.06091 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.06091 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1016/j.neunet.2026.108615 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Multi-Embodiment%20Robotic - related DEP: Multi-Embodiment Robotic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Multi-Embodiment Robotic/multi_embodiment_robotic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Multi-Embodiment%20Robotic - related DEP: Multi-Embodiment Robotic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Multi-Embodiment Robotic/multi_embodiment_robotic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

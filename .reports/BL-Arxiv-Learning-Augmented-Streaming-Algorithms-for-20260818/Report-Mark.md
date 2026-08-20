@@ -97,7 +97,7 @@ The selected paper contributes a algorithms, clustering, correlation perspective
 - https://arxiv.org/html/2510.10705 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.10705 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.10705 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

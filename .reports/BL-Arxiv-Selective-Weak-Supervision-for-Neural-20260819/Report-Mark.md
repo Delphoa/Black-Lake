@@ -98,7 +98,7 @@ The selected paper contributes a information, neural, retrieval perspective. The
 - https://arxiv.org/html/2001.10382 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2001.10382 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3366423.3380131 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

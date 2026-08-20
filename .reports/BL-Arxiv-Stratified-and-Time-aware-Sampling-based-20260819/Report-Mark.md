@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, ensemble, recommendations perspective
 - https://arxiv.org/html/2009.06824 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2009.06824 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2009.06824 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Adaptive%203D%20Gaussian - related DEP: Adaptive 3D Gaussian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive 3D Gaussian/adaptive_3d_gaussian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Adaptive%20Client%20Sampling - related DEP: Adaptive Client Sampling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive Client Sampling/adaptive_client_sampling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Adaptive%203D%20Gaussian - related DEP: Adaptive 3D Gaussian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive 3D Gaussian/adaptive_3d_gaussian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Adaptive%20Client%20Sampling - related DEP: Adaptive Client Sampling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Adaptive Client Sampling/adaptive_client_sampling_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

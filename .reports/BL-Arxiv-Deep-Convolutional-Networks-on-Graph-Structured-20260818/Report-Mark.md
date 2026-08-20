@@ -95,7 +95,7 @@ The selected paper contributes a convolutional, graph-structured, networks persp
 - https://arxiv.org/html/1506.05163 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1506.05163 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1506.05163 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI - related DEP: Hypercomplex MRI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI - related DEP: Hypercomplex MRI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

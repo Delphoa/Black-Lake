@@ -98,7 +98,7 @@ The selected paper contributes a attention-based, bitcoin, detection perspective
 - https://arxiv.org/html/2210.14408 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.14408 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.14408 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a bicm-id, codes, coupled perspective. The three 
 - https://arxiv.org/html/1911.02227 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1911.02227 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TVT.2019.2949600 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Coupled%20Optimization - related DEP: A Coupled Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Coupled Optimization/a_coupled_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Theoretical%20and%20Empirical - related DEP: Theoretical and Empirical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Theoretical and Empirical/theoretical_and_empirical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Coupled%20Optimization - related DEP: A Coupled Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Coupled Optimization/a_coupled_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Theoretical%20and%20Empirical - related DEP: Theoretical and Empirical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Theoretical and Empirical/theoretical_and_empirical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

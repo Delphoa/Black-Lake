@@ -98,7 +98,7 @@ The selected paper contributes a diffusion, motion, remodiffuse perspective. The
 - https://arxiv.org/html/2304.01116 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2304.01116 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2304.01116 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards - related DEP: Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards/towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards - related DEP: Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards/towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

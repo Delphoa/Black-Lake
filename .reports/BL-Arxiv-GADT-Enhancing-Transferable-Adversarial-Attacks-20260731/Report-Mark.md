@@ -95,7 +95,7 @@ The selected paper contributes a adversarial, attacks, enhancing perspective. Th
 - https://arxiv.org/html/2410.18648 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.18648 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.18648 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-AVA%20Vignetting%20Attack - related DEP: AVA Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SAILFISH%20Vetting - related DEP: SAILFISH Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-AVA%20Vignetting%20Attack - related DEP: AVA Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SAILFISH%20Vetting - related DEP: SAILFISH Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SAILFISH Vetting/sailfish_vetting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

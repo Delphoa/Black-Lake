@@ -98,7 +98,7 @@ The selected paper contributes a convergence, decentralized, non-convex perspect
 - https://arxiv.org/html/2210.07863 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.07863 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.07863 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-STIMULUS%20Achieving%20Fast - related DEP: STIMULUS Achieving Fast - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STIMULUS Achieving Fast/stimulus_achieving_fast_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Optimal%20Convergence - related DEP: Optimal Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Optimal Convergence/optimal_convergence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hypersphere%20Optimization - related DEP: Hypersphere Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hypersphere Optimization/hypersphere_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-STIMULUS%20Achieving%20Fast - related DEP: STIMULUS Achieving Fast - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-STIMULUS Achieving Fast/stimulus_achieving_fast_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Optimal%20Convergence - related DEP: Optimal Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Optimal Convergence/optimal_convergence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hypersphere%20Optimization - related DEP: Hypersphere Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hypersphere Optimization/hypersphere_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

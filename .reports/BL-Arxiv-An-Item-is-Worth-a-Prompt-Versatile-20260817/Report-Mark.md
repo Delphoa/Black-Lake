@@ -95,7 +95,7 @@ The selected paper contributes a control, disentangled, editing perspective. The
 - https://arxiv.org/html/2403.04880 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.04880 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.04880 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Rethinking%20Residual - related DEP: Rethinking Residual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Rethinking Residual/rethinking_residual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Rethinking%20Residual - related DEP: Rethinking Residual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Rethinking Residual/rethinking_residual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a accurate, approximated, detection perspective. 
 - https://arxiv.org/html/2503.18066 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.18066 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.18066 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Approximated%20Doubly - related DEP: Approximated Doubly - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximated Doubly/approximated_doubly_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-E%202%20AT%20Multimodal - related DEP: E 2 AT Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-E 2 AT Multimodal/e_2_at_multimodal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Perception-Aware%20Policy - related DEP: Perception-Aware Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Perception-Aware Policy/perception_aware_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Approximated%20Doubly - related DEP: Approximated Doubly - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximated Doubly/approximated_doubly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-E%202%20AT%20Multimodal - related DEP: E 2 AT Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-E 2 AT Multimodal/e_2_at_multimodal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Perception-Aware%20Policy - related DEP: Perception-Aware Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Perception-Aware Policy/perception_aware_policy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

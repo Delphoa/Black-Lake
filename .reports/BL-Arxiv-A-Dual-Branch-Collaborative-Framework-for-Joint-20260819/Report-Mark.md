@@ -98,7 +98,7 @@ The selected paper contributes a collaborative, detection, dual-branch perspecti
 - https://arxiv.org/html/2606.15857 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.15857 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.15857 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Low-light%20Image - related DEP: Low-light Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-light Image/low_light_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Low-light%20Image - related DEP: Low-light Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-light Image/low_light_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

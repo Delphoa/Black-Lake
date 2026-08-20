@@ -98,7 +98,7 @@ The selected paper contributes a active, algorithm, scalable perspective. The th
 - https://arxiv.org/html/2409.07392 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.07392 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.07392 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scalable%20Algorithm%20for - related DEP: Scalable Algorithm for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Algorithm for/scalable_algorithm_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scalable%20Algorithm%20for - related DEP: Scalable Algorithm for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Algorithm for/scalable_algorithm_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

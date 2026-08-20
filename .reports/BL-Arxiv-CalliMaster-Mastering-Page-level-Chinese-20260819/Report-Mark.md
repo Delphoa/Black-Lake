@@ -98,7 +98,7 @@ The selected paper contributes a calligraphy, callimaster, chinese perspective. 
 - https://arxiv.org/html/2603.12482 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.12482 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.12482 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20Pensieve%20Paradigm - related DEP: The Pensieve Paradigm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Pensieve Paradigm/the_pensieve_paradigm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RAIR%20Retrieval-Augmented - related DEP: RAIR Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RAIR Retrieval-Augmented/rair_retrieval_augmented_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DomainRAG%20A%20Chinese - related DEP: DomainRAG A Chinese - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DomainRAG A Chinese/domainrag_a_chinese_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20Pensieve%20Paradigm - related DEP: The Pensieve Paradigm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Pensieve Paradigm/the_pensieve_paradigm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RAIR%20Retrieval-Augmented - related DEP: RAIR Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RAIR Retrieval-Augmented/rair_retrieval_augmented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DomainRAG%20A%20Chinese - related DEP: DomainRAG A Chinese - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DomainRAG A Chinese/domainrag_a_chinese_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

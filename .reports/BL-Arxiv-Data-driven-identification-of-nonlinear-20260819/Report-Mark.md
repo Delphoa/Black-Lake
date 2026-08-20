@@ -98,7 +98,7 @@ The selected paper contributes a autoencoders, data-driven, dynamical perspectiv
 - https://arxiv.org/html/2503.03977 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.03977 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.03977 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity - related DEP: Multi-fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity/multi_fidelity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cross-Layer%20Traffic - related DEP: Cross-Layer Traffic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cross-Layer Traffic/cross_layer_traffic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-fidelity - related DEP: Multi-fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-fidelity/multi_fidelity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related DEP: Dynamical Dictionary - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Dynamical Dictionary/dynamical_dictionary_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cross-Layer%20Traffic - related DEP: Cross-Layer Traffic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cross-Layer Traffic/cross_layer_traffic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

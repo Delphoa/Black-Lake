@@ -98,7 +98,7 @@ The selected paper contributes a domain-specific, drak, insights perspective. Th
 - https://arxiv.org/html/2406.18535 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.18535 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.18535 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DomainRAG%20A%20Chinese - related DEP: DomainRAG A Chinese - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DomainRAG A Chinese/domainrag_a_chinese_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DomainRAG%20A%20Chinese - related DEP: DomainRAG A Chinese - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DomainRAG A Chinese/domainrag_a_chinese_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

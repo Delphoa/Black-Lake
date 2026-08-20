@@ -95,7 +95,7 @@ The selected paper contributes a alleviating, bias, cognitive perspective. The t
 - https://arxiv.org/html/2503.02539 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.02539 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.02539 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-KDFlow%20LLM%20Distill - related DEP: KDFlow LLM Distill - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill/kdflow_llm_distill_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Alleviating%20Inconsistency - related DEP: Alleviating Inconsistency Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Alleviating Inconsistency/alleviating_inconsistency_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-KDFlow%20LLM%20Distill - related DEP: KDFlow LLM Distill - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill/kdflow_llm_distill_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

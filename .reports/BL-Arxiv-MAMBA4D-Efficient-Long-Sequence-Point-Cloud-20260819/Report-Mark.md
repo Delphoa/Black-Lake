@@ -98,7 +98,7 @@ The selected paper contributes a cloud, disentangled, long-sequence perspective.
 - https://arxiv.org/html/2405.14338 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.14338 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.14338 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Global - related DEP: Efficient Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Global/efficient_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Counting%20How%20the%20Seconds - related DEP: Counting How the Seconds - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Counting How the Seconds/counting_how_the_seconds_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Global - related DEP: Efficient Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Global/efficient_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Counting%20How%20the%20Seconds - related DEP: Counting How the Seconds - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Counting How the Seconds/counting_how_the_seconds_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -153,7 +153,7 @@ def can_deploy(test, domain_margin_approved, shift_check):
 - https://arxiv.org/pdf/2603.10886 - cross-format verification; source withheld.
 - https://arxiv.org/e-print/2603.10886 - theorem/proof/figure cross-checks; source withheld.
 - https://doi.org/10.48550/arXiv.2603.10886 - persistent identity.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - confidence/calibration synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Noisy%20Poisson%20Inference - hypothesis-calibration synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Transport%20Convexity - distribution-geometry synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - confidence/calibration synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Noisy%20Poisson%20Inference - hypothesis-calibration synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Transport%20Convexity - distribution-geometry synthesis.
 - Source files: verified PDF, HTML, metadata, source package, extracted text, and cache; all withheld locally. Zero source uploads. Job `BLAD-2200-20260719-7D93E819`, item `BLAD-2200-20260719-7D93E819-P04`.

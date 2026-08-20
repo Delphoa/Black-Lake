@@ -84,15 +84,15 @@ All numeric results above are author-reported values from the inspected paper. R
 
 Exactly three related entries were selected:
 
-1. [Hypercomplex MRI - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md)
+1. [Hypercomplex MRI - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`
    - Relevance: It reviews a clinical imaging model that trades model size against source-reported quality and explicitly separates parameter count from latency, memory, calibration, pathology preservation, and clinical readiness.
    - Source basis: the DEP manuscript and its primary reviewed paper, arXiv:2503.05063.
-2. [AV Emotion Fusion - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md)
+2. [AV Emotion Fusion - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`
    - Relevance: It reviews multimodal physiological-signal learning under class imbalance and shows why group-disjoint splits, representation-value tests, calibration, and missing-stream stress tests are required before trusting fusion.
    - Source basis: the DEP manuscript and its primary reviewed paper, arXiv:2006.08129.
-3. [PAC Confidence - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md)
+3. [PAC Confidence - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md)
    - Repository path: `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
    - Relevance: It supplies finite-sample confidence intervals, threshold selection, abstention logic, and the explicit requirement that calibration and deployment distributions match.
    - Source basis: the DEP manuscript and its primary reviewed paper, arXiv:2011.00716v5.
@@ -204,13 +204,13 @@ assert audit["mode"] == "gaussian"
 - Source URL: https://doi.org/10.48550/arXiv.2606.06718
   - Applies to: persistent paper identity.
   - Notes: arXiv-issued DOI.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
   - Applies to: related DEP 1 and clinical-efficiency/safety synthesis.
   - Notes: Existing processed Black Lake artifact; primary basis https://arxiv.org/abs/2503.05063.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
   - Applies to: related DEP 2 and signal-fusion/split-lineage synthesis.
   - Notes: Existing processed Black Lake artifact; primary basis https://arxiv.org/abs/2006.08129.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
   - Applies to: related DEP 3 and calibration/abstention synthesis.
   - Notes: Existing processed Black Lake artifact; primary basis https://arxiv.org/abs/2011.00716.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

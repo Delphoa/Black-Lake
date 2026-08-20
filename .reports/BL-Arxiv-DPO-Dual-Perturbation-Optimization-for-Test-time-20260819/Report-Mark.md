@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, detection, dpo perspective. The thr
 - https://arxiv.org/html/2406.13891 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.13891 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3664647.3681040 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Alada%20Alternating - related DEP: Alada Alternating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Alada Alternating/alada_alternating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Alada%20Alternating - related DEP: Alada Alternating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Alada Alternating/alada_alternating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Unsupervised%20Adaptation - related DEP: Unsupervised Adaptation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Unsupervised Adaptation/unsupervised_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

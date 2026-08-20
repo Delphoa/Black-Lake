@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, atmospheric, descent perspective. Th
 - https://arxiv.org/html/2209.04157 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.04157 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TAES.2023.3271961 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Multi-parameter - related DEP: A Multi-parameter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Multi-parameter/a_multi_parameter_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Earth-o1%20A%20Grid-free - related DEP: Earth-o1 A Grid-free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Earth-o1 A Grid-free/earth_o1_a_grid_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Multi-parameter - related DEP: A Multi-parameter - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Multi-parameter/a_multi_parameter_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Earth-o1%20A%20Grid-free - related DEP: Earth-o1 A Grid-free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Earth-o1 A Grid-free/earth_o1_a_grid_free_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

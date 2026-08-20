@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, block, complex perspective. The thre
 - https://arxiv.org/html/2208.14666 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.14666 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.14666 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Ultra-Low%20Complexity - related DEP: Ultra-Low Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Ultra-Low Complexity/ultra_low_complexity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Subspace-based - related DEP: Subspace-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Subspace-based/subspace_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-UAV%20s%20Rotor%20Micro-Doppler - related DEP: UAV s Rotor Micro-Doppler - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UAV s Rotor Micro-Doppler/uav_s_rotor_micro_doppler_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Ultra-Low%20Complexity - related DEP: Ultra-Low Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Ultra-Low Complexity/ultra_low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Subspace-based - related DEP: Subspace-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Subspace-based/subspace_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-UAV%20s%20Rotor%20Micro-Doppler - related DEP: UAV s Rotor Micro-Doppler - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UAV s Rotor Micro-Doppler/uav_s_rotor_micro_doppler_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -48,13 +48,13 @@ The elliptic family also admits an intrinsic description. Horo-geodesic coordina
 
 ## Related DEP Entries
 
-1. [Flag Hardy Operators](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
+1. [Flag Hardy Operators](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
    - Relevance: both works let non-Euclidean symmetry determine the correct analytic object. Flag Hardy analysis preserves anisotropic Heisenberg scales; extrinsic catenaries preserve the orbit and causal structure of the hyperboloid model.
    - Source basis: the related manuscript's source metadata, executive summary, group dilation, flag-geometry discussion, and proof-mechanism analysis were inspected.
-2. [iKalibr Calibration](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md)
+2. [iKalibr Calibration](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md)
    - Relevance: both works represent continuous curves on non-Euclidean spaces, distinguish coordinate choices from invariant content, and use group actions or Lie algebra machinery to preserve geometry.
    - Source basis: the related manuscript's source metadata, continuous-time `SO(3)` spline representation, gauge choice, and geometric-observability notes were inspected.
-3. [CoreMem Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-CoreMem%20Geometry/2606.18406-whitepaper-review.md)
+3. [CoreMem Geometry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-CoreMem%20Geometry/2606.18406-whitepaper-review.md)
    - Relevance: this is a deliberate negative bridge. CoreMem's review shows how “Riemannian” can collapse to global covariance reweighting; the selected paper instead supplies an explicit manifold, induced metric, ambient bilinear form, isometry group, and curvature law.
    - Source basis: the related review's executive assessment, covariance construction, dimensional audit, and criticism of unsupported Fisher-Rao terminology were inspected.
 
@@ -171,13 +171,13 @@ This bounded checker preserves known defects as review prompts; it does not prov
 - Source URL: https://doi.org/10.48550/arXiv.2211.15297
   - Applies to: stable arXiv identifier.
   - Notes: arXiv-issued DOI.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
   - Applies to: related symmetry-adapted non-Euclidean analysis.
   - Notes: Processed context only; not validation evidence.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
   - Applies to: related Lie-group curve, gauge, and geometric-estimation analysis.
   - Notes: Processed context only; not validation evidence.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-CoreMem%20Geometry/2606.18406-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-CoreMem%20Geometry/2606.18406-whitepaper-review.md
   - Applies to: negative comparison for unsupported geometric terminology.
   - Notes: Processed context only; not validation evidence.
 - Source-file policy: all original sources and extraction caches were withheld locally.
