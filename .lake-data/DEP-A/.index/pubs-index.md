@@ -12542,3 +12542,11 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |
+
+## [DEP-A-20260820-2607.14547 AdaTurn](../DEP-A-20260820-2607.14547%20AdaTurn/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.14547%20AdaTurn/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaTurn: Budget-Aware Test-Time Scaling for Active Visual Perception Agents* | Susan Liang; Chao Huang; Filippos Bellos; Jing Bi; Jason J Corso; Chenliang Xu | [arXiv:2607.14547v1](https://arxiv.org/abs/2607.14547v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14547) |
