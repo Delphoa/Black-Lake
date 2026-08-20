@@ -12622,3 +12622,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials* | Jia Bi; Alin Marin Elena; Samuel Pinilla | [arXiv:2606.15892v1](https://arxiv.org/abs/2606.15892v1) · [DOI](https://doi.org/10.48550/arXiv.2606.15892) |
+
+## [DEP-A-20260820-2606.07728 Characterizing](../DEP-A-20260820-2606.07728%20Characterizing/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.07728%20Characterizing/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Characterizing the Discrete Geometry of ReLU Networks* | Blake B. Gaines; Jinbo Bi | [arXiv:2606.07728v1](https://arxiv.org/abs/2606.07728v1) · [DOI](https://doi.org/10.48550/arXiv.2606.07728) |
