@@ -12566,3 +12566,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations* | Weiheng Zhong; Jing Bi; Victor Oancea; Hadi Meidani | [arXiv:2607.08025v1](https://arxiv.org/abs/2607.08025v1) · [DOI](https://doi.org/10.48550/arXiv.2607.08025) |
+
+## [DEP-A-20260820-2607.05297 MetaSkill-Evol](../DEP-A-20260820-2607.05297%20MetaSkill-Evol/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.05297%20MetaSkill-Evol/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution* | Zefeng Wang; Minxi Yan; Jinhe Bi; Sikuan Yan; Volker Tresp; Yunpu Ma | [arXiv:2607.05297v1](https://arxiv.org/abs/2607.05297v1) · [DOI](https://doi.org/10.48550/arXiv.2607.05297) |
