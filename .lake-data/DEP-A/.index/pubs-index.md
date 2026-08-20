@@ -12670,3 +12670,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning* | Jiaxi Bi; Tongxu Luo; Wenyu Du; Zhengyang Tang; Benyou Wang | [arXiv:2604.16029v2](https://arxiv.org/abs/2604.16029v2) · [DOI](https://doi.org/10.48550/arXiv.2604.16029) |
+
+## [DEP-A-20260820-2604.09089 DeepGuard](../DEP-A-20260820-2604.09089%20DeepGuard/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.09089%20DeepGuard/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation* | Li Huang; Zhongxin Liu; Yifan Wu; Tao Yin; Dong Li; Jichao Bi; Nankun Mu; Hongyu Zhang; Meng Yan | [arXiv:2604.09089v1](https://arxiv.org/abs/2604.09089v1) · [DOI](https://doi.org/10.48550/arXiv.2604.09089) |
