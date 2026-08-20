@@ -12638,3 +12638,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Diffusion-Based Heart Sound Generation: Evaluation with Physiological Signal Metrics, Classifiers, and Expert Listening* | Xinqi Bao; Jia Bi; Xin Chen; Ernest Nlandu Kamavuako; Saikat Chatterjee | [arXiv:2606.02448v1](https://arxiv.org/abs/2606.02448v1) · [DOI](https://doi.org/10.48550/arXiv.2606.02448) |
+
+## [DEP-A-20260820-2606.01393 Dr DocBench](../DEP-A-20260820-2606.01393%20Dr%20DocBench/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.01393%20Dr%20DocBench/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dr. DocBench: A Comprehensive Benchmark for Expert-Level and Difficult Document Parsing* | Minglai Yang; Xinyan Velocity Yu; Pengyuan Li; Xinyu Guo; Zhenting Qi; Konwoo Kim; Longtian Ye; Xiaolong Luo; Jinhe Bi; Henry Zhang; Haris Riaz; Xuan Zhang; Yunze Xiao; Bangya Liu; Tom Tang; Yunfei Zhao; Qunshu Lin; Zihan Wang; Minghao Liu; Michael Lingzhi Li; Yilun Du; Jesse Thomason; Rogerio Feris; Alex Pentland; Zexue He | [arXiv:2606.01393v1](https://arxiv.org/abs/2606.01393v1) · [DOI](https://doi.org/10.48550/arXiv.2606.01393) |
