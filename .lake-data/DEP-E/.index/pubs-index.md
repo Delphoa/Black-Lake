@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1186 publication reviews across 832 DEP-E entries**.
+- Current coverage: **2003 publication reviews across 1649 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-20; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -18,6 +18,18 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors | Canonical source | Owning DEP |
 |---|---|---|---|
 | *Tailored Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud System* | Yiwen Han; Shihao Shen; Xiaofei Wang; Shiqiang Wang; Victor C. M. Leung | [arXiv:2101.06582](https://arxiv.org/abs/2101.06582) - [DOI](https://doi.org/10.1109/INFOCOM42981.2021.9488701) | [DEP-E](../DEP-E-20260820-KaiS%20Edge%20Scheduling/README.md) |
+
+## [DEP-E-20260820-Spectrum Occupancy](../DEP-E-20260820-Spectrum%20Occupancy/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Analysis of Spectrum Occupancy Using Machine Learning Algorithms* | Freeha Azmat; Yunfei Chen; Nigel Stocks | [arXiv:1503.07104](https://arxiv.org/abs/1503.07104) - [DOI](https://doi.org/10.48550/arXiv.1503.07104) - [Journal DOI](https://doi.org/10.1109/TVT.2015.2487047) | [DEP-E](../DEP-E-20260820-Spectrum%20Occupancy/README.md) |
+
+## [DEP-E-20260820-GenPT Psychometrics](../DEP-E-20260820-GenPT%20Psychometrics/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *GenPT: Beyond Self-Report for Reliable LLM Psychometrics via Generative Projective Testing* | Ming Wang; Shuang Wu; Bixuan Wang; et al. | [arXiv:2606.00860](https://arxiv.org/abs/2606.00860) | [DEP-E](../DEP-E-20260820-GenPT%20Psychometrics/README.md) |
 
 ## [DEP-E-20260820-The-Influence-of-A-A723](../DEP-E-20260820-The-Influence-of-A-A723/README.md)
 
@@ -522,6 +534,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 | Publication | Authors | Canonical source | Owning DEP |
 |---|---|---|---|
 | *From Abductive Explanations to Global Logical Rules for Node Classification in SGCs* | Bryan Lima Cavalcante; Thiago Alves Rocha | [arXiv:2608.17103](https://arxiv.org/abs/2608.17103) | [DEP-E](../DEP-E-20260820-From-Abductive-62F2/README.md) |
+
+## [DEP-E-20260820-Simulation Dexterity](../DEP-E-20260820-Simulation%20Dexterity/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Pre-training Visual Dexterity in Simulation* | Sarthak Kamat; Adam Rashid; Satvik Sharma; Aseem Doriwala; Chelsea Finn; Phillip Isola; C. Karen Liu | [arXiv:2608.15917](https://arxiv.org/abs/2608.15917) | [DEP-E](../DEP-E-20260820-Simulation%20Dexterity/README.md) |
 
 ## [DEP-E-20260820-Synthesizing-like-C659](../DEP-E-20260820-Synthesizing-like-C659/README.md)
 
