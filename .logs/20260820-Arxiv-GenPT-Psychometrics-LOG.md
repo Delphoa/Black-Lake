@@ -49,10 +49,16 @@
 
 ## Validation Status
 
-- Manuscript schema: required headings, front matter, evidence ledger, identical title/H1, and exactly three exercise paths prepared for validation.
+- Manuscript schema: required headings, front matter, evidence ledger, identical title/H1, and exactly three exercise paths validated.
 - Report-Mark contract: source metadata, evidence attribution, exactly three related DEP entries, Synthesis Note cardinalities, validation notes, and final Attribution Block included.
 - DEP README: title, tags, public-safe context, contents, item summaries, insights, and final Attribution Block included.
 - Public-output allowlist: only generated Markdown under `.logs`, `.reports`, and `.lake-data` is intended for staging; no PDF, HTML, source archive, cache, extracted text, or `.source/` path is permitted.
+
+## Submission
+
+- Repository: direct push to the default branch; remote commit verified at https://github.com/Delphoa/Black-Lake/commit/5d98b49245c319e626c0634f4a7535426520cb06.
+- Slack: posted to `#black-lake-artifacts` at https://delphoalabs.slack.com/archives/C0BFP2E4ZNJ/p1787192501624359.
+- Submission scope: five public Markdown artifacts only; no source files or `.source/` directory were uploaded.
 
 ## Exactly 3 Next-Review Questions
 
