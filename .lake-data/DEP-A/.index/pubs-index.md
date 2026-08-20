@@ -12678,3 +12678,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation* | Li Huang; Zhongxin Liu; Yifan Wu; Tao Yin; Dong Li; Jichao Bi; Nankun Mu; Hongyu Zhang; Meng Yan | [arXiv:2604.09089v1](https://arxiv.org/abs/2604.09089v1) · [DOI](https://doi.org/10.48550/arXiv.2604.09089) |
+
+## [DEP-A-20260820-2604.00986 Do Phone-Use A](../DEP-A-20260820-2604.00986%20Do%20Phone-Use%20A/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v2 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.00986%20Do%20Phone-Use%20A/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do Phone-Use Agents Respect Your Privacy?* | Zhengyang Tang; Ke Ji; Xidong Wang; Zihan Ye; Xinyuan Wang; Yiduo Guo; Ziniu Li; Chenxin Li; Jingyuan Hu; Shunian Chen; Tongxu Luo; Jiaxi Bi; Zeyu Qin; Shaobo Wang; Xin Lai; Pengyuan Lyu; Junyi Li; Can Xu; Chengquan Zhang; Han Hu; Ming Yan; Benyou Wang | [arXiv:2604.00986v2](https://arxiv.org/abs/2604.00986v2) · [DOI](https://doi.org/10.48550/arXiv.2604.00986) |
