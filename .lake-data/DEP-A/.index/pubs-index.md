@@ -12614,3 +12614,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence* | Xuanle Zhao; Qiushi Sun; Jingyu Xiao; Xuexin Liu; Haoyue Yang; Qiaosheng Chen; Xianzhen Luo; Jing Huang; Yufeng Zhong; Lei Chen; Shuai Fu; Zhenlin Wei; Jinhe Bi; Lei Jiang; Haibo Qiu; Siqi Yang; Peng Shi; Jian Hu; Zhixiong Zeng | [arXiv:2606.15932v2](https://arxiv.org/abs/2606.15932v2) · [DOI](https://doi.org/10.48550/arXiv.2606.15932) |
+
+## [DEP-A-20260820-2606.15892 Scalar-pathway](../DEP-A-20260820-2606.15892%20Scalar-pathway/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.15892%20Scalar-pathway/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials* | Jia Bi; Alin Marin Elena; Samuel Pinilla | [arXiv:2606.15892v1](https://arxiv.org/abs/2606.15892v1) · [DOI](https://doi.org/10.48550/arXiv.2606.15892) |
