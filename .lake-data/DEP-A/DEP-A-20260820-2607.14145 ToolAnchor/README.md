@@ -1,8 +1,8 @@
-# DEP-A-20260804-SIGMA Chem Align Intake
+# DEP-A-20260820-2607.14145 ToolAnchor
 
-#sigma #structure-invariant #generative #molecular #alignment #chemical #language #arxiv #whitepaper-review #remediation #evidence-audit
+#toolanchor #anchoring #counterfactual #context #boost #agentic #tool-use #arxiv #whitepaper-review #remediation #evidence-audit
 
-Public deposition context: enhanced remediation dossier for [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1), stable arXiv v1. The source documents were verified from a locally archived full PDF and matching full-paper HTML and are withheld from the repository.
+Public deposition context: enhanced remediation dossier for [ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability](https://arxiv.org/abs/2607.14145v1), stable arXiv v1. The source documents were verified from a locally archived full PDF and matching full-paper HTML and are withheld from the repository.
 
 ## Contents
 
@@ -18,8 +18,6 @@ Public deposition context: enhanced remediation dossier for [SIGMA: Structure-In
   - Paper-specific failure codes, publication consequence, and preservation boundary.
 - `remediation-and-revalidation.md`
   - Corrective tasks, attempt lineage, validation metrics, and evidence limits.
-- `whitepaper-intake-review.md`
-  - Existing same-paper archival intake review retained unchanged as historical context.
 
 ## Summary of Items
 
@@ -33,19 +31,21 @@ The dossier supports auditability and traceable lineage. It does not certify cor
 
 ## Associated DEP Records
 
-- [same-paper DEP-E research record](../../DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align/README.md) — Same arXiv identity; the DEP-E supplied the earlier research synthesis.
-- [same-paper earlier DEP-A intake artifact](whitepaper-intake-review.md) — The existing intake review is retained unchanged; this remediation adds a fresh full-paper review and workflow evidence.
+- No strong same-paper, predecessor, implementation, or benchmark DEP association was verified; weak topical links were intentionally omitted.
 
 ## Attribution Block
 
-- Canonical paper: [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1)
-- Canonical PDF: https://arxiv.org/pdf/2603.25062v1
-- Canonical full-paper HTML: https://arxiv.org/html/2603.25062v1
-- Canonical DOI resolver: https://doi.org/10.48550/arXiv.2603.25062
+- Canonical paper: [ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability](https://arxiv.org/abs/2607.14145v1)
+- Canonical PDF: https://arxiv.org/pdf/2607.14145v1
+- Canonical full-paper HTML: https://arxiv.org/html/2607.14145v1
+- Canonical DOI resolver: https://doi.org/10.48550/arXiv.2607.14145
 - Authors:
-  - [Xinyu Wang](https://arxiv.org/search/?query=Xinyu+Wang&searchtype=author)
-  - [Fei Dou](https://arxiv.org/search/?query=Fei+Dou&searchtype=author)
-  - [Jinbo Bi](https://arxiv.org/search/?query=Jinbo+Bi&searchtype=author)
-  - [Minghu Song](https://arxiv.org/search/?query=Minghu+Song&searchtype=author)
+  - [Weiting Liu](https://arxiv.org/search/?query=Weiting+Liu&searchtype=author)
+  - [Jieyi Bi](https://arxiv.org/search/?query=Jieyi+Bi&searchtype=author)
+  - [Wanqi Zhou](https://arxiv.org/search/?query=Wanqi+Zhou&searchtype=author)
+  - [Jianfeng Feng](https://arxiv.org/search/?query=Jianfeng+Feng&searchtype=author)
+  - [Yining Ma](https://arxiv.org/search/?query=Yining+Ma&searchtype=author)
+  - [Ai Han](https://arxiv.org/search/?query=Ai+Han&searchtype=author)
+  - [Wenlian Lu](https://arxiv.org/search/?query=Wenlian+Lu&searchtype=author)
 - Source-document handling: the complete source PDF and full-paper HTML were verified locally and withheld from this repository.
 - Generated artifacts: all Markdown files in this dossier are derived public-safe review, failure, or workflow records; no source document, cache, validator JSON, or private ledger was uploaded.

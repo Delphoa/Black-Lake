@@ -1,8 +1,8 @@
-# DEP-A-20260804-SIGMA Chem Align Intake
+# DEP-A-20260820-2604.16029 Cut Losses Lea
 
-#sigma #structure-invariant #generative #molecular #alignment #chemical #language #arxiv #whitepaper-review #remediation #evidence-audit
+#cut #losses #learning #prune #paths #early #efficient #arxiv #whitepaper-review #remediation #evidence-audit
 
-Public deposition context: enhanced remediation dossier for [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1), stable arXiv v1. The source documents were verified from a locally archived full PDF and matching full-paper HTML and are withheld from the repository.
+Public deposition context: enhanced remediation dossier for [Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning](https://arxiv.org/abs/2604.16029v2), stable arXiv v2. The source documents were verified from a locally archived full PDF and matching full-paper HTML and are withheld from the repository.
 
 ## Contents
 
@@ -18,8 +18,6 @@ Public deposition context: enhanced remediation dossier for [SIGMA: Structure-In
   - Paper-specific failure codes, publication consequence, and preservation boundary.
 - `remediation-and-revalidation.md`
   - Corrective tasks, attempt lineage, validation metrics, and evidence limits.
-- `whitepaper-intake-review.md`
-  - Existing same-paper archival intake review retained unchanged as historical context.
 
 ## Summary of Items
 
@@ -33,19 +31,19 @@ The dossier supports auditability and traceable lineage. It does not certify cor
 
 ## Associated DEP Records
 
-- [same-paper DEP-E research record](../../DEP-E/DEP-E-20260803-SIGMA%20Chem%20Align/README.md) — Same arXiv identity; the DEP-E supplied the earlier research synthesis.
-- [same-paper earlier DEP-A intake artifact](whitepaper-intake-review.md) — The existing intake review is retained unchanged; this remediation adds a fresh full-paper review and workflow evidence.
+- No strong same-paper, predecessor, implementation, or benchmark DEP association was verified; weak topical links were intentionally omitted.
 
 ## Attribution Block
 
-- Canonical paper: [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062v1)
-- Canonical PDF: https://arxiv.org/pdf/2603.25062v1
-- Canonical full-paper HTML: https://arxiv.org/html/2603.25062v1
-- Canonical DOI resolver: https://doi.org/10.48550/arXiv.2603.25062
+- Canonical paper: [Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning](https://arxiv.org/abs/2604.16029v2)
+- Canonical PDF: https://arxiv.org/pdf/2604.16029v2
+- Canonical full-paper HTML: https://arxiv.org/html/2604.16029v2
+- Canonical DOI resolver: https://doi.org/10.48550/arXiv.2604.16029
 - Authors:
-  - [Xinyu Wang](https://arxiv.org/search/?query=Xinyu+Wang&searchtype=author)
-  - [Fei Dou](https://arxiv.org/search/?query=Fei+Dou&searchtype=author)
-  - [Jinbo Bi](https://arxiv.org/search/?query=Jinbo+Bi&searchtype=author)
-  - [Minghu Song](https://arxiv.org/search/?query=Minghu+Song&searchtype=author)
+  - [Jiaxi Bi](https://arxiv.org/search/?query=Jiaxi+Bi&searchtype=author)
+  - [Tongxu Luo](https://arxiv.org/search/?query=Tongxu+Luo&searchtype=author)
+  - [Wenyu Du](https://arxiv.org/search/?query=Wenyu+Du&searchtype=author)
+  - [Zhengyang Tang](https://arxiv.org/search/?query=Zhengyang+Tang&searchtype=author)
+  - [Benyou Wang](https://arxiv.org/search/?query=Benyou+Wang&searchtype=author)
 - Source-document handling: the complete source PDF and full-paper HTML were verified locally and withheld from this repository.
 - Generated artifacts: all Markdown files in this dossier are derived public-safe review, failure, or workflow records; no source document, cache, validator JSON, or private ledger was uploaded.

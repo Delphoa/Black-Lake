@@ -12542,3 +12542,163 @@ Review status: substantively re-reviewed from the complete canonical arXiv paper
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *CFP: Efficient Optimization of Intra-Operator Parallelism Plans for Large Model Training* | Hu, Weifang; Shi, Xuanhua; Zhang, Yunkai; Wu, Chang; Peng, Xuan; Zhai, Jiaqi; Jin, Hai; Qian, Xuehai; Xue, Jingling; Zhou, Yongluan | [arXiv:2504.00598](https://arxiv.org/abs/2504.00598) - [DOI](https://doi.org/10.48550/arXiv.2504.00598) |
+
+## [DEP-A-20260820-2607.14547 AdaTurn](../DEP-A-20260820-2607.14547%20AdaTurn/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.14547%20AdaTurn/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *AdaTurn: Budget-Aware Test-Time Scaling for Active Visual Perception Agents* | Susan Liang; Chao Huang; Filippos Bellos; Jing Bi; Jason J Corso; Chenliang Xu | [arXiv:2607.14547v1](https://arxiv.org/abs/2607.14547v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14547) |
+
+## [DEP-A-20260820-2607.14145 ToolAnchor](../DEP-A-20260820-2607.14145%20ToolAnchor/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.14145%20ToolAnchor/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability* | Weiting Liu; Jieyi Bi; Wanqi Zhou; Jianfeng Feng; Yining Ma; Ai Han; Wenlian Lu | [arXiv:2607.14145v1](https://arxiv.org/abs/2607.14145v1) · [DOI](https://doi.org/10.48550/arXiv.2607.14145) |
+
+## [DEP-A-20260820-2607.08025 PGD-NO](../DEP-A-20260820-2607.08025%20PGD-NO/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.08025%20PGD-NO/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations* | Weiheng Zhong; Jing Bi; Victor Oancea; Hadi Meidani | [arXiv:2607.08025v1](https://arxiv.org/abs/2607.08025v1) · [DOI](https://doi.org/10.48550/arXiv.2607.08025) |
+
+## [DEP-A-20260820-2607.05297 MetaSkill-Evol](../DEP-A-20260820-2607.05297%20MetaSkill-Evol/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2607.05297%20MetaSkill-Evol/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution* | Zefeng Wang; Minxi Yan; Jinhe Bi; Sikuan Yan; Volker Tresp; Yunpu Ma | [arXiv:2607.05297v1](https://arxiv.org/abs/2607.05297v1) · [DOI](https://doi.org/10.48550/arXiv.2607.05297) |
+
+## [DEP-A-20260820-2606.29948 Heterogeneous](../DEP-A-20260820-2606.29948%20Heterogeneous/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.29948%20Heterogeneous/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heterogeneous Tactile Transformer* | Jianxin Bi; Qiang Wang; Jayaram Reddy; Kelvin Lin; Soibkhon Khajikhanov; Ruihan Gao; Harold Soh | [arXiv:2606.29948v1](https://arxiv.org/abs/2606.29948v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29948) |
+
+## [DEP-A-20260820-2606.25905 SurgAtlas](../DEP-A-20260820-2606.25905%20SurgAtlas/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.25905%20SurgAtlas/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SurgAtlas: A Large-Scale Surgical Video-Language Dataset with 2,391 Hours of Open and Minimally Invasive Surgery* | Filippos Bellos; Andre S. Gala-Garza; Miaowei Wang; Alyssa M. Hardin; Ahmad M. Hider; Yayuan Li; Jing Bi; Susan Liang; Chenliang Xu; Donald S. Likosky; Jason J. Corso | [arXiv:2606.25905v1](https://arxiv.org/abs/2606.25905v1) · [DOI](https://doi.org/10.48550/arXiv.2606.25905) |
+
+## [DEP-A-20260820-2606.19741 Interpreting N](../DEP-A-20260820-2606.19741%20Interpreting%20N/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.19741%20Interpreting%20N/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Haocheng Duan; Yuxin Guo; Jieyi Bi; Anqi Xie; Sirui Li; Yining Ma; Cathy Wu | [arXiv:2606.19741v1](https://arxiv.org/abs/2606.19741v1) · [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
+
+## [DEP-A-20260820-2606.17861 GameCraft-Benc](../DEP-A-20260820-2606.17861%20GameCraft-Benc/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.17861%20GameCraft-Benc/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?* | Tongxu Luo; Rongsheng Wang; Jiaxi Bi; Chenming Xu; Zhengyang Tang; Jianlong Chen; Juhao Liang; Ke Ji; Shuqi Guo; Yuhao Du; Fan Bu; Wenyu Du; Xiaotong Zhang; Kyle Li; Shaobo Wang; Linfeng Zhang; Yuxuan Liu; Xin Lai; Chenxin Li; Yiduo Guo; Zhexin Zhang; Xinyuan Wang; Tianyi Bai; Ziniu Li; Benyou Wang | [arXiv:2606.17861v1](https://arxiv.org/abs/2606.17861v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17861) |
+
+## [DEP-A-20260820-2606.15932 Beyond NL2Code](../DEP-A-20260820-2606.15932%20Beyond%20NL2Code/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v2 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.15932%20Beyond%20NL2Code/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence* | Xuanle Zhao; Qiushi Sun; Jingyu Xiao; Xuexin Liu; Haoyue Yang; Qiaosheng Chen; Xianzhen Luo; Jing Huang; Yufeng Zhong; Lei Chen; Shuai Fu; Zhenlin Wei; Jinhe Bi; Lei Jiang; Haibo Qiu; Siqi Yang; Peng Shi; Jian Hu; Zhixiong Zeng | [arXiv:2606.15932v2](https://arxiv.org/abs/2606.15932v2) · [DOI](https://doi.org/10.48550/arXiv.2606.15932) |
+
+## [DEP-A-20260820-2606.15892 Scalar-pathway](../DEP-A-20260820-2606.15892%20Scalar-pathway/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.15892%20Scalar-pathway/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials* | Jia Bi; Alin Marin Elena; Samuel Pinilla | [arXiv:2606.15892v1](https://arxiv.org/abs/2606.15892v1) · [DOI](https://doi.org/10.48550/arXiv.2606.15892) |
+
+## [DEP-A-20260820-2606.07728 Characterizing](../DEP-A-20260820-2606.07728%20Characterizing/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.07728%20Characterizing/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Characterizing the Discrete Geometry of ReLU Networks* | Blake B. Gaines; Jinbo Bi | [arXiv:2606.07728v1](https://arxiv.org/abs/2606.07728v1) · [DOI](https://doi.org/10.48550/arXiv.2606.07728) |
+
+## [DEP-A-20260820-2606.02448 Diffusion-Base](../DEP-A-20260820-2606.02448%20Diffusion-Base/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.02448%20Diffusion-Base/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Diffusion-Based Heart Sound Generation: Evaluation with Physiological Signal Metrics, Classifiers, and Expert Listening* | Xinqi Bao; Jia Bi; Xin Chen; Ernest Nlandu Kamavuako; Saikat Chatterjee | [arXiv:2606.02448v1](https://arxiv.org/abs/2606.02448v1) · [DOI](https://doi.org/10.48550/arXiv.2606.02448) |
+
+## [DEP-A-20260820-2606.01393 Dr DocBench](../DEP-A-20260820-2606.01393%20Dr%20DocBench/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.01393%20Dr%20DocBench/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Dr. DocBench: A Comprehensive Benchmark for Expert-Level and Difficult Document Parsing* | Minglai Yang; Xinyan Velocity Yu; Pengyuan Li; Xinyu Guo; Zhenting Qi; Konwoo Kim; Longtian Ye; Xiaolong Luo; Jinhe Bi; Henry Zhang; Haris Riaz; Xuan Zhang; Yunze Xiao; Bangya Liu; Tom Tang; Yunfei Zhao; Qunshu Lin; Zihan Wang; Minghao Liu; Michael Lingzhi Li; Yilun Du; Jesse Thomason; Rogerio Feris; Alex Pentland; Zexue He | [arXiv:2606.01393v1](https://arxiv.org/abs/2606.01393v1) · [DOI](https://doi.org/10.48550/arXiv.2606.01393) |
+
+## [DEP-A-20260820-2605.14494 Learning Scena](../DEP-A-20260820-2605.14494%20Learning%20Scena/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2605.14494%20Learning%20Scena/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty* | Tianjue Lin; Jianan Zhou; Jieyi Bi; Yaoxin Wu; Wen Song; Zhiguang Cao; Jie Zhang | [arXiv:2605.14494v1](https://arxiv.org/abs/2605.14494v1) · [DOI](https://doi.org/10.48550/arXiv.2605.14494) |
+
+## [DEP-A-20260820-2605.01569 ShieldShare](../DEP-A-20260820-2605.01569%20ShieldShare/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2605.01569%20ShieldShare/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *ShieldShare: Building a VPN-backed Android Hotspot for Secure Internet Sharing with Per-User Traffic Accounting* | Carlos Semeho Edorh; Jialu Bi; Hanchen Ye; Dawood Sajjadi; Maryam Tanha | [arXiv:2605.01569v1](https://arxiv.org/abs/2605.01569v1) · [DOI](https://doi.org/10.48550/arXiv.2605.01569) |
+
+## [DEP-A-20260820-2604.16029 Cut Losses Lea](../DEP-A-20260820-2604.16029%20Cut%20Losses%20Lea/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v2 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.16029%20Cut%20Losses%20Lea/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning* | Jiaxi Bi; Tongxu Luo; Wenyu Du; Zhengyang Tang; Benyou Wang | [arXiv:2604.16029v2](https://arxiv.org/abs/2604.16029v2) · [DOI](https://doi.org/10.48550/arXiv.2604.16029) |
+
+## [DEP-A-20260820-2604.09089 DeepGuard](../DEP-A-20260820-2604.09089%20DeepGuard/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.09089%20DeepGuard/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation* | Li Huang; Zhongxin Liu; Yifan Wu; Tao Yin; Dong Li; Jichao Bi; Nankun Mu; Hongyu Zhang; Meng Yan | [arXiv:2604.09089v1](https://arxiv.org/abs/2604.09089v1) · [DOI](https://doi.org/10.48550/arXiv.2604.09089) |
+
+## [DEP-A-20260820-2604.00986 Do Phone-Use A](../DEP-A-20260820-2604.00986%20Do%20Phone-Use%20A/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v2 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.00986%20Do%20Phone-Use%20A/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Do Phone-Use Agents Respect Your Privacy?* | Zhengyang Tang; Ke Ji; Xidong Wang; Zihan Ye; Xinyuan Wang; Yiduo Guo; Ziniu Li; Chenxin Li; Jingyuan Hu; Shunian Chen; Tongxu Luo; Jiaxi Bi; Zeyu Qin; Shaobo Wang; Xin Lai; Pengyuan Lyu; Junyi Li; Can Xu; Chengquan Zhang; Han Hu; Ming Yan; Benyou Wang | [arXiv:2604.00986v2](https://arxiv.org/abs/2604.00986v2) · [DOI](https://doi.org/10.48550/arXiv.2604.00986) |
+
+## [DEP-A-20260820-2603.27186 Hybrid Deep Le](../DEP-A-20260820-2603.27186%20Hybrid%20Deep%20Le/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2603.27186%20Hybrid%20Deep%20Le/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hybrid Deep Learning with Temporal Data Augmentation for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries* | Yun Tian; Guili Wang; Jian Bi; Kaixin Han; Chenglu Wu; Zhiyi Lu; Chenhao Li; Liangwang Sun; Minyu Zhou; Chenchen Xu | [arXiv:2603.27186v1](https://arxiv.org/abs/2603.27186v1) · [DOI](https://doi.org/10.48550/arXiv.2603.27186) |
+
+## [DEP-A-20260804-SIGMA Chem Align Intake](../DEP-A-20260804-SIGMA%20Chem%20Align%20Intake/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260804-SIGMA%20Chem%20Align%20Intake/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning* | Xinyu Wang; Fei Dou; Jinbo Bi; Minghu Song | [arXiv:2603.25062v1](https://arxiv.org/abs/2603.25062v1) · [DOI](https://doi.org/10.48550/arXiv.2603.25062) |
