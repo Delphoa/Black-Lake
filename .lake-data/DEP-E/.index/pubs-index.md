@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1175 publication reviews across 821 DEP-E entries**.
+- Current coverage: **1176 publication reviews across 822 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-AeroCopilotBench-A-F978](../DEP-E-20260820-AeroCopilotBench-A-F978/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *AeroCopilotBench: A Two-Tier Benchmark for Evaluating LLM Agents as Aviation Copilots in an Interactive Virtual Cockpit Environment* | Yuchen Yuan; Zhenghuang Wu; Yuangan Li; Liang Ma; Ke Li | [arXiv:2608.16349](https://arxiv.org/abs/2608.16349) | [DEP-E](../DEP-E-20260820-AeroCopilotBench-A-F978/README.md) |
 
 ## [DEP-E-20260820-A-Calibrated-and-03C3](../DEP-E-20260820-A-Calibrated-and-03C3/README.md)
 
