@@ -2,7 +2,7 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **1976 publication reviews across 1622 DEP-E entries**.
+- Current coverage: **2000 publication reviews across 1646 DEP-E entries**.
 - Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-19; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
@@ -12,6 +12,150 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260820-The-Influence-of-A-A723](../DEP-E-20260820-The-Influence-of-A-A723/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *The Influence of Agent Models on the Complexity of Bus Routing* | Eva Deltl; Christian Komusiewicz; Jurek Rostalsky; Johannes Schröder; Luca Pascal Staus | [arXiv:2608.17733](https://arxiv.org/abs/2608.17733) | [DEP-E](../DEP-E-20260820-The-Influence-of-A-A723/README.md) |
+
+## [DEP-E-20260820-No-extension-of-th-F70D](../DEP-E-20260820-No-extension-of-th-F70D/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *No extension of the Quantum Tensor Product admits a Superposition principle* | Vincenzo Fiorentino; Kuntal Sengupta | [arXiv:2608.17572](https://arxiv.org/abs/2608.17572) | [DEP-E](../DEP-E-20260820-No-extension-of-th-F70D/README.md) |
+
+## [DEP-E-20260820-A-Theoretical-Fram-A8AB](../DEP-E-20260820-A-Theoretical-Fram-A8AB/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning* | Alex DeWeese; Jiaoyang Li; Guannan Qu | [arXiv:2608.17928](https://arxiv.org/abs/2608.17928) | [DEP-E](../DEP-E-20260820-A-Theoretical-Fram-A8AB/README.md) |
+
+## [DEP-E-20260820-Shielding-for-High-B684](../DEP-E-20260820-Shielding-for-High-B684/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Shielding for Higher-Order Safety* | Filip Cano; Thomas A. Henzinger; Konstantin Kueffner | [arXiv:2608.03662](https://arxiv.org/abs/2608.03662) | [DEP-E](../DEP-E-20260820-Shielding-for-High-B684/README.md) |
+
+## [DEP-E-20260820-SmartGen-Seamless-8CD2](../DEP-E-20260820-SmartGen-Seamless-8CD2/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *SmartGen: Seamless Disaggregated LLM Inference with Selective KV Cache Transfer* | Xuchuan Luo; Jiacheng Shen; Xin Wang; Yangfan Zhou | [arXiv:2607.28150](https://arxiv.org/abs/2607.28150) | [DEP-E](../DEP-E-20260820-SmartGen-Seamless-8CD2/README.md) |
+
+## [DEP-E-20260820-Polaris-Learning-t-6629](../DEP-E-20260820-Polaris-Learning-t-6629/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Polaris: Learning to Generate Table Descriptions from Retrieval Feedback* | Ting Cai; Tuan Minh Phan; AnHai Doan | [arXiv:2608.17171](https://arxiv.org/abs/2608.17171) | [DEP-E](../DEP-E-20260820-Polaris-Learning-t-6629/README.md) |
+
+## [DEP-E-20260820-LLMs-for-Zero-Shot-47E8](../DEP-E-20260820-LLMs-for-Zero-Shot-47E8/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *LLMs for Zero-Shot Threat Detection via Structured Risk Indicators* | Abdullah Alghamdi; Siamak Layeghy; Marius Portmann | [arXiv:2608.16508](https://arxiv.org/abs/2608.16508) | [DEP-E](../DEP-E-20260820-LLMs-for-Zero-Shot-47E8/README.md) |
+
+## [DEP-E-20260820-Asymptotics-guided-1B3E](../DEP-E-20260820-Asymptotics-guided-1B3E/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Asymptotics-guided learning and symbolic regression for dispersive resonances* | Konstantinos Alexopoulos; Josselin Garnier | [arXiv:2608.16152](https://arxiv.org/abs/2608.16152) | [DEP-E](../DEP-E-20260820-Asymptotics-guided-1B3E/README.md) |
+
+## [DEP-E-20260820-SCENARIODIFF-A-Sce-2DDE](../DEP-E-20260820-SCENARIODIFF-A-Sce-2DDE/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting--Extended Version* | Tuan-Binh Tran; Dat Nguyen Cong; Duc-Trong Le; Thanh Trung Huynh; Tung Kieu | [arXiv:2608.17164](https://arxiv.org/abs/2608.17164) | [DEP-E](../DEP-E-20260820-SCENARIODIFF-A-Sce-2DDE/README.md) |
+
+## [DEP-E-20260820-AeroCopilotBench-A-F978](../DEP-E-20260820-AeroCopilotBench-A-F978/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *AeroCopilotBench: A Two-Tier Benchmark for Evaluating LLM Agents as Aviation Copilots in an Interactive Virtual Cockpit Environment* | Yuchen Yuan; Zhenghuang Wu; Yuangan Li; Liang Ma; Ke Li | [arXiv:2608.16349](https://arxiv.org/abs/2608.16349) | [DEP-E](../DEP-E-20260820-AeroCopilotBench-A-F978/README.md) |
+
+## [DEP-E-20260820-A-Calibrated-and-03C3](../DEP-E-20260820-A-Calibrated-and-03C3/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *A Calibrated and Explainable Bimodal Machine Learning Framework for Hybrid Intrusion Detection* | Hafsa Aslam; Yue Li; Saba Aslam; Gracious Mwamughunda | [arXiv:2608.16160](https://arxiv.org/abs/2608.16160) | [DEP-E](../DEP-E-20260820-A-Calibrated-and-03C3/README.md) |
+
+## [DEP-E-20260820-Supervising-the-Pa-1553](../DEP-E-20260820-Supervising-the-Pa-1553/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Supervising the Path to Fine Scales: GalerkinFlow for Scientific-Field and Image Super-Resolution* | Zikang Zhan | [arXiv:2608.16546](https://arxiv.org/abs/2608.16546) | [DEP-E](../DEP-E-20260820-Supervising-the-Pa-1553/README.md) |
+
+## [DEP-E-20260820-Contrastive-Energy-D0EE](../DEP-E-20260820-Contrastive-Energy-D0EE/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Contrastive Energy Fields for Inference-Time Procedure Planning in Instructional Videos* | Mohamed Afham; Christoph Reich; Oliver Hahn; Daniel Cremers; Stefan Roth | [arXiv:2608.16457](https://arxiv.org/abs/2608.16457) | [DEP-E](../DEP-E-20260820-Contrastive-Energy-D0EE/README.md) |
+
+## [DEP-E-20260820-Proof-or-Stop-Don-CF1D](../DEP-E-20260820-Proof-or-Stop-Don-CF1D/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Proof-or-Stop: Don't Trust the Agent, Trust the Evidence -- Loop Engineering for Verifiable Evidence-Gated Lifecycle Control* | Jek Huang; Jeffery Hsia; Jiayi Sun; Freddie Shi; Wei Huang; Ian H. White | [arXiv:2607.14890](https://arxiv.org/abs/2607.14890) | [DEP-E](../DEP-E-20260820-Proof-or-Stop-Don-CF1D/README.md) |
+
+## [DEP-E-20260820-Recovering-protein-3ED6](../DEP-E-20260820-Recovering-protein-3ED6/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Recovering protein conformations from single-particle cryo-EM data via indirect shape matching gradient flows* | Erik Jansson; Jonathan Krook; Ozan Öktem; Carola-Bibiane Schönlieb | [arXiv:2608.17759](https://arxiv.org/abs/2608.17759) | [DEP-E](../DEP-E-20260820-Recovering-protein-3ED6/README.md) |
+
+## [DEP-E-20260820-AAFLOW-Stateful-Op-199F](../DEP-E-20260820-AAFLOW-Stateful-Op-199F/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *[AAFLOW+] Stateful Operator Abstraction with Zero-Copy Distributed KV Cache Orchestration for Multi-Agent Workflows* | Arup Kumar Sarker; Alexander James Halpern; Mills Staylor; Aymen Alsaadi; Gregor von Laszewski; Yue Cheng; Shantenu Jha; Geoffrey Fox | [arXiv:2607.10987](https://arxiv.org/abs/2607.10987) | [DEP-E](../DEP-E-20260820-AAFLOW-Stateful-Op-199F/README.md) |
+
+## [DEP-E-20260820-Time-Aware-Validat-D1C6](../DEP-E-20260820-Time-Aware-Validat-D1C6/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Time-Aware Validation of Machine Learning Fuel Consumption Models: Evidence from 1\,Hz Operational Data, CCGS \textit{Sir Wilfrid Laurier}* | Samarasimha Reddy Chittamuru; Ayhan Akinturk; Allison Kennedy; Joshua Barnes; Matthew Hamilton | [arXiv:2608.16833](https://arxiv.org/abs/2608.16833) | [DEP-E](../DEP-E-20260820-Time-Aware-Validat-D1C6/README.md) |
+
+## [DEP-E-20260820-HORCRUX-A-Complete-BA14](../DEP-E-20260820-HORCRUX-A-Complete-BA14/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *HORCRUX: A Complete PQC RISC-V eXtension Architecture* | Alessandra Dolmeta; Valeria Piscopo; Michael Hutter; Maurizio Martina; Guido Masera | [arXiv:2607.13939](https://arxiv.org/abs/2607.13939) | [DEP-E](../DEP-E-20260820-HORCRUX-A-Complete-BA14/README.md) |
+
+## [DEP-E-20260820-Physics-Informed-a-E6C5](../DEP-E-20260820-Physics-Informed-a-E6C5/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication* | Berkcan Kapusuzoglu; Sankaran Mahadevan | [arXiv:2608.17246](https://arxiv.org/abs/2608.17246) | [DEP-E](../DEP-E-20260820-Physics-Informed-a-E6C5/README.md) |
+
+## [DEP-E-20260820-Keep-It-InMind-F1BB](../DEP-E-20260820-Keep-It-InMind-F1BB/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory* | Ruizhe Li; Mingxuan Du; Benfeng Xu; Zhendong Mao | [arXiv:2607.24368](https://arxiv.org/abs/2607.24368) | [DEP-E](../DEP-E-20260820-Keep-It-InMind-F1BB/README.md) |
+
+## [DEP-E-20260820-Training-Free-Huma-2033](../DEP-E-20260820-Training-Free-Huma-2033/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction* | Ayusha Abbas; Saram Abbas; Kabita Adhikari | [arXiv:2608.17775](https://arxiv.org/abs/2608.17775) | [DEP-E](../DEP-E-20260820-Training-Free-Huma-2033/README.md) |
+
+## [DEP-E-20260820-Influence-of-the-e-51A4](../DEP-E-20260820-Influence-of-the-e-51A4/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Influence of the ectonic emission mechanism on the collisionless expansion of a multicomponent cathode plasma* | Vasily Yu. Kozhevnikov | [arXiv:2608.17701](https://arxiv.org/abs/2608.17701) | [DEP-E](../DEP-E-20260820-Influence-of-the-e-51A4/README.md) |
+
+## [DEP-E-20260820-Crystal-structure-94BB](../DEP-E-20260820-Crystal-structure-94BB/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Crystal-structure design by agentic AI in a language of motifs* | Dinh-Khiet Le; Minh-Quyet Ha; Hong-Phuc Vu-Dinh; Takashi Miyake; Hiori Kino; Hieu-Chi Dam | [arXiv:2608.15900](https://arxiv.org/abs/2608.15900) | [DEP-E](../DEP-E-20260820-Crystal-structure-94BB/README.md) |
+
+## [DEP-E-20260820-VLM-and-LLM-Driven-00AA](../DEP-E-20260820-VLM-and-LLM-Driven-00AA/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *VLM- and LLM-Driven Multi-Agent System for PET Image Denoising* | Boxiao Yu; Savas Ozdemir; Yang Xing; *et al.* | [arXiv:2608.13791](https://arxiv.org/abs/2608.13791) | [DEP-E](../DEP-E-20260820-VLM-and-LLM-Driven-00AA/README.md) |
 
 ## [DEP-E-20260820-From-the-universal-6DCA](../DEP-E-20260820-From-the-universal-6DCA/README.md)
 
