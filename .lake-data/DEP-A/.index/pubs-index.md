@@ -12662,3 +12662,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *ShieldShare: Building a VPN-backed Android Hotspot for Secure Internet Sharing with Per-User Traffic Accounting* | Carlos Semeho Edorh; Jialu Bi; Hanchen Ye; Dawood Sajjadi; Maryam Tanha | [arXiv:2605.01569v1](https://arxiv.org/abs/2605.01569v1) · [DOI](https://doi.org/10.48550/arXiv.2605.01569) |
+
+## [DEP-A-20260820-2604.16029 Cut Losses Lea](../DEP-A-20260820-2604.16029%20Cut%20Losses%20Lea/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v2 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2604.16029%20Cut%20Losses%20Lea/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning* | Jiaxi Bi; Tongxu Luo; Wenyu Du; Zhengyang Tang; Benyou Wang | [arXiv:2604.16029v2](https://arxiv.org/abs/2604.16029v2) · [DOI](https://doi.org/10.48550/arXiv.2604.16029) |
