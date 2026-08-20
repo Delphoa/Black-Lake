@@ -98,7 +98,7 @@ The selected paper contributes a comprehensive, continual, language perspective.
 - https://arxiv.org/html/2404.16789 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.16789 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.16789 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-World%20Models%20A - related DEP: World Models A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-World Models A/world_models_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Boosting%20Large%20Language - related DEP: Boosting Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting Large Language/boosting_large_language_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scalable%20Language%20Model - related DEP: Scalable Language Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Language Model/scalable_language_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-World%20Models%20A - related DEP: World Models A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-World Models A/world_models_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Boosting%20Large%20Language - related DEP: Boosting Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Boosting Large Language/boosting_large_language_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scalable%20Language%20Model - related DEP: Scalable Language Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Language Model/scalable_language_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

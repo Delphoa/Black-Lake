@@ -98,7 +98,7 @@ The selected paper contributes a generation, improving, multi-agent perspective.
 - https://arxiv.org/html/2501.15228 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.15228 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.15228 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

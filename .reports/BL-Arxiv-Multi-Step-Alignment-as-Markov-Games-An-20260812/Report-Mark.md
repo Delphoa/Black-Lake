@@ -95,7 +95,7 @@ The selected paper contributes a alignment, convergence, descent perspective. Th
 - https://arxiv.org/html/2502.12678 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.12678 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.12678 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

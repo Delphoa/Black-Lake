@@ -95,7 +95,7 @@ The selected paper contributes a autonomous, behind, bias perspective. The three
 - https://arxiv.org/html/2308.02935 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.02935 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.02935 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-ADReFT%20Adaptive%20Decision - related DEP: ADReFT Adaptive Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision/adreft_adaptive_decision_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-ADReFT%20Adaptive%20Decision - related DEP: ADReFT Adaptive Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-ADReFT Adaptive Decision/adreft_adaptive_decision_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

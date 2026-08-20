@@ -98,7 +98,7 @@ The selected paper contributes a center, cost, erasure-coded perspective. The th
 - https://arxiv.org/html/1404.4975 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1404.4975 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TNET.2015.2466453 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20practice-oriented - related DEP: A practice-oriented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A practice-oriented/a_practice_oriented_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20practice-oriented - related DEP: A practice-oriented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A practice-oriented/a_practice_oriented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

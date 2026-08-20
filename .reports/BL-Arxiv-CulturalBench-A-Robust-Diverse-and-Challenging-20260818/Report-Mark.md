@@ -97,7 +97,7 @@ The selected paper contributes a benchmark, challenging, cultural perspective. T
 - https://arxiv.org/html/2410.02677 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.02677 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.02677 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Hierarchical%20structuring - related DEP: Hierarchical structuring - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Hierarchical structuring/hierarchical_structuring_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-OpenHalDet%20A%20Unified - related DEP: OpenHalDet A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenHalDet A Unified/openhaldet_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Hierarchical%20structuring - related DEP: Hierarchical structuring - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Hierarchical structuring/hierarchical_structuring_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

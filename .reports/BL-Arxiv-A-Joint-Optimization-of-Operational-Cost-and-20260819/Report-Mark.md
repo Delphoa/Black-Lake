@@ -98,7 +98,7 @@ The selected paper contributes a centers, cloud, cost perspective. The three rel
 - https://arxiv.org/html/1404.2842 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1404.2842 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1404.2842 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Global - related DEP: Efficient Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Global/efficient_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MAMBA4D%20Efficient - related DEP: MAMBA4D Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MAMBA4D Efficient/mamba4d_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Global - related DEP: Efficient Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Global/efficient_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MAMBA4D%20Efficient - related DEP: MAMBA4D Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MAMBA4D Efficient/mamba4d_efficient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

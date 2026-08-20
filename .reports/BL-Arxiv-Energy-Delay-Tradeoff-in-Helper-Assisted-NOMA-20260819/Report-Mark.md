@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, energy-delay, four-sided perspective
 - https://arxiv.org/html/2301.10624 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2301.10624 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2301.10624 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Understanding - related DEP: Towards Understanding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Understanding/towards_understanding_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20remark%20about%20orthogonal - related DEP: A remark about orthogonal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A remark about orthogonal/a_remark_about_orthogonal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Understanding - related DEP: Towards Understanding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Understanding/towards_understanding_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Algorithm - related DEP: An Efficient Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Algorithm/an_efficient_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20remark%20about%20orthogonal - related DEP: A remark about orthogonal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A remark about orthogonal/a_remark_about_orthogonal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

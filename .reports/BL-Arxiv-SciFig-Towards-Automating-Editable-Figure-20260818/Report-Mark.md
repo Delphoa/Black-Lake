@@ -97,7 +97,7 @@ The selected paper contributes a automating, editable, figure perspective. The t
 - https://arxiv.org/html/2601.04390 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.04390 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.04390 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

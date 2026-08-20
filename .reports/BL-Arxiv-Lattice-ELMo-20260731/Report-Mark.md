@@ -295,12 +295,12 @@ assert round(relative_error_reduction(91.98, 95.37), 1) == 42.3
 - Source URL: https://aclanthology.org/N18-1202/
   - Applies to: ELMo pretraining baseline and contextual-representation context.
   - Notes: Primary ACL Anthology record used as related reading.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260731-Ontology%20ASR%20Correction/2606.13464-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260731-Ontology%20ASR%20Correction/2606.13464-whitepaper-review.md
   - Applies to: related DEP bridge for structured ASR correction.
   - Notes: Repository research artifact; no claims transferred to the selected paper.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-Cued%20Speech%20MLLM/cued_speech_mllm_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Cued%20Speech%20MLLM/cued_speech_mllm_manuscript.md
   - Applies to: related DEP bridge for multimodal spoken recognition.
   - Notes: Repository research artifact; no claims transferred to the selected paper.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260720-HeadRouter%20Audio/2604.23717-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260720-HeadRouter%20Audio/2604.23717-whitepaper-review.md
   - Applies to: related DEP bridge for task-aware audio representation selection.
   - Notes: Repository research artifact; no claims transferred to the selected paper.

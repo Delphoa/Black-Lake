@@ -98,7 +98,7 @@ The selected paper contributes a benchmark, embodied, exploration perspective. T
 - https://arxiv.org/html/2601.10744 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.10744 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.10744 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Safe%20Reinforcement - related DEP: Safe Reinforcement - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Safe Reinforcement/safe_reinforcement_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LLM-based%20Medical - related DEP: LLM-based Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LLM-based Medical/llm_based_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Safe%20Reinforcement - related DEP: Safe Reinforcement - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Safe Reinforcement/safe_reinforcement_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

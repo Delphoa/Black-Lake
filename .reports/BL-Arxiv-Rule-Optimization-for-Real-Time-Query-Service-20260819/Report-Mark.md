@@ -98,7 +98,7 @@ The selected paper contributes a internet, optimization, query perspective. The 
 - https://arxiv.org/html/1503.05646 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1503.05646 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1503.05646 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

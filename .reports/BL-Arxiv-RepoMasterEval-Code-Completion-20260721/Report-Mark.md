@@ -78,13 +78,13 @@ The authors audit the tests with mutation operators. Surviving mutants motivate 
 
 ## Related DEP Entries
 
-1. [Repository Context Modalities](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md)
+1. [Repository Context Modalities](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md)
    - `Concrete overlap`: both center repository-level code completion/generation and the value of cross-file evidence under a context budget.
    - `Source basis`: Black Lake review of https://arxiv.org/abs/2604.13725v1 and its complete paper.
-2. [CLOVER Test Benchmark](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-CLOVER%20Test%20Benchmark/clover_test_benchmark_manuscript.md)
+2. [CLOVER Test Benchmark](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CLOVER%20Test%20Benchmark/clover_test_benchmark_manuscript.md)
    - `Concrete overlap`: both construct executable repository tasks from coverage and evaluate model-generated code; CLOVER distinguishes execution from target and coverage satisfaction.
    - `Source basis`: Black Lake review of https://arxiv.org/abs/2502.08806 and official venue context.
-3. [Smart Coverage Goals](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md)
+3. [Smart Coverage Goals](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md)
    - `Concrete overlap`: both use coverage and mutation behavior to improve test objectives and expose weaknesses hidden by raw coverage.
    - `Source basis`: Black Lake review of https://arxiv.org/abs/2208.04096 and ASE artifact context.
 
@@ -181,7 +181,7 @@ The real harness should preserve every component result rather than storing only
 - arXiv-issued DOI: https://doi.org/10.48550/arXiv.2408.03519
 - Official venue record: https://conf.researchr.org/details/ase-2025/ase-2025-industry-showcase/50/RepoMasterEval-Evaluating-Code-Completion-via-Real-World-Repositories
 - License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260719-CLOVER%20Test%20Benchmark/clover_test_benchmark_manuscript.md
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-Repo%20Context%20Modalities/2604.13725-whitepaper-review.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CLOVER%20Test%20Benchmark/clover_test_benchmark_manuscript.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md
 - Source-file policy: all original and intermediate source files were retained locally and withheld from this repository.

@@ -44,8 +44,8 @@ Evidence priority was: the verified paper PDF and full-paper HTML for scientific
 
 ## Related DEP Entries
 
-1. [CausalTAD Trajectory manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md) — conceptual overlap in generative anomaly scoring, temporal/OOD behavior, constructed anomalies, and assumptions about normality. Source basis: the related manuscript's method, evidence, limitations, and implementation sections.
-2. [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md) — conceptual overlap in industrial fault monitoring, scarce failures, representation choices, resource limits, and the gap between laboratory evaluation and field deployment. Source basis: the related manuscript's industrial context, evidence ledger, and deployment cautions.
+1. [CausalTAD Trajectory manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md) — conceptual overlap in generative anomaly scoring, temporal/OOD behavior, constructed anomalies, and assumptions about normality. Source basis: the related manuscript's method, evidence, limitations, and implementation sections.
+2. [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md) — conceptual overlap in industrial fault monitoring, scarce failures, representation choices, resource limits, and the gap between laboratory evaluation and field deployment. Source basis: the related manuscript's industrial context, evidence ledger, and deployment cautions.
 3. [Technical Intelligence 1103, Finding 10](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%201103/daily_research_findings_2026-06-27_1103.md) — the Kalman Prototypical Networks entry connects few-shot gas-turbine fault detection with nonstationarity and state estimation. Source basis: Finding 10 and its cited primary paper; used only as a research bridge, not evidence for AMAD's results.
 
 ## Synthesis Note
@@ -160,8 +160,8 @@ def threshold_gate(scores, labels, threshold, max_alert_rate=0.02,
 - Venue context and proceedings copy: [DLP-KDD 2019 accepted papers](https://dlp-kdd.github.io/dlp-kdd2019/accept.html) and [workshop PDF](https://dlp-kdd.github.io/dlp-kdd2019/assets/pdf/a7-gao.pdf).
 - Public implementation: [pkumc/AMAD](https://github.com/pkumc/AMAD), inspected at [commit 0391c97](https://github.com/pkumc/AMAD/commit/0391c97dba2823608006180957f9330c5ec06791).
 - Public dataset landing page referenced by the paper/code: [Tianchi](https://tianchi.aliyun.com/dataset/27665).
-- Related DEP 1: [CausalTAD Trajectory manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md).
-- Related DEP 2: [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md).
+- Related DEP 1: [CausalTAD Trajectory manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory/causaltad_trajectory_manuscript.md).
+- Related DEP 2: [HSD FTI-FDet manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md).
 - Related DEP 3: [Technical Intelligence 1103](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%201103/daily_research_findings_2026-06-27_1103.md), Finding 10.
 - Repository rules consulted: [Black Lake README](https://github.com/Delphoa/Black-Lake/blob/main/README.md), [DEP-E README](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/README.md), and [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md).
 - Private source inventory, withheld from publication: `1907.06582.pdf`, `1907.06582.html`, `1907.06582.abs.html`, and `1907.06582.source.tar`, plus local attribution, summary, and verification records. Original source files remain in the private archive and were not uploaded.

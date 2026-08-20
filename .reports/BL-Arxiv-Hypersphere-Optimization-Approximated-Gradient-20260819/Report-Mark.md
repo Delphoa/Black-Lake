@@ -98,7 +98,7 @@ The selected paper contributes a optimization, approximated, binary perspective.
 - https://arxiv.org/html/2209.02129 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.02129 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.02129 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accurate%20Peak%20Detection - related DEP: Accurate Peak Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accurate Peak Detection/accurate_peak_detection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-IKOL%20Inverse%20kinematics - related DEP: IKOL Inverse kinematics - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IKOL Inverse kinematics/ikol_inverse_kinematics_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accurate%20Peak%20Detection - related DEP: Accurate Peak Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accurate Peak Detection/accurate_peak_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-IKOL%20Inverse%20kinematics - related DEP: IKOL Inverse kinematics - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IKOL Inverse kinematics/ikol_inverse_kinematics_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

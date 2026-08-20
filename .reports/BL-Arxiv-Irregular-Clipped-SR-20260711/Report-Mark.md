@@ -40,7 +40,7 @@ These are author-reported numerical results, not reproduced findings. The paper 
 
 ## Related DEP Entries
 
-1. [`Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md)
+1. [`Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md)
    - Relevance: Both works design learned or iterative signal detectors around known transform/channel structure and evaluate error-rate versus SNR behavior. The OTFS entry emphasizes geometry-aware online detection; the selected paper emphasizes nonlinear preprocessing and state-evolution-guided mixture design.
    - Source basis: arXiv:2311.08543, whose metadata describes a 2D reservoir-computing detector matched to delay-Doppler circular interaction.
 2. [`Black-Lake-Data/.lake-data/DEP-20260625-Tech Intel 0102/daily_research_findings_2026-06-25_0102.md`](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260625-Tech%20Intel%200102/daily_research_findings_2026-06-25_0102.md)

@@ -97,7 +97,7 @@ The selected paper contributes a complexity, curriculum, gains perspective. The 
 - https://arxiv.org/html/2212.12809 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2212.12809 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2212.12809 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

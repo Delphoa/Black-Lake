@@ -97,7 +97,7 @@ The selected paper contributes a better, defenses, hierarchical perspective. The
 - https://arxiv.org/html/1908.07116 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1908.07116 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1908.07116 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Failure%20Cases%20Are%20Better - related DEP: Failure Cases Are Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better/failure_cases_are_better_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Failure%20Cases%20Are%20Better - related DEP: Failure Cases Are Better - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Failure Cases Are Better/failure_cases_are_better_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

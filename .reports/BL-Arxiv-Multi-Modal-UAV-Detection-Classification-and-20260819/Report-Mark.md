@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, challenge, classification perspectiv
 - https://arxiv.org/html/2405.16464 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.16464 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.16464 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Spatial%20Mapping - related DEP: A Spatial Mapping - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Spatial Mapping/a_spatial_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

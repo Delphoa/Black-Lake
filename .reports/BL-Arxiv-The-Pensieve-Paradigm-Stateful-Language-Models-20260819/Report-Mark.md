@@ -98,7 +98,7 @@ The selected paper contributes a context, language, mastering perspective. The t
 - https://arxiv.org/html/2602.12108 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.12108 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.12108 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-State%20Space%20Model%20Meets - related DEP: State Space Model Meets - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-State Space Model Meets/state_space_model_meets_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DiCache%20Let%20Diffusion - related DEP: DiCache Let Diffusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DiCache Let Diffusion/dicache_let_diffusion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-State%20Space%20Model%20Meets - related DEP: State Space Model Meets - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-State Space Model Meets/state_space_model_meets_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DiCache%20Let%20Diffusion - related DEP: DiCache Let Diffusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DiCache Let Diffusion/dicache_let_diffusion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

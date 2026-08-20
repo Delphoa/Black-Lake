@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, descent, excess perspective. The th
 - https://arxiv.org/html/2408.12209 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.12209 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.12209 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

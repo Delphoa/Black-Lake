@@ -98,7 +98,7 @@ The selected paper contributes a accurate, agent, gui perspective. The three rel
 - https://arxiv.org/html/2506.09373 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.09373 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.09373 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Rethinking%20Memory - related DEP: Rethinking Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Rethinking Memory/rethinking_memory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Rethinking%20Memory - related DEP: Rethinking Memory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Rethinking Memory/rethinking_memory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a cognition, human, machines perspective. The thr
 - https://arxiv.org/html/2604.16592 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.16592 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.16592 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RoboStereo%20Dual-Tower%204D - related DEP: RoboStereo Dual-Tower 4D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboStereo Dual-Tower 4D/robostereo_dual_tower_4d_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RoboStereo%20Dual-Tower%204D - related DEP: RoboStereo Dual-Tower 4D - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboStereo Dual-Tower 4D/robostereo_dual_tower_4d_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

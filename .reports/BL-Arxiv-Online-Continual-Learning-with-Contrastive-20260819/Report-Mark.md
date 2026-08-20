@@ -98,7 +98,7 @@ The selected paper contributes a continual, contrastive, online perspective. The
 - https://arxiv.org/html/2207.13516 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2207.13516 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2207.13516 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a empower, evolutionary, medical perspective. The
 - https://arxiv.org/html/2508.17703 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.17703 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.17703 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Comparative%20Visual - related DEP: A Comparative Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Comparative Visual/a_comparative_visual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Comparative%20Visual - related DEP: A Comparative Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Comparative Visual/a_comparative_visual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

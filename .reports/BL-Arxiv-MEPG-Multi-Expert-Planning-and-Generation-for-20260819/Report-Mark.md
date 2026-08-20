@@ -98,7 +98,7 @@ The selected paper contributes a generation, compositionally-rich, image perspec
 - https://arxiv.org/html/2509.04126 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.04126 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.04126 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

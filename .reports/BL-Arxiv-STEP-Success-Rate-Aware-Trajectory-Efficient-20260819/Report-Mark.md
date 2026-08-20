@@ -98,7 +98,7 @@ The selected paper contributes a optimization, policy, step perspective. The thr
 - https://arxiv.org/html/2511.13091 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.13091 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.13091 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO%20Efficient - related DEP: Flash-GRPO Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO Efficient/flash_grpo_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Flash-GRPO%20Efficient - related DEP: Flash-GRPO Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO Efficient/flash_grpo_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

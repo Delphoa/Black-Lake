@@ -97,7 +97,7 @@ The selected paper contributes a critic, domain-adaptive, driven perspective. Th
 - https://arxiv.org/html/2509.19077 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.19077 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.19077 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Get%20Your%20Embedding%20Space - related DEP: Get Your Embedding Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space/get_your_embedding_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Get%20Your%20Embedding%20Space - related DEP: Get Your Embedding Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space/get_your_embedding_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

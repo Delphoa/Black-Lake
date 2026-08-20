@@ -98,7 +98,7 @@ The selected paper contributes a closed-form, differentiable, fast perspective. 
 - https://arxiv.org/html/1909.13046 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1909.13046 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1909.13046 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

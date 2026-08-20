@@ -95,7 +95,7 @@ The selected paper contributes a discriminators, elecrec, recommenders perspecti
 - https://arxiv.org/html/2204.02011 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2204.02011 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2204.02011 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DUET%20Setwise%20CTR - related DEP: Dual Set-Wise CTR Pre-Ranking; source basis `.lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR/duet_setwise_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DUET%20Setwise%20CTR - related DEP: Dual Set-Wise CTR Pre-Ranking; source basis `.lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR/duet_setwise_ctr_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

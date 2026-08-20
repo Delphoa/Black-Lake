@@ -98,7 +98,7 @@ The selected paper contributes a detection, meets, object perspective. The three
 - https://arxiv.org/html/2503.14493 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.14493 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.14493 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

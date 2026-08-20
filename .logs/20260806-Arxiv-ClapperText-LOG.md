@@ -29,9 +29,9 @@
 
 ## Related DEP Entries
 
-1. [`SSP Detection - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md) — oriented polygons, spatial partitioning, and detection evaluation overlap with ClapperText’s rotated-box annotation and frame-level detection task.
-2. [`VideoWeave - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) — temporal video variation and geometry-consistency evaluation provide a neighboring video-level reliability lens.
-3. [`OMGEval Benchmark - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md) — benchmark construction, culturally situated data, slice reporting, and judge/evaluation governance provide a complementary dataset-design lens.
+1. [`SSP Detection - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md) — oriented polygons, spatial partitioning, and detection evaluation overlap with ClapperText’s rotated-box annotation and frame-level detection task.
+2. [`VideoWeave - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) — temporal video variation and geometry-consistency evaluation provide a neighboring video-level reliability lens.
+3. [`OMGEval Benchmark - DEP-E`](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md) — benchmark construction, culturally situated data, slice reporting, and judge/evaluation governance provide a complementary dataset-design lens.
 
 ## Generated Public Artifacts
 

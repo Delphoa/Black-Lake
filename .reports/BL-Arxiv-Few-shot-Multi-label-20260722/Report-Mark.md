@@ -95,7 +95,7 @@ The selected paper contributes a intent, few-shot, multi-label perspective. Caus
 - https://ar5iv.labs.arxiv.org/html/2010.05256 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.05256 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.05256 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection - related DEP: SSP Detection - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection - related DEP: SSP Detection - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

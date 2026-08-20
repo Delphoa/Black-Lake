@@ -95,7 +95,7 @@ The selected paper contributes a geocoding, next-generation, systems perspective
 - https://arxiv.org/html/2503.18888 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.18888 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.18888 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-A%20Systematic%20Survey%20of - related DEP: A Systematic Survey of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-A Systematic Survey of/a_systematic_survey_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

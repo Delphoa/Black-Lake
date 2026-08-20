@@ -95,7 +95,7 @@ The selected paper contributes a diffusion, guided, multi-embodiment perspective
 - https://arxiv.org/html/2505.20857 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.20857 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.20857 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

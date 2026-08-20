@@ -98,7 +98,7 @@ The selected paper contributes a composite, distilling, feature perspective. The
 - https://arxiv.org/html/2308.04990 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.04990 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.04990 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Correspondence%20Insert - related DEP: APAP Correspondence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Correspondence Insert/apap_correspondence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Correspondence%20Insert - related DEP: APAP Correspondence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Correspondence Insert/apap_correspondence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MSINet%20Twins%20Contrastive - related DEP: MSINet Twins Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MSINet Twins Contrastive/msinet_twins_contrastive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

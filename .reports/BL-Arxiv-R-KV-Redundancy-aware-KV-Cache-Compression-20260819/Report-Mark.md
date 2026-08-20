@@ -98,7 +98,7 @@ The selected paper contributes a cache, compression, r-kv perspective. The three
 - https://arxiv.org/html/2505.24133 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.24133 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.24133 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CAP%20Rank%20Sparsity - related DEP: CAP Compression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CAP Rank Sparsity/cap_rank_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CAP%20Rank%20Sparsity - related DEP: CAP Compression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CAP Rank Sparsity/cap_rank_sparsity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

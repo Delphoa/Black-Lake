@@ -95,7 +95,7 @@ The selected paper contributes a centralized, attention, decentralized perspecti
 - https://arxiv.org/html/2602.18473 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.18473 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.18473 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

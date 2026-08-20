@@ -67,9 +67,9 @@ The selected paper is the primary evidence for all paper-specific claims. Relate
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md)) — selected because OMGEval treats benchmark validity as more than a single score: language/cultural localization, judge-human comparison, uneven capability categories, and limited coverage all define a measurement envelope. Basis: reviewed DEP README and manuscript, grounded in [arXiv:2402.13524](https://arxiv.org/abs/2402.13524).
-2. `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md)) — selected because it converts a point judge score into an interval with calibration, coverage, width, and review-routing implications. That pattern is a direct conceptual candidate for uncertainty-aware graph and event metrics. Basis: reviewed DEP README and manuscript, grounded in [arXiv:2509.18658](https://arxiv.org/abs/2509.18658).
-3. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md)) — selected because its finite-sample confidence intervals, support-aware bins, distribution-shift boundary, abstention, and fallback logic show how a metric can become a bounded decision interface. Basis: reviewed DEP Report-Mark and manuscript, grounded in [arXiv:2011.00716](https://arxiv.org/abs/2011.00716).
+1. `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md)) — selected because OMGEval treats benchmark validity as more than a single score: language/cultural localization, judge-human comparison, uneven capability categories, and limited coverage all define a measurement envelope. Basis: reviewed DEP README and manuscript, grounded in [arXiv:2402.13524](https://arxiv.org/abs/2402.13524).
+2. `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md)) — selected because it converts a point judge score into an interval with calibration, coverage, width, and review-routing implications. That pattern is a direct conceptual candidate for uncertainty-aware graph and event metrics. Basis: reviewed DEP README and manuscript, grounded in [arXiv:2509.18658](https://arxiv.org/abs/2509.18658).
+3. `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md)) — selected because its finite-sample confidence intervals, support-aware bins, distribution-shift boundary, abstention, and fallback logic show how a metric can become a bounded decision interface. Basis: reviewed DEP Report-Mark and manuscript, grounded in [arXiv:2011.00716](https://arxiv.org/abs/2011.00716).
 
 ## Synthesis Note
 
@@ -166,13 +166,13 @@ These snippets are bounded decision sketches, not validated biomedical software.
 - Source URL: https://doi.org/10.48550/arXiv.2012.12084
   - Applies to: persistent identification of the reviewed arXiv work.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md
   - Applies to: benchmark measurement-envelope synthesis; source basis https://arxiv.org/abs/2402.13524.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
   - Applies to: interval-valued evaluation, calibration, coverage, and review-routing synthesis; source basis https://arxiv.org/abs/2509.18658.
 - Repository file: `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
   - Applies to: finite-sample confidence, support, shift, abstention, and fallback synthesis; source basis https://arxiv.org/abs/2011.00716.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md
   - Applies to: repository layout, public-source policy, DEP contents, logs, reports, and commit convention.

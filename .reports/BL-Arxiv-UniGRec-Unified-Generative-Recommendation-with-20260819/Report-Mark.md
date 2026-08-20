@@ -98,7 +98,7 @@ The selected paper contributes a end-to-end, generative, identifiers perspective
 - https://arxiv.org/html/2601.17438 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.17438 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.17438 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Can%20Media%20Act%20as%20a%20Soft - related DEP: Can Media Act as a Soft - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Can Media Act as a Soft/can_media_act_as_a_soft_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Can%20Media%20Act%20as%20a%20Soft - related DEP: Can Media Act as a Soft - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Can Media Act as a Soft/can_media_act_as_a_soft_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bridging%20Large%20Language - related DEP: Bridging Large Language - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bridging Large Language/bridging_large_language_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a boosting, correlations, devil perspective. The 
 - https://arxiv.org/html/2501.07305 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.07305 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.07305 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learn%20from%20Global - related DEP: Learn from Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learn from Global/learn_from_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learn%20from%20Global - related DEP: Learn from Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learn from Global/learn_from_global_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

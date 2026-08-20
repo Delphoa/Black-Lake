@@ -98,7 +98,7 @@ The selected paper contributes a degraphcs, embedding, flow perspective. The thr
 - https://arxiv.org/html/2103.13020 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.13020 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.13020 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-LAGO%20Few-shot - related DEP: LAGO Few-shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-LAGO Few-shot/lago_few_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

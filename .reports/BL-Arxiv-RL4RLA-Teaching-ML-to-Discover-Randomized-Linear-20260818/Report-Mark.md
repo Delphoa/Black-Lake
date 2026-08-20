@@ -97,7 +97,7 @@ The selected paper contributes a algebra, algorithms, curriculum perspective. Th
 - https://arxiv.org/html/2605.18004 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.18004 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.18004 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

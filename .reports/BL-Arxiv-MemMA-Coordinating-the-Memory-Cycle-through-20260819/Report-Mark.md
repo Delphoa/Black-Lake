@@ -98,7 +98,7 @@ The selected paper contributes a coordinating, cycle, in-situ perspective. The t
 - https://arxiv.org/html/2603.18718 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.18718 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.18718 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DataSage%20Multi-agent - related DEP: DataSage Multi-agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DataSage Multi-agent/datasage_multi_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-IMAGINE%20Integrating - related DEP: IMAGINE Integrating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IMAGINE Integrating/imagine_integrating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Offline%20Multi-Agent - related DEP: Offline Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Offline Multi-Agent/offline_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DataSage%20Multi-agent - related DEP: DataSage Multi-agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DataSage Multi-agent/datasage_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-IMAGINE%20Integrating - related DEP: IMAGINE Integrating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IMAGINE Integrating/imagine_integrating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Offline%20Multi-Agent - related DEP: Offline Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Offline Multi-Agent/offline_multi_agent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

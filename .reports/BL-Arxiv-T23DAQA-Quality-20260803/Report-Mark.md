@@ -36,9 +36,9 @@ The reported learning-based table gives the proposed model SRCC/KRCC/PLCC values
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal/sfood_a_multimodal_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260731-SFOOD%20A%20Multimodal/sfood_a_multimodal_manuscript.md)) - selected for its multi-attribute multimodal benchmark framing and emphasis on evaluation boundaries. Basis inspected: the related manuscript and README, grounded in arXiv:2507.04412.
-2. `.lake-data/DEP-E/DEP-E-20260724-AG3D Learning to Generate/ag3d_learning_to_generate_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-AG3D%20Learning%20to%20Generate/ag3d_learning_to_generate_manuscript.md)) - selected for its direct 3D-avatar generation and appearance-quality overlap. Basis inspected: the related manuscript and README, grounded in arXiv:2305.02312.
-3. `.lake-data/DEP-A/DEP-A-20260725-SeGPruner 3D QA/2603.29437-whitepaper-review.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md)) - selected for its 3D question-answering quality and representation-selection boundary. Basis inspected: the related review and README, grounded in arXiv:2603.29437.
+1. `.lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal/sfood_a_multimodal_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-SFOOD%20A%20Multimodal/sfood_a_multimodal_manuscript.md)) - selected for its multi-attribute multimodal benchmark framing and emphasis on evaluation boundaries. Basis inspected: the related manuscript and README, grounded in arXiv:2507.04412.
+2. `.lake-data/DEP-E/DEP-E-20260724-AG3D Learning to Generate/ag3d_learning_to_generate_manuscript.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-AG3D%20Learning%20to%20Generate/ag3d_learning_to_generate_manuscript.md)) - selected for its direct 3D-avatar generation and appearance-quality overlap. Basis inspected: the related manuscript and README, grounded in arXiv:2305.02312.
+3. `.lake-data/DEP-A/DEP-A-20260725-SeGPruner 3D QA/2603.29437-whitepaper-review.md` ([public file](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md)) - selected for its 3D question-answering quality and representation-selection boundary. Basis inspected: the related review and README, grounded in arXiv:2603.29437.
 
 ## Synthesis Note
 
@@ -143,10 +143,10 @@ print(route_prediction({"quality": 0.8}, 0.62, False))
   - Applies to: persistent paper identity.
 - Official implementation and database context: https://github.com/ZedFu/T23DAQA
   - Applies to: repository README, database description, and MIT license visibility; not independently executed.
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260731-SFOOD%20A%20Multimodal/sfood_a_multimodal_manuscript.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-SFOOD%20A%20Multimodal/sfood_a_multimodal_manuscript.md
   - Applies to: multimodal benchmark bridge; source basis arXiv:2507.04412.
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-AG3D%20Learning%20to%20Generate/ag3d_learning_to_generate_manuscript.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-AG3D%20Learning%20to%20Generate/ag3d_learning_to_generate_manuscript.md
   - Applies to: 3D asset generation bridge; source basis arXiv:2305.02312.
-- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md
+- Related DEP source: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260725-SeGPruner%203D%20QA/2603.29437-whitepaper-review.md
   - Applies to: 3D QA and representation-selection bridge; source basis arXiv:2603.29437.
 - Source boundary: all original source files, caches, extracted text, and local archive records were withheld and no source files were uploaded.

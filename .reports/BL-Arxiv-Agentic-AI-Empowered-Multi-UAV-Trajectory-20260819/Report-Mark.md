@@ -98,7 +98,7 @@ The selected paper contributes a agentic, economy, empowered perspective. The th
 - https://arxiv.org/html/2508.16379 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.16379 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.16379 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted%20Cooperative - related DEP: UAV-Assisted Cooperative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative/uav_assisted_cooperative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-UAV-Assisted%20Cooperative - related DEP: UAV-Assisted Cooperative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative/uav_assisted_cooperative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

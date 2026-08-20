@@ -98,7 +98,7 @@ The selected paper contributes a farthest, greedy, path perspective. The three r
 - https://arxiv.org/html/2310.20705 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.20705 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.20705 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

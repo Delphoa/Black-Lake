@@ -98,7 +98,7 @@ The selected paper contributes a constrained, bayesian, optimization perspective
 - https://arxiv.org/html/2310.08751 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.08751 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.08751 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Agent%20Evidence%20Loops - related DEP: Agent Evidence Loops - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Agent Evidence Loops/agent-evidence-loops.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Agent%20Evidence%20Loops - related DEP: Agent Evidence Loops - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Agent Evidence Loops/agent-evidence-loops.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

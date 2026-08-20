@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, depth, reconstruction perspective. T
 - https://arxiv.org/html/1407.3840 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1407.3840 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1407.3840 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-FLASH%20Efficient - related DEP: FLASH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Sat3R%20Satellite%20DSM - related DEP: Sat3R Satellite DSM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Sat3R Satellite DSM/sat3r_satellite_dsm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-FLASH%20Efficient - related DEP: FLASH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-FLASH Efficient/flash_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Sat3R%20Satellite%20DSM - related DEP: Sat3R Satellite DSM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Sat3R Satellite DSM/sat3r_satellite_dsm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

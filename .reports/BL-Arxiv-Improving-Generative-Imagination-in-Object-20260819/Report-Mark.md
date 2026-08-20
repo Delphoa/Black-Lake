@@ -98,7 +98,7 @@ The selected paper contributes a generative, imagination, improving perspective.
 - https://arxiv.org/html/2010.02054 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.02054 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.02054 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Robust%20Fairness - related DEP: Improving Robust Fairness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Robust Fairness/improving_robust_fairness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-IntactKV%20Improving%20Large - related DEP: IntactKV Improving Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-IntactKV Improving Large/intactkv_improving_large_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Robust%20Fairness - related DEP: Improving Robust Fairness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Robust Fairness/improving_robust_fairness_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

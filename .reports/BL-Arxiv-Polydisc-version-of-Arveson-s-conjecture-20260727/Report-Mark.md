@@ -95,7 +95,7 @@ The selected paper contributes a arveson, conjecture, modules perspective. The t
 - https://ar5iv.labs.arxiv.org/html/1609.07777 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1609.07777 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1609.07777 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Streamline%20Without - related DEP: Streamline Without - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Streamline Without/streamline_without_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators - related DEP: Flag Hardy Operators - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Flag Hardy Operators/flag_hardy_operators_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Streamline%20Without - related DEP: Streamline Without - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Streamline Without/streamline_without_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

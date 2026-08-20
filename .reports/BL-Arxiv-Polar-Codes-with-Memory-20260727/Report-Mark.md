@@ -95,7 +95,7 @@ The selected paper contributes a decoding, codes, polar perspective. The three r
 - https://ar5iv.labs.arxiv.org/html/1907.00527 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1907.00527 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1907.00527 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-4%20Adic%20Complexity - related DEP: 4 Adic Complexity Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity/4_adic_complexity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-4%20Adic%20Complexity - related DEP: 4 Adic Complexity Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-4 Adic Complexity/4_adic_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

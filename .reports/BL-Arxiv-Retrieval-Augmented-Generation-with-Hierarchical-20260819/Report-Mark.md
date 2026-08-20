@@ -98,7 +98,7 @@ The selected paper contributes a generation, hierarchical, knowledge perspective
 - https://arxiv.org/html/2503.10150 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.10150 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.10150 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ArchRAG%20Attributed - related DEP: ArchRAG Attributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ArchRAG Attributed/archrag_attributed_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-BookRAG%20A%20Hierarchical - related DEP: BookRAG A Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BookRAG A Hierarchical/bookrag_a_hierarchical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ArchRAG%20Attributed - related DEP: ArchRAG Attributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ArchRAG Attributed/archrag_attributed_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-BookRAG%20A%20Hierarchical - related DEP: BookRAG A Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BookRAG A Hierarchical/bookrag_a_hierarchical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

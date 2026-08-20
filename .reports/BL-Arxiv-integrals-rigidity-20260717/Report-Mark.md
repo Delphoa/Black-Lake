@@ -46,13 +46,13 @@ The PDF has 32 pages and its metadata names the three authors, arXiv v1, the arX
 
 ## Related DEP Entries
 
-1. [Hyperbolic Catenaries - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md)
+1. [Hyperbolic Catenaries - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md)
    - **Source basis:** inspected processed manuscript reviewing arXiv and journal evidence for hyperbolic catenaries and minimal surfaces of revolution.
    - **Relevance:** direct differential-geometric overlap through curvature equations, explicit manifold models, equality conditions, and geometric rigidity.
-2. [Flag Hardy Operators - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
+2. [Flag Hardy Operators - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md)
    - **Source basis:** inspected processed manuscript reviewing boundedness of singular integrals on flag Hardy spaces over the Heisenberg group.
    - **Relevance:** methodological overlap through geometry-adapted harmonic analysis, scale structure, cancellation, and sharp integral estimates.
-3. [Global NS Existence - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md)
+3. [Global NS Existence - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md)
    - **Source basis:** inspected processed manuscript reviewing global solutions for compressible Navier-Stokes flow on a bounded curved domain.
    - **Relevance:** analytic overlap through Green functions, divergence identities, geometry-sensitive estimates, and topology/boundary constraints.
 
@@ -179,13 +179,13 @@ This calculator evaluates the theorem's right-hand side after a valid `V_M` is s
 - Source URL: https://creativecommons.org/licenses/by/4.0/
   - Applies to: this Report-Mark.
   - Notes: License deed reached from the canonical arXiv record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Hyperbolic%20Catenaries/hyperbolic_catenaries_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Context for differential geometry and rigidity; not theorem evidence.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Flag%20Hardy%20Operators/flag_hardy_operators_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Context for geometry-adapted harmonic analysis; not theorem evidence.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Context for Green functions and divergence methods; not theorem evidence.
 - Source-file policy: original source files were withheld locally.

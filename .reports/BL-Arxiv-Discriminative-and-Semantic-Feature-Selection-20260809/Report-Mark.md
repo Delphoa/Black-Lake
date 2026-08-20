@@ -95,7 +95,7 @@ The selected paper contributes a discriminative, dynamic, environments perspecti
 - https://arxiv.org/html/2103.10023 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.10023 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.10023 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Feature%20Denoising - related DEP: Feature Denoising - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Feature Denoising/feature_denoising_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Feature%20Denoising - related DEP: Feature Denoising - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Feature Denoising/feature_denoising_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a attention, bidirectional, graph perspective. Th
 - https://arxiv.org/html/2305.06480 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2305.06480 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2305.06480 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Predicting%20Long-Term - related DEP: Predicting Long-Term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predicting Long-Term/predicting_long_term_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Effective%20Quantization - related DEP: Effective Quantization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Effective Quantization/effective_quantization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Predicting%20Long-Term - related DEP: Predicting Long-Term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predicting Long-Term/predicting_long_term_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Effective%20Quantization - related DEP: Effective Quantization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Effective Quantization/effective_quantization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

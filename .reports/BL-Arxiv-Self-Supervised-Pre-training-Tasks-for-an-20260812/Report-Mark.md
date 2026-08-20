@@ -95,7 +95,7 @@ The selected paper contributes a autism, detection, fmri perspective. The three 
 - https://arxiv.org/html/2409.12304 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.12304 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.12304 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-MeDSLIP%20Medical - related DEP: MeDSLIP Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-MeDSLIP%20Medical - related DEP: MeDSLIP Medical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-MeDSLIP Medical/medslip_medical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, authentication, block-order-modulus 
 - https://arxiv.org/html/2312.10593 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.10593 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.10593 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Learning - related DEP: A Novel Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Learning/a_novel_learning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Remarks%20on%20the - related DEP: Remarks on the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Remarks on the/remarks_on_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Learning - related DEP: A Novel Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Learning/a_novel_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Remarks%20on%20the - related DEP: Remarks on the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Remarks on the/remarks_on_the_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

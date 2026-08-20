@@ -131,6 +131,6 @@ def stability_route(clean_label: str, perturbed_labels: list[str]) -> str:
 - https://ar5iv.labs.arxiv.org/html/2507.01788 - approved full-paper fallback; file withheld.
 - https://doi.org/10.48550/arXiv.2507.01788 - persistent identifier.
 - https://github.com/greentreeys/MIL-VT - paper-linked baseline implementation; not executed.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md - related clinical grounding record.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md - related manipulation evaluation record.
-- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md - related ViT architecture/robustness record.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA/medical_diff_vqa_manuscript.md - related clinical grounding record.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md - related manipulation evaluation record.
+- https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md - related ViT architecture/robustness record.

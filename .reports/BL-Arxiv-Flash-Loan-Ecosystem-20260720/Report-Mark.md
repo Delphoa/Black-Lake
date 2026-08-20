@@ -97,7 +97,7 @@ The flash-loan measurement supplies transaction and provider context; SAILFISH s
 - https://ar5iv.labs.arxiv.org/html/2010.12252 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.12252 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3457977.3460301 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SAILFISH%20Vetting - related smart-contract vetting.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory - related anomaly detection.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related calibrated confidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SAILFISH%20Vetting - related smart-contract vetting.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory - related anomaly detection.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related calibrated confidence.
 - Source files: PDF, full-paper HTML, metadata HTML, and integrity records; all withheld locally.

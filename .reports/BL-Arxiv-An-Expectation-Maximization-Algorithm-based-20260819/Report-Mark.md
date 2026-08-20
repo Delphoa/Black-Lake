@@ -98,7 +98,7 @@ The selected paper contributes a algorithm-based, autoregressive, expectation-ma
 - https://arxiv.org/html/2502.00018 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.00018 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.00018 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Fuzzy%20Search - related DEP: A Novel Fuzzy Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Fuzzy Search/a_novel_fuzzy_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Streaming%20Autoregressive - related DEP: Streaming Autoregressive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Streaming Autoregressive/streaming_autoregressive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Fuzzy%20Search - related DEP: A Novel Fuzzy Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Fuzzy Search/a_novel_fuzzy_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Streaming%20Autoregressive - related DEP: Streaming Autoregressive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Streaming Autoregressive/streaming_autoregressive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

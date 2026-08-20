@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, applications, classification perspec
 - https://arxiv.org/html/1802.02532 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1802.02532 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1802.02532 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Deep%20Learning-based%20in - related DEP: A Deep Learning-based in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Deep Learning-based in/a_deep_learning_based_in_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-JUNO%20Optimizing - related DEP: JUNO Optimizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-JUNO Optimizing/juno_optimizing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Deep%20Learning-based%20in - related DEP: A Deep Learning-based in - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Deep Learning-based in/a_deep_learning_based_in_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

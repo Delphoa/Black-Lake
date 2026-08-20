@@ -98,7 +98,7 @@ The selected paper contributes a generation, graph, knowledge perspective. The t
 - https://arxiv.org/html/2501.02226 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.02226 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.02226 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory-augmented%20Query - related DEP: Memory-augmented Query - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory-augmented Query/memory_augmented_query_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-BubbleRAG%20Evidence-Driven - related DEP: BubbleRAG Evidence-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BubbleRAG Evidence-Driven/bubblerag_evidence_driven_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented%2010150 - related DEP: Retrieval-Augmented 10150 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented 10150/retrieval_augmented_10150_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory-augmented%20Query - related DEP: Memory-augmented Query - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory-augmented Query/memory_augmented_query_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-BubbleRAG%20Evidence-Driven - related DEP: BubbleRAG Evidence-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BubbleRAG Evidence-Driven/bubblerag_evidence_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Retrieval-Augmented%2010150 - related DEP: Retrieval-Augmented 10150 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented 10150/retrieval_augmented_10150_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

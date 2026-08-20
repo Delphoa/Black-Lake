@@ -97,7 +97,7 @@ The selected paper contributes a data-driven, differentiable, enhancing perspect
 - https://arxiv.org/html/2308.09870 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.09870 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.09870 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-GADT%20Enhancing - related DEP: GADT Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-GADT Enhancing/gadt_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-GADT%20Enhancing - related DEP: GADT Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-GADT Enhancing/gadt_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

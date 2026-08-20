@@ -97,7 +97,7 @@ The paper contributes a algorithm, langevin, mcmc perspective. The related DEPs 
 - https://ar5iv.labs.arxiv.org/html/1908.10859 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1908.10859 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1908.10859 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

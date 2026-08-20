@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bit, jpeg-ai perspective. The three 
 - https://arxiv.org/html/2402.17487 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.17487 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.17487 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Support-Set%20Algorithm - related DEP: A Support-Set Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Support-Set Algorithm/a_support_set_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Support-Set%20Algorithm - related DEP: A Support-Set Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Support-Set Algorithm/a_support_set_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

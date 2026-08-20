@@ -95,7 +95,7 @@ The selected paper contributes a hallucinations, knowledge-shortcut, generative 
 - https://arxiv.org/html/2503.19482 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.19482 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.19482 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DoubleTransfer%20MEDIQA - related DEP: DoubleTransfer MEDIQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-DoubleTransfer MEDIQA/doubletransfer_mediqa_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DoubleTransfer%20MEDIQA - related DEP: DoubleTransfer MEDIQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-DoubleTransfer MEDIQA/doubletransfer_mediqa_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

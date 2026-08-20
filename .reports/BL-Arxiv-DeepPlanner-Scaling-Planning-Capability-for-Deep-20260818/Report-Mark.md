@@ -97,7 +97,7 @@ The selected paper contributes a advantage, agents, capability perspective. The 
 - https://arxiv.org/html/2510.12979 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.12979 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.12979 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ReAD%20Reinforcement-Guided - related DEP: ReAD Reinforcement-Guided - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ReAD Reinforcement-Guided/read_reinforcement_guided_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ReAD%20Reinforcement-Guided - related DEP: ReAD Reinforcement-Guided - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ReAD Reinforcement-Guided/read_reinforcement_guided_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -152,12 +152,12 @@ Production hardening would validate schemas, authenticate restricted manifests, 
 - Source URL: https://github.com/AntXinyuan/SSP
   - Applies to: code availability, commands, configs, license, and repository result context.
   - Notes: Official implementation inspected at the pinned commit; not executed.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
   - Applies to: CAR Avatar related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: VideoWeave related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: RRT-CBF related-entry bridge.
   - Notes: Processed DEP artifact, contextual evidence only.

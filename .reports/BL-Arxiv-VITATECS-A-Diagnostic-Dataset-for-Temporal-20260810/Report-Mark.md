@@ -95,7 +95,7 @@ The selected paper contributes a concept, diagnostic, temporal perspective. The 
 - https://arxiv.org/html/2311.17404 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.17404 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.17404 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

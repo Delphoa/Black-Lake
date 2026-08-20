@@ -98,7 +98,7 @@ The selected paper contributes a ensembles, optimization, ordering perspective. 
 - https://arxiv.org/html/1806.11202 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1806.11202 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1806.11202 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

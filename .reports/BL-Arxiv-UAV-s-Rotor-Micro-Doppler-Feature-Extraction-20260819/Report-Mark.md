@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, communication, design perspective. T
 - https://arxiv.org/html/2408.16415 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.16415 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TWC.2025.3578033 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-Modal%20UAV%20Detection - related DEP: Multi-Modal UAV Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-Modal UAV Detection/multi_modal_uav_detection_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

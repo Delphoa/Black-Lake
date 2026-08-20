@@ -98,7 +98,7 @@ The selected paper contributes a compositional, policy, rise perspective. The th
 - https://arxiv.org/html/2602.11075 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.11075 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.11075 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Agentic%20Design%20of - related DEP: Agentic Design of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Agentic Design of/agentic_design_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Agentic%20Design%20of - related DEP: Agentic Design of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Agentic Design of/agentic_design_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

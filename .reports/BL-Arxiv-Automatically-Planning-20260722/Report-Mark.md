@@ -95,7 +95,7 @@ The selected paper contributes a parallel, strategy, computing perspective. ViT 
 - https://arxiv.org/html/2501.00254 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.00254 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.00254 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

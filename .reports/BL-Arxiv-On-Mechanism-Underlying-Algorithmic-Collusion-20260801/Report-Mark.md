@@ -97,7 +97,7 @@ The paper contributes a collusion, algorithmic, mechanism perspective. The relat
 - https://arxiv.org/html/2409.01147 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.01147 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.01147 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-CausalStock%20Review - related DEP: CausalStock Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-CausalStock Review/causalstock_review_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

@@ -98,7 +98,7 @@ The selected paper contributes a hurdle-imdl, imbalanced, infrared perspective. 
 - https://arxiv.org/html/2510.20486 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.20486 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.20486 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-MSAIC%20ECG - related DEP: MSAIC ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-MSAIC ECG/msaic_ecg_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

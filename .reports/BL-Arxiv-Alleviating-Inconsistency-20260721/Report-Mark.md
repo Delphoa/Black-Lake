@@ -96,7 +96,7 @@ GraphConsis treats inconsistent neighbors as an aggregation-control problem. SAN
 - https://arxiv.org/pdf/2005.00625 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3397271.3401253 - publisher identifier.
 - https://github.com/safe-graph/DGFraud - author-linked implementation locator; code was not rerun in this review.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings - related representation research.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Dynamical%20Dictionary - related local-learning research.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI - related structured-representation research.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings - related representation research.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Dynamical%20Dictionary - related local-learning research.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI - related structured-representation research.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source, and integrity records; all withheld locally.

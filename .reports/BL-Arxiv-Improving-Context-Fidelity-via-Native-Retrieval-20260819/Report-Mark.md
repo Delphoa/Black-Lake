@@ -98,7 +98,7 @@ The selected paper contributes a context, fidelity, improving perspective. The t
 - https://arxiv.org/html/2509.13683 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.13683 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.13683 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Reasoning%20in%20Trees - related DEP: Reasoning in Trees - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reasoning in Trees/reasoning_in_trees_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving - related DEP: Improving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving/improving_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Reasoning%20in%20Trees - related DEP: Reasoning in Trees - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reasoning in Trees/reasoning_in_trees_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving - related DEP: Improving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving/improving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

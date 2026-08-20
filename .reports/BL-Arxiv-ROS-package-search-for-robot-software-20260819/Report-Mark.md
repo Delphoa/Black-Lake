@@ -98,7 +98,7 @@ The selected paper contributes a development, graph-based, knowledge perspective
 - https://arxiv.org/html/2312.14781 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.14781 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.14781 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SafeDriveRAG%20Towards%20Safe - related DEP: SafeDriveRAG Towards Safe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SafeDriveRAG Towards Safe/safedriverag_towards_safe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

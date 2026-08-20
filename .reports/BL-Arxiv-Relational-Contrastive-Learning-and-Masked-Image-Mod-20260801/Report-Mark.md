@@ -97,7 +97,7 @@ The paper contributes a learning, contrastive, relational perspective. The relat
 - https://arxiv.org/html/2411.11219 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.11219 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.11219 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Pixel Point Transfer/pixel_point_transfer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Pixel Point Transfer/pixel_point_transfer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

@@ -97,7 +97,7 @@ The selected paper contributes a abductive, chatabl, chatgpt perspective. The th
 - https://arxiv.org/html/2304.11107 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2304.11107 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2304.11107 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Building%20Taiwanese - related DEP: Building Taiwanese Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Building Taiwanese/building_taiwanese_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Interaction%20Measures - related DEP: Interaction Measures - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Interaction Measures/interaction_measures_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Building%20Taiwanese - related DEP: Building Taiwanese Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Building Taiwanese/building_taiwanese_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

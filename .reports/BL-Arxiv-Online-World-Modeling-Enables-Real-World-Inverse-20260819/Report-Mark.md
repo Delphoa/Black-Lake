@@ -98,7 +98,7 @@ The selected paper contributes a enables, inverse, modeling perspective. The thr
 - https://arxiv.org/html/2602.24121 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.24121 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.24121 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Reimagination%20with - related DEP: Reimagination with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reimagination with/reimagination_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Reimagination%20with - related DEP: Reimagination with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reimagination with/reimagination_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

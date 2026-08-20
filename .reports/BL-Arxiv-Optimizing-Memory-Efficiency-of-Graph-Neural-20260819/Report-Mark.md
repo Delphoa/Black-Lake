@@ -98,7 +98,7 @@ The selected paper contributes a computing, edge, efficiency perspective. The th
 - https://arxiv.org/html/2104.03058 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2104.03058 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2104.03058 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory%20Augmented%20Graph - related DEP: Memory Augmented Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Augmented Graph/memory_augmented_graph_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory%20Augmented%20Graph - related DEP: Memory Augmented Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory Augmented Graph/memory_augmented_graph_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

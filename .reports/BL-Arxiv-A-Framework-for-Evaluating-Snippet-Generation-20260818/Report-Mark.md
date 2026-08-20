@@ -97,7 +97,7 @@ The selected paper contributes a evaluating, generation, search perspective. The
 - https://arxiv.org/html/1907.01183 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1907.01183 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1907.01183 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry - related DEP: VideoWeave - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-VideoWeave Geometry/videoweave_geometry_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

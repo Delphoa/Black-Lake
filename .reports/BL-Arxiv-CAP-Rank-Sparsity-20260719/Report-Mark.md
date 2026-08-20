@@ -112,9 +112,9 @@ Exactly three related entries were selected from current repository state:
 
 | Entry | Concrete Relevance | Source Basis |
 |---|---|---|
-| [Efficient FM Survey](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md) | Places CAP's pruning and low-rank mechanisms inside an architecture-algorithm-system efficiency lifecycle, making clear that representation savings need runtime evidence. | Review of https://arxiv.org/abs/2401.08092 and its official companion context |
-| [STAR-KV Ranks](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md) | Like CAP, makes rank an adaptive resource variable across heterogeneous components; it extends the idea to KV state and custom kernels. | Review of https://arxiv.org/abs/2606.08382v1 and its author-linked implementation |
-| [QUOTA Joint Compression](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-QUOTA%20Joint%20Compression/2604.17320-whitepaper-review.md) | Like CAP, rejects independent fixed-stage compression and allocates a shared budget across two interacting mechanisms using sensitivity information. | Review of https://arxiv.org/abs/2604.17320v1 |
+| [Efficient FM Survey](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md) | Places CAP's pruning and low-rank mechanisms inside an architecture-algorithm-system efficiency lifecycle, making clear that representation savings need runtime evidence. | Review of https://arxiv.org/abs/2401.08092 and its official companion context |
+| [STAR-KV Ranks](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md) | Like CAP, makes rank an adaptive resource variable across heterogeneous components; it extends the idea to KV state and custom kernels. | Review of https://arxiv.org/abs/2606.08382v1 and its author-linked implementation |
+| [QUOTA Joint Compression](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-QUOTA%20Joint%20Compression/2604.17320-whitepaper-review.md) | Like CAP, rejects independent fixed-stage compression and allocates a shared budget across two interacting mechanisms using sensitivity information. | Review of https://arxiv.org/abs/2604.17320v1 |
 
 ## Synthesis Note
 
@@ -244,19 +244,19 @@ print({"use_compressed_profile": allowed, "fallback": not allowed})
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: `Report-Mark.md`.
   - Notes: Companion-repository authority used for dedup context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey/efficient_fm_survey_manuscript.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP entry for the resource-efficient foundation-model taxonomy.
 - Source URL: https://arxiv.org/abs/2401.08092
   - Applies to: `Report-Mark.md`.
   - Notes: Primary source named by the Efficient FM Survey DEP.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-STAR-KV%20Ranks/2606.08382-whitepaper-review.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP entry for adaptive rank control and kernel realization.
 - Source URL: https://arxiv.org/abs/2606.08382v1
   - Applies to: `Report-Mark.md`.
   - Notes: Primary source named by the STAR-KV Ranks DEP.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-QUOTA%20Joint%20Compression/2604.17320-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-QUOTA%20Joint%20Compression/2604.17320-whitepaper-review.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP entry for joint compression allocation.
 - Source URL: https://arxiv.org/abs/2604.17320v1

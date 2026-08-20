@@ -110,9 +110,9 @@ Exactly three related entries were selected from fetched live repository state:
 
 | Entry | Concrete Relevance | Source Basis |
 |---|---|---|
-| [Smart Coverage Goals](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md) | Both systems turn coverage into an explicit control signal. The related DEP reviews goal selection for search-based unit tests; CLOVER uses peer-unique coverage to choose requirements and order context. | Review of https://arxiv.org/abs/2208.04096 and the ASE publication/artifact records |
-| [TACO Terminal Context](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260715-TACO%20Terminal%20Context/2604.19572-whitepaper-review.md) | Both study whether software-engineering systems can preserve useful evidence under long observations. TACO compresses terminal output adaptively; CLOVER measures model success as code context expands. | Review of https://arxiv.org/abs/2604.19572v3 and https://github.com/multimodal-art-projection/TACO |
-| [ContextWeaver Selective Context](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-ContextWeaver%20Selective%20a/2604.23069-whitepaper-review.md) | Both select prior evidence for coding tasks. ContextWeaver preserves dependency and validation lineage; CLOVER ranks whole files from coverage tiers without dependency edges. | Review of https://arxiv.org/abs/2604.23069v1 |
+| [Smart Coverage Goals](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md) | Both systems turn coverage into an explicit control signal. The related DEP reviews goal selection for search-based unit tests; CLOVER uses peer-unique coverage to choose requirements and order context. | Review of https://arxiv.org/abs/2208.04096 and the ASE publication/artifact records |
+| [TACO Terminal Context](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-TACO%20Terminal%20Context/2604.19572-whitepaper-review.md) | Both study whether software-engineering systems can preserve useful evidence under long observations. TACO compresses terminal output adaptively; CLOVER measures model success as code context expands. | Review of https://arxiv.org/abs/2604.19572v3 and https://github.com/multimodal-art-projection/TACO |
+| [ContextWeaver Selective Context](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-ContextWeaver%20Selective%20a/2604.23069-whitepaper-review.md) | Both select prior evidence for coding tasks. ContextWeaver preserves dependency and validation lineage; CLOVER ranks whole files from coverage tiers without dependency edges. | Review of https://arxiv.org/abs/2604.23069v1 |
 
 ## Synthesis Note
 
@@ -264,13 +264,13 @@ This is a narrow preflight check, not a sandbox. The runner still needs process,
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: related-repository dedup authority.
   - Notes: Fetched live before reliance.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals/smart_coverage_goals_manuscript.md
   - Applies to: Smart Coverage Goals related DEP bridge.
   - Notes: Coverage-objective selection and test-generation relevance.
 - Source URL: https://arxiv.org/abs/2208.04096
   - Applies to: source basis named by the Smart Coverage Goals DEP.
   - Notes: Related-entry source locator; not re-reviewed in full here.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260715-TACO%20Terminal%20Context/2604.19572-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260715-TACO%20Terminal%20Context/2604.19572-whitepaper-review.md
   - Applies to: TACO related DEP bridge.
   - Notes: Long-observation filtering and software-engineering evaluation relevance.
 - Source URL: https://arxiv.org/abs/2604.19572v3
@@ -279,7 +279,7 @@ This is a narrow preflight check, not a sandbox. The runner still needs process,
 - Source URL: https://github.com/multimodal-art-projection/TACO
   - Applies to: official implementation context named by the TACO DEP.
   - Notes: Not executed in this review.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-ContextWeaver%20Selective%20a/2604.23069-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-ContextWeaver%20Selective%20a/2604.23069-whitepaper-review.md
   - Applies to: ContextWeaver related DEP bridge.
   - Notes: Dependency-aware memory and validation-lineage relevance.
 - Source URL: https://arxiv.org/abs/2604.23069v1

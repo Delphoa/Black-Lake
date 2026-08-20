@@ -98,7 +98,7 @@ The selected paper contributes a actor-critic, convergence, evolving perspective
 - https://arxiv.org/html/2510.12334 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.12334 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.12334 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

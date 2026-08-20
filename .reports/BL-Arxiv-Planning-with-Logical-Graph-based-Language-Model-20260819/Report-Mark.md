@@ -98,7 +98,7 @@ The selected paper contributes a generation, graph-based, instruction perspectiv
 - https://arxiv.org/html/2308.13782 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.13782 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.13782 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-LogiAgent%20REST - related DEP: LogiAgent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-LogiAgent REST/logiagent_rest_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-LogiAgent%20REST - related DEP: LogiAgent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-LogiAgent REST/logiagent_rest_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Graph-based%20data - related DEP: Graph-based data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Graph-based data/graph_based_data_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a anomaly, detection, experience perspective. The
 - https://arxiv.org/html/2412.03907 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.03907 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.03907 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-CausalTAD%20Trajectory - related DEP: CausalTAD Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-CausalTAD Trajectory/causaltad_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

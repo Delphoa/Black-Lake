@@ -98,7 +98,7 @@ The selected paper contributes a distributed, extrapolation, gradient perspectiv
 - https://arxiv.org/html/1711.05762 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1711.05762 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1711.05762 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

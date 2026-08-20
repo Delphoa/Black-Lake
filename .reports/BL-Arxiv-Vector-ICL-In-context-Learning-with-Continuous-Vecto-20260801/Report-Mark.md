@@ -97,7 +97,7 @@ The paper contributes a vector-icl, continuous, in-context perspective. The rela
 - https://arxiv.org/html/2410.05629 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.05629 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.05629 - durable DOI record.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity companions, and extraction caches; all withheld locally with zero source-document uploads.

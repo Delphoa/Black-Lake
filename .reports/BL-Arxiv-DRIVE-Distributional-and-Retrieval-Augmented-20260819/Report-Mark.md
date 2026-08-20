@@ -98,7 +98,7 @@ The selected paper contributes a bidding, distributional, drive perspective. The
 - https://arxiv.org/html/2606.14192 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.14192 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.14192 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decision-Making%20under - related DEP: Decision-Making under - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decision-Making under/decision_making_under_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

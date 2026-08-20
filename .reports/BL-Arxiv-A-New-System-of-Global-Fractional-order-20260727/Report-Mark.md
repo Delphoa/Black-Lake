@@ -95,7 +95,7 @@ The selected paper contributes a fractional-order, global, implicit perspective.
 - https://ar5iv.labs.arxiv.org/html/1611.06665 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1611.06665 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1611.06665 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-Global%20NS%20Existence - related DEP: Global NS Existence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-FGLE%20Midpoint%20Scheme - related DEP: FGLE Midpoint Scheme - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-Global%20NS%20Existence - related DEP: Global NS Existence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence - related DEP: PAC Confidence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-PAC Confidence/pac_confidence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGLE%20Midpoint%20Scheme - related DEP: FGLE Midpoint Scheme - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-FGLE Midpoint Scheme/fgle_midpoint_scheme_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

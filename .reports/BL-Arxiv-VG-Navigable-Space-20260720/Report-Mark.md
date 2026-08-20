@@ -96,7 +96,7 @@ VG-Nav supplies interpretable visual/geometric traversability; iKalibr anchors s
 - https://arxiv.org/abs/2407.06545 - metadata, authors, date, DOI, abstract, and locators.
 - https://arxiv.org/html/2407.06545 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.06545 - verified primary PDF; local copy withheld.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion - related safe motion planning.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration - related calibration integrity.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Stereo%20Lane%20Detection - related interpretable perception.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion - related safe motion planning.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration - related calibration integrity.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Stereo%20Lane%20Detection - related interpretable perception.
 - Source files: PDF, full-paper HTML, metadata HTML, and integrity records; all withheld locally.

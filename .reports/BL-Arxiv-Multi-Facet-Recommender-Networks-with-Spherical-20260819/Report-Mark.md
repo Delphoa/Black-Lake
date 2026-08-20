@@ -98,7 +98,7 @@ The selected paper contributes a multi-facet, networks, optimization perspective
 - https://arxiv.org/html/2103.14866 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.14866 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.14866 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Farthest%20Greedy%20Path - related DEP: Farthest Greedy Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Farthest Greedy Path/farthest_greedy_path_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Agentic%20AI%20Empowered - related DEP: Agentic AI Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agentic AI Empowered/agentic_ai_empowered_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Batch%20Multi-Fidelity - related DEP: Batch Multi-Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Batch Multi-Fidelity/batch_multi_fidelity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Farthest%20Greedy%20Path - related DEP: Farthest Greedy Path - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Farthest Greedy Path/farthest_greedy_path_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Agentic%20AI%20Empowered - related DEP: Agentic AI Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agentic AI Empowered/agentic_ai_empowered_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Batch%20Multi-Fidelity - related DEP: Batch Multi-Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Batch Multi-Fidelity/batch_multi_fidelity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

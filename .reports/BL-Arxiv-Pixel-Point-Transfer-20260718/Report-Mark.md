@@ -209,9 +209,9 @@ These are deterministic audit aids for synthetic or authorized inputs, not a rep
   - Applies to: DEP-E container and publication-index rules.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: related-repository dedup and repository-context authority.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
   - Applies to: camera/BEV/point-cloud representation bridge.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal/corrkd_missing_modal_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal/corrkd_missing_modal_manuscript.md
   - Applies to: contrastive teacher/student and relational-distillation bridge.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: feature-adapter, geometry-latent, and distilled-prior bridge.

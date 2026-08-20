@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, detection, dynamic perspective. The 
 - https://arxiv.org/html/2605.26235 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.26235 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.26235 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Efficient%20Dynamic - related DEP: An Efficient Dynamic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Efficient Dynamic/an_efficient_dynamic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

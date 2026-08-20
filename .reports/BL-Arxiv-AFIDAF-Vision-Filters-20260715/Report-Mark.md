@@ -199,13 +199,13 @@ def release_gate(report):
 - Source URL: https://zsivine.github.io/research/
   - Applies to: author-side publication context and code-availability check.
   - Notes: Near-primary publication page; no AFIDAF code link was established.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md
   - Applies to: related spatial-prior and object-detection synthesis.
   - Notes: Existing processed Black Lake artifact.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
   - Applies to: related compact visual deployment and resource-ledger synthesis.
   - Notes: Existing processed Black Lake artifact.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
   - Applies to: related structured-representation and parameter-efficiency synthesis.
   - Notes: Existing processed Black Lake artifact.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

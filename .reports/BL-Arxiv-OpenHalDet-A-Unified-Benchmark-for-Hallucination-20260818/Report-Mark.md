@@ -97,7 +97,7 @@ The selected paper contributes a benchmark, detection, diverse perspective. The 
 - https://arxiv.org/html/2606.06959 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.06959 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.06959 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario%20Unified - related DEP: Cross-Scenario Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario Unified/cross_scenario_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Cross-Scenario%20Unified - related DEP: Cross-Scenario Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario Unified/cross_scenario_unified_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a benchmark, constructing, industrial-scale persp
 - https://arxiv.org/html/2602.10450 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.10450 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.10450 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Lorenz%20Divide%20Conquer - related DEP: Lorenz DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lorenz Divide Conquer/lorenz_divide_conquer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SAC-Opt%20Semantic%20Anchors - related DEP: SAC-Opt Semantic Anchors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SAC-Opt Semantic Anchors/sac_opt_semantic_anchors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lorenz%20Divide%20Conquer - related DEP: Lorenz DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lorenz Divide Conquer/lorenz_divide_conquer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SAC-Opt%20Semantic%20Anchors - related DEP: SAC-Opt Semantic Anchors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SAC-Opt Semantic Anchors/sac_opt_semantic_anchors_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

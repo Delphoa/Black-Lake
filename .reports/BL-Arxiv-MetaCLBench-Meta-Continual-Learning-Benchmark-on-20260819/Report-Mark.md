@@ -98,7 +98,7 @@ The selected paper contributes a benchmark, continual, devices perspective. The 
 - https://arxiv.org/html/2504.00174 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.00174 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.00174 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HSD%20FTI-FDet - related DEP: HSD FTI-FDet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet - related DEP: HSD FTI-FDet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HSD FTI-FDet/hsd_fti_fdet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

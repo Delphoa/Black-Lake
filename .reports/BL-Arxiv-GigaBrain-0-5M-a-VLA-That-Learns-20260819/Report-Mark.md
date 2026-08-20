@@ -98,7 +98,7 @@ The selected paper contributes a gigabrain-0, learns, model-based perspective. T
 - https://arxiv.org/html/2602.12099 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.12099 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.12099 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

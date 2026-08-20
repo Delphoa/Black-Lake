@@ -95,7 +95,7 @@ The selected paper contributes a agents, countermeasures, llm perspective. The t
 - https://arxiv.org/html/2503.09648 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.09648 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.09648 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

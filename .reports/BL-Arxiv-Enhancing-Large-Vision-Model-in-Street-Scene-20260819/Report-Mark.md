@@ -98,7 +98,7 @@ The selected paper contributes a enhancing, leveraging, optimization perspective
 - https://arxiv.org/html/2501.01710 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.01710 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.01710 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SparseWorld%20Enhancing - related DEP: SparseWorld Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SparseWorld Enhancing/sparseworld_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SparseWorld%20Enhancing - related DEP: SparseWorld Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SparseWorld Enhancing/sparseworld_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

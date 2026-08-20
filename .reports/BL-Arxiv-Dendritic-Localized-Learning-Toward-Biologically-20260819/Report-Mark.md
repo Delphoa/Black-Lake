@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, biologically, dendritic perspective.
 - https://arxiv.org/html/2501.09976 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.09976 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.09976 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

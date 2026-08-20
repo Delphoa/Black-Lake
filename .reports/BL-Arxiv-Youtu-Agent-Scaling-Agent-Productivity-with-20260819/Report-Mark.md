@@ -98,7 +98,7 @@ The selected paper contributes a agent, automated, generation perspective. The t
 - https://arxiv.org/html/2512.24615 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.24615 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.24615 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Prompt - related DEP: Automated Prompt - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Prompt/automated_prompt_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

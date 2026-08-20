@@ -140,7 +140,7 @@ def publishable(auth_ok, provenance_ok, forensic_score, threshold):
 - https://ar5iv.labs.arxiv.org/html/2004.14569 - verified full-paper dataset, method, experiments, table, conclusion; local copy withheld.
 - https://arxiv.org/pdf/2004.14569 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2004.14569 - persistent identity.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - defensive forensics synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Biometric%20Identity%20Gaps - biometric identity-governance synthesis.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - controllable-video safety synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - defensive forensics synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Biometric%20Identity%20Gaps - biometric identity-governance synthesis.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - controllable-video safety synthesis.
 - Source files: verified PDF, fallback HTML, metadata HTML, and private verification records; all withheld locally. Zero source uploads. Job `BLAD-2200-20260720-8636EDC7`, item `BLAD-2200-20260720-8636EDC7-P03`.

@@ -97,7 +97,7 @@ The selected paper contributes a action, latent, wild perspective. The three rel
 - https://arxiv.org/html/2601.05230 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.05230 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.05230 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

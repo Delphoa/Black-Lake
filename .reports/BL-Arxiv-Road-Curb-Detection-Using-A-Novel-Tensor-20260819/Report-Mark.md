@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, curb, detection perspective. The thr
 - https://arxiv.org/html/1911.12937 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1911.12937 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1911.12937 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Mask%20Proposal%20Voting - related DEP: Mask Proposal Voting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Mask Proposal Voting/mask_proposal_voting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Learning - related DEP: A Novel Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Learning/a_novel_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Multi-Point%20ISAC - related DEP: Multi-Point ISAC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Multi-Point ISAC/multi_point_isac_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Mask%20Proposal%20Voting - related DEP: Mask Proposal Voting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Mask Proposal Voting/mask_proposal_voting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Learning - related DEP: A Novel Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Learning/a_novel_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

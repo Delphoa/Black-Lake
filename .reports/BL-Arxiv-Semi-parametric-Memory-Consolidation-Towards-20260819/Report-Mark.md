@@ -98,7 +98,7 @@ The selected paper contributes a brain-like, consolidation, continual perspectiv
 - https://arxiv.org/html/2504.14727 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.14727 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.14727 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-CanCal%20Towards%20Real-time - related DEP: CanCal Towards Real-time - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-CanCal Towards Real-time/cancal_towards_real_time_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

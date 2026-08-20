@@ -98,7 +98,7 @@ The selected paper contributes a decentralized, delayed, federated perspective. 
 - https://arxiv.org/html/2311.01229 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.01229 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.01229 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Over-the-Air - related DEP: Over-the-Air - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Over-the-Air/over_the_air_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Over-the-Air - related DEP: Over-the-Air - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Over-the-Air/over_the_air_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a assistant, building, coding perspective. The th
 - https://arxiv.org/html/2410.16229 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.16229 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.16229 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Building%20Taiwanese - related DEP: Building Taiwanese Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Building Taiwanese/building_taiwanese_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented%20TLAPS - related DEP: Retrieval-Augmented TLAPS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented TLAPS/retrieval_augmented_tlaps_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented%20and - related DEP: Retrieval-Augmented and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented and/retrieval_augmented_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Building%20Taiwanese - related DEP: Building Taiwanese Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Building Taiwanese/building_taiwanese_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Retrieval-Augmented%20TLAPS - related DEP: Retrieval-Augmented TLAPS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented TLAPS/retrieval_augmented_tlaps_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Retrieval-Augmented%20and - related DEP: Retrieval-Augmented and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented and/retrieval_augmented_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

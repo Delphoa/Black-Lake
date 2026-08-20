@@ -98,7 +98,7 @@ The selected paper contributes a flow-enhanced, motion, planmogpt perspective. T
 - https://arxiv.org/html/2506.17912 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.17912 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.17912 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion - related DEP: RRT-CBF Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

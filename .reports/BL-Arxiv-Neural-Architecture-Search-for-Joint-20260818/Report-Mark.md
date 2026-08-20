@@ -97,7 +97,7 @@ The selected paper contributes a architecture, biological, joint perspective. Th
 - https://arxiv.org/html/1909.00337 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1909.00337 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1909.00337 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-On%20n%20n-4%203%20q%20Quantum%20MDS - related DEP: On n n-4 3 q Quantum MDS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-On n n-4 3 q Quantum MDS/on_n_n_4_3_q_quantum_mds_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-On%20n%20n-4%203%20q%20Quantum%20MDS - related DEP: On n n-4 3 q Quantum MDS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-On n n-4 3 q Quantum MDS/on_n_n_4_3_q_quantum_mds_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

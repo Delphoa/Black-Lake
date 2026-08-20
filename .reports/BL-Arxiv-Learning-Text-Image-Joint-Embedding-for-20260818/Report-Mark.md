@@ -97,7 +97,7 @@ The selected paper contributes a cross-modal, embedding, engineering perspective
 - https://arxiv.org/html/2110.11592 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2110.11592 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3490519 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Dewey%20Long%20Context - related DEP: Dewey Long Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Dewey Long Context/dewey_long_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Dewey%20Long%20Context - related DEP: Dewey Long Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Dewey Long Context/dewey_long_context_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

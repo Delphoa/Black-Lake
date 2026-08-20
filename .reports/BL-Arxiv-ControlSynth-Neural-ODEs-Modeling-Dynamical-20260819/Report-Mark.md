@@ -98,7 +98,7 @@ The selected paper contributes a controlsynth, convergence, dynamical perspectiv
 - https://arxiv.org/html/2411.02292 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.02292 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.02292 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Modeling%20Unknown - related DEP: Modeling Unknown - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Modeling Unknown/modeling_unknown_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MCMC%20Informed%20Neural - related DEP: MCMC Informed Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MCMC Informed Neural/mcmc_informed_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Modeling%20Unknown - related DEP: Modeling Unknown - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Modeling Unknown/modeling_unknown_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MCMC%20Informed%20Neural - related DEP: MCMC Informed Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MCMC Informed Neural/mcmc_informed_neural_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

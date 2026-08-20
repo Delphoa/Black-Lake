@@ -98,7 +98,7 @@ The selected paper contributes a autoregressive, deepverse, generation perspecti
 - https://arxiv.org/html/2506.01103 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.01103 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.01103 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Streaming%20Autoregressive - related DEP: Streaming Autoregressive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Streaming Autoregressive/streaming_autoregressive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld%20Technical - related DEP: Qwen-RobotWorld Technical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld Technical/qwen_robotworld_technical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Stereo%20World%20Model - related DEP: Stereo World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stereo World Model/stereo_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Streaming%20Autoregressive - related DEP: Streaming Autoregressive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Streaming Autoregressive/streaming_autoregressive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Qwen-RobotWorld%20Technical - related DEP: Qwen-RobotWorld Technical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Qwen-RobotWorld Technical/qwen_robotworld_technical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Stereo%20World%20Model - related DEP: Stereo World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stereo World Model/stereo_world_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

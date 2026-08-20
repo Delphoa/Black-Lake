@@ -98,7 +98,7 @@ The selected paper contributes a dense, multi-objective, reinforcement perspecti
 - https://arxiv.org/html/2511.13885 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.13885 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.13885 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beetle%20Antennae%20Search - related DEP: Beetle Antennae Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beetle Antennae Search/beetle_antennae_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-DHR%20Retrieval - related DEP: DHR Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-DHR Retrieval/dhr_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beetle%20Antennae%20Search - related DEP: Beetle Antennae Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beetle Antennae Search/beetle_antennae_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-DHR%20Retrieval - related DEP: DHR Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-DHR Retrieval/dhr_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, distance, flip perspective. The thre
 - https://arxiv.org/html/1910.06185 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1910.06185 - verified primary PDF; local copy withheld.
 - https://doi.org/10.4230/LIPIcs.MFCS.2017.65 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-An%20improved%20FPT%20algorithm - related DEP: An improved FPT algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-An improved FPT algorithm/an_improved_fpt_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20approximation - related DEP: Efficient approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient approximation/efficient_approximation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Barycode-based%20GJK - related DEP: Barycode-based GJK - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Barycode-based GJK/barycode_based_gjk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-An%20improved%20FPT%20algorithm - related DEP: An improved FPT algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-An improved FPT algorithm/an_improved_fpt_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20approximation - related DEP: Efficient approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient approximation/efficient_approximation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Barycode-based%20GJK - related DEP: Barycode-based GJK - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Barycode-based GJK/barycode_based_gjk_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

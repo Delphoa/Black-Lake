@@ -97,7 +97,7 @@ The selected paper contributes a aligning, cross-view, discriminative perspectiv
 - https://arxiv.org/html/2603.13855 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.13855 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.13855 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Prompt%20Tuning%20for - related DEP: Prompt Tuning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Prompt Tuning for/prompt_tuning_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Prompt%20Tuning%20for - related DEP: Prompt Tuning for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Prompt Tuning for/prompt_tuning_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

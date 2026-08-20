@@ -38,9 +38,9 @@ The selected source unit initially had a valid PDF but lacked full-paper HTML. R
 
 ## Related DEP Entries
 
-1. [DEP-E-20260708-ConMax Reasoning](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning) — concrete overlap: both works use GRPO and multi-signal rewards to shape long reasoning. Source basis: the related manuscript's inspected ConMax method, dual-confidence reward, and reported experiments.
-2. [DEP-E-20260714-Structure Aware Systems](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Structure%20Aware%20Systems) — concrete overlap: the reviewed SPL work explicitly separates probabilistic model operations from deterministic solver and assertion boundaries, paralleling ComfyUI-R1's learned planner plus structural gates. Source basis: the related DEP's complete SPL paper review and official repository inspection.
-3. [DEP-E-20260713-SAILFISH Vetting](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SAILFISH%20Vetting) — concrete overlap: SAILFISH narrows graph candidates broadly and then performs precise validation, paralleling candidate-node retrieval, graph generation, and hard validity checks. Source basis: the related DEP's full-paper and official repository review.
+1. [DEP-E-20260708-ConMax Reasoning](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning) — concrete overlap: both works use GRPO and multi-signal rewards to shape long reasoning. Source basis: the related manuscript's inspected ConMax method, dual-confidence reward, and reported experiments.
+2. [DEP-E-20260714-Structure Aware Systems](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Structure%20Aware%20Systems) — concrete overlap: the reviewed SPL work explicitly separates probabilistic model operations from deterministic solver and assertion boundaries, paralleling ComfyUI-R1's learned planner plus structural gates. Source basis: the related DEP's complete SPL paper review and official repository inspection.
+3. [DEP-E-20260713-SAILFISH Vetting](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SAILFISH%20Vetting) — concrete overlap: SAILFISH narrows graph candidates broadly and then performs precise validation, paralleling candidate-node retrieval, graph generation, and hard validity checks. Source basis: the related DEP's full-paper and official repository review.
 
 ## Synthesis Note
 
@@ -160,10 +160,10 @@ These mock-ups use Python 3 standard-library data structures, synthetic inputs, 
   - Applies to: DEP-E container placement and publication-index requirements.
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: related repository provenance and cross-repository dedup context.
-- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning
+- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning
   - Applies to: GRPO and multi-signal reasoning-reward bridge.
-- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Structure%20Aware%20Systems
+- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Structure%20Aware%20Systems
   - Applies to: structure preservation and model/verifier boundary bridge.
-- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SAILFISH%20Vetting
+- Related DEP: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SAILFISH%20Vetting
   - Applies to: staged graph discovery and precise validation bridge.
 - Source policy: verified local source artifacts were inspected and withheld; no original source file was uploaded.

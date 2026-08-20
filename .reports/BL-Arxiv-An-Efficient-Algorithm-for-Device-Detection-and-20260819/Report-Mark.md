@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, asynchronous, channel perspective. T
 - https://arxiv.org/html/2010.09979 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.09979 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.09979 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Security%20Non%20resettable - related DEP: Security Non resettable Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Security Non resettable/security_non_resettable_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Security%20Non%20resettable - related DEP: Security Non resettable Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Security Non resettable/security_non_resettable_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-LA-Pose Latent Action/la_pose_latent_action_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

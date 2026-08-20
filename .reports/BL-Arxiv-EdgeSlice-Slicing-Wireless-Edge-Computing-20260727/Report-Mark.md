@@ -95,7 +95,7 @@ The selected paper contributes a network, computing, edgeslice perspective. The 
 - https://ar5iv.labs.arxiv.org/html/2003.12911 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.12911 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2003.12911 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

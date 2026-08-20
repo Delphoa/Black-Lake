@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, improving, levenberg-marquardt persp
 - https://arxiv.org/html/2212.08769 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2212.08769 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2212.08769 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Reliability - related DEP: Improving Reliability - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Reliability/improving_reliability_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Sequence - related DEP: Improving Sequence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Sequence/improving_sequence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Reliability - related DEP: Improving Reliability - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Reliability/improving_reliability_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

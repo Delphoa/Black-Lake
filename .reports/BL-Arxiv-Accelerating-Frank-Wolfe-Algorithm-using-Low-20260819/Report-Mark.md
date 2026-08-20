@@ -98,7 +98,7 @@ The selected paper contributes a accelerating, adaptive, algorithm perspective. 
 - https://arxiv.org/html/2207.09002 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2207.09002 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2207.09002 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20Min-Max - related DEP: Accelerating Min-Max - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Min-Max/accelerating_min_max_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20Federated - related DEP: Accelerating Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Federated/accelerating_federated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20Min-Max - related DEP: Accelerating Min-Max - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Min-Max/accelerating_min_max_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20Federated - related DEP: Accelerating Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Federated/accelerating_federated_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

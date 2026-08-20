@@ -98,7 +98,7 @@ The selected paper contributes a antenna, csi, drl-based perspective. The three 
 - https://arxiv.org/html/2604.23611 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.23611 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.23611 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Movable%20Antenna%20Empowered - related DEP: Movable Antenna Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna Empowered/movable_antenna_empowered_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Movable%20Antenna-Aided - related DEP: Movable Antenna-Aided - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna-Aided/movable_antenna_aided_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS - related DEP: 2D-RC OTFS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Movable%20Antenna%20Empowered - related DEP: Movable Antenna Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna Empowered/movable_antenna_empowered_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Movable%20Antenna-Aided - related DEP: Movable Antenna-Aided - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna-Aided/movable_antenna_aided_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS - related DEP: 2D-RC OTFS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

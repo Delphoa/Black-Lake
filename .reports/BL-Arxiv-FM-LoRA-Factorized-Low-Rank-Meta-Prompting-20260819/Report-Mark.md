@@ -98,7 +98,7 @@ The selected paper contributes a continual, factorized, fm-lora perspective. The
 - https://arxiv.org/html/2504.08823 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.08823 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.08823 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Ferret%20An%20Efficient - related DEP: Ferret An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Ferret An Efficient/ferret_an_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Parameterizing%20Context - related DEP: Parameterizing Context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Parameterizing Context/parameterizing_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Efficient%20Self-supervised - related DEP: Efficient Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Efficient Self-supervised/efficient_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Ferret%20An%20Efficient - related DEP: Ferret An Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Ferret An Efficient/ferret_an_efficient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

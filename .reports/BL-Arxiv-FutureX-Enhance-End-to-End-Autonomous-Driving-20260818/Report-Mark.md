@@ -97,7 +97,7 @@ The selected paper contributes a autonomous, chain-of-thought, driving perspecti
 - https://arxiv.org/html/2512.11226 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.11226 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.11226 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Latent%20Action - related DEP: Learning Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Latent Action/learning_latent_action_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Latent%20Action - related DEP: Learning Latent Action - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Latent Action/learning_latent_action_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

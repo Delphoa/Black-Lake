@@ -98,7 +98,7 @@ The selected paper contributes a language, long, mechanism perspective. The thre
 - https://arxiv.org/html/2603.29252 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.29252 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.29252 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A-MAR%20Agent-based - related DEP: A-MAR Agent-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A-MAR Agent-based/a_mar_agent_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A-MAR%20Agent-based - related DEP: A-MAR Agent-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A-MAR Agent-based/a_mar_agent_based_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

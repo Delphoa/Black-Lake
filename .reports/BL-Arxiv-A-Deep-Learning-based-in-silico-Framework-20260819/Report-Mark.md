@@ -98,7 +98,7 @@ The selected paper contributes a learning-based, optimization, prosthetic perspe
 - https://arxiv.org/html/2302.03570 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.03570 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/EMBC40787.2023.10340288 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-RetinaLogos%20Fine-Grained - related DEP: RetinaLogos Fine-Grained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-RetinaLogos Fine-Grained/retinalogos_fine_grained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Rapid%20Whole%20Slide%20Imaging - related DEP: Rapid Whole Slide Imaging Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Rapid Whole Slide Imaging/rapid_whole_slide_imaging_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

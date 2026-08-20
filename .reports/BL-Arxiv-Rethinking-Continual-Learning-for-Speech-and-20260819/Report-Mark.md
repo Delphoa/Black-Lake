@@ -98,7 +98,7 @@ The selected paper contributes a audio, continual, open perspective. The three r
 - https://arxiv.org/html/2605.24863 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.24863 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.24863 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-MelShield%20Robust - related DEP: MelShield Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-MelShield Robust/melshield_robust_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Language%20model%20fusion%20for - related DEP: Language model fusion for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Language model fusion for/language_model_fusion_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-MelShield%20Robust - related DEP: MelShield Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-MelShield Robust/melshield_robust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Language%20model%20fusion%20for - related DEP: Language model fusion for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Language model fusion for/language_model_fusion_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

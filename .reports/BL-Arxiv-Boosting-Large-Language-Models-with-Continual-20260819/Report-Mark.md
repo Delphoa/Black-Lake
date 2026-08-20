@@ -98,7 +98,7 @@ The selected paper contributes a aspect-based, boosting, continual perspective. 
 - https://arxiv.org/html/2405.05496 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.05496 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.05496 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scalable%20Language%20Model - related DEP: Scalable Language Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Language Model/scalable_language_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Controlling%20Decision - related DEP: Controlling Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Controlling Decision/controlling_decision_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scalable%20Language%20Model - related DEP: Scalable Language Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scalable Language Model/scalable_language_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Controlling%20Decision - related DEP: Controlling Decision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Controlling Decision/controlling_decision_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a any-level, colorization, descriptions perspecti
 - https://arxiv.org/html/2305.15217 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2305.15217 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2305.15217 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

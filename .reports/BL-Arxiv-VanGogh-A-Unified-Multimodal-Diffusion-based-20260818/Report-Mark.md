@@ -97,7 +97,7 @@ The selected paper contributes a colorization, diffusion-based, multimodal persp
 - https://arxiv.org/html/2501.09499 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.09499 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.09499 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-L-CAD%20Language-based - related DEP: L-CAD Language-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-L-CAD Language-based/l_cad_language_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-L-CAD%20Language-based - related DEP: L-CAD Language-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-L-CAD Language-based/l_cad_language_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

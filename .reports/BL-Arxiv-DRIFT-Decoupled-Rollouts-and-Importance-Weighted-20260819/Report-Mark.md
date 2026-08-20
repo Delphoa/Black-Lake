@@ -98,7 +98,7 @@ The selected paper contributes a decoupled, drift, fine-tuning perspective. The 
 - https://arxiv.org/html/2605.31455 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.31455 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.31455 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FlowPRO%20Reward-Free - related DEP: FlowPRO Reward-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowPRO Reward-Free/flowpro_reward_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decoupled%20Training%20with - related DEP: Decoupled Training with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decoupled Training with/decoupled_training_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-APRIL%20Active%20Partial - related DEP: APRIL Active Partial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-APRIL Active Partial/april_active_partial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FlowPRO%20Reward-Free - related DEP: FlowPRO Reward-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowPRO Reward-Free/flowpro_reward_free_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

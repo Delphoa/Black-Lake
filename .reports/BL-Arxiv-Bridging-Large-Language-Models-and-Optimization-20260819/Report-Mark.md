@@ -98,7 +98,7 @@ The selected paper contributes a optimization, bridging, combinatorial perspecti
 - https://arxiv.org/html/2408.12214 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.12214 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.12214 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Understanding%20Curriculum - related DEP: Understanding Curriculum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Understanding Curriculum/understanding_curriculum_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Understanding%20Curriculum - related DEP: Understanding Curriculum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Understanding Curriculum/understanding_curriculum_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

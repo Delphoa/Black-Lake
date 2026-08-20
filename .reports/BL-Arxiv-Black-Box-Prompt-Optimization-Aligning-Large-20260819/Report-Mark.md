@@ -98,7 +98,7 @@ The selected paper contributes a aligning, black-box, language perspective. The 
 - https://arxiv.org/html/2311.04155 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2311.04155 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2311.04155 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PMPO%20Probabilistic%20Metric - related DEP: PMPO Probabilistic Metric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PMPO Probabilistic Metric/pmpo_probabilistic_metric_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-VFM-Loc%20Zero-Shot - related DEP: VFM-Loc Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VFM-Loc Zero-Shot/vfm_loc_zero_shot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PMPO%20Probabilistic%20Metric - related DEP: PMPO Probabilistic Metric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PMPO Probabilistic Metric/pmpo_probabilistic_metric_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-VFM-Loc%20Zero-Shot - related DEP: VFM-Loc Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VFM-Loc Zero-Shot/vfm_loc_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20Aligning%20Hierarchical - related DEP: On Aligning Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On Aligning Hierarchical/on_aligning_hierarchical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

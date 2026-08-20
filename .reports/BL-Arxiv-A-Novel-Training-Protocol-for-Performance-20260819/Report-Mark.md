@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, architecture, evolutionary perspect
 - https://arxiv.org/html/2008.13187 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2008.13187 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2008.13187 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

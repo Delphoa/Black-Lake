@@ -98,7 +98,7 @@ The selected paper contributes a api, comprehensibility, continuous perspective.
 - https://arxiv.org/html/2303.13828 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2303.13828 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2303.13828 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Code - related DEP: Improving Code - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Code/improving_code_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Code - related DEP: Improving Code - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Code/improving_code_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

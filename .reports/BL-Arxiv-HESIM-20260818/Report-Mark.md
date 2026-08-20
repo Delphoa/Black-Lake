@@ -40,9 +40,9 @@ The source gate was applied before review. The selected local unit initially con
 
 Exactly three related entries were selected for concrete conceptual overlap:
 
-1. [DEP-E-20260714-iKalibr Calibration](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md) - targetless continuous-time calibration for heterogeneous sensors; it supplies the strongest bridge for calibration provenance, temporal offsets, uncertainty, and drift gates around H-ESIM.
-2. [DEP-E-20260730-Off-Aperture RGBD](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Off-Aperture%20RGBD/off_aperture_rgbd_manuscript.md) - physically modeled computational imaging with learned reconstruction and depth; it connects sensor/optics modeling, calibration artifacts, prototype mismatch, and sim-to-real evaluation.
-3. [DEP-E-20260805-RetinaGAN Transfer](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260805-RetinaGAN%20Sim-to-Real/retinagan_sim_to_real_manuscript.md) - task-preserving simulation-to-real transfer with downstream physical trials; it provides a complementary warning that image-level or sensor-level invariants must be audited for blind spots before deployment.
+1. [DEP-E-20260714-iKalibr Calibration](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md) - targetless continuous-time calibration for heterogeneous sensors; it supplies the strongest bridge for calibration provenance, temporal offsets, uncertainty, and drift gates around H-ESIM.
+2. [DEP-E-20260730-Off-Aperture RGBD](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Off-Aperture%20RGBD/off_aperture_rgbd_manuscript.md) - physically modeled computational imaging with learned reconstruction and depth; it connects sensor/optics modeling, calibration artifacts, prototype mismatch, and sim-to-real evaluation.
+3. [DEP-E-20260805-RetinaGAN Transfer](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-RetinaGAN%20Sim-to-Real/retinagan_sim_to_real_manuscript.md) - task-preserving simulation-to-real transfer with downstream physical trials; it provides a complementary warning that image-level or sensor-level invariants must be audited for blind spots before deployment.
 
 ## Synthesis Note
 
@@ -164,11 +164,11 @@ print(drift_gate({"mean": 0.10, "variance": 0.03},
   - Notes: arXiv DOI.
 - Source URL: https://yunfanlu.github.io/HESIM/
   - Applies to: author-controlled project context and public method overview.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
   - Applies to: related-entry bridge on multi-sensor calibration and temporal/spatial validity.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Off-Aperture%20RGBD/off_aperture_rgbd_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Off-Aperture%20RGBD/off_aperture_rgbd_manuscript.md
   - Applies to: related-entry bridge on physical imaging models and calibration-to-reconstruction transfer.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260805-RetinaGAN%20Sim-to-Real/retinagan_sim_to_real_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-RetinaGAN%20Sim-to-Real/retinagan_sim_to_real_manuscript.md
   - Applies to: related-entry bridge on task-preserving sim-to-real transfer and physical evidence.
 - Source files: withheld locally; no original PDF, HTML, metadata page, source package, cache, extracted text, rendering, provenance record, or verification report is redistributed.
   - Applies to: this Report-Mark and the deposited manuscript.

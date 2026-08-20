@@ -98,7 +98,7 @@ The selected paper contributes a grounding, sentence, streaming perspective. The
 - https://arxiv.org/html/2308.07102 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.07102 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3581783.3612120 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Better%20and%20Faster - related DEP: A Better and Faster - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Better and Faster/a_better_and_faster_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning-Augmented - related DEP: Learning-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning-Augmented/learning_augmented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Streaming - related DEP: Streaming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Streaming/streaming_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Better%20and%20Faster - related DEP: A Better and Faster - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Better and Faster/a_better_and_faster_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning-Augmented - related DEP: Learning-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning-Augmented/learning_augmented_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, alternating, class perspective. The 
 - https://arxiv.org/html/2411.06333 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.06333 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.06333 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Mission%20schedule%20of%20agile - related DEP: Mission schedule of agile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mission schedule of agile/mission_schedule_of_agile_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Curriculum%20Proximal - related DEP: Curriculum Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Curriculum Proximal/curriculum_proximal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Sparse%20SSN%20PMM - related DEP: Sparse SSN-PMM Review; source basis `.lake-data/DEP-E/DEP-E-20260719-Sparse SSN PMM/sparse_ssn_pmm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Mission%20schedule%20of%20agile - related DEP: Mission schedule of agile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Mission schedule of agile/mission_schedule_of_agile_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Curriculum%20Proximal - related DEP: Curriculum Proximal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Curriculum Proximal/curriculum_proximal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

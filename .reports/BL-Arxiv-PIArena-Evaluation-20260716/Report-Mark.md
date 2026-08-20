@@ -190,9 +190,9 @@ This mock-up converts interval evidence into abstention-aware routing. Threshold
   - Use: persistent identifier.
 - Official implementation: https://github.com/sleeepeer/PIArena
   - Use: implementation availability, interface documentation, dataset/leaderboard links, and MIT license; not executed.
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260708-Tech%20Intel%20Review/tech-intel-agent-systems-review.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-Tech%20Intel%20Review/tech-intel-agent-systems-review.md
   - Use: distributed injection surface and agent-evaluation bridge.
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Agent%20Memory%20Forensics/memory-forensics.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Agent%20Memory%20Forensics/memory-forensics.md
   - Use: channel-specific trace and observability bridge.
-- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
+- Related DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal/llm_judge_conformal_manuscript.md
   - Use: evaluator-uncertainty bridge.

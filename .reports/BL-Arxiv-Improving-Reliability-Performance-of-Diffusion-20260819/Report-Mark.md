@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, algorithm, communication perspective.
 - https://arxiv.org/html/1508.00982 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1508.00982 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1508.00982 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Visual-Semantic - related DEP: Improving Visual-Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Visual-Semantic/improving_visual_semantic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-TopoDiffuser%20A - related DEP: TopoDiffuser A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-TopoDiffuser A/topodiffuser_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-VanGogh%20A%20Unified - related DEP: VanGogh A Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-VanGogh A Unified/vangogh_a_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Visual-Semantic - related DEP: Improving Visual-Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Visual-Semantic/improving_visual_semantic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

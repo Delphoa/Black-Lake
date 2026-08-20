@@ -98,7 +98,7 @@ The selected paper contributes a constrained, division, multiobjective perspecti
 - https://arxiv.org/html/2101.08552 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2101.08552 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2101.08552 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20Multi-layer - related DEP: Learning Multi-layer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Multi-layer/learning_multi_layer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM%20A%20Distributed - related DEP: DDAC-SpAM A Distributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM A Distributed/ddac_spam_a_distributed_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Online%20Prediction - related DEP: An Online Prediction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Online Prediction/an_online_prediction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20Multi-layer - related DEP: Learning Multi-layer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Multi-layer/learning_multi_layer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DDAC-SpAM%20A%20Distributed - related DEP: DDAC-SpAM A Distributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM A Distributed/ddac_spam_a_distributed_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

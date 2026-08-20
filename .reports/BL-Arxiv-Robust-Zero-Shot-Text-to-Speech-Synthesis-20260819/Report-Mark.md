@@ -98,7 +98,7 @@ The selected paper contributes a inference, optimization, reverse perspective. T
 - https://arxiv.org/html/2407.02243 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.02243 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.02243 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Reverse%20Preference - related DEP: Reverse Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reverse Preference/reverse_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Reverse%20Preference - related DEP: Reverse Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Reverse Preference/reverse_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-DeltaDeno%20Zero-Shot - related DEP: DeltaDeno Zero-Shot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-DeltaDeno Zero-Shot/deltadeno_zero_shot_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

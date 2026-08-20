@@ -98,7 +98,7 @@ The selected paper contributes a action, decoupling, dial perspective. The three
 - https://arxiv.org/html/2603.29844 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.29844 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.29844 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-VLA-JEPA%20Enhancing - related DEP: VLA-JEPA Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VLA-JEPA Enhancing/vla_jepa_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GigaBrain-0%205M%20a%20VLA%20That - related DEP: GigaBrain-0 5M a VLA That - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GigaBrain-0 5M a VLA That/gigabrain_0_5m_a_vla_that_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-VLA-JEPA%20Enhancing - related DEP: VLA-JEPA Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VLA-JEPA Enhancing/vla_jepa_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

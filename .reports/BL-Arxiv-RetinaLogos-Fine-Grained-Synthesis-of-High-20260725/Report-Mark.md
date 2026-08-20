@@ -95,7 +95,7 @@ The selected paper contributes a retinal, fine-grained, images perspective. The 
 - https://arxiv.org/html/2505.12887 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.12887 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.12887 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-AG3D%20Learning%20to%20Generate - related DEP: AG3D Learning to Generate - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-AG3D Learning to Generate/ag3d_learning_to_generate_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-AG3D%20Learning%20to%20Generate - related DEP: AG3D Learning to Generate - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-AG3D Learning to Generate/ag3d_learning_to_generate_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-ScaleEnv%20Scaling%20Environm - related DEP: ScaleEnv Scaling Environment Syn - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-ScaleEnv Scaling Environm/scaleenv_scaling_environm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

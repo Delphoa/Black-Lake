@@ -98,7 +98,7 @@ The selected paper contributes a chain-of-thought, optimization-based, reweighti
 - https://arxiv.org/html/2510.27462 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.27462 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.27462 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-FutureX%20Enhance - related DEP: FutureX Enhance - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-FutureX Enhance/futurex_enhance_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

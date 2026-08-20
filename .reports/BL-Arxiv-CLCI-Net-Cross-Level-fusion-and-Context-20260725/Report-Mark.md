@@ -95,7 +95,7 @@ The selected paper contributes a stroke, context, lesion perspective. The three 
 - https://ar5iv.labs.arxiv.org/html/1907.07008 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1907.07008 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1007/978-3-030-32248-9_30 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Habitat%20Synthetic%20Scenes - related DEP: Habitat Synthetic Scenes - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Habitat Synthetic Scenes/habitat_synthetic_scenes_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

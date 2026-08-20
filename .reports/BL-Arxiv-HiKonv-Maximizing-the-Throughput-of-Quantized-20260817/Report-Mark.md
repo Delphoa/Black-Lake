@@ -95,7 +95,7 @@ The selected paper contributes a bit-wise, computation, convolution perspective.
 - https://arxiv.org/html/2208.00763 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.00763 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.00763 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-QFT%20Tuning - related DEP: QFT Tuning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-QFT Tuning/qft_tuning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator/spocta_accelerator_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-MOSS%20Enabling%20Code-Driven - related DEP: MOSS Enabling Code-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOSS Enabling Code-Driven/moss_enabling_code_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-QFT%20Tuning - related DEP: QFT Tuning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-QFT Tuning/qft_tuning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-SpOctA%20Accelerator - related DEP: SpOctA Accelerator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-SpOctA Accelerator/spocta_accelerator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOSS%20Enabling%20Code-Driven - related DEP: MOSS Enabling Code-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOSS Enabling Code-Driven/moss_enabling_code_driven_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

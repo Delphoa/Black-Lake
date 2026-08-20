@@ -98,7 +98,7 @@ The selected paper contributes a controllers, hierarchical, humanoid perspective
 - https://arxiv.org/html/2405.18418 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.18418 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.18418 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-One-shot%20Adaptation%20of - related DEP: One-shot Adaptation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-One-shot Adaptation of/one_shot_adaptation_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Self-supervised - related DEP: Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Self-supervised/self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-WT-UMI%20Tactile-based - related DEP: WT-UMI Tactile-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WT-UMI Tactile-based/wt_umi_tactile_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-One-shot%20Adaptation%20of - related DEP: One-shot Adaptation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-One-shot Adaptation of/one_shot_adaptation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Self-supervised - related DEP: Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Self-supervised/self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-WT-UMI%20Tactile-based - related DEP: WT-UMI Tactile-based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WT-UMI Tactile-based/wt_umi_tactile_based_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

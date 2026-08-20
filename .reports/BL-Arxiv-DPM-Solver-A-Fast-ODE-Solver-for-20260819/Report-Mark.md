@@ -98,7 +98,7 @@ The selected paper contributes a around, diffusion, dpm-solver perspective. The 
 - https://arxiv.org/html/2206.00927 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2206.00927 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2206.00927 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Differentiable%20Solver - related DEP: Differentiable Solver - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable Solver/differentiable_solver_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SpeeD%20Time%20Steps - related DEP: SpeeD Time Steps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SpeeD Time Steps/speed_time_steps_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Differentiable%20Solver - related DEP: Differentiable Solver - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable Solver/differentiable_solver_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SpeeD%20Time%20Steps - related DEP: SpeeD Time Steps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SpeeD Time Steps/speed_time_steps_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

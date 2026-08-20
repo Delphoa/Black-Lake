@@ -97,7 +97,7 @@ The selected paper contributes a feedback, multi-path, network perspective. The 
 - https://arxiv.org/html/1608.07706 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1608.07706 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1608.07706 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

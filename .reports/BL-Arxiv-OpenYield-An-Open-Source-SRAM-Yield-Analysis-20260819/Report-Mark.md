@@ -98,7 +98,7 @@ The selected paper contributes a benchmark, open-source, openyield perspective. 
 - https://arxiv.org/html/2508.04106 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.04106 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.04106 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-How%20Far%20Are%20We%20to%20GPT-4V - related DEP: How Far Are We to GPT-4V - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-How Far Are We to GPT-4V/how_far_are_we_to_gpt_4v_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-How%20Far%20Are%20We%20to%20GPT-4V - related DEP: How Far Are We to GPT-4V - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-How Far Are We to GPT-4V/how_far_are_we_to_gpt_4v_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CLOVER%20Test%20Benchmark - related DEP: CLOVER Test Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CLOVER Test Benchmark/clover_test_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-MCPWorld%20Benchmark - related DEP: MCPWorld - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-MCPWorld Benchmark/mcpworld_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

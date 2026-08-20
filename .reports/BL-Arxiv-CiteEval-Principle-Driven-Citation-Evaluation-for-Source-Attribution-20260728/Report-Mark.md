@@ -98,7 +98,7 @@ The selected paper contributes a citeeval, principle-driven, citation perspectiv
 - https://arxiv.org/html/2506.01829 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.01829 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.01829 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Evidence-Gated%20Systems - related DEP: Evidence-Gated Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Evidence-Gated Systems/evidence-gated-systems.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Reliability%20Proof%20Chains - related DEP: Reliability Proof Chains - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Reliability Proof Chains/reliability-proof-chains.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Agent%20Evidence%20Loops - related DEP: Agent Evidence Loops - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Agent Evidence Loops/agent-evidence-loops.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Evidence-Gated%20Systems - related DEP: Evidence-Gated Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Evidence-Gated Systems/evidence-gated-systems.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Reliability%20Proof%20Chains - related DEP: Reliability Proof Chains - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Reliability Proof Chains/reliability-proof-chains.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Agent%20Evidence%20Loops - related DEP: Agent Evidence Loops - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Agent Evidence Loops/agent-evidence-loops.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

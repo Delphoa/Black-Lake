@@ -98,7 +98,7 @@ The selected paper contributes a deterministic, gradient, heterogeneous perspect
 - https://arxiv.org/html/2507.09989 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.09989 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.09989 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Value-Guidance%20MeanFlow - related DEP: Value-Guidance MeanFlow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Value-Guidance MeanFlow/value_guidance_meanflow_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Empirical%20Study%20on - related DEP: Empirical Study on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Empirical Study on/empirical_study_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Value-Guidance%20MeanFlow - related DEP: Value-Guidance MeanFlow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Value-Guidance MeanFlow/value_guidance_meanflow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Empirical%20Study%20on - related DEP: Empirical Study on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Empirical Study on/empirical_study_on_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

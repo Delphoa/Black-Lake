@@ -95,7 +95,7 @@ The selected paper contributes a identifiers, device, access perspective. XPRINT
 - https://arxiv.org/html/2502.15270 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.15270 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.15270 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Flash%20Loan%20Ecosystem - related DEP: Flash Loan Ecosystem Review - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Flash%20Loan%20Ecosystem - related DEP: Flash Loan Ecosystem Review - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

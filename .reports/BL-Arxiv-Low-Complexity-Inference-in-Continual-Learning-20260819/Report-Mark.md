@@ -98,7 +98,7 @@ The selected paper contributes a compressed, continual, inference perspective. T
 - https://arxiv.org/html/2505.08327 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.08327 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.08327 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Designing%20Low-Complexity - related DEP: Designing Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Designing Low-Complexity/designing_low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Designing%20Low-Complexity - related DEP: Designing Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Designing Low-Complexity/designing_low_complexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

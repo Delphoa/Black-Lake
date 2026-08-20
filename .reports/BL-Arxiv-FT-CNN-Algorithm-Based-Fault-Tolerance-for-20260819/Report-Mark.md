@@ -98,7 +98,7 @@ The selected paper contributes a algorithm-based, convolutional, fault perspecti
 - https://arxiv.org/html/2003.12203 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.12203 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TPDS.2020.3043449 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An - related DEP: An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An/an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An - related DEP: An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An/an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

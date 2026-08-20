@@ -98,7 +98,7 @@ The selected paper contributes a cwm, generation, llm perspective. The three rel
 - https://arxiv.org/html/2510.02387 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.02387 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.02387 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Inner-Probe%20Discovering - related DEP: Inner-Probe Discovering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Inner-Probe Discovering/inner_probe_discovering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Inner-Probe%20Discovering - related DEP: Inner-Probe Discovering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Inner-Probe Discovering/inner_probe_discovering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

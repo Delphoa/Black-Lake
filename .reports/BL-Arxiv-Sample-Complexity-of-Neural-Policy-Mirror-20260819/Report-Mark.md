@@ -98,7 +98,7 @@ The selected paper contributes a policy, complexity, descent perspective. The th
 - https://arxiv.org/html/2309.13915 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.13915 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.13915 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Integrals and Rigidity/integrals_and_rigidity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

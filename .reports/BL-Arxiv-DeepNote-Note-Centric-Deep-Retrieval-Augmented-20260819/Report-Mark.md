@@ -98,7 +98,7 @@ The selected paper contributes a deepnote, generation, note-centric perspective.
 - https://arxiv.org/html/2410.08821 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.08821 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.08821 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

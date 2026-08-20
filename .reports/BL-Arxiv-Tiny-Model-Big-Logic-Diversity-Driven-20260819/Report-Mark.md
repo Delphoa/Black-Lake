@@ -98,7 +98,7 @@ The selected paper contributes a ability, big, diversity-driven perspective. The
 - https://arxiv.org/html/2511.06221 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.06221 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.06221 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Viability%20of - related DEP: Improving Viability of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Viability of/improving_viability_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Voice%20Evaluation%20of - related DEP: Voice Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of/voice_evaluation_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Viability%20of - related DEP: Improving Viability of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Viability of/improving_viability_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Voice%20Evaluation%20of - related DEP: Voice Evaluation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Voice Evaluation of/voice_evaluation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

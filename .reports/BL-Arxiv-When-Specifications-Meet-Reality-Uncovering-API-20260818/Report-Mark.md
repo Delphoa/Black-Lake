@@ -97,7 +97,7 @@ The selected paper contributes a api, ethereum, inconsistencies perspective. The
 - https://arxiv.org/html/2603.06029 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.06029 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3798219 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Less%20Cybersickness%20Please - related DEP: Less Cybersickness Please - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Less Cybersickness Please/less_cybersickness_please_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Extended%20to%20Reality - related DEP: Extended to Reality - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Extended to Reality/extended_to_reality_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Less%20Cybersickness%20Please - related DEP: Less Cybersickness Please - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Less Cybersickness Please/less_cybersickness_please_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Extended%20to%20Reality - related DEP: Extended to Reality - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Extended to Reality/extended_to_reality_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Where%20Does%20Vision%20Meet - related DEP: Where Does Vision Meet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Where Does Vision Meet/where_does_vision_meet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a contract, detect, directed perspective. The thr
 - https://arxiv.org/html/2408.10116 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.10116 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.10116 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-ORFuzz%20Fuzzing%20the%20Other - related DEP: ORFuzz Fuzzing the Other - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-ORFuzz Fuzzing the Other/orfuzz_fuzzing_the_other_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Construction%20and - related DEP: Construction and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Construction and/construction_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-ORFuzz%20Fuzzing%20the%20Other - related DEP: ORFuzz Fuzzing the Other - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-ORFuzz Fuzzing the Other/orfuzz_fuzzing_the_other_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Construction%20and - related DEP: Construction and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Construction and/construction_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

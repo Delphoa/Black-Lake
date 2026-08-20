@@ -97,7 +97,7 @@ The selected paper contributes a debate, distill, enhancement perspective. The t
 - https://arxiv.org/html/2506.03541 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.03541 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.03541 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

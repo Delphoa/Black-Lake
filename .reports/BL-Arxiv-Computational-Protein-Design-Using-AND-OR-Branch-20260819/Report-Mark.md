@@ -98,7 +98,7 @@ The selected paper contributes a branch-and-bound, computational, design perspec
 - https://arxiv.org/html/1412.3138 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1412.3138 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1412.3138 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-PTransIPs%20Protein%20PLM - related DEP: PTransIPs Protein PLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-PTransIPs Protein PLM/ptransips_protein_plm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Calibrated%20Dataset - related DEP: Calibrated Dataset - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Calibrated Dataset/calibrated_dataset_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-PTransIPs%20Protein%20PLM - related DEP: PTransIPs Protein PLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-PTransIPs Protein PLM/ptransips_protein_plm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Calibrated%20Dataset - related DEP: Calibrated Dataset - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Calibrated Dataset/calibrated_dataset_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RL4RLA%20Teaching%20ML%20to - related DEP: RL4RLA Teaching ML to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RL4RLA Teaching ML to/rl4rla_teaching_ml_to_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

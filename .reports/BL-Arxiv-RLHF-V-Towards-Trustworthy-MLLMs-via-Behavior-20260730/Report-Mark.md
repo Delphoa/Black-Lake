@@ -95,7 +95,7 @@ The selected paper contributes a rlhf-v, human, mllms perspective. The three rel
 - https://arxiv.org/html/2312.00849 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.00849 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.00849 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Multimodal%20Cyber-physical - related DEP: Multimodal Cyber-physical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Multimodal Cyber-physical/multimodal_cyber_physical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

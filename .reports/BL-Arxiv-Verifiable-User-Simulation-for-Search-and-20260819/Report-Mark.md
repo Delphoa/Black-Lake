@@ -98,7 +98,7 @@ The selected paper contributes a recommendation, search, simulation perspective.
 - https://arxiv.org/html/2606.14474 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.14474 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3805712.3808645 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Scale%20Simulation%20of - related DEP: Multi-Scale Simulation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Scale Simulation of/multi_scale_simulation_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Scale%20Simulation%20of - related DEP: Multi-Scale Simulation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Scale Simulation of/multi_scale_simulation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

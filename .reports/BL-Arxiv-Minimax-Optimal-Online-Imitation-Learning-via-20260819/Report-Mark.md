@@ -98,7 +98,7 @@ The selected paper contributes a estimation, imitation, minimax perspective. The
 - https://arxiv.org/html/2205.15397 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2205.15397 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2205.15397 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multitask%20Identity-Aware - related DEP: Multitask Identity-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multitask Identity-Aware/multitask_identity_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multitask%20Identity-Aware - related DEP: Multitask Identity-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multitask Identity-Aware/multitask_identity_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ONER%20Online%20Experience - related DEP: ONER Online Experience - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ONER Online Experience/oner_online_experience_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

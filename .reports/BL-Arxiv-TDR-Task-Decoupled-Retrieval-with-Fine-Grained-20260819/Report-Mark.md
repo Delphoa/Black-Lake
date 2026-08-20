@@ -98,7 +98,7 @@ The selected paper contributes a feedback, fine-grained, in-context perspective.
 - https://arxiv.org/html/2507.18340 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.18340 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.18340 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Vector-ICL%20In-context - related DEP: Vector-ICL In-context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Vector-ICL In-context/vector_icl_in_context_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-RLHF-V%20Towards - related DEP: RLHF-V Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-RLHF-V Towards/rlhf_v_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Vector-ICL%20In-context - related DEP: Vector-ICL In-context - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Vector-ICL In-context/vector_icl_in_context_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

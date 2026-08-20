@@ -98,7 +98,7 @@ The selected paper contributes a continuum, distributed, dynamics perspective. T
 - https://arxiv.org/html/2407.02765 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.02765 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.02765 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Local%20Stochastic%20Bilevel - related DEP: Local Stochastic Bilevel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Local Stochastic Bilevel/local_stochastic_bilevel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

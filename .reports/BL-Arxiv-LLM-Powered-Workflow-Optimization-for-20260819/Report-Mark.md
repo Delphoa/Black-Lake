@@ -98,7 +98,7 @@ The selected paper contributes a automotive, case, development perspective. The 
 - https://arxiv.org/html/2603.21439 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.21439 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.21439 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ROS%20package%20search%20for - related DEP: ROS package search for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ROS package search for/ros_package_search_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-SWE-RL%20Advancing%20LLM - related DEP: SWE-RL Advancing LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-SWE-RL Advancing LLM/swe_rl_advancing_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bi-level%20Multi-objective - related DEP: Bi-level Multi-objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bi-level Multi-objective/bi_level_multi_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ROS%20package%20search%20for - related DEP: ROS package search for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ROS package search for/ros_package_search_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-SWE-RL%20Advancing%20LLM - related DEP: SWE-RL Advancing LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-SWE-RL Advancing LLM/swe_rl_advancing_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bi-level%20Multi-objective - related DEP: Bi-level Multi-objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bi-level Multi-objective/bi_level_multi_objective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

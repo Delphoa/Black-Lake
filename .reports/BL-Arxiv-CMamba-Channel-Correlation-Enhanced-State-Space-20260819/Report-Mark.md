@@ -97,7 +97,7 @@ The selected paper contributes a channel, cmamba, correlation perspective. The t
 - https://arxiv.org/html/2406.05316 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.05316 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.05316 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S%20A%20Benchmark - related DEP: IceBench-S2S A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S A Benchmark/icebench_s2s_a_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-IceBench-S2S%20A%20Benchmark - related DEP: IceBench-S2S A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S A Benchmark/icebench_s2s_a_benchmark_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

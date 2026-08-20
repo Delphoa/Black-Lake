@@ -95,7 +95,7 @@ The selected paper contributes a clustering, community, detection perspective. T
 - https://arxiv.org/html/1909.04491 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1909.04491 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1007/s41109-019-0248-7 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment - related DEP: Graph Alignment Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Graph Alignment/graph_alignment_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Higher-Order%20Spectral - related DEP: Higher-Order Spectral - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Higher-Order Spectral/higher_order_spectral_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

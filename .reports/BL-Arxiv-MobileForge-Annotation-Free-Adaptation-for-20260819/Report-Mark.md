@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, agents, annotation-free perspective
 - https://arxiv.org/html/2606.19930 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.19930 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.19930 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Mobile%20World%20Model - related DEP: How Mobile World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Mobile World Model/how_mobile_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Building%20Autonomous%20GUI - related DEP: Building Autonomous GUI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Building Autonomous GUI/building_autonomous_gui_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Mobile%20World%20Model - related DEP: How Mobile World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Mobile World Model/how_mobile_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Building%20Autonomous%20GUI - related DEP: Building Autonomous GUI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Building Autonomous GUI/building_autonomous_gui_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

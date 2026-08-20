@@ -98,7 +98,7 @@ The selected paper contributes a boosting, derivative-free, feedback perspective
 - https://arxiv.org/html/2010.07378 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.07378 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.07378 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MPO%20Boosting%20LLM%20Agents - related DEP: MPO Boosting LLM Agents - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MPO Boosting LLM Agents/mpo_boosting_llm_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

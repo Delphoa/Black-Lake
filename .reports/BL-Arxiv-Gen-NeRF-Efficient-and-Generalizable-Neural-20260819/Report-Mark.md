@@ -98,7 +98,7 @@ The selected paper contributes a algorithm-hardware, co-design, fields perspecti
 - https://arxiv.org/html/2304.11842 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2304.11842 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2304.11842 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-RoboHanger%20Learning - related DEP: RoboHanger Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning/robohanger_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-RoboHanger%20Learning - related DEP: RoboHanger Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning/robohanger_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a aggregation, circuits, evidence perspective. Th
 - https://arxiv.org/html/2603.17292 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.17292 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.17292 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-PICBench%20Benchmarking - related DEP: PICBench Benchmarking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-PICBench Benchmarking/picbench_benchmarking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AutoQ%202%200%20From - related DEP: AutoQ 2 0 From - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AutoQ 2 0 From/autoq_2_0_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

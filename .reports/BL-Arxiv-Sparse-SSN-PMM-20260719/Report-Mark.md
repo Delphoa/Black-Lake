@@ -165,11 +165,11 @@ def converged(history, kkt_tol=1e-6, step_tol=1e-8):
   - Applies to: theorem, algorithm, table, and appendix cross-checks; source file withheld locally.
 - Source URL: https://doi.org/10.48550/arXiv.1903.11460
   - Applies to: persistent paper identity.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Noisy%20Poisson%20Inference
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Noisy%20Poisson%20Inference
   - Applies to: nonconvex sparse-regression synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL
   - Applies to: proximal regularization and approximate-convergence synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CAP%20Rank%20Sparsity
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CAP%20Rank%20Sparsity
   - Applies to: structured convex/heuristic stage synthesis.
 - Source files: verified PDF, full-paper HTML fallback, metadata HTML, source package, extracted text, and processing cache.
   - Applies to: complete-paper review and integrity validation.

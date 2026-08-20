@@ -98,7 +98,7 @@ The selected paper contributes a game, methodology, operation perspective. The t
 - https://arxiv.org/html/1701.01810 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1701.01810 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1701.01810 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-From%20Patchwork%20to%20Network - related DEP: From Patchwork to Network - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-From Patchwork to Network/from_patchwork_to_network_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-From%20Patchwork%20to%20Network - related DEP: From Patchwork to Network - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-From Patchwork to Network/from_patchwork_to_network_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

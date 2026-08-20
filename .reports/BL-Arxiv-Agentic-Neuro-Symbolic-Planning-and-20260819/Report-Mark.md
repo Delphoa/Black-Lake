@@ -98,7 +98,7 @@ The selected paper contributes a agentic, commissioning, digital perspective. Th
 - https://arxiv.org/html/2606.08214 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.08214 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.08214 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AgentEconomist - related DEP: AgentEconomist - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AgentEconomist/agent_economist_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AgentEconomist - related DEP: AgentEconomist - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AgentEconomist/agent_economist_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a representation, retrieval, save perspective. Th
 - https://arxiv.org/html/2603.08224 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.08224 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.08224 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-X-CLIP%20End-to-End - related DEP: X-CLIP End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-CLIP End-to-End/x_clip_end_to_end_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-ClapperText - related DEP: ClapperText - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-ClapperText/clappertext_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-X-CLIP%20End-to-End - related DEP: X-CLIP End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-CLIP End-to-End/x_clip_end_to_end_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-ClapperText - related DEP: ClapperText - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-ClapperText/clappertext_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

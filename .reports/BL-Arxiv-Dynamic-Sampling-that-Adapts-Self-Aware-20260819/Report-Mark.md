@@ -98,7 +98,7 @@ The selected paper contributes a adapts, dynamic, iterative perspective. The thr
 - https://arxiv.org/html/2505.16176 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.16176 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.16176 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-VerIPO%20Cultivating%20Long - related DEP: VerIPO Cultivating Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VerIPO Cultivating Long/veripo_cultivating_long_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Deep%20Hierarchy - related DEP: Deep Hierarchy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Hierarchy/deep_hierarchy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cognitive%20Visual - related DEP: Cognitive Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Visual/cognitive_visual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-VerIPO%20Cultivating%20Long - related DEP: VerIPO Cultivating Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VerIPO Cultivating Long/veripo_cultivating_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Deep%20Hierarchy - related DEP: Deep Hierarchy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Hierarchy/deep_hierarchy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cognitive%20Visual - related DEP: Cognitive Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Visual/cognitive_visual_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

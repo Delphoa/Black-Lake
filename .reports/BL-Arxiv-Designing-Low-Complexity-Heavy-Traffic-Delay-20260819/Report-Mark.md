@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, balancing, delay-optimal perspectiv
 - https://arxiv.org/html/1710.04357 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1710.04357 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1710.04357 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Multi-agent%20Attention - related DEP: Multi-agent Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-agent Attention/multi_agent_attention_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Multi-agent%20Attention - related DEP: Multi-agent Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Multi-agent Attention/multi_agent_attention_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a cooperative, economy, edge perspective. The thr
 - https://arxiv.org/html/2605.19290 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.19290 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.19290 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Empirical%20Study%20on - related DEP: Empirical Study on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Empirical Study on/empirical_study_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Empirical%20Study%20on - related DEP: Empirical Study on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Empirical Study on/empirical_study_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap - related DEP: Telecom AI Roadmap - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Telecom AI Roadmap/telecom_ai_roadmap_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

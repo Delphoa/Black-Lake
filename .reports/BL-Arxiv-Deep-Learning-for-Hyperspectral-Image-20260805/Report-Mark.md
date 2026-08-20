@@ -95,7 +95,7 @@ The selected paper contributes a classification, hyperspectral, image perspectiv
 - https://arxiv.org/html/1910.12861 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1910.12861 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TGRS.2019.2907932 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Biometric%20Identity%20Gaps - related DEP: Biometric Identity Gaps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps/biometric_identity_gaps_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Biometric%20Identity%20Gaps - related DEP: Biometric Identity Gaps - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Biometric Identity Gaps/biometric_identity_gaps_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

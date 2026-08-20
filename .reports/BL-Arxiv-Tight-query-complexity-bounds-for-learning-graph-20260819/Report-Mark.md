@@ -98,7 +98,7 @@ The selected paper contributes a bounds, complexity, graph perspective. The thre
 - https://arxiv.org/html/2112.07897 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2112.07897 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2112.07897 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Query%20Complexity%20of%20the - related DEP: Query Complexity of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Query Complexity of the/query_complexity_of_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Memory-augmented%20Query - related DEP: Memory-augmented Query - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory-augmented Query/memory_augmented_query_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Parameterized%20Complexity - related DEP: Parameterized Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Parameterized Complexity/parameterized_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Query%20Complexity%20of%20the - related DEP: Query Complexity of the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Query Complexity of the/query_complexity_of_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Memory-augmented%20Query - related DEP: Memory-augmented Query - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Memory-augmented Query/memory_augmented_query_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Parameterized%20Complexity - related DEP: Parameterized Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Parameterized Complexity/parameterized_complexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

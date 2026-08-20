@@ -229,7 +229,7 @@ This gate does not generate or compare identities; it blocks progression when go
 - Primary TeX/source package, inspected locally and withheld: https://arxiv.org/e-print/2605.18238
 - Canonical DOI: https://doi.org/10.48550/arXiv.2605.18238
 - Authors' lab availability metadata: https://github.com/VILab-Drexel/VILab.github.io/blob/271cb74f57f5e26e74f0bd62398742a0b4d46487/info.json
-- Related Document Fraud LLM DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md
-- Related BA-LoRA Bias DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md
-- Related Mosaic Safety DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Mosaic%20Safety/mosaic_safety_manuscript.md
+- Related Document Fraud LLM DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM/document_fraud_llm_manuscript.md
+- Related BA-LoRA Bias DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-BA-LoRA%20Bias/ba-lora-bias-manuscript.md
+- Related Mosaic Safety DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Mosaic%20Safety/mosaic_safety_manuscript.md
 - Source-file statement: PDF, HTML, metadata, TeX/source, figures, faces, embeddings, galleries, models, code, cache, and extracted text were withheld locally; none were uploaded.

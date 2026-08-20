@@ -43,9 +43,9 @@ One source inconsistency is preserved explicitly: the BERT-editor ablation table
 
 ## Related DEP Entries
 
-1. [Beyond XAI manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Beyond%20XAI/beyond_xai_manuscript.md) - establishes that an accessible local explanation should not be mistaken for global or causal faithfulness. This sharpens the boundary around what CFE2's rank-flipping edits can support. Source basis: the inspected DEP manuscript and its primary arXiv record, `2602.24176`.
-2. [OViP Preference manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md) - connects targeted counterfactual construction with semantic-isolation checks, shortcut-leakage controls, and independent verification. Source basis: the inspected DEP manuscript and its primary arXiv record, `2505.15963`.
-3. [REAL Temporal Graph review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-REAL%20Temporal%20Graph/2606.10694-whitepaper-review.md) - links beam-searched retrieval and counterfactual expansion to explicit provenance separation among observed, derived, and hypothetical states. Source basis: the inspected DEP review and its primary arXiv record, `2606.10694`.
+1. [Beyond XAI manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Beyond%20XAI/beyond_xai_manuscript.md) - establishes that an accessible local explanation should not be mistaken for global or causal faithfulness. This sharpens the boundary around what CFE2's rank-flipping edits can support. Source basis: the inspected DEP manuscript and its primary arXiv record, `2602.24176`.
+2. [OViP Preference manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md) - connects targeted counterfactual construction with semantic-isolation checks, shortcut-leakage controls, and independent verification. Source basis: the inspected DEP manuscript and its primary arXiv record, `2505.15963`.
+3. [REAL Temporal Graph review](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-REAL%20Temporal%20Graph/2606.10694-whitepaper-review.md) - links beam-searched retrieval and counterfactual expansion to explicit provenance separation among observed, derived, and hypothetical states. Source basis: the inspected DEP review and its primary arXiv record, `2606.10694`.
 
 ## Synthesis Note
 
@@ -132,9 +132,9 @@ def release_ok(metrics):
 - OpenReview public record: https://openreview.net/forum?id=G3a15oOyJQ&noteId=86yHStWtLa.
 - ICTIR 2024 accepted-paper record: https://www.ictir2024.org/program/accepted-papers.
 - University of Utah NLP publication record: https://nlp.cs.utah.edu/publications/.
-- Related Black Lake DEP: *Beyond XAI*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Beyond%20XAI/beyond_xai_manuscript.md.
-- Related Black Lake DEP: *OViP Preference*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md.
-- Related Black Lake DEP: *REAL Temporal Graph*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-REAL%20Temporal%20Graph/2606.10694-whitepaper-review.md.
+- Related Black Lake DEP: *Beyond XAI*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Beyond%20XAI/beyond_xai_manuscript.md.
+- Related Black Lake DEP: *OViP Preference*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference/ovip_preference_manuscript.md.
+- Related Black Lake DEP: *REAL Temporal Graph*. https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-REAL%20Temporal%20Graph/2606.10694-whitepaper-review.md.
 - Repository rules consulted: https://github.com/Delphoa/Black-Lake/blob/main/README.md and https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/README.md.
 - Related-repository rules consulted: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md.
 - Private source-integrity and repair records: path withheld; processing evidence only; no original source file was uploaded.

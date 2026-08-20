@@ -98,7 +98,7 @@ The selected paper contributes a book, differential, equation perspective. The t
 - https://arxiv.org/html/2103.01670 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2103.01670 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2103.01670 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Quantum%20Recurrent%20Neural - related DEP: Quantum Recurrent Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum Recurrent Neural/quantum_recurrent_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Predicting%20Long-Term - related DEP: Predicting Long-Term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predicting Long-Term/predicting_long_term_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum%20Recurrent%20Neural - related DEP: Quantum Recurrent Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Quantum Recurrent Neural/quantum_recurrent_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Predicting%20Long-Term - related DEP: Predicting Long-Term - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Predicting Long-Term/predicting_long_term_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

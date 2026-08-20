@@ -95,7 +95,7 @@ The selected paper contributes a chaff, deficiency, module perspective. The thre
 - https://arxiv.org/html/2308.08090 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.08090 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.08090 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-RandLoRA%20Full-rank - related DEP: RandLoRA Full-rank - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RandLoRA Full-rank/randlora_full_rank_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI - related DEP: Hypercomplex MRI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-RandLoRA%20Full-rank - related DEP: RandLoRA Full-rank - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RandLoRA Full-rank/randlora_full_rank_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI - related DEP: Physical Data - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Physical Data AI/physical_data_ai_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI - related DEP: Hypercomplex MRI - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-Hypercomplex MRI/hypercomplex_mri_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

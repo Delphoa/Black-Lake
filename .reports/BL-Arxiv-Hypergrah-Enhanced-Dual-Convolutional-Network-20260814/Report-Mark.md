@@ -95,7 +95,7 @@ The selected paper contributes a bundle, convolutional, dual perspective. The th
 - https://arxiv.org/html/2312.11018 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2312.11018 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2312.11018 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DUET%20Setwise%20CTR - related DEP: Dual Set-Wise CTR Pre-Ranking; source basis `.lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR/duet_setwise_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-AVGCN%20Trajectory - related DEP: AVGCN Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-AVGCN Trajectory/avgcn_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DUET%20Setwise%20CTR - related DEP: Dual Set-Wise CTR Pre-Ranking; source basis `.lake-data/DEP-E/DEP-E-20260719-DUET Setwise CTR/duet_setwise_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-CDGraph%20Dual%20Conditional - related DEP: CDGraph Dual Conditional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-CDGraph Dual Conditional/cdgraph_dual_conditional_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

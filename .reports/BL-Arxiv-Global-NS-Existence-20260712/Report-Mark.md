@@ -136,12 +136,12 @@ These examples use synthetic metadata only. Production hardening would require f
 - Source URL: https://link.springer.com/article/10.1007/s00205-022-01790-4
   - Applies to: version-of-record metadata, publication history, abstract, venue, and references.
   - Notes: Publisher page; subscription content not collected.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Fermat%20Difference/fermat-difference-manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Fermat%20Difference/fermat-difference-manuscript.md
   - Applies to: theorem-regime and proof-review bridge.
   - Notes: Processed DEP artifact; contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
   - Applies to: PDE/domain-fit implementation bridge.
   - Notes: Processed DEP artifact; contextual evidence only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
   - Applies to: invariance and boundary-constraint bridge.
   - Notes: Processed DEP artifact; contextual evidence only.

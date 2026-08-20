@@ -97,7 +97,7 @@ The selected paper contributes a arctic, benchmark, challenging perspective. The
 - https://arxiv.org/html/2602.02567 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.02567 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.02567 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-CulturalBench%20A%20Robust - related DEP: CulturalBench A Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CulturalBench A Robust/culturalbench_a_robust_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-CulturalBench%20A%20Robust - related DEP: CulturalBench A Robust - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CulturalBench A Robust/culturalbench_a_robust_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

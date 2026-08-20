@@ -95,7 +95,7 @@ The selected paper contributes a accuracy-robustness, adversarial, better perspe
 - https://arxiv.org/html/2508.02186 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.02186 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.02186 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Feature%20Denoising - related DEP: Feature Denoising - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Feature Denoising/feature_denoising_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Feature%20Denoising - related DEP: Feature Denoising - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Feature Denoising/feature_denoising_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

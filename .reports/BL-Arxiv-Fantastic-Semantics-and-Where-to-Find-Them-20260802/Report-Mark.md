@@ -95,7 +95,7 @@ The selected paper contributes a semantics, fantastic, find perspective. The thr
 - https://arxiv.org/html/2403.01509 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.01509 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.01509 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-CFE2%20Search%20Explain - related DEP: CFE2 Search Explanations - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-CFE2 Search Explain/cfe2_search_explanation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

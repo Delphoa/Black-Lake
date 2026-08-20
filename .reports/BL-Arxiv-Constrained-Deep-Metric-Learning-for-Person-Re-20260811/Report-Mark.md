@@ -95,7 +95,7 @@ The selected paper contributes a constrained, metric, person perspective. The th
 - https://arxiv.org/html/1511.07545 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1511.07545 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1511.07545 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Large-Scale - related DEP: Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Large-Scale/large_scale_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Large-Scale - related DEP: Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Large-Scale/large_scale_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MIRA%20One%20Touch - related DEP: One-Touch Instruction Routing; source basis `.lake-data/DEP-E/DEP-E-20260719-MIRA One Touch/mira_one_touch_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

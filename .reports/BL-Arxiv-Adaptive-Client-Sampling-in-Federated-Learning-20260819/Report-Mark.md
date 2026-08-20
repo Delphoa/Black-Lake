@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, bandit, client perspective. The three
 - https://arxiv.org/html/2112.14332 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2112.14332 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2112.14332 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Is%20Non-IID%20Data%20a%20Threat - related DEP: Is Non-IID Data a Threat - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Is Non-IID Data a Threat/is_non_iid_data_a_threat_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Is%20Non-IID%20Data%20a%20Threat - related DEP: Is Non-IID Data a Threat - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Is Non-IID Data a Threat/is_non_iid_data_a_threat_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

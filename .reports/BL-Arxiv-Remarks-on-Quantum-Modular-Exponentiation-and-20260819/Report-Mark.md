@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, demonstrations, experimental perspec
 - https://arxiv.org/html/1408.6252 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1408.6252 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1408.6252 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Distributed%20Quantum - related DEP: Distributed Quantum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Quantum/distributed_quantum_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Remarks%20on%20the - related DEP: Remarks on the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Remarks on the/remarks_on_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Improved%20Quantum - related DEP: An Improved Quantum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Improved Quantum/an_improved_quantum_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Distributed%20Quantum - related DEP: Distributed Quantum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Distributed Quantum/distributed_quantum_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Remarks%20on%20the - related DEP: Remarks on the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Remarks on the/remarks_on_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Improved%20Quantum - related DEP: An Improved Quantum - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Improved Quantum/an_improved_quantum_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

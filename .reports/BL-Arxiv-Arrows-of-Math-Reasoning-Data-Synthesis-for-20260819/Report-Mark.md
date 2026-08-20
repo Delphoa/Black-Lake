@@ -98,7 +98,7 @@ The selected paper contributes a arrows, complexity, correctness perspective. Th
 - https://arxiv.org/html/2508.18824 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.18824 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.18824 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Controlling%20the%20Fidelity - related DEP: Controlling the Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity/controlling_the_fidelity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Controlling%20the%20Fidelity - related DEP: Controlling the Fidelity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Controlling the Fidelity/controlling_the_fidelity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

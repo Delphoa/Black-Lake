@@ -95,7 +95,7 @@ The selected paper contributes a omnidirectional, depth, ode-cnn perspective. Th
 - https://ar5iv.labs.arxiv.org/html/2007.01475 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2007.01475 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2007.01475 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VG%20Navigable%20Space - related DEP: VG Navigable Space Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VG Navigable Space/vg_navigable_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-GenTune%20Traceable%20Prompts - related DEP: GenTune Traceable Prompts Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-GenTune Traceable Prompts/gentune_traceable_prompts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VG%20Navigable%20Space - related DEP: VG Navigable Space Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VG Navigable Space/vg_navigable_space_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

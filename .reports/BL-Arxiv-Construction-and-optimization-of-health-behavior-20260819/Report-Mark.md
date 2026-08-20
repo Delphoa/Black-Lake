@@ -98,7 +98,7 @@ The selected paper contributes a elderly, behavior, care perspective. The three 
 - https://arxiv.org/html/2412.02062 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.02062 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.02062 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-OpenBench%20A%20New%20Benchmark - related DEP: OpenBench A New Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenBench A New Benchmark/openbench_a_new_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Smart%20Coverage%20Goals - related DEP: Smart Coverage Goals - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Smart Coverage Goals/smart_coverage_goals_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-OpenBench%20A%20New%20Benchmark - related DEP: OpenBench A New Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-OpenBench A New Benchmark/openbench_a_new_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Heterogeneous%20Similarity - related DEP: Heterogeneous Similarity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Heterogeneous Similarity/heterogeneous_similarity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

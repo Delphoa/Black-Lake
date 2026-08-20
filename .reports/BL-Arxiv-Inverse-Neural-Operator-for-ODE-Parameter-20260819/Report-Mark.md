@@ -98,7 +98,7 @@ The selected paper contributes a inverse, neural, ode perspective. The three rel
 - https://arxiv.org/html/2603.11854 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.11854 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.11854 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE - related DEP: DPM-Solver A Fast ODE - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPM-Solver A Fast ODE/dpm_solver_a_fast_ode_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hypersphere%20Optimization - related DEP: Hypersphere Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hypersphere Optimization/hypersphere_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE - related DEP: DPM-Solver A Fast ODE - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPM-Solver A Fast ODE/dpm_solver_a_fast_ode_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FlowCast-ODE%20Continuous - related DEP: FlowCast-ODE Continuous - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FlowCast-ODE Continuous/flowcast_ode_continuous_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hypersphere%20Optimization - related DEP: Hypersphere Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hypersphere Optimization/hypersphere_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

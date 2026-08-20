@@ -98,7 +98,7 @@ The selected paper contributes a agents, boosting, llm perspective. The three re
 - https://arxiv.org/html/2503.02682 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.02682 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.02682 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-A%20Survey%20on%20Trustworthy - related DEP: A Survey on Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy/a_survey_on_trustworthy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-A%20Survey%20on%20Trustworthy - related DEP: A Survey on Trustworthy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-A Survey on Trustworthy/a_survey_on_trustworthy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

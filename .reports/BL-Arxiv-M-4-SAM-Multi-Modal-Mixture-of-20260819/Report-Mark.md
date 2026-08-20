@@ -98,7 +98,7 @@ The selected paper contributes a sam, detection, memory-augmented perspective. T
 - https://arxiv.org/html/2605.11760 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.11760 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.11760 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-GatePro%20Parameter-Free - related DEP: GatePro Parameter-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GatePro Parameter-Free/gatepro_parameter_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-GatePro%20Parameter-Free - related DEP: GatePro Parameter-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-GatePro Parameter-Free/gatepro_parameter_free_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

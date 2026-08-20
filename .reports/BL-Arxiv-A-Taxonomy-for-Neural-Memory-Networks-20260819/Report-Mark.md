@@ -98,7 +98,7 @@ The selected paper contributes a memory, networks, neural perspective. The three
 - https://arxiv.org/html/1805.00327 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1805.00327 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TNNLS.2019.2926466 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-A%20New%20System%20of%20Global - related DEP: A New System of Global - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-A New System of Global/a_new_system_of_global_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-The%20Clock%20and%20the%20Pizza - related DEP: The Clock and the Pizza - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-The Clock and the Pizza/the_clock_and_the_pizza_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

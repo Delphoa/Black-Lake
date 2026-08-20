@@ -98,7 +98,7 @@ The selected paper contributes a advancing, grounding, group perspective. The th
 - https://arxiv.org/html/2507.02994 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.02994 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.02994 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Medical%20Phrase%20Grounding - related DEP: Medical Phrase Grounding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Medical Phrase Grounding/medical_phrase_grounding_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-SWE-RL%20Advancing%20LLM - related DEP: SWE-RL Advancing LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-SWE-RL Advancing LLM/swe_rl_advancing_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Medical%20Phrase%20Grounding - related DEP: Medical Phrase Grounding - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Medical Phrase Grounding/medical_phrase_grounding_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-SWE-RL%20Advancing%20LLM - related DEP: SWE-RL Advancing LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-SWE-RL Advancing LLM/swe_rl_advancing_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

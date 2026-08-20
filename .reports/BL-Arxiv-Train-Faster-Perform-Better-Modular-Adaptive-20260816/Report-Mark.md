@@ -95,7 +95,7 @@ The selected paper contributes a adaptive, better, faster perspective. The three
 - https://arxiv.org/html/2405.07527 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.07527 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.07527 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-One%20Training%20for%20Multiple - related DEP: One Training for Multiple - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-One Training for Multiple/one_training_for_multiple_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-One%20Training%20for%20Multiple - related DEP: One Training for Multiple - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-One Training for Multiple/one_training_for_multiple_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-PIArena%20Evaluation - related DEP: PIArena Evaluation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-PIArena Evaluation/piarena_evaluation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Provably%20Faster%20Algorithm - related DEP: Provably Faster Algorithms for B - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Provably Faster Algorithm/provably_faster_algorithm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

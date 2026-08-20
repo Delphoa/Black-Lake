@@ -95,7 +95,7 @@ The selected paper contributes a information, private, privacy perspective. The 
 - https://arxiv.org/html/2410.17095 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.17095 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.17095 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Motivic%20Zeta - related DEP: Motivic Zeta Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Motivic Zeta/motivic_zeta_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-A%20Large%20Scale%20Study%20of - related DEP: A Large Scale Study of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-A Large Scale Study of/a_large_scale_study_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Motivic%20Zeta - related DEP: Motivic Zeta Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Motivic Zeta/motivic_zeta_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

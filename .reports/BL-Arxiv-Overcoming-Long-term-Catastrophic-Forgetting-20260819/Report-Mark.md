@@ -98,7 +98,7 @@ The selected paper contributes a adversarial, catastrophic, consolidation perspe
 - https://arxiv.org/html/1912.09091 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1912.09091 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TNNLS.2021.3056201 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Overcoming%20Growth-Induced - related DEP: Overcoming Growth-Induced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Overcoming Growth-Induced/overcoming_growth_induced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Avoid%20Catastrophic - related DEP: Avoid Catastrophic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Avoid Catastrophic/avoid_catastrophic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Overcoming%20Growth-Induced - related DEP: Overcoming Growth-Induced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Overcoming Growth-Induced/overcoming_growth_induced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Avoid%20Catastrophic - related DEP: Avoid Catastrophic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Avoid Catastrophic/avoid_catastrophic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

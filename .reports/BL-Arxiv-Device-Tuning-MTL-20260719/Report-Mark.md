@@ -62,9 +62,9 @@ The table values support a compact ImageNet classifier point, not the broader cl
 
 ## Related DEP Entries
 
-1. [Efficient and Privacy Aware Edge Cloud Collaborative Inference](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md) - shares the endpoint/cloud partition and compressed-message boundary, but adds explicit latency, bandwidth, device-profile, and privacy measurements that expose what the selected paper leaves unmeasured.
-2. [K-Token Merging](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-K%20Token%20Merging/2604.15153-whitepaper-review.md) - directly parallels pre-attention sequence compression by merging token embeddings and treats compression as a quality/resource frontier rather than assuming fewer tokens equal deployment speed.
-3. [Dynamic Multi-path Neural Network](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths/dmnn_conditional_paths_manuscript.md) - offers a compact-vision comparison where reported FLOP savings are explicitly separated from latency, memory, energy, and compiler realization.
+1. [Efficient and Privacy Aware Edge Cloud Collaborative Inference](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md) - shares the endpoint/cloud partition and compressed-message boundary, but adds explicit latency, bandwidth, device-profile, and privacy measurements that expose what the selected paper leaves unmeasured.
+2. [K-Token Merging](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-K%20Token%20Merging/2604.15153-whitepaper-review.md) - directly parallels pre-attention sequence compression by merging token embeddings and treats compression as a quality/resource frontier rather than assuming fewer tokens equal deployment speed.
+3. [Dynamic Multi-path Neural Network](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths/dmnn_conditional_paths_manuscript.md) - offers a compact-vision comparison where reported FLOP savings are explicitly separated from latency, memory, energy, and compiler realization.
 
 ## Synthesis Note
 
@@ -185,13 +185,13 @@ def outcome_card(outcomes):
 - Source URL: https://openaccess.thecvf.com/content/CVPR2023W/MobileAI/html/Jiang_High-Efficiency_Device-Cloud_Collaborative_Transformer_Model_CVPRW_2023_paper.html
   - Applies to: successor-publication context.
   - Notes: Different paper; no claims transferred to the selected work.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260719-Edge%20Cloud%20Split/2607.13093-whitepaper-review.md
   - Applies to: related edge/cloud measurement bridge.
   - Notes: Repository evidence only; claims remain scoped to its own sources.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260716-K%20Token%20Merging/2604.15153-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260716-K%20Token%20Merging/2604.15153-whitepaper-review.md
   - Applies to: related sequence-compression bridge.
   - Notes: Repository evidence only; claims remain scoped to its own sources.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths/dmnn_conditional_paths_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths/dmnn_conditional_paths_manuscript.md
   - Applies to: related conditional-compute bridge.
   - Notes: Repository evidence only; claims remain scoped to its own sources.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

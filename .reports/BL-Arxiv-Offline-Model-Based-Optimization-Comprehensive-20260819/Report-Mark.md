@@ -98,7 +98,7 @@ The selected paper contributes a comprehensive, model-based, offline perspective
 - https://arxiv.org/html/2503.17286 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.17286 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.17286 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-From%20Patchwork%20to%20Network - related DEP: From Patchwork to Network - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-From Patchwork to Network/from_patchwork_to_network_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Mosaic%20Safety - related DEP: Mosaic Safety - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-From%20Patchwork%20to%20Network - related DEP: From Patchwork to Network - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-From Patchwork to Network/from_patchwork_to_network_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a antenna, detection, fluid perspective. The thre
 - https://arxiv.org/html/2412.04877 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2412.04877 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2412.04877 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

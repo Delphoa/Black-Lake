@@ -98,7 +98,7 @@ The selected paper contributes a assignment, bias, fitness perspective. The thre
 - https://arxiv.org/html/2112.00229 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2112.00229 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2112.00229 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-Global%20NS%20Existence - related DEP: Global NS Existence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Bias%20Behind%20the%20Wheel - related DEP: Bias Behind the Wheel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Bias Behind the Wheel/bias_behind_the_wheel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Watching%20Too%20Much - related DEP: Watching Too Much - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Watching Too Much/watching_too_much_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-Global%20NS%20Existence - related DEP: Global NS Existence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-Global NS Existence/global_ns_existence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Bias%20Behind%20the%20Wheel - related DEP: Bias Behind the Wheel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Bias Behind the Wheel/bias_behind_the_wheel_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

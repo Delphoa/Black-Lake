@@ -95,7 +95,7 @@ The selected paper contributes a encryption, abe, some perspective. The three re
 - https://ar5iv.labs.arxiv.org/html/1408.4846 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1408.4846 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1408.4846 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario%20Unified - related DEP: Cross-Scenario Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario Unified/cross_scenario_unified_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Pixie%20System%20Recommending - related DEP: Pixie System Recommending Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Pixie System Recommending/pixie_system_recommending_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Cross-Scenario%20Unified - related DEP: Cross-Scenario Unified - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Cross-Scenario Unified/cross_scenario_unified_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Pixie%20System%20Recommending - related DEP: Pixie System Recommending Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Pixie System Recommending/pixie_system_recommending_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

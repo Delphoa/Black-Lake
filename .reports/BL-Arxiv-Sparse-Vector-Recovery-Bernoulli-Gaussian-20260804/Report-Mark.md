@@ -95,7 +95,7 @@ The selected paper contributes a bernoulli-gaussian, message, passing perspectiv
 - https://arxiv.org/html/1707.09613 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1707.09613 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1707.09613 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Irregular%20Clipped%20SR - related DEP: Irregular Clipped SR - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-Irregular Clipped SR/irregular_clipped_sr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration - related DEP: iKalibr Calibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-iKalibr Calibration/ikalibr_calibration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval - related DEP: Acoustic Phase Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Acoustic Phase Retrieval/acoustic_phase_retrieval_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

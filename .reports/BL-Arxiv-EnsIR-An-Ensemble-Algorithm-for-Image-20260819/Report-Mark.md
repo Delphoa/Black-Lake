@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, ensemble, ensir perspective. The thr
 - https://arxiv.org/html/2410.22959 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.22959 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.22959 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Low-light%20Image - related DEP: Low-light Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-light Image/low_light_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Knowledge%20Distilled - related DEP: Knowledge Distilled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Knowledge Distilled/knowledge_distilled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Low-light%20Image - related DEP: Low-light Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-light Image/low_light_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoE3D%20Mixture%20of%20Experts - related DEP: MoE3D Mixture of Experts - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoE3D Mixture of Experts/moe3d_mixture_of_experts_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Knowledge%20Distilled - related DEP: Knowledge Distilled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Knowledge Distilled/knowledge_distilled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

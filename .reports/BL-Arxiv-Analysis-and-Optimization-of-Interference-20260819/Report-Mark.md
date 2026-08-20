@@ -98,7 +98,7 @@ The selected paper contributes a downlink, hetnets, interference perspective. Th
 - https://arxiv.org/html/1502.07425 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1502.07425 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1502.07425 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Movable%20Antenna%20Empowered - related DEP: Movable Antenna Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna Empowered/movable_antenna_empowered_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Joint%20Optimization%20of - related DEP: A Joint Optimization of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Joint Optimization of/a_joint_optimization_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Movable%20Antenna%20Empowered - related DEP: Movable Antenna Empowered - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Movable Antenna Empowered/movable_antenna_empowered_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Joint%20Optimization%20of - related DEP: A Joint Optimization of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Joint Optimization of/a_joint_optimization_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a attention, cascaded, efficientvit perspective. 
 - https://arxiv.org/html/2305.07027 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2305.07027 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2305.07027 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-Inception%20Transformer - related DEP: Inception Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-Inception Transformer/inception_transformer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters - related DEP: AFIDAF Vision - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-AFIDAF Vision Filters/afidaf_vision_filters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-Inception%20Transformer - related DEP: Inception Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-Inception Transformer/inception_transformer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-HeightFormer%20Learning - related DEP: HeightFormer Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-HeightFormer Learning/heightformer_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

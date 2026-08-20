@@ -46,9 +46,9 @@ The ablations point to augmentation and geometry as practical levers. Recognitio
 
 ## Related DEP Entries
 
-1. [SSP Detection - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md) — concrete overlap in rotated/oriented box geometry, spatial partitioning, pseudo-label boundaries, and detector evaluation. Its source basis is the existing Black Lake manuscript; it contextualizes rather than validates ClapperText.
-2. [VideoWeave - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) — concrete overlap in video-level variation, spatial consistency, and evaluation beyond per-frame visual quality. Its source basis is the existing Black Lake manuscript.
-3. [OMGEval Benchmark - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md) — concrete overlap in benchmark construction, culturally situated data, slice reporting, licensing, and evaluation governance. Its source basis is the existing Black Lake manuscript.
+1. [SSP Detection - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md) — concrete overlap in rotated/oriented box geometry, spatial partitioning, pseudo-label boundaries, and detector evaluation. Its source basis is the existing Black Lake manuscript; it contextualizes rather than validates ClapperText.
+2. [VideoWeave - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md) — concrete overlap in video-level variation, spatial consistency, and evaluation beyond per-frame visual quality. Its source basis is the existing Black Lake manuscript.
+3. [OMGEval Benchmark - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md) — concrete overlap in benchmark construction, culturally situated data, slice reporting, licensing, and evaluation governance. Its source basis is the existing Black Lake manuscript.
 
 ## Synthesis Note
 
@@ -151,13 +151,13 @@ ClapperText turns a culturally specific, temporally redundant archive into a ben
 - Source URL: https://github.com/linty5/ClapperText
   - Applies to: Availability, repository, and license context.
   - Notes: Official repository README states dataset CC BY 4.0 and code MIT; no repository contents were executed.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection/ssp_oriented_detection_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Existing Black Lake processed artifact; not primary evidence for ClapperText.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-VideoWeave%20Geometry/videoweave_geometry_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Existing Black Lake processed artifact; not primary evidence for ClapperText.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark/omgeval_benchmark_manuscript.md
   - Applies to: Related DEP synthesis.
   - Notes: Existing Black Lake processed artifact; not primary evidence for ClapperText.
 - Source file: none.

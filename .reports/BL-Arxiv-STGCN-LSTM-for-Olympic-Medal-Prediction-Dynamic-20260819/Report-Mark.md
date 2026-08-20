@@ -98,7 +98,7 @@ The selected paper contributes a causal, dynamic, medal perspective. The three r
 - https://arxiv.org/html/2501.17711 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.17711 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.17711 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DynFlowDrive%20Flow-Based - related DEP: DynFlowDrive Flow-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DynFlowDrive Flow-Based/dynflowdrive_flow_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DynFlowDrive%20Flow-Based - related DEP: DynFlowDrive Flow-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DynFlowDrive Flow-Based/dynflowdrive_flow_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-WildWorld%20A%20Large-Scale - related DEP: WildWorld A Large-Scale - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-WildWorld A Large-Scale/wildworld_a_large_scale_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a closing, commercial, far perspective. The three
 - https://arxiv.org/html/2404.16821 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.16821 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.16821 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-SFOOD%20A%20Multimodal - related DEP: SFOOD A Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal/sfood_a_multimodal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Heartcare%20ECG - related DEP: Heartcare ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-SFOOD%20A%20Multimodal - related DEP: SFOOD A Multimodal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-SFOOD A Multimodal/sfood_a_multimodal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Heartcare%20ECG - related DEP: Heartcare ECG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Heartcare ECG/heartcare_ecg_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

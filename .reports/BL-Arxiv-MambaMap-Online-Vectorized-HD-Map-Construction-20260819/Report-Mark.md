@@ -98,7 +98,7 @@ The selected paper contributes a construction, mambamap, map perspective. The th
 - https://arxiv.org/html/2507.20224 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.20224 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.20224 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-CMamba%20Learned%20Image - related DEP: CMamba Learned Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-CMamba Learned Image/cmamba_learned_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

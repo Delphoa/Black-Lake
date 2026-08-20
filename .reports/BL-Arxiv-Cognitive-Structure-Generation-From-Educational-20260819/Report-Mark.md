@@ -98,7 +98,7 @@ The selected paper contributes a cognitive, educational, generation perspective.
 - https://arxiv.org/html/2508.12647 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.12647 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.12647 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cognitive%20Personalized - related DEP: Cognitive Personalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Personalized/cognitive_personalized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Youtu-Agent%20Scaling%20Agent - related DEP: Youtu-Agent Scaling Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Youtu-Agent Scaling Agent/youtu_agent_scaling_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Disentangled%20Knowledge - related DEP: Disentangled Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Disentangled Knowledge/disentangled_knowledge_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cognitive%20Personalized - related DEP: Cognitive Personalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Personalized/cognitive_personalized_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

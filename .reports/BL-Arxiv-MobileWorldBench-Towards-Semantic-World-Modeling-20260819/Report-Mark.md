@@ -98,7 +98,7 @@ The selected paper contributes a agents, mobile, mobileworldbench perspective. T
 - https://arxiv.org/html/2512.14014 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.14014 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.14014 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Unified%20World - related DEP: Towards Unified World - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Unified World/towards_unified_world_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

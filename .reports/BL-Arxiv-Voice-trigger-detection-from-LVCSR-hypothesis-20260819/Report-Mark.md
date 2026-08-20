@@ -98,7 +98,7 @@ The selected paper contributes a bidirectional, detection, hypothesis perspectiv
 - https://arxiv.org/html/2003.00304 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.00304 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/ICASSP.2019.8682617 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-ST-GIN%20An%20Uncertainty - related DEP: ST-GIN An Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ST-GIN An Uncertainty/st_gin_an_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM - related DEP: Lattice Spoken LM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Lattice Spoken LM/lattice_spoken_lm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

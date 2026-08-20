@@ -98,7 +98,7 @@ The selected paper contributes a expert, gatepro, mixture-of-experts perspective
 - https://arxiv.org/html/2510.13079 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.13079 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.13079 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-SMES%20Expert%20Sparsity - related DEP: SMES Expert Sparsity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-SMES Expert Sparsity/smes_expert_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

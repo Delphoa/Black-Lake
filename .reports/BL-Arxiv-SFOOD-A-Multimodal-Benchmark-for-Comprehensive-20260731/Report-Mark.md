@@ -95,7 +95,7 @@ The selected paper contributes a attribute, benchmark, comprehensive perspective
 - https://arxiv.org/html/2507.04412 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.04412 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.04412 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Pixel Point Transfer/pixel_point_transfer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Pixel Point Transfer/pixel_point_transfer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

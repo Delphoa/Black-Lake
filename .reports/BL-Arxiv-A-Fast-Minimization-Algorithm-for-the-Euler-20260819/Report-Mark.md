@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bilinear, decomposition perspective.
 - https://arxiv.org/html/2308.13471 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.13471 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.13471 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-B%20ezier%20curves%20that%20are - related DEP: B ezier curves that are - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-B ezier curves that are/b_ezier_curves_that_are_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MergeDJD%20A%20Fast - related DEP: MergeDJD A Fast - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MergeDJD A Fast/mergedjd_a_fast_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-B%20ezier%20curves%20that%20are - related DEP: B ezier curves that are - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-B ezier curves that are/b_ezier_curves_that_are_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Fourier%20Correlation - related DEP: Fast Fourier Correlation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Fourier Correlation/fast_fourier_correlation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MergeDJD%20A%20Fast - related DEP: MergeDJD A Fast - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MergeDJD A Fast/mergedjd_a_fast_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

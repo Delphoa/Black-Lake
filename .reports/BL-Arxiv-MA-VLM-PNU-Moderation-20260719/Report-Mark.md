@@ -180,11 +180,11 @@ def audit_sample(records, per_stratum=25):
   - Applies to: persistent paper identity.
 - Source URL: https://github.com/Social-AI-Studio/MA-VLM
   - Applies to: official implementation availability, public README, commands, demo layout, and release boundary.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference
   - Applies to: related VLM feedback-loop synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise
   - Applies to: related soft-label and distribution-mismatch synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty
+- Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty
   - Applies to: related conditional self-evaluation synthesis.
 - Source files: locally verified PDF, full-paper HTML, metadata HTML, source package, extracted text, and cache records.
   - Applies to: complete-source integrity, extraction, and claim cross-checking.

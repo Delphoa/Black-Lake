@@ -95,7 +95,7 @@ The selected paper contributes a appearance, avatars, generative perspective. Th
 - https://ar5iv.labs.arxiv.org/html/2305.02312 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2305.02312 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2305.02312 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

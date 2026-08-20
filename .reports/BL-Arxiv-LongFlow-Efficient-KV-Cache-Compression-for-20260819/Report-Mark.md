@@ -98,7 +98,7 @@ The selected paper contributes a cache, compression, longflow perspective. The t
 - https://arxiv.org/html/2603.11504 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.11504 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.11504 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-R-KV%20Redundancy-aware%20KV - related DEP: R-KV Redundancy-aware KV - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-KV Redundancy-aware KV/r_kv_redundancy_aware_kv_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-R-KV%20Redundancy-aware%20KV - related DEP: R-KV Redundancy-aware KV - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-KV Redundancy-aware KV/r_kv_redundancy_aware_kv_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260708-ConMax%20Reasoning - related DEP: ConMax - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

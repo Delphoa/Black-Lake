@@ -98,7 +98,7 @@ The selected paper contributes a driving, autonomous, hierarchical perspective. 
 - https://arxiv.org/html/1904.02606 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1904.02606 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1904.02606 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HiP-AD%20Hierarchical%20and - related DEP: HiP-AD Hierarchical and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HiP-AD Hierarchical and/hip_ad_hierarchical_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PiP%20Planning-informed - related DEP: PiP Planning-informed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PiP Planning-informed/pip_planning_informed_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hierarchical%20Trajectory - related DEP: Hierarchical Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Trajectory/hierarchical_trajectory_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HiP-AD%20Hierarchical%20and - related DEP: HiP-AD Hierarchical and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HiP-AD Hierarchical and/hip_ad_hierarchical_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PiP%20Planning-informed - related DEP: PiP Planning-informed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PiP Planning-informed/pip_planning_informed_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hierarchical%20Trajectory - related DEP: Hierarchical Trajectory - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Trajectory/hierarchical_trajectory_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

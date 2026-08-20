@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, matching, orthogonal perspective. Th
 - https://arxiv.org/html/1005.3093 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1005.3093 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1005.3093 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Support-Set%20Algorithm - related DEP: A Support-Set Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Support-Set Algorithm/a_support_set_algorithm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Support-Set%20Algorithm - related DEP: A Support-Set Algorithm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Support-Set Algorithm/a_support_set_algorithm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

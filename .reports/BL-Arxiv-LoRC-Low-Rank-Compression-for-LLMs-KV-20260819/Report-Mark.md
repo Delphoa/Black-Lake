@@ -98,7 +98,7 @@ The selected paper contributes a compression, cache, llms perspective. The three
 - https://arxiv.org/html/2410.03111 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2410.03111 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2410.03111 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-CAP%20Rank%20Sparsity - related DEP: CAP Compression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CAP Rank Sparsity/cap_rank_sparsity_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn%20A%204%2066%20TFLOPS%20W - related DEP: Clo-HDnn A 4 66 TFLOPS W - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W/clo_hdnn_a_4_66_tflops_w_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-CAP%20Rank%20Sparsity - related DEP: CAP Compression - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-CAP Rank Sparsity/cap_rank_sparsity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-On%20the%20Transformer%20Growth - related DEP: On the Transformer Growth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-On the Transformer Growth/on_the_transformer_growth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Clo-HDnn%20A%204%2066%20TFLOPS%20W - related DEP: Clo-HDnn A 4 66 TFLOPS W - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Clo-HDnn A 4 66 TFLOPS W/clo_hdnn_a_4_66_tflops_w_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

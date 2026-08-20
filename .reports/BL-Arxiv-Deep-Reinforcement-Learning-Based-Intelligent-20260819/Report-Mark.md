@@ -98,7 +98,7 @@ The selected paper contributes a intelligent, mimo, multiuser perspective. The t
 - https://arxiv.org/html/2307.15393 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2307.15393 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2307.15393 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Intelligent%20Reflecting - related DEP: Intelligent Reflecting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Intelligent Reflecting/intelligent_reflecting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Intelligent%20Reflecting - related DEP: Intelligent Reflecting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Intelligent Reflecting/intelligent_reflecting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Rank%20Optimization%20for - related DEP: Rank Optimization for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Rank Optimization for/rank_optimization_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fluid%20Antenna%20Index - related DEP: Fluid Antenna Index - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fluid Antenna Index/fluid_antenna_index_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

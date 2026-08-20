@@ -160,9 +160,9 @@ This mock-up is intentionally not an accusation or access-control policy. It ill
   - Applies to: official implementation, evaluation commands, README result row, and implementation availability.
 - Source URL: https://zenodo.org/records/12743966
   - Applies to: attributed code-archive availability and license context; not executed for this review.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
   - Applies to: related audio representation and fusion synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM/lattice_spoken_lm_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM/lattice_spoken_lm_manuscript.md
   - Applies to: related speech representation and uncertainty synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-APB2Face%20Safety/apb2face_safety_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-APB2Face%20Safety/apb2face_safety_manuscript.md
   - Applies to: related synthetic-media safety and provenance synthesis.

@@ -98,7 +98,7 @@ The selected paper contributes a earth, eo-wm, forecasting perspective. The thre
 - https://arxiv.org/html/2606.27277 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.27277 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.27277 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S%20A%20Benchmark - related DEP: IceBench-S2S A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S A Benchmark/icebench_s2s_a_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-IceBench-S2S%20A%20Benchmark - related DEP: IceBench-S2S A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-IceBench-S2S A Benchmark/icebench_s2s_a_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Algorithmic - related DEP: Neural Algorithmic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Algorithmic/neural_algorithmic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

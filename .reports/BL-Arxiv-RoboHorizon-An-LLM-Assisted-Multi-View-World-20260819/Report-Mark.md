@@ -98,7 +98,7 @@ The selected paper contributes a llm-assisted, long-horizon, manipulation perspe
 - https://arxiv.org/html/2501.06605 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.06605 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.06605 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-OmniVTA%20Visuo-Tactile - related DEP: OmniVTA Visuo-Tactile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-OmniVTA Visuo-Tactile/omnivta_visuo_tactile_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench%20A%20Benchmark - related DEP: RoboWM-Bench A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench A Benchmark/robowm_bench_a_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-OmniVTA%20Visuo-Tactile - related DEP: OmniVTA Visuo-Tactile - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-OmniVTA Visuo-Tactile/omnivta_visuo_tactile_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RoboWM-Bench%20A%20Benchmark - related DEP: RoboWM-Bench A Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RoboWM-Bench A Benchmark/robowm_bench_a_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

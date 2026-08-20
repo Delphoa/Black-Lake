@@ -98,7 +98,7 @@ The selected paper contributes a adaptation, controller, mobile perspective. The
 - https://arxiv.org/html/2301.13283 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2301.13283 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2301.13283 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%203D%20Sparse - related DEP: Fast 3D Sparse - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast 3D Sparse/fast_3d_sparse_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%203D%20Sparse - related DEP: Fast 3D Sparse - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast 3D Sparse/fast_3d_sparse_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-OViP%20Preference - related DEP: OViP Preference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-OViP Preference/ovip_preference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

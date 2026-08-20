@@ -95,7 +95,7 @@ The selected paper contributes a moe3d, multi-modal, understanding perspective. 
 - https://arxiv.org/html/2511.22103 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.22103 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.22103 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Spiking%20Pose%20Tracking - related DEP: Spiking Pose Tracking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-Spiking Pose Tracking/spiking_pose_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

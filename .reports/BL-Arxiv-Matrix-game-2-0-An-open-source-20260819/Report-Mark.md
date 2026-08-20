@@ -98,7 +98,7 @@ The selected paper contributes a interactive, matrix-game, open-source perspecti
 - https://arxiv.org/html/2508.13009 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.13009 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.13009 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoVerse%20Real-Time%20Video - related DEP: MoVerse Real-Time Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoVerse Real-Time Video/moverse_real_time_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-How%20Far%20Are%20We%20to%20GPT-4V - related DEP: How Far Are We to GPT-4V - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-How Far Are We to GPT-4V/how_far_are_we_to_gpt_4v_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-OpenYield%20An%20Open-Source - related DEP: OpenYield An Open-Source - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-OpenYield An Open-Source/openyield_an_open_source_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoVerse%20Real-Time%20Video - related DEP: MoVerse Real-Time Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoVerse Real-Time Video/moverse_real_time_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-How%20Far%20Are%20We%20to%20GPT-4V - related DEP: How Far Are We to GPT-4V - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-How Far Are We to GPT-4V/how_far_are_we_to_gpt_4v_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-OpenYield%20An%20Open-Source - related DEP: OpenYield An Open-Source - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-OpenYield An Open-Source/openyield_an_open_source_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a generation, knowledge-augmented, optimization p
 - https://arxiv.org/html/2601.09703 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.09703 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.09703 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Canonical%20Intermediate - related DEP: Canonical Intermediate - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Canonical Intermediate/canonical_intermediate_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Framework - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Canonical%20Intermediate - related DEP: Canonical Intermediate - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Canonical Intermediate/canonical_intermediate_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

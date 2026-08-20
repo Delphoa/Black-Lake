@@ -98,7 +98,7 @@ The selected paper contributes a annealing, graphs, optimization perspective. Th
 - https://arxiv.org/html/2110.01384 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2110.01384 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1016/j.neucom.2021.09.003 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Exploring%20the%20Potential - related DEP: Exploring the Potential - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Exploring the Potential/exploring_the_potential_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Retrosynthesis - related DEP: Automated Retrosynthesis - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Retrosynthesis/automated_retrosynthesis_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Exploring%20the%20Potential - related DEP: Exploring the Potential - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Exploring the Potential/exploring_the_potential_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Retrosynthesis - related DEP: Automated Retrosynthesis - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Retrosynthesis/automated_retrosynthesis_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

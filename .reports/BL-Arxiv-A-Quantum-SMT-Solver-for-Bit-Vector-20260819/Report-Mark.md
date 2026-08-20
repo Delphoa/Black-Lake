@@ -98,7 +98,7 @@ The selected paper contributes a bit-vector, quantum, smt perspective. The three
 - https://arxiv.org/html/2303.09353 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2303.09353 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2303.09353 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-On%20n%20n-4%203%20q%20Quantum%20MDS - related DEP: On n n-4 3 q Quantum MDS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-On n n-4 3 q Quantum MDS/on_n_n_4_3_q_quantum_mds_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Photonic%20Quantum%20KD - related DEP: Photonic Quantum KD - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Photonic Quantum KD/photonic_quantum_kd_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-On%20n%20n-4%203%20q%20Quantum%20MDS - related DEP: On n n-4 3 q Quantum MDS - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-On n n-4 3 q Quantum MDS/on_n_n_4_3_q_quantum_mds_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

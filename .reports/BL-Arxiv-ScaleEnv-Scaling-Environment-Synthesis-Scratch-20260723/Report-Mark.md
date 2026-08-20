@@ -95,7 +95,7 @@ The selected paper contributes a scaleenv, interactive, environments perspective
 - https://arxiv.org/html/2602.06820 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.06820 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2602.06820 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Tech%20Intel%202338 - related DEP: Tech Intel 2338 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Control%20Surfaces - related DEP: Control Surfaces - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Control Surfaces/control-surfaces.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Tech%20Intel%202338 - related DEP: Tech Intel 2338 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Tech Intel 2338/tech-intel-2338-research.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Control%20Surfaces - related DEP: Control Surfaces - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Control Surfaces/control-surfaces.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-XPRINT%20Traffic%20Privacy - related DEP: XPRINT Traffic Privacy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-XPRINT Traffic Privacy/xprint_traffic_privacy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

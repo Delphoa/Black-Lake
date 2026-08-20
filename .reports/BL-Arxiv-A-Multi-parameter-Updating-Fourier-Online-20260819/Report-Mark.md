@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, classification, descent perspective.
 - https://arxiv.org/html/2203.08349 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2203.08349 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2203.08349 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Mirror%20Descent-Based - related DEP: A Mirror Descent-Based - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Mirror Descent-Based/a_mirror_descent_based_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

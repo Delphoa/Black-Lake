@@ -98,7 +98,7 @@ The selected paper contributes a dfwlayer, differentiable, frank-wolfe perspecti
 - https://arxiv.org/html/2308.10806 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.10806 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2308.10806 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20Frank-Wolfe - related DEP: Accelerating Frank-Wolfe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Frank-Wolfe/accelerating_frank_wolfe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Differentiable - related DEP: Differentiable - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable/differentiable_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20to%20Sequence%20and - related DEP: Learning to Sequence and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning to Sequence and/learning_to_sequence_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20Frank-Wolfe - related DEP: Accelerating Frank-Wolfe - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Frank-Wolfe/accelerating_frank_wolfe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Differentiable - related DEP: Differentiable - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable/differentiable_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20to%20Sequence%20and - related DEP: Learning to Sequence and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning to Sequence and/learning_to_sequence_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

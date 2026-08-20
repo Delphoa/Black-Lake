@@ -95,7 +95,7 @@ The selected paper contributes a motion, generation, intention perspective. The 
 - https://arxiv.org/html/2510.02722 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.02722 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.02722 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a classification, cover, few-shot perspective. Th
 - https://arxiv.org/html/2004.13390 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2004.13390 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2004.13390 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-RAPL%20Relation-Aware - related DEP: RAPL Relation-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-RAPL Relation-Aware/rapl_relation_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-AMAD%20Anomaly - related DEP: AMAD Anomaly Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-AMAD Anomaly/amad_anomaly_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

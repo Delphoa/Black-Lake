@@ -83,15 +83,15 @@ The evidence remains simulation-only despite language about physical deployment.
 ## Related DEP Entries
 
 1. `.lake-data/DEP-E/DEP-E-20260720-VG Navigable Space/vg_navigable_space_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-VG%20Navigable%20Space/vg_navigable_space_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VG%20Navigable%20Space/vg_navigable_space_manuscript.md
    - Relevance: Both systems fuse semantic perception with geometry for navigation. VG-Nav adds explicit traversability costs and predictive uncertainty, supplying a local evidence and abstention layer that SAGE-Nav’s semantic waypoint interface lacks.
    - Source basis: The related manuscript’s reviewed primary paper on visual/geometric sparse-GP navigation, its simulation and small real-world trials, timing evidence, uncertainty, and deployment limitations.
 2. `.lake-data/DEP-E/DEP-E-20260711-RRT-CBF Motion/rrt_cbf_motion_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
    - Relevance: SAGE-Nav proposes semantically useful waypoints, while RRT-CBF separates proposal quality from motion admissibility through barrier-constrained extension, tracking, feasibility telemetry, and fallback.
    - Source basis: The related manuscript’s reviewed CBF-RRT formulation, MPC tracking layer, simulated mobile/manipulator examples, and explicit limits around unknown dynamics and solver failure.
 3. `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`
-   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow/favla_fast_slow_manuscript.md
+   - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow/favla_fast_slow_manuscript.md
    - Relevance: Both architectures cache a slower semantic representation and adapt it into faster action generation. FAVLA makes the scheduling and freshness problem concrete through force-conditioned action updates; SAGE-Nav makes it concrete through asynchronous waypoint planning and gated visual-topological fusion.
    - Source basis: The related manuscript’s reviewed fast-slow VLA architecture, adaptive action-expert scheduling, multi-rate timing tension, physical task results, and failure analysis.
 
@@ -240,7 +240,7 @@ This receipt demonstrates fail-closed composition. It cannot establish barrier i
 - Source URL: https://doi.org/10.48550/arXiv.2606.25497
   - Applies to: persistent paper identification.
 - Related repository sources:
-  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-VG%20Navigable%20Space/vg_navigable_space_manuscript.md
-  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
-  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow/favla_fast_slow_manuscript.md
+  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VG%20Navigable%20Space/vg_navigable_space_manuscript.md
+  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-RRT-CBF%20Motion/rrt_cbf_motion_manuscript.md
+  - https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow/favla_fast_slow_manuscript.md
 - Source files: Withheld locally; none were uploaded, staged, copied, or attached.

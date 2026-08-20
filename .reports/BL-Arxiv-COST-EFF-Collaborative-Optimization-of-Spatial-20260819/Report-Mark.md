@@ -98,7 +98,7 @@ The selected paper contributes a collaborative, cost-eff, efficiency perspective
 - https://arxiv.org/html/2210.15523 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2210.15523 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2210.15523 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Collaborative%20Multi-Agent - related DEP: Collaborative Multi-Agent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Collaborative Multi-Agent/collaborative_multi_agent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Solver-Informed%20RL - related DEP: Solver-Informed RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Solver-Informed RL/solver_informed_rl_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

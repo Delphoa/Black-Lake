@@ -95,7 +95,7 @@ The selected paper contributes a boosting, camouflage, controls perspective. The
 - https://arxiv.org/html/2512.22974 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.22974 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.22974 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-NaLA%20A%203D%20Native%20LLM - related DEP: NaLA A 3D Native LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-NaLA A 3D Native LLM/nala_a_3d_native_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

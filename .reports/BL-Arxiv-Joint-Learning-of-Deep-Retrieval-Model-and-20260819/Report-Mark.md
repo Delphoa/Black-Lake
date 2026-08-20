@@ -98,7 +98,7 @@ The selected paper contributes a embedding, index, joint perspective. The three 
 - https://arxiv.org/html/2105.03933 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2105.03933 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3404835.3462988 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Text-Image%20Joint - related DEP: Learning Text-Image Joint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Text-Image Joint/learning_text_image_joint_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Learning%20Binary%20Semantic - related DEP: Learning Binary Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Binary Semantic/learning_binary_semantic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Text-Image%20Joint - related DEP: Learning Text-Image Joint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Text-Image Joint/learning_text_image_joint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Learning%20Binary%20Semantic - related DEP: Learning Binary Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Learning Binary Semantic/learning_binary_semantic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Temporal%20Feature%20Matters - related DEP: Temporal Feature Matters Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Temporal Feature Matters/temporal_feature_matters_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

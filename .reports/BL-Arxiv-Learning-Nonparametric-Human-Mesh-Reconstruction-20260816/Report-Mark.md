@@ -95,7 +95,7 @@ The selected paper contributes a ground, human, image perspective. The three rel
 - https://arxiv.org/html/2003.00052 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2003.00052 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2003.00052 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Texturing%20and%20Deforming - related DEP: Texturing and Deforming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Texturing and Deforming/texturing_and_deforming_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Texturing%20and%20Deforming - related DEP: Texturing and Deforming - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Texturing and Deforming/texturing_and_deforming_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR - related DEP: CAR Avatar - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-Clothed Avatar CAR/clothed_avatar_car_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Vid2Curve%20Reconstruction - related DEP: Vid2Curve Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Vid2Curve Reconstruction/vid2curve_reconstruction_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

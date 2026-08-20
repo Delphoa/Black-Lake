@@ -92,10 +92,10 @@ This organization prevents a readable internal signal from being mistaken for an
 
 ### Consolidated navigation
 
-- Evolving research: [DEP-E README](../../.lake-data/DEP-E/DEP-E-20260729-Inspectable%20Agents/README.md)
-- Frozen artifacts: [DEP-A README](../../.lake-data/DEP-A/DEP-A-20260729-J-Space%20Workspace/README.md)
-- Static register: [DEP-R README](../../.lake-data/DEP-R/DEP-R-20260729-J-Space%20Profile/README.md)
-- Complete crosswalk: [j-space-profile-crosswalk.md](../../.lake-data/DEP-R/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md)
+- Evolving research: [DEP-E README](../../.lake-data/DEP-E/Series%20001/DEP-E-20260729-Inspectable%20Agents/README.md)
+- Frozen artifacts: [DEP-A README](../../.lake-data/DEP-A/Series%20001/DEP-A-20260729-J-Space%20Workspace/README.md)
+- Static register: [DEP-R README](../../.lake-data/DEP-R/Series%20001/DEP-R-20260729-J-Space%20Profile/README.md)
+- Complete crosswalk: [j-space-profile-crosswalk.md](../../.lake-data/DEP-R/Series%20001/DEP-R-20260729-J-Space%20Profile/j-space-profile-crosswalk.md)
 - Workflow trace: [20260729-J-Space-Full-Profile-LOG.md](../../.logs/20260729-J-Space-Full-Profile-LOG.md)
 
 ## Validation Notes

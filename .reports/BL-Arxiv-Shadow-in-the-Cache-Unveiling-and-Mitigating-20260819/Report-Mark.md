@@ -98,7 +98,7 @@ The selected paper contributes a cache, inference, kv-cache perspective. The thr
 - https://arxiv.org/html/2508.09442 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.09442 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.09442 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-KSHSeek%20Data-Driven%20Appro - related DEP: KSHSeek Data-Driven Approaches t - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-KSHSeek Data-Driven Appro/kshseek_data_driven_appro_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

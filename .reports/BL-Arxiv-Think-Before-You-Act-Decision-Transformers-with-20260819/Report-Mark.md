@@ -98,7 +98,7 @@ The selected paper contributes a act, decision, memory perspective. The three re
 - https://arxiv.org/html/2305.16338 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2305.16338 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2305.16338 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Think%20Fast%20Estimating - related DEP: Think Fast Estimating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating/think_fast_estimating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-From%20Answer%20to%20Think - related DEP: From Answer to Think - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Answer to Think/from_answer_to_think_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-ECHO%20Prune%20to%20act%20trace - related DEP: ECHO Prune to act trace - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace/echo_prune_to_act_trace_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Think%20Fast%20Estimating - related DEP: Think Fast Estimating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Think Fast Estimating/think_fast_estimating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-From%20Answer%20to%20Think - related DEP: From Answer to Think - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Answer to Think/from_answer_to_think_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-ECHO%20Prune%20to%20act%20trace - related DEP: ECHO Prune to act trace - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-ECHO Prune to act trace/echo_prune_to_act_trace_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

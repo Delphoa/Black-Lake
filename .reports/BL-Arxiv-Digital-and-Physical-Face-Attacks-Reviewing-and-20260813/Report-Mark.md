@@ -95,7 +95,7 @@ The selected paper contributes a attacks, digital, face perspective. The three r
 - https://arxiv.org/html/2209.14692 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.14692 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.14692 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-GADT%20Enhancing - related DEP: GADT Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-GADT Enhancing/gadt_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-APB2Face%20Safety - related DEP: APB2Face Safety Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-APB2Face Safety/apb2face_safety_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Stealthy%20Jailbreak - related DEP: Stealthy Jailbreak - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Stealthy Jailbreak/stealthy_jailbreak_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-GADT%20Enhancing - related DEP: GADT Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-GADT Enhancing/gadt_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-APB2Face%20Safety - related DEP: APB2Face Safety Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-APB2Face Safety/apb2face_safety_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

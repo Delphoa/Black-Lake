@@ -98,7 +98,7 @@ The selected paper contributes a cancal, towards, real-time perspective. The thr
 - https://arxiv.org/html/2408.16515 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.16515 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.16515 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Memory%20Defense%20Layers - related DEP: Memory Defense Layers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Memory Defense Layers/memory-defense-layers.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Constraint-Aware%20Systems - related DEP: Constraint-Aware Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Constraint-Aware Systems/constraint-aware-systems.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Memory%20Defense%20Layers - related DEP: Memory Defense Layers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Memory Defense Layers/memory-defense-layers.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Context Backdoor/context_backdoor_defense_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Constraint-Aware%20Systems - related DEP: Constraint-Aware Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Constraint-Aware Systems/constraint-aware-systems.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

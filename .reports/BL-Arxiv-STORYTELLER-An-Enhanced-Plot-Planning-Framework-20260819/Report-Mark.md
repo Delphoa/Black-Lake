@@ -98,7 +98,7 @@ The selected paper contributes a coherent, cohesive, enhanced perspective. The t
 - https://arxiv.org/html/2506.02347 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.02347 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.02347 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-CMamba%20Channel - related DEP: CMamba Channel - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-CMamba Channel/cmamba_channel_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

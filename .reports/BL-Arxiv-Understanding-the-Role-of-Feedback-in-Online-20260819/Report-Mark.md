@@ -98,7 +98,7 @@ The selected paper contributes a costs, feedback, online perspective. The three 
 - https://arxiv.org/html/2306.09588 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.09588 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.09588 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Protecting%20Neural - related DEP: Protecting Neural - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Protecting Neural/protecting_neural_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

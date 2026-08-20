@@ -98,7 +98,7 @@ The selected paper contributes a attention, autonomous, decoder perspective. The
 - https://arxiv.org/html/2503.08612 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.08612 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.08612 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Device%20Tuning%20MTL - related DEP: Device Tuning MTL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-Device Tuning MTL/device_tuning_mtl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

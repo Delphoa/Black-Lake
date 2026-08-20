@@ -98,7 +98,7 @@ The selected paper contributes a continual, interference, knowledge perspective.
 - https://arxiv.org/html/2407.05342 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.05342 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.05342 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Low-Complexity%20Inference - related DEP: Low-Complexity Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-Complexity Inference/low_complexity_inference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Low-Complexity%20Inference - related DEP: Low-Complexity Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Low-Complexity Inference/low_complexity_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related DEP: VLM Probing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

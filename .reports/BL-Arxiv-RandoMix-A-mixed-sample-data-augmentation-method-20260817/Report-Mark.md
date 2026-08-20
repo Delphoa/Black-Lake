@@ -95,7 +95,7 @@ The selected paper contributes a mixed, augmentation, modes perspective. The thr
 - https://arxiv.org/html/2205.08728 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2205.08728 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2205.08728 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-FiberStars%20Visual - related DEP: FiberStars Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-One%20Training%20for%20Multiple - related DEP: One Training for Multiple - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-One Training for Multiple/one_training_for_multiple_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Coordinated%20CIL - related DEP: Input-Output Coordinated CIL; source basis `.lake-data/DEP-E/DEP-E-20260719-Coordinated CIL/coordinated_cil_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-FiberStars%20Visual - related DEP: FiberStars Visual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-FiberStars Visual/fiberstars_visual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-One%20Training%20for%20Multiple - related DEP: One Training for Multiple - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-One Training for Multiple/one_training_for_multiple_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

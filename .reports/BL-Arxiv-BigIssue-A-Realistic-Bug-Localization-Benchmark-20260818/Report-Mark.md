@@ -95,7 +95,7 @@ The selected paper contributes a benchmark, bigissue, bug perspective. The three
 - https://arxiv.org/html/2207.10739 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2207.10739 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2207.10739 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-BEAGLE%20Learner - related DEP: BEAGLE Learner - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-BEAGLE Learner/beagle_learner_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-InterDance%20Reactive%203D%20Da - related DEP: InterDance Reactive 3D Dance Gen - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-InterDance Reactive 3D Da/interdance_reactive_3d_da_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

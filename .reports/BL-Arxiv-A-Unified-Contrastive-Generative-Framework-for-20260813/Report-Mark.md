@@ -95,7 +95,7 @@ The selected paper contributes a classification, contrastive-generative, series 
 - https://arxiv.org/html/2508.09451 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.09451 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.09451 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

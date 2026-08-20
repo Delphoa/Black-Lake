@@ -98,7 +98,7 @@ The selected paper contributes a effective, methods, networks perspective. The t
 - https://arxiv.org/html/1611.10176 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1611.10176 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1611.10176 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-On%20Multiplicative - related DEP: On Multiplicative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-On Multiplicative/on_multiplicative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net%20A%20Temporal - related DEP: ALERTA-Net A Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net A Temporal/alerta_net_a_temporal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-R-Transformer%20Recurrent - related DEP: R-Transformer Recurrent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-Transformer Recurrent/r_transformer_recurrent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-On%20Multiplicative - related DEP: On Multiplicative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-On Multiplicative/on_multiplicative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ALERTA-Net%20A%20Temporal - related DEP: ALERTA-Net A Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net A Temporal/alerta_net_a_temporal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-R-Transformer%20Recurrent - related DEP: R-Transformer Recurrent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-R-Transformer Recurrent/r_transformer_recurrent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

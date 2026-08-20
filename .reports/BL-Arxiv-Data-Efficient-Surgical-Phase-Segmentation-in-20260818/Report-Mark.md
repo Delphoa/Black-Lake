@@ -97,7 +97,7 @@ The selected paper contributes a cataract, controlled, data-efficient perspectiv
 - https://arxiv.org/html/2604.10514 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.10514 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.10514 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Integrating%20Genomics%20into - related DEP: Integrating Genomics into - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Integrating Genomics into/integrating_genomics_into_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Proposer-Agent-Evaluator - related DEP: Proposer-Agent-Evaluator - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Proposer-Agent-Evaluator/proposer_agent_evaluator_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Integrating%20Genomics%20into - related DEP: Integrating Genomics into - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Integrating Genomics into/integrating_genomics_into_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

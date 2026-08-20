@@ -43,9 +43,9 @@
 
 ## Related DEP Entries
 
-1. [Decentralized SSL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md) — unlabeled-data utilization, pseudo-label-adjacent representation exchange, and privacy limits.
-2. [Adversarial Label Noise](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md) — soft targets, label-distribution mismatch, and calibration boundaries.
-3. [DUET Setwise CTR](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md) — peer-generated labels, disagreement monitoring, and deployment gating.
+1. [Decentralized SSL](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL/decentralized_ssl_manuscript.md) — unlabeled-data utilization, pseudo-label-adjacent representation exchange, and privacy limits.
+2. [Adversarial Label Noise](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise/adversarial_label_noise_manuscript.md) — soft targets, label-distribution mismatch, and calibration boundaries.
+3. [DUET Setwise CTR](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DUET%20Setwise%20CTR/duet_setwise_ctr_manuscript.md) — peer-generated labels, disagreement monitoring, and deployment gating.
 
 ## Public Outputs
 

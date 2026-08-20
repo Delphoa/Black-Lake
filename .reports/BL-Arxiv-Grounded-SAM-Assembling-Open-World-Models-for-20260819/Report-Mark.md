@@ -98,7 +98,7 @@ The selected paper contributes a assembling, diverse, grounded perspective. The 
 - https://arxiv.org/html/2401.14159 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2401.14159 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2401.14159 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-M%204%20-SAM%20Multi-Modal - related DEP: M 4 -SAM Multi-Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-M 4 -SAM Multi-Modal/m_4_sam_multi_modal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-RoboHanger%20Learning - related DEP: RoboHanger Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning/robohanger_learning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Coalesced%20TLB%20to%20Exploit - related DEP: Coalesced TLB to Exploit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Coalesced TLB to Exploit/coalesced_tlb_to_exploit_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-M%204%20-SAM%20Multi-Modal - related DEP: M 4 -SAM Multi-Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-M 4 -SAM Multi-Modal/m_4_sam_multi_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-RoboHanger%20Learning - related DEP: RoboHanger Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-RoboHanger Learning/robohanger_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Coalesced%20TLB%20to%20Exploit - related DEP: Coalesced TLB to Exploit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Coalesced TLB to Exploit/coalesced_tlb_to_exploit_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

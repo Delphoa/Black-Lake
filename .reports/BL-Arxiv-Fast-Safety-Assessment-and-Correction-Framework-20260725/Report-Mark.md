@@ -95,7 +95,7 @@ The selected paper contributes a safety, maintenance, zones perspective. The thr
 - https://arxiv.org/abs/1911.01179 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1911.01179 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1911.01179 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Security%20Non%20resettable - related DEP: Security Non resettable Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Security Non resettable/security_non_resettable_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-AVA%20Vignetting%20Attack - related DEP: AVA Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Security%20Non%20resettable - related DEP: Security Non resettable Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Security Non resettable/security_non_resettable_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-AVA%20Vignetting%20Attack - related DEP: AVA Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-AVA Vignetting Attack/ava_vignetting_attack_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

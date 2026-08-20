@@ -98,7 +98,7 @@ The selected paper contributes a along, classifying, dependency perspective. The
 - https://arxiv.org/html/1508.03720 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1508.03720 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1508.03720 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20Attention-based%20Long - related DEP: An Attention-based Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Attention-based Long/an_attention_based_long_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Stock%20Market%20Trend - related DEP: Stock Market Trend - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Stock Market Trend/stock_market_trend_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20Attention-based%20Long - related DEP: An Attention-based Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An Attention-based Long/an_attention_based_long_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Deep%20Learning%20with%20Long - related DEP: Deep Learning with Long - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Deep Learning with Long/deep_learning_with_long_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

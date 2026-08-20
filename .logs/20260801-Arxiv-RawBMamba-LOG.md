@@ -58,9 +58,9 @@ No public .source/ directory was created. The public artifacts cite canonical UR
   - Applies to: venue and publication metadata.
 - Source URL: https://github.com/cyjie429/RawBMamba
   - Applies to: official implementation availability and README-reported reproduction context.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion/av_emotion_fusion_manuscript.md
   - Applies to: related audio representation and fusion synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260731-Lattice%20Spoken%20LM/lattice_spoken_lm_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Lattice%20Spoken%20LM/lattice_spoken_lm_manuscript.md
   - Applies to: related speech representation and uncertainty synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E-20260720-APB2Face%20Safety/apb2face_safety_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-APB2Face%20Safety/apb2face_safety_manuscript.md
   - Applies to: related synthetic-media safety and provenance synthesis.

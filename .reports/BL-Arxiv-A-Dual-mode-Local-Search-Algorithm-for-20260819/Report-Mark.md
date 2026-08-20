@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, dominating, dual-mode perspective. T
 - https://arxiv.org/html/2307.16815 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2307.16815 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2307.16815 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Proposing%20and%20solving - related DEP: Proposing and solving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Proposing and solving/proposing_and_solving_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Proposing%20and%20solving - related DEP: Proposing and solving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Proposing and solving/proposing_and_solving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

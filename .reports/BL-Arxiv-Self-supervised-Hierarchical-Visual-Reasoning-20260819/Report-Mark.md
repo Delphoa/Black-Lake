@@ -98,7 +98,7 @@ The selected paper contributes a hierarchical, reasoning, self-supervised perspe
 - https://arxiv.org/html/2605.17537 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.17537 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.17537 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Hierarchical%20Planning - related DEP: Hierarchical Planning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Planning/hierarchical_planning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ChartMuseum%20Testing - related DEP: ChartMuseum Testing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ChartMuseum Testing/chartmuseum_testing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Hierarchical%20Planning - related DEP: Hierarchical Planning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Hierarchical Planning/hierarchical_planning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-UAV%20Visual%20Localization - related DEP: UAV Visual Localization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-UAV Visual Localization/uav_visual_localization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ChartMuseum%20Testing - related DEP: ChartMuseum Testing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ChartMuseum Testing/chartmuseum_testing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

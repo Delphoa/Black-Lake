@@ -98,7 +98,7 @@ The selected paper contributes a agreement-aware, investigating, news perspectiv
 - https://arxiv.org/html/1802.07398 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1802.07398 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3269206.3272020 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Fantastic%20Semantics%20and - related DEP: Fantastic Semantics and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Fantastic Semantics and/fantastic_semantics_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Lower%20Quantity%20Higher - related DEP: Lower Quantity Higher - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Lower Quantity Higher/lower_quantity_higher_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-COVID%20Fake%20News - related DEP: COVID Fake News - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-COVID Fake News/covid_fake_news_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Fantastic%20Semantics%20and - related DEP: Fantastic Semantics and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Fantastic Semantics and/fantastic_semantics_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Lower%20Quantity%20Higher - related DEP: Lower Quantity Higher - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Lower Quantity Higher/lower_quantity_higher_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

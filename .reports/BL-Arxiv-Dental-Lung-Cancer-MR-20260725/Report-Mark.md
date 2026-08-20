@@ -192,13 +192,13 @@ def mediation_summary(
 - Source URL: https://dblp.org/rec/conf/bibm/ZhangLWNWY25
   - Applies to: `Report-Mark.md`
   - Notes: Bibliographic record for BIBM 2025 pages 1443-1449.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-Causal%20DP%20Workloads/causal-dp-workloads.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Causal%20DP%20Workloads/causal-dp-workloads.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP evidence for causal estimands, privacy, and uncertainty calibration.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260720-Agent%20Systems%20Map/agent-systems-map.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Agent%20Systems%20Map/agent-systems-map.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP evidence for governed GWAS execution and phenotype reconciliation.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260717-ClinRAG%20Graph/2607.00798-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260717-ClinRAG%20Graph/2607.00798-whitepaper-review.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP evidence for multi-center clinical prediction, evidence grounding, and translation boundaries.
 - Source files: Withheld locally.

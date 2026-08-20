@@ -98,7 +98,7 @@ The selected paper contributes a decentralized, optimization, sum-of-nonconvex p
 - https://arxiv.org/html/2402.02356 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.02356 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.02356 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Decentralized%20Attention - related DEP: Decentralized Attention - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Decentralized Attention/decentralized_attention_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

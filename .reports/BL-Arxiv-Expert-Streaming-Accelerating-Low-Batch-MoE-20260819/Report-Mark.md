@@ -98,7 +98,7 @@ The selected paper contributes a expert, accelerating, architecture perspective.
 - https://arxiv.org/html/2603.27624 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.27624 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.27624 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PISTO%20Proximal%20Inference - related DEP: PISTO Proximal Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PISTO Proximal Inference/pisto_proximal_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sparse-dLLM%20Accelerating - related DEP: Sparse-dLLM Accelerating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sparse-dLLM Accelerating/sparse_dllm_accelerating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PISTO%20Proximal%20Inference - related DEP: PISTO Proximal Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PISTO Proximal Inference/pisto_proximal_inference_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

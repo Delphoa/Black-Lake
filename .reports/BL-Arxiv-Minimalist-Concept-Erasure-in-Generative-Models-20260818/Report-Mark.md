@@ -97,7 +97,7 @@ The selected paper contributes a concept, erasure, generative perspective. The t
 - https://arxiv.org/html/2507.13386 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.13386 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.13386 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-VITATECS%20A%20Diagnostic - related DEP: VITATECS A Diagnostic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-VITATECS A Diagnostic/vitatecs_a_diagnostic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-VITATECS%20A%20Diagnostic - related DEP: VITATECS A Diagnostic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-VITATECS A Diagnostic/vitatecs_a_diagnostic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-VaTD%20Canonical - related DEP: VaTD Canonical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-VaTD Canonical/vatd_canonical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

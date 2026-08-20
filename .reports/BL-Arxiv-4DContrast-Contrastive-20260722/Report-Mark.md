@@ -95,7 +95,7 @@ The selected paper contributes a dynamic, understanding, object perspective. BA-
 - https://ar5iv.labs.arxiv.org/html/2112.02990 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2112.02990 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2112.02990 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-BA-LoRA%20Bias - related DEP: BA-LoRA Bias - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-BA-LoRA%20Bias - related DEP: BA-LoRA Bias - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer - related DEP: Pixel-Point Transfer - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

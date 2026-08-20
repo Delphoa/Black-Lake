@@ -98,7 +98,7 @@ The selected paper contributes a agentic, implicit, intelligence perspective. Th
 - https://arxiv.org/html/2512.06688 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.06688 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.06688 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Towards%20Personalized%20and - related DEP: Towards Personalized and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Personalized and/towards_personalized_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Kimi%20K2%20Open%20Agentic - related DEP: Kimi K2 Open Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kimi K2 Open Agentic/kimi_k2_open_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Towards%20Personalized%20and - related DEP: Towards Personalized and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Towards Personalized and/towards_personalized_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Kimi%20K2%20Open%20Agentic - related DEP: Kimi K2 Open Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Kimi K2 Open Agentic/kimi_k2_open_agentic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a prompt, techniques, automatic perspective. The 
 - https://arxiv.org/html/2502.16923 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.16923 - verified primary PDF; local copy withheld.
 - https://doi.org/10.18653/v1/2025.emnlp-main.1681 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a ar-med, augmentation, automated perspective. Th
 - https://arxiv.org/html/2512.03737 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.03737 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.03737 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS%20Preventing - related DEP: SCAFFOLD-CEGIS Preventing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS Preventing/scaffold_cegis_preventing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-SCAFFOLD-CEGIS%20Preventing - related DEP: SCAFFOLD-CEGIS Preventing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-SCAFFOLD-CEGIS Preventing/scaffold_cegis_preventing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Unveiling%20the%20Lexical%20Sen - related DEP: Unveiling the Lexical Sensitivit - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Unveiling the Lexical Sen/unveiling_the_lexical_sen_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

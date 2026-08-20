@@ -98,7 +98,7 @@ The selected paper contributes a optimization, matrix-monotonic, part perspectiv
 - https://arxiv.org/html/1810.11244 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1810.11244 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1810.11244 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Ultra3D%20Efficient%20and - related DEP: Ultra3D Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Ultra3D Efficient and/ultra3d_efficient_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Graphon%20Particle%20Systems - related DEP: Graphon Particle Systems - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Graphon Particle Systems/graphon_particle_systems_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Ultra3D%20Efficient%20and - related DEP: Ultra3D Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Ultra3D Efficient and/ultra3d_efficient_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

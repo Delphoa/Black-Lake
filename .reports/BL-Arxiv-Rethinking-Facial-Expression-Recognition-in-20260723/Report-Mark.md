@@ -95,7 +95,7 @@ The selected paper contributes a mllms, datasets, facial perspective. The three 
 - https://arxiv.org/html/2511.00389 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.00389 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.00389 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model - related DEP: HERMES World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260712-HERMES World Model/hermes_world_model_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

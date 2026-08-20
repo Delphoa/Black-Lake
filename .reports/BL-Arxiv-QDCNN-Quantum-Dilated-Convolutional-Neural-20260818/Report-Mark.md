@@ -97,7 +97,7 @@ The selected paper contributes a convolutional, dilated, network perspective. Th
 - https://arxiv.org/html/2110.15667 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2110.15667 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2110.15667 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Stacked%20BNAS%20Rethinking - related DEP: Stacked BNAS Rethinking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Stacked BNAS Rethinking/stacked_bnas_rethinking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

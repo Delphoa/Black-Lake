@@ -95,7 +95,7 @@ The selected paper contributes a authentic, grounding, language perspective. The
 - https://arxiv.org/html/2505.11792 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.11792 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.11792 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Fra - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Multi-step%20Problem - related DEP: Multi-step Problem - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Multi-step Problem/multi_step_problem_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-COEVO%20Co-Evolutionary%20Fra - related DEP: COEVO Co-Evolutionary Fra - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-COEVO Co-Evolutionary Fra/coevo_co_evolutionary_fra_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a bfsd, tools, detection perspective. The three r
 - https://arxiv.org/html/2511.01180 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.01180 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.01180 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OmniSQL%20Synthesizing - related DEP: OmniSQL Synthesizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing/omnisql_synthesizing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing - related DEP: WorkflowLLM Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM Enhancing/workflowllm_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OmniSQL%20Synthesizing - related DEP: OmniSQL Synthesizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing/omnisql_synthesizing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-ComfyUI%20R1 - related DEP: ComfyUI-R1 Workflow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-ComfyUI R1/comfyui_r1_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

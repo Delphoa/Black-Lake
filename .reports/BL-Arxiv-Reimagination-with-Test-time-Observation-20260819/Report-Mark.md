@@ -98,7 +98,7 @@ The selected paper contributes a control, distractor-robust, interventions persp
 - https://arxiv.org/html/2506.16565 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.16565 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.16565 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-X-Foresight%20A%20Joint - related DEP: X-Foresight A Joint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-Foresight A Joint/x_foresight_a_joint_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-X-Foresight%20A%20Joint - related DEP: X-Foresight A Joint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-Foresight A Joint/x_foresight_a_joint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-EO-WM%20A%20Physically - related DEP: EO-WM A Physically - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EO-WM A Physically/eo_wm_a_physically_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

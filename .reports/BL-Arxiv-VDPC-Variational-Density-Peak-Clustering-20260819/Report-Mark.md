@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, clustering, density perspective. The
 - https://arxiv.org/html/2201.00641 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2201.00641 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2201.00641 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Federated%20Matrix - related DEP: Federated Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Matrix/federated_matrix_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20density%20peaks - related DEP: A density peaks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A density peaks/a_density_peaks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Federated%20Matrix - related DEP: Federated Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Matrix/federated_matrix_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

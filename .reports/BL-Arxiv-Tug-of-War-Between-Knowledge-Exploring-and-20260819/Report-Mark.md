@@ -98,7 +98,7 @@ The selected paper contributes a knowledge, conflicts, language perspective. The
 - https://arxiv.org/html/2402.14409 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.14409 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.14409 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented%20and - related DEP: Retrieval-Augmented and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented and/retrieval_augmented_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Retrosynthesis - related DEP: Automated Retrosynthesis - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Retrosynthesis/automated_retrosynthesis_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Retrieval-Augmented%20and - related DEP: Retrieval-Augmented and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Retrieval-Augmented and/retrieval_augmented_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Retrosynthesis - related DEP: Automated Retrosynthesis - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Retrosynthesis/automated_retrosynthesis_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Language-Coupled - related DEP: Language-Coupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Language-Coupled/language_coupled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

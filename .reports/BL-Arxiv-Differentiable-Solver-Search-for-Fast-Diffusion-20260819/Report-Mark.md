@@ -98,7 +98,7 @@ The selected paper contributes a differentiable, diffusion, fast perspective. Th
 - https://arxiv.org/html/2505.21114 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.21114 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.21114 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

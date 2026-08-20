@@ -97,7 +97,7 @@ The selected paper contributes a completion, reinforcement, repository-level per
 - https://arxiv.org/html/2407.19487 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.19487 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.19487 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-RepoMasterEval - related DEP: RepoMasterEval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-RepoMasterEval/repomastereval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Revisiting%20Trace%20Norm - related DEP: Revisiting Trace Norm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Revisiting Trace Norm/revisiting_trace_norm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-RepoMasterEval - related DEP: RepoMasterEval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-RepoMasterEval/repomastereval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Revisiting%20Trace%20Norm - related DEP: Revisiting Trace Norm - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Revisiting Trace Norm/revisiting_trace_norm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-RLMF%20Uncertainty - related DEP: RLMF Uncertainty - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-RLMF Uncertainty/rlmf_uncertainty_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

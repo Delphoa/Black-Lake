@@ -98,7 +98,7 @@ The selected paper contributes a algorithm-user, content, count perspective. The
 - https://arxiv.org/html/2503.20030 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.20030 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.20030 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Scaling%20the%20Long%20Video - related DEP: Scaling the Long Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling the Long Video/scaling_the_long_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Improved%20Counting%20and - related DEP: Improved Counting and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Improved Counting and/improved_counting_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AdaVideoRAG - related DEP: AdaVideoRAG - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AdaVideoRAG/adavideorag_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Scaling%20the%20Long%20Video - related DEP: Scaling the Long Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Scaling the Long Video/scaling_the_long_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Improved%20Counting%20and - related DEP: Improved Counting and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Improved Counting and/improved_counting_and_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

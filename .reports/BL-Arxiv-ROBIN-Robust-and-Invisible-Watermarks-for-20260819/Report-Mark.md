@@ -98,7 +98,7 @@ The selected paper contributes a adversarial, diffusion, invisible perspective. 
 - https://arxiv.org/html/2411.03862 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.03862 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.03862 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Invisible%20Backdoor - related DEP: Invisible Backdoor - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Invisible Backdoor/invisible_backdoor_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Adversarial Label Noise/adversarial_label_noise_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

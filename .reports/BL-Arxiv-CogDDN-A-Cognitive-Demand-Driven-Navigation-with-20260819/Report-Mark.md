@@ -98,7 +98,7 @@ The selected paper contributes a cogddn, cognitive, decision perspective. The th
 - https://arxiv.org/html/2507.11334 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.11334 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3746027.3755832 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Think2Drive%20Efficient - related DEP: Think2Drive Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Think2Drive Efficient/think2drive_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cooperative%20Training%20of - related DEP: Cooperative Training of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cooperative Training of/cooperative_training_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

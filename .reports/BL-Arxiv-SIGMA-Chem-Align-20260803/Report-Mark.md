@@ -78,9 +78,9 @@ Exactly three related entries were selected from the current Black Lake reposito
 
 | Entry | Concrete Relevance | Source Basis |
 |---|---|---|
-| [FGBench Chemistry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry/fgbench_chemistry_manuscript.md) | Shares the molecular/SMILES domain and shows why pair construction, scaffold or molecule leakage, property-unit discipline, validity, and functional-group coverage must accompany language-model scores. | Review of arXiv:2508.01055v4 and the official FGBench repository recorded by that DEP. |
-| [Graph Alignment](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment/graph_alignment_manuscript.md) | Provides a direct graph-representation neighbor: alignment and uniformity objectives need graph-aware equivalence, stable negatives, and evaluation beyond a single embedding metric. | Review of arXiv:2308.09292 and DOI 10.1145/3583780.3615185 recorded by that DEP. |
-| [Equivariant Contrastive](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260721-Equivariant%20Contrastive/equivariant_contrastive_manuscript.md) | Supplies a contrastive/equivariance bridge for testing whether augmentation-induced invariance transfers beyond the training transformation family. | Review of arXiv:2211.05290 and its full-paper evidence recorded by that DEP. |
+| [FGBench Chemistry](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGBench%20Chemistry/fgbench_chemistry_manuscript.md) | Shares the molecular/SMILES domain and shows why pair construction, scaffold or molecule leakage, property-unit discipline, validity, and functional-group coverage must accompany language-model scores. | Review of arXiv:2508.01055v4 and the official FGBench repository recorded by that DEP. |
+| [Graph Alignment](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment/graph_alignment_manuscript.md) | Provides a direct graph-representation neighbor: alignment and uniformity objectives need graph-aware equivalence, stable negatives, and evaluation beyond a single embedding metric. | Review of arXiv:2308.09292 and DOI 10.1145/3583780.3615185 recorded by that DEP. |
+| [Equivariant Contrastive](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Equivariant%20Contrastive/equivariant_contrastive_manuscript.md) | Supplies a contrastive/equivariance bridge for testing whether augmentation-induced invariance transfers beyond the training transformation family. | Review of arXiv:2211.05290 and its full-paper evidence recorded by that DEP. |
 
 ## Synthesis Note
 
@@ -200,13 +200,13 @@ print({"accepted": accept(baseline, candidate)})
 - Source URL: https://www.xinyuwang1209.com/publications/
   - Applies to: `Report-Mark.md`.
   - Notes: Author-maintained publication listing and bounded code/release-context check.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-FGBench%20Chemistry/fgbench_chemistry_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-FGBench%20Chemistry/fgbench_chemistry_manuscript.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP for molecular reasoning benchmark construction and evaluation boundaries.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-Graph%20Alignment/graph_alignment_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Graph%20Alignment/graph_alignment_manuscript.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP for graph alignment and uniformity.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260721-Equivariant%20Contrastive/equivariant_contrastive_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Equivariant%20Contrastive/equivariant_contrastive_manuscript.md
   - Applies to: `Report-Mark.md`.
   - Notes: Related DEP for equivariant contrastive learning.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

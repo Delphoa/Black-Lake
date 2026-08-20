@@ -97,7 +97,7 @@ The selected paper contributes a coloring, complexity, graph perspective. The th
 - https://arxiv.org/html/1705.07551 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1705.07551 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1705.07551 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Relieving%20the - related DEP: Relieving the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Relieving the/relieving_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Rauzy%20Neighbors - related DEP: Rauzy Neighbors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Rauzy Neighbors/rauzy_neighbors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Graph%20Filter%20Banks - related DEP: Graph Filter Banks - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Graph Filter Banks/graph_filter_banks_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Relieving%20the - related DEP: Relieving the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Relieving the/relieving_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Rauzy%20Neighbors - related DEP: Rauzy Neighbors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Rauzy Neighbors/rauzy_neighbors_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

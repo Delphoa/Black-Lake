@@ -98,7 +98,7 @@ The selected paper contributes a acceleration, edge, inference perspective. The 
 - https://arxiv.org/html/2606.08891 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.08891 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.08891 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RAPID-Graph%20Recursive - related DEP: RAPID-Graph Recursive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAPID-Graph Recursive/rapid_graph_recursive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted%20Cooperative - related DEP: UAV-Assisted Cooperative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative/uav_assisted_cooperative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RAPID-Graph%20Recursive - related DEP: RAPID-Graph Recursive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAPID-Graph Recursive/rapid_graph_recursive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-UAV-Assisted%20Cooperative - related DEP: UAV-Assisted Cooperative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-UAV-Assisted Cooperative/uav_assisted_cooperative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, animation, anime perspective. The thr
 - https://arxiv.org/html/2508.18781 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.18781 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.18781 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Hallo4%20Portrait%20Motion - related DEP: Hallo4 Portrait Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Hallo4 Portrait Motion/hallo4_portrait_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Hallo4%20Portrait%20Motion - related DEP: Hallo4 Portrait Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Hallo4 Portrait Motion/hallo4_portrait_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-CogPortrait%20Control - related DEP: CogPortrait - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-CogPortrait Control/cogportrait_eye_control_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

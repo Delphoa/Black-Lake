@@ -95,7 +95,7 @@ The selected paper contributes a fba, processing, dex perspective. The three rel
 - https://arxiv.org/html/2302.01177 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.01177 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2302.01177 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Weak%20Diffusion%20Priors - related DEP: Weak Diffusion Priors - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Weak Diffusion Priors/weak_diffusion_priors_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-Decentralized SSL/decentralized_ssl_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

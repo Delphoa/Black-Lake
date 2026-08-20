@@ -95,7 +95,7 @@ The selected paper contributes a music, memorability, predicting perspective. LA
 - https://arxiv.org/html/2405.12847 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.12847 - verified primary PDF; local copy withheld.
 - https://doi.org/10.5281/zenodo.10265251 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-KDFlow%20LLM%20Distill - related DEP: KDFlow LLM Distill - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action - related DEP: LA-Pose Latent Action - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-KDFlow%20LLM%20Distill - related DEP: KDFlow LLM Distill - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

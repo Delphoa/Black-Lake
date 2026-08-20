@@ -95,7 +95,7 @@ The selected paper contributes a attack, automated, centering perspective. The t
 - https://arxiv.org/html/2009.06701 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2009.06701 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2009.06701 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Stereo%20Lane%20Detection - related DEP: Stereo Lane Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection/stereo_lane_detection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-From%20Similarity%20to - related DEP: From Similarity to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-From Similarity to/from_similarity_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Stereo%20Lane%20Detection - related DEP: Stereo Lane Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Stereo Lane Detection/stereo_lane_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-From%20Similarity%20to - related DEP: From Similarity to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-From Similarity to/from_similarity_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-DexMimicGen%20Automated - related DEP: DexMimicGen Automated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-DexMimicGen Automated/dexmimicgen_automated_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

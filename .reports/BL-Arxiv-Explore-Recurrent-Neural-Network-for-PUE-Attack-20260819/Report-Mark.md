@@ -98,7 +98,7 @@ The selected paper contributes a attack, crn, detection perspective. The three r
 - https://arxiv.org/html/1805.00428 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1805.00428 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1805.00428 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Path%20Feedback - related DEP: Multi-Path Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Path Feedback/multi_path_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion - related DEP: AV Emotion Fusion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260713-AV Emotion Fusion/av_emotion_fusion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoCom%20MAV%20Comms - related DEP: MoCom MAV Comms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoCom MAV Comms/mocom_mav_comms_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

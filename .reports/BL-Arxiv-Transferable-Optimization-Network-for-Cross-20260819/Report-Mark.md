@@ -98,7 +98,7 @@ The selected paper contributes a cross-domain, image, network perspective. The t
 - https://arxiv.org/html/2603.07831 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.07831 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.07831 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Learning%20Nonparametric - related DEP: Learning Nonparametric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric/learning_nonparametric_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Learning%20Nonparametric - related DEP: Learning Nonparametric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric/learning_nonparametric_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MiNet%20CTR%20Transfer - related DEP: Mixed-Interest CTR Transfer; source basis `.lake-data/DEP-E/DEP-E-20260719-MiNet CTR Transfer/minet_ctr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

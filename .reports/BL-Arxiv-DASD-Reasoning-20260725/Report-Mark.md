@@ -34,13 +34,13 @@ The primary table reports DASD-4B-Thinking at 88.5 AIME24, 83.3 AIME25, 69.3 Liv
 
 ## Related DEP Entries
 
-1. [WorkflowLLM Enhancing - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-WorkflowLLM%20Enhancing/workflowllm_enhancing_manuscript.md)
+1. [WorkflowLLM Enhancing - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-WorkflowLLM%20Enhancing/workflowllm_enhancing_manuscript.md)
    - **Source basis:** inspected its source metadata and evidence ledger for arXiv:2411.05451.
    - **Relevance:** both consider how LLM capability is organized into multi-stage workflows; DASD supplies a training-time curriculum while WorkflowLLM addresses orchestration of downstream workflow capability.
-2. [MOSS Enabling Code-Driven - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-MOSS%20Enabling%20Code-Driven/moss_enabling_code_driven_manuscript.md)
+2. [MOSS Enabling Code-Driven - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOSS%20Enabling%20Code-Driven/moss_enabling_code_driven_manuscript.md)
    - **Source basis:** inspected its source metadata and evidence ledger for arXiv:2409.16120.
    - **Relevance:** DASD's conclusion names agentic retrieval and tool use as a future direction; MOSS supplies a concrete context-management and code-driven agent framing for testing that extension.
-3. [Shuffled Autoregression - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260724-Shuffled%20Autoregress/shuffled_autoregression_manuscript.md)
+3. [Shuffled Autoregression - DEP-E](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-Shuffled%20Autoregress/shuffled_autoregression_manuscript.md)
    - **Source basis:** inspected its complete-method evidence ledger for arXiv:2306.06367v1.
    - **Relevance:** both address train/inference sequence mismatch and error accumulation with an explicit generation procedure, though one is language distillation and the other motion interpolation.
 

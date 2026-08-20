@@ -98,7 +98,7 @@ The selected paper contributes a bound, cram, enabled perspective. The three rel
 - https://arxiv.org/html/2204.11071 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2204.11071 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2204.11071 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Joint%20Pilot%20Optimization - related DEP: Joint Pilot Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Joint Pilot Optimization/joint_pilot_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

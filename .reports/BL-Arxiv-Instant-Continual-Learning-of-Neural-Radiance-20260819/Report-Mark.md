@@ -98,7 +98,7 @@ The selected paper contributes a continual, fields, instant perspective. The thr
 - https://arxiv.org/html/2309.01811 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.01811 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.01811 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF%20Efficient%20and - related DEP: Gen-NeRF Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF Efficient and/gen_nerf_efficient_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20to%20Evaluate%20the%20Next - related DEP: How to Evaluate the Next - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How to Evaluate the Next/how_to_evaluate_the_next_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-ST-NeRF%20Video - related DEP: ST-NeRF - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-ST-NeRF Video/st_nerf_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Gen-NeRF%20Efficient%20and - related DEP: Gen-NeRF Efficient and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Gen-NeRF Efficient and/gen_nerf_efficient_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20to%20Evaluate%20the%20Next - related DEP: How to Evaluate the Next - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How to Evaluate the Next/how_to_evaluate_the_next_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -97,7 +97,7 @@ The selected paper contributes a agentic, benchmarking, deepwidesearch perspecti
 - https://arxiv.org/html/2510.20168 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.20168 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.20168 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

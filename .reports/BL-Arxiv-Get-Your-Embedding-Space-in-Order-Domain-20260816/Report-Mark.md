@@ -95,7 +95,7 @@ The selected paper contributes a domain-adaptive, embedding, forest perspective.
 - https://arxiv.org/html/2405.00514 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2405.00514 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2405.00514 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Drag%20Your%20GAN%20Interactive - related DEP: Drag Your GAN Interactive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive/drag_your_gan_interactive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Drag%20Your%20GAN%20Interactive - related DEP: Drag Your GAN Interactive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive/drag_your_gan_interactive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-SANE%20Embeddings - related DEP: SANE Embeddings - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

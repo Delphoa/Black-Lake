@@ -98,7 +98,7 @@ STF-ACSR turns scarce hand data into a prompted representation, while the three 
 - https://arxiv.org/html/2503.21785 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.21785 - verified PDF; local copy withheld.
 - https://github.com/DennisHgj/STF_ACSR - paper-declared implementation/checkpoint locator; not executed or redistributed.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260713-AV%20Emotion%20Fusion - related modality-benefit evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal - related missing-modality evidence.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing - related representation-probing evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-AV%20Emotion%20Fusion - related modality-benefit evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal - related missing-modality evidence.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing - related representation-probing evidence.
 - Source files: PDF, full-paper HTML, metadata HTML, and integrity records; all withheld locally.

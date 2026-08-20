@@ -98,7 +98,7 @@ The selected paper contributes a continuous, dynamic, flow perspective. The thre
 - https://arxiv.org/html/2509.14775 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.14775 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.14775 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-PIS%20A%20Generalized - related DEP: PIS A Generalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PIS A Generalized/pis_a_generalized_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-PIS%20A%20Generalized - related DEP: PIS A Generalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-PIS A Generalized/pis_a_generalized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20Block%20Linear%20System - related DEP: Fast Block Linear System - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast Block Linear System/fast_block_linear_system_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-PA-RNet - related DEP: PA-RNet - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-PA-RNet/pa_rnet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

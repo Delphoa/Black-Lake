@@ -98,7 +98,7 @@ The selected paper contributes a attacks, black-box, generation perspective. The
 - https://arxiv.org/html/2512.08289 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.08289 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.08289 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Practical%20Poisoning - related DEP: Practical Poisoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Practical Poisoning/practical_poisoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-UniC-RAG%20Universal - related DEP: UniC-RAG Universal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UniC-RAG Universal/unic_rag_universal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Practical%20Poisoning - related DEP: Practical Poisoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Practical Poisoning/practical_poisoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-UniC-RAG%20Universal - related DEP: UniC-RAG Universal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-UniC-RAG Universal/unic_rag_universal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

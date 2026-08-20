@@ -98,7 +98,7 @@ The selected paper contributes a balanced, edge, effective perspective. The thre
 - https://arxiv.org/html/2012.09451 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2012.09451 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2012.09451 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20local%20search%204%203 - related DEP: A local search 4 3 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A local search 4 3/a_local_search_4_3_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhancing%20LLM%20Reasoning - related DEP: Enhancing LLM Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing LLM Reasoning/enhancing_llm_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20local%20search%204%203 - related DEP: A local search 4 3 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A local search 4 3/a_local_search_4_3_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhancing%20LLM%20Reasoning - related DEP: Enhancing LLM Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing LLM Reasoning/enhancing_llm_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

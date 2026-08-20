@@ -33,9 +33,9 @@ The authors report seven QA benchmarks, Qwen2.5-3B and Qwen2.5-7B backbones, a f
 
 ## Related DEP Entries
 
-1. `.lake-data/DEP-A/DEP-A-20260727-Token Tax RAG/2606.20898-whitepaper-review.md` — compares retrieval and long-context evidence-allocation regimes and proposes a cost-correctness frontier; this grounds SD-Search's search-policy gains in evidence-access and token-budget tradeoffs. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260727-Token%20Tax%20RAG/2606.20898-whitepaper-review.md
-2. `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md` — reviews temperature-scheduled, divergence-aware, and mixed-policy sequence distillation; this is the closest training-objective neighbor for distribution alignment and rollout mismatch. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260725-DASD%20Reasoning/dasd_reasoning_manuscript.md
-3. `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md` — analyzes regularized policy optimization and convergence boundaries; this frames SD-Search as an RL objective extension whose empirical gains still require objective-validity and compute-matched checks. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+1. `.lake-data/DEP-A/DEP-A-20260727-Token Tax RAG/2606.20898-whitepaper-review.md` — compares retrieval and long-context evidence-allocation regimes and proposes a cost-correctness frontier; this grounds SD-Search's search-policy gains in evidence-access and token-budget tradeoffs. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260727-Token%20Tax%20RAG/2606.20898-whitepaper-review.md
+2. `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md` — reviews temperature-scheduled, divergence-aware, and mixed-policy sequence distillation; this is the closest training-objective neighbor for distribution alignment and rollout mismatch. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-DASD%20Reasoning/dasd_reasoning_manuscript.md
+3. `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md` — analyzes regularized policy optimization and convergence boundaries; this frames SD-Search as an RL objective extension whose empirical gains still require objective-validity and compute-matched checks. Public record: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
 
 ## Synthesis Note
 
@@ -129,9 +129,9 @@ def accept_policy(candidate, baseline, min_gain=0.01, max_cost_ratio=1.15):
 | S3 | https://arxiv.org/pdf/2605.18299 | PDF integrity and text cross-check | 2026-08-01 | Source file withheld locally |
 | S4 | https://arxiv.org/e-print/2605.18299 | TeX/source structure, equations, tables, appendices | 2026-08-01 | Source archive withheld locally |
 | S5 | https://doi.org/10.48550/arXiv.2605.18299 | Persistent identifier | 2026-08-01 | arXiv-issued DOI |
-| S6 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260727-Token%20Tax%20RAG/2606.20898-whitepaper-review.md | Retrieval/evidence-budget context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
-| S7 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260725-DASD%20Reasoning/dasd_reasoning_manuscript.md | Distillation and rollout-mismatch context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
-| S8 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md | RL objective and stability context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
+| S6 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260727-Token%20Tax%20RAG/2606.20898-whitepaper-review.md | Retrieval/evidence-budget context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
+| S7 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-DASD%20Reasoning/dasd_reasoning_manuscript.md | Distillation and rollout-mismatch context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
+| S8 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md | RL objective and stability context | 2026-08-01 | Related DEP, not primary evidence for SD-Search |
 
 ## Attribution Block
 

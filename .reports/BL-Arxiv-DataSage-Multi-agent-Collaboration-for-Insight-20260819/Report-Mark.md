@@ -98,7 +98,7 @@ The selected paper contributes a collaboration, datasage, debating perspective. 
 - https://arxiv.org/html/2511.14299 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.14299 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.14299 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-IMAGINE%20Integrating - related DEP: IMAGINE Integrating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IMAGINE Integrating/imagine_integrating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-CoEnv%20Driving%20Embodied - related DEP: CoEnv Driving Embodied - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-CoEnv Driving Embodied/coenv_driving_embodied_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Entropy-Constrained - related DEP: Entropy-Constrained - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Entropy-Constrained/entropy_constrained_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-IMAGINE%20Integrating - related DEP: IMAGINE Integrating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-IMAGINE Integrating/imagine_integrating_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

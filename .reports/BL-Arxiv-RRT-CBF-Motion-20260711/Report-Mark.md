@@ -150,7 +150,7 @@ def ledger_row(agent_id: str, margin: float, solver_ok: bool, priority: int) -> 
   - Applies to: related raw DEP layout and attribution interpretation.
   - Notes: Live related-repository authority fetched before use.
 - Repository path: `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`
-  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md
+  - Public URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md
   - Applies to: constrained vehicle-control synthesis.
   - Source reference: https://arxiv.org/abs/2110.12359
 - Repository path: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260711-Tech Intel 0104/daily_research_findings_2026-07-11_0104.md`

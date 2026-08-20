@@ -98,12 +98,12 @@ Exactly three related entries were inspected and used. Their claims do not indep
 - Source URL: https://dblp.org/rec/journals/mp/LanZ18
   - Applies to: volume, pages, year, and bibliographic cross-check.
   - Notes: Bibliographic record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine/epsilon_prox_affine_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine/epsilon_prox_affine_manuscript.md
   - Applies to: proximal-operator and structured convex-solver relationship.
   - Notes: Related processed artifact; not validation of RPDG.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260728-Local%20Stochastic%20Bilevel/local_stochastic_bilevel_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Local%20Stochastic%20Bilevel/local_stochastic_bilevel_manuscript.md
   - Applies to: stochastic-gradient complexity and variance-reduction relationship.
   - Notes: Related processed artifact; not validation of RPDG.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
   - Applies to: Bregman geometry and convergence relationship.
   - Notes: Related processed artifact; not validation of RPDG.

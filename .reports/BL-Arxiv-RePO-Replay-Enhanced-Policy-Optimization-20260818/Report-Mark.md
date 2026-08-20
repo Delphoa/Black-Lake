@@ -97,7 +97,7 @@ The selected paper contributes a optimization, policy, replay-enhanced perspecti
 - https://arxiv.org/html/2506.09340 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.09340 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.09340 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Policy%20Optimization - related DEP: A Policy Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Policy Optimization/a_policy_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC - related DEP: Joint Sensing MEC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Joint Sensing MEC/joint_sensing_mec_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a control, finite-state, group-based perspective.
 - https://arxiv.org/html/2208.08614 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2208.08614 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2208.08614 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Group%20Control%20Swarms - related DEP: Group-Control Swarms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Group Control Swarms/group_control_swarms_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Listwise%20Policy - related DEP: Listwise Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Listwise Policy/listwise_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-LLM-FSM%20Scaling%20Large - related DEP: LLM-FSM Scaling Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-LLM-FSM Scaling Large/llm_fsm_scaling_large_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Group%20Control%20Swarms - related DEP: Group-Control Swarms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Group Control Swarms/group_control_swarms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Listwise%20Policy - related DEP: Listwise Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Listwise Policy/listwise_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-LLM-FSM%20Scaling%20Large - related DEP: LLM-FSM Scaling Large - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-LLM-FSM Scaling Large/llm_fsm_scaling_large_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

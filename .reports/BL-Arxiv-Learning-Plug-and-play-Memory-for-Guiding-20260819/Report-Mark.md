@@ -98,7 +98,7 @@ The selected paper contributes a diffusion, guiding, memory perspective. The thr
 - https://arxiv.org/html/2511.19229 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.19229 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.19229 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Cosh-DiT%20Co-Speech - related DEP: Cosh-DiT Co-Speech - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Cosh-DiT Co-Speech/cosh_dit_co_speech_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fast%20and%20Memory-Efficient - related DEP: Fast and Memory-Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast and Memory-Efficient/fast_and_memory_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-AR-Drag%20Motion - related DEP: AR-Drag Motion Control - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-AR-Drag Motion/ar_drag_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Cosh-DiT%20Co-Speech - related DEP: Cosh-DiT Co-Speech - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Cosh-DiT Co-Speech/cosh_dit_co_speech_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fast%20and%20Memory-Efficient - related DEP: Fast and Memory-Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fast and Memory-Efficient/fast_and_memory_efficient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

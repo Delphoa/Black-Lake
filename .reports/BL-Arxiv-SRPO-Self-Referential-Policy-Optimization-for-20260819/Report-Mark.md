@@ -98,7 +98,7 @@ The selected paper contributes a optimization, policy, self-referential perspect
 - https://arxiv.org/html/2511.15605 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.15605 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.15605 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Escher-Loop%20Mutual - related DEP: Escher-Loop Mutual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Escher-Loop Mutual/escher_loop_mutual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-See%20Plan%20Rewind - related DEP: See Plan Rewind - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Escher-Loop%20Mutual - related DEP: Escher-Loop Mutual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Escher-Loop Mutual/escher_loop_mutual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-FAVLA%20Fast-Slow - related DEP: FAVLA Fast-Slow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-FAVLA Fast-Slow/favla_fast_slow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-See%20Plan%20Rewind - related DEP: See Plan Rewind - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-See Plan Rewind/see_plan_rewind_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

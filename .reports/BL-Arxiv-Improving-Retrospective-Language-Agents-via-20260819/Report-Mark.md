@@ -98,7 +98,7 @@ The selected paper contributes a agents, gradient, improving perspective. The th
 - https://arxiv.org/html/2503.01490 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.01490 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.01490 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20General - related DEP: Improving General - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving General/improving_general_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20General - related DEP: Improving General - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving General/improving_general_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20monotonic - related DEP: Improving monotonic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving monotonic/improving_monotonic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

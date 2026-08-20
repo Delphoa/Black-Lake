@@ -38,16 +38,16 @@ The source's stated limitations are important: current MLLMs struggle with chart
 | E4 | [ACL Anthology record](https://aclanthology.org/2025.findings-emnlp.165/) | Venue, pages, publisher DOI, final citation, and license notice | High for publication metadata |
 | E5 | [ACL paper PDF](https://aclanthology.org/2025.findings-emnlp.165.pdf) | Near-primary final-publication locator and citation cross-check | Medium-high; not collected or redistributed |
 | E6 | [Xinli Xu publication page](https://xxu068.github.io/) and [Xiaojie Xu publication page](https://xjxu21.github.io/) | Author publication context; no PreGenie-specific code link found on inspected pages | Medium for availability boundary |
-| E7 | [VLM Probing DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) | Limits of visual-language diagnostics and non-causal evaluator signals | Medium; related context only |
-| E8 | [Evidence-Gated Agents DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md) and [Kimi K2.5 Visual Agentic DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md) | Evidence-bound agent loops and multimodal agent evaluation patterns | Medium; related context only |
+| E7 | [VLM Probing DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) | Limits of visual-language diagnostics and non-causal evaluator signals | Medium; related context only |
+| E8 | [Evidence-Gated Agents DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md) and [Kimi K2.5 Visual Agentic DEP](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md) | Evidence-bound agent loops and multimodal agent evaluation patterns | Medium; related context only |
 
 ## Related DEP Entries
 
 Exactly three related Black Lake entries were selected after inspecting their public Markdown artifacts:
 
-1. [Evidence-Gated Agents](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260730-Evidence-Gated Agents/evidence-gated-agents.md`. Relevance: its evidence-gate synthesis maps directly to PreGenie's separation of fast generation from slower code and rendered-page adjudication. Source basis: the entry's cross-source sections on evidence boundaries, slow/fast validation, multimodal evaluation, and reviewer escalation.
-2. [Kimi K2.5 Visual Agentic](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`. Relevance: it provides a nearby multimodal-agent design and evaluation frame for visual perception, tool use, and agentic workflows. Source basis: the entry's method, evaluation, limitation, and evidence-extraction sections.
-3. [VLM Probing](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`. Relevance: it cautions that visual-language signals are diagnostic and correlational, which is directly relevant to treating a Page Reviewer score as a review signal rather than proof of slide quality. Source basis: the entry's probe results, leakage warnings, and recommended causal/behavioral cross-checks.
+1. [Evidence-Gated Agents](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260730-Evidence-Gated Agents/evidence-gated-agents.md`. Relevance: its evidence-gate synthesis maps directly to PreGenie's separation of fast generation from slower code and rendered-page adjudication. Source basis: the entry's cross-source sections on evidence boundaries, slow/fast validation, multimodal evaluation, and reviewer escalation.
+2. [Kimi K2.5 Visual Agentic](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`. Relevance: it provides a nearby multimodal-agent design and evaluation frame for visual perception, tool use, and agentic workflows. Source basis: the entry's method, evaluation, limitation, and evidence-extraction sections.
+3. [VLM Probing](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md) — repository-relative path `.lake-data/DEP-E/DEP-E-20260712-VLM Probing/vlm_probing_manuscript.md`. Relevance: it cautions that visual-language signals are diagnostic and correlational, which is directly relevant to treating a Page Reviewer score as a review signal rather than proof of slide quality. Source basis: the entry's probe results, leakage warnings, and recommended causal/behavioral cross-checks.
 
 ## Synthesis Note
 
@@ -152,12 +152,12 @@ PreGenie can be understood as a render-and-review evidence loop: language models
 - Source URL: https://xjxu21.github.io/
   - Applies to: Report-Mark.md
   - Notes: Author publication context and code-link availability check.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Evidence-Gated%20Agents/evidence-gated-agents.md
   - Applies to: Synthesis Note
   - Notes: Related Black Lake evidence-gating synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic/kimi_k2_5_visual_agentic_manuscript.md
   - Applies to: Synthesis Note
   - Notes: Related Black Lake multimodal-agent synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-VLM%20Probing/vlm_probing_manuscript.md
   - Applies to: Synthesis Note
   - Notes: Related Black Lake evaluator and VLM-probing synthesis.

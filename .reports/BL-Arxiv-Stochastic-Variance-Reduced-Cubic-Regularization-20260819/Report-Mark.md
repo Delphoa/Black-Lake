@@ -98,7 +98,7 @@ The selected paper contributes a cubic, nonconvex, optimization perspective. The
 - https://arxiv.org/html/1802.07372 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1802.07372 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1802.07372 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Run-and-Inspect%20Method - related DEP: Run-and-Inspect Method - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Run-and-Inspect Method/run_and_inspect_method_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Tensor%20Robust%20PCA%20with - related DEP: Tensor Robust PCA with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Tensor Robust PCA with/tensor_robust_pca_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Run-and-Inspect%20Method - related DEP: Run-and-Inspect Method - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Run-and-Inspect Method/run_and_inspect_method_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

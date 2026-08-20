@@ -98,7 +98,7 @@ The selected paper contributes a directional, enhancing, fidelity perspective. T
 - https://arxiv.org/html/2605.11396 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.11396 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.11396 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Structured%20Directional - related DEP: Structured Directional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Structured Directional/structured_directional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

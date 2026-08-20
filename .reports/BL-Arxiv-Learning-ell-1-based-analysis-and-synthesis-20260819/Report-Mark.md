@@ -98,7 +98,7 @@ The selected paper contributes a bi-level, ell, optimization perspective. The th
 - https://arxiv.org/html/1401.4105 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1401.4105 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1401.4105 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An%20efficient%20algori%2001245 - related DEP: An efficient algori 01245 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An efficient algori 01245/an_efficient_algori_01245_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting%20Knowledge - related DEP: Non-Forgetting Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting Knowledge/non_forgetting_knowledge_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An%20efficient%20algori%2001245 - related DEP: An efficient algori 01245 - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An efficient algori 01245/an_efficient_algori_01245_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Non-Forgetting%20Knowledge - related DEP: Non-Forgetting Knowledge - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Non-Forgetting Knowledge/non_forgetting_knowledge_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Cognitive%20Structure - related DEP: Cognitive Structure - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Cognitive Structure/cognitive_structure_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -189,8 +189,8 @@ The reviewed source is a complete 20-page PDF with supplementary material plus v
 [^paper]: Primary record: https://arxiv.org/abs/1608.07997
 [^pdf]: Complete paper and supplement: https://arxiv.org/pdf/1608.07997
 [^html]: Verified full-paper HTML: https://arxiv.org/html/1608.07997
-[^ppkt]: Pixel-Point Transfer DEP-E: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
-[^ikalibr]: iKalibr Calibration DEP-E: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+[^ppkt]: Pixel-Point Transfer DEP-E: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
+[^ikalibr]: iKalibr Calibration DEP-E: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
 
 ## Validation Notes
 
@@ -211,11 +211,11 @@ The reviewed source is a complete 20-page PDF with supplementary material plus v
   - Applies to: canonical source-package locator; package was unavailable and was not deposited.
 - Source URL: https://doi.org/10.48550/arXiv.1608.07997
   - Applies to: arXiv-issued DOI identity.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Pixel%20Point%20Transfer/pixel_point_transfer_manuscript.md
   - Applies to: pixel-point correspondence synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-iKalibr%20Calibration/ikalibr_calibration_manuscript.md
   - Applies to: calibration and association synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
   - Applies to: camera-to-BEV and point-cloud representation synthesis.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md
   - Applies to: repository filing, attribution, and local-source withholding rules.

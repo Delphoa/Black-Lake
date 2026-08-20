@@ -98,7 +98,7 @@ The selected paper contributes a convolutional, detection, event-based perspecti
 - https://arxiv.org/html/2506.13440 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.13440 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.13440 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MambaPupil%20Bidirectional - related DEP: MambaPupil Bidirectional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MambaPupil Bidirectional/mambapupil_bidirectional_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-From%20Sim-to-Real%20Toward - related DEP: From Sim-to-Real Toward - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Sim-to-Real Toward/from_sim_to_real_toward_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MambaPupil%20Bidirectional - related DEP: MambaPupil Bidirectional - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MambaPupil Bidirectional/mambapupil_bidirectional_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Unifying%20Isolated%20and - related DEP: Unifying Isolated and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unifying Isolated and/unifying_isolated_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-From%20Sim-to-Real%20Toward - related DEP: From Sim-to-Real Toward - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-From Sim-to-Real Toward/from_sim_to_real_toward_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

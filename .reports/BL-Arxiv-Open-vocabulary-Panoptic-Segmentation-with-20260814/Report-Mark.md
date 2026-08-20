@@ -95,7 +95,7 @@ The selected paper contributes a embedding, modulation, open-vocabulary perspect
 - https://arxiv.org/html/2303.11324 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2303.11324 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2303.11324 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OE-BevSeg%20Perception - related DEP: OE-BevSeg Perception - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OE-BevSeg Perception/oe_bevseg_perception_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-CLCI-Net%20Cross-Level - related DEP: CLCI-Net Cross-Level - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-CLCI-Net Cross-Level/clci_net_cross_level_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-SOC%20Semantic-Assisted - related DEP: SOC Semantic-Assisted - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-SOC Semantic-Assisted/soc_semantic_assisted_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

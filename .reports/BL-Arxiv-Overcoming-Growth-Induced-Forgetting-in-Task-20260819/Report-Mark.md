@@ -98,7 +98,7 @@ The selected paper contributes a continual, forgetting, growth-induced perspecti
 - https://arxiv.org/html/2408.10566 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2408.10566 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2408.10566 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-InfoCL%20Alleviating - related DEP: InfoCL Alleviating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-InfoCL Alleviating/infocl_alleviating_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-InfoCL%20Alleviating - related DEP: InfoCL Alleviating - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-InfoCL Alleviating/infocl_alleviating_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260817-STRUCTSENSE%20A - related DEP: STRUCTSENSE A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260817-STRUCTSENSE A/structsense_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Make%20Domain%20Shift%20a - related DEP: Make Domain Shift a - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Make Domain Shift a/make_domain_shift_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

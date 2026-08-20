@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, augmented, bridge perspective. The t
 - https://arxiv.org/html/2603.26668 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.26668 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.26668 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Fishing%20for%20Answers - related DEP: Fishing for Answers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fishing for Answers/fishing_for_answers_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Retrieval - related DEP: Learning Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Retrieval/learning_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Fishing%20for%20Answers - related DEP: Fishing for Answers - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Fishing for Answers/fishing_for_answers_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Retrieval - related DEP: Learning Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Retrieval/learning_retrieval_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

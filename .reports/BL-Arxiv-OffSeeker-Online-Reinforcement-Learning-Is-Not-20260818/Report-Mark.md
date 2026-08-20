@@ -97,7 +97,7 @@ The selected paper contributes a agents, need, offseeker perspective. The three 
 - https://arxiv.org/html/2601.18467 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.18467 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.18467 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

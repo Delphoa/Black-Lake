@@ -95,7 +95,7 @@ The selected paper contributes a inference-time, llm, navigating perspective. Th
 - https://arxiv.org/html/2505.14140 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.14140 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.14140 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Document%20Fraud%20LLM - related DEP: Document Fraud LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260715-Document Fraud LLM/document_fraud_llm_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

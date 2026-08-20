@@ -95,7 +95,7 @@ The selected paper contributes a alignment, dual-stream, language-image perspect
 - https://arxiv.org/html/2403.10635 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.10635 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.10635 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Boundary%20and - related DEP: Boundary and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Boundary and/boundary_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-Generalizable%20CT-Free%20PET - related DEP: Generalizable CT-Free PET - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-Generalizable CT-Free PET/generalizable_ct_free_pet_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a acceleration, adaptive-precision, adip perspect
 - https://arxiv.org/html/2510.10623 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.10623 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.10623 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Private%20Matrix - related DEP: Private Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Private Matrix/private_matrix_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Nonconvex%20Optimization - related DEP: Nonconvex Optimization - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Nonconvex Optimization/nonconvex_optimization_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

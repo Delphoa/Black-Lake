@@ -95,7 +95,7 @@ The selected paper contributes a certified, client, federated perspective. The t
 - https://arxiv.org/html/2404.09724 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.09724 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.09724 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-Separate%20the%20Wheat%20from - related DEP: Separate the Wheat from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Separate the Wheat from/separate_the_wheat_from_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Data-Free - related DEP: Data-Free - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Data-Free/data_free_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-Separate%20the%20Wheat%20from - related DEP: Separate the Wheat from - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-Separate the Wheat from/separate_the_wheat_from_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

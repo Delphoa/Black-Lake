@@ -95,7 +95,7 @@ The selected paper contributes a incomplete, light, mlp perspective. The three r
 - https://arxiv.org/html/2502.12587 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.12587 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.12587 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-Light%20the%20Night%20A - related DEP: Light the Night A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-Light the Night A/light_the_night_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-CorrKD%20Missing%20Modal - related DEP: CorrKD Missing Modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-CorrKD Missing Modal/corrkd_missing_modal_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

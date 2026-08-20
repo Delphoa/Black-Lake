@@ -95,7 +95,7 @@ The selected paper contributes a adaptation, eyes, feast perspective. The three 
 - https://arxiv.org/html/2403.03003 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2403.03003 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2403.03003 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Get%20Your%20Embedding%20Space - related DEP: Get Your Embedding Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space/get_your_embedding_space_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Drag%20Your%20GAN%20Interactive - related DEP: Drag Your GAN Interactive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive/drag_your_gan_interactive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Get%20Your%20Embedding%20Space - related DEP: Get Your Embedding Space - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Get Your Embedding Space/get_your_embedding_space_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Drag%20Your%20GAN%20Interactive - related DEP: Drag Your GAN Interactive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Drag Your GAN Interactive/drag_your_gan_interactive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Adapt%20as%20You%20Say%20Online - related DEP: Adapt as You Say Online - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Adapt as You Say Online/adapt_as_you_say_online_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

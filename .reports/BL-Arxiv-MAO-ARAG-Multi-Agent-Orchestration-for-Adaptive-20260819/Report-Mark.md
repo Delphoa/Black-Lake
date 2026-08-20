@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, generation, mao-arag perspective. The
 - https://arxiv.org/html/2508.01005 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.01005 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.01005 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving - related DEP: Improving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving/improving_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Agent2World%20Learning%20to - related DEP: Agent2World Learning to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agent2World Learning to/agent2world_learning_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving - related DEP: Improving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving/improving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Agent2World%20Learning%20to - related DEP: Agent2World Learning to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Agent2World Learning to/agent2world_learning_to_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

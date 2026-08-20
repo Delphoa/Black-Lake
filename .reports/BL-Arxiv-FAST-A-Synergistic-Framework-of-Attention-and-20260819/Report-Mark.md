@@ -98,7 +98,7 @@ The selected paper contributes a attention, fast, prediction perspective. The th
 - https://arxiv.org/html/2604.13453 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2604.13453 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2604.13453 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-FairTP%20A%20Prolonged - related DEP: FairTP A Prolonged - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-FairTP A Prolonged/fairtp_a_prolonged_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-FairTP%20A%20Prolonged - related DEP: FairTP A Prolonged - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-FairTP A Prolonged/fairtp_a_prolonged_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

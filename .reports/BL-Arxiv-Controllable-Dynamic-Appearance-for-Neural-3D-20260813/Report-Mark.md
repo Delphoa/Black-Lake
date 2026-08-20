@@ -95,7 +95,7 @@ The selected paper contributes a appearance, controllable, dynamic perspective. 
 - https://arxiv.org/html/2309.11009 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.11009 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.11009 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC - related DEP: Self-Learned IDC - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-4DContrast%20Contrastive - related DEP: 4DContrast Contrastive Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-4DContrast Contrastive/4dcontrast_contrastive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a content, creation, dreamgaussian perspective. T
 - https://arxiv.org/html/2309.16653 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2309.16653 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2309.16653 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260811-Periodic%20Vibration - related DEP: Periodic Vibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Periodic Vibration/periodic_vibration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-OMGEval%20Benchmark - related DEP: OMGEval Benchmark - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-OMGEval Benchmark/omgeval_benchmark_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260811-Periodic%20Vibration - related DEP: Periodic Vibration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260811-Periodic Vibration/periodic_vibration_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

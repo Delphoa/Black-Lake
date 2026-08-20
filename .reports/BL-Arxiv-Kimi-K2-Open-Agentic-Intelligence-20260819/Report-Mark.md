@@ -97,7 +97,7 @@ The selected paper contributes a agentic, intelligence, kimi perspective. The th
 - https://arxiv.org/html/2507.20534 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2507.20534 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2507.20534 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Agentic%20Design%20of - related DEP: Agentic Design of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Agentic Design of/agentic_design_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-Kimi%20K2%205%20Visual%20Agentic - related DEP: Kimi K2 5 Visual Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-Kimi K2 5 Visual Agentic/kimi_k2_5_visual_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Agentic%20Design%20of - related DEP: Agentic Design of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Agentic Design of/agentic_design_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260806-PreGenie%20Slides - related DEP: PreGenie Slides - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260806-PreGenie Slides/pregenie_slides_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

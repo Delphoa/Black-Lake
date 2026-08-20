@@ -81,9 +81,9 @@ The real-world experiment reconstructs a rhinoceros beetle from 40 projections o
 
 ## Related DEP Entries
 
-1. [Hypercomplex MRI manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md) - both works reconstruct medical images from undersampled measurements and use representation design to preserve information. Hypercomplex MRI emphasizes compact learned channel coupling; RGS emphasizes a frequency-aware explicit attenuation field. Source basis: the inspected DEP manuscript's method, FastMRI setup, PSNR/SSIM tables, and limitations.
-2. [AFIDAF Vision Filters manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md) - both assign complementary roles to spatial and spectral operators rather than forcing one representation to solve every scale. AFIDAF alternates image-domain filtering and Fourier mixing; RGS uses wavelet saliency to initialize spatial detail and raw-projection fitting to preserve physical consistency. Source basis: the inspected DEP method and ablation notes.
-3. [CAR Avatar manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md) - both recover a 3D object from severely incomplete observations using explicit priors and staged refinement. CAR separates canonical coarse geometry from posed-space surface detail; RGS separates base attenuation from residual detail. Source basis: the inspected DEP's two-stage SDF method, experiments, and limitations.
+1. [Hypercomplex MRI manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md) - both works reconstruct medical images from undersampled measurements and use representation design to preserve information. Hypercomplex MRI emphasizes compact learned channel coupling; RGS emphasizes a frequency-aware explicit attenuation field. Source basis: the inspected DEP manuscript's method, FastMRI setup, PSNR/SSIM tables, and limitations.
+2. [AFIDAF Vision Filters manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md) - both assign complementary roles to spatial and spectral operators rather than forcing one representation to solve every scale. AFIDAF alternates image-domain filtering and Fourier mixing; RGS uses wavelet saliency to initialize spatial detail and raw-projection fitting to preserve physical consistency. Source basis: the inspected DEP method and ablation notes.
+3. [CAR Avatar manuscript](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md) - both recover a 3D object from severely incomplete observations using explicit priors and staged refinement. CAR separates canonical coarse geometry from posed-space surface detail; RGS separates base attenuation from residual detail. Source basis: the inspected DEP's two-stage SDF method, experiments, and limitations.
 
 ## Synthesis Note
 
@@ -180,10 +180,10 @@ def review_card(measured, forward_project, volume):
   - Applies to: persistent arXiv identifier.
 - Source URL: https://github.com/yqx7150/RGS
   - Applies to: current implementation-availability assessment.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-Hypercomplex%20MRI/hypercomplex_mri_manuscript.md
   - Applies to: related medical reconstruction and representation synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-AFIDAF%20Vision%20Filters/afidaf_vision_filters_manuscript.md
   - Applies to: related spectral-spatial operator synthesis.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-Clothed%20Avatar%20CAR/clothed_avatar_car_manuscript.md
   - Applies to: related sparse-observation 3D reconstruction synthesis.
 - Source-file policy: the source PDF, full-paper HTML, metadata HTML, e-print package, integrity records, extracted text, and temporary renders were retained locally and were not uploaded.

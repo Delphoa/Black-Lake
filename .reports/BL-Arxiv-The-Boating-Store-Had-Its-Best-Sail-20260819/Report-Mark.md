@@ -97,7 +97,7 @@ The selected paper contributes a best, boating, contextualized perspective. The 
 - https://arxiv.org/html/2004.14457 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2004.14457 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2004.14457 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-Relational%20Contrastive - related DEP: Relational Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Relational Contrastive/relational_contrastive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-RAR%20Visual%20Reranking - related DEP: RAR Visual Reranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-RAR Visual Reranking/rar_visual_reranking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-CrossNER%20Adapt - related DEP: CrossNER - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-CrossNER Adapt/crossner_domain_adaptation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-Relational%20Contrastive - related DEP: Relational Contrastive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-Relational Contrastive/relational_contrastive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

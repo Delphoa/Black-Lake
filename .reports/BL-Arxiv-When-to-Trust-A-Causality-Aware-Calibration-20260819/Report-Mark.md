@@ -98,7 +98,7 @@ The selected paper contributes a accurate, calibration, causality-aware perspect
 - https://arxiv.org/html/2601.09241 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.09241 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.09241 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Knowledge%20Graph - related DEP: Knowledge Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Knowledge Graph/knowledge_graph_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-When%20Machine%20Unlearning - related DEP: When Machine Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-When Machine Unlearning/when_machine_unlearning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-BubbleRAG%20Evidence-Driven - related DEP: BubbleRAG Evidence-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BubbleRAG Evidence-Driven/bubblerag_evidence_driven_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Knowledge%20Graph - related DEP: Knowledge Graph - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Knowledge Graph/knowledge_graph_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-When%20Machine%20Unlearning - related DEP: When Machine Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-When Machine Unlearning/when_machine_unlearning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-BubbleRAG%20Evidence-Driven - related DEP: BubbleRAG Evidence-Driven - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BubbleRAG Evidence-Driven/bubblerag_evidence_driven_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

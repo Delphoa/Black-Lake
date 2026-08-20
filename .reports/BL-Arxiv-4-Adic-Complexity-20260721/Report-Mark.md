@@ -95,7 +95,7 @@ The selected paper contributes a sequences, quaternary, complexity perspective. 
 - https://ar5iv.labs.arxiv.org/html/2209.10279 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2209.10279 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2209.10279 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Context%20Backdoor - related DEP: Context Backdoor Defense - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Integrals%20and%20Rigidity - related DEP: Integrals and Rigidity - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Adversarial%20Label%20Noise - related DEP: Adversarial Label Noise - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

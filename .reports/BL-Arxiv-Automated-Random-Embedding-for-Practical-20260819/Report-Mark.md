@@ -98,7 +98,7 @@ The selected paper contributes a automated, bayesian, dimension perspective. The
 - https://arxiv.org/html/2605.23473 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.23473 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.23473 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-Latent-IMH%20Efficient - related DEP: Latent-IMH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Latent-IMH Efficient/latent_imh_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-Latent-IMH%20Efficient - related DEP: Latent-IMH Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-Latent-IMH Efficient/latent_imh_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Ensemble%20Search - related DEP: Neural Ensemble Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Ensemble Search/neural_ensemble_search_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

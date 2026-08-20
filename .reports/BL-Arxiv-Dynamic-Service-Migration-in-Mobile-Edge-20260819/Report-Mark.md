@@ -98,7 +98,7 @@ The selected paper contributes a computing, decision, dynamic perspective. The t
 - https://arxiv.org/html/1506.05261 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1506.05261 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1506.05261 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-EdgeSlice%20Slicing - related DEP: EdgeSlice Slicing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-EdgeSlice Slicing/edgeslice_slicing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a actions, arpg, dynamic perspective. The three r
 - https://arxiv.org/html/2603.23497 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.23497 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.23497 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Generative - related DEP: Improving Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Generative/improving_generative_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Generative - related DEP: Improving Generative - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Generative/improving_generative_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Data-driven%20Modeling%20of - related DEP: Data-driven Modeling of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Data-driven Modeling of/data_driven_modeling_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-In-Context%20World%20Modeling - related DEP: In-Context World Modeling - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-In-Context World Modeling/in_context_world_modeling_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

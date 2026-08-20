@@ -98,7 +98,7 @@ The selected paper contributes a enhancing, llm, reasoning perspective. The thre
 - https://arxiv.org/html/2411.11694 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2411.11694 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2411.11694 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhancing%20Reasoning - related DEP: Enhancing Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhancing Reasoning/enhancing_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Graph-O1%20Monte%20Carlo%20Tree - related DEP: Graph-O1 Monte Carlo Tree - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Graph-O1 Monte Carlo Tree/graph_o1_monte_carlo_tree_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-CoLVR%20Enhancing - related DEP: CoLVR Enhancing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-CoLVR Enhancing/colvr_enhancing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

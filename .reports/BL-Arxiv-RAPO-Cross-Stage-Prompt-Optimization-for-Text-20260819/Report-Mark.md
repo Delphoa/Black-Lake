@@ -98,7 +98,7 @@ The selected paper contributes a alignment, cross-stage, generation perspective.
 - https://arxiv.org/html/2510.20206 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.20206 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.20206 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-VPO%20Aligning - related DEP: VPO Aligning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VPO Aligning/vpo_aligning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20Devil%20is%20in%20the - related DEP: The Devil is in the - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The Devil is in the/the_devil_is_in_the_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-VPO%20Aligning - related DEP: VPO Aligning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-VPO Aligning/vpo_aligning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPO%20Dual-Perturbation - related DEP: DPO Dual-Perturbation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPO Dual-Perturbation/dpo_dual_perturbation_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

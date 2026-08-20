@@ -95,7 +95,7 @@ The selected paper contributes a development, webuibench, benchmark perspective.
 - https://arxiv.org/html/2506.07818 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.07818 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.07818 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-OmniSQL%20Synthesizing - related DEP: OmniSQL Synthesizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing/omnisql_synthesizing_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Efficient%20FM%20Survey - related DEP: Efficient FM Survey - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Efficient FM Survey/efficient_fm_survey_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-OmniSQL%20Synthesizing - related DEP: OmniSQL Synthesizing - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-OmniSQL Synthesizing/omnisql_synthesizing_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

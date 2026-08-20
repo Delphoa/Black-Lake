@@ -98,7 +98,7 @@ The selected paper contributes a rapl, relation-aware, prototype perspective. Th
 - https://ar5iv.labs.arxiv.org/html/2310.15743 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.15743 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.15743 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Semantic%20Skill%20MoE - related DEP: Semantic Skill MoE Policies; source basis `.lake-data/DEP-E/DEP-E-20260719-Semantic Skill MoE/semantic_skill_moe_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-ViT Semantic Robustness/vit_semantic_robustness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-Few%20shot%20Multi%20label - related DEP: Few shot Multi label Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-Few shot Multi label/few_shot_multi_label_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

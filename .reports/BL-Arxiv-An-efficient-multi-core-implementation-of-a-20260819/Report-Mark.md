@@ -98,7 +98,7 @@ The selected paper contributes a hss-structured, multi-core, multifrontal perspe
 - https://arxiv.org/html/1502.07405 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1502.07405 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1502.07405 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE - related DEP: DPM-Solver A Fast ODE - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPM-Solver A Fast ODE/dpm_solver_a_fast_ode_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Differentiable%20Solver - related DEP: Differentiable Solver - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable Solver/differentiable_solver_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DPM-Solver%20A%20Fast%20ODE - related DEP: DPM-Solver A Fast ODE - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DPM-Solver A Fast ODE/dpm_solver_a_fast_ode_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Differentiable%20Solver - related DEP: Differentiable Solver - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Differentiable Solver/differentiable_solver_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-RPDG%20Incremental%20Grad - related DEP: RPDG Incremental Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-RPDG Incremental Grad/rpdg_incremental_gradient_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

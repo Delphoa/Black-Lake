@@ -98,7 +98,7 @@ The selected paper contributes a confined, environments, floating-base perspecti
 - https://arxiv.org/html/2602.22459 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2602.22459 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TASE.2026.3669051 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260805-RetinaGAN%20Sim-to-Real - related DEP: RetinaGAN Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-RetinaGAN Sim-to-Real/retinagan_sim_to_real_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-SAGE-Nav%20Review - related DEP: SAGE-Nav Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-SAGE-Nav Review/sage_nav_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260805-RetinaGAN%20Sim-to-Real - related DEP: RetinaGAN Transfer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260805-RetinaGAN Sim-to-Real/retinagan_sim_to_real_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-ManipulationNet%20An - related DEP: ManipulationNet An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-ManipulationNet An/manipulationnet_an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-SAGE-Nav%20Review - related DEP: SAGE-Nav Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-SAGE-Nav Review/sage_nav_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

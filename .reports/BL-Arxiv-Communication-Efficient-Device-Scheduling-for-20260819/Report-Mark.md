@@ -98,7 +98,7 @@ The selected paper contributes a communication-efficient, device, federated pers
 - https://arxiv.org/html/2503.00569 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.00569 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.00569 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20Federated - related DEP: Accelerating Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Federated/accelerating_federated_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Certifying%20the%20Right%20to - related DEP: Certifying the Right to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Certifying the Right to/certifying_the_right_to_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Federated%20Split%20Learning - related DEP: Federated Split Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Split Learning/federated_split_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20Federated - related DEP: Accelerating Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating Federated/accelerating_federated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Certifying%20the%20Right%20to - related DEP: Certifying the Right to - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Certifying the Right to/certifying_the_right_to_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Federated%20Split%20Learning - related DEP: Federated Split Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Split Learning/federated_split_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, alignment, complex perspective. The 
 - https://arxiv.org/html/2302.14323 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.14323 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1007/978-981-99-8761-0_13 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Exploring%20Self-supervised - related DEP: Exploring Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Exploring Self-supervised/exploring_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260809-Discriminative%20and - related DEP: Discriminative and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260809-Discriminative and/discriminative_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Exploring%20Self-supervised - related DEP: Exploring Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Exploring Self-supervised/exploring_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Know%20You%20First%20and%20Be%20You - related DEP: Know You First and Be You - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Know You First and Be You/know_you_first_and_be_you_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

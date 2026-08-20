@@ -98,7 +98,7 @@ The selected paper contributes a deraining, dynamic, filter perspective. The thr
 - https://arxiv.org/html/2505.16811 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.16811 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.16811 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-SADD%20RNB - related DEP: SADD RNB - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-SADD RNB/sadd_rnb_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-SADD%20RNB - related DEP: SADD RNB - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-SADD RNB/sadd_rnb_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-RawBMamba - related DEP: RawBMamba Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-RawBMamba/rawbmamba_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

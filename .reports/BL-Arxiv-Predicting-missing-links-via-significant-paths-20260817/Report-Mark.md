@@ -95,7 +95,7 @@ The selected paper contributes a links, missing, paths perspective. The three re
 - https://arxiv.org/html/1402.6225 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1402.6225 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1209/0295-5075/106/18008 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Dataset%20Baselines - related DEP: Dataset Baselines Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Dataset Baselines/dataset_baselines_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-OS%20Minimum%20Paths - related DEP: OS Minimum Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-OS Minimum Paths/os_minimum_paths_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Dataset%20Baselines - related DEP: Dataset Baselines Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Dataset Baselines/dataset_baselines_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-OS%20Minimum%20Paths - related DEP: OS Minimum Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-OS Minimum Paths/os_minimum_paths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-DMNN%20Conditional%20Paths - related DEP: DMNN Conditional Paths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-DMNN Conditional Paths/dmnn_conditional_paths_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

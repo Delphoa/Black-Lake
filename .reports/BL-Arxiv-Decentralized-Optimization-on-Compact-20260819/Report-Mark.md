@@ -98,7 +98,7 @@ The selected paper contributes a compact, decentralized, gradient perspective. T
 - https://arxiv.org/html/2506.07351 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.07351 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.07351 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decentralized - related DEP: Decentralized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decentralized/decentralized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Last-Iterate%20Convergence - related DEP: Last-Iterate Convergence - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Last-Iterate Convergence/last_iterate_convergence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Hierarchical%20Gradient - related DEP: A Hierarchical Gradient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Hierarchical Gradient/a_hierarchical_gradient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decentralized - related DEP: Decentralized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decentralized/decentralized_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

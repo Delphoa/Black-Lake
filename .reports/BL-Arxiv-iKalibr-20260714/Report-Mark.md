@@ -84,9 +84,9 @@ Exactly three entries were selected and inspected:
 
 | Related DEP | Concrete overlap | Source basis |
 |---|---|---|
-| [HERMES World Model](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md) | HERMES compresses six camera views into BEV and renders current/future LiDAR-like geometry. Extrinsic or timing error can masquerade as world-model error, so iKalibr supplies an upstream spatial-temporal integrity contract. | The related manuscript reviews arXiv:2501.14729, its accepted ICCV paper, and official repository, including multi-camera/LiDAR BEV and point-cloud evidence. |
-| [LA-Pose Latent Action](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action/la_pose_latent_action_manuscript.md) | LA-Pose learns relative camera motion from video; iKalibr estimates physical sensor motion and timing with inertial constraints. They meet at identifiability, metric scale, continuous motion, and evaluation ground truth. | The related manuscript reviews arXiv:2604.27448 and its official project page, including camera-pose metrics, temporal sampling, scale, and motion-regime failures. |
-| [Self-Learned IDC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md) | The driving controller consumes camera, radar, and LiDAR observations. Calibration error changes perceived actor position, velocity, and timing, so safety margins must account for calibration version and uncertainty. | The related manuscript reviews arXiv:2110.12359, its mixed-traffic sensor model, state representation, and simulated control/safety metrics. |
+| [HERMES World Model](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md) | HERMES compresses six camera views into BEV and renders current/future LiDAR-like geometry. Extrinsic or timing error can masquerade as world-model error, so iKalibr supplies an upstream spatial-temporal integrity contract. | The related manuscript reviews arXiv:2501.14729, its accepted ICCV paper, and official repository, including multi-camera/LiDAR BEV and point-cloud evidence. |
+| [LA-Pose Latent Action](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action/la_pose_latent_action_manuscript.md) | LA-Pose learns relative camera motion from video; iKalibr estimates physical sensor motion and timing with inertial constraints. They meet at identifiability, metric scale, continuous motion, and evaluation ground truth. | The related manuscript reviews arXiv:2604.27448 and its official project page, including camera-pose metrics, temporal sampling, scale, and motion-regime failures. |
+| [Self-Learned IDC](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md) | The driving controller consumes camera, radar, and LiDAR observations. Calibration error changes perceived actor position, velocity, and timing, so safety margins must account for calibration version and uncertainty. | The related manuscript reviews arXiv:2110.12359, its mixed-traffic sensor model, state representation, and simulated control/safety metrics. |
 
 ## Synthesis Note
 
@@ -221,12 +221,12 @@ Every experiment should preserve this chain in its manifest and should test how 
 - Source URL: https://github.com/Unsigned-Long/iKalibr
   - Applies to: implementation availability, feature-evolution, build, and license observations.
   - Notes: Official repository inspected at the pinned public commit; code not run.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HERMES%20World%20Model/hermes_world_model_manuscript.md
   - Applies to: related-entry world-model synthesis.
   - Notes: Processed Black Lake artifact; not validation evidence for iKalibr.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-LA-Pose%20Latent%20Action/la_pose_latent_action_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-LA-Pose%20Latent%20Action/la_pose_latent_action_manuscript.md
   - Applies to: related-entry pose/identifiability synthesis.
   - Notes: Processed Black Lake artifact; not validation evidence for iKalibr.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Self%20Learned%20IDC/self_learned_idc_manuscript.md
   - Applies to: related-entry downstream-control synthesis.
   - Notes: Processed Black Lake artifact; not validation evidence for iKalibr.

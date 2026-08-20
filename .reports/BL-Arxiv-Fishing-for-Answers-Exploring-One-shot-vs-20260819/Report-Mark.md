@@ -98,7 +98,7 @@ The selected paper contributes a retrieval, answers, augmented perspective. The 
 - https://arxiv.org/html/2509.04820 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2509.04820 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2509.04820 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260803-One-shot%20neural%20band - related DEP: One-shot neural band - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-One-shot neural band/one_shot_neural_band_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-One-shot%20Adaptation%20of - related DEP: One-shot Adaptation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-One-shot Adaptation of/one_shot_adaptation_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260803-One-shot%20neural%20band - related DEP: One-shot neural band - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260803-One-shot neural band/one_shot_neural_band_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260813-Contour%20Transformer - related DEP: Contour Transformer - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260813-Contour Transformer/contour_transformer_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-One-shot%20Adaptation%20of - related DEP: One-shot Adaptation of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-One-shot Adaptation of/one_shot_adaptation_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

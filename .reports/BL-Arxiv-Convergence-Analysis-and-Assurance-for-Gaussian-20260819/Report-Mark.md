@@ -98,7 +98,7 @@ The selected paper contributes a assurance, convergence, detector perspective. T
 - https://arxiv.org/html/1606.06408 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1606.06408 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TWC.2016.2585481 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Sparse%20Vector%20Recovery - related DEP: Sparse Vector Recovery - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery/sparse_vector_recovery_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Sparse%20Vector%20Recovery - related DEP: Sparse Vector Recovery - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Sparse Vector Recovery/sparse_vector_recovery_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-Compressed%20CSI%20Feedback - related DEP: Compressed CSI Feedback - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-Compressed CSI Feedback/compressed_csi_feedback_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Low-Complexity - related DEP: Low-Complexity - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Low-Complexity/low_complexity_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

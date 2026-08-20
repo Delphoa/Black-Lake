@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, corruption-tolerant, descent perspec
 - https://arxiv.org/html/2407.14111 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.14111 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.14111 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL - related DEP: GPMD Regularized RL - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-GPMD Regularized RL/gpmd_regularized_rl_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Sample%20Complexity%20of - related DEP: Sample Complexity of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Sample Complexity of/sample_complexity_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Multi-Step%20Alignment%20as - related DEP: Multi-Step Alignment as - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Multi-Step Alignment as/multi_step_alignment_as_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

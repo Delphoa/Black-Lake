@@ -95,7 +95,7 @@ The selected paper contributes a depth, satellite, sat3r perspective. The three 
 - https://arxiv.org/html/2605.07264 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2605.07264 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2605.07264 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Urban%20Visual%20Intelligence - related DEP: Urban Visual Intelligence Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Urban Visual Intelligence/urban_visual_intelligence_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Urban%20Visual%20Intelligence - related DEP: Urban Visual Intelligence Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Urban Visual Intelligence/urban_visual_intelligence_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Beyond%20Feature%20Mapping - related DEP: Beyond Feature Mapping Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Beyond Feature Mapping/beyond_feature_mapping_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Schwarz%20Neural%20Inference - related DEP: Schwarz Neural Inference - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Schwarz Neural Inference/schwarz_neural_inference_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

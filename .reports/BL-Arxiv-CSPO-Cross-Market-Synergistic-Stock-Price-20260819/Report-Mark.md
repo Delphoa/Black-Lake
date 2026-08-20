@@ -98,7 +98,7 @@ The selected paper contributes a cross-market, cspo, forecasting perspective. Th
 - https://arxiv.org/html/2503.22740 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2503.22740 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2503.22740 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net%20A%20Temporal - related DEP: ALERTA-Net A Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net A Temporal/alerta_net_a_temporal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-FAST%20A%20Synergistic - related DEP: FAST A Synergistic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FAST A Synergistic/fast_a_synergistic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ALERTA-Net%20A%20Temporal - related DEP: ALERTA-Net A Temporal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ALERTA-Net A Temporal/alerta_net_a_temporal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-FAST%20A%20Synergistic - related DEP: FAST A Synergistic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-FAST A Synergistic/fast_a_synergistic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SLOTH%20Structured%20Learning - related DEP: SLOTH Structured Learning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SLOTH Structured Learning/sloth_structured_learning_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

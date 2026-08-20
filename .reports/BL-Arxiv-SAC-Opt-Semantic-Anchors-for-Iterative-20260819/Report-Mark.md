@@ -98,7 +98,7 @@ The selected paper contributes a anchors, correction, iterative perspective. The
 - https://arxiv.org/html/2510.05115 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.05115 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.05115 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-RAIR%20Retrieval-Augmented - related DEP: RAIR Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RAIR Retrieval-Augmented/rair_retrieval_augmented_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench%20Towards - related DEP: MobileWorldBench Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench Towards/mobileworldbench_towards_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Pantheon%20Personalized - related DEP: Pantheon Personalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Pantheon Personalized/pantheon_personalized_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-RAIR%20Retrieval-Augmented - related DEP: RAIR Retrieval-Augmented - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-RAIR Retrieval-Augmented/rair_retrieval_augmented_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MobileWorldBench%20Towards - related DEP: MobileWorldBench Towards - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MobileWorldBench Towards/mobileworldbench_towards_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Pantheon%20Personalized - related DEP: Pantheon Personalized - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Pantheon Personalized/pantheon_personalized_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

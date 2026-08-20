@@ -98,7 +98,7 @@ The selected paper contributes a multi-step, problem, solving perspective. The t
 - https://arxiv.org/html/2402.02658 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2402.02658 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2402.02658 - durable paper identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Judge%20Conformal - related DEP: Judge Conformal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Reliability%20Proof%20Chains - related DEP: Reliability Proof Chains - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Reliability Proof Chains/reliability-proof-chains.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Judge%20Conformal - related DEP: Judge Conformal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Judge Conformal/llm_judge_conformal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-DASD%20Reasoning - related DEP: DASD Reasoning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-DASD Reasoning/dasd_reasoning_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Reliability%20Proof%20Chains - related DEP: Reliability Proof Chains - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Reliability Proof Chains/reliability-proof-chains.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, integrity records, and local companions; all withheld locally.

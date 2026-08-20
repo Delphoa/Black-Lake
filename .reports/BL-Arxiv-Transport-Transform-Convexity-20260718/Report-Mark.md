@@ -209,12 +209,12 @@ CASES = (
 - Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9090194/
   - Applies to: public journal full-text cross-check.
   - Notes: Public primary/near-primary record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md
   - Applies to: related representation/physical-model synthesis.
   - Notes: Related DEP entry only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
   - Applies to: related convex-optimization synthesis.
   - Notes: Related DEP entry only.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-Learn%20to%20Pool/2607.06036-whitepaper-review.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-Learn%20to%20Pool/2607.06036-whitepaper-review.md
   - Applies to: related representation-adaptation synthesis.
   - Notes: Related DEP entry only.

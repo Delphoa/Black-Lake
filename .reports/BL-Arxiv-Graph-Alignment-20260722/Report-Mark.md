@@ -95,7 +95,7 @@ The selected paper contributes a alignment, graphau, uniformity perspective. ViT
 - https://ar5iv.labs.arxiv.org/html/2308.09292 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2308.09292 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1145/3583780.3615185 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-ViT%20Semantic%20Robustness - related DEP: ViT Semantic Robustness - DEP-E.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-Kernel%20Equivalence - related DEP: Kernel Equivalence Tests.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-Decentralized%20SSL - related DEP: Decentralized SSL Review - DEP-E.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

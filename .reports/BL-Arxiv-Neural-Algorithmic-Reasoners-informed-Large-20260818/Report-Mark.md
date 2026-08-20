@@ -97,7 +97,7 @@ The selected paper contributes a algorithmic, finding, informed perspective. The
 - https://arxiv.org/html/2508.17971 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.17971 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.17971 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260727-LogiAgent%20REST - related DEP: LogiAgent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-LogiAgent REST/logiagent_rest_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260727-LogiAgent%20REST - related DEP: LogiAgent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260727-LogiAgent REST/logiagent_rest_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-MA-VLM%20PNU%20Moderation - related DEP: MA-VLM Moderation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260719-MA-VLM PNU Moderation/ma_vlm_pnu_moderation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-CogEvo%20Edu%20Agents - related DEP: CogEvo-Edu - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-CogEvo Edu Agents/cogevo_edu_agents_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

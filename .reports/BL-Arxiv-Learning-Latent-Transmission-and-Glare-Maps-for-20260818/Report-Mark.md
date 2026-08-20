@@ -95,7 +95,7 @@ The selected paper contributes a glare, latent, lens perspective. The three rela
 - https://arxiv.org/html/2511.17353 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.17353 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.17353 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260725-Removal%20then%20Selection%20A - related DEP: Removal then Selection A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Removal then Selection A/removal_then_selection_a_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260721-Controlling%20Latent - related DEP: Controlling Latent Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260721-Controlling Latent/controlling_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260725-Removal%20then%20Selection%20A - related DEP: Removal then Selection A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260725-Removal then Selection A/removal_then_selection_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

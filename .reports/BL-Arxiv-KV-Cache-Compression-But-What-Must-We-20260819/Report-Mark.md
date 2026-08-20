@@ -98,7 +98,7 @@ The selected paper contributes a approaches, benchmark, but perspective. The thr
 - https://arxiv.org/html/2407.01527 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.01527 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.01527 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-TL%20DR%20Too%20Long%20Do - related DEP: TL DR Too Long Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-TL DR Too Long Do/tl_dr_too_long_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Are%20LLMs%20Capable%20of - related DEP: Are LLMs Capable of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Are LLMs Capable of/are_llms_capable_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -244,12 +244,12 @@ The checkpoint fields are illustrative. A real solver must define computable, pr
 - Source URL: https://dblp.org/rec/journals/mp/LanZ18
   - Applies to: venue, volume, pages, year, and DOI cross-check.
   - Notes: Bibliographic record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine/epsilon_prox_affine_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine/epsilon_prox_affine_manuscript.md
   - Applies to: proximal/affine solver-cost relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RPDG.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260728-Local%20Stochastic%20Bilevel/local_stochastic_bilevel_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Local%20Stochastic%20Bilevel/local_stochastic_bilevel_manuscript.md
   - Applies to: stochastic-gradient and variance-reduction relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RPDG.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-GPMD%20Regularized%20RL/gpmd_regularized_rl_manuscript.md
   - Applies to: Bregman-geometry and bounded-error convergence relationship and synthesis.
   - Notes: Related processed artifact; its claims do not validate RPDG.

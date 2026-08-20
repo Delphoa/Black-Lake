@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, clustering, density perspective. The
 - https://arxiv.org/html/2203.00973 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2203.00973 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/ACCESS.2022.3190958 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Federated%20Matrix - related DEP: Federated Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Matrix/federated_matrix_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Federated%20Matrix - related DEP: Federated Matrix - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Federated Matrix/federated_matrix_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Image%20Clustering - related DEP: Image Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Image Clustering/image_clustering_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

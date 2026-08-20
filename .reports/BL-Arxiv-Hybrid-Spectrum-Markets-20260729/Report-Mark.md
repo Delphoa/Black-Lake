@@ -19,9 +19,9 @@ The paper combines futures contracts and spot transactions for secondary-spectru
 
 ## Related DEP Entries
 
-1. [2D-RC OTFS](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md) — structured wireless allocation; source basis: arXiv:2311.08543.
-2. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) — digital-twin and control-boundary context.
-3. [SIM MARL Power](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power/sim_marl_power_manuscript.md) — simulation-only coupled wireless allocation; source basis: arXiv:2502.19675.
+1. [2D-RC OTFS](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md) — structured wireless allocation; source basis: arXiv:2311.08543.
+2. [Telecom AI Roadmap](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-Telecom%20AI%20Roadmap/telecom_ai_roadmap_manuscript.md) — digital-twin and control-boundary context.
+3. [SIM MARL Power](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power/sim_marl_power_manuscript.md) — simulation-only coupled wireless allocation; source basis: arXiv:2502.19675.
 
 ## Synthesis Note
 

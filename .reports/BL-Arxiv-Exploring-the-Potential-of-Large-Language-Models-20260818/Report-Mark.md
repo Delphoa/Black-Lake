@@ -95,7 +95,7 @@ The selected paper contributes a exploring, graphs, language perspective. The th
 - https://arxiv.org/html/2307.03393 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2307.03393 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2307.03393 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260810-Exploring%20Self-supervised - related DEP: Exploring Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Exploring Self-supervised/exploring_self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-LTRDetector%20Exploring - related DEP: LTRDetector Exploring Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-LTRDetector Exploring/ltrdetector_exploring_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260810-Exploring%20Self-supervised - related DEP: Exploring Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260810-Exploring Self-supervised/exploring_self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260729-Link%20Prediction%20on%20Latent - related DEP: Link Prediction on Latent - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260729-Link Prediction on Latent/link_prediction_on_latent_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

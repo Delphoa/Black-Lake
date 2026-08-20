@@ -98,7 +98,7 @@ The selected paper contributes a agentic, basic, context perspective. The three 
 - https://arxiv.org/html/2606.25656 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.25656 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.25656 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Frequency%20Fitness - related DEP: Frequency Fitness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Frequency Fitness/frequency_fitness_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Frequency%20Fitness - related DEP: Frequency Fitness - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Frequency Fitness/frequency_fitness_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DecEx-RAG%20Boosting - related DEP: DecEx-RAG Boosting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DecEx-RAG Boosting/decex_rag_boosting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Pushing%20Forward%20Pareto - related DEP: Pushing Forward Pareto - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Pushing Forward Pareto/pushing_forward_pareto_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

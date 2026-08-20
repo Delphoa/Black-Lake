@@ -98,7 +98,7 @@ The selected paper contributes a approximate, inference, latent perspective. The
 - https://arxiv.org/html/1912.01909 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1912.01909 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1912.01909 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Stochastic%20Motion - related DEP: Stochastic Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Stochastic Motion/stochastic_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Constrained%20Variational - related DEP: Constrained Variational - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Constrained Variational/constrained_variational_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260801-High-Order%20Langevin - related DEP: High-Order Langevin - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260801-High-Order Langevin/high_order_langevin_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -216,7 +216,7 @@ The initial harness should use synthetic/public-safe fixtures. Authorized clinic
 - Primary TeX/source package, inspected locally and withheld: https://arxiv.org/e-print/2301.00139
 - Canonical DOI: https://doi.org/10.48550/arXiv.2301.00139
 - Paper-declared code, inspected but not collected or executed: https://github.com/feigroup/high-dimenisional-inference-for-count-data-with-errors/tree/41ca0fb990022015812e0ff53ab01627ddb6d21e
-- Related PAC Confidence DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
-- Related Acoustic Phase Retrieval DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
-- Related Joint Sensing MEC DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260715-Joint%20Sensing%20MEC/joint_sensing_mec_manuscript.md
+- Related PAC Confidence DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260713-PAC%20Confidence/pac_confidence_manuscript.md
+- Related Acoustic Phase Retrieval DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
+- Related Joint Sensing MEC DEP: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260715-Joint%20Sensing%20MEC/joint_sensing_mec_manuscript.md
 - Source-file statement: PDF, full-paper HTML, metadata HTML, TeX/source, cache, extracted text, and code files were withheld locally; none were uploaded.

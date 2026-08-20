@@ -98,7 +98,7 @@ The selected paper contributes a stereo, camera-guided, generation perspective. 
 - https://arxiv.org/html/2603.17375 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.17375 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.17375 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Martian%20World%20Model - related DEP: Martian World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Martian World Model/martian_world_model_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-MoVerse%20Real-Time%20Video - related DEP: MoVerse Real-Time Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoVerse Real-Time Video/moverse_real_time_video_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Martian%20World%20Model - related DEP: Martian World Model - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Martian World Model/martian_world_model_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-MoVerse%20Real-Time%20Video - related DEP: MoVerse Real-Time Video - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-MoVerse Real-Time Video/moverse_real_time_video_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Out%20of%20Sight%20but%20Not%20Out - related DEP: Out of Sight but Not Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Out of Sight but Not Out/out_of_sight_but_not_out_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

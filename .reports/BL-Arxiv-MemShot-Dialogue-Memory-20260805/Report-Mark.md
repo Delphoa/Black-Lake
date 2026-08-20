@@ -45,9 +45,9 @@ The official repository confirms a runnable-shaped, script-based pipeline with r
 
 ## Related DEP Entries
 
-1. [C-DIC Dialogue Memory](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-C-DIC%20Dialogue%20Memory/2606.12411-whitepaper-review.md) - overlaps long-term dialogue memory construction and retrieval, but represents memory as revisable latent thread states rather than rendered visual shots. Source basis: the reviewed DEP's architecture, closed-loop, storage-growth, and LongMemEval sections.
-2. [MemRouter](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-MemRouter/2605.00356-whitepaper-review.md) - overlaps memory-system decomposition and efficiency, especially the separation of write admission, retrieval, and answer generation. Source basis: the reviewed DEP's matched-harness, storage-policy, and latency analysis.
-3. [Agent Memory Forensics](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/DEP-A-20260714-Agent%20Memory%20Forensics/agent-memory-forensics-intake-review.md) - overlaps memory governance, provenance, telemetry, and defensive failure localization. Source basis: the reviewed DEP's evidence model, privacy-minimized trace design, and operational-boundary sections.
+1. [C-DIC Dialogue Memory](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-C-DIC%20Dialogue%20Memory/2606.12411-whitepaper-review.md) - overlaps long-term dialogue memory construction and retrieval, but represents memory as revisable latent thread states rather than rendered visual shots. Source basis: the reviewed DEP's architecture, closed-loop, storage-growth, and LongMemEval sections.
+2. [MemRouter](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-MemRouter/2605.00356-whitepaper-review.md) - overlaps memory-system decomposition and efficiency, especially the separation of write admission, retrieval, and answer generation. Source basis: the reviewed DEP's matched-harness, storage-policy, and latency analysis.
+3. [Agent Memory Forensics](https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-A/Series%20001/DEP-A-20260714-Agent%20Memory%20Forensics/agent-memory-forensics-intake-review.md) - overlaps memory governance, provenance, telemetry, and defensive failure localization. Source basis: the reviewed DEP's evidence model, privacy-minimized trace design, and operational-boundary sections.
 
 ## Synthesis Note
 

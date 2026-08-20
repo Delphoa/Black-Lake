@@ -95,7 +95,7 @@ The selected paper contributes a detection, rgbt, benchmark perspective. The thr
 - https://arxiv.org/html/2406.14482 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2406.14482 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2406.14482 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260711-SSP%20Oriented%20Detection - related DEP: SSP Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260711-SSP%20Oriented%20Detection - related DEP: SSP Detection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260711-SSP Oriented Detection/ssp_oriented_detection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-FEMOT%20Tracking - related DEP: FEMOT Tracking Review - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-FEMOT Tracking/femot_tracking_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

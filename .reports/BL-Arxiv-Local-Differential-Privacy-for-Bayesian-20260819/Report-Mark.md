@@ -98,7 +98,7 @@ The selected paper contributes a bayesian, differential, optimization perspectiv
 - https://arxiv.org/html/2010.06709 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2010.06709 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2010.06709 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Automated%20Random - related DEP: Automated Random - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Random/automated_random_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20adaptive - related DEP: Learning adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning adaptive/learning_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260728-Constrained%20Bayesian - related DEP: Constrained Bayesian - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260728-Constrained Bayesian/constrained_bayesian_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Automated%20Random - related DEP: Automated Random - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Automated Random/automated_random_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

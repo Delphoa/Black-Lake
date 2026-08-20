@@ -98,7 +98,7 @@ The selected paper contributes a interaction, multi-grained, multi-modal perspec
 - https://arxiv.org/html/2404.08027 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2404.08027 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2404.08027 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Revisiting%20Multi-modal - related DEP: Revisiting Multi-modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Revisiting Multi-modal/revisiting_multi_modal_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-X-CLIP%20End-to-End - related DEP: X-CLIP End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-CLIP End-to-End/x_clip_end_to_end_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Revisiting%20Multi-modal - related DEP: Revisiting Multi-modal - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Revisiting Multi-modal/revisiting_multi_modal_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-X-CLIP%20End-to-End - related DEP: X-CLIP End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-X-CLIP End-to-End/x_clip_end_to_end_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-The%20Configuration%20of - related DEP: The Configuration of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-The Configuration of/the_configuration_of_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

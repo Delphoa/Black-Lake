@@ -98,7 +98,7 @@ The selected paper contributes a ensemble, iterative, multi-objective perspectiv
 - https://arxiv.org/html/2505.13894 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2505.13894 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2505.13894 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beetle%20Antennae%20Search - related DEP: Beetle Antennae Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beetle Antennae Search/beetle_antennae_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Framework%20Based%20on - related DEP: A Framework Based on - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Framework Based on/a_framework_based_on_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beetle%20Antennae%20Search - related DEP: Beetle Antennae Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beetle Antennae Search/beetle_antennae_search_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a alphaopt, experience, formulating perspective. 
 - https://arxiv.org/html/2510.18428 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2510.18428 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2510.18428 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RISE%20Self-Improving%20Robot - related DEP: RISE Self-Improving Robot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RISE Self-Improving Robot/rise_self_improving_robot_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-ARPO%20End-to-End%20Policy - related DEP: ARPO End-to-End Policy - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-ARPO End-to-End Policy/arpo_end_to_end_policy_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RISE%20Self-Improving%20Robot - related DEP: RISE Self-Improving Robot - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RISE Self-Improving Robot/rise_self_improving_robot_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260730-Epsilon%20Prox%20Affine - related DEP: Epsilon Prox-Affine - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260730-Epsilon Prox Affine/epsilon_prox_affine_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

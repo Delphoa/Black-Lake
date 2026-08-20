@@ -98,7 +98,7 @@ The selected paper contributes a big, city, electric perspective. The three rela
 - https://arxiv.org/html/1709.08463 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1709.08463 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TITS.2018.2839265 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Improving%20Visual-Semantic - related DEP: Improving Visual-Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Visual-Semantic/improving_visual_semantic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-When%20Traffic%20Flow - related DEP: When Traffic Flow - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-When Traffic Flow/when_traffic_flow_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-HERO%20Hessian-Enhanced - related DEP: HERO Hessian-Enhanced - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-HERO Hessian-Enhanced/hero_hessian_enhanced_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Improving%20Visual-Semantic - related DEP: Improving Visual-Semantic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Improving Visual-Semantic/improving_visual_semantic_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

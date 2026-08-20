@@ -98,7 +98,7 @@ The selected paper contributes a aerial, agent, airspatialbot perspective. The t
 - https://arxiv.org/html/2601.01416 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2601.01416 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2601.01416 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-EagleNet%20Energy-Aware - related DEP: EagleNet Energy-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EagleNet Energy-Aware/eaglenet_energy_aware_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-TDR%20Task-Decoupled - related DEP: TDR Task-Decoupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TDR Task-Decoupled/tdr_task_decoupled_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Beyond%20Model%20Base - related DEP: Beyond Model Base - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Beyond Model Base/beyond_model_base_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-EagleNet%20Energy-Aware - related DEP: EagleNet Energy-Aware - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-EagleNet Energy-Aware/eaglenet_energy_aware_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-TDR%20Task-Decoupled - related DEP: TDR Task-Decoupled - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-TDR Task-Decoupled/tdr_task_decoupled_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

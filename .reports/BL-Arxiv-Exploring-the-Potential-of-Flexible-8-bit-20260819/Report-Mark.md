@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, bit, design perspective. The three r
 - https://arxiv.org/html/2310.13513 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2310.13513 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2310.13513 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Bit%20Rate%20Matching - related DEP: Bit Rate Matching - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bit Rate Matching/bit_rate_matching_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Federated%20Learning%20with - related DEP: Federated Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Federated Learning with/federated_learning_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Bit%20Rate%20Matching - related DEP: Bit Rate Matching - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Bit Rate Matching/bit_rate_matching_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260724-MOCS%20Flexible%20Lengths - related DEP: MOCS Flexible Lengths - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260724-MOCS Flexible Lengths/mocs_flexible_lengths_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Federated%20Learning%20with - related DEP: Federated Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Federated Learning with/federated_learning_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

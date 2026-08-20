@@ -98,7 +98,7 @@ The selected paper contributes a applications, architectures, comprehensive pers
 - https://arxiv.org/html/2606.00133 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2606.00133 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2606.00133 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Survey%20of%20Design - related DEP: Survey of Design - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Survey of Design/survey_of_design_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Self-supervised - related DEP: Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Self-supervised/self_supervised_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Survey%20of%20Design - related DEP: Survey of Design - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Survey of Design/survey_of_design_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Self-supervised - related DEP: Self-supervised - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Self-supervised/self_supervised_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-WebUIBench%20A - related DEP: WebUIBench A - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-WebUIBench A/webuibench_a_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, discrete, distributed perspective. T
 - https://arxiv.org/html/2603.26160 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.26160 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.26160 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM%20A%20Distributed - related DEP: DDAC-SpAM A Distributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM A Distributed/ddac_spam_a_distributed_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A%20Distributed%20Clustering - related DEP: A Distributed Clustering - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A Distributed Clustering/a_distributed_clustering_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-DDAC-SpAM%20A%20Distributed - related DEP: DDAC-SpAM A Distributed - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-DDAC-SpAM A Distributed/ddac_spam_a_distributed_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260714-Quantum%20Quant%20Trading - related DEP: Quantum Quant Trading - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260714-Quantum Quant Trading/quantum_quant_trading_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -95,7 +95,7 @@ The selected paper contributes a electronic, graph, health perspective. The thre
 - https://arxiv.org/html/2101.06800 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2101.06800 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2101.06800 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Reconstruction%20Guarantee - related DEP: Reconstruction Guarantee - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Reconstruction%20Guarantee - related DEP: Reconstruction Guarantee - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Reconstruction Guarantee/reconstruction_guarantee_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260720-WKGM%20MRI%20Reconstruction - related DEP: WKGM MRI Reconstruction - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260720-WKGM MRI Reconstruction/wkgm_mri_reconstruction_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260717-Residual%20Gaussian - related DEP: Residual Gaussian CBCT - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260717-Residual Gaussian/residual_gaussian_cbct_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

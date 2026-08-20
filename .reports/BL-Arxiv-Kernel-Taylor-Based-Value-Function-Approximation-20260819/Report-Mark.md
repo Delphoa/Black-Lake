@@ -98,7 +98,7 @@ The selected paper contributes a approximation, continuous-state, decision persp
 - https://arxiv.org/html/2006.02008 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2006.02008 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2006.02008 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260731-CT-UCBVI%20Regret - related DEP: CT-UCBVI Regret - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260731-CT-UCBVI Regret/ct_ucbvi_regret_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Learning%20Adversarial - related DEP: Learning Adversarial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Learning Adversarial/learning_adversarial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Dynamic%20Service%20Migration - related DEP: Dynamic Service Migration - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Dynamic Service Migration/dynamic_service_migration_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a direct, gdpo-sr, generative perspective. The th
 - https://arxiv.org/html/2603.16769 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2603.16769 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2603.16769 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-LFMamba%20Light%20Field%20Image - related DEP: LFMamba Light Field Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-LFMamba Light Field Image/lfmamba_light_field_image_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO%20Efficient - related DEP: Flash-GRPO Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO Efficient/flash_grpo_efficient_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-LFMamba%20Light%20Field%20Image - related DEP: LFMamba Light Field Image - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-LFMamba Light Field Image/lfmamba_light_field_image_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Flash-GRPO%20Efficient - related DEP: Flash-GRPO Efficient - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Flash-GRPO Efficient/flash_grpo_efficient_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-One%20Step%20is%20Enough - related DEP: One Step is Enough - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-One Step is Enough/one_step_is_enough_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithms, approximation, constraint perspecti
 - https://arxiv.org/html/2306.14520 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2306.14520 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2306.14520 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Near-Tight%20Approximation - related DEP: Near-Tight Approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Near-Tight Approximation/near_tight_approximation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Approximation%20Algorithms - related DEP: Approximation Algorithms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation Algorithms/approximation_algorithms_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Online%20Learning%20with - related DEP: Online Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Learning with/online_learning_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Near-Tight%20Approximation - related DEP: Near-Tight Approximation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Near-Tight Approximation/near_tight_approximation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Approximation%20Algorithms - related DEP: Approximation Algorithms - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Approximation Algorithms/approximation_algorithms_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Online%20Learning%20with - related DEP: Online Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Online Learning with/online_learning_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

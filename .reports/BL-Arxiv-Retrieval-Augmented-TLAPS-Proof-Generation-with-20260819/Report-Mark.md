@@ -98,7 +98,7 @@ The selected paper contributes a generation, language, proof perspective. The th
 - https://arxiv.org/html/2501.03073 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2501.03073 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2501.03073 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-BookRAG%20A%20Hierarchical - related DEP: BookRAG A Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BookRAG A Hierarchical/bookrag_a_hierarchical_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260719-DiscourseFlip%20RAG%20Risk - related DEP: DiscourseFlip Risk Review; source basis `.lake-data/DEP-E/DEP-E-20260719-DiscourseFlip RAG Risk/discourseflip_rag_risk_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-A-RAG%20Scaling%20Agentic - related DEP: A-RAG Scaling Agentic - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-A-RAG Scaling Agentic/a_rag_scaling_agentic_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-BookRAG%20A%20Hierarchical - related DEP: BookRAG A Hierarchical - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-BookRAG A Hierarchical/bookrag_a_hierarchical_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, boosting, distributionally perspecti
 - https://arxiv.org/html/1905.07845 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1905.07845 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/WSC40007.2019.9004804 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20robust%20ranking - related DEP: A robust ranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A robust ranking/a_robust_ranking_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20robust%20ranking - related DEP: A robust ranking - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A robust ranking/a_robust_ranking_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260726-MoGIC%20Boosting%20Motion - related DEP: MoGIC Boosting Motion - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260726-MoGIC Boosting Motion/mogic_boosting_motion_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-RealCamo%20Boosting%20Real - related DEP: RealCamo Boosting Real - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-RealCamo Boosting Real/realcamo_boosting_real_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

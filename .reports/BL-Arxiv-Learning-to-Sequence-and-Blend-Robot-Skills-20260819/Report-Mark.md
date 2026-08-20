@@ -98,7 +98,7 @@ The selected paper contributes a blend, differentiable, optimization perspective
 - https://arxiv.org/html/2206.00559 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2206.00559 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2206.00559 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Exploiting%20Operation - related DEP: Exploiting Operation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Exploiting Operation/exploiting_operation_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Enhancing%20State - related DEP: Enhancing State - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Enhancing State/enhancing_state_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Exploiting%20Operation - related DEP: Exploiting Operation - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Exploiting Operation/exploiting_operation_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Meta%20Learning%20with - related DEP: Meta Learning with - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Meta Learning with/meta_learning_with_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

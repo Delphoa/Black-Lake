@@ -97,7 +97,7 @@ The selected paper contributes a answering, memory, multi-hop perspective. The t
 - https://arxiv.org/html/2508.17330 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2508.17330 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2508.17330 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260716-Medical%20Diff%20VQA - related DEP: Medical Diff VQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-DHR%20Retrieval - related DEP: DHR Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-DHR Retrieval/dhr_retrieval_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Medical%20Diff%20VQA - related DEP: Medical Diff VQA - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260716-Medical Diff VQA/medical_diff_vqa_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-DHR%20Retrieval - related DEP: DHR Retrieval - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-DHR Retrieval/dhr_retrieval_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Harnessing%20Adaptive%20Topol - related DEP: Harnessing Adaptive Topology Rep - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Harnessing Adaptive Topol/harnessing_adaptive_topol_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

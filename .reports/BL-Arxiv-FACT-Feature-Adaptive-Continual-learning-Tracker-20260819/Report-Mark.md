@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, continual-learning, fact perspective.
 - https://arxiv.org/html/2409.07904 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2409.07904 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2409.07904 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-AcroFOD%20An%20Adaptive - related DEP: AcroFOD An Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AcroFOD An Adaptive/acrofod_an_adaptive_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Foreground%20Object%20Search - related DEP: Foreground Object Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Foreground Object Search/foreground_object_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-S3MOT%20Monocular%203D%20Object - related DEP: S3MOT Monocular 3D Object - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-S3MOT Monocular 3D Object/s3mot_monocular_3d_object_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-AcroFOD%20An%20Adaptive - related DEP: AcroFOD An Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-AcroFOD An Adaptive/acrofod_an_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Foreground%20Object%20Search - related DEP: Foreground Object Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Foreground Object Search/foreground_object_search_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

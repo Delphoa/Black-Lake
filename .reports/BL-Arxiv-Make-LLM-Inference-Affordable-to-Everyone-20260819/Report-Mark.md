@@ -98,7 +98,7 @@ The selected paper contributes a affordable, augmenting, everyone perspective. T
 - https://arxiv.org/html/2502.16963 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2502.16963 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2502.16963 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260802-N-Grammer%20Augmenting - related DEP: N-Grammer Augmenting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-N-Grammer Augmenting/n_grammer_augmenting_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260802-N-Grammer%20Augmenting - related DEP: N-Grammer Augmenting - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260802-N-Grammer Augmenting/n_grammer_augmenting_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Accelerating%20LLM - related DEP: Accelerating LLM - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Accelerating LLM/accelerating_llm_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Shadow%20in%20the%20Cache - related DEP: Shadow in the Cache - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Shadow in the Cache/shadow_in_the_cache_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

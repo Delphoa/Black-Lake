@@ -97,7 +97,7 @@ The selected paper contributes a neural, architecture, bnas perspective. The thr
 - https://arxiv.org/html/2111.07722 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2111.07722 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2111.07722 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260815-Rethinking%20Residual - related DEP: Rethinking Residual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Rethinking Residual/rethinking_residual_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Hypergrah-Enhanced%20Dual - related DEP: Hypergrah-Enhanced Dual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Hypergrah-Enhanced Dual/hypergrah_enhanced_dual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260815-Rethinking%20Residual - related DEP: Rethinking Residual - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260815-Rethinking Residual/rethinking_residual_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260723-Rethinking%20Facial%20Express - related DEP: Rethinking Facial Expression Rec - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260723-Rethinking Facial Express/rethinking_facial_express_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

@@ -98,7 +98,7 @@ The selected paper contributes a centers, chance, considering perspective. The t
 - https://arxiv.org/html/2511.08619 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2511.08619 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2511.08619 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Joint%20Optimization%20of - related DEP: A Joint Optimization of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Joint Optimization of/a_joint_optimization_of_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Fuzzy%20Search - related DEP: A Novel Fuzzy Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Fuzzy Search/a_novel_fuzzy_search_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-An - related DEP: An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An/an_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Joint%20Optimization%20of - related DEP: A Joint Optimization of - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Joint Optimization of/a_joint_optimization_of_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Fuzzy%20Search - related DEP: A Novel Fuzzy Search - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Fuzzy Search/a_novel_fuzzy_search_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-An - related DEP: An - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-An/an_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

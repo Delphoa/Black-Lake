@@ -98,7 +98,7 @@ The selected paper contributes a certifying, federated, forgotten perspective. T
 - https://arxiv.org/html/2512.23171 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.23171 - verified primary PDF; local copy withheld.
 - https://doi.org/10.1109/TIFS.2025.3636788 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Unlearning%20for%20Federated - related DEP: Unlearning for Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unlearning for Federated/unlearning_for_federated_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Forget%20FOLTR - related DEP: FOLTR Unlearning - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-Forget FOLTR/forget_foltr_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Unlearning%20for%20Federated - related DEP: Unlearning for Federated - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Unlearning for Federated/unlearning_for_federated_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260814-Privacy-Preserving - related DEP: Privacy-Preserving - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260814-Privacy-Preserving/privacy_preserving_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

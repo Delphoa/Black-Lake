@@ -98,7 +98,7 @@ The selected paper contributes a anchored, depth, estimation perspective. The th
 - https://arxiv.org/html/2504.12103 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2504.12103 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2504.12103 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-The%20bilateral%20solver%20for - related DEP: The bilateral solver for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The bilateral solver for/the_bilateral_solver_for_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260816-Learning%20Nonparametric - related DEP: Learning Nonparametric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric/learning_nonparametric_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260718-Stable%20Diffusion%20Depth - related DEP: Stable Diffusion Depth - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260718-Stable Diffusion Depth/stable_diffusion_depth_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-The%20bilateral%20solver%20for - related DEP: The bilateral solver for - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-The bilateral solver for/the_bilateral_solver_for_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260816-Learning%20Nonparametric - related DEP: Learning Nonparametric - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260816-Learning Nonparametric/learning_nonparametric_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

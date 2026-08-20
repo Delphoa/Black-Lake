@@ -98,7 +98,7 @@ The selected paper contributes a benchmarking, bergen, generation perspective. T
 - https://arxiv.org/html/2407.01102 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2407.01102 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2407.01102 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-RAGPerf%20An%20End-to-End - related DEP: RAGPerf An End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAGPerf An End-to-End/ragperf_an_end_to_end_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-SEAL-Tag%20Self-Tag - related DEP: SEAL-Tag Self-Tag - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SEAL-Tag Self-Tag/seal_tag_self_tag_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-RAGPerf%20An%20End-to-End - related DEP: RAGPerf An End-to-End - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-RAGPerf An End-to-End/ragperf_an_end_to_end_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-How%20Much%20Reasoning%20Do - related DEP: How Much Reasoning Do - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-How Much Reasoning Do/how_much_reasoning_do_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-SEAL-Tag%20Self-Tag - related DEP: SEAL-Tag Self-Tag - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-SEAL-Tag Self-Tag/seal_tag_self_tag_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

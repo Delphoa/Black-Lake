@@ -98,7 +98,7 @@ The selected paper contributes a bi-level, case, evolutionary perspective. The t
 - https://arxiv.org/html/2302.02565 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2302.02565 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2302.02565 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Enhanced%20Ideal%20Objective - related DEP: Enhanced Ideal Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Enhanced Ideal Objective/enhanced_ideal_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-Decoupling%20Constraint - related DEP: Decoupling Constraint - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Decoupling Constraint/decoupling_constraint_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-A%20Novel%20Training%20Protocol - related DEP: A Novel Training Protocol - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-A Novel Training Protocol/a_novel_training_protocol_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

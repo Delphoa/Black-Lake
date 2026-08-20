@@ -98,7 +98,7 @@ The selected paper contributes a adaptive, agent2world, feedback perspective. Th
 - https://arxiv.org/html/2512.22336 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2512.22336 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2512.22336 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Debate%20Reflect%20and - related DEP: Debate Reflect and - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Debate Reflect and/debate_reflect_and_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Puzzle%20it%20Out - related DEP: Puzzle it Out - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-Puzzle it Out/puzzle_it_out_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260819-AniME%20Adaptive - related DEP: AniME Adaptive - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260819-AniME Adaptive/anime_adaptive_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

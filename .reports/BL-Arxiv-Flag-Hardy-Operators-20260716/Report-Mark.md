@@ -235,13 +235,13 @@ def review_status(record: dict[str, str]) -> str:
 - Source URL: https://www.sciencedirect.com/science/article/pii/S0022247X17310557
   - Applies to: journal venue, publication date, volume, issue, pages, journal DOI, and keywords.
   - Notes: Official publisher record.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-Global%20NS%20Existence/global_ns_existence_manuscript.md
   - Applies to: related-entry bridge on Calderón-type commutators, function-space control, and theorem thresholds.
   - Notes: Contextual Black-Lake synthesis; not evidence for the selected theorem.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260716-Acoustic%20Phase%20Retrieval/acoustic_phase_retrieval_manuscript.md
   - Applies to: related-entry bridge on Fourier reconstruction and conditioning.
   - Notes: Contextual Black-Lake synthesis; not evidence for the selected theorem.
-- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md
+- Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260709-2D-RC%20OTFS/2d_rc_otfs_manuscript.md
   - Applies to: related-entry bridge on structured two-dimensional convolution and geometry-aware representation.
   - Notes: Contextual Black-Lake synthesis; not evidence for the selected theorem.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

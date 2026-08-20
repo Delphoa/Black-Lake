@@ -98,7 +98,7 @@ The selected paper contributes a achieving, complexity, convergence perspective.
 - https://arxiv.org/html/2506.19883 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/2506.19883 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.2506.19883 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Multi-Objective - related DEP: Multi-Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Objective/multi_objective_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Breaking%20the%20Sample - related DEP: Breaking the Sample - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Breaking the Sample/breaking_the_sample_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260812-Matching-Based%20Selection - related DEP: Matching-Based Selection - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260812-Matching-Based Selection/matching_based_selection_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Multi-Objective - related DEP: Multi-Objective - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Multi-Objective/multi_objective_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.

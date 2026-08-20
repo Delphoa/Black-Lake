@@ -98,7 +98,7 @@ The selected paper contributes a algorithm, alignment, differences perspective. 
 - https://arxiv.org/html/1609.05820 - verified full-paper evidence; local copy withheld.
 - https://arxiv.org/pdf/1609.05820 - verified primary PDF; local copy withheld.
 - https://doi.org/10.48550/arXiv.1609.05820 - publisher identifier.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
-- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-A%20GNSS%20Aided%20Initial - related DEP: A GNSS Aided Initial - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260804-A GNSS Aided Initial/a_gnss_aided_initial_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260722-SIM%20MARL%20Power - related DEP: SIM MARL Power - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260722-SIM MARL Power/sim_marl_power_manuscript.md`.
+- https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260818-Neural%20Architecture - related DEP: Neural Architecture - DEP-E; source basis `.lake-data/DEP-E/DEP-E-20260818-Neural Architecture/neural_architecture_manuscript.md`.
 - Source files: verified PDF, full-paper HTML, metadata HTML, archive source when available, and integrity records; all withheld locally.
