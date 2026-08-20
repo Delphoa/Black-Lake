@@ -12598,3 +12598,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks* | Haocheng Duan; Yuxin Guo; Jieyi Bi; Anqi Xie; Sirui Li; Yining Ma; Cathy Wu | [arXiv:2606.19741v1](https://arxiv.org/abs/2606.19741v1) · [DOI](https://doi.org/10.48550/arXiv.2606.19741) |
+
+## [DEP-A-20260820-2606.17861 GameCraft-Benc](../DEP-A-20260820-2606.17861%20GameCraft-Benc/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.17861%20GameCraft-Benc/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?* | Tongxu Luo; Rongsheng Wang; Jiaxi Bi; Chenming Xu; Zhengyang Tang; Jianlong Chen; Juhao Liang; Ke Ji; Shuqi Guo; Yuhao Du; Fan Bu; Wenyu Du; Xiaotong Zhang; Kyle Li; Shaobo Wang; Linfeng Zhang; Yuxuan Liu; Xin Lai; Chenxin Li; Yiduo Guo; Zhexin Zhang; Xinyuan Wang; Tianyi Bai; Ziniu Li; Benyou Wang | [arXiv:2606.17861v1](https://arxiv.org/abs/2606.17861v1) · [DOI](https://doi.org/10.48550/arXiv.2606.17861) |
