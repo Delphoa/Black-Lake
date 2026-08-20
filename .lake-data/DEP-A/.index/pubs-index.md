@@ -12574,3 +12574,11 @@ Review status: substantively remediated and revalidated from the complete arXiv 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution* | Zefeng Wang; Minxi Yan; Jinhe Bi; Sikuan Yan; Volker Tresp; Yunpu Ma | [arXiv:2607.05297v1](https://arxiv.org/abs/2607.05297v1) · [DOI](https://doi.org/10.48550/arXiv.2607.05297) |
+
+## [DEP-A-20260820-2606.29948 Heterogeneous](../DEP-A-20260820-2606.29948%20Heterogeneous/README.md)
+
+Review status: substantively remediated and revalidated from the complete arXiv v1 paper on 2026-08-20. The owning corrected review is [`corrected-whitepaper-review.md`](../DEP-A-20260820-2606.29948%20Heterogeneous/corrected-whitepaper-review.md); the sanitized failed draft and workflow evidence are retained in the same dossier.
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Heterogeneous Tactile Transformer* | Jianxin Bi; Qiang Wang; Jayaram Reddy; Kelvin Lin; Soibkhon Khajikhanov; Ruihan Gao; Harold Soh | [arXiv:2606.29948v1](https://arxiv.org/abs/2606.29948v1) · [DOI](https://doi.org/10.48550/arXiv.2606.29948) |
