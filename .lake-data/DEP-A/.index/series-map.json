@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 2737,
-  "next_ordinal": 2738,
+  "entry_count": 2738,
+  "next_ordinal": 2739,
   "active_series_number": 3,
   "series": [
     {
@@ -36,7 +36,7 @@
       "series_name": "Series 003",
       "capacity_start": 2001,
       "capacity_end": 3000,
-      "entry_count": 737,
+      "entry_count": 738,
       "sealed": false
     }
   ],
@@ -27410,6 +27410,14 @@
       "prior_paths": [
         ".lake-data/DEP-A/DEP-A-20260820-When Traffic Flow Intake"
       ]
+    },
+    {
+      "ordinal": 2738,
+      "dep_name": "DEP-A-20260822-SIGMA Chem Align Intake",
+      "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-14D8DB0A",
+      "series_number": 3,
+      "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-SIGMA Chem Align Intake",
+      "prior_paths": []
     }
   ]
 }
