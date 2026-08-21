@@ -28337,6 +28337,236 @@
         "https://doi.org/10.48550/arXiv.2603.15690"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Is it Still Fair A 2428",
+        ".logs/20260821-Arxiv-Is-it-Still-Fair-A-Comparative-Evaluation-LOG.md",
+        ".reports/BL-Arxiv-Is-it-Still-Fair-A-Comparative-Evaluation-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2409.12428",
+      "arxiv_id": "2409.12428",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2409.12428",
+      "normalized_title": "Is it Still Fair? A Comparative Evaluation of Fairness Algorithms through the Lens of Covariate Drift",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P01; draw 38830 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13958; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Is-it-Still-Fair-A-Comparative-Evaluation",
+      "source_urls": [
+        "https://arxiv.org/abs/2409.12428",
+        "https://arxiv.org/html/2409.12428",
+        "https://arxiv.org/pdf/2409.12428",
+        "https://doi.org/10.48550/arXiv.2409.12428"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Extremely Weak 1770",
+        ".logs/20260821-Arxiv-Extremely-Weak-Supervision-Inversion-of-Multi-LOG.md",
+        ".reports/BL-Arxiv-Extremely-Weak-Supervision-Inversion-of-Multi-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2202.01770",
+      "arxiv_id": "2202.01770",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2202.01770",
+      "normalized_title": "Extremely Weak Supervision Inversion of Multi-physical Properties",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P02; draw 18042 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13959; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Extremely-Weak-Supervision-Inversion-of-Multi",
+      "source_urls": [
+        "https://arxiv.org/abs/2202.01770",
+        "https://arxiv.org/html/2202.01770",
+        "https://arxiv.org/pdf/2202.01770",
+        "https://doi.org/10.48550/arXiv.2202.01770"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-E-Gen Leveraging E-G 4951",
+        ".logs/20260821-Arxiv-E-Gen-Leveraging-E-Graphs-to-Improve-LOG.md",
+        ".reports/BL-Arxiv-E-Gen-Leveraging-E-Graphs-to-Improve-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2501.14951",
+      "arxiv_id": "2501.14951",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2501.14951",
+      "normalized_title": "E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P03; draw 43108 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13960; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "E-Gen-Leveraging-E-Graphs-to-Improve",
+      "source_urls": [
+        "https://arxiv.org/abs/2501.14951",
+        "https://arxiv.org/html/2501.14951",
+        "https://arxiv.org/pdf/2501.14951",
+        "https://doi.org/10.48550/arXiv.2501.14951"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Few-Shot Physically- 0898",
+        ".logs/20260821-Arxiv-Few-Shot-Physically-Aware-Articulated-Mesh-LOG.md",
+        ".reports/BL-Arxiv-Few-Shot-Physically-Aware-Articulated-Mesh-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.10898",
+      "arxiv_id": "2308.10898",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2308.10898",
+      "normalized_title": "Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P04; draw 27759 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13961; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Few-Shot-Physically-Aware-Articulated-Mesh",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.10898",
+        "https://arxiv.org/html/2308.10898",
+        "https://arxiv.org/pdf/2308.10898",
+        "https://doi.org/10.48550/arXiv.2308.10898"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Adapting Projection- 4090",
+        ".logs/20260821-Arxiv-Adapting-Projection-Based-Reduced-Order-Models-LOG.md",
+        ".reports/BL-Arxiv-Adapting-Projection-Based-Reduced-Order-Models-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.14090",
+      "arxiv_id": "2410.14090",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2410.14090",
+      "normalized_title": "Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P05; draw 40012 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13962; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adapting-Projection-Based-Reduced-Order-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.14090",
+        "https://arxiv.org/html/2410.14090",
+        "https://arxiv.org/pdf/2410.14090",
+        "https://doi.org/10.48550/arXiv.2410.14090"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Red Teaming Visual 2915",
+        ".logs/20260821-Arxiv-Red-Teaming-Visual-Language-Models-LOG.md",
+        ".reports/BL-Arxiv-Red-Teaming-Visual-Language-Models-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2401.12915",
+      "arxiv_id": "2401.12915",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2401.12915",
+      "normalized_title": "Red Teaming Visual Language Models",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P06; draw 31617 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13963; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Red-Teaming-Visual-Language-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2401.12915",
+        "https://arxiv.org/html/2401.12915",
+        "https://arxiv.org/pdf/2401.12915",
+        "https://doi.org/10.48550/arXiv.2401.12915"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Orthogonal Time Freq 5011",
+        ".logs/20260821-Arxiv-Orthogonal-Time-Frequency-Space-Modulation-Part-LOG.md",
+        ".reports/BL-Arxiv-Orthogonal-Time-Frequency-Space-Modulation-Part-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.05011",
+      "arxiv_id": "2209.05011",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2209.05011",
+      "normalized_title": "Orthogonal Time Frequency Space Modulation -- Part I: Fundamentals and Challenges Ahead",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P07; draw 21226 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13964; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Orthogonal-Time-Frequency-Space-Modulation-Part",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.05011",
+        "https://arxiv.org/html/2209.05011",
+        "https://arxiv.org/pdf/2209.05011",
+        "https://doi.org/10.48550/arXiv.2209.05011"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Efficient Reinforcem 8644",
+        ".logs/20260821-Arxiv-Efficient-Reinforcement-Learning-Development-LOG.md",
+        ".reports/BL-Arxiv-Efficient-Reinforcement-Learning-Development-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.08644",
+      "arxiv_id": "2009.08644",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2009.08644",
+      "normalized_title": "Efficient Reinforcement Learning Development with RLzoo",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P08; draw 11712 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13965; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Efficient-Reinforcement-Learning-Development",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.08644",
+        "https://arxiv.org/html/2009.08644",
+        "https://arxiv.org/pdf/2009.08644",
+        "https://doi.org/10.48550/arXiv.2009.08644"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-HACK Hallucinations 4222",
+        ".logs/20260821-Arxiv-HACK-Hallucinations-Along-Certainty-and-LOG.md",
+        ".reports/BL-Arxiv-HACK-Hallucinations-Along-Certainty-and-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2510.24222",
+      "arxiv_id": "2510.24222",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2510.24222",
+      "normalized_title": "HACK: Hallucinations Along Certainty and Knowledge Axes",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P09; draw 55099 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13966; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "HACK-Hallucinations-Along-Certainty-and",
+      "source_urls": [
+        "https://arxiv.org/abs/2510.24222",
+        "https://arxiv.org/html/2510.24222",
+        "https://arxiv.org/pdf/2510.24222",
+        "https://doi.org/10.48550/arXiv.2510.24222"
+      ],
+      "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Evolution of Coordin 1727",
+        ".logs/20260821-Arxiv-Evolution-of-Coordination-in-Pairwise-and-Multi-LOG.md",
+        ".reports/BL-Arxiv-Evolution-of-Coordination-in-Pairwise-and-Multi-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.11727",
+      "arxiv_id": "2009.11727",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2009.11727",
+      "normalized_title": "Evolution of Coordination in Pairwise and Multi-player Interactions via Prior Commitments",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P10; draw 11784 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13967; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Evolution-of-Coordination-in-Pairwise-and-Multi",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.11727",
+        "https://arxiv.org/html/2009.11727",
+        "https://arxiv.org/pdf/2009.11727",
+        "https://doi.org/10.48550/arXiv.2009.11727"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -29181,5 +29411,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-20"
+  "updated_date": "2026-08-21"
 }

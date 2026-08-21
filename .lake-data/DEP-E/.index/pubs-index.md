@@ -11569,3 +11569,73 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing* | Chen, Yaru; Guo, Ruohao; Gao, Liting; Xiang, Yang; Luo, Qingyu; Li, Zhenbo; Wang, Wenwu | [arXiv:2509.14097](https://arxiv.org/abs/2509.14097) |
+
+
+## [DEP-E-20260821-Is it Still Fair A 2428](../Series%20002/DEP-E-20260821-Is%20it%20Still%20Fair%20A%202428/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is it Still Fair? A Comparative Evaluation of Fairness Algorithms through the Lens of Covariate Drift* | Deho, Oscar Blessed; Bewong, Michael; Kwashie, Selasi; Li, Jiuyong; Liu, Jixue; Liu, Lin; Joksimovic, Srecko | [arXiv:2409.12428](https://arxiv.org/abs/2409.12428) - [DOI](https://doi.org/10.48550/arXiv.2409.12428) |
+
+
+## [DEP-E-20260821-Extremely Weak 1770](../Series%20002/DEP-E-20260821-Extremely%20Weak%201770/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Extremely Weak Supervision Inversion of Multi-physical Properties* | Feng, Shihang; Jin, Peng; Zhang, Xitong; Chen, Yinpeng; Alumbaugh, David; Commer, Michael; Lin, Youzuo | [arXiv:2202.01770](https://arxiv.org/abs/2202.01770) - [DOI](https://doi.org/10.48550/arXiv.2202.01770) |
+
+
+## [DEP-E-20260821-E-Gen Leveraging E-G 4951](../Series%20002/DEP-E-20260821-E-Gen%20Leveraging%20E-G%204951/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions* | Zheng, Hongbo; Wang, Suyuan; Gangwar, Neeraj; Kani, Nickvash | [arXiv:2501.14951](https://arxiv.org/abs/2501.14951) - [DOI](https://doi.org/10.48550/arXiv.2501.14951) |
+
+
+## [DEP-E-20260821-Few-Shot Physically- 0898](../Series%20002/DEP-E-20260821-Few-Shot%20Physically-%200898/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation* | Liu, Xueyi; Wang, Bin; Wang, He; Yi, Li | [arXiv:2308.10898](https://arxiv.org/abs/2308.10898) - [DOI](https://doi.org/10.48550/arXiv.2308.10898) |
+
+
+## [DEP-E-20260821-Adapting Projection- 4090](../Series%20002/DEP-E-20260821-Adapting%20Projection-%204090/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process* | Liu, Xiao; Feng, Jingyi; Liu, Xinchao | [arXiv:2410.14090](https://arxiv.org/abs/2410.14090) - [DOI](https://doi.org/10.48550/arXiv.2410.14090) |
+
+
+## [DEP-E-20260821-Red Teaming Visual 2915](../Series%20002/DEP-E-20260821-Red%20Teaming%20Visual%202915/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Red Teaming Visual Language Models* | Li, Mukai; Li, Lei; Yin, Yuwei; Ahmed, Masood; Liu, Zhenguang; Liu, Qi | [arXiv:2401.12915](https://arxiv.org/abs/2401.12915) - [DOI](https://doi.org/10.48550/arXiv.2401.12915) |
+
+
+## [DEP-E-20260821-Orthogonal Time Freq 5011](../Series%20002/DEP-E-20260821-Orthogonal%20Time%20Freq%205011/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Orthogonal Time Frequency Space Modulation -- Part I: Fundamentals and Challenges Ahead* | Wei, Zhiqiang; Li, Shuangyang; Yuan, Weijie; Schober, Robert; Caire, Giuseppe | [arXiv:2209.05011](https://arxiv.org/abs/2209.05011) - [DOI](https://doi.org/10.48550/arXiv.2209.05011) |
+
+
+## [DEP-E-20260821-Efficient Reinforcem 8644](../Series%20002/DEP-E-20260821-Efficient%20Reinforcem%208644/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Reinforcement Learning Development with RLzoo* | Ding, Zihan; Yu, Tianyang; Huang, Yanhua; Zhang, Hongming; Li, Guo; Guo, Quancheng; Mai, Luo; Dong, Hao | [arXiv:2009.08644](https://arxiv.org/abs/2009.08644) - [DOI](https://doi.org/10.48550/arXiv.2009.08644) |
+
+
+## [DEP-E-20260821-HACK Hallucinations 4222](../Series%20002/DEP-E-20260821-HACK%20Hallucinations%204222/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HACK: Hallucinations Along Certainty and Knowledge Axes* | Authors listed on the public arXiv record | [arXiv:2510.24222](https://arxiv.org/abs/2510.24222) - [DOI](https://doi.org/10.48550/arXiv.2510.24222) |
+
+
+## [DEP-E-20260821-Evolution of Coordin 1727](../Series%20002/DEP-E-20260821-Evolution%20of%20Coordin%201727/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolution of Coordination in Pairwise and Multi-player Interactions via Prior Commitments* | Bianca, Ogbo Ndidi; Elgarig, Aiman; Han, The Anh | [arXiv:2009.11727](https://arxiv.org/abs/2009.11727) - [DOI](https://doi.org/10.48550/arXiv.2009.11727) |
