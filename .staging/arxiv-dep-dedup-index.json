@@ -28498,6 +28498,29 @@
         "https://doi.org/10.48550/arXiv.2209.05011"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Efficient Reinforcem 8644",
+        ".logs/20260821-Arxiv-Efficient-Reinforcement-Learning-Development-LOG.md",
+        ".reports/BL-Arxiv-Efficient-Reinforcement-Learning-Development-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2009.08644",
+      "arxiv_id": "2009.08644",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2009.08644",
+      "normalized_title": "Efficient Reinforcement Learning Development with RLzoo",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P08; draw 11712 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13965; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Efficient-Reinforcement-Learning-Development",
+      "source_urls": [
+        "https://arxiv.org/abs/2009.08644",
+        "https://arxiv.org/html/2009.08644",
+        "https://arxiv.org/pdf/2009.08644",
+        "https://doi.org/10.48550/arXiv.2009.08644"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

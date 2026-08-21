@@ -11618,3 +11618,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Orthogonal Time Frequency Space Modulation -- Part I: Fundamentals and Challenges Ahead* | Wei, Zhiqiang; Li, Shuangyang; Yuan, Weijie; Schober, Robert; Caire, Giuseppe | [arXiv:2209.05011](https://arxiv.org/abs/2209.05011) - [DOI](https://doi.org/10.48550/arXiv.2209.05011) |
+
+
+## [DEP-E-20260821-Efficient Reinforcem 8644](../Series%20002/DEP-E-20260821-Efficient%20Reinforcem%208644/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Efficient Reinforcement Learning Development with RLzoo* | Ding, Zihan; Yu, Tianyang; Huang, Yanhua; Zhang, Hongming; Li, Guo; Guo, Quancheng; Mai, Luo; Dong, Hao | [arXiv:2009.08644](https://arxiv.org/abs/2009.08644) - [DOI](https://doi.org/10.48550/arXiv.2009.08644) |
