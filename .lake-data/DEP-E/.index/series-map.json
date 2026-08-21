@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1660,
-  "next_ordinal": 1661,
+  "entry_count": 1661,
+  "next_ordinal": 1662,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 660,
+      "entry_count": 661,
       "sealed": false
     }
   ],
@@ -16629,6 +16629,14 @@
       "object_identity": "black-lake-data-processing-review-v1|source=.lake-data/DEP-20260819-Tech Intel 0101|support=arxiv:2608.13521v1|artifact=single-qubit-qfs|run-date=2026-08-22",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-Single-Qubit QFS",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1661,
+      "dep_name": "DEP-E-20260822-DCM Bandits",
+      "object_identity": "arxiv:2608.11873v1",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-DCM Bandits",
       "prior_paths": []
     }
   ]
