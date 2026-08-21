@@ -28360,6 +28360,29 @@
         "https://doi.org/10.48550/arXiv.2409.12428"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Extremely Weak 1770",
+        ".logs/20260821-Arxiv-Extremely-Weak-Supervision-Inversion-of-Multi-LOG.md",
+        ".reports/BL-Arxiv-Extremely-Weak-Supervision-Inversion-of-Multi-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2202.01770",
+      "arxiv_id": "2202.01770",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2202.01770",
+      "normalized_title": "Extremely Weak Supervision Inversion of Multi-physical Properties",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P02; draw 18042 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13959; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Extremely-Weak-Supervision-Inversion-of-Multi",
+      "source_urls": [
+        "https://arxiv.org/abs/2202.01770",
+        "https://arxiv.org/html/2202.01770",
+        "https://arxiv.org/pdf/2202.01770",
+        "https://doi.org/10.48550/arXiv.2202.01770"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -11576,3 +11576,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Is it Still Fair? A Comparative Evaluation of Fairness Algorithms through the Lens of Covariate Drift* | Deho, Oscar Blessed; Bewong, Michael; Kwashie, Selasi; Li, Jiuyong; Liu, Jixue; Liu, Lin; Joksimovic, Srecko | [arXiv:2409.12428](https://arxiv.org/abs/2409.12428) - [DOI](https://doi.org/10.48550/arXiv.2409.12428) |
+
+
+## [DEP-E-20260821-Extremely Weak 1770](../Series%20002/DEP-E-20260821-Extremely%20Weak%201770/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Extremely Weak Supervision Inversion of Multi-physical Properties* | Feng, Shihang; Jin, Peng; Zhang, Xitong; Chen, Yinpeng; Alumbaugh, David; Commer, Michael; Lin, Youzuo | [arXiv:2202.01770](https://arxiv.org/abs/2202.01770) - [DOI](https://doi.org/10.48550/arXiv.2202.01770) |
