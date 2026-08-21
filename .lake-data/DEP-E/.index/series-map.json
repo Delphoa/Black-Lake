@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1661,
-  "next_ordinal": 1662,
+  "entry_count": 1662,
+  "next_ordinal": 1663,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 661,
+      "entry_count": 662,
       "sealed": false
     }
   ],
@@ -16637,6 +16637,14 @@
       "object_identity": "DEP-E/arxiv-2202.01770",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260821-Extremely Weak 1770",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1662,
+      "dep_name": "DEP-E-20260821-E-Gen Leveraging E-G 4951",
+      "object_identity": "DEP-E/arxiv-2501.14951",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260821-E-Gen Leveraging E-G 4951",
       "prior_paths": []
     }
   ]

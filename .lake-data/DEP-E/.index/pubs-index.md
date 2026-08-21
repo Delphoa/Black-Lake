@@ -11583,3 +11583,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Extremely Weak Supervision Inversion of Multi-physical Properties* | Feng, Shihang; Jin, Peng; Zhang, Xitong; Chen, Yinpeng; Alumbaugh, David; Commer, Michael; Lin, Youzuo | [arXiv:2202.01770](https://arxiv.org/abs/2202.01770) - [DOI](https://doi.org/10.48550/arXiv.2202.01770) |
+
+
+## [DEP-E-20260821-E-Gen Leveraging E-G 4951](../Series%20002/DEP-E-20260821-E-Gen%20Leveraging%20E-G%204951/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions* | Zheng, Hongbo; Wang, Suyuan; Gangwar, Neeraj; Kani, Nickvash | [arXiv:2501.14951](https://arxiv.org/abs/2501.14951) - [DOI](https://doi.org/10.48550/arXiv.2501.14951) |
