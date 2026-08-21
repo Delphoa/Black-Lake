@@ -11604,3 +11604,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process* | Liu, Xiao; Feng, Jingyi; Liu, Xinchao | [arXiv:2410.14090](https://arxiv.org/abs/2410.14090) - [DOI](https://doi.org/10.48550/arXiv.2410.14090) |
+
+
+## [DEP-E-20260821-Red Teaming Visual 2915](../Series%20002/DEP-E-20260821-Red%20Teaming%20Visual%202915/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Red Teaming Visual Language Models* | Li, Mukai; Li, Lei; Yin, Yuwei; Ahmed, Masood; Liu, Zhenguang; Liu, Qi | [arXiv:2401.12915](https://arxiv.org/abs/2401.12915) - [DOI](https://doi.org/10.48550/arXiv.2401.12915) |
