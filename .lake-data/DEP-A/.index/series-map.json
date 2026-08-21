@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 2740,
-  "next_ordinal": 2741,
+  "entry_count": 2741,
+  "next_ordinal": 2742,
   "active_series_number": 3,
   "series": [
     {
@@ -36,7 +36,7 @@
       "series_name": "Series 003",
       "capacity_start": 2001,
       "capacity_end": 3000,
-      "entry_count": 740,
+      "entry_count": 741,
       "sealed": false
     }
   ],
@@ -27433,6 +27433,14 @@
       "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-39B33A65",
       "series_number": 3,
       "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-deGraphCS Intake",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 2741,
+      "dep_name": "DEP-A-20260822-Move You Say Intake",
+      "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-2AC39B5F",
+      "series_number": 3,
+      "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Move You Say Intake",
       "prior_paths": []
     }
   ]
