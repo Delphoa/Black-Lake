@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 2753,
-  "next_ordinal": 2754,
+  "entry_count": 2754,
+  "next_ordinal": 2755,
   "active_series_number": 3,
   "series": [
     {
@@ -36,7 +36,7 @@
       "series_name": "Series 003",
       "capacity_start": 2001,
       "capacity_end": 3000,
-      "entry_count": 753,
+      "entry_count": 754,
       "sealed": false
     }
   ],
@@ -27537,6 +27537,14 @@
       "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-49874B44",
       "series_number": 3,
       "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Transferable Intake",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 2754,
+      "dep_name": "DEP-A-20260822-TreePO Bridging Intake",
+      "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-257CFED3",
+      "series_number": 3,
+      "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-TreePO Bridging Intake",
       "prior_paths": []
     }
   ]
