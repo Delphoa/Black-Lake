@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1667,
-  "next_ordinal": 1668,
+  "entry_count": 1668,
+  "next_ordinal": 1669,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 667,
+      "entry_count": 668,
       "sealed": false
     }
   ],
@@ -16685,6 +16685,14 @@
       "object_identity": "DEP-E/arxiv-2009.08644",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260821-Efficient Reinforcem 8644",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1668,
+      "dep_name": "DEP-E-20260821-HACK Hallucinations 4222",
+      "object_identity": "DEP-E/arxiv-2510.24222",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260821-HACK Hallucinations 4222",
       "prior_paths": []
     }
   ]

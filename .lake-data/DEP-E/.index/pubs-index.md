@@ -11625,3 +11625,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Efficient Reinforcement Learning Development with RLzoo* | Ding, Zihan; Yu, Tianyang; Huang, Yanhua; Zhang, Hongming; Li, Guo; Guo, Quancheng; Mai, Luo; Dong, Hao | [arXiv:2009.08644](https://arxiv.org/abs/2009.08644) - [DOI](https://doi.org/10.48550/arXiv.2009.08644) |
+
+
+## [DEP-E-20260821-HACK Hallucinations 4222](../Series%20002/DEP-E-20260821-HACK%20Hallucinations%204222/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *HACK: Hallucinations Along Certainty and Knowledge Axes* | Authors listed on the public arXiv record | [arXiv:2510.24222](https://arxiv.org/abs/2510.24222) - [DOI](https://doi.org/10.48550/arXiv.2510.24222) |
