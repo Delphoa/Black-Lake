@@ -11632,3 +11632,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *HACK: Hallucinations Along Certainty and Knowledge Axes* | Authors listed on the public arXiv record | [arXiv:2510.24222](https://arxiv.org/abs/2510.24222) - [DOI](https://doi.org/10.48550/arXiv.2510.24222) |
+
+
+## [DEP-E-20260821-Evolution of Coordin 1727](../Series%20002/DEP-E-20260821-Evolution%20of%20Coordin%201727/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Evolution of Coordination in Pairwise and Multi-player Interactions via Prior Commitments* | Bianca, Ogbo Ndidi; Elgarig, Aiman; Han, The Anh | [arXiv:2009.11727](https://arxiv.org/abs/2009.11727) - [DOI](https://doi.org/10.48550/arXiv.2009.11727) |
