@@ -28475,6 +28475,29 @@
         "https://doi.org/10.48550/arXiv.2401.12915"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Orthogonal Time Freq 5011",
+        ".logs/20260821-Arxiv-Orthogonal-Time-Frequency-Space-Modulation-Part-LOG.md",
+        ".reports/BL-Arxiv-Orthogonal-Time-Frequency-Space-Modulation-Part-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2209.05011",
+      "arxiv_id": "2209.05011",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2209.05011",
+      "normalized_title": "Orthogonal Time Frequency Space Modulation -- Part I: Fundamentals and Challenges Ahead",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P07; draw 21226 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13964; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Orthogonal-Time-Frequency-Space-Modulation-Part",
+      "source_urls": [
+        "https://arxiv.org/abs/2209.05011",
+        "https://arxiv.org/html/2209.05011",
+        "https://arxiv.org/pdf/2209.05011",
+        "https://doi.org/10.48550/arXiv.2209.05011"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

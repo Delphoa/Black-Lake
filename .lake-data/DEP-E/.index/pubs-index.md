@@ -11611,3 +11611,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Red Teaming Visual Language Models* | Li, Mukai; Li, Lei; Yin, Yuwei; Ahmed, Masood; Liu, Zhenguang; Liu, Qi | [arXiv:2401.12915](https://arxiv.org/abs/2401.12915) - [DOI](https://doi.org/10.48550/arXiv.2401.12915) |
+
+
+## [DEP-E-20260821-Orthogonal Time Freq 5011](../Series%20002/DEP-E-20260821-Orthogonal%20Time%20Freq%205011/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Orthogonal Time Frequency Space Modulation -- Part I: Fundamentals and Challenges Ahead* | Wei, Zhiqiang; Li, Shuangyang; Yuan, Weijie; Schober, Robert; Caire, Giuseppe | [arXiv:2209.05011](https://arxiv.org/abs/2209.05011) - [DOI](https://doi.org/10.48550/arXiv.2209.05011) |
