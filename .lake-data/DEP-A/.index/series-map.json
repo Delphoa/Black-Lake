@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 2742,
-  "next_ordinal": 2743,
+  "entry_count": 2743,
+  "next_ordinal": 2744,
   "active_series_number": 3,
   "series": [
     {
@@ -36,7 +36,7 @@
       "series_name": "Series 003",
       "capacity_start": 2001,
       "capacity_end": 3000,
-      "entry_count": 742,
+      "entry_count": 743,
       "sealed": false
     }
   ],
@@ -27449,6 +27449,14 @@
       "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-6E1FE08C",
       "series_number": 3,
       "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Towards Fast LLM Intake",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 2743,
+      "dep_name": "DEP-A-20260822-Towards Long Lived Intake",
+      "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-07F8B8D8",
+      "series_number": 3,
+      "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Towards Long Lived Intake",
       "prior_paths": []
     }
   ]
