@@ -28429,6 +28429,29 @@
         "https://doi.org/10.48550/arXiv.2308.10898"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Adapting Projection- 4090",
+        ".logs/20260821-Arxiv-Adapting-Projection-Based-Reduced-Order-Models-LOG.md",
+        ".reports/BL-Arxiv-Adapting-Projection-Based-Reduced-Order-Models-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2410.14090",
+      "arxiv_id": "2410.14090",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2410.14090",
+      "normalized_title": "Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P05; draw 40012 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13962; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Adapting-Projection-Based-Reduced-Order-Models",
+      "source_urls": [
+        "https://arxiv.org/abs/2410.14090",
+        "https://arxiv.org/html/2410.14090",
+        "https://arxiv.org/pdf/2410.14090",
+        "https://doi.org/10.48550/arXiv.2410.14090"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [

@@ -11597,3 +11597,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation* | Liu, Xueyi; Wang, Bin; Wang, He; Yi, Li | [arXiv:2308.10898](https://arxiv.org/abs/2308.10898) - [DOI](https://doi.org/10.48550/arXiv.2308.10898) |
+
+
+## [DEP-E-20260821-Adapting Projection- 4090](../Series%20002/DEP-E-20260821-Adapting%20Projection-%204090/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process* | Liu, Xiao; Feng, Jingyi; Liu, Xinchao | [arXiv:2410.14090](https://arxiv.org/abs/2410.14090) - [DOI](https://doi.org/10.48550/arXiv.2410.14090) |
