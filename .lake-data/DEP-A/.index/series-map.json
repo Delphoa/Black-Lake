@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 2755,
-  "next_ordinal": 2756,
+  "entry_count": 2756,
+  "next_ordinal": 2757,
   "active_series_number": 3,
   "series": [
     {
@@ -36,7 +36,7 @@
       "series_name": "Series 003",
       "capacity_start": 2001,
       "capacity_end": 3000,
-      "entry_count": 755,
+      "entry_count": 756,
       "sealed": false
     }
   ],
@@ -27553,6 +27553,14 @@
       "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-8C57958D",
       "series_number": 3,
       "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Truncated Proximal Intake",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 2756,
+      "dep_name": "DEP-A-20260822-Trustworthiness in Intake",
+      "object_identity": "dep-e-intake-pair:BL-DEPPAIR-20260822-EC0D4CB5",
+      "series_number": 3,
+      "current_path": ".lake-data/DEP-A/Series 003/DEP-A-20260822-Trustworthiness in Intake",
       "prior_paths": []
     }
   ]
