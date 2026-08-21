@@ -13,6 +13,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Reviewed publications
 
+## [DEP-E-20260821-Global Cut Selection](../Series%20002/DEP-E-20260821-Global%20Cut%20Selection/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming* | Shuli Zeng; Sijia Zhang; Shaoang Li; Feng Wu; Xiang-Yang Li | [arXiv:2503.15847](https://arxiv.org/abs/2503.15847) - [DOI](https://doi.org/10.48550/arXiv.2503.15847) | [DEP-E](../Series%20002/DEP-E-20260821-Global%20Cut%20Selection/README.md) |
+
 ## [DEP-E-20260822-DCM Bandits](../Series%20002/DEP-E-20260822-DCM%20Bandits/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |
