@@ -11590,3 +11590,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions* | Zheng, Hongbo; Wang, Suyuan; Gangwar, Neeraj; Kani, Nickvash | [arXiv:2501.14951](https://arxiv.org/abs/2501.14951) - [DOI](https://doi.org/10.48550/arXiv.2501.14951) |
+
+
+## [DEP-E-20260821-Few-Shot Physically- 0898](../Series%20002/DEP-E-20260821-Few-Shot%20Physically-%200898/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation* | Liu, Xueyi; Wang, Bin; Wang, He; Yi, Li | [arXiv:2308.10898](https://arxiv.org/abs/2308.10898) - [DOI](https://doi.org/10.48550/arXiv.2308.10898) |

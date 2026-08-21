@@ -28406,6 +28406,29 @@
         "https://doi.org/10.48550/arXiv.2501.14951"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/.index/pubs-index.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260821-Few-Shot Physically- 0898",
+        ".logs/20260821-Arxiv-Few-Shot-Physically-Aware-Articulated-Mesh-LOG.md",
+        ".reports/BL-Arxiv-Few-Shot-Physically-Aware-Articulated-Mesh-20260821/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2308.10898",
+      "arxiv_id": "2308.10898",
+      "commit_or_pr": "",
+      "deposit_date": "20260821",
+      "doi": "10.48550/arXiv.2308.10898",
+      "normalized_title": "Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation",
+      "notes": "Job BLAD-2200-20260821-909CA89B item BLAD-2200-20260821-909CA89B-P04; draw 27759 of 75964 units; focus No one-time topic focus was requested.; matched categories ; duplicate exclusions 13961; focus exclusions 0; reselections 0; complete-source gate passed; all source files withheld locally.",
+      "slug": "Few-Shot-Physically-Aware-Articulated-Mesh",
+      "source_urls": [
+        "https://arxiv.org/abs/2308.10898",
+        "https://arxiv.org/html/2308.10898",
+        "https://arxiv.org/pdf/2308.10898",
+        "https://doi.org/10.48550/arXiv.2308.10898"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
