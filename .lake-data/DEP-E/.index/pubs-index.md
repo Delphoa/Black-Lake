@@ -11569,3 +11569,10 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing* | Chen, Yaru; Guo, Ruohao; Gao, Liting; Xiang, Yang; Luo, Qingyu; Li, Zhenbo; Wang, Wenwu | [arXiv:2509.14097](https://arxiv.org/abs/2509.14097) |
+
+
+## [DEP-E-20260821-Is it Still Fair A 2428](../Series%20002/DEP-E-20260821-Is%20it%20Still%20Fair%20A%202428/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Is it Still Fair? A Comparative Evaluation of Fairness Algorithms through the Lens of Covariate Drift* | Deho, Oscar Blessed; Bewong, Michael; Kwashie, Selasi; Li, Jiuyong; Liu, Jixue; Liu, Lin; Joksimovic, Srecko | [arXiv:2409.12428](https://arxiv.org/abs/2409.12428) - [DOI](https://doi.org/10.48550/arXiv.2409.12428) |
