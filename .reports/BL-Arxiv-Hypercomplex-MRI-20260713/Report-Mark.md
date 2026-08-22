@@ -222,13 +222,13 @@ Thresholds above are synthetic placeholders. Real thresholds require authorized 
 - Source URL: https://arxiv.org/abs/2201.03230
   - Applies to: `Report-Mark.md`
   - Notes: SwinMR context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 1, finding 9.
 - Source URL: https://arxiv.org/abs/2607.02428
   - Applies to: `Report-Mark.md`
   - Notes: Primary source attributed by related DEP entry 1.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
   - Applies to: `Report-Mark.md`
   - Notes: Related DEP entry 2, finding 4.
 - Source URL: https://arxiv.org/abs/2607.02055

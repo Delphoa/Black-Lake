@@ -23,10 +23,10 @@ Agentic symbolic/scientific search is strongest when proposals are executable an
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260730-Tech%20Intel%201105/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%201105/README.md
   - Applies to: README.md, evopinn-agentic-discovery.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260730-Tech%20Intel%201105/daily_research_findings_2026-07-30_1105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%201105/daily_research_findings_2026-07-30_1105.md
   - Applies to: evopinn-agentic-discovery.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.26490v1

@@ -9,7 +9,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-02"
 temporal_cutoff: "Sources and repository context inspected through 2026-08-02"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260719-Tech%20Intel%200105"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105"
 stable_identifier: "Black-Lake-Data/.lake-data/DEP-20260719-Tech Intel 0105"
 confidence_summary: "Medium for cross-source synthesis; high for source identity and inspected mechanisms; low for independent reproducibility because no code, data, or experiments were rerun."
 safety_scope: "Defensive, evaluation-only, non-diagnostic, and authorized research translation."
@@ -24,8 +24,8 @@ This artifact reviews the selected Black-Lake-Data package `DEP-20260719-Tech In
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Source package manifest | Repository Markdown | DEP-20260719-Tech Intel 0105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%200105/README.md | Repository source; no source files redistributed | 2026-08-02 | Inspected |
-| S2 | Daily research findings | Primary intake record | Repository Markdown | 2026-07-19 0105 package | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%200105/daily_research_findings_2026-07-19_0105.md | Repository source; source URLs preserved | 2026-08-02 | Inspected |
+| S1 | Selected DEP README | Source package manifest | Repository Markdown | DEP-20260719-Tech Intel 0105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105/README.md | Repository source; no source files redistributed | 2026-08-02 | Inspected |
+| S2 | Daily research findings | Primary intake record | Repository Markdown | 2026-07-19 0105 package | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105/daily_research_findings_2026-07-19_0105.md | Repository source; source URLs preserved | 2026-08-02 | Inspected |
 | S3 | BadWAM | Primary paper | HTML / arXiv | arXiv:2607.15207v1 | https://arxiv.org/abs/2607.15207; https://arxiv.org/html/2607.15207 | Public preprint; license visible on record | 2026-08-02 | Abstract, method, threat model, and evaluation inspected |
 | S4 | Setup Complete, Now You Are Compromised | Primary paper | HTML / arXiv | arXiv:2607.15143v1 | https://arxiv.org/abs/2607.15143; https://arxiv.org/html/2607.15143 | Public preprint; no source artifact collected | 2026-08-02 | Abstract, methodology, results, and limitations inspected |
 | S5 | Plover | Primary paper | HTML / arXiv | arXiv:2607.15193v1 | https://arxiv.org/abs/2607.15193; https://arxiv.org/html/2607.15193 | Public preprint; no source artifact collected | 2026-08-02 | Abstract, evaluation, conclusion, and limitations inspected |
@@ -256,14 +256,14 @@ The Coulomb-blockade paper shows why system review must sometimes reach the phys
 | Coulomb blockade in microscopic material defects | Primary paper | Connects device loss to a measured microscopic mechanism and fabrication hypothesis | https://arxiv.org/abs/2607.15252; https://arxiv.org/html/2607.15252 |
 | The Distributed Open-Source Vulnerability Ecosystem | Primary paper | Explains identity, version, source, and time effects in vulnerability findings | https://arxiv.org/abs/2607.14900; https://arxiv.org/html/2607.14900 |
 | Analytic Abduction | Primary paper | Preserves competing causal explanations and evidence needed for commitment | https://arxiv.org/abs/2607.14641; https://arxiv.org/html/2607.14641 |
-| Selected DEP README and findings | Source package | Preserves the original selection boundary, summaries, and source inventory | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260719-Tech%20Intel%200105 |
+| Selected DEP README and findings | Source package | Preserves the original selection boundary, summaries, and source inventory | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105 |
 
 ## Source References
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%200105/README.md | Selected DEP inventory, context, and attribution | 2026-08-02 | Repository-relative source package record |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%200105/daily_research_findings_2026-07-19_0105.md | Ten-finding intake summaries and direct source URLs | 2026-08-02 | Repository-relative source package record |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105/README.md | Selected DEP inventory, context, and attribution | 2026-08-02 | Repository-relative source package record |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105/daily_research_findings_2026-07-19_0105.md | Ten-finding intake summaries and direct source URLs | 2026-08-02 | Repository-relative source package record |
 | R3 | https://arxiv.org/abs/2607.15207 | BadWAM identity and canonical abstract | 2026-08-02 | Full HTML also inspected |
 | R4 | https://arxiv.org/html/2607.15207 | BadWAM threat model, method, and evaluation structure | 2026-08-02 | Version v1 |
 | R5 | https://arxiv.org/abs/2607.15143 | Setup-attack identity and abstract | 2026-08-02 | Full HTML also inspected |
@@ -311,7 +311,7 @@ The Coulomb-blockade paper shows why system review must sometimes reach the phys
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: source repository standard and selected source package.
   - Notes: Live source README was fetched before review and writing.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260719-Tech%20Intel%200105
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105
   - Applies to: selected DEP README, findings, and manuscript provenance.
   - Notes: Selected source DEP; no original source files collected.
 - Source URL: https://arxiv.org/abs/2607.15207

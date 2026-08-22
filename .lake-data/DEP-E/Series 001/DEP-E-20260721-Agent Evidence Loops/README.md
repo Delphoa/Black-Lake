@@ -29,7 +29,7 @@ Practical follow-up should begin with commit-pinned, non-operational fixtures: a
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260714-Tech%20Intel%201305
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260714-Tech%20Intel%201305
   - Applies to: `agent-evidence-loops.md` and `README.md`.
   - Notes: Selected source DEP, including its README and ten-finding research artifact.
 - Source URL: https://arxiv.org/abs/2607.11086v1

@@ -23,10 +23,10 @@ This is directly relevant to safety evaluation for agentic companions and long-r
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md
   - Applies to: README.md, adapting-alphaevolve-to.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
   - Applies to: adapting-alphaevolve-to.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2605.14718v1

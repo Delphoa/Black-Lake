@@ -4,7 +4,7 @@
 
 - DEP Class: `DEP-E`
 - Artifact type: `DEP research package`
-- Source DEP: [`DEP-20260717-Tech Intel 0104`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104)
+- Source DEP: [`DEP-20260717-Tech Intel 0104`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104)
 - Run date: `2026-07-29`
 - Full-profile subject: *Verbalizable Representations Form a Global Workspace in Language Models*
 - Profile ID: `j-space-workspace-20260729`
@@ -115,10 +115,10 @@ The full profile keeps evolving analysis in DEP-E, freezes the focused review an
 
 ### Legacy multi-topic manuscript sources
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104
   - Applies to: `inspectable-agents.md` and this README.
   - Notes: Selected upstream source DEP for the original multi-topic artifact.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
   - Applies to: `inspectable-agents.md`.
   - Notes: Daily findings source for the original selection set.
 - Source URL: https://openai.com/index/unlocking-self-improvement-gpt-red/

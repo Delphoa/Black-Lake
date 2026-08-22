@@ -31,7 +31,7 @@ distribution_notes: "No local archive paths or source files are redistributed."
 | S8 | Black-Lake-Data README | Related repository standard | Markdown | main branch | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md | Related DEP layout and attribution standard. | 2026-07-09 | Inspected |
 | S9 | SANE Embeddings DEP | Related DEP entry | Markdown | DEP-E-20260709-SANE Embeddings | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md | Related conceptual source, not validation for CAR claims. | 2026-07-09 | Inspected |
 | S10 | 2D-RC OTFS DEP | Related DEP entry | Markdown | DEP-E-20260709-2D-RC OTFS | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md | Related conceptual source, not validation for CAR claims. | 2026-07-09 | Inspected |
-| S11 | Tech Intel 0105 DEP | Related DEP entry | Markdown | DEP-20260707-Tech Intel 0105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related MRI reconstruction and reliability finding. | 2026-07-09 | Inspected |
+| S11 | Tech Intel 0105 DEP | Related DEP entry | Markdown | DEP-20260707-Tech Intel 0105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related MRI reconstruction and reliability finding. | 2026-07-09 | Inspected |
 
 ## Evidence Ledger
 
@@ -230,7 +230,7 @@ def validate_avatar_audit(job):
 | Official CAR repository | Official implementation | Implementation and reproduction context. | https://github.com/TingtingLiao/CAR |
 | SANE Embeddings DEP | Related DEP | Alignment and local reconstruction concepts. | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md |
 | 2D-RC OTFS DEP | Related DEP | Domain-geometry-aware learning. | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md |
-| SA-RDM-DC MRI finding | Related DEP source basis | Reconstruction reliability and self-auditing context. | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md |
+| SA-RDM-DC MRI finding | Related DEP source basis | Reconstruction reliability and self-auditing context. | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md |
 | SA-RDM-DC source | Related arXiv paper | MRI reconstruction reliability source referenced by related DEP. | https://arxiv.org/abs/2607.02428 |
 
 ## Source References
@@ -248,7 +248,7 @@ def validate_avatar_audit(job):
 | R9 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md | Related repository DEP rules. | 2026-07-09 | README inspected. |
 | R10 | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-SANE Embeddings/sane_embeddings_manuscript.md | Related DEP synthesis. | 2026-07-09 | Related artifact inspected. |
 | R11 | Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md | Related DEP synthesis. | 2026-07-09 | Related artifact inspected. |
-| R12 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related MRI reconstruction finding. | 2026-07-09 | Related artifact inspected. |
+| R12 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related MRI reconstruction finding. | 2026-07-09 | Related artifact inspected. |
 | R13 | https://arxiv.org/abs/2607.02428 | Source basis for SA-RDM-DC MRI reconstruction finding. | 2026-07-09 | Referenced through related artifact. |
 
 ## Appendix

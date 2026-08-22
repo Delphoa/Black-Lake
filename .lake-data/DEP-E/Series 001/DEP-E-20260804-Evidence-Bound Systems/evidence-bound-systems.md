@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-04"
 temporal_cutoff: "2026-08-04"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/README.md"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/README.md"
 stable_identifier: "DEP-20260718-Tech Intel 1304; DEP-E-20260804-Evidence-Bound Systems"
 confidence_summary: "Medium-high for source characterization; lower for generalization because no reported experiment was independently reproduced."
 safety_scope: "defensive, evaluation-oriented, privacy-preserving, and non-clinical"
@@ -21,8 +21,8 @@ distribution_notes: "Public derived review; source papers and repositories retai
 
 | ID | Source | Authors / organization | Role | Identifier / Version | URL | Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Delphoa-Labs | Primary source-package manifest | DEP-20260718-Tech Intel 1304 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/README.md | Public repository text | 2026-08-04 | Inspected |
-| S2 | Daily Research Findings | Delphoa-Labs | Source synthesis and ten-item inventory | 2026-07-18 record | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md | Public repository text; source-reported claims were rechecked | 2026-08-04 | Inspected |
+| S1 | Selected DEP README | Delphoa-Labs | Primary source-package manifest | DEP-20260718-Tech Intel 1304 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/README.md | Public repository text | 2026-08-04 | Inspected |
+| S2 | Daily Research Findings | Delphoa-Labs | Source synthesis and ten-item inventory | 2026-07-18 record | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md | Public repository text; source-reported claims were rechecked | 2026-08-04 | Inspected |
 | S3 | Proof-or-Stop | Jek Huang; Jeffery Hsia; Jiayi Sun; Freddie Shi; Wei Huang; Ian H. White | Primary paper | arXiv:2607.14890v1 | https://arxiv.org/abs/2607.14890 | CC BY-NC-SA 4.0 shown on full-text record | 2026-08-04 | Full HTML inspected |
 | S4 | Transcoders for Investigating Deception | Darius Lim; Nathan Leow; Xin Wei Chia | Primary paper | arXiv:2607.14791v1 | https://arxiv.org/abs/2607.14791 | CC BY 4.0 shown on full-text record | 2026-08-04 | Full HTML inspected |
 | S5 | SMC-ES | Riccardo Curcio; Toni Mancini; Enrico Tronci | Primary paper | arXiv:2607.15003v1 | https://arxiv.org/abs/2607.15003 | Usage governed by source record | 2026-08-04 | Full HTML inspected |
@@ -266,8 +266,8 @@ This is an initial synthesis. All ten primary threads are new to this DEP-E pass
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/README.md | E1, source package identity and attribution | 2026-08-04 | Public repository path; no local path published |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md | E2, ten-item discovery inventory | 2026-08-04 | Source synthesis; primary claims independently checked |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/README.md | E1, source package identity and attribution | 2026-08-04 | Public repository path; no local path published |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md | E2, ten-item discovery inventory | 2026-08-04 | Source synthesis; primary claims independently checked |
 | R3 | https://arxiv.org/abs/2607.14890 | E3, evidence-gated lifecycle control | 2026-08-04 | v1; complete HTML inspected |
 | R4 | https://arxiv.org/abs/2607.14791 | E4, transcoder feature circuits | 2026-08-04 | v1; complete HTML inspected |
 | R5 | https://arxiv.org/abs/2607.15003 | E5, statistical policy verification | 2026-08-04 | v1; complete HTML inspected; paper says code will be public upon acceptance |

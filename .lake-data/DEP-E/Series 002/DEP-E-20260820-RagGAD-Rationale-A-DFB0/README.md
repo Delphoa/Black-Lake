@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260819-Research Data 2234 
 - Source URL: https://arxiv.org/html/2608.16018
   - Applies to: `raggad-rationale-a-dfb0.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0780
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0780
   - Applies to: `raggad-rationale-a-dfb0.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

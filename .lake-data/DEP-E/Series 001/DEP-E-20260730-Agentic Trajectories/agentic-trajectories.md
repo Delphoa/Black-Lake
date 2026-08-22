@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-07-30"
 temporal_cutoff: "2026-07-30"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104"
 stable_identifier: "DEP-20260630-Tech Intel 0104"
 confidence_summary: "Medium-high for the reported source-specific results; medium for the cross-domain synthesis because no independent reproduction was performed."
 safety_scope: "defensive evaluation, privacy-preserving governance, and authorized research"
@@ -21,8 +21,8 @@ distribution_notes: "Public-source synthesis; source licenses vary and no source
 
 | ID | Work and authors | Role / type | Identifier / version | Public locator | License / usage notes | Access date | Status |
 |---|---|---|---|---|---|---|---|
-| S1 | `DEP-20260630-Tech Intel 0104`, Delphoa-Labs/Black-Lake-Data | Primary intake DEP / Markdown | Repository `main` snapshot inspected on access date | [DEP directory](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104) | Repository-level license not visible in the inspected root; referenced, not redistributed | 2026-07-30 | README and inventory inspected |
-| S2 | *Daily Research Findings - 2026-06-30 0104*, producing organization not stated in the file | Intake synthesis / Markdown | Repository file in S1 | [Research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) | Repository-level license not visible; used as a discovery and comparison layer | 2026-07-30 | All ten findings inspected |
+| S1 | `DEP-20260630-Tech Intel 0104`, Delphoa-Labs/Black-Lake-Data | Primary intake DEP / Markdown | Repository `main` snapshot inspected on access date | [DEP directory](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104) | Repository-level license not visible in the inspected root; referenced, not redistributed | 2026-07-30 | README and inventory inspected |
+| S2 | *Daily Research Findings - 2026-06-30 0104*, producing organization not stated in the file | Intake synthesis / Markdown | Repository file in S1 | [Research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) | Repository-level license not visible; used as a discovery and comparison layer | 2026-07-30 | All ten findings inspected |
 | S3 | *The Shift to Agentic AI: Evidence from Codex*, Drew Johnston, David Holtz, Alex Martin Richmond, Christopher Ong, Prasanna Tambe, Aaron Chatterji | Primary paper / full-paper HTML | arXiv:2606.26959v1, 2026-06-25 | [arXiv](https://arxiv.org/abs/2606.26959) | arXiv perpetual non-exclusive license shown | 2026-07-30 | Abstract, methods, results, figures, classifier notes, and conclusion inspected |
 | S4 | *scBench-Long: Verifiable Benchmarking of Long-Horizon Single-Cell Biology*, Ian Diks, Zhen Yang, Arjun Banerjee, Tim Proctor, Kenny Workman | Primary paper / full-paper HTML | arXiv:2606.26563v1, 2026-06-25 | [arXiv](https://arxiv.org/abs/2606.26563) | CC BY 4.0 shown | 2026-07-30 | Benchmark design, results, failure analysis, harness effects, and discussion inspected |
 | S5 | *ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents*, Shijing Hu, Liang Liu, Zhu Meng, Zhicheng Zhao | Primary paper / full-paper HTML | arXiv:2606.28061v1, 2026-06-26 | [arXiv](https://arxiv.org/abs/2606.28061) | arXiv perpetual non-exclusive license shown | 2026-07-30 | Policy model, metrics, execution procedure, results, cases, and conclusion inspected |
@@ -254,8 +254,8 @@ S12 combines fragment molecular orbitals with GFN1-xTB and analytic gradients. R
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/README.md) | Source inventory, attribution, and initial cross-source relationship | 2026-07-30 | Repository Markdown inspected; no external file collected |
-| R2 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) | Intake summaries and ranked finding set | 2026-07-30 | Discovery layer only; primary claims checked against R3-R12 |
+| R1 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/README.md) | Source inventory, attribution, and initial cross-source relationship | 2026-07-30 | Repository Markdown inspected; no external file collected |
+| R2 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) | Intake summaries and ranked finding set | 2026-07-30 | Discovery layer only; primary claims checked against R3-R12 |
 | R3 | [Johnston et al., arXiv:2606.26959v1](https://arxiv.org/abs/2606.26959) | Codex adoption, task complexity, concurrency, runtime, and skills | 2026-07-30 | Full-paper HTML inspected; no payload collected |
 | R4 | [Diks et al., arXiv:2606.26563v1](https://arxiv.org/abs/2606.26563) | scBench-Long design, results, failure modes, and harness effects | 2026-07-30 | Full-paper HTML inspected; no payload collected |
 | R5 | [Hu et al., arXiv:2606.28061v1](https://arxiv.org/abs/2606.28061) | Purpose-bound privacy definitions, 2,150-case benchmark, metrics, and failures | 2026-07-30 | Full-paper HTML inspected; no payload collected |

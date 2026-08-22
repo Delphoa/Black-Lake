@@ -29,10 +29,10 @@ The artifact connects ten distinct mechanisms through one reviewer-level design 
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: `README.md` and provenance handling.
   - Notes: Live source-repository rules fetched before writing.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/README.md
   - Applies to: `evidence-bound-systems.md`.
   - Notes: Selected source package manifest and attribution record.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304/daily_research_findings_2026-07-18_1304.md
   - Applies to: `evidence-bound-systems.md`.
   - Notes: Selected ten-item discovery inventory; primary claims were rechecked.
 - Source URL: https://arxiv.org/abs/2607.14890

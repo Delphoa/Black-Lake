@@ -66,7 +66,7 @@ AMAD's lasting design insight is not merely the use of an adversarial autoencode
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260712-HSD%20FTI-FDet/hsd_fti_fdet_manuscript.md
   - Applies to: `README.md`; `amad_anomaly_manuscript.md`
   - Notes: Related DEP bridge on industrial fault detection, field shift, and deployment constraints.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%201103/daily_research_findings_2026-06-27_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%201103/daily_research_findings_2026-06-27_1103.md
   - Applies to: `README.md`; `amad_anomaly_manuscript.md`
   - Notes: Related DEP bridge; finding 10 covers Kalman prototypical few-shot fault detection under nonstationarity.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/README.md

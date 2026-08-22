@@ -142,8 +142,8 @@ The table's assessment column is intentionally calibrated. “Supported” means
 
 ### Directly inspected or canonical public sources
 
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/README.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/README.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
 - [https://www.ibm.com/quantum/blog/quantum-advantage](https://www.ibm.com/quantum/blog/quantum-advantage) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
 - [https://arxiv.org/abs/2607.24937](https://arxiv.org/abs/2607.24937) — Canonical metadata locator exposed by the source DEP-E; identity context only in this run.
 - [https://arxiv.org/abs/2607.25941](https://arxiv.org/abs/2607.25941) — Canonical metadata locator exposed by the source DEP-E; identity context only in this run.
@@ -272,8 +272,8 @@ The complete repository record was inspected at the pinned commit. The primary o
 
 [^source-dep]: Complete source DEP-E record: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum%20advantage%20through
 [^source-state]: Exact source commit: https://github.com/Delphoa/Black-Lake/commit/3d2403b83a72486215ae81181f71fb8171d3d29d
-[^primary-one]: Primary public source: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/README.md
-[^primary-two]: Additional complete or canonical source locator: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md
+[^primary-one]: Primary public source: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/README.md
+[^primary-two]: Additional complete or canonical source locator: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md
 [^repository]: Black Lake repository and live class policy: https://github.com/Delphoa/Black-Lake
 
 The source DEP-E identity is preserved by its public repository locator,[^source-dep] exact source commit,[^source-state] and canonical primary record.[^primary-one] The evidence check also used the additional locator recorded above.[^primary-two] Repository policy was read from the live project before drafting.[^repository]

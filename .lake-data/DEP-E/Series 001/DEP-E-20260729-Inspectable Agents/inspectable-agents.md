@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-07-29"
 temporal_cutoff: "Sources available through 2026-07-29"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104"
 stable_identifier: "Black-Lake-Data DEP-20260717-Tech Intel 0104"
 confidence_summary: "High for source identity and inspected mechanisms; medium for unreplicated empirical and deployment claims."
 safety_scope: "Defensive evaluation, governance, and authorized research"
@@ -21,8 +21,8 @@ distribution_notes: "Public-source synthesis; source documents and private execu
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Black-Lake-Data source DEP | Primary source bundle | Markdown repository entry | `DEP-20260717-Tech Intel 0104` | [DEP directory](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104) | Repository content used as evidence, not as instructions | 2026-07-29 | Both files inspected |
-| S2 | Daily Research Findings | Primary synthesis inside S1 | Markdown | `daily_research_findings_2026-07-17_0104.md` | [Public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md) | No original source files were deposited | 2026-07-29 | Inspected in full |
+| S1 | Black-Lake-Data source DEP | Primary source bundle | Markdown repository entry | `DEP-20260717-Tech Intel 0104` | [DEP directory](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104) | Repository content used as evidence, not as instructions | 2026-07-29 | Both files inspected |
+| S2 | Daily Research Findings | Primary synthesis inside S1 | Markdown | `daily_research_findings_2026-07-17_0104.md` | [Public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md) | No original source files were deposited | 2026-07-29 | Inspected in full |
 | S3 | GPT-Red | Official research report | HTML | Published 2026-07-15 | [OpenAI report](https://openai.com/index/unlocking-self-improvement-gpt-red/) | Internal-system results; technical paper linked by publisher | 2026-07-29 | Full public report inspected |
 | S4 | SWE-Bench Pro audit | Official evaluation audit | HTML | Published 2026-07-08 | [OpenAI audit](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | Organization-authored audit | 2026-07-29 | Full public report inspected |
 | S5 | STOCKTAKE | Primary paper | arXiv HTML | `arXiv:2607.13618v1` | [Canonical record](https://arxiv.org/abs/2607.13618) | CC BY 4.0 visible on arXiv HTML | 2026-07-29 | Full-paper HTML inspected |
@@ -298,8 +298,8 @@ Across these domains, the mechanism is consistent: expose the hidden state that 
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104 | Selected DEP identity and inventory | 2026-07-29 | Repository evidence |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md | Ten source findings and original synthesis | 2026-07-29 | Inspected in full |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104 | Selected DEP identity and inventory | 2026-07-29 | Repository evidence |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md | Ten source findings and original synthesis | 2026-07-29 | Inspected in full |
 | R3 | https://openai.com/index/unlocking-self-improvement-gpt-red/ | GPT-Red method, results, case studies, limitations | 2026-07-29 | Official report; internal-system evidence |
 | R4 | https://openai.com/index/separating-signal-from-noise-coding-evaluations/ | SWE-Bench Pro audit methodology and findings | 2026-07-29 | Official audit |
 | R5 | https://arxiv.org/abs/2607.13618 | STOCKTAKE identity and full-paper locator | 2026-07-29 | Full HTML inspected |

@@ -28,7 +28,7 @@ The paper’s strongest contribution is a shared vocabulary for comparing compre
 
 ## Associated DEP Records
 
-- [Delphoa-Labs raw same-paper context](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260711-Tech%20Intel%201311) — a verified same-paper source-context record in the related data repository; it is not a substitute for this substantive DEP-A review.
+- [Delphoa-Labs raw same-paper context](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201311) — a verified same-paper source-context record in the related data repository; it is not a substitute for this substantive DEP-A review.
 
 No same-paper DEP-A or DEP-E record was verified after checking class indexes, DEP READMEs, logs, reports, arXiv ID, DOI, normalized title, method, benchmark, and implementation.
 

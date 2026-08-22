@@ -22,7 +22,7 @@ distribution_notes: "Derived review only; no source PDFs, datasets, code, creden
 | ID | Source | Role | Type | Identifier / Version | URL / Repository-relative path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
 | S1 | Health system learning enables generalist neuroimaging models | Primary research artifact | Publisher HTML and embedded metadata | https://www.nature.com/articles/s41591-026-04497-1 | https://www.nature.com/articles/s41591-026-04497-1; https://www.nature.com/articles/s41591-026-04497-1 | Public research source; no source file redistributed | 2026-08-20 | Inspected |
-| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260804-Tech Intel 0102 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260804-Tech%20Intel%200102 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
+| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260804-Tech Intel 0102 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%200102 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
 
 The selected DEP contains 2 inspected Markdown file(s) and no newly collected source payload. The primary publication date recorded by official metadata is `2026/07/10`. No prior Report-Mark was present in the selected DEP, so this is an initial processing pass and no iterative supporting-document draw was required.
 
@@ -164,7 +164,7 @@ The source includes an identifiable limitations or discussion section, strengthe
 |---|---|---|---|
 | Health system learning enables generalist neuroimaging models | Primary research thread | Primary work selected from the source DEP and inspected in this pass. | https://www.nature.com/articles/s41591-026-04497-1 |
 | Official full-text representation | Primary source format | Full HTML used to locate abstract, methodology, evaluation, limitations, and conclusion evidence where available. | https://www.nature.com/articles/s41591-026-04497-1 |
-| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260804-Tech%20Intel%200102 |
+| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%200102 |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://developer.android.com/blog/posts/android-17-is-here?hl=en |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://www.nature.com/articles/s41467-026-75326-9 |
@@ -174,8 +174,8 @@ The source includes an identifiable limitations or discussion section, strengthe
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
 | R1 | https://www.nature.com/articles/s41591-026-04497-1 | Canonical title, authors, publication metadata, identifier, and source status | 2026-08-20 | Primary record inspected |
-| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260804-Tech%20Intel%200102/daily_research_findings_2026-08-04_0102.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
-| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260804-Tech%20Intel%200102/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%200102/daily_research_findings_2026-08-04_0102.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%200102/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
 
 ## Appendix
 

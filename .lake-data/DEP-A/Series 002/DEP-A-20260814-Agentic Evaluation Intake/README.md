@@ -73,10 +73,10 @@ Passing the included review methodology supports auditability, observability, an
 - Source URL: https://arxiv.org/abs/2605.12116
   - Item: MPEX milestone report; complete canonical HTML rechecked, physical and HPC milestones not validated.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md
   - Item: Underlying source-package identity used by the selected DEP-E.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
   - Item: Underlying ten-finding source artifact used by the selected DEP-E.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Generated review: `whitepaper-intake-review.md`

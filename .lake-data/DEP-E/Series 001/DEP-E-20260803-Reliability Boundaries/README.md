@@ -26,10 +26,10 @@ The package connects verification of outsourced inference, harness-owned memory,
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: repository rules and source-package provenance.
   - Notes: Live source README was fetched before writing.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md
   - Applies to: reliability-boundaries.md and this README.
   - Notes: Selected source DEP README and package boundary.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
   - Applies to: reliability-boundaries.md and this README.
   - Notes: Selected source findings and ten-item source inventory.
 - Source URL: https://arxiv.org/abs/2607.21162

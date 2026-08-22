@@ -29,7 +29,7 @@ DepthWeave-KV describes a potentially useful adaptive rank-allocation mechanism,
 ## Associated DEP Records
 
 - [DEP-E-20260710-Tech Intel 0101](../../../DEP-E/Series%20001/DEP-E-20260710-Tech%20Intel%200101/README.md) — verified same-paper DEP-E context in this repository; it is related evidence, not a duplicate DEP-A review.
-- [Delphoa-Labs same-paper context](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260709-Tech%20Intel%200101) — verified same-paper source-context record in the related data repository.
+- [Delphoa-Labs same-paper context](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260709-Tech%20Intel%200101) — verified same-paper source-context record in the related data repository.
 
 ## Attribution Block
 

@@ -23,7 +23,7 @@ Across otherwise unrelated domains, the reviewed systems improve reliability by 
 
 ## Attribution Block
 
-- **Selected source DEP:** [`Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260712-Tech Intel 1304`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201304)
+- **Selected source DEP:** [`Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260712-Tech Intel 1304`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201304)
 - **Source documents:** `README.md` and `daily_research_findings_2026-07-12_1304.md` in the selected source DEP.
 - **Primary records:** [arXiv:2607.08399](https://arxiv.org/abs/2607.08399), [arXiv:2607.08400](https://arxiv.org/abs/2607.08400), [arXiv:2607.08180](https://arxiv.org/abs/2607.08180), [arXiv:2607.07989](https://arxiv.org/abs/2607.07989), [arXiv:2607.07719](https://arxiv.org/abs/2607.07719), [arXiv:2607.07721](https://arxiv.org/abs/2607.07721), [arXiv:2607.07727](https://arxiv.org/abs/2607.07727), [arXiv:2607.07890](https://arxiv.org/abs/2607.07890), [arXiv:2607.08212](https://arxiv.org/abs/2607.08212), and [arXiv:2607.08220](https://arxiv.org/abs/2607.08220).
 - **Official implementations:** [ReCoLoRA](https://github.com/bhqy666/ReCoLoRA) and [SPL.py](https://github.com/digital-duck/SPL.py).

@@ -21,10 +21,10 @@ distribution_notes: "No local paths, source documents, private data, credentials
 
 | ID | Source | Role | Type | Version / identifier | Public locator | Access date | Status |
 |---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Source package boundary | Repository Markdown | DEP-20260716-Tech Intel 1303 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/README.md | 2026-08-19 | Inspected |
-| S2 | Selected DEP findings | Prior ten-thread inventory | Repository Markdown | 2026-07-16 source package | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | 2026-08-19 | Inspected |
-| S3 | Prior source Report-Mark | Lineage and prior section copy | Repository Markdown | BL-DEP-Mark001 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/BL-DEP-Mark001%20Report-Mark.md | 2026-08-19 | Inspected |
-| S4 | Prior source report | Prior processing record | Repository Markdown | 2026-08-04 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.reports/BL-DEP-20260716-Tech%20Intel%201303-20260804/README.md | 2026-08-19 | Inspected |
+| S1 | Selected DEP README | Source package boundary | Repository Markdown | DEP-20260716-Tech Intel 1303 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/README.md | 2026-08-19 | Inspected |
+| S2 | Selected DEP findings | Prior ten-thread inventory | Repository Markdown | 2026-07-16 source package | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | 2026-08-19 | Inspected |
+| S3 | Prior source Report-Mark | Lineage and prior section copy | Repository Markdown | BL-DEP-Mark001 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/BL-DEP-Mark001%20Report-Mark.md | 2026-08-19 | Inspected |
+| S4 | Prior source report | Prior processing record | Repository Markdown | 2026-08-04 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.reports/Series/AA/AA/00/00/AA-AA00-0000/BL-DEP-20260716-Tech%20Intel%201303-20260804/README.md | 2026-08-19 | Inspected |
 | S5 | Prior output log | Prior output and validation lineage | Repository Markdown | 2026-08-04 | https://github.com/Delphoa/Black-Lake/blob/main/.logs/20260804-DEP-20260716-Tech%20Intel%201303-LOG.md | 2026-08-19 | Inspected |
 | S6 | Prior DEP-E manuscript | Inherited ten-thread synthesis | Repository Markdown | DEP-E-20260804-Agent Systems | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Agent%20Systems/agent-systems.md | 2026-08-19 | Inspected |
 | S7 | AgentCompass arXiv record | Current primary metadata | HTML | arXiv:2607.13705v3; submitted 2026-07-15, revised 2026-07-20 | https://arxiv.org/abs/2607.13705 | 2026-08-19 | Inspected |
@@ -226,10 +226,10 @@ The following source threads remain part of the selected DEP's semantic context.
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/README.md | E1 and selected source package identity | 2026-08-19 | Live source DEP README; no local path published. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | E2 and prior ten-thread inventory | 2026-08-19 | Source synthesis; not independent reproduction. |
-| R3 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/BL-DEP-Mark001%20Report-Mark.md | E3 and prior section lineage | 2026-08-19 | Prior Report-Mark inspected. |
-| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.reports/BL-DEP-20260716-Tech%20Intel%201303-20260804/README.md | E3 and prior processing record | 2026-08-19 | Prior source report inspected. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/README.md | E1 and selected source package identity | 2026-08-19 | Live source DEP README; no local path published. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | E2 and prior ten-thread inventory | 2026-08-19 | Source synthesis; not independent reproduction. |
+| R3 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/BL-DEP-Mark001%20Report-Mark.md | E3 and prior section lineage | 2026-08-19 | Prior Report-Mark inspected. |
+| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.reports/Series/AA/AA/00/00/AA-AA00-0000/BL-DEP-20260716-Tech%20Intel%201303-20260804/README.md | E3 and prior processing record | 2026-08-19 | Prior source report inspected. |
 | R5 | https://github.com/Delphoa/Black-Lake/blob/main/.logs/20260804-DEP-20260716-Tech%20Intel%201303-LOG.md | E3 and prior output validation | 2026-08-19 | Prior output log inspected. |
 | R6 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260804-Agent%20Systems/agent-systems.md | E3 and E9 inherited synthesis | 2026-08-19 | Prior manuscript; retained context, not new primary evidence. |
 | R7 | https://arxiv.org/abs/2607.13705 | E4, current metadata, authors, version history, and abstract | 2026-08-19 | Current record is v3; v1 was the earlier source-package record. |

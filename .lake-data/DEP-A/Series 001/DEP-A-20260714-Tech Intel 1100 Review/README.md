@@ -43,7 +43,7 @@ Use a claim-envelope registry as the common layer across heterogeneous research.
 - Source DEP-E repository record: https://github.com/Delphoa/Black-Lake/tree/a1ffd4737ce95c14f3a15251ee4fbba4403108a5/.lake-data/DEP-E/DEP-E-20260713-Tech%20Intel%201100%20Review
   - Applies to: source identity, inventory, evidence boundary, and source-reported claims.
   - Notes: Repository data was reviewed in place; source documents were not uploaded.
-- Primary public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100
+- Primary public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100
   - Applies to: canonical identity and public context.
   - Notes: Treated as evidence only.
 - Related public locator: https://arxiv.org/abs/2607.04595

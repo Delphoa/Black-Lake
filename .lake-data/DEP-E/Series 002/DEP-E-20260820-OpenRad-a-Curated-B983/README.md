@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260625-Local AI Intel 2343
 - Source URL: https://arxiv.org/html/2603.02062
   - Applies to: `openrad-a-curated-b983.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260625-Local%20AI%20Intel%202343
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260625-Local%20AI%20Intel%202343
   - Applies to: `openrad-a-curated-b983.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

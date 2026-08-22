@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260722-Tech Intel 0105` in
 - Source URL: https://arxiv.org/html/2607.16645
   - Applies to: `geometric-power-ca-0188.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260722-Tech%20Intel%200105
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260722-Tech%20Intel%200105
   - Applies to: `geometric-power-ca-0188.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

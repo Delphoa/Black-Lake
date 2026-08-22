@@ -154,10 +154,10 @@ def ledger_row(agent_id: str, margin: float, solver_ok: bool, priority: int) -> 
   - Applies to: constrained vehicle-control synthesis.
   - Source reference: https://arxiv.org/abs/2110.12359
 - Repository path: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260711-Tech Intel 0104/daily_research_findings_2026-07-11_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%200104/daily_research_findings_2026-07-11_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%200104/daily_research_findings_2026-07-11_0104.md
   - Applies to: asynchronous, re-grounded robot-control synthesis.
   - Source reference: https://arxiv.org/abs/2607.08639
 - Repository path: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260705-Tech Intel 0104/daily_research_findings_2026-07-05_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
   - Applies to: constraint-verification and fallback-control synthesis.
   - Source reference: https://arxiv.org/abs/2607.02379

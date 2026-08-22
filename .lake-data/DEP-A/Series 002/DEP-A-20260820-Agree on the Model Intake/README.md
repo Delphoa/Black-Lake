@@ -46,10 +46,10 @@ Passing the included review methodology supports auditability, observability, an
 - Source URL: https://arxiv.org/abs/2607.21162v1
   - Item: Canonical metadata locator exposed by the source DEP-E; identity context only in this run.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Source URL: https://arxiv.org/abs/2607.20832

@@ -20,7 +20,7 @@ The artifact identifies a layered trust pattern across the source set: readiness
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260726-Tech%20Intel%201302
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260726-Tech%20Intel%201302
   - Applies to: `agent-trust-systems.md`
   - Notes: Selected source DEP and repository provenance.
 - Source URL: https://arxiv.org/abs/2607.21475

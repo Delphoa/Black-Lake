@@ -26,10 +26,10 @@ The artifact connects several forms of boundary-making: behavioral objectives an
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: `README.md` and `agent-systems.md`.
   - Notes: Live source-repository deposition rules were fetched before writing.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/README.md
   - Applies to: `agent-systems.md` and the source provenance record.
   - Notes: Selected source DEP boundary, inventory, interpretation, and attribution block.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
   - Applies to: `agent-systems.md`.
   - Notes: Selected ten-finding source inventory and source-reported summaries.
 - Source URL: https://arxiv.org/abs/2607.14006

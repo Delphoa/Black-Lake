@@ -42,7 +42,7 @@ Experiments use random 200-state/50-action MDPs, Tsallis-2 entropy or a log barr
 
 1. `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md` - abstract MDP safety monitoring and controller switching.
 2. `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` - empirical proxy-reward policy optimization with function approximation.
-3. `https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md` - distributional-RL risk-claim auditing against environment ground truth.
+3. `https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md` - distributional-RL risk-claim auditing against environment ground truth.
 
 ## Synthesis Note
 

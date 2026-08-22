@@ -21,10 +21,10 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Role | Type | Identifier / Version | URL / Local Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260702-Tech Intel 1102 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
-| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-02_1102.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260702-Tech Intel 1102 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-02_1102.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | Repository evidence; public URL | 2026-08-19 | Inspected |
 | S3 | Harnessing Textual Refusal Directions for Multimodal Safety | Selected supporting source | arXiv record | 2606.31876 | https://arxiv.org/abs/2606.31876v2 | Metadata and source-package claims only | 2026-08-19 | Canonical arXiv Atom record inspected |
-| S4 | Prior Report-Mark | Lineage context | Markdown | BL-DEP-Mark001 Report-Mark.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | Prior review context | 2026-08-19 | Inspected |
+| S4 | Prior Report-Mark | Lineage context | Markdown | BL-DEP-Mark001 Report-Mark.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | Prior review context | 2026-08-19 | Inspected |
 
 - Paper/work title: Harnessing Textual Refusal Directions for Multimodal Safety
 - Authors or producing organization: Moreno D'Incà; Nicu Sebe; Massimiliano Mancini
@@ -39,10 +39,10 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Source Type | Evidence Used | Supports | Confidence | Limitations |
 |---|---|---|---|---|---|---|
-| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
-| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | Deposited source synthesis | ** ProtoPilot is a self-evolving multi-agent system for converting biological intent into protocols, SOPs, SDK-compliant lab code, and wet-lab feedback revisions. The benchmark spans 294 synthetic- and molecular-biology tasks derived from 98 gold-standard protocols, with device-level validity gates and real experimental tests. Reported results include 90.2% Top@3 expert preference, 89.5% protocol-to-code gate pass rate, and 88.24% Opentrons pass rate. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
+| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
+| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | Deposited source synthesis | ** ProtoPilot is a self-evolving multi-agent system for converting biological intent into protocols, SOPs, SDK-compliant lab code, and wet-lab feedback revisions. The benchmark spans 294 synthetic- and molecular-biology tasks derived from 98 gold-standard protocols, with device-level validity gates and real experimental tests. Reported results include 90.2% Top@3 expert preference, 89.5% protocol-to-code gate pass rate, and 88.24% Opentrons pass rate. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
 | E3 | https://arxiv.org/abs/2606.31876v2 | Canonical arXiv metadata | Title, identity, version/date metadata, authors or credited organization, and availability | Primary source identity | High | No code, data, model, benchmark, or experiment was executed. |
-| E4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | Prior Report-Mark | Earlier review lineage and preserved references | Iterative-expansion context | Medium-high | Prior interpretation was not treated as fresh primary evidence. |
+| E4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | Prior Report-Mark | Earlier review lineage and preserved references | Iterative-expansion context | Medium-high | Prior interpretation was not treated as fresh primary evidence. |
 
 ## Executive Summary
 
@@ -184,10 +184,10 @@ The work is most useful as a testable research direction. A downstream team shou
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
 | R3 | https://arxiv.org/abs/2606.31876v2 | E3 and selected supporting-source identity | 2026-08-19 | Canonical arXiv Atom record inspected; no source payload redistributed. |
-| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | E4 and prior review lineage | 2026-08-19 | Prior Report-Mark inspected for iterative context. |
+| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/BL-DEP-Mark001%20Report-Mark.md | E4 and prior review lineage | 2026-08-19 | Prior Report-Mark inspected for iterative context. |
 
 No original PDF, source archive, code repository, dataset, model, benchmark payload, container, credential, private record, or hardware artifact was collected or deposited.
 

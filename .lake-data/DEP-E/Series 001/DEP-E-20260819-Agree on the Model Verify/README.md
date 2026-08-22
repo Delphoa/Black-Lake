@@ -23,10 +23,10 @@ Delegated inference is useful only if a client can verify that the intended mode
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md
   - Applies to: README.md, agree-on-the-model-verify.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md
   - Applies to: agree-on-the-model-verify.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.21162v1

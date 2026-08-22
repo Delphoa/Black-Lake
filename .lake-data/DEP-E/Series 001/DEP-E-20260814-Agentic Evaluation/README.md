@@ -18,10 +18,10 @@ The source set converges on a common evaluation principle: agentic systems becom
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md
   - Applies to: README.md and agentic-evaluation.md
   - Notes: Selected source DEP identity, inventory, tags, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md
   - Applies to: agentic-evaluation.md
   - Notes: Ten ranked findings and direct source locators.
 - Source URL: https://arxiv.org/abs/2606.25396

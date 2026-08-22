@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260819-Tech Intel 2124 D00
 - Source URL: https://arxiv.org/html/2608.16628
   - Applies to: `hypergraph-based-ac54.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Tech%20Intel%202124%20D0082
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%202124%20D0082
   - Applies to: `hypergraph-based-ac54.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

@@ -221,8 +221,8 @@ This is an initial synthesis, not an iterative supporting-document expansion. No
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/README.md | E1, source package identity and attribution | 2026-08-04 | Repository-relative source package; no local path published. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | E2, ten-item inventory and source-reported summaries | 2026-08-04 | Source synthesis; not a substitute for independent reproduction. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/README.md | E1, source package identity and attribution | 2026-08-04 | Repository-relative source package; no local path published. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md | E2, ten-item inventory and source-reported summaries | 2026-08-04 | Source synthesis; not a substitute for independent reproduction. |
 | R3 | https://arxiv.org/abs/2607.14006 | E3, objective-driven behavioral security testing | 2026-08-04 | v1 record; abstract/metadata inspected. |
 | R4 | https://arxiv.org/abs/2607.13716 | E4, canonical action verification and attestation | 2026-08-04 | v1 working-paper record; abstract/metadata inspected. |
 | R5 | https://arxiv.org/abs/2607.13705 | E5, modular evaluation infrastructure | 2026-08-04 | Source package reflects an early record; current page shows v3. |

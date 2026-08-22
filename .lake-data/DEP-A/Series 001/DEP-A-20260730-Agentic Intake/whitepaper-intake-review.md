@@ -153,9 +153,9 @@ The table's assessment column is intentionally calibrated. “Supported” means
 - [https://arxiv.org/abs/2606.28182](https://arxiv.org/abs/2606.28182) — Persistent arXiv-issued DOI or equivalent canonical locator.
 - [https://arxiv.org/abs/2606.28228](https://arxiv.org/abs/2606.28228) — Persistent arXiv-issued DOI or equivalent canonical locator.
 - [https://arxiv.org/abs/2606.28279](https://arxiv.org/abs/2606.28279) — Persistent arXiv-issued DOI or equivalent canonical locator.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) — Persistent arXiv-issued DOI or equivalent canonical locator.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104) — Persistent arXiv-issued DOI or equivalent canonical locator.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/README.md) — Persistent arXiv-issued DOI or equivalent canonical locator.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md) — Persistent arXiv-issued DOI or equivalent canonical locator.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104) — Persistent arXiv-issued DOI or equivalent canonical locator.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/README.md) — Persistent arXiv-issued DOI or equivalent canonical locator.
 
 ### Associated DEP records
 

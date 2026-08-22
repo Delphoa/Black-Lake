@@ -24,9 +24,9 @@ The source paper extends cascading bandit analysis to multiplayer information-as
 
 ## Attribution Block
 
-- Source DEP: [Black-Lake-Data/.lake-data/DEP-20260820-Research Data 1104 D3949](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260820-Research%20Data%201104%20D3949)
-- Source DEP README: [README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260820-Research%20Data%201104%20D3949/README.md)
-- Source finding: [dep3949_research_findings_2026-08-20_1104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260820-Research%20Data%201104%20D3949/dep3949_research_findings_2026-08-20_1104.md)
+- Source DEP: [Black-Lake-Data/.lake-data/DEP-20260820-Research Data 1104 D3949](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0004/DEP-20260820-Research%20Data%201104%20D3949)
+- Source DEP README: [README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0004/DEP-20260820-Research%20Data%201104%20D3949/README.md)
+- Source finding: [dep3949_research_findings_2026-08-20_1104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0004/DEP-20260820-Research%20Data%201104%20D3949/dep3949_research_findings_2026-08-20_1104.md)
 - Primary source: [arXiv:2608.11873](https://arxiv.org/abs/2608.11873)
 - Full primary source: [arXiv HTML](https://arxiv.org/html/2608.11873)
 

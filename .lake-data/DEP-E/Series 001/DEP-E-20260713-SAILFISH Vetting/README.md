@@ -43,12 +43,12 @@ SAILFISH is valuable beyond smart-contract security because it demonstrates a re
 - Source URL: https://github.com/ucsb-seclab/sailfish
   - Applies to: `sailfish_vetting_manuscript.md`
   - Notes: Official code and experimental-data repository; inspected but not executed.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md
   - Applies to: `sailfish_vetting_manuscript.md`
   - Notes: Related Antaeus DEP entry; primary basis cross-checked at https://arxiv.org/abs/2607.01138.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md
   - Applies to: `sailfish_vetting_manuscript.md`
   - Notes: Related Chai DEP entry; primary basis cross-checked at https://arxiv.org/abs/2606.26933.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md
   - Applies to: `sailfish_vetting_manuscript.md`
   - Notes: Related VeriChat DEP entry; primary basis cross-checked at https://arxiv.org/abs/2607.01668.

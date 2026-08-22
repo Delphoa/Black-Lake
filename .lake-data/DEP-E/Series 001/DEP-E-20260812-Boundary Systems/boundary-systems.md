@@ -9,7 +9,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-12"
 temporal_cutoff: "2026-08-12 source-access date"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/README.md"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/README.md"
 stable_identifier: "Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302"
 confidence_summary: "Medium: the source bundle and most linked records were inspected, but no independent reproduction or source-file collection was performed."
 safety_scope: "Defensive, evaluation-only, privacy-preserving, and authorized research use"
@@ -22,8 +22,8 @@ distribution_notes: "Public URLs and repository-relative provenance are preserve
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Primary package manifest | Markdown | DEP-20260723-Tech Intel 1302 | [Source README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/README.md) / `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/README.md` | Repository attribution rules and public URLs preserved | 2026-08-12 | Inspected |
-| S2 | Daily research findings | Primary source bundle artifact | Markdown | 2026-07-23 findings record | [Findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md) / `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/daily_research_findings_2026-07-23_1302.md` | Source-reported summaries; not independently reproduced | 2026-08-12 | Inspected |
+| S1 | Selected DEP README | Primary package manifest | Markdown | DEP-20260723-Tech Intel 1302 | [Source README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/README.md) / `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/README.md` | Repository attribution rules and public URLs preserved | 2026-08-12 | Inspected |
+| S2 | Daily research findings | Primary source bundle artifact | Markdown | 2026-07-23 findings record | [Findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md) / `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/daily_research_findings_2026-07-23_1302.md` | Source-reported summaries; not independently reproduced | 2026-08-12 | Inspected |
 | S3 | ChannelGuard | Primary paper | arXiv HTML/abstract | arXiv:2607.19430v2 | [arXiv record](https://arxiv.org/abs/2607.19430) | arXiv record states CC BY 4.0; full HTML inspected | 2026-08-12 | Inspected |
 | S4 | FineServe | Primary paper | arXiv HTML/abstract | arXiv:2607.19349v1 | [arXiv record](https://arxiv.org/abs/2607.19349) | Dataset/repository availability not independently audited | 2026-08-12 | Inspected |
 | S5 | Information Discernment in Large Language Models | Primary paper | arXiv HTML/abstract | arXiv:2607.19355v1 | [arXiv record](https://arxiv.org/abs/2607.19355) | Reported trials and user study were not reproduced | 2026-08-12 | Inspected |
@@ -269,8 +269,8 @@ This is an initial processing pass. No prior same-family Report-Mark, output log
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
 | R1 | [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md) | Source repository layout and DEP deposition rules | 2026-08-12 | Authority source read before review; not empirical evidence |
-| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/README.md) | Package identity, inventory, tags, source roles, and attribution | 2026-08-12 | Repository-relative source path: `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/README.md` |
-| R3 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md) | Ten findings, source URLs, source-reported metrics, and provenance notes | 2026-08-12 | Repository-relative source path: `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/daily_research_findings_2026-07-23_1302.md` |
+| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/README.md) | Package identity, inventory, tags, source roles, and attribution | 2026-08-12 | Repository-relative source path: `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/README.md` |
+| R3 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md) | Ten findings, source URLs, source-reported metrics, and provenance notes | 2026-08-12 | Repository-relative source path: `Black-Lake-Data/.lake-data/DEP-20260723-Tech Intel 1302/daily_research_findings_2026-07-23_1302.md` |
 | R4 | [arXiv:2607.19430](https://arxiv.org/abs/2607.19430) | E3; ChannelGuard threat model, gates, results, and limitations | 2026-08-12 | v2 record; HTML and abstract inspected |
 | R5 | [arXiv:2607.19349](https://arxiv.org/abs/2607.19349) | E4; FineServe dataset and workload generator | 2026-08-12 | v1 record; HTML and abstract inspected |
 | R6 | [arXiv:2607.19355](https://arxiv.org/abs/2607.19355) | E5; discernment axioms, model trials, and user study | 2026-08-12 | v1 record; HTML and abstract inspected |

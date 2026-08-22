@@ -23,10 +23,10 @@ Ordinary Byzantine-fault assumptions protect protocol agreement, not truth. This
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260721-Tech%20Intel%201101/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260721-Tech%20Intel%201101/README.md
   - Applies to: README.md, the-honest-quorum-problem.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260721-Tech%20Intel%201101/daily_research_findings_2026-07-21_1101.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260721-Tech%20Intel%201101/daily_research_findings_2026-07-21_1101.md
   - Applies to: the-honest-quorum-problem.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.16109v1

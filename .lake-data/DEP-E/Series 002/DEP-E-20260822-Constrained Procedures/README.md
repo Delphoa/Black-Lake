@@ -35,7 +35,7 @@ No source file was collected and no `.source/` directory is included.
 - Source URL: https://arxiv.org/abs/1907.01172
   - Applies to: `constrained-procedures.md`.
   - Notes: Canonical DDN arXiv record.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0396
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0396
   - Applies to: `constrained-procedures.md` and this README.
   - Notes: Selected source DEP and prior Report-Mark provenance; source files were not copied.
 - Source URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260820-Contrastive-Energy-D0EE

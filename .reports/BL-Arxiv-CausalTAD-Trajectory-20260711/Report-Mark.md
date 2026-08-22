@@ -164,6 +164,6 @@ def evidence_card(model, split, label_source, caveats):
 - Repository path: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
   - Applies to: bias, causal-evidence, and distribution-shift synthesis.
   - Notes: Existing Black-Lake DEP manuscript inspected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
   - Applies to: structure-aware spatial split synthesis.
   - Notes: Existing Black-Lake-Data DEP finding inspected.

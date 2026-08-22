@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260819-Tech Intel 2124 D00
 - Source URL: https://arxiv.org/html/2608.16422
   - Applies to: `proving-the-utilit-2b12.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Tech%20Intel%202124%20D0096
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%202124%20D0096
   - Applies to: `proving-the-utilit-2b12.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

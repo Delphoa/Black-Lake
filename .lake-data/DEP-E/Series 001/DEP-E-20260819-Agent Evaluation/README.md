@@ -23,10 +23,10 @@ The new expansion sharpens a prior verification-first theme: evaluation quality 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/README.md
   - Applies to: `agentcompass.md` and this README.
   - Notes: Selected source DEP boundary, inventory, tags, and attribution.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
   - Applies to: `agentcompass.md`.
   - Notes: Ten-thread source inventory and prior synthesis context.
 - Source URL: https://arxiv.org/abs/2607.13705

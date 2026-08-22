@@ -36,8 +36,8 @@ The source DEP's two Markdown files and all ten cited primary papers were inspec
 
 ### Source DEP
 
-- https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260730-Tech%20Intel%200102
-- https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
+- https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102
+- https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
 
 ### Primary Papers
 

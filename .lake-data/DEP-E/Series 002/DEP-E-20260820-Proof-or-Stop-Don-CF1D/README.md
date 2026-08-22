@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260718-Tech Intel 1304` in
 - Source URL: https://arxiv.org/html/2607.14890
   - Applies to: `proof-or-stop-don-cf1d.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260718-Tech%20Intel%201304
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260718-Tech%20Intel%201304
   - Applies to: `proof-or-stop-don-cf1d.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

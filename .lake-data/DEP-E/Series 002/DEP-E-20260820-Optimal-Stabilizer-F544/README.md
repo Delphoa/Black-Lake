@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260704-Tech Intel 1104` in
 - Source URL: https://arxiv.org/html/2607.02444
   - Applies to: `optimal-stabilizer-f544.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260704-Tech%20Intel%201104
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260704-Tech%20Intel%201104
   - Applies to: `optimal-stabilizer-f544.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

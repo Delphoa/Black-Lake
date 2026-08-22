@@ -22,7 +22,7 @@ distribution_notes: "Derived review only; no source PDFs, datasets, code, creden
 | ID | Source | Role | Type | Identifier / Version | URL / Repository-relative path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
 | S1 | HORCRUX: A Complete PQC RISC-V eXtension Architecture | Primary research artifact | arXiv HTML and Atom metadata | arXiv:2607.13939 | https://arxiv.org/abs/2607.13939; https://arxiv.org/html/2607.13939 | Public research source; no source file redistributed | 2026-08-20 | Inspected |
-| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260717-Tech Intel 0104 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
+| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260717-Tech Intel 0104 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
 | S3 | Latest prior Report-Mark | Iterative-expansion context | Markdown | Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/BL-DEP-Mark001 Report-Mark.md | Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/BL-DEP-Mark001 Report-Mark.md | Repository evidence | 2026-08-20 | Inspected |
 
 The selected DEP contains 3 inspected Markdown file(s) and no newly collected source payload. The primary publication date recorded by official metadata is `2026-07-15T15:21:26Z`. Prior material was detected. The latest Report-Mark was reviewed first, and one research thread was selected from its related-reading/source-reference pool using cryptographic rejection sampling. The chosen thread was `https://arxiv.org/abs/2607.13939`; inaccessible candidates, if any, are recorded in the artifact log.
@@ -165,7 +165,7 @@ The source includes an identifiable limitations or discussion section, strengthe
 |---|---|---|---|
 | HORCRUX: A Complete PQC RISC-V eXtension Architecture | Primary research thread | New in this pass; randomly selected from the latest Report-Mark research pool and inspected as the primary expansion thread. | https://arxiv.org/abs/2607.13939 |
 | Official full-text representation | Primary source format | Full HTML used to locate abstract, methodology, evaluation, limitations, and conclusion evidence where available. | https://arxiv.org/html/2607.13939 |
-| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%200104 |
+| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104 |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://alignment.anthropic.com/2026/modular-pretraining/ |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://arxiv.org/abs/2607.08077 |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://arxiv.org/abs/2607.13157 |
@@ -177,9 +177,9 @@ The source includes an identifiable limitations or discussion section, strengthe
 | R1 | https://arxiv.org/abs/2607.13939 | Canonical title, authors, abstract, identifier, and source status | 2026-08-20 | Primary record inspected |
 | R2 | https://arxiv.org/html/2607.13939 | Full-text section structure, method/evaluation trace, limitations, and conclusion | 2026-08-20 | Full HTML inspected |
 | R3 | https://export.arxiv.org/api/query?id_list=2607.13939 | Canonical Atom metadata and abstract | 2026-08-20 | Official arXiv API inspected |
-| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/BL-DEP-Mark001%20Report-Mark.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
-| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
-| R6 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/BL-DEP-Mark001%20Report-Mark.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R6 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
 
 ## Appendix
 
