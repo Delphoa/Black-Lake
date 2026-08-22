@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1666,
-  "next_ordinal": 1667,
+  "entry_count": 1667,
+  "next_ordinal": 1668,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 666,
+      "entry_count": 667,
       "sealed": false
     }
   ],
@@ -16677,6 +16677,14 @@
       "object_identity": "arxiv:1806.08632",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-CoMAC OFDM",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1667,
+      "dep_name": "DEP-E-20260822-HSRNet Aliasing",
+      "object_identity": "arxiv:2206.03361v1",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-HSRNet Aliasing",
       "prior_paths": []
     }
   ]

@@ -28337,6 +28337,31 @@
         "https://doi.org/10.48550/arXiv.2603.15690"
       ],
       "status": "deposited"
+    },
+    {
+      "artifact_paths": [
+        ".lake-data/DEP-E/Series 002/DEP-E-20260822-HSRNet Aliasing/README.md",
+        ".lake-data/DEP-E/Series 002/DEP-E-20260822-HSRNet Aliasing/hsrnet_aliasing_manuscript.md",
+        ".logs/20260822-Arxiv-HSRNet-Aliasing-LOG.md",
+        ".logs/20260822-Arxiv-HSRNet-Aliasing-PHASE-LOG.md",
+        ".reports/BL-Arxiv-HSRNet-Aliasing-20260822/Report-Mark.md"
+      ],
+      "arxiv_base_id": "2206.03361",
+      "arxiv_id": "2206.03361",
+      "commit_or_pr": "",
+      "deposit_date": "20260822",
+      "doi": "10.1109/TNNLS.2022.3191674",
+      "normalized_title": "hierarchical similarity learning for aliasing suppression image super-resolution",
+      "notes": "Complete local PDF and full-paper HTML verified; source files withheld locally; source package unavailable; cache extraction completed with pypdf and HTML-regex; Series 002 ordinal 1667; atomic commit reference reported by submission audit.",
+      "slug": "HSRNet-Aliasing",
+      "source_urls": [
+        "https://arxiv.org/abs/2206.03361",
+        "https://arxiv.org/html/2206.03361",
+        "https://arxiv.org/pdf/2206.03361",
+        "https://doi.org/10.1109/TNNLS.2022.3191674",
+        "https://doi.org/10.48550/arXiv.2206.03361"
+      ],
+      "status": "deposited"
     }
   ],
   "papers": [
@@ -29181,5 +29206,5 @@
     }
   ],
   "schema_version": "1.0",
-  "updated_date": "2026-08-20"
+  "updated_date": "2026-08-22"
 }

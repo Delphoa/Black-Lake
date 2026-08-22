@@ -11612,3 +11612,9 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Computation over Wide-Band MAC: Improved Achievable Rate through Sub-Function Allocation* | Wu, Fangzhou; Chen, Li; Zhao, Nan; Chen, Yunfei; Yu, F. Richard; Wei, Guo | [arXiv:1806.08632](https://arxiv.org/abs/1806.08632) - [arXiv DOI](https://doi.org/10.48550/arXiv.1806.08632) - [IEEE DOI](https://doi.org/10.1109/TWC.2019.2918145) |
+
+## [DEP-E-20260822-HSRNet Aliasing](../Series%20002/DEP-E-20260822-HSRNet%20Aliasing/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution* | Liu, Yuqing; Jia, Qi; Zhang, Jian; Fan, Xin; Wang, Shanshe; Ma, Siwei; Gao, Wen | [arXiv:2206.03361v1](https://arxiv.org/abs/2206.03361) - [arXiv DOI](https://doi.org/10.48550/arXiv.2206.03361) - [IEEE DOI](https://doi.org/10.1109/TNNLS.2022.3191674) |
