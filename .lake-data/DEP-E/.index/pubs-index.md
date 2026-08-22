@@ -13,6 +13,12 @@ When a DEP-E entry adds or removes a reviewed publication, update this file in t
 
 ## Reviewed publications
 
+## [DEP-E-20260822-ECK Validation](../Series%20002/DEP-E-20260822-ECK%20Validation/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Executable Code Knowledge: Code as a Native, Validation-Carrying Knowledge Representation for AI Coding Agents* | Xueping Gao | [arXiv:2608.16295](https://arxiv.org/abs/2608.16295) - [DOI](https://doi.org/10.48550/arXiv.2608.16295) | [DEP-E](../Series%20002/DEP-E-20260822-ECK%20Validation/README.md) |
+
 ## [DEP-E-20260821-Global Cut Selection](../Series%20002/DEP-E-20260821-Global%20Cut%20Selection/README.md)
 
 | Publication | Authors | Canonical source | Owning DEP |

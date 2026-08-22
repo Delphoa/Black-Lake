@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1662,
-  "next_ordinal": 1663,
+  "entry_count": 1663,
+  "next_ordinal": 1664,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 662,
+      "entry_count": 663,
       "sealed": false
     }
   ],
@@ -16645,6 +16645,14 @@
       "object_identity": "arxiv:2503.15847",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260821-Global Cut Selection",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1663,
+      "dep_name": "DEP-E-20260822-ECK Validation",
+      "object_identity": "black-lake-data-processing-review-v1|source=DEP-20260819-Research Data 2234 D0318|primary=arxiv:2608.16295|artifact=eck-validation|date=2026-08-22",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-ECK Validation",
       "prior_paths": []
     }
   ]
