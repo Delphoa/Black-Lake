@@ -2,8 +2,8 @@
 
 This index attributes every arXiv paper and other research publication substantively reviewed by entries in the DEP-E container.
 
-- Current coverage: **2009 publication reviews across 1654 DEP-E entries**.
-- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-20; non-arXiv attribution was checked against official publisher and venue records.
+- Current coverage: **2010 publication reviews across 1655 DEP-E entries**.
+- Metadata check: arXiv titles and authors were verified against canonical arXiv records through 2026-08-22; non-arXiv attribution was checked against official publisher and venue records.
 - Scope rule: background citations, related-reading seeds, and papers merely referenced through another DEP are excluded unless the owning DEP contains a substantive review.
 - Author rule: lists of more than eight authors are abbreviated after the first three names with *et al.*; the linked canonical record is authoritative for the complete list.
 
@@ -12,6 +12,12 @@ This index attributes every arXiv paper and other research publication substanti
 When a DEP-E entry adds or removes a reviewed publication, update this file in the same commit. Preserve the canonical title, source-grounded author attribution, canonical arXiv/DOI/publisher locator, and link to the owning DEP. If an entry is renamed, moved, or reclassified, update its section and all affected links at the same time. Do not add locally archived source files to the public repository.
 
 ## Reviewed publications
+
+## [DEP-E-20260822-Deploy Master](../Series%20002/DEP-E-20260822-Deploy%20Master/README.md)
+
+| Publication | Authors | Canonical source | Owning DEP |
+|---|---|---|---|
+| *Deploy-Master: Automating the Deployment of 50,000+ Agent-Ready Scientific Tools in One Day* | Yi Wang; Zhenting Huang; Zhaohan Ding; *et al.* | [arXiv:2601.03513](https://arxiv.org/abs/2601.03513) - [DOI](https://doi.org/10.48550/arXiv.2601.03513) | [DEP-E](../Series%20002/DEP-E-20260822-Deploy%20Master/README.md) |
 
 ## [DEP-E-20260822-Constrained Procedures](../Series%20002/DEP-E-20260822-Constrained%20Procedures/README.md)
 

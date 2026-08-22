@@ -11,8 +11,8 @@
     "source_commit": "5da29291a6c8ce3f29c180ea48efc5264c42bed1",
     "ordering": "unicode_casefold_then_exact_dep_name"
   },
-  "entry_count": 1664,
-  "next_ordinal": 1665,
+  "entry_count": 1665,
+  "next_ordinal": 1666,
   "active_series_number": 2,
   "series": [
     {
@@ -28,7 +28,7 @@
       "series_name": "Series 002",
       "capacity_start": 1001,
       "capacity_end": 2000,
-      "entry_count": 664,
+      "entry_count": 665,
       "sealed": false
     }
   ],
@@ -16661,6 +16661,14 @@
       "object_identity": "black-lake-data-processing-review-v1:DEP-20260819-Research-Data-2234-D0396:20260822:constrained-procedures",
       "series_number": 2,
       "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-Constrained Procedures",
+      "prior_paths": []
+    },
+    {
+      "ordinal": 1665,
+      "dep_name": "DEP-E-20260822-Deploy Master",
+      "object_identity": "arxiv:2601.03513v1",
+      "series_number": 2,
+      "current_path": ".lake-data/DEP-E/Series 002/DEP-E-20260822-Deploy Master",
       "prior_paths": []
     }
   ]
