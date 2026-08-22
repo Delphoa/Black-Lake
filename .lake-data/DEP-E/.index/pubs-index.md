@@ -11606,3 +11606,9 @@ Review status: complete PDF and full-paper HTML were verified privately; public 
 | Publication | Authors or credited organization | Canonical record |
 |---|---|---|
 | *Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing* | Chen, Yaru; Guo, Ruohao; Gao, Liting; Xiang, Yang; Luo, Qingyu; Li, Zhenbo; Wang, Wenwu | [arXiv:2509.14097](https://arxiv.org/abs/2509.14097) |
+
+## [DEP-E-20260822-CoMAC OFDM](../Series%20002/DEP-E-20260822-CoMAC%20OFDM/README.md)
+
+| Publication | Authors or credited organization | Canonical record |
+|---|---|---|
+| *Computation over Wide-Band MAC: Improved Achievable Rate through Sub-Function Allocation* | Wu, Fangzhou; Chen, Li; Zhao, Nan; Chen, Yunfei; Yu, F. Richard; Wei, Guo | [arXiv:1806.08632](https://arxiv.org/abs/1806.08632) - [arXiv DOI](https://doi.org/10.48550/arXiv.1806.08632) - [IEEE DOI](https://doi.org/10.1109/TWC.2019.2918145) |
