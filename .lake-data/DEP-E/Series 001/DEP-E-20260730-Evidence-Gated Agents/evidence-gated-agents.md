@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-07-30"
 temporal_cutoff: "2026-07-30"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260730-Tech%20Intel%200102"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102"
 stable_identifier: "DEP-20260730-Tech Intel 0102"
 confidence_summary: "High for directly reported paper methods and metrics; medium for implementation readiness because no code, datasets, models, benchmarks, clusters, clinical workflows, or quantum experiments were executed."
 safety_scope: "Defensive, evaluation-only, and research-planning use."
@@ -302,8 +302,8 @@ All entries below are newly inspected in this initial pass.
 
 ## Source References
 
-1. Black-Lake-Data. “DEP-20260730-Tech Intel 0102.” `Black-Lake-Data/.lake-data/DEP-20260730-Tech Intel 0102/README.md`. Accessed 2026-07-30. https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260730-Tech%20Intel%200102
-2. Black-Lake-Data. “Daily Research Findings - 2026-07-30 0102.” `Black-Lake-Data/.lake-data/DEP-20260730-Tech Intel 0102/daily_research_findings_2026-07-30_0102.md`. Accessed 2026-07-30. https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
+1. Black-Lake-Data. “DEP-20260730-Tech Intel 0102.” `Black-Lake-Data/.lake-data/DEP-20260730-Tech Intel 0102/README.md`. Accessed 2026-07-30. https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102
+2. Black-Lake-Data. “Daily Research Findings - 2026-07-30 0102.” `Black-Lake-Data/.lake-data/DEP-20260730-Tech Intel 0102/daily_research_findings_2026-07-30_0102.md`. Accessed 2026-07-30. https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
 3. Wei, Shuyue; Liu, Chang; Zhou, Zimu; Tong, Yongxin; Cui, Lizhen. “MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents.” arXiv:2607.25992v1, 2026. https://arxiv.org/abs/2607.25992
 4. MemLens official implementation. Accessed 2026-07-30. https://github.com/LIUHA1ZHU/MemLens
 5. Steinder, Gosia; Franke, Hubertus. “Towards an Agent Operating System - Lessons from Classical and Cloud OS.” arXiv:2607.25076v1, 2026. https://arxiv.org/abs/2607.25076

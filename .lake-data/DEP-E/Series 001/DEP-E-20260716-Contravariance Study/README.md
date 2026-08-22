@@ -27,7 +27,7 @@ The reviewed paper makes representational convergence conditional and testable. 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100
   - Applies to: `contravariance-study.md` and this README.
   - Notes: Selected source DEP, including original digest and prior Report-Mark.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/db3a22b36676b872fbbcebc069916ac9878f93a3/.lake-data/DEP-E/DEP-E-20260713-Tech%20Intel%201100%20Review/tech-intel-1100-research.md

@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-07-14"
 temporal_cutoff: "2026-07-14"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201304"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201304"
 stable_identifier: "DEP-20260712-Tech Intel 1304"
 confidence_summary: "Moderate: ten complete primary papers and two official repositories were inspected, but no experiments were independently reproduced."
 safety_scope: "defensive, educational, and evaluation-only"
@@ -23,7 +23,7 @@ The primary research object is the ten-item digest in `Black-Lake-Data/.lake-dat
 
 | ID | Source | Authors / Organization | Role | Type | Identifier / Version | URL / Public Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| S0 | Selected source DEP | Delphoa-Labs | Primary source inventory | Markdown | `DEP-20260712-Tech Intel 1304`; `origin/main` as accessed | [Source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201304) | Repository terms apply | 2026-07-14 | README and digest inspected |
+| S0 | Selected source DEP | Delphoa-Labs | Primary source inventory | Markdown | `DEP-20260712-Tech Intel 1304`; `origin/main` as accessed | [Source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201304) | Repository terms apply | 2026-07-14 | README and digest inspected |
 | S1 | *Prompt Compression via Activation Aggregation* | Thibaud Ardoin; Semira Einsele; Evis Bregu; Gerhard Wunder | Primary paper | PDF / arXiv record | arXiv:2607.08399 v1 | [arXiv](https://arxiv.org/abs/2607.08399) | arXiv record; redistribution not assumed | 2026-07-14 | Complete PDF inspected |
 | S2 | *Trace: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories* | Zheng Gao; Xiaoyu Li; Xiaoyan Feng; et al. | Primary paper | PDF / arXiv record | arXiv:2607.08400 v1 | [arXiv](https://arxiv.org/abs/2607.08400) | arXiv record; redistribution not assumed | 2026-07-14 | Complete PDF inspected |
 | S3 | *Out of Sight: Compression-Aware Content Protection against Agentic Crawlers* | Xuefei Wang | Primary paper | PDF / arXiv record | arXiv:2607.08180 v1 | [arXiv](https://arxiv.org/abs/2607.08180) | arXiv record; redistribution not assumed | 2026-07-14 | Complete PDF inspected |
@@ -272,7 +272,7 @@ Quantum implementations need resource accounting that crosses abstraction layers
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R0 | [Selected source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201304) | Selection provenance, source inventory, and initial descriptions | 2026-07-14 | README and digest inspected |
+| R0 | [Selected source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201304) | Selection provenance, source inventory, and initial descriptions | 2026-07-14 | README and digest inspected |
 | R1 | [arXiv:2607.08399](https://arxiv.org/abs/2607.08399) | Prompt-compression architecture and reported results | 2026-07-14 | Complete PDF inspected; privately cached copy not deposited |
 | R2 | [arXiv:2607.08400](https://arxiv.org/abs/2607.08400) | TRACE construction, attacks, utility, and attribution metrics | 2026-07-14 | Complete PDF inspected; privately cached copy not deposited |
 | R3 | [arXiv:2607.08180](https://arxiv.org/abs/2607.08180) | CAPE method, threat model, and crawler experiments | 2026-07-14 | Complete PDF inspected; privately cached copy not deposited |

@@ -21,8 +21,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Role | Type | Identifier / Version | URL / Local Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260711-Tech Intel 1309 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
-| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-11_1309.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260711-Tech Intel 1309 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-11_1309.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | Repository evidence; public URL | 2026-08-19 | Inspected |
 | S3 | Google DeepMind and partners announce multi-agent safety research funding call. â Google DeepMind | Selected supporting source | Public page | access snapshot | https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/ | Metadata and source-package claims only | 2026-08-19 | HTTP 200 page inspected |
 
 - Paper/work title: Google DeepMind and partners announce multi-agent safety research funding call. â Google DeepMind
@@ -38,8 +38,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Source Type | Evidence Used | Supports | Confidence | Limitations |
 |---|---|---|---|---|---|---|
-| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
-| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | Deposited source synthesis | ** Samsung announced mass production of the PM1763 enterprise SSD on 8 July. The PCIe 6.0 product combines ninth-generation V-NAND, a 4 nm controller, and direct-to-chip liquid-cooling optimization for AI/HPC servers. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
+| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
+| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | Deposited source synthesis | ** Samsung announced mass production of the PM1763 enterprise SSD on 8 July. The PCIe 6.0 product combines ninth-generation V-NAND, a 4 nm controller, and direct-to-chip liquid-cooling optimization for AI/HPC servers. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
 | E3 | https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/ | Official or publisher page | Title, identity, version/date metadata, authors or credited organization, and availability | Primary source identity | High | No code, data, model, benchmark, or experiment was executed. |
 
 ## Executive Summary
@@ -182,8 +182,8 @@ The work is most useful as a testable research direction. A downstream team shou
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
 | R3 | https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/ | E3 and selected supporting-source identity | 2026-08-19 | HTTP 200 page inspected; no source payload redistributed. |
 
 No original PDF, source archive, code repository, dataset, model, benchmark payload, container, credential, private record, or hardware artifact was collected or deposited.

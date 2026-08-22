@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260819-Research Data 2234 
 - Source URL: https://arxiv.org/html/2608.18071
   - Applies to: `ultrafast-and-high-5d00.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0405
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0405
   - Applies to: `ultrafast-and-high-5d00.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

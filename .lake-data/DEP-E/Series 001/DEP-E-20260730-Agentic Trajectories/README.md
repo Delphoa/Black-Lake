@@ -2,7 +2,7 @@
 
 #agentic-ai #ai-evaluation #privacy #hardware-design #multi-agent-systems #scientific-computing #causal-representation-learning #graph-learning
 
-This DEP-E entry converts the source-first research bundle in [`Black-Lake-Data/.lake-data/DEP-20260630-Tech Intel 0104`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104) into a schema-complete research manuscript. The review treats an agent trajectory—its harness, tools, intermediate disclosures, executable feedback, and verification gates—as the appropriate unit for evaluating agentic systems.
+This DEP-E entry converts the source-first research bundle in [`Black-Lake-Data/.lake-data/DEP-20260630-Tech Intel 0104`](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104) into a schema-complete research manuscript. The review treats an agent trajectory—its harness, tools, intermediate disclosures, executable feedback, and verification gates—as the appropriate unit for evaluating agentic systems.
 
 ## Contents
 
@@ -22,10 +22,10 @@ Across otherwise different domains, the evidence converges on a common design re
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260630-Tech%20Intel%200104
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104
   - Applies to: `agentic-trajectories.md`
   - Notes: Selected source DEP and inventory reviewed for this artifact.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260630-Tech%20Intel%200104/daily_research_findings_2026-06-30_0104.md
   - Applies to: `agentic-trajectories.md`
   - Notes: Source-first ten-finding synthesis used as the intake map; claims were checked against primary records.
 - Source URL: https://arxiv.org/abs/2606.26959

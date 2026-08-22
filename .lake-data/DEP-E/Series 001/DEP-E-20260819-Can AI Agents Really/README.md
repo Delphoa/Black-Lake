@@ -23,10 +23,10 @@ Chip design is a demanding test of tool use, state, cost, and physical feedback,
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260721-Tech%20Intel%201302/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260721-Tech%20Intel%201302/README.md
   - Applies to: README.md, can-ai-agents-really.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260721-Tech%20Intel%201302/daily_research_findings_2026-07-21_1302.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260721-Tech%20Intel%201302/daily_research_findings_2026-07-21_1302.md
   - Applies to: can-ai-agents-really.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.17528v3

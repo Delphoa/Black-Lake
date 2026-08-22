@@ -42,9 +42,9 @@ Author claims are reported as author claims. Reviewer interpretations concern au
 
 ## Related DEP Entries
 
-1. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260714-Tech Intel 1106/daily_research_findings_2026-07-14_1106.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md). Item 7 summarizes SCATE, which uses current coverage and class-testability signals to choose the next supervision action for coding-agent test generation. The direct overlap is allocation of scarce test-generation effort; the difference is static goal reduction versus learned sequential supervision. Source basis: https://arxiv.org/abs/2607.08983.
-2. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/daily_research_findings_2026-07-17_0104.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md). Item 2 summarizes the SWE-Bench Pro audit, including low-coverage, overly strict, and misleading tests. The overlap is the validity of coverage/test objectives; the audit warns that optimizing the wrong tests can create a precise but invalid score. Source basis: https://openai.com/index/separating-signal-from-noise-coding-evaluations/.
-3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260716-Tech Intel 1303/daily_research_findings_2026-07-16_1303.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md). Item 3 summarizes AgentCompass's separation of Benchmark, Harness, and Environment with trajectory analysis. The overlap is experimental modularity: a coverage-goal selector should be isolated from the harness and environment so changes can be attributed rather than confounded. Source basis: https://arxiv.org/abs/2607.13705.
+1. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260714-Tech Intel 1106/daily_research_findings_2026-07-14_1106.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md). Item 7 summarizes SCATE, which uses current coverage and class-testability signals to choose the next supervision action for coding-agent test generation. The direct overlap is allocation of scarce test-generation effort; the difference is static goal reduction versus learned sequential supervision. Source basis: https://arxiv.org/abs/2607.08983.
+2. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/daily_research_findings_2026-07-17_0104.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md). Item 2 summarizes the SWE-Bench Pro audit, including low-coverage, overly strict, and misleading tests. The overlap is the validity of coverage/test objectives; the audit warns that optimizing the wrong tests can create a precise but invalid score. Source basis: https://openai.com/index/separating-signal-from-noise-coding-evaluations/.
+3. `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260716-Tech Intel 1303/daily_research_findings_2026-07-16_1303.md` — [public file](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md). Item 3 summarizes AgentCompass's separation of Benchmark, Harness, and Environment with trajectory analysis. The overlap is experimental modularity: a coverage-goal selector should be isolated from the harness and environment so changes can be attributed rather than confounded. Source basis: https://arxiv.org/abs/2607.13705.
 
 ## Synthesis Note
 
@@ -197,14 +197,14 @@ Dependencies: Python standard library only. This is a deterministic simulator, n
   - Applies to: companion-repository context.
   - Notes: Read before related-entry reliance.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260714-Tech Intel 1106/daily_research_findings_2026-07-14_1106.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md
   - Applies to: SCATE relationship synthesis.
   - Notes: Item 7; source basis https://arxiv.org/abs/2607.08983.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/daily_research_findings_2026-07-17_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
   - Applies to: SWE-Bench Pro audit relationship synthesis.
   - Notes: Item 2; source basis https://openai.com/index/separating-signal-from-noise-coding-evaluations/.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260716-Tech Intel 1303/daily_research_findings_2026-07-16_1303.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
   - Applies to: AgentCompass relationship synthesis.
   - Notes: Item 3; source basis https://arxiv.org/abs/2607.13705.

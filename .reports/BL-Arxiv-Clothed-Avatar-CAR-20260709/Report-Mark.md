@@ -166,6 +166,6 @@ def route_uncertain_regions(regions, threshold=0.35):
 - Source reference: Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md
   - Applies to: related DEP synthesis.
   - Notes: Related artifact inspected as conceptual context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
   - Applies to: related DEP synthesis.
   - Notes: Related daily research finding for SA-RDM-DC MRI reconstruction.

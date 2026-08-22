@@ -28,7 +28,7 @@ SeKV separates routing from answering representation: every span remains cheaply
 
 ## Associated DEP Records
 
-- [Delphoa-Labs/Black-Lake-Data DEP-20260702-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%200103) — verified same-paper raw research context. This DEP-A is the owning whitepaper review.
+- [Delphoa-Labs/Black-Lake-Data DEP-20260702-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%200103) — verified same-paper raw research context. This DEP-A is the owning whitepaper review.
 - [`DEP-A-20260714-CompressKV Semantic Heads`](../DEP-A-20260714-CompressKV%20Semantic%20Heads/README.md) — close conceptual semantic KV compression; not the same paper.
 
 No additional same-paper DEP-A or DEP-E was verified.

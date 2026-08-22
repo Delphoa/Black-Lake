@@ -71,14 +71,14 @@ The evidence also resists a universal-efficiency reading. Smart selection is str
   - Applies to: `smart_coverage_goals_manuscript.md`
   - Notes: Live companion-repository authority read before its DEP context was used for deduplication and relationship synthesis.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260714-Tech Intel 1106/daily_research_findings_2026-07-14_1106.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260714-Tech%20Intel%201106/daily_research_findings_2026-07-14_1106.md
   - Applies to: `smart_coverage_goals_manuscript.md`
   - Notes: Related DEP entry on SCATE's coverage-guided supervision for automated test generation; primary source basis is https://arxiv.org/abs/2607.08983.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260717-Tech Intel 0104/daily_research_findings_2026-07-17_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%200104/daily_research_findings_2026-07-17_0104.md
   - Applies to: `smart_coverage_goals_manuscript.md`
   - Notes: Related DEP entry on SWE-Bench Pro benchmark defects, including low-coverage and overly strict tests; primary source basis is https://openai.com/index/separating-signal-from-noise-coding-evaluations/.
 - Repository file: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260716-Tech Intel 1303/daily_research_findings_2026-07-16_1303.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260716-Tech%20Intel%201303/daily_research_findings_2026-07-16_1303.md
   - Applies to: `smart_coverage_goals_manuscript.md`
   - Notes: Related DEP entry on AgentCompass's modular benchmark, harness, environment, and trajectory-analysis infrastructure; primary source basis is https://arxiv.org/abs/2607.13705.

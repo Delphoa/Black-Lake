@@ -28,7 +28,7 @@ The durable design insight is to use functionally selected internal model signal
 
 ## Associated DEP Records
 
-- [Delphoa-Labs/Black-Lake-Data DEP-20260702-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%200103) — close conceptual work for SeKV, a contemporaneous hierarchical and reconstructive KV-cache alternative. It is not the same paper and does not validate CompressKV.
+- [Delphoa-Labs/Black-Lake-Data DEP-20260702-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%200103) — close conceptual work for SeKV, a contemporaneous hierarchical and reconstructive KV-cache alternative. It is not the same paper and does not validate CompressKV.
 
 No same-paper DEP-A, DEP-E, or Delphoa-Labs/Black-Lake-Data record was verified for arXiv:2606.24467 or the overlapping arXiv:2508.02401 after checking the live class indexes, DEP READMEs, logs, and reports by arXiv ID, DOI, title, method, benchmark, and implementation.
 

@@ -43,10 +43,10 @@ Passing the included review methodology supports auditability, observability, an
 - Source DEP-E repository URL: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Quantum%20advantage%20through
   - Item: complete source record `.lake-data/DEP-E/DEP-E-20260819-Quantum advantage through` at `3d2403b83a72486215ae81181f71fb8171d3d29d`
   - Notes: repository data was reviewed in place; no source DEP file was modified, moved, copied, renamed, deleted, or reclassified.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/README.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260802-Tech%20Intel%200101/daily_research_findings_2026-08-02_0101.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Source URL: https://www.ibm.com/quantum/blog/quantum-advantage

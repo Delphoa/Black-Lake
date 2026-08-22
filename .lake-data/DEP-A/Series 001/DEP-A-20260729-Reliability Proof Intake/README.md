@@ -91,7 +91,7 @@ Passing the included review methodology supports auditability, observability, an
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Item: Persistent arXiv-issued DOI or equivalent canonical locator.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%201102
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102
   - Item: Persistent arXiv-issued DOI or equivalent canonical locator.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Source URL: https://github.com/Delphoa/Black-Lake

@@ -21,8 +21,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Role | Type | Identifier / Version | URL / Local Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260719-Tech Intel 1306 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
-| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-19_1306.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260719-Tech Intel 1306 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-07-19_1306.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | Repository evidence; public URL | 2026-08-19 | Inspected |
 | S3 | Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control | Selected supporting source | arXiv record | 2607.14943 | https://arxiv.org/abs/2607.14943v1 | Metadata and source-package claims only | 2026-08-19 | Canonical arXiv Atom record inspected |
 
 - Paper/work title: Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control
@@ -38,8 +38,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Source Type | Evidence Used | Supports | Confidence | Limitations |
 |---|---|---|---|---|---|---|
-| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
-| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | Deposited source synthesis | ** The work compares activation patterns across successful and unsuccessful world-action-model rollouts and identifies robustness-relevant directions in some architectures. It uses contrastive activation directions for training-free steering and introduces World-Action Linear Quadratic Regulator (WA-LQR), which exploits local linearity in activation dynamics for feedback steering. On Cosmos-Policy and DiT4DiT, the reported interventions improve robustness to camera, gripper, and visual-noise perturbations and generalize contrastive directions to new tasks. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
+| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
+| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | Deposited source synthesis | ** The work compares activation patterns across successful and unsuccessful world-action-model rollouts and identifies robustness-relevant directions in some architectures. It uses contrastive activation directions for training-free steering and introduces World-Action Linear Quadratic Regulator (WA-LQR), which exploits local linearity in activation dynamics for feedback steering. On Cosmos-Policy and DiT4DiT, the reported interventions improve robustness to camera, gripper, and visual-noise perturbations and generalize contrastive directions to new tasks. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
 | E3 | https://arxiv.org/abs/2607.14943v1 | Canonical arXiv metadata | Title, identity, version/date metadata, authors or credited organization, and availability | Primary source identity | High | No code, data, model, benchmark, or experiment was executed. |
 
 ## Executive Summary
@@ -182,8 +182,8 @@ The work is most useful as a testable research direction. A downstream team shou
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%201306/daily_research_findings_2026-07-19_1306.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
 | R3 | https://arxiv.org/abs/2607.14943v1 | E3 and selected supporting-source identity | 2026-08-19 | Canonical arXiv Atom record inspected; no source payload redistributed. |
 
 No original PDF, source archive, code repository, dataset, model, benchmark payload, container, credential, private record, or hardware artifact was collected or deposited.

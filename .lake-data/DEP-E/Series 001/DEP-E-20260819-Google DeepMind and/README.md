@@ -23,10 +23,10 @@ The manuscript separates source-package claims, canonical metadata, and reviewer
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/README.md
   - Applies to: README.md, google-deepmind-and.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201309/daily_research_findings_2026-07-11_1309.md
   - Applies to: google-deepmind-and.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/

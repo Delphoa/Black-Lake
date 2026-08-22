@@ -27,7 +27,7 @@ Across embodied control, coding-agent security, GUI automation, formal mathemati
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: selected source package and manuscript provenance.
   - Notes: Live source repository README was fetched before writing.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260719-Tech%20Intel%200105
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260719-Tech%20Intel%200105
   - Applies to: selected source DEP README and findings.
   - Notes: Source package reviewed first; no source files collected.
 - Source URL: https://arxiv.org/abs/2607.15207

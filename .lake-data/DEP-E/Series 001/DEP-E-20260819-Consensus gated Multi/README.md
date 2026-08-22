@@ -23,10 +23,10 @@ The manuscript separates source-package claims, canonical metadata, and reviewer
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201302/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201302/README.md
   - Applies to: README.md, consensus-gated-multi.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201302/daily_research_findings_2026-08-18_1302.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201302/daily_research_findings_2026-08-18_1302.md
   - Applies to: consensus-gated-multi.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2608.13889v1

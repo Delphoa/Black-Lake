@@ -50,6 +50,6 @@ CAR is relevant to Black-Lake because it is a compact example of geometry-guided
 - Source reference: Black-Lake/.lake-data/DEP-E/DEP-E-20260709-2D-RC OTFS/2d_rc_otfs_manuscript.md
   - Applies to: `clothed_avatar_car_manuscript.md`
   - Notes: Related DEP entry used for conceptual synthesis.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
   - Applies to: `clothed_avatar_car_manuscript.md`
   - Notes: Related DEP entry used for MRI reconstruction and reliability-context synthesis.

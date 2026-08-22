@@ -21,7 +21,7 @@ The artifact supports evidence-led automation through immutable review hashes an
 
 ## Associated DEP Records
 
-- [Black-Lake-Data technology-intelligence intake for Janus](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%200103) — Same arXiv paper was previously indexed as a source finding; this DEP-A adds the full substantive review.
+- [Black-Lake-Data technology-intelligence intake for Janus](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%200103) — Same arXiv paper was previously indexed as a source finding; this DEP-A adds the full substantive review.
 
 ## Attribution Block
 

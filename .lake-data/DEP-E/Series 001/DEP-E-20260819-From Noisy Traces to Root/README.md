@@ -23,10 +23,10 @@ It is a broad AI-for-science result that treats physical structure as inspectabl
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260709-Tech%20Intel%201100/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260709-Tech%20Intel%201100/README.md
   - Applies to: README.md, from-noisy-traces-to-root.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260709-Tech%20Intel%201100/daily_research_findings_2026-07-09_1100.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260709-Tech%20Intel%201100/daily_research_findings_2026-07-09_1100.md
   - Applies to: from-noisy-traces-to-root.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.07702v1

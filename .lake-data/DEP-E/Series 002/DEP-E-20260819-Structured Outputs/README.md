@@ -23,10 +23,10 @@ The selected work may inform research review, implementation planning, and evide
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md
   - Applies to: README.md, structured-outputs.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md
   - Applies to: structured-outputs.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://github.com/dottxt-ai/outlines

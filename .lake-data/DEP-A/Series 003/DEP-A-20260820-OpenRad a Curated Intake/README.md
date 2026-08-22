@@ -46,13 +46,13 @@ Passing the included review methodology supports auditability, observability, an
 - Source URL: https://arxiv.org/abs/2603.02062v1
   - Item: Canonical metadata locator exposed by the source DEP-E; identity context only in this run.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260625-Local%20AI%20Intel%202343/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260625-Local%20AI%20Intel%202343/README.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260625-Local%20AI%20Intel%202343/daily_research_findings_2026-06-25_2343.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260625-Local%20AI%20Intel%202343/daily_research_findings_2026-06-25_2343.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260625-Local%20AI%20Intel%202343/BL-DEP-Mark002%20Report-Mark.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260625-Local%20AI%20Intel%202343/BL-DEP-Mark002%20Report-Mark.md
   - Item: Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Source URL: https://github.com/ggml-org/llama.cpp/commit/b3ce5cedf4c007b78a45befe839fa3abada03c0b

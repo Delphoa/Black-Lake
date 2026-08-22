@@ -34,7 +34,7 @@ SMES frames sparse mixture-of-experts recommendation as a cross-layer systems pr
 - Source URL: https://doi.org/10.48550/arXiv.2602.09386
   - Applies to: `smes_expert_sparsity_manuscript.md`
   - Notes: Stable arXiv-issued DOI.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260703-Tech%20Intel%200103
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260703-Tech%20Intel%200103
   - Applies to: `smes_expert_sparsity_manuscript.md`
   - Notes: Related DEP containing the inspected ELDR expert-routing finding.
 - Source URL: https://arxiv.org/abs/2607.00466

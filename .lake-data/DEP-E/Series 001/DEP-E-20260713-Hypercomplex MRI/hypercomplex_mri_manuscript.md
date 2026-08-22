@@ -331,9 +331,9 @@ Dependencies: Python 3 standard library only. Failure boundary: this checks repo
 | R7 | https://arxiv.org/abs/1811.08839 | FastMRI context. | 2026-07-13 | Primary related paper. |
 | R8 | https://arxiv.org/abs/2102.08597 | PHM method context. | 2026-07-13 | Primary related paper. |
 | R9 | https://arxiv.org/abs/2201.03230 | SwinMR context. | 2026-07-13 | Primary related paper. |
-| R10 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related DEP 1. | 2026-07-13 | Finding 9; repository artifact. |
+| R10 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md | Related DEP 1. | 2026-07-13 | Finding 9; repository artifact. |
 | R11 | https://arxiv.org/abs/2607.02428 | Source basis for related DEP 1. | 2026-07-13 | Not used to validate selected-paper results. |
-| R12 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Related DEP 2. | 2026-07-13 | Finding 4; repository artifact. |
+| R12 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Related DEP 2. | 2026-07-13 | Finding 4; repository artifact. |
 | R13 | https://arxiv.org/abs/2607.02055 | Source basis for related DEP 2. | 2026-07-13 | Not used to validate selected-paper results. |
 | R14 | https://github.com/Delphoa/Black-Lake/blob/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-Physical%20Data%20AI/physical_data_ai_manuscript.md | Related DEP 3. | 2026-07-13 | Repository artifact. |
 | R15 | https://arxiv.org/abs/2407.14504 | Source basis for related DEP 3. | 2026-07-13 | Different mechanism/domain. |

@@ -24,13 +24,13 @@ The selected source is useful to Black Lake because it turns "quantum advantage"
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260819-Tech%20Intel%200101/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%200101/README.md
   - Applies to: README.md, single-qubit-qfs.md
   - Notes: Selected source DEP boundary, inventory, tags, summary, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260819-Tech%20Intel%200101/daily_research_findings_2026-08-19_0101.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%200101/daily_research_findings_2026-08-19_0101.md
   - Applies to: single-qubit-qfs.md
   - Notes: Deposited source synthesis containing Finding 6 and the selected arXiv locator.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260819-Tech%20Intel%200101/BL-DEP-Mark001%20Report-Mark.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%200101/BL-DEP-Mark001%20Report-Mark.md
   - Applies to: single-qubit-qfs.md
   - Notes: Prior same-DEP Report-Mark used as iterative-review lineage.
 - Source URL: https://github.com/Delphoa/Black-Lake/blob/main/.logs/20260819-DEP-20260819-Tech%20Intel%200101-B03-LOG.md

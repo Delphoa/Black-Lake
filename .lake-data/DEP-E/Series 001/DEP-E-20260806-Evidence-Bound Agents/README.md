@@ -22,10 +22,10 @@ The reviewed works converge on a useful systems principle: probabilistic agent p
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260628-Tech%20Intel%201103
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103
   - Applies to: `evidence-bound-agents.md`
   - Notes: Selected source DEP inventory and provenance boundary.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md
   - Applies to: `evidence-bound-agents.md`
   - Notes: Selected DEP synthesis used as a source locator and claim checklist.
 - Source URL: https://arxiv.org/abs/2606.26933

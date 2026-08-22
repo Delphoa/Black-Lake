@@ -142,7 +142,7 @@ The table's assessment column is intentionally calibrated. “Supported” means
 
 ### Directly inspected or canonical public sources
 
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
 - [https://github.com/dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
 - [https://ai.pydantic.dev/](https://ai.pydantic.dev/) — Public primary or canonical locator preserved by the complete source record; not treated as independent reproduction.
 - [https://arxiv.org/abs/2310.03714](https://arxiv.org/abs/2310.03714) — Canonical metadata locator exposed by the source DEP-E; identity context only in this run.
@@ -272,7 +272,7 @@ The complete repository record was inspected at the pinned commit. The primary o
 
 [^source-dep]: Complete source DEP-E record: https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20002/DEP-E-20260819-Structured%20Outputs
 [^source-state]: Exact source commit: https://github.com/Delphoa/Black-Lake/commit/3d2403b83a72486215ae81181f71fb8171d3d29d
-[^primary-one]: Primary public source: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md
+[^primary-one]: Primary public source: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md
 [^primary-two]: Additional complete or canonical source locator: https://github.com/dottxt-ai/outlines
 [^repository]: Black Lake repository and live class policy: https://github.com/Delphoa/Black-Lake
 

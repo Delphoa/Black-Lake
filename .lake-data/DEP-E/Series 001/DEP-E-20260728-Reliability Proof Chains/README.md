@@ -30,7 +30,7 @@ The newly reviewed Chai paper makes this pattern especially concrete. Its mutati
 
 - Source repository: [Black-Lake-Data](https://github.com/Delphoa-Labs/Black-Lake-Data)
 - Output repository: [Black-Lake](https://github.com/Delphoa/Black-Lake)
-- Source DEP: [DEP-20260702-Tech Intel 1102](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%201102)
+- Source DEP: [DEP-20260702-Tech Intel 1102](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102)
 - Source repository guidance: [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md)
 - Output repository guidance: [Black-Lake README](https://github.com/Delphoa/Black-Lake/blob/main/README.md)
 - Prior related artifact: [BEAGLE Learner](https://github.com/Delphoa/Black-Lake/tree/main/.lake-data/DEP-E/Series%20001/DEP-E-20260710-BEAGLE%20Learner)

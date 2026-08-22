@@ -42,10 +42,10 @@ The selected paper's durable value is its layered control pattern: randomized gl
   - Applies to: `rrt_cbf_motion_manuscript.md`
   - Notes: Related DEP on state representation and constrained autonomous-vehicle control; primary reference https://arxiv.org/abs/2110.12359.
 - Repository path: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260711-Tech Intel 0104/daily_research_findings_2026-07-11_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%200104/daily_research_findings_2026-07-11_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%200104/daily_research_findings_2026-07-11_0104.md
   - Applies to: `rrt_cbf_motion_manuscript.md`
   - Notes: Related DEP containing native video-action robot control; primary reference https://arxiv.org/abs/2607.08639.
 - Repository path: `Delphoa-Labs/Black-Lake-Data/.lake-data/DEP-20260705-Tech Intel 0104/daily_research_findings_2026-07-05_0104.md`
-  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
+  - Public URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
   - Applies to: `rrt_cbf_motion_manuscript.md`
   - Notes: Related DEP containing verified/fallback autonomous control; primary reference https://arxiv.org/abs/2607.02379.

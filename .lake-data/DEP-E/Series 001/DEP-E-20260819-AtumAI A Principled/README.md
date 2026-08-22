@@ -23,10 +23,10 @@ The manuscript separates source-package claims, canonical metadata, and reviewer
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260804-Tech%20Intel%201301/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%201301/README.md
   - Applies to: README.md, atumai-a-principled.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260804-Tech%20Intel%201301/daily_research_findings_2026-08-04_1301.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%201301/daily_research_findings_2026-08-04_1301.md
   - Applies to: atumai-a-principled.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2608.02569v1

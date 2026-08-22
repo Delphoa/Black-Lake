@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260731-Tech Intel 1111` in
 - Source URL: https://arxiv.org/html/2607.28226
   - Applies to: `security-of-world-40e0.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260731-Tech%20Intel%201111
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260731-Tech%20Intel%201111
   - Applies to: `security-of-world-40e0.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

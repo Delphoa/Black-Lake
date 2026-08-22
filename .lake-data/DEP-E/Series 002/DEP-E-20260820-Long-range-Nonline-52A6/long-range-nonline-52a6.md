@@ -22,7 +22,7 @@ distribution_notes: "Derived review only; no source PDFs, datasets, code, creden
 | ID | Source | Role | Type | Identifier / Version | URL / Repository-relative path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
 | S1 | Long-range Nonlinear Sigma Model for a Singular Quantum Kicked Rotor | Primary research artifact | arXiv HTML and Atom metadata | arXiv:2608.17649 | https://arxiv.org/abs/2608.17649; https://arxiv.org/html/2608.17649 | Public research source; no source file redistributed | 2026-08-20 | Inspected |
-| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260819-Research Data 2234 D0463 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0463 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
+| S2 | Selected source DEP | Provenance and deposited finding | Markdown | DEP-20260819-Research Data 2234 D0463 | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0463 | Repository evidence; no source file copied | 2026-08-20 | Inspected |
 
 The selected DEP contains 2 inspected Markdown file(s) and no newly collected source payload. The primary publication date recorded by official metadata is `2026-08-18T11:08:26Z`. No prior Report-Mark was present in the selected DEP, so this is an initial processing pass and no iterative supporting-document draw was required.
 
@@ -164,7 +164,7 @@ The source includes an identifiable limitations or discussion section, strengthe
 |---|---|---|---|
 | Long-range Nonlinear Sigma Model for a Singular Quantum Kicked Rotor | Primary research thread | Primary work selected from the source DEP and inspected in this pass. | https://arxiv.org/abs/2608.17649 |
 | Official full-text representation | Primary source format | Full HTML used to locate abstract, methodology, evaluation, limitations, and conclusion evidence where available. | https://arxiv.org/html/2608.17649 |
-| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0463 |
+| Selected source DEP | Provenance record | Preserves the deposited finding, source inventory, and explicit non-reproduction boundary. | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0463 |
 | Related locator | Citation or source-deposited context | Discovered through inspected evidence but not independently reviewed in this pass. | https://arxiv.org/abs/2604.12248 |
 
 ## Source References
@@ -174,8 +174,8 @@ The source includes an identifiable limitations or discussion section, strengthe
 | R1 | https://arxiv.org/abs/2608.17649 | Canonical title, authors, abstract, identifier, and source status | 2026-08-20 | Primary record inspected |
 | R2 | https://arxiv.org/html/2608.17649 | Full-text section structure, method/evaluation trace, limitations, and conclusion | 2026-08-20 | Full HTML inspected |
 | R3 | https://export.arxiv.org/api/query?id_list=2608.17649 | Canonical Atom metadata and abstract | 2026-08-20 | Official arXiv API inspected |
-| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0463/dep0463_research_findings_2026-08-19_2234.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
-| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260819-Research%20Data%202234%20D0463/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R4 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0463/dep0463_research_findings_2026-08-19_2234.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
+| R5 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Research%20Data%202234%20D0463/README.md | Selected DEP inventory, deposited claim, or prior Report-Mark context | 2026-08-20 | Repository file inspected by URL; not collected |
 
 ## Appendix
 

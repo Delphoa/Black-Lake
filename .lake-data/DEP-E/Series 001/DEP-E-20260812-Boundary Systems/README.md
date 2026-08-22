@@ -24,10 +24,10 @@ The reviewed bundle connects agent-channel safety, evidence discernment, memory,
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/README.md
   - Applies to: `boundary-systems.md` and this README.
   - Notes: Selected source DEP manifest, tags, item inventory, insights, and attribution.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260723-Tech%20Intel%201302/daily_research_findings_2026-07-23_1302.md
   - Applies to: `boundary-systems.md`.
   - Notes: Selected source DEP findings artifact and ten-item public source inventory.
 - Source URL: https://arxiv.org/abs/2607.19430

@@ -255,8 +255,8 @@ The source DEP had no prior same-family Report-Mark or earlier manuscript to exp
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260726-Tech%20Intel%201302/README.md | DEP identity, inventory, attribution, and source roles | 2026-08-10 | Primary repository source |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260726-Tech%20Intel%201302/daily_research_findings_2026-07-26_1302.md | Ten-item synthesis and source URL inventory | 2026-08-10 | Primary repository source |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260726-Tech%20Intel%201302/README.md | DEP identity, inventory, attribution, and source roles | 2026-08-10 | Primary repository source |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260726-Tech%20Intel%201302/daily_research_findings_2026-07-26_1302.md | Ten-item synthesis and source URL inventory | 2026-08-10 | Primary repository source |
 | R3 | https://arxiv.org/abs/2607.21475 | E3; KV-cache theory and results | 2026-08-10 | v2 record; HTML inspected |
 | R4 | https://arxiv.org/abs/2607.21495 | E4; continuous assurance framework and limits | 2026-08-10 | v1 record; available HTML sections inspected |
 | R5 | https://arxiv.org/abs/2607.21325 | E5; CVA model, prototype, and limits | 2026-08-10 | v1 record; HTML sections inspected |

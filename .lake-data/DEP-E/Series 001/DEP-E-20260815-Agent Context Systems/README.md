@@ -24,10 +24,10 @@ The source set converges on a practical research question: how can systems gain 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260728-Tech%20Intel%201305/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260728-Tech%20Intel%201305/README.md
   - Applies to: README.md and agent-context-systems.md
   - Notes: Selected source DEP identity, inventory, tags, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260728-Tech%20Intel%201305/daily_research_findings_2026-07-28_1305.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260728-Tech%20Intel%201305/daily_research_findings_2026-07-28_1305.md
   - Applies to: agent-context-systems.md
   - Notes: Ten ranked findings, source roles, and direct source locators.
 - Source URL: https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/

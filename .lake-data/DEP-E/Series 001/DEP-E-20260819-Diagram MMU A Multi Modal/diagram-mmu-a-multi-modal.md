@@ -21,8 +21,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Role | Type | Identifier / Version | URL / Local Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260818-Tech Intel 1105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
-| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-08-18_1105.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260818-Tech Intel 1105 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S2 | Deposited source artifact | Source synthesis | Markdown | daily_research_findings_2026-08-18_1105.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | Repository evidence; public URL | 2026-08-19 | Inspected |
 | S3 | Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams | Selected supporting source | arXiv record | 2608.12262 | https://arxiv.org/abs/2608.12262v1 | Metadata and source-package claims only | 2026-08-19 | Canonical arXiv Atom record inspected |
 
 - Paper/work title: Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams
@@ -38,8 +38,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Source Type | Evidence Used | Supports | Confidence | Limitations |
 |---|---|---|---|---|---|---|
-| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
-| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | Deposited source synthesis | ** Submitted 2026-08-12, VAKRA evaluates agents over more than 8,000 executable APIs across 62 domains in endpoint-style, compositional, and multi-source settings. Correctness is checked by re-executing predicted calls against live APIs while a fixed ReAct harness isolates model capability. The best reported model reaches 70.4% on single-hop endpoint tasks, falls to 50–51% on compositional APIs, loses more than half its performance as reasoning depth grows, and reaches as low as 2.4% on unanswerable policy-constrained questions. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
+| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
+| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | Deposited source synthesis | ** Submitted 2026-08-12, VAKRA evaluates agents over more than 8,000 executable APIs across 62 domains in endpoint-style, compositional, and multi-source settings. Correctness is checked by re-executing predicted calls against live APIs while a fixed ReAct harness isolates model capability. The best reported model reaches 70.4% on single-hop endpoint tasks, falls to 50–51% on compositional APIs, loses more than half its performance as reasoning depth grows, and reaches as low as 2.4% on unanswerable policy-constrained questions. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
 | E3 | https://arxiv.org/abs/2608.12262v1 | Canonical arXiv metadata | Title, identity, version/date metadata, authors or credited organization, and availability | Primary source identity | High | No code, data, model, benchmark, or experiment was executed. |
 
 ## Executive Summary
@@ -182,8 +182,8 @@ The work is most useful as a testable research direction. A downstream team shou
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260818-Tech%20Intel%201105/daily_research_findings_2026-08-18_1105.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
 | R3 | https://arxiv.org/abs/2608.12262v1 | E3 and selected supporting-source identity | 2026-08-19 | Canonical arXiv Atom record inspected; no source payload redistributed. |
 
 No original PDF, source archive, code repository, dataset, model, benchmark payload, container, credential, private record, or hardware artifact was collected or deposited.

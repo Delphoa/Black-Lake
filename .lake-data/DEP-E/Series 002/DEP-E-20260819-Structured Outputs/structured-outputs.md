@@ -21,8 +21,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Role | Type | Identifier / Version | URL / Local Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260629-Study Fork Topics | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
-| S2 | Deposited source artifact | Source synthesis | Markdown | README.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S1 | Selected source DEP README | Source package boundary | Markdown | DEP-20260629-Study Fork Topics | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
+| S2 | Deposited source artifact | Source synthesis | Markdown | README.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | Repository evidence; public URL | 2026-08-19 | Inspected |
 | S3 | Structured Outputs | Selected supporting source | Public page | access snapshot | https://github.com/dottxt-ai/outlines | Metadata and source-package claims only | 2026-08-19 | HTTP 200 page inspected |
 
 - Paper/work title: Structured Outputs
@@ -38,8 +38,8 @@ distribution_notes: "No local paths, credentials, private data, source payloads,
 
 | ID | Source | Source Type | Evidence Used | Supports | Confidence | Limitations |
 |---|---|---|---|---|---|---|
-| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
-| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | Deposited source synthesis | The deposited source package identifies Structured Outputs as a relevant primary or near-primary thread, but does not provide a standalone empirical reconstruction. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
+| E1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | Source DEP README | DEP identity, inventory, attribution, and package boundaries | Source package identity | High | Repository metadata does not independently validate linked claims. |
+| E2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | Deposited source synthesis | The deposited source package identifies Structured Outputs as a relevant primary or near-primary thread, but does not provide a standalone empirical reconstruction. | Source-package claim and selected-thread context | Medium | Derived source synthesis; not an independent reproduction. |
 | E3 | https://github.com/dottxt-ai/outlines | Official or publisher page | Title, identity, version/date metadata, authors or credited organization, and availability | Primary source identity | High | No code, data, model, benchmark, or experiment was executed. |
 
 ## Executive Summary
@@ -182,8 +182,8 @@ The work is most useful as a testable research direction. A downstream team shou
 
 | ID | Reference | Supports | Access date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Study%20Fork%20Topics/README.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | E1 and selected DEP identity | 2026-08-19 | Live source DEP README inspected. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Study%20Fork%20Topics/README.md | E2 and source-package synthesis | 2026-08-19 | Deposited artifact inspected; claims remain source-qualified. |
 | R3 | https://github.com/dottxt-ai/outlines | E3 and selected supporting-source identity | 2026-08-19 | HTTP 200 page inspected; no source payload redistributed. |
 
 No original PDF, source archive, code repository, dataset, model, benchmark payload, container, credential, private record, or hardware artifact was collected or deposited.

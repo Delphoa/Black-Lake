@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-13"
 temporal_cutoff: "2026-08-12T15:06:16Z eligibility cutoff"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260805-Tech%20Intel%201109"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109"
 stable_identifier: "Black-Lake-Data/.lake-data/DEP-20260805-Tech Intel 1109"
 confidence_summary: "Medium: direct source pages and repository records were inspected, but vendor claims were not independently reproduced."
 safety_scope: "Defensive, evaluation, authorized research, and non-sensitive implementation planning"
@@ -22,8 +22,8 @@ distribution_notes: "Public-safe derived artifact; no source files, restricted d
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
 | S1 | Black-Lake-Data repository README | Authority and deposition context | Markdown | `main` | [Repository README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md) | Repository rules; not empirical evidence | 2026-08-13 | Inspected |
-| S2 | Selected DEP README | Primary source manifest | Markdown | `DEP-20260805-Tech Intel 1109` | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/README.md) | Public repository artifact | 2026-08-13 | Inspected |
-| S3 | Selected DEP findings | Source-first synthesis and URL inventory | Markdown | `daily_research_findings_2026-08-05_1109.md` | [Findings artifact](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md) | Public repository artifact; claims remain attributed to underlying sources | 2026-08-13 | Inspected |
+| S2 | Selected DEP README | Primary source manifest | Markdown | `DEP-20260805-Tech Intel 1109` | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/README.md) | Public repository artifact | 2026-08-13 | Inspected |
+| S3 | Selected DEP findings | Source-first synthesis and URL inventory | Markdown | `daily_research_findings_2026-08-05_1109.md` | [Findings artifact](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md) | Public repository artifact; claims remain attributed to underlying sources | 2026-08-13 | Inspected |
 | S4 | OpenAI, *Ten advances in mathematics and theoretical computer science* | Official research report | HTML | Published 2026-08-01 | [OpenAI report](https://openai.com/index/ten-advances-in-mathematics/) | Company-published; independent mathematical review remains necessary | 2026-08-13 | Inspected by URL |
 | S5 | Wen et al., *Automated Weak-to-Strong Researcher* | Near-primary alignment research report and code locator | HTML | 2026 publication path | [Anthropic Alignment Science](https://alignment.anthropic.com/2026/automated-w2s-researcher/) | Report and linked code are external sources; no code was collected | 2026-08-13 | Full page inspected |
 | S6 | OpenAI, *GPT-Red: Unlocking Self-Improvement for Robustness* | Official safety report | HTML | Published 2026-07-15 | [OpenAI safety report](https://openai.com/index/unlocking-self-improvement-gpt-red/) | Company-reported benchmark result | 2026-08-13 | Inspected by URL |
@@ -255,8 +255,8 @@ This is an initial processing pass. No prior same-family Report-Mark, output log
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
 | R1 | [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md) | Repository layout and DEP deposition rules | 2026-08-13 | Authority source read before review; not empirical evidence |
-| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/README.md) | Package identity, inventory, source roles, and attribution | 2026-08-13 | Public repository path: `Black-Lake-Data/.lake-data/DEP-20260805-Tech Intel 1109/README.md` |
-| R3 | [Selected DEP findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md) | Ten findings, metrics, direct URLs, and source limitations | 2026-08-13 | Public repository path; no local file collected |
+| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/README.md) | Package identity, inventory, source roles, and attribution | 2026-08-13 | Public repository path: `Black-Lake-Data/.lake-data/DEP-20260805-Tech Intel 1109/README.md` |
+| R3 | [Selected DEP findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md) | Ten findings, metrics, direct URLs, and source limitations | 2026-08-13 | Public repository path; no local file collected |
 | R4 | [OpenAI — Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | E4; Astra report, ten result areas, human manuscript work, and Lean certificates | 2026-08-13 | Official report; published 2026-08-01 |
 | R5 | [Anthropic — Automated Weak-to-Strong Researcher](https://alignment.anthropic.com/2026/automated-w2s-researcher/) | E5; AAR setup, PGR results, held-out testing, reward hacking, and code locator | 2026-08-13 | Full HTML inspected; 2026 publication path does not expose a precise day |
 | R6 | [OpenAI — GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) | E6; self-play red-teaming and source-reported prompt-injection robustness result | 2026-08-13 | Official safety report; published 2026-07-15 |

@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-05"
 temporal_cutoff: "2026-08-05"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%201105"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105"
 stable_identifier: "DEP-20260717-Tech Intel 1105; DEP-E-20260805-Auditable Boundaries"
 confidence_summary: "Moderate-to-high for source description and cross-source patterns; lower for generalization because no experiment, implementation, dataset, model, device, or clinical analysis was independently reproduced."
 safety_scope: "Defensive system design, research evaluation, and non-clinical product translation."
@@ -21,8 +21,8 @@ distribution_notes: "Public sources and repository-relative provenance only; no 
 
 | ID | Source | Authors or organization | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Delphoa-Labs | Primary source package | Markdown | `DEP-20260717-Tech Intel 1105` | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/README.md | Repository content; attribution preserved | 2026-08-05 | Inspected in full |
-| S2 | Daily Research Findings | Delphoa-Labs | Primary source synthesis | Markdown | `daily_research_findings_2026-07-17_1105.md` | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md | Repository content; source-reported claims were rechecked | 2026-08-05 | Inspected in full |
+| S1 | Selected DEP README | Delphoa-Labs | Primary source package | Markdown | `DEP-20260717-Tech Intel 1105` | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/README.md | Repository content; attribution preserved | 2026-08-05 | Inspected in full |
+| S2 | Daily Research Findings | Delphoa-Labs | Primary source synthesis | Markdown | `daily_research_findings_2026-07-17_1105.md` | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md | Repository content; source-reported claims were rechecked | 2026-08-05 | Inspected in full |
 | S3 | Agora: Collective and Permissionless Internet-Scale Pretraining of Large Language Models | Gil Avraham, Violetta Shevchenko, Hadi Mohaghegh Dolatabadi, et al. | Primary paper | 66-page PDF | arXiv:2607.13332v1 | https://arxiv.org/abs/2607.13332 | Paper page shows author-reserved rights | 2026-08-05 | Full PDF inspected |
 | S4 | Agora implementation | Pluralis Research | Official implementation | Git repository | commit `37d29a966528675635161007d7b43388012a98b2` | https://github.com/PluralisResearch/agora | Apache-2.0 visible in repository | 2026-08-05 | README and remote head inspected; not executed |
 | S5 | GDM AI Control Roadmap | Mary Phuong, Erik Jenner, Laurent Simon, Lewis Ho, Rohin Shah, Sebastian Farquhar, Scott Coull | Primary security roadmap | HTML paper | arXiv:2607.13087v1 | https://arxiv.org/abs/2607.13087 | CC BY 4.0 visible on arXiv | 2026-08-05 | Full HTML inspected |
@@ -311,8 +311,8 @@ All items below are new in this initial processing pass; no prior same-family ar
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/README.md | E1, package identity, inventory, and original attribution | 2026-08-05 | Public repository path; no local path published. |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md | E2, selected source synthesis and discovery map | 2026-08-05 | Source-reported claims were checked against primary records. |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/README.md | E1, package identity, inventory, and original attribution | 2026-08-05 | Public repository path; no local path published. |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md | E2, selected source synthesis and discovery map | 2026-08-05 | Source-reported claims were checked against primary records. |
 | R3 | https://arxiv.org/abs/2607.13332 | E3, Agora architecture and evaluation | 2026-08-05 | v1; complete 66-page PDF inspected. |
 | R4 | https://github.com/PluralisResearch/agora | E3, official implementation and requirements | 2026-08-05 | Remote head snapshot `37d29a966528675635161007d7b43388012a98b2`; not executed. |
 | R5 | https://pluralis.ai/docs/ | E3, official project documentation | 2026-08-05 | Contextual implementation documentation. |

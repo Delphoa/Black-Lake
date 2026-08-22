@@ -30,7 +30,7 @@ The artifact turns a concise source-DEP finding into a reusable DEP-E research r
 - Source URL: https://doi.org/10.1038/s41586-020-2103-5
   - Applies to: `quantum-repeater.md`.
   - Notes: Independent memory-enhanced communication context; abstract and metadata inspected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260819-Tech%20Intel%202124%20D0155
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260819-Tech%20Intel%202124%20D0155
   - Applies to: `quantum-repeater.md`.
   - Notes: Selected source DEP inventory and prior finding; source files were inspected by URL and were not copied into this entry.
 

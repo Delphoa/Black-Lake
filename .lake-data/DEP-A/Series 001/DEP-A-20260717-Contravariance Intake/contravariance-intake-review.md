@@ -144,7 +144,7 @@ The table's assessment column is intentionally calibrated. “Supported” means
 
 - [https://arxiv.org/abs/2607.08561v1](https://arxiv.org/abs/2607.08561v1) — Canonical metadata and abstract checked directly in this run.
 - [https://arxiv.org/pdf/2607.08561](https://arxiv.org/pdf/2607.08561) — Canonical 94-page complete-paper locator inspected by the source DEP-E.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100) — Selected upstream DEP bundle.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100) — Selected upstream DEP bundle.
 - [https://github.com/Delphoa/Black-Lake/blob/db3a22b36676b872fbbcebc069916ac9878f93a3/.lake-data/DEP-E/DEP-E-20260713-Tech%20Intel%201100%20Review/tech-intel-1100-research.md](https://github.com/Delphoa/Black-Lake/blob/db3a22b36676b872fbbcebc069916ac9878f93a3/.lake-data/DEP-E/DEP-E-20260713-Tech%20Intel%201100%20Review/tech-intel-1100-research.md) — Prior abstract-boundary DEP-E artifact.
 - [https://doi.org/10.48550/arXiv.2607.08561](https://doi.org/10.48550/arXiv.2607.08561) — Persistent arXiv DOI locator.
 

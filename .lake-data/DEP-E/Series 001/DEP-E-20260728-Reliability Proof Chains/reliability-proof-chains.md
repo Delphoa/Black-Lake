@@ -17,7 +17,7 @@ expansion_source: "Chai, arXiv:2606.26933"
 
 - **Primary source package:** `Black-Lake-Data/.lake-data/DEP-20260702-Tech Intel 1102`
 - **Primary source files inspected:** `README.md`; `daily_research_findings_2026-07-02_1102.md`
-- **Primary source snapshot:** [Black-Lake-Data source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%201102)
+- **Primary source snapshot:** [Black-Lake-Data source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102)
 - **Source package role:** discovery record and preliminary synthesis for ten research papers.
 - **Canonical works reviewed:** ProtoPilot, ACE, AxDafny, Antaeus, KidnapRAG, Xiaomi-GUI-0, FARS, MARS, Evo-PI, and the global transverse-field Ising universality paper.
 - **New supporting work reviewed:** Chai.
@@ -252,7 +252,7 @@ Werner's transverse-field Ising result belongs to a different technical domain, 
 9. Xianda Zheng, Huan Gao, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao, and Shangyang Li. “Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision.” [arXiv:2606.31800](https://arxiv.org/abs/2606.31800).
 10. Matthias Werner. “Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation.” [arXiv:2607.01227](https://arxiv.org/abs/2607.01227).
 11. **New in this pass:** Corban Villa, Sohee Kim, Austin Chu, Alon Shakevsky, and Raluca Ada Popa. “Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities.” [arXiv:2606.26933](https://arxiv.org/abs/2606.26933).
-12. Delphoa-Labs. [Black-Lake-Data source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260702-Tech%20Intel%201102), accessed 2026-07-28.
+12. Delphoa-Labs. [Black-Lake-Data source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102), accessed 2026-07-28.
 
 ## Appendix
 

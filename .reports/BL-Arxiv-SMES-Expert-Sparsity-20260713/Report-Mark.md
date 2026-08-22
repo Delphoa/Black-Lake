@@ -41,7 +41,7 @@ Evidence strength is mixed. The method, equations, table values, and experiment 
 
 ## Related DEP Entries
 
-1. [Black-Lake-Data DEP-20260703-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260703-Tech%20Intel%200103) — Finding 7 summarizes ELDR, which uses predicted expert locality to route disaggregated MoE decode requests and reports lower time per output token than load-balancing baselines. It overlaps with SMES through expert-aware routing, load distribution, and the requirement that sparse activation translate into real serving gains. Source basis: the DEP finding and arXiv:2607.00466.
+1. [Black-Lake-Data DEP-20260703-Tech Intel 0103](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260703-Tech%20Intel%200103) — Finding 7 summarizes ELDR, which uses predicted expert locality to route disaggregated MoE decode requests and reports lower time per output token than load-balancing baselines. It overlaps with SMES through expert-aware routing, load distribution, and the requirement that sparse activation translate into real serving gains. Source basis: the DEP finding and arXiv:2607.00466.
 2. `.lake-data/DEP-E/DEP-E-20260712-KDFlow LLM Distill` — KDFlow identifies forward-only MoE teacher inference as a throughput bottleneck when forced through a training-oriented backend. It overlaps with SMES through conditional computation, workload-specific execution, communication/memory tradeoffs, and the need to test sparse-model efficiency at system level. Source basis: the processed manuscript and arXiv:2603.01875.
 3. `.lake-data/DEP-E/DEP-E-20260712-LlamaCpp-Runtime` — This entry inspects a llama.cpp release whose linked change corrects layer counting for MoE-with-MTP quantization. It overlaps with SMES by showing that sparse-expert topology must remain correct through quantization and runtime packaging; model-level sparsity claims are insufficient without configuration-specific regression tests. Source basis: the processed runtime report, official release b9789, and commit `b3ce5ce`.
 
@@ -140,7 +140,7 @@ SMES, ELDR, KDFlow, and the llama.cpp runtime record occupy different layers of 
 - Source URL: https://doi.org/10.48550/arXiv.2602.09386
   - Applies to: stable arXiv-issued DOI.
   - Notes: Identifier link exposed by the arXiv record.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260703-Tech%20Intel%200103
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260703-Tech%20Intel%200103
   - Applies to: ELDR related-entry synthesis.
   - Notes: Related DEP containing the inspected ELDR finding.
 - Source URL: https://arxiv.org/abs/2607.00466

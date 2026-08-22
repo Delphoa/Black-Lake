@@ -27,7 +27,7 @@ distribution_notes: "Public URLs and repository-relative paths only; no local ex
 | S4 | CausalTAD code repository | Official implementation | Git repository README | public `main` page | https://github.com/LwbXc/CausalTAD | No root license file was visible on the inspected page; reuse requires license review | 2026-07-11 | README inspected; code not executed |
 | S5 | Self-Learned IDC DEP | Related Black-Lake artifact | Markdown | DEP-E-20260710 | `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` | Repository context only | 2026-07-11 | Inspected |
 | S6 | BA-LoRA Bias DEP | Related Black-Lake artifact | Markdown | DEP-E-20260709 | `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` | Repository context only | 2026-07-11 | Inspected |
-| S7 | Structure-aware split finding | Related Black-Lake-Data artifact | Markdown | DEP-20260707-Tech Intel 1103 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Repository context only | 2026-07-11 | Inspected |
+| S7 | Structure-aware split finding | Related Black-Lake-Data artifact | Markdown | DEP-20260707-Tech Intel 1103 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Repository context only | 2026-07-11 | Inspected |
 
 Paper/work metadata:
 
@@ -246,7 +246,7 @@ The road-preference factor must be versioned with the road graph and time window
 |---|---|---|---|
 | Self-Learned IDC - DEP-E | Related Black-Lake DEP | Road-network online decision system, physical safety metrics, simulation limits, and state representation. | `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` |
 | BA-LoRA Bias - DEP-E | Related Black-Lake DEP | Debiasing under inherited observational imbalance and caution about causal interpretation. | `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` |
-| Structure-aware spatial split finding | Related Black-Lake-Data DEP | Spatial leakage, hidden stratification, and distributionally robust evaluation. | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md |
+| Structure-aware spatial split finding | Related Black-Lake-Data DEP | Spatial leakage, hidden stratification, and distributionally robust evaluation. | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md |
 | CausalTAD code repository | Official implementation | Code/dataset/usage context and ICDE citation; requires dataset-alignment and license review. | https://github.com/LwbXc/CausalTAD |
 | Causality | Foundational book cited by paper | Structural causal models, interventions, and backdoor adjustment. | Judea Pearl, Cambridge University Press, 2009 |
 | DeepTEA | Direct baseline | Learning-based online trajectory anomaly detector included in comparisons. | Han et al., cited in the CausalTAD paper |
@@ -263,7 +263,7 @@ The road-preference factor must be versioned with the road graph and time window
 | S6 | https://github.com/LwbXc/CausalTAD | Official code, dataset, usage, and citation context. | 2026-07-11 | README inspected; no execution or redistribution. |
 | S7 | `.lake-data/DEP-E/DEP-E-20260710-Self Learned IDC/self_learned_idc_manuscript.md` | Related road-system synthesis. | 2026-07-11 | Existing Black-Lake artifact. |
 | S8 | `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md` | Related bias and causal-evidence synthesis. | 2026-07-11 | Existing Black-Lake artifact. |
-| S9 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Related spatial split and distribution-shift synthesis. | 2026-07-11 | Existing Black-Lake-Data artifact. |
+| S9 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md | Related spatial split and distribution-shift synthesis. | 2026-07-11 | Existing Black-Lake-Data artifact. |
 | S10 | Live `Delphoa/Black-Lake` README | DEP-E naming, contents, log/report roles, commit-message standard. | 2026-07-11 | Repository authority inspected through connected GitHub access. |
 | S11 | Live `Delphoa-Labs/Black-Lake-Data` README | Related raw-data DEP context and attribution standard. | 2026-07-11 | Repository authority inspected through connected GitHub access. |
 | S12 | `.logs/20260711-Arxiv-CausalTAD-Trajectory-LOG.md` | Random selection, deduplication, extraction, and output-path process evidence. | 2026-07-11 | Public-safe process record generated in this run. |

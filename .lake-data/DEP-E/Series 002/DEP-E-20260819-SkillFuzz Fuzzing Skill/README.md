@@ -23,10 +23,10 @@ Embodied AI deployment is often blocked by Python-heavy, model-specific stacks. 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260705-Tech%20Intel%200104/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260705-Tech%20Intel%200104/README.md
   - Applies to: README.md, skillfuzz-fuzzing-skill.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260705-Tech%20Intel%200104/daily_research_findings_2026-07-05_0104.md
   - Applies to: skillfuzz-fuzzing-skill.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://arxiv.org/abs/2607.02345v1

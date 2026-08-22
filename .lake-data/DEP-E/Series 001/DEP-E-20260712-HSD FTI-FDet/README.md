@@ -46,9 +46,9 @@ Original source files were not collected into `.source/` because redistribution 
 - Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md
   - Applies to: `README.md`; `hsd_fti_fdet_manuscript.md`
   - Notes: Live related-repository layout and provenance authority.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md
   - Applies to: `hsd_fti_fdet_manuscript.md`
   - Notes: Related DEP finding on topology-aware knowledge distillation; primary basis https://arxiv.org/abs/2606.27797.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260711-Tech%20Intel%201311/daily_research_findings_2026-07-11_1311.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260711-Tech%20Intel%201311/daily_research_findings_2026-07-11_1311.md
   - Applies to: `hsd_fti_fdet_manuscript.md`
   - Notes: Related DEP findings on hardware-aware compression and edge deployment; primary bases https://arxiv.org/abs/2607.08015, https://arxiv.org/abs/2607.08029, and https://arxiv.org/abs/2607.08013.

@@ -26,7 +26,7 @@ distribution_notes: "Paper files, metadata HTML, caches, and extracted text were
 | S3 | SIAM publisher record | Publication metadata/abstract | 10.1137/21M1456789 | https://epubs.siam.org/doi/10.1137/21M1456789 | Volume/pages/history verified |
 | S4 | Mosaic Safety | Related DEP | DEP-E-20260709 | `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md` | Inspected |
 | S5 | ConMax Reasoning | Related DEP | DEP-E-20260708 | `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md` | Inspected |
-| S6 | Tech Intel 0102 | Related raw DEP | DEP-20260715 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md | Distributional-RL audit entry inspected |
+| S6 | Tech Intel 0102 | Related raw DEP | DEP-20260715 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md | Distributional-RL audit entry inspected |
 | S7 | Repository READMEs | Repository authority | live default branches | https://github.com/Delphoa/Black-Lake ; https://github.com/Delphoa-Labs/Black-Lake-Data | Inspected before writing |
 
 Authors: Wenhao Zhan, Shicong Cen, Baihe Huang, Yuxin Chen, Jason D. Lee, and Yuejie Chi. arXiv versions span 2021-05-24 through 2023-01-10. SIAM lists submission on 2021-11-02, acceptance on 2023-01-06, online publication on 2023-06-22, volume 33 issue 2, pages 1061-1091. The local arXiv source is under the arXiv non-exclusive distribution license; the publisher record lists SIAM copyright.
@@ -203,7 +203,7 @@ For practical RL, the crucial extension is not only function approximation but o
 
 1. [Mosaic Safety](../DEP-E-20260709-Mosaic%20Safety/mosaic_safety_manuscript.md) - MDP abstraction, runtime safety queries, controller switching, and fallback-quality evidence.
 2. [ConMax Reasoning](../DEP-E-20260708-ConMax%20Reasoning/conmax_reasoning_manuscript.md) - empirical policy optimization with composite confidence rewards and function approximation.
-3. [Tech Intel 0102](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md) - includes falsification-first auditing of distributional-RL risk claims.
+3. [Tech Intel 0102](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md) - includes falsification-first auditing of distributional-RL risk claims.
 
 ## Source References
 
@@ -215,7 +215,7 @@ For practical RL, the crucial extension is not only function approximation but o
 6. arXiv DOI. https://doi.org/10.48550/arXiv.2105.11066
 7. Mosaic Safety DEP-E. `.lake-data/DEP-E/DEP-E-20260709-Mosaic Safety/mosaic_safety_manuscript.md`
 8. ConMax Reasoning DEP-E. `.lake-data/DEP-E/DEP-E-20260708-ConMax Reasoning/conmax_reasoning_manuscript.md`
-9. Black-Lake-Data Tech Intel 0102. https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md
+9. Black-Lake-Data Tech Intel 0102. https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260715-Tech%20Intel%200102/daily_research_findings_2026-07-15_0102.md
 
 ## Appendix
 

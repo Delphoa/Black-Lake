@@ -23,10 +23,10 @@ The manuscript separates source-package claims, canonical metadata, and reviewer
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260803-Tech%20Intel%200102/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260803-Tech%20Intel%200102/README.md
   - Applies to: README.md, a-98-qubit-trapped-ion.md
   - Notes: Selected source DEP boundary, inventory, and attribution context.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260803-Tech%20Intel%200102/daily_research_findings_2026-08-03_0102.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260803-Tech%20Intel%200102/daily_research_findings_2026-08-03_0102.md
   - Applies to: a-98-qubit-trapped-ion.md
   - Notes: Deposited source synthesis used for the selected-thread context.
 - Source URL: https://www.nature.com/articles/s41586-026-10676-4

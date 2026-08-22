@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-06"
 temporal_cutoff: "2026-08-06"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260628-Tech%20Intel%201103"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103"
 stable_identifier: "DEP-20260628-Tech Intel 1103"
 confidence_summary: "Medium-high for source-reported mechanisms and measurements; low for independent reproducibility because no code, data, models, or experiments were executed."
 safety_scope: "defensive, evaluation-only, and non-clinical"
@@ -21,8 +21,8 @@ distribution_notes: "No original source files were collected or redistributed; o
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Source DEP README | Primary source package | Markdown | `DEP-20260628-Tech Intel 1103` | [Black-Lake-Data DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260628-Tech%20Intel%201103) | Repository-hosted source inventory and attribution record. | 2026-08-06 | Inspected in full. |
-| S2 | Daily Research Findings | Primary source synthesis | Markdown | `daily_research_findings_2026-06-28_1103.md` | [Source findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md) | Repository-hosted synthesis; claims were checked against the listed primary papers. | 2026-08-06 | Inspected in full. |
+| S1 | Source DEP README | Primary source package | Markdown | `DEP-20260628-Tech Intel 1103` | [Black-Lake-Data DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103) | Repository-hosted source inventory and attribution record. | 2026-08-06 | Inspected in full. |
+| S2 | Daily Research Findings | Primary source synthesis | Markdown | `daily_research_findings_2026-06-28_1103.md` | [Source findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md) | Repository-hosted synthesis; claims were checked against the listed primary papers. | 2026-08-06 | Inspected in full. |
 | S3 | *Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities*; Corban Villa, Sohee Kim, Austin Chu, Alon Shakevsky, Raluca Ada Popa | Primary paper | arXiv HTML | arXiv:2606.26933v1, 2026-06-25 | [arXiv](https://arxiv.org/abs/2606.26933) | CC BY 4.0 on the inspected arXiv HTML. | 2026-08-06 | Full HTML inspected. |
 | S4 | *ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP*; Liwei Liu, Tianzhu Han, Zijian Liu, Zishu Dong, Na Ruan | Primary paper | arXiv HTML | arXiv:2606.27027v1, 2026-06-25 | [arXiv](https://arxiv.org/abs/2606.27027) | CC BY-NC-SA 4.0 on the inspected arXiv HTML. | 2026-08-06 | Full HTML inspected; security analysis kept defensive and non-operational. |
 | S5 | *A Deterministic Control Plane for LLM Coding Agents*; Padmaraj Madatha | Primary paper | arXiv HTML | arXiv:2606.26924v1, 2026-06-25 | [arXiv](https://arxiv.org/abs/2606.26924) | arXiv perpetual non-exclusive license; companion artifact DOI listed by the source. | 2026-08-06 | Full HTML inspected. |
@@ -288,8 +288,8 @@ Pass status: All entries below are new in this initial processing pass; there wa
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | [Selected source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260628-Tech%20Intel%201103) | Source inventory, original synthesis, and provenance boundary. | 2026-08-06 | Both repository Markdown files were inspected; no external source files were collected. |
-| R2 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md) | Original ten-item ranking and reported relevance. | 2026-08-06 | Used as a locator and hypothesis source, not as sole evidence for paper claims. |
+| R1 | [Selected source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103) | Source inventory, original synthesis, and provenance boundary. | 2026-08-06 | Both repository Markdown files were inspected; no external source files were collected. |
+| R2 | [Daily research findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260628-Tech%20Intel%201103/daily_research_findings_2026-06-28_1103.md) | Original ten-item ranking and reported relevance. | 2026-08-06 | Used as a locator and hypothesis source, not as sole evidence for paper claims. |
 | R3 | [Chai, arXiv:2606.26933v1](https://arxiv.org/abs/2606.26933) | E3; differential testing, discrepancy tracing, evaluation, disclosure, and limitations. | 2026-08-06 | Full official arXiv HTML inspected; source file not collected. |
 | R4 | [ShareLock, arXiv:2606.27027v1](https://arxiv.org/abs/2606.27027) | E4; threshold composition threat, evaluation, adaptive defenses, and limitations. | 2026-08-06 | Full official arXiv HTML inspected; defensive summary only. |
 | R5 | [Deterministic Control Plane, arXiv:2606.26924v1](https://arxiv.org/abs/2606.26924) | E5; repository study, control architecture, conformance tests, and limitations. | 2026-08-06 | Full official arXiv HTML inspected. |

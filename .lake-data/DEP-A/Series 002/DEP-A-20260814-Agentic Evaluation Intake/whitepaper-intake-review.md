@@ -152,8 +152,8 @@ The table's assessment column is intentionally calibrated. “Supported” means
 - [https://arxiv.org/abs/2606.01961](https://arxiv.org/abs/2606.01961) — AutoMedBench; complete canonical HTML rechecked, workflow runs not reproduced.
 - [https://arxiv.org/abs/2605.14718](https://arxiv.org/abs/2605.14718) — AlphaEvolve FHE optimization; complete canonical HTML rechecked, TPU workload not reproduced.
 - [https://arxiv.org/abs/2605.12116](https://arxiv.org/abs/2605.12116) — MPEX milestone report; complete canonical HTML rechecked, physical and HPC milestones not validated.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md) — Underlying source-package identity used by the selected DEP-E.
-- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) — Underlying ten-finding source artifact used by the selected DEP-E.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md) — Underlying source-package identity used by the selected DEP-E.
+- [https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) — Underlying ten-finding source artifact used by the selected DEP-E.
 
 ### Associated DEP records
 

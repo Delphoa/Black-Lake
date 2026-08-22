@@ -43,9 +43,9 @@ Exactly three existing entries were selected after inspecting both their reposit
 
 | Related entry | Concrete overlap | Source basis |
 |---|---|---|
-| [Antaeus finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md) | Both systems reduce expensive security reasoning by first prioritizing a smaller candidate surface, then validating findings with broader context and traceable evidence. SAILFISH uses SDG queries plus symbolic refinement; Antaeus uses repository signals plus context-grounded comparative validation. | DEP synopsis and https://arxiv.org/abs/2607.01138. |
-| [Chai finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md) | Both turn program relations into graph-guided security search. SAILFISH queries storage dependencies for hazardous access; Chai propagates validated library-level discrepancy signals through a cryptographic dependency graph. | DEP synopsis and https://arxiv.org/abs/2606.26933. |
-| [VeriChat finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md) | Both use a broad, relatively inexpensive reasoning layer and then invoke more precise tools. SAILFISH couples static exploration to SMT-backed symbolic evaluation; VeriChat couples agent reasoning to syntax, synthesis, simulation, and formal verification. | DEP synopsis and https://arxiv.org/abs/2607.01668. |
+| [Antaeus finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md) | Both systems reduce expensive security reasoning by first prioritizing a smaller candidate surface, then validating findings with broader context and traceable evidence. SAILFISH uses SDG queries plus symbolic refinement; Antaeus uses repository signals plus context-grounded comparative validation. | DEP synopsis and https://arxiv.org/abs/2607.01138. |
+| [Chai finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md) | Both turn program relations into graph-guided security search. SAILFISH queries storage dependencies for hazardous access; Chai propagates validated library-level discrepancy signals through a cryptographic dependency graph. | DEP synopsis and https://arxiv.org/abs/2606.26933. |
+| [VeriChat finding](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md) | Both use a broad, relatively inexpensive reasoning layer and then invoke more precise tools. SAILFISH couples static exploration to SMT-backed symbolic evaluation; VeriChat couples agent reasoning to syntax, synthesis, simulation, and formal verification. | DEP synopsis and https://arxiv.org/abs/2607.01668. |
 
 ## Synthesis Note
 
@@ -160,12 +160,12 @@ def score(rows):
 - Source URL: https://github.com/ucsb-seclab/sailfish
   - Applies to: released code/data availability and documented Docker/test workflow.
   - Notes: Official repository inspected but not executed.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260702-Tech%20Intel%201102/daily_research_findings_2026-07-02_1102.md
   - Applies to: Antaeus related-entry synthesis.
   - Notes: Existing DEP artifact, cross-checked with https://arxiv.org/abs/2607.01138.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260626-Tech%20Intel%201103/daily_research_findings_2026-06-26_1103.md
   - Applies to: Chai related-entry synthesis.
   - Notes: Existing DEP artifact, cross-checked with https://arxiv.org/abs/2606.26933.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260706-Tech%20Intel%200104/daily_research_findings_2026-07-06_0104.md
   - Applies to: VeriChat related-entry synthesis.
   - Notes: Existing DEP artifact, cross-checked with https://arxiv.org/abs/2607.01668.

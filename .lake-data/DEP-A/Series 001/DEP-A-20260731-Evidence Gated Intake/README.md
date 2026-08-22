@@ -79,10 +79,10 @@ Passing the included review methodology supports auditability, observability, an
 - Source URL: https://arxiv.org/abs/2607.26041
   - Item: Persistent arXiv-issued DOI or equivalent canonical locator.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102/daily_research_findings_2026-07-30_0102.md
   - Item: Persistent arXiv-issued DOI or equivalent canonical locator.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260730-Tech%20Intel%200102
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260730-Tech%20Intel%200102
   - Item: Persistent arXiv-issued DOI or equivalent canonical locator.
   - Notes: Reviewed as primary or canonical evidence; no source document was uploaded.
 - Source URL: https://github.com/LIUHA1ZHU/MemLens

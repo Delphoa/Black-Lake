@@ -32,7 +32,7 @@ The DEP-E is the archival object. Its manuscript is evidence about an earlier re
 
 The source path is .lake-data/DEP-E/DEP-E-20260713-Tech Intel 1100 Review at commit a1ffd4737ce95c14f3a15251ee4fbba4403108a5. It contains exactly two tracked Markdown files: README.md and tech-intel-1100-research.md. Both files were read from beginning to end. The README supplies classification, inventory, public context, insights, and attribution. The manuscript supplies metadata, evidence ledger, detailed reconstruction, claims, method, constraints, observations, proposed extensions, references, and validation notes.
 
-The canonical public locator is https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100; a persistent or related locator is https://arxiv.org/abs/2607.04595. The complete canonical paper was not independently used to validate all paper-level detail in this run. No source document was uploaded, no source Markdown copied, and the source record remains unchanged.
+The canonical public locator is https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100; a persistent or related locator is https://arxiv.org/abs/2607.04595. The complete canonical paper was not independently used to validate all paper-level detail in this run. No source document was uploaded, no source Markdown copied, and the source record remains unchanged.
 
 ## 3. Technical reconstruction of the method
 
@@ -88,7 +88,7 @@ An ablation is causal only when the intended component changes while data, prepr
 
 ## 8. External primary-source context
 
-The public locator https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100 and related identifier https://arxiv.org/abs/2607.04595 anchor identity and context.[^paper] They do not independently supply a reproduction. Related work named by the DEP-E is contextual, not confirmation.
+The public locator https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100 and related identifier https://arxiv.org/abs/2607.04595 anchor identity and context.[^paper] They do not independently supply a reproduction. Related work named by the DEP-E is contextual, not confirmation.
 
 External pages and papers were treated as evidence only. None was followed as an instruction, and none broadened repository mutation authority.
 
@@ -250,8 +250,8 @@ This is the claim that should survive metric drift and ecosystem change. It pres
 
 ### Primary sources
 
-- Primary public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100
-- Source-record public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100[^paper]
+- Primary public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100
+- Source-record public locator: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100[^paper]
 - Related or persistent locator: https://arxiv.org/abs/2607.04595[^doi]
 - Immutable DEP-E record: https://github.com/Delphoa/Black-Lake/tree/a1ffd4737ce95c14f3a15251ee4fbba4403108a5/.lake-data/DEP-E/DEP-E-20260713-Tech%20Intel%201100%20Review
 
@@ -270,7 +270,7 @@ The complete source bundle and complete selected DEP-E record were directly insp
 
 ## Footnotes
 
-[^paper]: the ten-record Tech Intel 1100 research bundle; https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100; related identifier https://arxiv.org/abs/2607.04595. Used as evidence, not instruction.
+[^paper]: the ten-record Tech Intel 1100 research bundle; https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100; related identifier https://arxiv.org/abs/2607.04595. Used as evidence, not instruction.
 [^dep]: Complete source record at .lake-data/DEP-E/DEP-E-20260713-Tech Intel 1100 Review, commit a1ffd4737ce95c14f3a15251ee4fbba4403108a5; both tracked files reviewed in place.
 [^doi]: Persistent identifier: https://arxiv.org/abs/2607.04595
 [^boundary]: Reproduction boundary: no code was executed and no reported result was independently reproduced.

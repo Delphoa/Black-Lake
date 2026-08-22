@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-07-13"
 temporal_cutoff: "2026-07-13"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100"
 stable_identifier: "DEP-20260712-Tech Intel 1100"
 confidence_summary: "Medium: all ten arXiv records were checked, five had inspectable full HTML, and one source-title mismatch was found."
 safety_scope: "non-sensitive research review"
@@ -21,7 +21,7 @@ distribution_notes: "Public URLs only; no paper files were redistributed."
 
 | ID | Source | Authors / Organization | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| S0 | DEP-20260712-Tech Intel 1100 | Delphoa-Labs / automation deposit | Primary source bundle | Markdown repository deposit | Source DEP at `main` | [Source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100) | Repository material; attribution retained | 2026-07-13 | Both deposited Markdown files inspected |
+| S0 | DEP-20260712-Tech Intel 1100 | Delphoa-Labs / automation deposit | Primary source bundle | Markdown repository deposit | Source DEP at `main` | [Source DEP](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100) | Repository material; attribution retained | 2026-07-13 | Both deposited Markdown files inspected |
 | S1 | Ideas Have Genomes | Yifan Zhou et al. | Primary research | arXiv record | arXiv:2607.08758v1 | https://arxiv.org/abs/2607.08758 | License linked on arXiv record | 2026-07-13 | Abstract and metadata inspected |
 | S2 | BiSCo-LLM | Yuantian Shao et al. | Primary research | arXiv HTML | arXiv:2607.08643v1 | https://arxiv.org/abs/2607.08643 | Creative Commons link visible on record | 2026-07-13 | Full HTML sections inspected |
 | S3 | Contravariance Theory | Dan Yamins; Aran Nayebi | Primary research | arXiv record | arXiv:2607.08561v1 | https://arxiv.org/abs/2607.08561 | License linked on arXiv record | 2026-07-13 | Abstract and metadata inspected |
@@ -246,7 +246,7 @@ S1 proposes structured scientific-lineage evaluation and reports 1,961 lineage t
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R0 | [DEP-20260712-Tech Intel 1100](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100) | Original inventory, summaries, and attribution | 2026-07-13 | Primary source bundle; no local path published |
+| R0 | [DEP-20260712-Tech Intel 1100](https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100) | Original inventory, summaries, and attribution | 2026-07-13 | Primary source bundle; no local path published |
 | R1 | [arXiv:2607.08758v1](https://arxiv.org/abs/2607.08758) | IdeaGene-Bench metadata and abstract-level claims | 2026-07-13 | Primary record; abstract inspected |
 | R2 | [arXiv:2607.08643v1](https://arxiv.org/abs/2607.08643) | BiSCo-LLM mechanism, comparisons, accounting, and limitations | 2026-07-13 | Primary record and full HTML inspected |
 | R3 | [arXiv:2607.08561v1](https://arxiv.org/abs/2607.08561) | Contravariance theory summary | 2026-07-13 | Primary record; abstract inspected |

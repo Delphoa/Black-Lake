@@ -29,7 +29,7 @@ The cross-source relationship is not that these papers share one scientific theo
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260629-Tech%20Intel%201104
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Tech%20Intel%201104
   - Applies to: `control-surfaces.md`
   - Notes: Selected source DEP containing the README, digest, and canonical source inventory.
 - Source URL: https://arxiv.org/abs/2606.28061

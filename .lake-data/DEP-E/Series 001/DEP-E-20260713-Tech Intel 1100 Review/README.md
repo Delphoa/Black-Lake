@@ -22,7 +22,7 @@ The manuscript identifies a common reliability layer across otherwise different 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260712-Tech%20Intel%201100
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260712-Tech%20Intel%201100
   - Applies to: `tech-intel-1100-research.md`
   - Notes: Selected source DEP, including its README and daily research findings artifact.
 - Source URL: https://arxiv.org/abs/2607.08758

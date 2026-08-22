@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-13"
 temporal_cutoff: "Selected source DEP dated 2026-06-27; review access through 2026-08-13 UTC"
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md"
 stable_identifier: "DEP-20260627-Tech Intel 0104"
 confidence_summary: "Medium: direct repository files and primary arXiv records were inspected, but no independent reproduction was performed."
 safety_scope: "Defensive evaluation, verification, and authorized research only"
@@ -23,8 +23,8 @@ Public-safe run date: 2026-08-14. Exact local execution timestamp withheld. The 
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected DEP README | Primary source package record | Markdown | DEP-20260627-Tech Intel 0104 | [Public repository path](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md) | Repository-public; no separate license claim used | 2026-08-13 | Inspected |
-| S2 | Selected daily findings | Primary source package artifact | Markdown | 2026-06-27 findings record | [Public repository path](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) | Repository-public; source-recorded run context not reproduced as local provenance | 2026-08-13 | Inspected |
+| S1 | Selected DEP README | Primary source package record | Markdown | DEP-20260627-Tech Intel 0104 | [Public repository path](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md) | Repository-public; no separate license claim used | 2026-08-13 | Inspected |
+| S2 | Selected daily findings | Primary source package artifact | Markdown | 2026-06-27 findings record | [Public repository path](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) | Repository-public; source-recorded run context not reproduced as local provenance | 2026-08-13 | Inspected |
 | S3 | Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions | Primary research record | arXiv HTML and abstract | arXiv:2606.25396v1 | [arXiv](https://arxiv.org/abs/2606.25396) | Preprint; no independent reproduction | 2026-08-13 | Full HTML inspected |
 | S4 | BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases | Primary research record | arXiv HTML and abstract | arXiv:2606.24883v1 | [arXiv](https://arxiv.org/abs/2606.24883) | Preprint; data/code release claim not independently checked | 2026-08-13 | Full HTML inspected |
 | S5 | Agentic Symbolic Search: Characterizing PDEs Beyond Hand-crafted Expressions, Meshes, and Neural Networks | Primary research record | arXiv HTML and abstract | arXiv:2606.20467v1 | [arXiv](https://arxiv.org/abs/2606.20467) | Preprint; five-case evaluation | 2026-08-13 | Full HTML inspected |
@@ -268,8 +268,8 @@ This is an initial processing pass. No prior same-family Report-Mark, output log
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
 | R1 | [Black-Lake-Data README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/README.md) | Source repository layout and DEP deposition rules | 2026-08-13 | Authority source read before review; not empirical evidence |
-| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/README.md) | Package identity, tags, inventory, and source attribution | 2026-08-13 | Public repository path: Black-Lake-Data/.lake-data/DEP-20260627-Tech Intel 0104/README.md |
-| R3 | [Selected DEP findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) | Ten ranked findings, relevance notes, and canonical URLs | 2026-08-13 | Public repository path; source-recorded local run context not reproduced |
+| R2 | [Selected DEP README](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/README.md) | Package identity, tags, inventory, and source attribution | 2026-08-13 | Public repository path: Black-Lake-Data/.lake-data/DEP-20260627-Tech Intel 0104/README.md |
+| R3 | [Selected DEP findings](https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260627-Tech%20Intel%200104/daily_research_findings_2026-06-27_0104.md) | Ten ranked findings, relevance notes, and canonical URLs | 2026-08-13 | Public repository path; source-recorded local run context not reproduced |
 | R4 | [Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions](https://arxiv.org/abs/2606.25396) | E3; TSJ design, risk dimensions, simulated interactions, and longitudinal findings | 2026-08-13 | v1 preprint; full HTML inspected |
 | R5 | [BenchX](https://arxiv.org/abs/2606.24883) | E4; 85,355 scans, six cohorts, metadata pipeline, and subgroup evaluation | 2026-08-13 | v1 preprint; full HTML inspected |
 | R6 | [Agentic Symbolic Search](https://arxiv.org/abs/2606.20467) | E5; five PDE cases, constraints, hidden references, and search limits | 2026-08-13 | v1 preprint; full HTML inspected |

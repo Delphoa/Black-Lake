@@ -24,6 +24,6 @@ This DEP-E converts `Black-Lake-Data/.lake-data/DEP-20260804-Tech Intel 0102` in
 - Source URL: https://www.nature.com/articles/s41591-026-04497-1
   - Applies to: `health-system-lear-6378.md`.
   - Notes: Full-text HTML inspected when accessible; no source file was collected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260804-Tech%20Intel%200102
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260804-Tech%20Intel%200102
   - Applies to: `health-system-lear-6378.md` and this README.
   - Notes: Selected source DEP and repository provenance; source files were not copied into this entry.

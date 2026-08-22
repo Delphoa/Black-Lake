@@ -23,13 +23,13 @@ The central relationship is that reliable systems make consequential boundaries 
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260717-Tech%20Intel%201105
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105
   - Applies to: `auditable-boundaries.md`
   - Notes: Public selected-DEP directory referenced in manuscript front matter.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/README.md
   - Applies to: `auditable-boundaries.md`
   - Notes: Selected source DEP identity, inventory, and original attribution.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260717-Tech%20Intel%201105/daily_research_findings_2026-07-17_1105.md
   - Applies to: `auditable-boundaries.md`
   - Notes: Selected source synthesis and primary-source discovery map.
 - Source URL: https://arxiv.org/abs/2607.13332

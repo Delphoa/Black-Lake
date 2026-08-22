@@ -57,13 +57,13 @@ The paper's durable contribution is a reusable architectural pattern: replace de
 - Source URL: https://arxiv.org/abs/2201.03230
   - Applies to: `hypercomplex_mri_manuscript.md`
   - Notes: Primary methodological context for SwinMR.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%200105/daily_research_findings_2026-07-07_0105.md
   - Applies to: `hypercomplex_mri_manuscript.md`
   - Notes: Related DEP entry; finding 9 summarizes self-auditing accelerated knee MRI reconstruction.
 - Source URL: https://arxiv.org/abs/2607.02428
   - Applies to: `hypercomplex_mri_manuscript.md`
   - Notes: Primary source named by the related self-auditing MRI DEP finding.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260707-Tech%20Intel%201103/daily_research_findings_2026-07-07_1103.md
   - Applies to: `hypercomplex_mri_manuscript.md`
   - Notes: Related DEP entry; finding 4 summarizes structure-aware splitting and hidden stratification in medical imaging.
 - Source URL: https://arxiv.org/abs/2607.02055

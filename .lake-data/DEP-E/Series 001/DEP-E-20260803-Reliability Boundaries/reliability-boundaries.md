@@ -8,7 +8,7 @@ reviewer: "Codex"
 schema_version: "2026-07-07-expanded"
 source_access_date: "2026-08-03"
 temporal_cutoff: "The selected source package was deposited 2026-07-24; primary records were reviewed through 2026-08-03."
-primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md"
+primary_url: "https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md"
 stable_identifier: "DEP-20260724-Tech Intel 1305; DEP-E-20260803-Reliability Boundaries"
 confidence_summary: "High for source identity and reported metrics; medium for cross-source synthesis; low for unreplicated transfer or deployment claims."
 safety_scope: "Defensive, evaluation-only, non-diagnostic, and nonbinding research translation."
@@ -21,8 +21,8 @@ distribution_notes: "No source PDFs, datasets, code archives, credentials, priva
 
 | ID | Source | Role | Type | Identifier / Version | URL / Repository-Relative Path | License / Usage Notes | Access Date | Status |
 |---|---|---|---|---|---|---|---|---|
-| S1 | Selected source DEP README | Primary source package manifest | Markdown | DEP-20260724-Tech Intel 1305 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md | Public repository text; source files not collected | 2026-08-03 | Inspected |
-| S2 | Selected source findings | Primary source package artifact | Markdown | daily_research_findings_2026-07-24_1305.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md | Public repository text; source files not collected | 2026-08-03 | Inspected |
+| S1 | Selected source DEP README | Primary source package manifest | Markdown | DEP-20260724-Tech Intel 1305 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md | Public repository text; source files not collected | 2026-08-03 | Inspected |
+| S2 | Selected source findings | Primary source package artifact | Markdown | daily_research_findings_2026-07-24_1305.md | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md | Public repository text; source files not collected | 2026-08-03 | Inspected |
 | S3 | GKR-HND | Primary paper | arXiv record | arXiv:2607.21162v1 | https://arxiv.org/abs/2607.21162 | No source file collected | 2026-08-03 | Abstract and metadata inspected |
 | S4 | Cue-anchored working memory | Primary paper | arXiv HTML and record | arXiv:2607.20972v1 | https://arxiv.org/abs/2607.20972 | No source file collected | 2026-08-03 | Full HTML inspected |
 | S5 | ARA causal pipelines | Primary paper | arXiv HTML and record | arXiv:2607.21173v1 | https://arxiv.org/abs/2607.21173 | No source file collected | 2026-08-03 | Full HTML inspected |
@@ -226,15 +226,15 @@ Initial processing note: No prior Black-Lake DEP Class artifact, output log, sou
 | Agent-guided concept discovery | Direct primary source | Concept grounding, interpretability, and intraoperative shift; new in this pass | https://arxiv.org/abs/2607.21437 |
 | Faster IndexTTS-2 | Direct primary source | TensorRT acceleration, streaming, batching, and quality trade-offs; new in this pass | https://arxiv.org/abs/2607.21042 |
 | Neutral-atom quantum plan | Direct primary source | Correctness, classical comparison, scaling, and hardware-software-networking roadmap; new in this pass | https://arxiv.org/abs/2607.21554 |
-| Selected source DEP | Source package | Continuity context, original inventory, and public provenance | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/DEP-20260724-Tech%20Intel%201305 |
-| Selected source findings | Source package artifact | Ten-finding synthesis and original source-reference inventory | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md |
+| Selected source DEP | Source package | Continuity context, original inventory, and public provenance | https://github.com/Delphoa-Labs/Black-Lake-Data/tree/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305 |
+| Selected source findings | Source package artifact | Ten-finding synthesis and original source-reference inventory | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md |
 
 ## Source References
 
 | ID | Reference | Supports | Access Date | Notes |
 |---|---|---|---|---|
-| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/README.md | Selected DEP manifest, tags, contents, source boundary, and attribution | 2026-08-03 | Primary repository-relative source |
-| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md | Ten findings, original summaries, source roles, URLs, and stated limitations | 2026-08-03 | Primary repository-relative source |
+| R1 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/README.md | Selected DEP manifest, tags, contents, source boundary, and attribution | 2026-08-03 | Primary repository-relative source |
+| R2 | https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260724-Tech%20Intel%201305/daily_research_findings_2026-07-24_1305.md | Ten findings, original summaries, source roles, URLs, and stated limitations | 2026-08-03 | Primary repository-relative source |
 | R3 | https://arxiv.org/abs/2607.21162 | E2: GKR-HND protocol and assumptions | 2026-08-03 | v1; abstract/metadata inspected |
 | R4 | https://arxiv.org/abs/2607.20972 | E3: cue-anchored memory model and evaluation | 2026-08-03 | v1; full HTML inspected |
 | R5 | https://arxiv.org/abs/2607.21173 | E4: ARA protocol, SCM data, adversarial validation, and failure modes | 2026-08-03 | v1; full HTML inspected |

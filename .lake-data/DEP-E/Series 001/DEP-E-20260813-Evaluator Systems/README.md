@@ -25,10 +25,10 @@ The source bundle links formal proof certificates, outcome-graded agent research
 
 ## Attribution Block
 
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/README.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/README.md
   - Applies to: `evaluator-systems.md` and this README.
   - Notes: Selected source DEP manifest, inventory, source roles, and attribution boundary.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260805-Tech%20Intel%201109/daily_research_findings_2026-08-05_1109.md
   - Applies to: `evaluator-systems.md`.
   - Notes: Selected source DEP findings artifact and ten-item research scope.
 - Source URL: https://openai.com/index/ten-advances-in-mathematics/

@@ -162,6 +162,6 @@ def release_gate(base, distilled, limits):
 - Repository path: `.lake-data/DEP-E/DEP-E-20260709-BA-LoRA Bias/ba-lora-bias-manuscript.md`
   - Applies to: output-space distillation, robustness, drift, bias, and LoRA synthesis.
   - Notes: Existing Black Lake DEP manuscript inspected.
-- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md
+- Source URL: https://github.com/Delphoa-Labs/Black-Lake-Data/blob/main/.lake-data/Series/AA/AA/00/00/AA-AA00-0000/DEP-20260629-Tech%20Intel%201104/daily_research_findings_2026-06-29_1104.md
   - Applies to: topology-aware teacher/student partitioning synthesis.
   - Notes: Existing Black-Lake-Data DEP finding inspected; primary basis https://arxiv.org/abs/2606.27797.
